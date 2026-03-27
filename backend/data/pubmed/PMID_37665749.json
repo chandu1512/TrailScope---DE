@@ -1,0 +1,29 @@
+{
+  "pmid": "37665749",
+  "title": "Development of a binary classifier model from extended facial codes toward video-based pain recognition in cancer patients.",
+  "abstract": "OBJECTIVES: The Automatic Pain Assessment (APA) relies on the exploitation of objective methods to evaluate the severity of pain and other pain-related characteristics. Facial expressions are the most investigated pain behavior features for APA. We constructed a binary classifier model for discriminating between the absence and presence of pain through video analysis.\nMETHODS: A brief interview lasting approximately two-minute was conducted with cancer patients, and video recordings were taken during the session. The Delaware Pain Database and UNBC-McMaster Shoulder Pain dataset were used for training. A set of 17 Action Units (AUs) was adopted. For each image, the OpenFace toolkit was used to extract the considered AUs. The collected data were grouped and split into train and test sets: 80\u202f% of the data was used as a training set and the remaining 20\u202f% as the validation set. For continuous estimation, the entire patient video with frame prediction values of 0 (no pain) or 1 (pain), was imported into an annotator (ELAN 6.4). The developed Neural Network classifier consists of two dense layers. The first layer contains 17 nodes associated with the facial AUs extracted by OpenFace for each image. The output layer is a classification label of \"pain\" (1) or \"no pain\" (0).\nRESULTS: The classifier obtained an accuracy of \u223c94\u202f% after about 400 training epochs. The Area Under the ROC curve (AUROC) value was approximately 0.98.\nCONCLUSIONS: This study demonstrated that the use of a binary classifier model developed from selected AUs can be an effective tool for evaluating cancer pain. The implementation of an APA classifier can be useful for detecting potential pain fluctuations. In the context of APA research, further investigations are necessary to refine the process and particularly to combine this data with multi-parameter analyses such as speech analysis, text analysis, and data obtained from physiological parameters.",
+  "authors": [
+    "Cascella Marco",
+    "Vitale Vincenzo Norman",
+    "Mariani Fabio",
+    "Iuorio Manuel",
+    "Cutugno Francesco"
+  ],
+  "journal": "Scandinavian journal of pain",
+  "publication_date": "2023 Oct",
+  "doi": "10.1515/sjpain-2023-0011",
+  "mesh_terms": [
+    "Humans",
+    "Pain",
+    "Neoplasms"
+  ],
+  "keywords": [
+    "artificial intelligence",
+    "automatic pain assessment",
+    "binary classifier model",
+    "cancer pain",
+    "pain"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37665749/",
+  "search_category": "Delaware cancer epidemiology"
+}

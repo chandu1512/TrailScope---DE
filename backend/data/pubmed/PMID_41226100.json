@@ -1,0 +1,25 @@
+{
+  "pmid": "41226100",
+  "title": "Validation of a Dermatology-Focused Multimodal Large Language Model in Classification of Pigmented Skin Lesions.",
+  "abstract": "Background: Artificial intelligence (AI) has shown significant promise in augmenting diagnostic capabilities across medical specialties. Recent advancements in generative AI allow for synthesis and interpretation of complex clinical data including imaging and patient history to assess disease risk. Objective: To evaluate the diagnostic performance of a dermatology-trained multimodal large language model (DermFlow, Delaware, USA) in assessing malignancy risk of pigmented skin lesions. Methods: This retrospective study utilized data from 59 patients with 68 biopsy-proven pigmented skin lesions seen at Indiana University clinics from February 2023 to May 2025. De-identified patient histories and clinical images were input into DermFlow, and clinical images only were input into Claude Sonnet 4 (Claude) to generate differential diagnoses. Clinician pre-operative diagnoses were extracted from the clinical note. Assessments were compared to histopathologic diagnoses (gold standard). Results: Among 68 clinically concerning pigmented lesions, DermFlow achieved 47.1% top diagnosis accuracy and 92.6% any-diagnosis accuracy, with F1 = 0.948, sensitivity 93.9%, and specificity 89.5% (balanced accuracy 91.7%). Claude had 8.8% top diagnosis and 73.5% any-diagnosis accuracy, F1 = 0.816, sensitivity 81.6%, specificity 52.6% (balanced accuracy 67.1%). Clinicians achieved 38.2% top diagnosis and 72.1% any-diagnosis accuracy, F1 = 0.776, sensitivity 67.3%, specificity 84.2% (balanced accuracy 75.8%). DermFlow recommended biopsy in 95.6% of cases vs. 82.4% for Claude, with multiple pairwise differences favoring DermFlow (p < 0.05). Conclusions: DermFlow demonstrated comparable or superior diagnostic performance to clinicians and superior performance to Claude in evaluating pigmented skin lesions. Although additional data must be gathered to further validate the model in real clinical settings, these initial findings suggest potential utility for dermatology-trained AI models in clinical practice, particularly in settings with limited dermatologist availability.",
+  "authors": [
+    "Mijares Joshua",
+    "Jairath Neil",
+    "Zhang Andrew",
+    "Que Syril Keena T"
+  ],
+  "journal": "Diagnostics (Basel, Switzerland)",
+  "publication_date": "2025 Nov",
+  "doi": "10.3390/diagnostics15212808",
+  "mesh_terms": [],
+  "keywords": [
+    "artificial intelligence",
+    "dermatology",
+    "machine learning",
+    "melanoma",
+    "multimodal large language model",
+    "skin cancer"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41226100/",
+  "search_category": "Delaware cancer epidemiology"
+}

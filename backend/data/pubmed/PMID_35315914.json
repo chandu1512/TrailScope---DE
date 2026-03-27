@@ -1,0 +1,40 @@
+{
+  "pmid": "35315914",
+  "title": "Validation of a Population-Based Data Source to Examine National Cancer Clinical Trial Participation.",
+  "abstract": "IMPORTANCE: The Centers for Medicare & Medicaid Services requires health care organizations to report the National Clinical Trial (NCT) identifier on claims for items and services related to clinical trials that qualify for coverage. This same NCT identifier is used to identify clinical trials in the ClinicalTrials.gov registry. If linked, this information could facilitate population-based analyses of clinical trial participation and outcomes.\nOBJECTIVE: To evaluate the validity of a linkage between fee-for-service (FFS) Medicare claims and ClinicalTrials.gov through the NCT identifier for patients with cancer enrolled in clinical trials.\nDESIGN, SETTING, AND PARTICIPANTS: This cohort study included 2 complementary retrospective analyses for a validation assessment. First, billing data from 3 health care institutions were used to estimate the missingness of the NCT identifier in claims by calculating the proportion of known participants in cancer clinical trials with no NCT identifier on any submitted Medicare claims. Second, the Surveillance Epidemiology and End Results-Medicare data set, which includes a subset of all FFS Medicare beneficiaries for whom health insurance claims are linked with cancer registry data, was used to identify adult patients diagnosed with cancer between 2006 and 2015 with an NCT identifier in claims corresponding to an interventional cancer clinical trial. To estimate the accuracy of the NCT identifier when present, the proportion of NCT identifiers that corresponded to trials that were aligned with the patients' known primary or secondary diagnoses was calculated. Data were analyzed from March 2020 to March 2021.\nEXPOSURES: An NCT identifier present in Medicare claims.\nMAIN OUTCOMES AND MEASURES: The main outcome was participating in a clinical trial relevant to patient's cancer diagnosis.\nRESULTS: A total of 1\u202f171\u202f816 patients were included in analyses. Across the 3 participating institutions, there were 5061 Medicare patients enrolled in a clinical trial, including 3797 patients (75.0%) with an NCT identifier on at least 1 billing claim that matched the clinical trial on which the patient was participating. Among 1\u202f171\u202f816 SEER-Medicare patients, 29\u202f138 patients (2.5%) had at least 1 claim with a value entered in the NCT identifier field corresponding to 32\u202f950 unique patient-NCT identifier pairs. There were 26\u202f694 pairs (81.0%) with an NCT identifier corresponding to a clinical trial registered in ClinicalTrials.gov, of which 10\u202f170 pairs (38.1%) were interventional cancer clinical trials. Among these, 9805 pairs (96.4%) were considered appropriate.\nCONCLUSIONS AND RELEVANCE: In this cohort study, this data linkage provided a novel data source to study clinical trial enrollment patterns among Medicare patients with cancer on a population level. The presence of the NCT identifiers in claims for Medicare patients participating in clinical trials is likely to improve over time with increasing adherence with the Centers for Medicare & Medicaid Services mandate.",
+  "authors": [
+    "Green Angela K",
+    "Tabatabai Sara M",
+    "Bai Xing",
+    "Mishra Meza Akriti",
+    "Lesny Anne-Marie",
+    "Aghajanian Carol",
+    "Landgren Ola",
+    "Riely Gregory J",
+    "Sabbatini Paul",
+    "Salner Andrew",
+    "Lipkin Scott",
+    "Ip Andrew",
+    "Bach Peter B",
+    "Begg Colin B",
+    "Mailankody Sham",
+    "Lipitz-Snyderman Allison"
+  ],
+  "journal": "JAMA network open",
+  "publication_date": "2022 Mar",
+  "doi": "10.1001/jamanetworkopen.2022.3687",
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Cohort Studies",
+    "Humans",
+    "Information Storage and Retrieval",
+    "Medicare",
+    "Neoplasms",
+    "Retrospective Studies",
+    "United States"
+  ],
+  "keywords": [],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35315914/",
+  "search_category": "Cancer clinical trial enrollment barriers"
+}

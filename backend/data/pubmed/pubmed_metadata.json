@@ -1,0 +1,67 @@
+{
+  "collection_date": "2026-03-26T16:29:49.589149",
+  "total_unique_articles": 937,
+  "queries": [
+    {
+      "name": "Delaware cancer epidemiology",
+      "description": "Any published research specifically about cancer in Delaware",
+      "max_results": 200
+    },
+    {
+      "name": "Delaware breast cancer TNBC",
+      "description": "Delaware-specific breast cancer and TNBC research",
+      "max_results": 100
+    },
+    {
+      "name": "TNBC clinical trials outcomes",
+      "description": "Recent TNBC clinical trial results \u2014 directly relevant to Delaware's #1 TNBC ranking",
+      "max_results": 150
+    },
+    {
+      "name": "Immunotherapy cancer trials outcomes",
+      "description": "Latest checkpoint inhibitor trial results with survival data",
+      "max_results": 150
+    },
+    {
+      "name": "Colorectal cancer screening disparities",
+      "description": "Screening disparities in CRC \u2014 relevant to Delaware's racial disparities",
+      "max_results": 100
+    },
+    {
+      "name": "Lung cancer biomarker testing",
+      "description": "Delaware has not mandated biomarker testing coverage for lung cancer",
+      "max_results": 100
+    },
+    {
+      "name": "Prostate cancer racial disparities",
+      "description": "Relevant to Delaware's significantly higher prostate cancer mortality among Black men",
+      "max_results": 100
+    },
+    {
+      "name": "Cancer clinical trial enrollment barriers",
+      "description": "Research on why patients don't find or join trials \u2014 the core problem TrialScope solves",
+      "max_results": 100
+    },
+    {
+      "name": "ADC breast cancer Enhertu Trodelvy",
+      "description": "Latest ADC results \u2014 Trodelvy is specifically for metastatic TNBC",
+      "max_results": 100
+    },
+    {
+      "name": "Cancer geographic hotspot analysis",
+      "description": "Methods for geographic cancer analysis \u2014 similar to Delaware's tract-level studies",
+      "max_results": 50
+    }
+  ],
+  "articles_by_category": {
+    "Delaware cancer epidemiology": 149,
+    "TNBC clinical trials outcomes": 150,
+    "Immunotherapy cancer trials outcomes": 147,
+    "Colorectal cancer screening disparities": 51,
+    "Lung cancer biomarker testing": 100,
+    "Prostate cancer racial disparities": 99,
+    "Cancer clinical trial enrollment barriers": 100,
+    "ADC breast cancer Enhertu Trodelvy": 94,
+    "Cancer geographic hotspot analysis": 47
+  }
+}

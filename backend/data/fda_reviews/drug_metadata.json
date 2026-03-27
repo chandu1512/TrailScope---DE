@@ -1,0 +1,176 @@
+{
+  "collection_date": "2026-03-26T16:31:21.321177",
+  "total_drugs": 12,
+  "drugs": [
+    {
+      "brand_name": "Keytruda",
+      "generic_name": "pembrolizumab",
+      "cancer_types": [
+        "melanoma",
+        "lung cancer",
+        "colorectal cancer",
+        "breast cancer",
+        "head and neck cancer"
+      ],
+      "manufacturer": "Merck",
+      "approval_year": 2014,
+      "description": "PD-1 blocking antibody (checkpoint inhibitor). One of the most widely used immunotherapies. Relevant to multiple Delaware cancer types.",
+      "local_filename": "pembrolizumab_label.pdf",
+      "downloaded": false,
+      "file_size_bytes": 0
+    },
+    {
+      "brand_name": "Opdivo",
+      "generic_name": "nivolumab",
+      "cancer_types": [
+        "melanoma",
+        "lung cancer",
+        "kidney cancer",
+        "colorectal cancer",
+        "liver cancer"
+      ],
+      "manufacturer": "Bristol-Myers Squibb",
+      "approval_year": 2014,
+      "description": "PD-1 checkpoint inhibitor. Used alone or with ipilimumab for multiple cancers.",
+      "local_filename": "nivolumab_label.pdf",
+      "downloaded": false,
+      "file_size_bytes": 0
+    },
+    {
+      "brand_name": "Ibrance",
+      "generic_name": "palbociclib",
+      "cancer_types": [
+        "breast cancer"
+      ],
+      "manufacturer": "Pfizer",
+      "approval_year": 2015,
+      "description": "CDK4/6 inhibitor for HR+/HER2- metastatic breast cancer. Critical for Delaware's high breast cancer rates.",
+      "local_filename": "palbociclib_label.pdf",
+      "downloaded": false,
+      "file_size_bytes": 0
+    },
+    {
+      "brand_name": "Lynparza",
+      "generic_name": "olaparib",
+      "cancer_types": [
+        "breast cancer",
+        "ovarian cancer",
+        "prostate cancer"
+      ],
+      "manufacturer": "AstraZeneca",
+      "approval_year": 2014,
+      "description": "PARP inhibitor for BRCA-mutated cancers. Relevant to TNBC (Delaware has highest TNBC rate nationally).",
+      "local_filename": "olaparib_label.pdf",
+      "downloaded": false,
+      "file_size_bytes": 0
+    },
+    {
+      "brand_name": "Tagrisso",
+      "generic_name": "osimertinib",
+      "cancer_types": [
+        "lung cancer"
+      ],
+      "manufacturer": "AstraZeneca",
+      "approval_year": 2015,
+      "description": "EGFR tyrosine kinase inhibitor for non-small cell lung cancer. Lung cancer is deadliest of Delaware's 'Big 4'.",
+      "local_filename": "osimertinib_label.pdf",
+      "downloaded": true,
+      "file_size_bytes": 2356458
+    },
+    {
+      "brand_name": "Enhertu",
+      "generic_name": "trastuzumab deruxtecan",
+      "cancer_types": [
+        "breast cancer",
+        "lung cancer",
+        "gastric cancer"
+      ],
+      "manufacturer": "Daiichi Sankyo / AstraZeneca",
+      "approval_year": 2019,
+      "description": "Antibody-drug conjugate for HER2+ cancers. Breakthrough therapy with practice-changing trial results.",
+      "local_filename": "trastuzumab_deruxtecan_label.pdf",
+      "downloaded": true,
+      "file_size_bytes": 2971760
+    },
+    {
+      "brand_name": "Trodelvy",
+      "generic_name": "sacituzumab govitecan",
+      "cancer_types": [
+        "breast cancer",
+        "bladder cancer"
+      ],
+      "manufacturer": "Gilead Sciences",
+      "approval_year": 2020,
+      "description": "Antibody-drug conjugate for metastatic TNBC. Directly relevant to Delaware's #1 national TNBC ranking.",
+      "local_filename": "sacituzumab_govitecan_label.pdf",
+      "downloaded": false,
+      "file_size_bytes": 0
+    },
+    {
+      "brand_name": "Opdualag",
+      "generic_name": "nivolumab and relatlimab",
+      "cancer_types": [
+        "melanoma"
+      ],
+      "manufacturer": "Bristol-Myers Squibb",
+      "approval_year": 2022,
+      "description": "First LAG-3 blocking antibody combo with nivolumab for melanoma.",
+      "local_filename": "nivolumab_and_relatlimab_label.pdf",
+      "downloaded": false,
+      "file_size_bytes": 0
+    },
+    {
+      "brand_name": "Lumakras",
+      "generic_name": "sotorasib",
+      "cancer_types": [
+        "lung cancer"
+      ],
+      "manufacturer": "Amgen",
+      "approval_year": 2021,
+      "description": "First KRAS G12C inhibitor. Targets a mutation previously considered 'undruggable'.",
+      "local_filename": "sotorasib_label.pdf",
+      "downloaded": true,
+      "file_size_bytes": 1181890
+    },
+    {
+      "brand_name": "Xtandi",
+      "generic_name": "enzalutamide",
+      "cancer_types": [
+        "prostate cancer"
+      ],
+      "manufacturer": "Pfizer / Astellas",
+      "approval_year": 2012,
+      "description": "Androgen receptor inhibitor for prostate cancer. Relevant to Delaware's disparity in prostate cancer mortality among Black men.",
+      "local_filename": "enzalutamide_label.pdf",
+      "downloaded": false,
+      "file_size_bytes": 0
+    },
+    {
+      "brand_name": "Stivarga",
+      "generic_name": "regorafenib",
+      "cancer_types": [
+        "colorectal cancer",
+        "liver cancer"
+      ],
+      "manufacturer": "Bayer",
+      "approval_year": 2012,
+      "description": "Multi-kinase inhibitor for metastatic colorectal cancer. Colorectal is one of Delaware's Big 4.",
+      "local_filename": "regorafenib_label.pdf",
+      "downloaded": false,
+      "file_size_bytes": 0
+    },
+    {
+      "brand_name": "Verzenio",
+      "generic_name": "abemaciclib",
+      "cancer_types": [
+        "breast cancer"
+      ],
+      "manufacturer": "Eli Lilly",
+      "approval_year": 2017,
+      "description": "CDK4/6 inhibitor with unique continuous dosing. Used in early-stage HR+/HER2- breast cancer.",
+      "local_filename": "abemaciclib_label.pdf",
+      "downloaded": false,
+      "file_size_bytes": 0
+    }
+  ]
+}

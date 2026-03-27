@@ -1,0 +1,38 @@
+{
+  "pmid": "34328530",
+  "title": "Co-clinical FDG-PET radiomic signature in predicting response to neoadjuvant chemotherapy in triple-negative breast cancer.",
+  "abstract": "PURPOSE: We sought to exploit the heterogeneity afforded by patient-derived tumor xenografts (PDX) to first, optimize and identify robust radiomic features to predict response to therapy in subtype-matched triple negative breast cancer (TNBC) PDX, and second, to implement PDX-optimized image features in a TNBC co-clinical study to predict response to therapy using machine learning (ML) algorithms.\nMETHODS: TNBC patients and subtype-matched PDX were recruited into a co-clinical FDG-PET imaging trial to predict response to therapy. One hundred thirty-one imaging features were extracted from PDX and human-segmented tumors. Robust image features were identified based on reproducibility, cross-correlation, and volume independence. A rank importance of predictors using ReliefF was used to identify predictive radiomic features in the preclinical PDX trial in conjunction with ML algorithms: classification and regression tree (CART), Na\u00efve Bayes (NB), and support vector machines (SVM). The top four PDX-optimized image features, defined as radiomic signatures (RadSig), from each task were then used to predict or assess response to therapy. Performance of RadSig in predicting/assessing response was compared to SUVmean, SUVmax, and lean body mass-normalized SULpeak measures.\nRESULTS: Sixty-four out of 131 preclinical imaging features were identified as robust. NB-RadSig performed highest in predicting and assessing response to therapy in the preclinical PDX trial. In the clinical study, the performance of SVM-RadSig and NB-RadSig to predict and assess response was practically identical and superior to SUVmean, SUVmax, and SULpeak measures.\nCONCLUSIONS: We optimized robust FDG-PET radiomic signatures (RadSig) to predict and assess response to therapy in the context of a co-clinical imaging trial.",
+  "authors": [
+    "Roy Sudipta",
+    "Whitehead Timothy D",
+    "Li Shunqiang",
+    "Ademuyiwa Foluso O",
+    "Wahl Richard L",
+    "Dehdashti Farrokh",
+    "Shoghi Kooresh I"
+  ],
+  "journal": "European journal of nuclear medicine and molecular imaging",
+  "publication_date": "2022 Jan",
+  "doi": "10.1007/s00259-021-05489-8",
+  "mesh_terms": [
+    "Bayes Theorem",
+    "Breast Neoplasms",
+    "Female",
+    "Fluorodeoxyglucose F18",
+    "Humans",
+    "Neoadjuvant Therapy",
+    "Positron-Emission Tomography",
+    "Reproducibility of Results",
+    "Triple Negative Breast Neoplasms"
+  ],
+  "keywords": [
+    "Co-clinical imaging",
+    "FDG-PET",
+    "Machine learning",
+    "Quantitative imaging",
+    "Radiomics",
+    "Triple-negative breast cancer (TNBC)"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34328530/",
+  "search_category": "TNBC clinical trials outcomes"
+}

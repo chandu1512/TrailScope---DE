@@ -1,0 +1,29 @@
+{
+  "pmid": "41764810",
+  "title": "EASDnet: Empowering human-centered evidence-based medicine through an evidence and attention-based spatial disparity network for discriminative colorectal cancer histopathological screening and attribution.",
+  "abstract": "PURPOSE: Accurate preoperative staging of colorectal cancer is critical to guide treatment decisions, including eligibility for R0 resection, to reduce recurrence and improve patient survival. However, conventional imaging evaluation depends on human experience, leading to subjectivity and diagnostic uncertainty in clinical interpretation. Therefore, an objective, evidence-based quantitative analysis tool is essential to assist clinicians. This study introduces and validates an evidence-based medicine (EBM) deep learning model that addresses these limitations by providing reliable, automated pathological screening from medical images.\nMETHODS: We formulate the novel EASDnet model, an EBM-based deep learning architecture for the discriminative screening of colorectal cancer lesions, which incorporates an evidence and attention-based mechanism to learn subtle morphological differences between cancerous lesions and their surrounding microenvironment. This approach effectively captures inter-class and intra-class discriminative and differentiating features from histopathological data.\nRESULTS: EASDnet is rigorously trained and validated using publicly available image datasets, NCT-100K and LC25000. The proposed model demonstrated robust performance in quantitative colorectal cancer diagnosis. Evaluating EASDnet on the respective datasets confirmed its high discriminative capability, with accuracy scores of 97.76% and 98.52%.\nCONCLUSION: The pathological diagnostic capabilities of EASDnet are superior to the current state-of-the-art methods for determining colorectal cancer status. With its optimized performance in tissue dividing and feature inference, EASDnet is a promising and valuable learning model that can advance objective diagnostic strategies and improve clinical care for patients with colorectal cancer.",
+  "authors": [
+    "Zheng Siming",
+    "Bi Shaowen"
+  ],
+  "journal": "Pathology, research and practice",
+  "publication_date": "2026 May",
+  "doi": "10.1016/j.prp.2026.156418",
+  "mesh_terms": [
+    "Humans",
+    "Colorectal Neoplasms",
+    "Evidence-Based Medicine",
+    "Deep Learning",
+    "Early Detection of Cancer"
+  ],
+  "keywords": [
+    "Artificial Intelligence",
+    "Cancer Screening",
+    "Computer Graphics",
+    "Histopathological Attribution",
+    "Morphological Differences",
+    "Predictive Modelling"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41764810/",
+  "search_category": "Colorectal cancer screening disparities"
+}

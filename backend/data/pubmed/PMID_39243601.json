@@ -1,0 +1,51 @@
+{
+  "pmid": "39243601",
+  "title": "crVDAC3 alleviates ferroptosis by impeding HSPB1 ubiquitination and confers trastuzumab deruxtecan resistance in HER2-low breast cancer.",
+  "abstract": "AIMS: With the wide application of trastuzumab deruxtecan (T-DXd), the survival of HER2-low breast cancer patients is dramatically improved. However, resistance to T-DXd still exists in a subset of patients, and the molecular mechanism remains unclear.\nMETHODS: An in vivo shRNA lentiviral library functional screening was performed to identify potential circular RNA (crRNA) that mediates T-DXd resistance. RNA pull-down, mass spectrometry, RNA immunoprecipitation, and co-immunoprecipitation assays were conducted to investigate the molecular mechanism. Ferroptosis was detected using C11-BODIPY, Liperfluo, FerroOrange staining, glutathione quantification, malondialdehyde quantification, and transmission electron microscopy. Molecular docking, virtual screening, and patient-derived xenograft (PDX) models were used to validate therapeutic agents.\nRESULTS: VDAC3-derived crRNA (crVDAC3) ranked first in functional shRNA library screening. Knockdown of crVDAC3 increased the sensitivity of HER2-low breast cancer cells to T-DXd treatment. Further mechanistic research revealed that crVDAC3 specifically binds to HSPB1 protein and inhibits its ubiquitination degradation, leading to intracellular accumulation and increased levels of HSPB1 protein. Notably, suppression of crVDAC3 dramatically increases excessive ROS levels and labile iron pool accumulation. Inhibition of crVDAC3 induces ferroptosis in breast cancer cells by reducing HSPB1 expression, thereby mediating T-DXd resistance. Through virtual screening and experimental validation, we identified that paritaprevir could effectively bind to crVDAC3 and prevent its interaction with HSPB1 protein, thereby increasing ubiquitination degradation of HSPB1 protein to overcome T-DXd resistance. Finally, we validated the enhanced therapeutic efficacy of T-DXd by paritaprevir in a HER2-low PDX model.\nCONCLUSION: This finding reveals the molecular mechanisms underlying T-DXd resistance in HER2-low breast cancer. Our study provides a new strategy to overcome T-DXd resistance by inhibiting the interaction between crVDAC3 and HSPB1 protein.",
+  "authors": [
+    "Zou Yutian",
+    "Yang Anli",
+    "Chen Bo",
+    "Deng Xinpei",
+    "Xie Jindong",
+    "Dai Danian",
+    "Zhang Jinhui",
+    "Tang Hailin",
+    "Wu Tao",
+    "Zhou Zhigang",
+    "Xie Xiaoming",
+    "Wang Jin"
+  ],
+  "journal": "Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy",
+  "publication_date": "2024 Nov",
+  "doi": "10.1016/j.drup.2024.101126",
+  "mesh_terms": [
+    "Ferroptosis",
+    "Humans",
+    "Breast Neoplasms",
+    "Ubiquitination",
+    "Female",
+    "Trastuzumab",
+    "Drug Resistance, Neoplasm",
+    "Animals",
+    "Mice",
+    "Erb-b2 Receptor Tyrosine Kinases",
+    "RNA, Circular",
+    "HSP27 Heat-Shock Proteins",
+    "Molecular Chaperones",
+    "Cell Line, Tumor",
+    "Xenograft Model Antitumor Assays",
+    "Molecular Docking Simulation",
+    "Heat-Shock Proteins"
+  ],
+  "keywords": [
+    "Breast cancer",
+    "Circular RNA",
+    "Drug resistance",
+    "Ferroptosis",
+    "HER2-low",
+    "Trastuzumab deruxtecan"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39243601/",
+  "search_category": "ADC breast cancer Enhertu Trodelvy"
+}

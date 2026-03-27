@@ -1,0 +1,43 @@
+{
+  "pmid": "38733700",
+  "title": "Screening optimal candidates with operable, early-stage triple-negative breast cancer benefitting from capecitabine maintenance: A post-hoc analysis of the SYSUCC-001 study.",
+  "abstract": "BACKGROUND: To explore whether specific clinicopathological covariates are predictive for a benefit from capecitabine maintenance in early-stage triple-negative breast cancer (TNBC) in the SYSUCC-001\u00a0phase III clinical trial.\nMETHODS: Candidate covariates included age, menstrual status, type of surgery, postoperative chemotherapy regimen, Ki-67 percentage, histologic grade, primary tumor size, lymphovascular invasion, node status, and capecitabine medication. Their nonlinear effects were modeled by restricted cubic spline. The primary endpoint was disease-free survival (DFS). A survival prediction model was constructed using Cox proportional hazards regression analysis.\nRESULTS: All 434 participants (306 in development cohort and 128 in validation cohort) were analyzed. The estimated 5-year DFS in development and validation cohorts were 77.8\u00a0% (95\u00a0% CI, 72.9%-82.7\u00a0%) and 78.2\u00a0% (95\u00a0% CI, 70.9%-85.5\u00a0%), respectively. Age and node status had significant nonlinear effects on DFS. The prediction model constructed using four covariates (node status, lymphovascular invasion, capecitabine maintenance, and age) demonstrated satisfactory calibration and fair discrimination ability, with C-index of 0.722 (95\u00a0% CI, 0.662-0.781) and 0.764 (95\u00a0% CI, 0.668-0.859) in development and validation cohorts, respectively. Moreover, patient classification was conducted according to their risk scores calculated using our model, in which, notable survival benefits were reported in low-risk subpopulations. An easy-to-use online calculator for predicting benefit of capecitabine maintenance was also designed.\nCONCLUSIONS: The evidence-based prediction model can be readily assessed at baseline, which might help decision making in clinical practice and optimize patient stratification, especially for those with low-risk, capecitabine maintenance might be a potential strategy in the early-disease setting.",
+  "authors": [
+    "Duan Fangfang",
+    "Hua Xin",
+    "Bi Xiwen",
+    "Wang Shusen",
+    "Shi Yanxia",
+    "Xu Fei",
+    "Wang Li",
+    "Huang Jiajia",
+    "Yuan Zhongyu",
+    "Huang Yuanyuan"
+  ],
+  "journal": "Breast (Edinburgh, Scotland)",
+  "publication_date": "2024 Aug",
+  "doi": "10.1016/j.breast.2024.103740",
+  "mesh_terms": [
+    "Humans",
+    "Capecitabine",
+    "Triple Negative Breast Neoplasms",
+    "Female",
+    "Middle Aged",
+    "Disease-Free Survival",
+    "Adult",
+    "Antimetabolites, Antineoplastic",
+    "Neoplasm Staging",
+    "Aged",
+    "Proportional Hazards Models",
+    "Age Factors"
+  ],
+  "keywords": [
+    "Capecitabine maintenance",
+    "Disease-free survival",
+    "Ideal patients",
+    "Predicting model",
+    "Triple-negative breast cancer"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38733700/",
+  "search_category": "TNBC clinical trials outcomes"
+}

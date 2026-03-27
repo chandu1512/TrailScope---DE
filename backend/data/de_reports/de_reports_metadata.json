@@ -1,0 +1,117 @@
+{
+  "collection_date": "2026-03-26T16:28:25.315441",
+  "source": "Delaware Division of Public Health",
+  "total_reports": 11,
+  "reports": [
+    {
+      "name": "Cancer Incidence and Mortality in Delaware 2017-2021",
+      "year": "2024",
+      "type": "annual_report",
+      "description": "Latest comprehensive cancer report. All-site and site-specific incidence/mortality rates, trends, and demographic breakdowns.",
+      "source_url": "https://dhss.delaware.gov/dhss/dph/dpc/files/cim2017-2021.pdf",
+      "local_filename": "Cancer_Incidence_and_Mortality_in_Delaware_2017-2021.pdf",
+      "downloaded": true,
+      "file_size_bytes": 73
+    },
+    {
+      "name": "Cancer Incidence and Mortality Data Tables 2017-2021",
+      "year": "2024",
+      "type": "data_tables",
+      "description": "Detailed statistical tables \u2014 rates by cancer type, age, race, sex, county. Essential for multi-modal RAG (table extraction).",
+      "source_url": "https://dhss.delaware.gov/dhss/dph/dpc/files/cim2017-2021datatables.pdf",
+      "local_filename": "Cancer_Incidence_and_Mortality_Data_Tables_2017-2021.pdf",
+      "downloaded": true,
+      "file_size_bytes": 73
+    },
+    {
+      "name": "Small Area-Level Cancer Incidence in Delaware 2017-2021",
+      "year": "2024",
+      "type": "geographic_analysis",
+      "description": "Census tract level cancer rates. Identifies geographic hotspots across the state.",
+      "source_url": "https://dhss.delaware.gov/dhss/dph/dpc/files/smallarea2017-2021.pdf",
+      "local_filename": "Small_Area-Level_Cancer_Incidence_in_Delaware_2017-2021.pdf",
+      "downloaded": true,
+      "file_size_bytes": 73
+    },
+    {
+      "name": "Route 9 Corridor Data Analysis with Delaware Cancer Registry 2025",
+      "year": "2025",
+      "type": "special_analysis",
+      "description": "Analysis of the Route 9 corridor area near Wilmington with historically elevated cancer rates.",
+      "source_url": "https://dhss.delaware.gov/dhss/dph/dpc/files/route9corridordataanalysis2025.pdf",
+      "local_filename": "Route_9_Corridor_Data_Analysis_with_Delaware_Cancer_Registry_2025.pdf",
+      "downloaded": true,
+      "file_size_bytes": 73
+    },
+    {
+      "name": "Cancer Incidence and Mortality in Delaware 2016-2020",
+      "year": "2023",
+      "type": "annual_report",
+      "description": "Previous period report for trend comparison.",
+      "source_url": "https://dhss.delaware.gov/dhss/dph/dpc/files/cim2016-2020.pdf",
+      "local_filename": "Cancer_Incidence_and_Mortality_in_Delaware_2016-2020.pdf",
+      "downloaded": true,
+      "file_size_bytes": 73
+    },
+    {
+      "name": "Census Tract Level Cancer Incidence 2016-2020",
+      "year": "2023",
+      "type": "geographic_analysis",
+      "description": "Census tract analysis for the 2016-2020 period.",
+      "source_url": "https://dhss.delaware.gov/dhss/dph/dpc/files/censustractcancer2016-2020.pdf",
+      "local_filename": "Census_Tract_Level_Cancer_Incidence_2016-2020.pdf",
+      "downloaded": true,
+      "file_size_bytes": 73
+    },
+    {
+      "name": "Colorectal Cancer Data Brief 2016-2020",
+      "year": "2023",
+      "type": "cancer_specific",
+      "description": "Focused analysis on colorectal cancer \u2014 one of Delaware's Big 4.",
+      "source_url": "https://dhss.delaware.gov/dhss/dph/dpc/files/crcbrief2016-2020.pdf",
+      "local_filename": "Colorectal_Cancer_Data_Brief_2016-2020.pdf",
+      "downloaded": true,
+      "file_size_bytes": 73
+    },
+    {
+      "name": "Cancer Incidence and Mortality in Delaware 2011-2015",
+      "year": "2019",
+      "type": "annual_report",
+      "description": "Historical report for long-term trend analysis.",
+      "source_url": "https://dhss.delaware.gov/dhss/dph/dpc/files/cim2011-2015.pdf",
+      "local_filename": "Cancer_Incidence_and_Mortality_in_Delaware_2011-2015.pdf",
+      "downloaded": true,
+      "file_size_bytes": 73
+    },
+    {
+      "name": "Elevated Cancer Rates Census Tracts 2012-2016",
+      "year": "2020",
+      "type": "geographic_analysis",
+      "description": "Identifies census tracts with statistically elevated cancer rates.",
+      "source_url": "https://dhss.delaware.gov/dhss/dph/dpc/files/elevated2012-2016.pdf",
+      "local_filename": "Elevated_Cancer_Rates_Census_Tracts_2012-2016.pdf",
+      "downloaded": true,
+      "file_size_bytes": 73
+    },
+    {
+      "name": "Disparities in Cancer Incidence and Mortality 2010-2014",
+      "year": "2018",
+      "type": "disparity_analysis",
+      "description": "Detailed analysis of cancer disparities by race, ethnicity, age, and geography.",
+      "source_url": "https://dhss.delaware.gov/dhss/dph/dpc/files/disparities2010-2014.pdf",
+      "local_filename": "Disparities_in_Cancer_Incidence_and_Mortality_2010-2014.pdf",
+      "downloaded": true,
+      "file_size_bytes": 73
+    },
+    {
+      "name": "Cancer Incidence and Mortality in Delaware 2010-2014",
+      "year": "2018",
+      "type": "annual_report",
+      "description": "Historical baseline when Delaware ranked 2nd nationally for cancer incidence.",
+      "source_url": "https://dhss.delaware.gov/dhss/dph/dpc/files/cim2010-2014.pdf",
+      "local_filename": "Cancer_Incidence_and_Mortality_in_Delaware_2010-2014.pdf",
+      "downloaded": true,
+      "file_size_bytes": 73
+    }
+  ]
+}

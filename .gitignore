@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# Data (large files — collected locally, stored in S3)
+data/raw_trials/
+data/fda_reviews/
+data/de_reports/
+data/pubmed/
+
+# Keep the data directory structure
+!data/.gitkeep
+!data/raw_trials/.gitkeep
+!data/fda_reviews/.gitkeep
+!data/de_reports/.gitkeep
+!data/pubmed/.gitkeep
+
+# Node
+node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# AWS
+.aws/
+backend/data/raw_trials/all_trials_processed.json
+backend/data/raw_trials/raw_api_responses.json
+backend/data/faiss_index/
+backend/data/embeddings/
