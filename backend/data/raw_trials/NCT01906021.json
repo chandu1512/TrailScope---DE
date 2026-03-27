@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT01906021",
+  "brief_title": "Study of New Software Used During Ablations",
+  "official_title": "Prospective Pilot Observational Study Examining Cone Beam CT and CT Thermometry During Ablations",
+  "brief_summary": "Background:\n\n\\- Ablation is a procedure that heats tumor tissue to a high temperature to destroy it. Doctors perform this procedure by putting a probe in the tumor. This delivers heat to the site. Currently, doctors tell what area is heated by using the probe s manufacturer estimates. These estimates are imprecise. Doctors insert small needles to measure the temperature around the area being heated. Doctors also perform scans of the area, but these cannot show which tissue has been heated and which has not. Right now, only contrast scans can show that. But researchers have developed software that uses images from routine scans to create a temperature map. They want to test the software to see if doctors can monitor the procedure without using more needles and without contrast scans.\n\nObjectives:\n\n\\- To test software that might help doctors perform ablations better in the future.\n\nEligibility:\n\n\\- People over 18 years of age already scheduled to have an ablation.\n\nDesign:\n\n* Participants will be screened with a medical history.\n* Participants will visit the clinic for their already-scheduled ablation. The doctor will use the study software to\n\nanalyze the temperature in the area being heated. The software will not come into contact with a participant s body.\n\n\\- Participants will undergo scans that are necessary for the procedure, but one or two additional scans may be done as part of this study.",
+  "detailed_description": "Background:\n\n* Lack of reliable non-invasive method to monitor ablation zone during radiofrequency or microwave ablation\n* Development of a non-invasive technique to examine temperature changes based on changes in CT or CBCT attenuation\n\nObjectives:\n\n-To measure accuracy of temperature monitoring using non-invasive thermomap (temperature imaging profile) method compared to the currently accepted invasive thermocouples method.\n\nEligibility:\n\n* Subjects are eligible if:\n\n  --They are scheduled in interventional radiology for hepatic radiofrequency or microwave ablation requiring thermocouples for monitoring\n* Subjects are excluded if they have:\n\n  * An altered mental status precluding understanding or consenting for the procedure\n  * A gross body weight exceeding 375 pounds (upper limit of angio table)\n  * A pregnancy\n\nDesign:\n\n* Number of participants: 16\n* Number of sites: 1\n* Recruitment time frame: 2 years\n* Type of study: pilot study to validate an image analysis thermometry technique\n* Patients undergoing clinically indicated hepatic ablations are eligible for this protocol. As part of this study, one to two additional research scans of the liver may be acquired during the ablation and analyzed separately with our software and compared with thermocouple measurements. There will be no changes in devices, probes or additional probe manipulations as part of this study. The operator will not modify the procedure based on results of this software.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 13,
+  "conditions": [
+    "Liver Cancer",
+    "Neoplasms, Liver",
+    "Hepatic Neoplasms",
+    "Hepatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "CT/CBCT thermometry method",
+      "type": "PROCEDURE",
+      "description": "The study consists of acquiring one or maximum two additional CT or CBCT of the liver during hepatic RFA or MWA and analyzing the images to obtain a temperature map"
+    },
+    {
+      "name": "Ablation Probe",
+      "type": "PROCEDURE",
+      "description": "Temperature measured with thermocouples (current clinically approved method consisting of invasive needle placement for point measurement in area of concern)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "* INCLUSION CRITERIA:\n* Subjects must be scheduled for a hepatic radiofrequency or microwave ablation in interventional radiology requiring thermocouples for temperature monitoring. Any patient undergoing a hepatic radiofrequency or microwave ablation could be eligible for this protocol.\n* Must be age 18 years or older.\n\nEXCLUSION CRITERIA:\n\n* Subjects have an altered mental status precluding understanding or consenting to the procedure\n* Subjects have a body weight in excess of 375 lbs.\n* Subject is pregnant",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health Clinical Center, 9000 Rockville Pike",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To measure accuracy of temperature monitoring using non-invasive thermomap (temperature imaging profile) method compared to the currently accepted invasive thermocouples method",
+      "timeFrame": "two years",
+      "description": "Bayesian median estimate will be used."
+    }
+  ],
+  "sponsor": "National Institutes of Health Clinical Center (CC)",
+  "collaborators": [],
+  "start_date": "2013-09-23",
+  "completion_date": "2020-12-08",
+  "last_updated": "2020-12-08"
+}

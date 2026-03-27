@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT00808639",
+  "brief_title": "Dose-Dense MVAC With Pegfilgrastim Support in Subjects With Muscle-Invasive Urothelial Carcinoma",
+  "official_title": "A Phase II Trial of Neoadjuvant Dose-Dense MVAC With Pegfilgrastim Support in Subjects With Muscle-Invasive Urothelial Carcinoma",
+  "brief_summary": "The purpose of this research study is to test the effectiveness of neoadjuvant dose-dense methotrexate, vinblastine, doxorubicin, and cisplatin (ddMVAC) in combination with pegfilgrastim followed by radical surgery in patients with muscle-invasive urothelial carcinoma.",
+  "detailed_description": "* Participants will be given a study infusion schedule for each treatment cycle. Each treatment cycle lasts three weeks. The infusion of methotrexate will take place on the first day of each cycle. Infusions of vinblastine, doxorubicin and cisplatin will take place on the second day and an injection of pegfilgrastim will be given on the third day.\n* During all treatment cycles participants will have a physical exam and will be asked questions about their general health and any problems they might be having and any medications they may be taking.\n* Following completion of study treatment, but before surgery, participants will have an assessment of their tumor by CT scan of the chest and and MRI of the abdomen and pelvis.\n* Following the participants surgery, we would like to keep track of their medical condition indefinitely, or until this study is officially completed. We would like to do this by calling the participants on the telephone once a year to see how they are doing.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 39,
+  "conditions": [
+    "Bladder Cancer",
+    "Muscle-invasive Bladder Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Methotrexate",
+      "type": "DRUG",
+      "description": "intravenously 30mg/m2 over 30 minutes"
+    },
+    {
+      "name": "Doxorubicin",
+      "type": "DRUG",
+      "description": "intravenously 30mg/ms over 15 minutes"
+    },
+    {
+      "name": "vinblastine",
+      "type": "DRUG",
+      "description": "intravenously 3mg/m2 over 30 minutes"
+    },
+    {
+      "name": "cisplatin",
+      "type": "DRUG",
+      "description": "intravenously 70mg/m2 in 1 liter NS with 12.5gm Mannitol over 2 hours after vinblastine completion"
+    },
+    {
+      "name": "Pegfilgrastim",
+      "type": "DRUG",
+      "description": "Given subcutaneously 24 hours after last chemotherapy dose"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologic proof of urothelial cancer. Patients with all histologic subtypes are eligible as long as transitional cell carcinoma is predominant, with the exception of more than a few clusters of small cell carcinoma, which is treated with different chemotherapy and thus are ineligible\n* Patients with primary tumors arising in the bladder or urethra are eligible if they have clinical T2-T4a disease\n* Patients with primary tumors arising in the ureter or renal pelvis are eligible if they have either grade 3 tumors, or radiographic abnormality large enough to be recognized as an abnormal mass by CT/imaging\n* Evaluation by a urologist and be deemed to be acceptable surgical candidates within 3 months of registration\n* Adequate physiologic reserves as outlined in the protocol\n* Clinical or pathologic N1 lymph node involvement (involvement of a single lymph node \\< 2cm in greatest dimension) are eligible. Patients with N2-3 or M1 disease are ineligible\n* Determination of LV function with an EF \\> 50%\n* Women of child-bearing potential must have a negative pregnancy test\n* Patients of child-bearing or father-bearing potential must agree to use an acceptable form of birth control while on the study\n* Patients with prior malignancy are eligible provided that the expected outcome from the prior cancer is such that this will not interfere in the delivery of this therapy, or the assessment of response in the cystectomy specimen\n* 18 years of age or older\n\nExclusion Criteria:\n\n* Current, recent (within 3 weeks), or planned participation with other experimental anti-cancer medications as part of clinical trials\n* Prior treatment with doxorubicin\n* Prior systemic cytoreductive chemotherapy for bladder cancer\n* Blood pressure of \\> 160/100 mmHg. Patients whose blood pressure can be controlled with oral medication are eligible\n* NYHA Grade II or greater congestive heart failure\n* History of myocardial infarction or unstable angina within 6 months prior to study enrollment\n* History of stroke or transient ischemic attack within 6 months prior to study enrollment\n* Clinically significant peripheral vascular disease\n* Evidence of bleeding diathesis or coagulopathy\n* Known history of central nervous system or brain metastases\n* Major surgical procedure, significant traumatic injury within 21 days prior to Day 1, or anticipation of need for major surgical procedure during the course of the study\n* Lactating women\n* Patients who are not candidates for surgery, or unwilling to undergo surgery\n* Patients with significant fluid collection\n* Known hypersensitivity to any component of cisplatin, methotrexate, vinblastine, doxorubicin or pegfilgrastim",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Cancer Institute",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Patients Achieving Pathologic Response",
+      "timeFrame": "After completion of 4 cycles of chemotherapy with pegfilgrastim support (cycle length 2 weeks)",
+      "description": "Pathological response is defined as down-staging to \\</=pT1, N0 after chemotherapy with pegfilgrastim support."
+    }
+  ],
+  "sponsor": "Dana-Farber Cancer Institute",
+  "collaborators": [
+    "Beth Israel Deaconess Medical Center",
+    "Brigham and Women's Hospital",
+    "Amgen"
+  ],
+  "start_date": "2008-12",
+  "completion_date": "2016-09",
+  "last_updated": "2016-09-09"
+}

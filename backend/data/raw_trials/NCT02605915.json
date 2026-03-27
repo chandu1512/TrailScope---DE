@@ -1,0 +1,119 @@
+{
+  "nct_id": "NCT02605915",
+  "brief_title": "Safety and Pharmacokinetics of Atezolizumab Combination Treatments in Participants With HER2-Positive and HER2-Negative Breast Cancer",
+  "official_title": "A Phase Ib, Open-Label Study Evaluating the Safety and Pharmacokinetics of Atezolizumab (Anti-PD-L1 Antibody) in Combination With Trastuzumab Emtansine or With Trastuzumab and Pertuzumab (With and Without Docetaxel) in Patients With HER2-Positive Breast Cancer and Atezolizumab With Doxorubicin and Cyclophosphamide in HER2-Negative Breast Cancer",
+  "brief_summary": "This is a Phase Ib, open-label, two-stage study with two active regimens in each stage designed to evaluate the safety and tolerability of combination treatment with atezolizumab, trastuzumab, and pertuzumab (with and without docetaxel) or atezolizumab and trastuzumab emtansine in participants with human epidermal growth factor receptor 2 (HER2) positive metastatic breast cancer (MBC) and locally advanced early breast cancer (EBC), and atezolizumab with doxorubicin and cyclophosphamide in HER2-negative breast cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 98,
+  "conditions": [
+    "HER2-Positive Metastatic Breast Cancer",
+    "HER2-Negative Metastatic Breast Cancer",
+    "Locally Advanced or Early Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Atezolizumab",
+      "type": "DRUG",
+      "description": "Atezolizumab 1200 milligrams (mg) or 840 mg (Cohort 1E only) flat dose administered via intravenous (IV) infusion on Day 1 of every 21-day cycle."
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Carboplatin will be administered at an initial target of area under the curve (AUC) of 6 milligrams per milliliter\\*min (mg/mL\\*min) via an IV infusion on Day 1 of every 21-days for 6 cycles."
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Docetaxel 75 mg/m\\^2 administered via IV infusion on Day 1 every 21-days for 6 cycles."
+    },
+    {
+      "name": "Pertuzumab",
+      "type": "DRUG",
+      "description": "Pertuzumab 840 mg loading dose then 420 mg administered via IV infusion on Day 1 of every 21-day cycle."
+    },
+    {
+      "name": "Trastuzumab",
+      "type": "DRUG",
+      "description": "Trastuzumab 8 milligram per kilogram (mg/kg) loading dose, then 6 mg/kg administered via IV infusion on Day 1 of every 21-day cycle."
+    },
+    {
+      "name": "Trastuzumab emtansine",
+      "type": "DRUG",
+      "description": "Trastuzumab emtansine 3.6 mg/kg administered via IV infusion on Day 1 of every 21-day cycle. Dose de-escalation may occur for trastuzumab emtansine, from the full trastuzumab emtansine dose at 3.6 mg/kg on Day 1 of every 21-day cycle, potentially to 3.0 mg/kg (Cohort 1C) or 2.4 mg/kg q3w (Cohort 1D)."
+    },
+    {
+      "name": "Doxorubicin",
+      "type": "DRUG",
+      "description": "Doxorubicin will be administered at 60 mg/m\\^2 every 2 weeks as an IV bolus over 3 to 5 minutes or as an infusion over 15 to 30 minutes."
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Cyclophosphamide will be administered at 600 mg/m\\^2 on Day 1 of each 21 day cycle as an IV bolus over 3 to 5 minutes or as an infusion, in accordance with local policy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically documented HER2-positive and HER2-negative (cohort E only) breast cancer\n* Metastatic breast cancer that is measurable (Stage 1) or early breast cancer with a primary tumor size greater than (\\>) 2 centimeter (cm) (Stage 2)\n* Eastern cooperative oncology group (ECOG) performed status of 0, 1 or 2; 0 or 1 (cohort E only)\n* Life expectancy of 12 or more weeks\n* Adequate hematologic and end-organ function\n* Left ventricular ejection fraction greater than or equal to (\\>=) 50 percentage (%); \\>=55% (cohort E only)\n\nExclusion Criteria:\n\n* Known central nervous system (CNS) disease, except for treated asymptomatic CNS metastases\n* Leptomeningeal disease\n* Pregnancy or lactation\n* History of autoimmune disease\n* Prior allogeneic stem cell or solid organ transplantation\n* Positive test for human immunodeficiency virus (HIV)\n* Active hepatitis B or hepatitis C",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "St. Luke's University Health Network",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": ""
+    },
+    {
+      "facility": "Kimmel Cancer Center Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "Magee Womens Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Dose Limiting Toxicities (DLT) - Cohort 1A, 1B, 1C, 1D, 1F",
+      "timeFrame": "Baseline up to Day 21",
+      "description": ""
+    },
+    {
+      "measure": "Percentage of Participants With DLT - Cohort 1E",
+      "timeFrame": "Baseline up to Day 28",
+      "description": ""
+    },
+    {
+      "measure": "Percentage of Participants With Adverse Events (AEs) According to National Cancer Institute Common Terminology Criteria for AEs, Version 4.0 (NCI CTCAE V4.0)",
+      "timeFrame": "Baseline up to approximately 3 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "Hoffmann-La Roche",
+  "collaborators": [],
+  "start_date": "2015-12-31",
+  "completion_date": "2019-11-13",
+  "last_updated": "2020-01-31"
+}

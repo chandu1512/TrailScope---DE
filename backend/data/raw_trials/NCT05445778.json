@@ -1,0 +1,116 @@
+{
+  "nct_id": "NCT05445778",
+  "brief_title": "Mirvetuximab Soravtansine With Bevacizumab Versus Bevacizumab as Maintenance in Platinum-sensitive Epithelial Ovarian, Fallopian Tube, or Peritoneal Cancer",
+  "official_title": "Randomized, Multicenter, Open-label, Phase 3 Study of Mirvetuximab Soravtansine in Combination With Bevacizumab Versus Bevacizumab Alone as Maintenance Therapy for Patients With FR\u03b1-high Recurrent Platinum-sensitive Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancers Who Have Not Progressed After Second Line Platinum-based Chemotherapy Plus Bevacizumab",
+  "brief_summary": "GLORIOSA is a Phase 3 multicenter, open label study designed to evaluate the safety and efficacy of mirvetuximab Soravtansine + Bevacizumab as maintenance therapy in participants with platinum-sensitive ovarian, primary peritoneal or fallopian tube cancers with high folate receptor-alpha (FR\u03b1) expression.",
+  "detailed_description": "Mirvetuximab Soravtansine (MIRV) is an investigational antibody drug conjugate designed to selectively kill cancer cells. The antibody (protein) part of MIRV targets tumors by delivering a cell-killing drug to the tumor cells carrying a tumor-associated protein called folate receptor alpha (FR\u03b1). It is being developed as maintenance therapy for the treatment of subjects with recurrent platinum-sensitive, highgrade epithelial ovarian, primary peritoneal, or fallopian tube cancers with high folate receptor-alpha expression. Patients must have confirmation of FR\u03b1 positivity by the Ventana FOLR1 Assay.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 520,
+  "conditions": [
+    "Ovarian Cancer",
+    "Peritoneal Cancer",
+    "Fallopian Tube Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Mirvetuximab soravtansine plus Bevacizumab",
+      "type": "DRUG",
+      "description": "Participants will receive MIRV 6.0 mg/kg adjusted ideal body weight (AIBW) plus Bevacizumab 15mg/kg every 3 weeks"
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "Participants will receive Bevacizumab 15mg/kg every 3 weeks"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Adult women \\>/=18 years old\n2. Confirmed diagnosis of high-grade serous epithelial ovarian, primary peritoneal, or fallopian tube cancer\n3. Confirmed high FR\u03b1 expression by regulatory-agency approved Ventana FOLR1 (FOLR1-2.1)\n4. Relapsed disease after frontline (first-line) platinum-based chemotherapy and must be plantinum-sensitive\n5. Willing and able to sign the informed consent form (ICF) and adhere to protocol requirements\n6. Negative pregnancy test and willing to use highly effective contraceptive method(s) while on study medication and for at least 7 months after the last dose of MIRV and 6 months after the last dose of bevacizumab\n\nExclusion Criteria:\n\n1. Endometrioid, clear cell, mucinous, or sarconmatous histology; mixed tumors containing any of the above or low grade/borderline ovarian tumor\n2. More than one line of prior chemotherapy before current/planned triplet therapy\n3. PD (progressive disease) while on or following platinum-based therapy\n4. Prior or whole-pelvis or wide-field radiotherapy\n5. \\> Grade 1 peripheral neuropathy\n6. History of or concurrent ocular disorders\n7. Grade 4 thromboembolic events\n8. Not appropriate for bevacizumab treatment\n9. Requiring use of folate-containing supplements\n10. Prior hypersensitivity to monoclonal antibodies\n11. Pregnant or breatfeeding women\n12. Received prior MIRV or other FR\u03b1-targeting agents\n13. Untreated or symptomatic central nervous system metastases\n14. History of other malignancy within 3 years prior to signing study consent",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital /ID# 269579",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "COMPLETED"
+    },
+    {
+      "facility": "Sinai Hospital Of Baltimore /ID# 269567",
+      "city": "Manchester",
+      "state": "Maryland",
+      "zip": "21215",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "facility": "GBMC Cancer Center /ID# 269561",
+      "city": "Towson",
+      "state": "Maryland",
+      "zip": "21204-6831",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "facility": "John Theurer Cancer Center /ID# 269109",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "COMPLETED"
+    },
+    {
+      "facility": "The Valley Hospital /ID# 269548",
+      "city": "Paramus",
+      "state": "New Jersey",
+      "zip": "07652",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "facility": "Holy Name Medical Center /ID# 269543",
+      "city": "Teaneck",
+      "state": "New Jersey",
+      "zip": "07666",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "facility": "University Of Pittsburgh Medical Center Magee - Womens Hospital /ID# 269659",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "COMPLETED"
+    },
+    {
+      "facility": "Allegheny Health Network West Penn Hospital /ID# 269551",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15244",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "facility": "Asplundh Cancer Pavilion /ID# 269574",
+      "city": "Willow Grove",
+      "state": "Pennsylvania",
+      "zip": "19090",
+      "status": "ACTIVE_NOT_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Assess Progression-free survival (PFS)",
+      "timeFrame": "Up to 4 years",
+      "description": "Progression-free survival defined as assessed by BICR per RECIST v1.1, defined as the time from date of randomization until BICR-assessed PD or death due to any cause, whichever occurs first"
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [
+    "GOG Foundation"
+  ],
+  "start_date": "2023-03-15",
+  "completion_date": "2032-05",
+  "last_updated": "2026-02-20"
+}

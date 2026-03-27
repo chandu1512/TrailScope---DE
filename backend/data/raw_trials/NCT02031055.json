@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT02031055",
+  "brief_title": "Study of the Mass Balance of Oral FTD and TPI as Components of TAS-102 in Patients With Advanced Solid Tumors",
+  "official_title": "A Phase 1, Open-label Study to Evaluate the Mass Balance of Orally Administered FTD and TPI as Components of TAS-102 in Patients With Advanced Solid Tumors",
+  "brief_summary": "The purpose of this study is to evaluate, in patients with advanced solid tumors, the mass balance of FTD and TPI after a single dose of TAS-102 with a light tracer dose of \\[14C\\]FTD or \\[14C\\]TPI.",
+  "detailed_description": "This is a Phase 1, open-label study evaluating the mass balance of FTD and TPI after a single dose of TAS-102 with a light tracer dose of \\[14C\\]FTD or \\[14C\\]TPI. The study will be conducted in 2 parts: mass balance part and TAS-102 extension part. After completion of the mass balance part, patients will receive continued treatment with TAS-102 during the study extension part.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 8,
+  "conditions": [
+    "Advanced Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "TAS-102 with a light tracer dose of [14C]FTD",
+      "type": "DRUG",
+      "description": "A single dose of 60 mg TAS-102 with a light tracer dose (200 nCi, approximately 1.2 \u03bcg) of \\[14C\\]FTD administered as an oral solution on Day 1 (mass balance part)"
+    },
+    {
+      "name": "TAS-102 with a light tracer dose of [14C] TPI",
+      "type": "DRUG",
+      "description": "A single dose of 60 mg TAS-102 with a light tracer dose (1000 nCi, approximately 5.6 \u03bcg) of \\[14C\\]TPI administered as an oral solution on Day 1 (mass balance part)"
+    },
+    {
+      "name": "TAS-102 tablets",
+      "type": "DRUG",
+      "description": "35 mg/m2/dose, orally, twice daily on days 1-5 and 8-12 of each 28-day cycle. Number of cycles: until at least one of the discontinuation criteria is met. Treatment starts during study extension part (day 9 of the study)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Has advanced solid tumors (excluding previously treated breast cancer) for which no standard therapy exists\n2. ECOG performance status of 0 or 1\n3. Is able to take medications orally\n4. Has adequate organ function (bone marrow, kidney and liver)\n5. Women of childbearing potential must have a negative pregnancy test and must agree to adequate birth control if conception is possible. Males must agree to adequate birth control.\n\nExclusion Criteria:\n\n1. Has had certain other recent treatment e.g. anticancer therapy, received investigational agent, within the specified time frames prior to study drug administration\n2. Certain serious illnesses or medical condition(s)\n3. Has had either partial or total gastrectomy\n4. Has a medical condition that jeopardizes or impairs ability to collect representative excreta\n5. Has unresolved toxicity of greater than or equal to CTCAE Grade 2 attributed to any prior therapies\n6. Known sensitivity to TAS-102 or its components\n7. Is a pregnant or lactating female\n8. Refuses to use an adequate means of contraception (including male patients)\n9. Is an occupationally exposed worker as defined by relevant ionizing radiation regulations\n10. Has been exposed to 14C in the last 12 months",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsbutgh Cancer Institute",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Urinary, fecal, and respiratory excretion of 14C from FTD and urinary and fecal excretion of 14C from TPI",
+      "timeFrame": "Day 1 through day 8 (through 168 hours postdose)",
+      "description": "Urine and feces samples will be collected at 24-hour intervals through 168 hours postdose. For \\[14C\\]FTD only, samples of CO2 will be trapped from expired air immediately prior to dosing (0 hour) and at 30 minutes, 1, 2, 4, 8, 12, 24, 48, 72, 96, 120, 144, and 168 hours postdose."
+    },
+    {
+      "measure": "PK parameters of total radioactivity (AUC0-inf, AUC0-last, Cmax, Tmax, and T1/2) in whole blood and plasma after a single dose of TAS-102",
+      "timeFrame": "Blood will be collected immediately prior to dosing (0 hour) and at 30 minutes, 1, 2, 4, 8, 12, 24, 48, 72, 96, 120, 144 and 168 hours postdose",
+      "description": ""
+    },
+    {
+      "measure": "Metabolic profile of FTD and TPI in plasma, urine, and feces",
+      "timeFrame": "Blood will be collected immediately prior to dosing (0 hour) and at 30 minutes, 1, 2, 4, 8, 12, 24, 48, 72, 96, 120, 144 and 168 hours postdose. Urine and feces samples will be collected at 24-hour intervals through 168 hours postdose.",
+      "description": "Characterization of FTD and TPI metabolites"
+    },
+    {
+      "measure": "PK parameters of FTD, FTY, and TPI in plasma (Cmax, Tmax, AUC0-last, AUC0-inf, T1/2, CL/F, and Vd/F)",
+      "timeFrame": "Blood will be collected immediately prior to dosing (0 hour) and at 30 minutes, 1, 2, 4, 8, 12, 24, 48, 72, 96, 120, 144 and 168 hours postdose.",
+      "description": "Cmax, Tmax, AUC0-last, AUC0-inf, and T1/2 will be calculated for each analyte, and CL/F and Vd/F will be calculated for FTD and TPI"
+    }
+  ],
+  "sponsor": "Taiho Oncology, Inc.",
+  "collaborators": [],
+  "start_date": "2014-02",
+  "completion_date": "2015-06-17",
+  "last_updated": "2024-08-30"
+}

@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT02251782",
+  "brief_title": "Adherence to Minimally Invasive Testing",
+  "official_title": "Adherence to Minimally Invasive CRC Screening In Non-Adherent Patients Who Have Not Completed Colorectal Cancer Screening",
+  "brief_summary": "Colorectal cancer (CRC) screening has been demonstrated to reduce long term disease burden and costs. Unfortunately, less than 65 % of age-eligible persons in the US are actually screened for CRC. The leading methods, colonoscopy and FIT (fecal immunochemical test) testing, both have patient-associated barriers that reduce their use. The combination of bowel preparation and procedure time are barriers to colonoscopy, while stool handling as part of the sampling protocol reduces FIT usage.\n\nIt has been hypothesized and supported by a variety of preference studies that the availability of a blood-based assay for CRC screening would increase patient participation and adherence to CRC screening by reducing barriers that prevent participation.\n\nThis study is designed to investigate the relative participation in CRC screening in average risk, screening eligible patients with demonstrated non-adherence to guideline-recommended screening modalities. Participation with the fecal immunochemical test (FIT) and the blood-based Epi proColon\u00ae test will be examined. Screening eligible average-risk patients identified as non-adherent by medical record will be eligible for the study. Potential subjects will be recruited to participate in a study via mailing and/or at a clinic visit. All study subjects will be enrolled at a clinic visit and will be randomized in two study arms. Those assigned to Arm 1 will be offered a FIT test kit for home use. Those assigned to Arm 2 will be offered a blood draw for the Epi proColon test. Rates of adherence will be compared between those that accept and complete the blood test and those that accept and complete the FIT test. A passive control, usual care arm will comprise subjects meeting eligibility criteria, but not recruited for or participating in the study.\n\nIn conjunction with published data (Johnson et al, 2014), the relative utilization of the blood test will be compared to the screening participation via FIT. Increased participation with the Epi proColon blood test could increase screening rates in the non-adherent population. Additionally, for those testing positive in the trial, the rate of adherence to colonoscopy will be determined.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 490,
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Epi proColon Test",
+      "type": "DEVICE",
+      "description": "Subjects assigned to the Epi proColon arm will receive information on the Epi proColon test outlined in a template script. They will then be offered a blood draw for Epi proColon testing. The blood draw can be fulfilled at the clinic or at a specified blood draw station, at the convenience of the patient. Epi proColon plasma samples will be sent to a central laboratory for testing. If no test result is recorded within 4 weeks, patients will be mailed a reminder to complete testing. If no result is recorded within 2 weeks of the mailed reminder, subjects will be recorded as non-adherent to screening. Subjects with negative test results will be mailed a notice of result and reminder to continue screening. Subjects with positive tests will be contacted and counseled to undergo colonoscopy."
+    },
+    {
+      "name": "Fecal Immunochemical Test (FIT)",
+      "type": "DEVICE",
+      "description": "Subjects assigned to the FIT arm will receive information on the FIT test outlined in a template script. They will then be provided a FIT kit to take home and asked to send a stool sample to the testing lab following the kit instructions. If no test result is recorded within 4 weeks, subjects will receive a mailed reminder to complete testing. If no result is recorded within 2 weeks of the mailed reminder, subjects will be recorded as non-adherent to screening. Subjects with negative test results will be mailed a notice of result and reminder to continue screening. Subjects with positive tests will be contacted and counseled to undergo colonoscopy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 50 years of age or greater, but less than 76 years old\n* Has not completed recommended screening for colonoscopy or FIT\n\n  * No colonoscopy in previous 10 years\n  * No fecal occult blood test (FOBT) or FIT in previous year and/or \\> 13 months late FIT\n* No flexible sigmoidoscopy in previous 5 years\n* Verifiable offer of screening recommendation according to health system standard in at least two independent interactions and a verifiable lack of adherence for two most recent\n* Verifiable lack of adherence for \\>3 months following last screening recommendation\n* Primary Care Provider (PCP) has agreed to refer patients for consideration of enrollment in the study\n* Subject able to understand and sign written informed consent (IC)\n\nExclusion Criteria:\n\n* Family history of CRC in a first-degree relative\n* Personal history of colonic adenomatous polyps, CRC or inflammatory bowel disease\n* Symptoms for which colonoscopy or sigmoidoscopy would otherwise be performed (hematochezia, new onset diarrhea or constipation, abdominal pain)\n* Comorbid illness precluding endoscopic evaluation (coronary artery disease with myocardial infarction within 6 months, unstable angina or congestive heart failure, chronic obstructive pulmonary disease requiring home oxygen, other diseases that limit life expectancy to less than 10 years)\n* Chronic gastritis, pregnancy, cancer(s) other than colorectal",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "76 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Geisinger Clinic",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Comparison of Adherence to Screening for Each Group",
+      "timeFrame": "9 months",
+      "description": "* FIT Test Adherence: Adherence to the FIT Test is expressed as a percentage which is calculated as the number of subjects who complete stool testing within 42 days (6 weeks) divided by the total number of subjects enrolled in the FIT study arm.\n* Epi proColon Test Adherence: Adherence to Epi proColon is expressed as a percentage which is calculated as the number of subjects with documented blood draw for the Epi proColon Test within 42 days (6 weeks) divided by the total number of subjects enrolled in the Epi proColon Test arm.\n* Usual Care Test Adherence: Expressed as a percentage which is calculated as the number of subjects in the Usual Care Group with documented CRC screening (FIT or Colonoscopy) during the duration of the study, divided by the total number of subjects in the usual care group"
+    }
+  ],
+  "sponsor": "Epigenomics, Inc",
+  "collaborators": [],
+  "start_date": "2014-10",
+  "completion_date": "2015-06",
+  "last_updated": "2015-06-29"
+}

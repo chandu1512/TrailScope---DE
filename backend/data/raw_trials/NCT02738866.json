@@ -1,0 +1,84 @@
+{
+  "nct_id": "NCT02738866",
+  "brief_title": "Palbociclib With Fulvestrant for Metastatic Breast Cancer After Treatment With Palbociclib and an Aromatase Inhibitor",
+  "official_title": "Phase II Trial of Palbociclib With Fulvestrant in Individuals With Hormone Receptor-Positive, HER2-Negative Metastatic Breast Cancer Who Have Progressed on Treatment With Palbociclib and an Aromatase Inhibitor",
+  "brief_summary": "This study is being done to look at the role of continuing palbociclib treatment in combination with another type of hormonal therapy (fulvestrant) after disease progression of palbociclib in combination with an aromatase inhibitor.",
+  "detailed_description": "In this phase II trial, the primary objective is to determine the progression-free survival (PFS) of the cyclin dependent kinase 4/6 inhibitor (CDK4/6i) palbociclib with fulvestrant in women and men with estrogen or progesterone receptor (ER/PR) positive, HER2-negative metastatic breast cancer (MBC) who progressed on treatment with palbociclib and an aromatase inhibitor (AI). The study will also determine the prevalence rate of estrogen receptor \u03b1 (ESR1) and phosphatidylinositol-3-kinase (PI3K) mutations in the study population.\n\nThe secondary objectives include evaluating the progression-free survival (PFS) in participants with and without ESR1 mutations, and PI3K mutations through analysis of tumor biopsies and circulating plasma tumor DNA (ptDNA) samples. The study will also describe other alterations in genes and gene products relevant to the cell cycle, drug targets, tumor sensitivity and resistance, and identify novel protein kinases activated in biopsies from participants with hormone refractory MBC who progressed on prior palbociclib and AI. The data will be correlated with tumor subtypes, expression profiles, and candidate phosphoprotein expression with PFS in the study population.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "Metastatic Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Palbociclib",
+      "type": "DRUG",
+      "description": "Palbociclib will be given orally, continued at the same dose as was received previously; the maximum starting dose will be per the approved label, a dose of 125 mg once daily. Palbociclib will be taken days 1-21, then seven days off treatment to complete one 28 day cycle."
+    },
+    {
+      "name": "Fulvestrant",
+      "type": "DRUG",
+      "description": "Fulvestrant 500 mg should be administered intramuscularly into the buttocks slowly (1-2 minutes per injection) as two 5 mL injections, one in each buttock, on days 1, 15, and 29 (i.e., Cycle 2 Day 1) and once monthly thereafter (i.e., day 1 of each cycle)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Women may be premenopausal or postmenopausal\n* Metastatic or locally advanced breast cancer, not amenable to surgery or radiation with curative intent\n* ER-positive and/or PR-positive, HER2-negative tumor\n* Prior treatment: progressed on and following at least 6 months of combined treatment with palbociclib and AI therapy; up to one (1) prior line of chemotherapy for advanced disease is allowed in addition to any number of prior lines of endocrine therapy; no prior treatment with fulvestrant, everolimus, or any agent whose mechanism of action is to inhibit the PI3K-mTOR pathway in the metastatic setting\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Evaluable or measurable disease\n* Disease that is amenable to biopsy\n* Adequate hematologic and renal function\n* History of central nervous system metastasis is allowed if treated and stable\n* Prior radiation therapy is allowed if recovered from toxicity and disease evaluable for response outside of the radiation fields or evidence of post-radiation progression of previously irradiated sites of disease\n* Ability to understand and willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Women who are pregnant or breast-feeding\n* Concurrent use of inhibitors or inducers of CYP3A4, or medications which prolong the QTc interval\n* Major surgery, chemotherapy, radiotherapy, or other anti-cancer therapy within 2 weeks before registration; prior radiotherapy to \u226525% of bone marrow are not eligible independent of when it was received\n* Any other malignancy within 3 years prior to registration, except for adequately treated basal cell or squamous cell skin cancer, or carcinoma in situ of the cervix\n* Any severe cardiac event within 6 months of registration\n* Prior hematopoietic stem cell or bone marrow transplantation\n* Known abnormalities in coagulation such as bleeding diathesis, or treatment with anticoagulants precluding intramuscular injections of fulvestrant or goserelin (if applicable)\n* Known or possible hypersensitivity to palbociclib, fulvestrant, goserelin (if applicable) or to any of their excipients\n* Known human immunodeficiency virus infection\n* Other severe acute or chronic medical or psychiatric condition, including recent or active suicidal ideation or behavior, or laboratory abnormality that may increase the risk associated with study participation or investigational product administration or may interfere with the interpretation of study results and, in the judgment of the investigator, would make the patient inappropriate for entry into this study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Anne Arundel Health System Research Institute, Inc.",
+      "city": "Annapolis",
+      "state": "Maryland",
+      "zip": "21401",
+      "status": ""
+    },
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny Health Network (AHN) - Allegheny General Hospital ONLY",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    },
+    {
+      "facility": "Reading Hospital - McGlinn Cancer Institute",
+      "city": "West Reading",
+      "state": "Pennsylvania",
+      "zip": "19611",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free survival",
+      "timeFrame": "6 months",
+      "description": "To estimate progression-free survival (PFS) of palbociclib and fulvestrant in women and men with ER/PR-positive, HER2-negative MBC who progressed on a palbociclib and an AI"
+    },
+    {
+      "measure": "Prevalence of ESR1 and PI3K mutations",
+      "timeFrame": "6 months",
+      "description": "To determine the prevalence of ESR1 and PI3K mutations in tissue and in ptDNA in women and men with ER/PR-positive, HER2-negative MBC who progressed on a palbociclib and an AI"
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Pfizer"
+  ],
+  "start_date": "2016-10-25",
+  "completion_date": "2026-06",
+  "last_updated": "2025-12-03"
+}

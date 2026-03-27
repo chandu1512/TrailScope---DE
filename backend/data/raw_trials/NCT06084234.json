@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT06084234",
+  "brief_title": "National Liver Cancer Screening Trial",
+  "official_title": "National Liver Cancer Screening Trial",
+  "brief_summary": "The National Liver Cancer Screening Trial is an adaptive randomized phase IV Trial comparing ultrasound-based versus biomarker-based screening in 5500 patients with cirrhosis from any etiology or patients with chronic hepatitis B infection. Eligible patients will be randomized in a 1:1 fashion to Arm A using semi-annual ultrasound and AFP-based screening or Arm B using semi-annual screening using GALAD alone. Randomization will be stratified by sex, enrolling site, Child Pugh class (A vs. B), and HCC etiology (viral vs. non-viral). Patients will be recruited from 15 sites (mix of tertiary care and large community health systems) over a 3-year period, and the primary endpoint of the phase IV trial, reduction in late-stage HCC, will be assessed after 5.5 years.",
+  "detailed_description": "The TRACER phase IV biomarker study is a randomized trial comparing ultrasound-based screening versus a biomarker-based strategy in patients with cirrhosis. In brief, 5500 patients with cirrhosis from any etiology would be randomized in a 1:1 fashion to Arm A offering semi-annual ultrasound +/- AFP-based screening or Arm B offering semi-annual biomarker-based screening. Randomization will be stratified by site, Child Pugh class (A vs. B), liver disease etiology (viral, non-viral, and non-cirrhotic HBV infection) and sex. Patients will be recruited from 15 sites (mix of tertiary care and large community health systems) over a 3-year period, and reduction in the proportion of late-stage HCC, will be assessed at the end of Year 5.5. If the results are promising, study team will continue extended follow-up and compare the incidence of late-stage HCC between the two arms at Year 8 and reduction in HCC mortality during long term follow up.\n\nStudy team will include adult patients, age \u2265 18 years, with Child Pugh class A or B cirrhosis of any etiology or non-cirrhotic chronic hepatitis B virus infection with PAGE-B score \\>9. Study team will exclude patients post liver transplantation, patients with Child Pugh C cirrhosis, patients with significant comorbidity and limited life expectancy, and those with history of other malignancy, except non-melanoma skin cancer or indolent tumors, within 3 years prior to enrollment given lack of screening recommendations in those patient populations. Study team will also exclude patients with suspicious liver masses at baseline as well as those with a solid lesion \u22651 cm on ultrasound or AFP \u226520 ng/mL without diagnostic evaluation to exclude HCC. Study team will also exclude patients in whom the provider plans to follow the patient with CT or MRI-based surveillance. GALAD is not recommended in patients with pregnancy or active warfarin use given known impact on biomarker performance, so these patients will be excluded.\n\nAt enrollment, study team will record patient demographics and clinical characteristics using a combination of electronic medical records and patient questionnaires. Patients will then be offered semi-annual surveillance as defined by their study arm: ultrasound and AFP for patients in Arm A and the biomarker, GALAD, for patients in Arm B. Repeat surveillance tests will be offered every six months (per assigned arm) for patients with normal surveillance results. Diagnostic evaluation with multi-phasic CT or contrast-enhanced MRI will be recommended for any patients with abnormal screening results. Patients with normal diagnostic testing (i.e., false positive result) will be recommended to return to their assigned surveillance arm. Standardized criteria from the AASLD and LI-RADS will be used to define incident HCC. Study team will use a set of validated surveys (e.g., Psychological Consequences Questionnaire, Decision Regret scale, FACIT-COST) to measure secondary outcomes of interest including psychological and financial harms.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE4"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 5500,
+  "conditions": [
+    "Carcinoma, Hepatocellular",
+    "Liver Cancer",
+    "Liver Cirrhosis",
+    "Hepatitis B"
+  ],
+  "interventions": [
+    {
+      "name": "GALAD",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "GALAD is a 3 biomarker panel incorporating AFP, AFP-L3% and DCP (all FDA approved), with patient age and sex."
+    },
+    {
+      "name": "Liver Ultrasound with or without AFP",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "This intervention consists of current standard of care ultrasound based surveillance with or without alpha-fetoprotein measurement."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nPatient must meet all of the following inclusion criteria:\n\n1. Adult patients ages 18-85 with cirrhosis from any etiology or with chronic hepatitis B with a PAGE-B score greater than 9 within 12 months of enrollment\n2. Patient is eligible for HCC surveillance according to treating physician or by the site investigator\n3. Able to provide informed consent\n4. Life expectancy \\>6 months (after consent) as determined by the treating provider or site investigator\n\nExclusion Criteria:\n\nPatient will be excluded for any of the following exclusion criteria:\n\n1. Child Pugh C cirrhosis\n2. History or clinical symptoms of hepatocellular carcinoma or cholangiocarcinoma\n3. History of solid nodule on baseline ultrasound (i.e., lesion 1cm or greater) within 9 months prior to consent without subsequent diagnostic CT/MRI demonstrating benign nature)\n4. AFP \\>20 ng/mL within 6 months prior to consent, in the absence of a contrast-enhanced CT or MRI within 6 months of AFP (before or after) level demonstrating lack of suspicious liver lesions\n5. Newly diagnosed LR-3 greater than or equal to 1 cm within 6 months prior to consent\n6. History of LR-4, LR-5, or LR-M on multi-phase CT or contrast-enhanced MRI within 6 months prior to consent\n7. Presence of another active cancer besides non-melanomatous skin cancer or indolent cancer under active surveillance (e.g., prostate cancer or renal cell carcinoma) within the 2 years prior to consent\n8. Patient's provider is planning to use MRI- or CT- based surveillance moving forward\n9. History of a transjugular intrahepatic portosystemic shunt (TIPS)\n10. History of Fontan associated liver disease or cardiac cirrhosis\n11. History of solid organ transplantation\n12. Actively listed for liver transplantation\n13. Diagnosis of alcohol-associated hepatitis within 3 months prior to consent\n14. Documented current or continued signs and symptoms of acute Wilson disease (acute liver failure, acute neurological deficits, hemolysis)\n15. In patients with primary sclerosing cholangitis (PSC): Current active cholangitis within 90 days prior to consent\n16. Known or documented habitual non-adherence to previous research studies or medical procedures or unwillingness to adhere to protocol (e.g., unwilling to obtain consent or samples)\n17. In patients living with HIV: CD4+ T cell count less than 100 cells/mm3 within 60 days prior to consent\n18. Known pregnancy at consent\n19. Active warfarin use",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "85 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of HCC detected at late stage",
+      "timeFrame": "5.5 years",
+      "description": "Proportion of HCC detected at a late stage, defined as HCC beyond Milan Criteria (one tumor less than or equal to 5 cm or 2-3 tumors each less than or equal to 3 cm, in the absence of vascular invasion or extra-hepatic metastases)"
+    }
+  ],
+  "sponsor": "University of Texas Southwestern Medical Center",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "University of Pennsylvania",
+    "University of Michigan",
+    "Dana-Farber Cancer Institute",
+    "Baylor College of Medicine",
+    "Fred Hutchinson Cancer Center"
+  ],
+  "start_date": "2023-12-26",
+  "completion_date": "2034-12-31",
+  "last_updated": "2025-11-25"
+}

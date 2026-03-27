@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT01877187",
+  "brief_title": "Lipiodol as an Imaging Biomarker in Patients With Primary and Metastatic Liver Cancer",
+  "official_title": "Lipiodol as an Imaging Biomarker of Tumor Necrosis After Transcatheter Chemoembolization Therapy in Patients With Primary and Metastatic Liver Cancer",
+  "brief_summary": "The purpose of this study is to determine the whether Lipiodol can be used as an imaging biomarker, predicting tumor response to therapy in patients with primary and metastatic liver cancer. Lipiodol-based transarterial chemoembolization (TACE) has been an accepted standard of care procedure for unresectable liver lesions for several decades. Lipiodol is used as a carrier for chemotherapy agents and also as an occlusion agent. In TACE procedures, Lipiodol is mixed with the chemotherapy agent(s) and delivered to the tumor via the hepatic artery, causing necrosis of the targeted tumor(s). Response to therapy will be evaluated every 1, 3 and 6 months by clinic visits, MRI/CT/PET scans and blood tests (to include assessment of liver function and tumor markers).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 39,
+  "conditions": [
+    "Liver Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Lipiodol",
+      "type": "DRUG",
+      "description": "Lipiodol is used as a carrier for chemotherapy agents and also as an occlusion agent. In TACE procedures, Lipiodol is mixed with the chemotherapy agent(s) and delivered to the tumor via the hepatic artery, causing necrosis of the targeted tumor(s)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. 18 years of age or older.\n2. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0-2.\n3. Childs class of A or B (up to 9).\n4. Hepatocellular carcinoma (HCC) is unresectable with liver-predominant disease or subject has HCC and refused surgery or subject is diagnosed hepatic metastases from any solid tumor. (Multifocal HCC is acceptable, no diffuse HCC).\n5. Subject is voluntarily participating in the study and has signed the informed consent.\n\nExclusion Criteria:\n\n1. Contraindications to doxorubicin, cisplatin, or mytomycin-c administration (or specific mixture of chemotherapy drugs to be used).\n2. Evidence of severe or uncontrolled systemic diseases.\n3. Congestive cardiac failure \\>NYHA class 2 MI within 6 months, active coronary artery disease, cardiac arrhythmias requiring anti-arrhythmic therapy other than beta blockers or digoxin, unstable angina, or laboratory finding that in the view of the investigator makes it undesirable for the patient to participate in the trial.\n4. Known allergy to Lipiodol (Ethiodol), poppy seed oil, or iodinated contrast agents (that cannot be adequately mitigated with pre-procedure medication).\n5. Main portal vein thrombosis is excluded; segmental or branch portal vein thrombosis is acceptable.\n6. Subject is breastfeeding.\n7. Subject is pregnant",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Tumor Response by Response Evaluation Criteria in Solid Tumors (RECIST)",
+      "timeFrame": "30 days, 90 days, and 180 days",
+      "description": "Lipiodol deposition in the tumor will be measured using non contrast CT. The images from the non contrast CT will also be correlated with RECIST response separately using contrast CT, MRI and PET imaging. Response rates taken at 30 days, 90 days, 180 days. Per Response Evaluation Criteria in Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI:\n\nComplete Response (CR): Disappearance of all target lesions Partial Response (PR): \\>= 30% decrease in the sum of the longest diameter of target lesions\n\nOverall Response (OR) = CR + PR"
+    },
+    {
+      "measure": "Baseline Enhancing Tumor and Response by RECIST Criteria",
+      "timeFrame": "30 days, 90 days, 180 days",
+      "description": "Analysis of enhancing tumor (% of tumor that arterially enhances on MRI imaging) to correlate with responders/nonresponders by RECIST criteria. Responders are subjects that demonstrated Complete Response or Partial Response by RECIST criteria. Nonresponders are all other subjects."
+    }
+  ],
+  "sponsor": "Yale University",
+  "collaborators": [
+    "Guerbet"
+  ],
+  "start_date": "2013-04",
+  "completion_date": "2020-02",
+  "last_updated": "2020-04-02"
+}

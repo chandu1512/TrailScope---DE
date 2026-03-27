@@ -1,0 +1,106 @@
+{
+  "nct_id": "NCT02655822",
+  "brief_title": "Phase 1/1b Study to Evaluate the Safety and Tolerability of Ciforadenant Alone and in Combination With Atezolizumab in Advanced Cancers",
+  "official_title": "A Phase 1/1b, Open-Label, Multicenter, Repeat-Dose, Dose-Selection Study of Ciforadenant as Single Agent and in Combination With Atezolizumab in Patients With Selected Incurable Cancers",
+  "brief_summary": "This is a phase 1/1b open-label, multicenter, dose-selection study of ciforadenant, an oral small molecule targeting the adenosine-A2A receptor on T-lymphocytes and other cells of the immune system. This trial will study the safety, tolerability, and anti-tumor activity of ciforadenant as a single agent and in combination with atezolizumab, a PD-L1 inhibitor against various solid tumors. Ciforadenant blocks adenosine from binding to the A2A receptor. Adenosine suppresses the anti-tumor activity of T cells and other immune cells.",
+  "detailed_description": "This is a phase 1/1b open-label, multicenter, dose-selection study of ciforadenant, an oral small molecule targeting the adenosine-A2A receptor on T-lymphocytes and other cells of the immune system. This trial will study the safety, tolerability, and anti-tumor activity of ciforadenant as a single agent and in combination with atezolizumab, an intravenous PD-L1 inhibitor. Ciforadenant blocks adenosine from binding to the A2A receptor. Adenosine suppresses the anti-tumor activity of T cells and other immune cells.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 502,
+  "conditions": [
+    "Renal Cell Cancer",
+    "Metastatic Castration Resistant Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Ciforadenant",
+      "type": "DRUG",
+      "description": "100 mg orally twice daily for the first 14 days of each 28-day cycle."
+    },
+    {
+      "name": "Ciforadenant",
+      "type": "DRUG",
+      "description": "100 mg orally twice daily for 28 days of each 28-day cycle."
+    },
+    {
+      "name": "Ciforadenant",
+      "type": "DRUG",
+      "description": "200 mg orally once daily for the first 14 days of each 28-day cycle."
+    },
+    {
+      "name": "Ciforadenant + atezolizumab",
+      "type": "DRUG",
+      "description": "Ciforadenant 100 mg orally twice daily in combination with atezolizumab intravenously."
+    },
+    {
+      "name": "Ciforadenant",
+      "type": "DRUG",
+      "description": "Start with 150mg orally twice daily for 28-day cycles; then, increase increments by 100mg/day for 6 dose levels."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Renal Cell Carcinoma Inclusion Criteria\n\n1. Eastern Cooperative Oncology Group (ECOG) Performance Status 0-2.\n2. Documented pathologic diagnosis of clear cell RCC.\n3. Relapsed or refractory to 1-2 prior lines of therapy containing at least an anti-PD-(L)1 agent.\n4. Measurable disease according to RECIST v1.1\n5. Mandatory newly collected tumor biopsy sample obtained prior to treatment initiation.\n\nRenal Cell Carcinoma Exclusion Criteria\n\n1. History of severe hypersensitivity reaction to monoclonal antibodies.\n2. Has immunodeficiency or requires treatment with systemic immunosuppressive medication within 2 weeks prior to initiation of study treatment or anticipation of need for systemic immunosuppressant medication during study treatment.\n3. Has an active autoimmune disease requiring systemic treatment with in the past 2 years OR a documented history of clinically severe autoimmune disease.\n\nMetastatic Castration-Resistant Prostate Cancer Inclusion Criteria\n\n1. Documentation of disease: progressive CRPC with histologically or cytologically confirmed adenocarcinoma of the prostate.\n2. Patients must have radiologically evident metastatic disease, but it can be measurable or non-measurable disease:\n\n   * Measurable disease: nodal, visceral, or extra nodal lesions according to RECIST v1.1 using a diagnostic computed tomography\n   * Non-measurable disease: bone only disease (up to 1/3 of study population) per PCWG3 criteria\n3. 1-3 prior lines of therapy, including at least one newer generation androgen synthesis inhibitor (e.g., abiraterone) or androgen receptor antagonist (e.g., enzalutamide, apalutamide, darolutamide).\n4. Mandatory newly collected tumor biopsy sample obtained prior to treatment initiation.\n5. Eastern Cooperative Oncology Group (ECOG) Performance Status 0-2.\n\nMetastatic Castration-Resistant Prostate Cancer Exclusion Criteria\n\n1. Has pure small-cell histology and variants with predominant (\u2265 50%) neuroendocrine differentiation.\n2. Has a history of severe hypersensitivity reaction to monoclonal antibodies.\n3. Has immunodeficiency or requires treatment with systemic immunosuppressive medication within 2 weeks prior to initiation of study treatment or anticipation of need for systemic immunosuppressant medication during study treatment.\n4. Has an active autoimmune disease requiring systemic treatment with in the past 2 years OR a documented history of clinically severe autoimmune disease.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center - Johns Hopkins University School of Medicine",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of dose-limiting toxicities (DLTs) of ciforadenant as a single agent and in combination with atezolizumab",
+      "timeFrame": "28 days following first administration of ciforadenant",
+      "description": ""
+    },
+    {
+      "measure": "Objective response rate per RECIST v1.1 criteria of ciforadenant as a single agent and in combination with atezolizumab",
+      "timeFrame": "From start of treatment to end of treatment, up to 72 months",
+      "description": ""
+    },
+    {
+      "measure": "Incidence of treatment-emergent adverse events, as assessed by NCI CTCAE v.4.03, of ciforadenant as a single agent and in combination with atezolizumab",
+      "timeFrame": "Continuously, up to 72 months",
+      "description": ""
+    },
+    {
+      "measure": "Mean and median Area under the curve (AUC) of ciforadenant",
+      "timeFrame": "Up to 12 months",
+      "description": ""
+    },
+    {
+      "measure": "Mean and median Maximum concentration (Cmax) of ciforadenant",
+      "timeFrame": "Up to 12 months",
+      "description": ""
+    },
+    {
+      "measure": "Identify the MDL (maximum dose level) of single agent ciforadenant",
+      "timeFrame": "From start of treatment to end of treatment, up to 72 months.",
+      "description": ""
+    }
+  ],
+  "sponsor": "Corvus Pharmaceuticals, Inc.",
+  "collaborators": [
+    "Genentech, Inc."
+  ],
+  "start_date": "2016-01",
+  "completion_date": "2021-07",
+  "last_updated": "2021-08-27"
+}

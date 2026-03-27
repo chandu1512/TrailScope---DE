@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT00906373",
+  "brief_title": "A Study of IMC-A12 in Combination With Sorafenib in Participants With Advanced Cancer of the Liver",
+  "official_title": "A Multicenter, Phase 2 Study Evaluating IMC-A12 in Combination With Sorafenib as First-Line Therapy for Patients With Advanced Hepatocellular Carcinoma (HCC)",
+  "brief_summary": "To determine if IMC-A12 given in combination with Sorafenib is safe and effective for participants with advanced liver cancer.",
+  "detailed_description": "The purpose of this study is to determine progression-free survival (PFS) in participants with unresectable hepatocellular carcinoma who have received no prior systemic therapy when treated with IMC-A12 administered every three weeks in combination with oral sorafenib administered twice daily.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 47,
+  "conditions": [
+    "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "IMC-A12 (cixutumumab) - 10 milligrams/kilogram (mg/kg)",
+      "type": "BIOLOGICAL",
+      "description": "intravenous infusions 10 mg/kg on Day 1 of each 3-week cycle"
+    },
+    {
+      "name": "IMC-A12 (cixutumumab) - 20 mg/kg",
+      "type": "BIOLOGICAL",
+      "description": "intravenous infusions 20 mg/kg on Day 1 of each 3-week cycle"
+    },
+    {
+      "name": "Sorafenib",
+      "type": "DRUG",
+      "description": "400 milligrams (mg) twice per day orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* The participant has histologically or cytologically confirmed, unresectable HCC\n* The participant has at least one target lesion measurable according to Response Evaluation Criteria in Solid Tumors (RECIST) guidelines. Target lesion(s) must not lay within a previously irradiated, ablated, or chemoembolized area. If a lesion does lie in such an area, there must be evidence of growth on successive imaging studies, including tumor hypervascularity, in order for such a lesion to be considered a target lesion\n* The participant has not received prior systemic therapy for HCC. Participants may have received prior embolization, chemoembolization, intra-arterial chemotherapy infusion, ethanol injection, radiofrequency ablation, or cryosurgery\n* The participant has fasting serum glucose \\<160 milligrams/deciliter (mg/dL) or below the upper limit of normal (ULN) and/or hemoglobin A1C \\<7%. If baseline nonfasting glucose \\<160 mg/dL, fasting glucose measurement is not required\n* The participant has the ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* The participant has brain metastases\n* The participant has acute hepatitis\n* The participant has poorly controlled diabetes mellitus. Participants with a history of diabetes mellitus are allowed to participate, provided that their blood glucose is within normal range and that they are on a stable dietary or therapeutic regimen for this condition\n* The participant has congestive heart failure \\> class II New York Heart Association (NYHA), unstable angina pectoris, new onset of angina pectoris, myocardial infarction within the past 6 months, or cardiac ventricular arrhythmias requiring antiarrhythmic therapy\n* The participant has experienced a hemorrhage or bleeding event \u2265 National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI-CTCAE) Grade 3 within 4 weeks prior first dose of study therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "ImClone Investigational Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "Date of first dose of study drug up PD or death up to 12 months",
+      "description": "PFS is defined as the time from date of first dose of study drug until the date of objective PD or death due to any cause, whichever occurs first. PD defined as a \u226520% increase in the sum of the longest diameter (LD) of target lesions using as reference the smallest sum LD since baseline or \u22651 new lesions. Participants who died without PD were considered to have progressed on the date of death. Participants who were alive and without PD were censored at the time of the last objective tumor assessment. Participants who did not progress and are subsequently lost to follow-up were censored at the date of their last objective tumor assessment before loss to follow-up. Participants who progressed or died after \u22652 missed tumor assessment visits were censored at the date of their last objective tumor assessment before missed assessments. Participants who begin a new anticancer therapy were censored at the date of their last objective tumor assessment before initiation of new therapy."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2009-05",
+  "completion_date": "2014-05",
+  "last_updated": "2018-05-01"
+}

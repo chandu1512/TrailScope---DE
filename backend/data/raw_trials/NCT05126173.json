@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT05126173",
+  "brief_title": "DERM US and EU Validation Study",
+  "official_title": "A Clinical Validation Study to Demonstrate the Effectiveness of an Artificial Intelligence Algorithm (DERM) to Identify Skin Cancer in Patients Undergoing a Skin Biopsy",
+  "brief_summary": "This study aims establish the effectiveness of Image Analysing Algorithm (DERM) to identify melanoma, Squamous Cell Carcinoma (SCC) and Basal Cell Carcinoma (BCC) when used to analyse dermoscopic images of skin lesions within the US and European population.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1111,
+  "conditions": [
+    "Malignant Skin Melanoma T0",
+    "Basal Cell Carcinoma",
+    "Squamous Cell Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Deep Ensemble for the Recognition of Malignancy (DERM)",
+      "type": "DEVICE",
+      "description": "An AI-based diagnosis support tool"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Willing and able to give informed consent for participation in the study,\n* Male or Female, aged 18 years or above,\n* Have at least one suitable skin lesion that will be biopsied due to a suspicion of skin cancer,\n\nTo be suitable for inclusion, a skin lesion must NOT have ANY of the following limitations:\n\nlocated on an anatomical site of different skin structure: palms of hands or soles of feet (acral lesion), mucosal surfaces (lips and eyes) or under nail (ungal lesion), a diameter greater than the diameter of the dermoscopic lenses, located on an anatomical site unsuitable for photographing, including on surface of genitals and hair-bearing areas, has been previously biopsied, excised, treated or otherwise traumatised, located in an area of visible scarring or tattooing.\n\n\\- In the Investigator's opinion, able and willing to comply with all study requirements.\n\nExclusion Criteria:\n\n* Any other significant disease or disorder which, in the opinion of the Investigator, may either put the participant at risk because of participation in the study, or may influence the result of the study, or the participant's ability to participate in the study.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Sensitivity of DERM to detect \"Malignant conditions\"",
+      "timeFrame": "Through study completion, on average of 1 day",
+      "description": "Sensitivity of DERM to detect Melanoma, SCC and BCC combined"
+    },
+    {
+      "measure": "Specificity of DERM to detect Malignant conditions.",
+      "timeFrame": "Through study completion, on average of 1 day",
+      "description": "Specificity of DERM to detect Melanoma, SCC and BCC combined"
+    }
+  ],
+  "sponsor": "Skin Analytics Limited",
+  "collaborators": [],
+  "start_date": "2022-03-15",
+  "completion_date": "2022-09-15",
+  "last_updated": "2023-06-26"
+}

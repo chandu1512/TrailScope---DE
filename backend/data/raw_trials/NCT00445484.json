@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT00445484",
+  "brief_title": "Lenalidomide and Vaccine Therapy in Treating Patients With Relapsed or Refractory Multiple Myeloma",
+  "official_title": "Revlimid to Augment Efficacy of Prevnar Vaccines in Patients With Relapsed or Refractory Myeloma",
+  "brief_summary": "RATIONALE: Biological therapies, such as lenalidomide, may stimulate the immune system in different ways and stop cancer cells from growing. Vaccines may help the body build an effective immune response to kill cancer cells. Giving lenalidomide together with vaccine therapy may make a stronger immune response and kill more cancer cells.\n\nPURPOSE: This phase II trial is studying how well giving lenalidomide together with vaccine therapy works in treating patients with relapsed or refractory multiple myeloma.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* Determine whether lenalidomide can augment the efficacy of pneumococcal polyvalent vaccine as it correlates with lenalidomide-induced antitumor efficacy in patients with relapsed or refractory multiple myeloma.\n\nSecondary\n\n* Determine the antibody responses to pneumococcal serotypes in patients treated with this regimen.\n* Determine T-cell responses to the carrier protein CRM 197 in patients treated with this regimen.\n* Determine the ability of lenalidomide to augment in vivo immune responsiveness as measured by cutaneous delayed-type hypersensitivity (DTH) reactions to Candida and tetanus in these patients.\n* Determine the ability of lenalidomide to prime and/or boost systemic vaccine responses in both peripheral blood lymphocytes and marrow lymphocytes in these patients.\n\nOUTLINE: Patients are assigned to 1 of 2 treatment groups.\n\n* Group 1: Patients receive oral lenalidomide on days 1-21. Treatment repeats every 28 days for up to 7 courses in the absence of disease progression or unacceptable toxicity. Patients receive pneumococcal polyvalent vaccine intramuscularly (IM) 14 days prior to beginning lenalidomide and again in approximately 2 months (after the first dose of the vaccine).\n* Group 2: Patients receive lenalidomide as in group 1. Patients receive pneumococcal polyvalent vaccine IM approximately 45 days after beginning lenalidomide and again in approximately 2 months (after the first dose of the vaccine).\n\nAfter completion of study treatment, patients are followed at 30 days.\n\nPROJECTED ACCRUAL: A total of 40 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 22,
+  "conditions": [
+    "Multiple Myeloma and Plasma Cell Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "pneumococcal polyvalent vaccine",
+      "type": "BIOLOGICAL",
+      "description": "Given intramuscularly"
+    },
+    {
+      "name": "lenalidomide",
+      "type": "DRUG",
+      "description": "Given orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of multiple myeloma (MM) meeting all of the following criteria:\n\n  * Relapsed or refractory disease\n  * Previously received \u2265 2 courses of antimyeloma treatment\n* Measurable levels of myeloma paraprotein in serum (\\> 0.5 g/dL) or urine (\\> 0.2 g/24-hour urine collection) OR serum-free light-chain disease\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-2\n* Absolute neutrophil count \u2265 1,000/mm\\^3\n* Platelet count \u2265 75,000/mm\\^3\n* Creatinine \u2264 2.5 mg/dL\n* Bilirubin \u2264 2.0 mg/dL\n* AST and ALT \u2264 3 times upper limit of normal\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use 2 methods of highly effective contraception \u2265 4 weeks before, during, and for 4 weeks after completion of study therapy\n* No other malignancy within the past 5 years except treated basal cell or squamous cell carcinoma of the skin or carcinoma in situ of the cervix or breast\n* No serious medical condition, laboratory abnormality, or psychiatric illness that would preclude study treatment or put patient at unacceptable risk\n* No known hypersensitivity to thalidomide or lenalidomide\n\n  * No development of erythema nodosum in the presence of a reaction characterized by a desquamating rash while taking thalidomide or similar drugs\n* No known hypersensitivity to any component of the pneumococcal polyvalent vaccine, including diphtheria toxin or CRM 197\n* No known HIV positivity\n* No infectious hepatitis type A, B, or C\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No more than 3 prior treatment regimens for MM\n* More than 6 months since prior lenalidomide\n* More than 28 days since prior experimental drug or therapy\n* More than 1 month since prior systemic antimyeloma therapy\n* More than 1 month since prior and no concurrent systemic corticosteroids\n* No other concurrent anticancer agents or treatments or investigational agents\n* No concurrent thalidomide\n* No concurrent radiotherapy\n* No other concurrent immune therapy or immunomodulatory agents",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "6B Antibody Response to Prevnar Vaccine in Peripheral Blood",
+      "timeFrame": "basline and 8 weeks after second vaccination",
+      "description": "Serum IgG levels against the PVC serotype were measured by ELISA"
+    },
+    {
+      "measure": "14F Antibody Response to Prevnar Vaccine in Peripheral Blood",
+      "timeFrame": "basline and 8 weeks after second vaccination",
+      "description": "Serum IgG levels against the PVC serotype were measured by ELISA"
+    },
+    {
+      "measure": "19F Antibody Response to Prevnar Vaccine in Peripheral Blood",
+      "timeFrame": "basline and 8 weeks after second vaccination",
+      "description": "Serum IgG levels against the PVC serotype were measured by ELISA"
+    },
+    {
+      "measure": "23F Antibody Response to Prevnar Vaccine in Peripheral Blood",
+      "timeFrame": "basline and 8 weeks after second vaccination",
+      "description": "Serum IgG levels against the PVC serotype were measured by ELISA"
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2007-01",
+  "completion_date": "2010-09",
+  "last_updated": "2015-08-05"
+}

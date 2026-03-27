@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT05092022",
+  "brief_title": "St. Joseph's HPV Self-sampling: Offering a Self-sampling Option in Clinic",
+  "official_title": "Increasing Cancer Screening Among Female Patients at PSH St. Joseph's Residency Clinic: Offering a Self-sampling Option in Clinic",
+  "brief_summary": "This study aims to evaluate the effectiveness of offering self-sampled human papillomavirus (HPV) tests in increasing participation in cervical cancer screening, compared to the standard of care clinician-sampled test. The primary study endpoints are (1) patients' acceptability of self-sampled HPV tests vs. clinician-sampled test, and (2) patients' completion of self-sampled HPV test. The secondary study endpoint to be measured is the increase in cervical cancer screenings of any type in the PSH St. Joseph's residency clinic patient population.",
+  "detailed_description": "Patients will be recruited during their appointment at the PSH St. Joseph's residency clinic. If a patient is due for cervical cancer screening, they will be presented with the study letter that allows them to choose between (1) receiving the self-sampled HPV test after their appointment, (2) scheduling an in-person cervical cancer screening at a later date, or (3) indicating they are not interested in either option at this time (see study letter). If the patient requests the self-sampled HPV test (option 1), they will be given a package that contains the HPV self-sampling test and directions for use, the Summary Explanation of Research, the package cover letter, the Penn State Health Clinical Laboratory Pathology Services Special Account Requisition form, and a pre-paid return envelope. The patient will fill in the Pathology Services Special Account Requisition form with their name, date of birth, sex, and date and time of sample collection. The completed test and Pathology Services Special Account Requisition form will be placed in the pre-paid return envelope and sent to the Penn State Health Clinical Laboratory. A note will be added to the patient's medical record stating that a self-sampled HPV test was provided, including the date it was given.\n\nPatients who choose option 2, to schedule an in-person cervical cancer screening at a later date, will be given the time to do so when checking out from their current clinic appointment. Appointment information will be shared with the study team to ensure that their appointment is kept or rescheduled, if needed.\n\nNo additional follow-up is needed for patients who choose option 3. A note will be added to the patient's medical record stating that they declined HPV screening, including the date the screening was declined.\n\nResults of the self-sampled HPV tests will be securely sent from the Penn State Health Clinical Laboratory to the project manager for tracking. Then, the results will be sent to a member of the study team at the PSH St. Joseph residency clinic, who will upload the results into the patient's medical records. If the test result indicates that the patient is positive for low-risk HPV, the patient will be contacted by their primary care physician to schedule a Pap test. If the test result indicates that the patient is positive for high-risk HPV, patient will be contacted by their primary care physician to schedule a colposcopy. Scheduling a Pap test or colposcopy is standard of care for a low-risk or high-risk HPV result, respectively. If the test result indicates that the patient is negative for HPV, the results will be entered into the patient medical record and the patient notified via telephone, but the patient will not receive any follow-up procedures after the self-sampled test.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Cervical Cancer Screening"
+  ],
+  "interventions": [
+    {
+      "name": "Evalyn Self-Sampling Brush",
+      "type": "DEVICE",
+      "description": "A self-sampling brush to collect cervical cells for screening purposes."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Eligible but out-of-date for cervical cancer screening\n* Able to speak, read, and communicate well in English or Spanish\n* Not at greater than average risk for cervical cancer\n\nExclusion Criteria:\n\n* Pregnant\n* Incarcerated\n* Greater than average risk for cervical cancer, for example:\n\n  * Already diagnosed with high-grade precancerous cervical cancer or cervical lesions\n  * Has a compromised immune system\n* Unable to speak, read, and communicate well in English or Spanish\n* Unable or unwilling to give implied consent or otherwise complete study requirements",
+    "gender": "FEMALE",
+    "min_age": "30 Years",
+    "max_age": "65 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Health St. Joseph's",
+      "city": "Reading",
+      "state": "Pennsylvania",
+      "zip": "19605",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of patients who request the self-sampled HPV test",
+      "timeFrame": "12 months after enrollment begins",
+      "description": "This outcome is measuring the number of patients who select to receive a self-sampled HPV test out of all patients presented with the research opportunity. The results will be presented as the acceptance rate of the self-sampled HPV test. The measurement tool for this outcome is a patient-completed questionnaire where the patient can request 1) a self-sampled HPV test, 2) a clinician-sampled test, or 3) to not receive their cervical cancer screening at this time."
+    },
+    {
+      "measure": "Number of patients who request the clinician-sampled test",
+      "timeFrame": "12 months after enrollment begins",
+      "description": "This outcome is measuring the number of patients who select to receive a clinician-sampled cervical cancer screening out of all patients presented with the research opportunity. The results will be presented as the acceptance rate of the clinician-sampled test. The measurement tool for this outcome is a patient-completed questionnaire where the patient can request 1) a self-sampled HPV test, 2) a clinician-sampled test, or 3) to not receive their cervical cancer screening at this time."
+    },
+    {
+      "measure": "Number of patients who complete the self-sampled HPV test",
+      "timeFrame": "1 month after patient is given self-sampled HPV test",
+      "description": "This outcome is measuring the number of patients who complete and return the self-sampled HPV test out of all the patients who receive a self-sampled HPV test. A patient will have up to one month to complete and return the self-sampled HPV test. The final outcome results will be calculated one month after the last patient receives a self-sampled HPV test."
+    }
+  ],
+  "sponsor": "Milton S. Hershey Medical Center",
+  "collaborators": [],
+  "start_date": "2023-09-18",
+  "completion_date": "2026-12-31",
+  "last_updated": "2025-07-03"
+}

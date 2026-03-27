@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT00891592",
+  "brief_title": "Umbilical Cord Blood Transplant for Hematological Malignancies",
+  "official_title": "A Phase 1 Dose Escalation Study of Infusion of ex Vivo cd3/cd28 Costimulated Umbilical Cord Blood-derived t Cells in Adults Undergoing Transplantation for Advanced Hematologic Malignancies",
+  "brief_summary": "This protocol will enroll subjects with advanced hematologic malignancies who do not have a suitable related or unrelated donor to undergo a Stem Cell Transplant.\n\nIn this study, subjects will undergo a Stem Cell Transplant using Cord Blood. Part of the cord blood will be used for the Stem Cell Transplant and part of the cord blood will be sent to a laboratory in order to grow the T cells (from the cord blood) and increase the activity of the cord blood T cells.\n\nThe purpose of this part of the study is to see if it is safe to give study subjects activated T cells made from a small portion of their donor UCB unit immediately after the UCB transplant. Activated T cells have been used safely in stem cell transplantation studies in the past, but they have never been studied UCB transplantation.",
+  "detailed_description": "The main study intervention includes CD3/CD28 ex vivo costimulated T cells derived from a thawed umbilical cord blood unit, co-infused following a myeloablative conditioning regimen.\n\nActivated T cells are T cells that have been activated in the laboratory by exposure to 2 compounds or molecules called CD3 and CD28; when T cells are exposed to both of these compounds at the same time, they become activated or \"stimulated\" and may be more effective in fighting infections, cancer cells, and promoting the recovery of red cells, white cells, and platelets after transplantation. At the Hospital of the University of Pennsylvania, activated T cells are prepared at the Clinical Cell and Vaccine Production Facility, also known as the CVPF.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 5,
+  "conditions": [
+    "CML",
+    "AML",
+    "MDS",
+    "ALL",
+    "NHL",
+    "Multiple Myeloma",
+    "Hodgkin's Disease"
+  ],
+  "interventions": [
+    {
+      "name": "Ex Vivo CD3/CD28 costimulated Umbilical Cord Blood T cells",
+      "type": "BIOLOGICAL",
+      "description": "Single infusion of Cord Blood Cells AND Single Infusion of ex vivo CD3/CD28 costimulated Umbilical Cord Blood T cells.\n\nTable 6: Dose escalation (Dose level CD3+ cell dose)\n\n* 1xE5 cells/kg\n* 2xE6 cells/kg\n* 3xE7 cells/kg\n* 4xE8 cells/kg"
+    },
+    {
+      "name": "Observation Arm",
+      "type": "OTHER",
+      "description": "Single infusion of Cord Blood Cells"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria.\n\n* Relapsed or persistent advanced hematologic malignancy; incurable with standard chemotherapy and eligible for allogeneic HSCT, including:\n* CHRONIC MYELOGENOUS LEUKEMIA (CML). Subjects in accelerated or blast phase or subjects in chronic phase with inadequate response to Imatinib or intolerant to Imatinib.\n* ACUTE MYELOGENOUS LEUKEMIA (AML). Subject with high risk disease in first complete remission (CR). High risk disease includes the following cytogenetic abnormalities: monosomy 7, deletion 5, trisomy 8, inversion 3, t(3;3), t(6;9), or t(6;11). Subjects with complex cytogenetic abnormalities (more than 3 chromosomal abnormalities).\n* ACUTE MYELOGENOUS LEUKEMIA (AML). Subjects with diagnosis of AML after receiving chemotherapy, radiation therapy or biopsy showing myelodysplastic syndrome.\n* ACUTE MYELOGENOUS LEUKEMIA (AML). Subjects with persistent AML after 2 cycles of standard induction chemotherapy.\n* ACUTE MYELOGENOUS LEUKEMIA (AML). Subjects in first complete remission.\n* MYELODYSPLASTIC SYNDROME (MDS). Subjects with intermediate or high risk disease based upon International Prognostic Scoring System.\n* ACUTE LYMPHOBLASTIC LEUKEMIA (ALL). Subjects with Philadelphia Chromosome (have t(9;22) cytogenetic abnormality) or molecular documentation for BCR-ABL translocation.\n* ACUTE LYMPHOBLASTIC LEUKEMIA (ALL). Subjects with primary refractory disease or subjects in 1st complete remission.\n* NHL or HODKIN'S DISEASE. Subjects who relapse following autologous Stem Cell Transplant.\n* INDOLENT NHL. Subjects with progressive disease following \\> 2 regimens.\n* MULTIPLE MYELOMA. Subjects who relapse following following autologous Stem Cell Transplant.\n* Adults age 21-50.\n* Expected survival 4 weeks.\n* Subjects with no suitable related or unrelated donor for Stem Cell Transplant.\n* Subject has suitable Umbilical Cord Blood (UCB) unit available.\n* Subject has: Ejection fraction \\> 45%; DLCO.45% predicted; Creatinine \\< 2; Total bilirubin \\< 2X normal; Transaminases \\< 2X normal.\n* Subject is capable of giving informed consent.\n\nExclusion Criteria:\n\n* Subject is pregnant or lactating.\n* Subject has an uncontrolled infection.\n* Subject has an active or untreated disease involving the central nervous system.\n* Subject has an active or uncontrolled medical condition that would preclude participation in the protocol.",
+    "gender": "ALL",
+    "min_age": "21 Years",
+    "max_age": "50 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose limiting toxicity (DLT) is defined as grade 4 acute GVHD within the first 90 days following infusion.",
+      "timeFrame": "90 Days post Transplant",
+      "description": ""
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [],
+  "start_date": "2009-01",
+  "completion_date": "2016-05",
+  "last_updated": "2016-08-17"
+}

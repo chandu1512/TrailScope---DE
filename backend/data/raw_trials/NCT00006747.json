@@ -1,0 +1,96 @@
+{
+  "nct_id": "NCT00006747",
+  "brief_title": "Combination Chemotherapy Followed by Peripheral Stem Cell Transplantation in Treating Patients With Mantle Cell Lymphoma",
+  "official_title": "Allogeneic Stem Cell Transplantation for Mantle Cell Lymphoma",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining more than one drug may kill more cancer cells. Peripheral stem cell transplantation may be able to replace immune cells that were destroyed by chemotherapy used to kill cancer cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combination chemotherapy followed by donor peripheral stem cell transplantation in treating patients who have mantle cell lymphoma.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the long term disease-free survival of patients with mantle cell lymphoma treated with etoposide, carmustine, melphalan, and cytarabine followed by allogeneic peripheral blood stem cell transplantation.\n* Determine the incidence of molecular remissions in these patients treated with this regimen.\n* Correlate the persistence of minimal residual disease with clinical outcome in these patients treated with this regimen.\n* Determine the effect of donor lymphocytes in patients with progressive disease after treatment with this regimen.\n\nOUTLINE: This is a multicenter study.\n\nPatients receive carmustine IV over 2 hours on day -6; etoposide IV over 3 hours and cytarabine IV over 1 hour every 12 hours on days -5 to -2 for a total of 8 doses; and melphalan IV over 20-30 minutes on day -1. Patients undergo allogeneic peripheral blood stem cell (PBSC) transplantation on day 0. Patients also receive tacrolimus IV continuously over 24 hours beginning on day -2 and then orally twice daily until day 120 and methotrexate IV over 30 minutes on days 1, 3, and 6 as graft-versus-host disease (GVHD) prophylaxis. Patients receive sargramostim (GM-CSF) IV or subcutaneously daily beginning on day 7 and continuing until blood counts recover.\n\nPatients with no active GVHD who have persistent disease on day 150 or progressive disease at any time after PBSC transplantation receive donor lymphocytes IV over 2 hours. Patients may receive additional donor lymphocytes at least 8 weeks later if disease persists.\n\nPatients are followed at 6 and 12 months posttransplantation and then annually for 4 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 4,
+  "conditions": [
+    "Graft Versus Host Disease",
+    "Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "carmustine",
+      "type": "DRUG",
+      "description": "IV"
+    },
+    {
+      "name": "melphalan",
+      "type": "DRUG",
+      "description": "IV"
+    },
+    {
+      "name": "etoposide",
+      "type": "DRUG",
+      "description": "IV"
+    },
+    {
+      "name": "cytarabine",
+      "type": "DRUG",
+      "description": "IV"
+    },
+    {
+      "name": "tacrolimus",
+      "type": "DRUG",
+      "description": "IV"
+    },
+    {
+      "name": "methotrexate",
+      "type": "DRUG",
+      "description": "IV"
+    },
+    {
+      "name": "sargramostim",
+      "type": "DRUG",
+      "description": "IV"
+    },
+    {
+      "name": "transplant",
+      "type": "PROCEDURE",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "1. Documentation of Disease\n\n   1. Histologically documented mantle cell lymphoma of any stage (needle or core biopsy is not acceptable as the sole means of diagnosis) with at least one of the following confirmatory tests indicative of diagnosis:\n\n      * Immunophenotype with expression of CD5 and CD19 and absence of CD23\n      * Cytogenetic analysis with presence of t(11;14)\n      * Overexpression of cyclin D1\n      * Rearrangement of BCL1 gene\n   2. Rebiopsy of a node at relapse is recommended but not required.\n   3. Bone marrow biopsy required for pretreatment evaluation. Bilateral biopsies are not required.\n2. Identification of HLA-Matched sibling donor - The sibling donor must meet eligibility criteria outlined in section 5.0\n3. Prior Therapy\n\n   1. Patients who have failed initial therapy are eligible (without any of the poor prognostic characteristics listed in the protocol). Failure to initial treatment is defined as one of the following:\n\n      * Failure to achieve clinical complete remission after treatment with an anthracycline-containing regimen\n      * Disease recurrence after initial treatment (with an anthracycline-containing regimen)\n   2. Patients in first remission must have one of the following poor prognostic characteristics:\n\n      * International Prognostic Index (IPI) score \\> 1. IPI risk factors include the following: age \\> 60 (not eligible for this protocol); performance status \\> 1; LDH \\> normal; presence of \\> 1 extranodal sites; and stage III/IV disease\n      * Blastic variant of mantle cell lymphoma (regardless of IPI score)\n      * Complex karyotypes (i.e., cytogenetic abnormalities different from or in addition to t(11;14) (regardless of IPI score)\n      * Proliferative index \\> 10% (regardless of IPI score)\n      * Presence of p53 mutations\n   3. Patients who have received more than two chemotherapy regimens are ineligible. Patients who have undergone a prior bone marrow transplant are not eligible.\n4. Age \\< 60 years\n5. No active CNS lymphoma\n6. DLCO \u2265 40% and no symptomatic pulmonary disease\n7. No HIV infection\n8. Non-pregnant and non-nursing. Treatment under this protocol would expose an unborn child to significant risks. Women and men of reproductive potential should agree to use an effective means of birth control.\n9. Initial required laboratory values\n\n   * bilirubin \\< 2 mg/dl\n   * AST \u2264 3 x upper limit of normal (ULN)\n   * ALT \u2264 3 x ULN\n   * serum creatinine \\< 2 mg/dl\n   * u-HCG or serum HCG negative (if patient of childbearing potential)",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "59 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "CCOP - Christiana Care Health Services",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19899",
+      "status": ""
+    },
+    {
+      "facility": "Marlene and Stewart Greenebaum Cancer Center, University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "disease free survival",
+      "timeFrame": "up to 5 years post-transplant",
+      "description": ""
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2000-11",
+  "completion_date": "2003-02",
+  "last_updated": "2016-07-15"
+}

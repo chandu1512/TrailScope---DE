@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT03656718",
+  "brief_title": "A Study of Subcutaneous Nivolumab Monotherapy With or Without Recombinant Human Hyaluronidase PH20 (rHuPH20)",
+  "official_title": "Phase I/II Pharmacokinetic Multi-Tumor Study of Subcutaneous Formulation of Nivolumab Monotherapy",
+  "brief_summary": "The purpose of this study is to investigate the effects of nivolumab when given under the skin with or without rHuPH20.\n\nThis study will include participants with 1 of the following advanced or metastatic tumors approved for treatment with nivolumab monotherapy:\n\n* non-small cell lung cancer (NSCLC)\n* renal cell carcinoma (RCC)\n* unresectable or metastatic melanoma\n* hepatocellular carcinoma (HCC)\n* microsatellite instability-high or mismatch repair deficient colorectal cancer (MSI-H/dMMR CRC)\n* in Part B, other solid tumors may be considered at the discretion of the Clinical Trial Physician\n* In addition to the above tumors, Part E will also include participants with metastatic urothelial carcinoma (mUC).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 139,
+  "conditions": [
+    "Neoplasms by Site"
+  ],
+  "interventions": [
+    {
+      "name": "nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "(Subcutaneous) Specified dose on specified days"
+    },
+    {
+      "name": "rHuPH20",
+      "type": "DRUG",
+      "description": "Specified dose on specified days Permeation enhancer"
+    },
+    {
+      "name": "nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "(IV) Specified Dose on Specified Days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologic or cytologic confirmation of advanced (metastatic and/or unresectable) solid tumors of one of the following tumor types:\n\n  1. Metastatic squamous or non-squamous NSCLC\n  2. RCC, advanced or metastatic\n  3. Melanoma\n  4. HCC\n  5. CRC, metastatic (MSI-H or dMMR)\n  6. In Part B, other solid tumor types may be considered at the discretion of the Medical Monitor\n  7. In Part E, Metastatic urothelial carcinoma\n* Measurable disease as per RECIST version 1.1 criteria\n* ECOG performance status of 0 or 1\n\nExclusion Criteria:\n\n* Active brain metastases or leptomeningeal metastases\n* Ocular melanoma\n* Active, known, or suspected autoimmune disease\n\nOther protocol defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0024",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "20850",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum Observed Serum Nivolumab Concentration (Cmax) - Parts A, B, D, and E",
+      "timeFrame": "From first dose until approximately 21 days post first dose.",
+      "description": "Cmax is the maximum observed serum nivolumab concentration. Collected for Arm A, B, and D on Cycle 1 Day 1, Cycle 1 Day 2, Cycle 1 Day 4, Cycle 1 Day 8, Cycle 1 Day 15, and Cycle 1 Day 21. Collected for Arm E on Cycle 1 Day 1, Cycle 1 Day 2, Cycle 1 Day 4, Cycle 1 Day 8, Cycle 1 Day 15."
+    },
+    {
+      "measure": "Time Taken to Reach Cmax (Tmax) - Parts A, B, D, and E",
+      "timeFrame": "From first dose until approximately 21 days post first dose.",
+      "description": "Tmax is the time taken to reach the maximum observed serum nivolumab concentration (Cmax). Collected for Arm A, B, and D on Cycle 1 Day 1, Cycle 1 Day 2, Cycle 1 Day 4, Cycle 1 Day 8, Cycle 1 Day 15, and Cycle 1 Day 21. Collected for Arm E on Cycle 1 Day 1, Cycle 1 Day 2, Cycle 1 Day 4, Cycle 1 Day 8, Cycle 1 Day 15."
+    },
+    {
+      "measure": "Area Under the Time-Serum Nivolumab Concentration Curve (AUC (TAU)) - Parts A, B, D, and E",
+      "timeFrame": "From first dose until approximately 21 days post first dose.",
+      "description": "AUC (TAU) is the area measured under the concentration-time curve taken over the dosing interval. Collected for Arm A, B, and D on Cycle 1 Day 1, Cycle 1 Day 2, Cycle 1 Day 4, Cycle 1 Day 8, Cycle 1 Day 15, and Cycle 1 Day 21. Collected for Arm E on Cycle 1 Day 1, Cycle 1 Day 2, Cycle 1 Day 4, Cycle 1 Day 8, Cycle 1 Day 15."
+    },
+    {
+      "measure": "Observed Serum Nivolumab Concentration at the End of Dosing (Ctau) - Parts A, B, D, and E",
+      "timeFrame": "At the end of dosing interval of Cycle 1 - first dose (Day 21 for Parts A, B and D; Day 15 for Part E)",
+      "description": "Ctau is the observed serum nivolumab concentration at the end of the dosing interval. Collected for Arma A, B, and D."
+    },
+    {
+      "measure": "Lowest Observed Serum Nivolumab Concentration (Ctrough) During Part C - Part A and B Crossover Participants to Part C",
+      "timeFrame": "On Day 1 of Cycles 2, 3, 5, 9, 13, and 19 of Part C (Day 1 of Part C: up to 14 months from Baseline; each cycle was 28 days)",
+      "description": "Ctrough assessed during Part C. Ctrough is the lowest observed serum nivolumab concentration."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2018-10-29",
+  "completion_date": "2024-09-12",
+  "last_updated": "2025-10-28"
+}

@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT01417182",
+  "brief_title": "Biodistribution and Pharmacokinetic Study of 18F-DCFBC Prostate Specific Membrane Antigen Based PET in Patients With Advanced Prostate Cancer",
+  "official_title": "Phase 1 Biodistribution and Pharmacokinetic Study of 18F-DCFBC PSMA Based PET in Patients With Advanced Prostate Cancer",
+  "brief_summary": "Prostate cancer is the most common cancer among men in the United States. Through early detection and improved local therapies a large number of men will be cured. The clinical needs include early detection, accurate initial staging and detection of local recurrence or metastases in order to permit application of the most appropriate therapy. Therapeutic monitoring and prognostic assessment are equally important. Imaging can play an important and crucial role in meeting these clinical needs.\n\nPositron emission tomography (PET) imaging has gained an important role in the clinical management of cancer patients. 18F-DCFBC is a novel low molecular weight prostate specific membrane antigen (PSMA)-based radiopharmaceutical which is radiolabeled with a fluorine-18 positron emitter for PET imaging. Preclinical mouse prostate cancer tumor model imaging studies of 18F-DCFBC demonstrate high specific uptake in PSMA expressing prostate cancer cells. The investigators will assess the hypothesis that 18F-DCFBC, a new positron emission tomography (PET) radiopharmaceutical may possess pharmacokinetic and pharmacodynamic properties that will represent an advance in imaging prostate cancer. This initial phase I study will determine the biodistribution, pharmacokinetics, and prostate specific tumor uptake in patients with metastatic prostate cancer.",
+  "detailed_description": "Prostate cancer is the most common cancer among men in the United States. Through early detection and improved local therapies a large number of men will be cured. The clinical needs include early detection, accurate initial staging and detection of local recurrence or metastases in order to permit application of the most appropriate therapy. Therapeutic monitoring and prognostic assessment are equally important. Imaging can play an important and crucial role in meeting these clinical needs.\n\nPositron emission tomography (PET) imaging has gained an important role in the clinical management of cancer patients. 18F-DCFBC is a novel low molecular weight prostate specific membrane antigen (PSMA)-based radiopharmaceutical which is radiolabeled with a fluorine-18 positron emitter for PET imaging. Preclinical mouse prostate cancer tumor model imaging studies of 18F-DCFBC demonstrate high specific uptake in PSMA expressing prostate cancer cells. The investigators will assess the hypothesis that 18F-DCFBC, a new positron emission tomography (PET) radiopharmaceutical may possess pharmacokinetic and pharmacodynamic properties that will represent an advance in imaging prostate cancer. This initial phase I study will determine the biodistribution, pharmacokinetics, and prostate specific tumor uptake in patients with metastatic prostate cancer.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 5,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "18F-DCFBC",
+      "type": "DRUG",
+      "description": "A bolus of 10 mCi (370 MBq) of 18F-DCFBC will be injected once into the IV line by slow push IV push."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:Patients may be enrolled into this protocol only if all of the following inclusion criteria are met:\n\n1. Greater than or equal to 18 years of age\n2. Histological confirmation of prostate cancer\n3. Radiologic evidence of new or progressive metastatic disease demonstrated on anatomical imaging (CT, MRI, or ultrasound), bone scintigraphy, 18F-Sodium Fluoride PET, or 18F-FDG PET\n4. PSA \u2265 1.0 ng/mL\n5. Can be on androgen deprivation therapy if dose is stable for \u2265 1 week.\n6. Platelet count \\> 50,000/mm3\n7. Neutrophil count \\> 1,000/mm3\n8. Patient is judged by the Investigator to have the initiative and means to be compliant with the protocol and be within geographical proximity to make the required study visits.\n9. Patients or their legal representatives must have the ability to read, understand and provide written informed consent for the initiation of any study related procedures.\n\nExclusion Criteria:\n\nPatients will be excluded from enrollment if any of the following apply:\n\n1. Karnovsky performance status of \\< 60\n2. Inadequate venous access (two antecubital or equivalent venous access sites are required for study drug injection and PK blood sampling, respectively)\n3. Patient received a permanent prostate brachytherapy implant within the last 3 months (for Pd-103 implants) or 12 months (for I-125 implants)\n4. Administered a radioisotope within 5 physical half-lives prior to study enrollment\n5. Serum creatinine \\> 3 times the upper limit of normal\n6. Total bilirubin \\> 3 times the upper limit of normal\n7. Liver Transaminases \\> 5times the upper limit of normal\n8. Patient has been treated with an investigational drug, investigational biologic, or investigational therapeutic device within 30 days prior to study radiotracer administration\n9. Prior radiation therapy or chemotherapy within 2 weeks prior to study radiotracer administration (Washout is one half-life of the drug or 2 weeks, whichever is longest).\n10. Prior history of any other malignancy within 3 years, other than skin basal cell carcinoma.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "90 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Outpatient Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21227",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Serial PET scans will be used to obtain biodistribution and radiation dosimetry calculations.",
+      "timeFrame": "one year",
+      "description": "Time-activity curves (TACs) demonstrating radiotracer activity as a function of time post injection (minutes) will be drawn for the whole body and the following organs: brain, breast, gallbladder, stomach, pancreas, heart wall, lung, liver, bladder, muscle, pancreas, red marrow, spleen, adrenals, upper large intestine, lower large intestine, small intestine, thymus, thyroid, testes and ovaries.Organ specific mean radiation-absorbed dose estimates for 18F-DCFBC will be calculated from the individual organ residence times. The OLINDA software package will be used to perform the absorbed dose."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Prostate Cancer Foundation",
+    "Radiological Society of North America"
+  ],
+  "start_date": "2010-09",
+  "completion_date": "2014-09",
+  "last_updated": "2019-01-15"
+}

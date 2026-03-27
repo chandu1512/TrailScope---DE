@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT02245100",
+  "brief_title": "Circulating Tumor DNA in Predicting Outcomes in Patients With Stage IV Head and Neck Cancer or Stage III-IV Non-small Cell Lung Cancer",
+  "official_title": "A Pilot Study to Evaluate the Predictive Value of Circulating Tumor DNA for Clinical Outcome in Patients With Advanced Head and Neck and Lung Cancers",
+  "brief_summary": "This pilot research trial studies circulating tumor deoxyribonucleic acid (DNA) in predicting outcomes in patients with stage IV head and neck cancer or stage III-IV non-small cell lung cancer. Studying circulating tumor DNA from patients with head and neck or lung cancer in the laboratory may help doctors predict how well patients will respond to treatment.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To evaluate the predictive value of the circulating tumor DNA for disease-free survival/progression-free survival in patients with advanced head and neck carcinoma (HNC) and non-small cell lung cancer (NSCLC).\n\nSECONDARY OBJECTIVES:\n\nI. To correlate the levels of plasma tumor DNA with the salivary tumor DNA. II. To correlate the mutations found in the circulating tumor DNA with the mutations in the tumor tissues.\n\nIII. To evaluate the association between presence and absence of circulating tumor DNA mutation with the tumor burden assessed by using the radiological findings and pre-treatment fludeoxyglucose (FDG) positron emission tomography (PET)-derived metrics: metabolic tumor volume (MTV), maximum standardized uptake value (SUVmax), total glycolytic activity (TGA).\n\nIV. To quantify tumor-specific exosomes from plasma. V. To evaluate the utility of cancer-derived exosomes to serve as prognostic biomarkers for real-time monitoring of therapeutic efficacy and identifying early recurrence using longitudinal samples from cancer patients undergoing treatment.\n\nOUTLINE:\n\nPatients undergo blood sample collection within 1 month before surgery, radiation therapy, or chemotherapy; within 1 week after surgical resection (for patients having upfront surgery); within 1 month before beginning of post-operative radiation therapy (for patients having upfront surgery); during the second week of radiation therapy, during the last week of radiation therapy; and at 1 and 3 months after radiation therapy and then every 3 months for up to 18 months. Patients also undergo saliva sample collection within 1 month before surgery, radiation therapy, chemoradiation therapy, or system chemotherapy and tissue collection at the time of surgery (if upfront surgery is indicated). Blood, saliva, and tissue samples are analyzed for tumor mutations via next generation sequencing.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 130,
+  "conditions": [
+    "Metastatic Squamous Neck Cancer With Occult Primary Squamous Cell Carcinoma",
+    "Salivary Gland Squamous Cell Carcinoma",
+    "Stage IIIA Non-small Cell Lung Cancer",
+    "Stage IIIB Non-small Cell Lung Cancer",
+    "Stage IV Non-small Cell Lung Cancer",
+    "Stage IV Squamous Cell Carcinoma of the Hypopharynx",
+    "Stage IV Squamous Cell Carcinoma of the Nasopharynx",
+    "Stage IVA Salivary Gland Cancer",
+    "Stage IVA Squamous Cell Carcinoma of the Larynx",
+    "Stage IVA Squamous Cell Carcinoma of the Lip and Oral Cavity",
+    "Stage IVA Squamous Cell Carcinoma of the Oropharynx",
+    "Stage IVA Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity",
+    "Stage IVA Verrucous Carcinoma of the Larynx",
+    "Stage IVA Verrucous Carcinoma of the Oral Cavity",
+    "Stage IVB Salivary Gland Cancer",
+    "Stage IVB Squamous Cell Carcinoma of the Larynx",
+    "Stage IVB Squamous Cell Carcinoma of the Lip and Oral Cavity",
+    "Stage IVB Squamous Cell Carcinoma of the Oropharynx",
+    "Stage IVB Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity",
+    "Stage IVB Verrucous Carcinoma of the Larynx",
+    "Stage IVB Verrucous Carcinoma of the Oral Cavity",
+    "Stage IVC Salivary Gland Cancer",
+    "Stage IVC Squamous Cell Carcinoma of the Larynx",
+    "Stage IVC Squamous Cell Carcinoma of the Lip and Oral Cavity",
+    "Stage IVC Squamous Cell Carcinoma of the Oropharynx",
+    "Stage IVC Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity",
+    "Stage IVC Verrucous Carcinoma of the Larynx",
+    "Stage IVC Verrucous Carcinoma of the Oral Cavity",
+    "Tongue Cancer",
+    "Untreated Metastatic Squamous Neck Cancer With Occult Primary"
+  ],
+  "interventions": [
+    {
+      "name": "Cytology specimen",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "Laboratory biomarker analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients older than 18 years age\n2. Diagnosis of advanced HNC (Stage III, IVA, IVB, IVC) or NSCLC (Stage IIA, IIB, IIIA, IIIB, IV) (patients with synchronous advanced HNC and NSCLC are eligible)\n3. ECOG performance status score of 0-3\n4. Life expectancy of 3 months or longer\n5. Patients able to provide a written informed consent prior to study entry\n\nExclusion Criteria:\n\n1. Prior chemotherapy or full course of radiotherapy for their present advanced HNC or NSCLC\n2. Patients are excluded if they have a history of any other malignancy from which the patient has been disease-free for less than 2 years, with the exception of adequately treated basal or squamous cell carcinoma of skin\n3. Other severe acute or chronic medical or psychiatric condition that may increase the risk associated with study participation, and in the judgment of the investigator would make the subject inappropriate for entry into this study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Predictive value of circulating tumor DNA for disease-free survival (DFS)/progression-free survival (PFS)",
+      "timeFrame": "Up to 2 years",
+      "description": "To evaluate the predictive value of circulating tumor DNA for DFS/PFS, Cox proportional model will be utilized. Circulating tumor DNA will be treated as either continuous or categorical variables in the regression models. The optimal cut-off value to dichotomize the patients by circulating tumor DNA will be determined by time-dependent receiver operating characteristic curve."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2014-07-22",
+  "completion_date": "2023-12-08",
+  "last_updated": "2025-05-14"
+}

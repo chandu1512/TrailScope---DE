@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT05408260",
+  "brief_title": "A Study to Compare the Effectiveness of Two Types of Ultrasound Technologies in Women Who Have Had Breast Cancer",
+  "official_title": "Feasibility of Automated Breast Ultrasound (ABUS) Versus Handheld Ultrasound (HHUS) for Breast Cancer Surveillance in Women With Nipple Sparing or Skin Sparing Mastectomy With Reconstruction",
+  "brief_summary": "This clinical trial evaluates automated breast ultrasound (ABUS) and handheld ultrasound (HHUS) for the screening of women who have undergone breast reconstruction after breast cancer. Ultrasounds use high-frequency sound waves to create pictures of internal organs and tissues. ABUS has been found to be equal to HHUS for whole breast screening, but no data exist on its use for screening of reconstructed patients. This clinical trial evaluates the feasibility of using ABUS versus HHUS to screen women who have undergone reconstruction.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To show that ABUS reduces artifact compared to HHUS in terms of detection of the residual tissue in reconstructed nipple sparing mastectomy (NSM) and skin sparing mastectomy (SSM) patients.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate both the performance and interpretation times for ABUS and HHUS so that these factors can be considered when scheduling patients and for ease of implementation into practice.\n\nII. A short survey will be administered immediately after both ultrasounds performed to enrolled patients to assess their experience with HHUS and ABUS, specifically addressing their perceived comfort level on a numerical scale and if they would be interested in obtaining subsequent annual screening HHUS or ABUS.\n\nEXPLORATORY OBJECTIVE:\n\nI. The appearance of native and reconstructed anatomy on ABUS and HHUS will be studied.\n\nOUTLINE:\n\nParticipants undergo HHUS and ABUS in no required order over 1 hour.\n\nParticipants with ultrasound results indicating Breast Imaging Reporting and Data System (BI-RADS) 4 or 5 (suspicious and needs biopsy) undergo biopsy within 30 days.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 12,
+  "conditions": [
+    "Malignant Breast Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "Ultrasonography",
+      "type": "PROCEDURE",
+      "description": "Undergo HHUS"
+    },
+    {
+      "name": "Automated Breast Ultrasound",
+      "type": "PROCEDURE",
+      "description": "Undergo ABUS"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Female\n* \\>= 18 years of age at time of consent\n* Free of focal breast symptoms and with no suspicious breast physical exam findings\n* Previous unilateral NSM or SSM with implant (silicone, saline) or flap reconstruction performed at Thomas Jefferson University Hospital\n* Must be able to understand and provide signed and dated informed consent form. If a patient understands the informed consent but is unable to sign, a legally authorized representative (LAR) may sign\n* Willing to comply with all study procedures and be available for the duration of the study\n* Willing to honor any bills that may be incurred if the insurance company does not pay for the billed bilateral hand held ultrasound\n\nExclusion Criteria:\n\n* History of breast cancer recurrence\n* Current focal breast symptoms since NSM or SSM with reconstruction\n* NSM or SSM with reconstruction was performed years prior to study enrollment\n* Bilateral NSM or SSM with reconstruction\n* Females who are pregnant",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Detection of the residual tissue (i.e., artifact) in reconstructed nipple sparing mastectomy (NSM) and skin sparing mastectomy (SSM) patients by automated breast ultrasound (ABUS) and handheld ultrasound (HHUS)",
+      "timeFrame": "Up to 1 year",
+      "description": "This is a binary endpoint. The rate of artifact will be compared between handheld and automated scanning using McNemar test."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2022-11-18",
+  "completion_date": "2025-02-17",
+  "last_updated": "2025-12-29"
+}

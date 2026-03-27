@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT05383976",
+  "brief_title": "Improving Colorectal Cancer Screening in Racially Diverse Zip Codes Using Navigation and Machine Learning (PCSNaP)",
+  "official_title": "A Feasibility Study to Improve Colorectal Cancer Screening Among Racially Diverse Zip Codes in a Persistent Poverty County Using Navigation and Machine Learning Predictive Algorithms",
+  "brief_summary": "The overarching goal of the \"PCSNaP\" Research Study is to support the Abramson Cancer Center (ACC) of the University of Pennsylvania in carrying out its mission to increase colorectal cancer (CRC) screening completion among high-risk individuals living in a persistent poverty county by designing, conducting, disseminating and evaluating an electronic health record-based automated identification program to target effective, culturally-sensitive CRC screening navigation to individuals who have not completed an ordered colonoscopy or fecal immunochemical test (FIT).",
+  "detailed_description": "Specifically, the goals of this study are to: 1) Adapt a previously validated electronic health record (EHR)-based machine learning algorithm to predict colorectal cancer (CRC) detection by retraining the model using data from patients seen in primary care clinics serving zip codes with a high proportion of racial and ethnic minorities living in Philadelphia County, a persistent poverty county; and 2) Implement and evaluate the feasibility and effectiveness of an algorithm-based CRC navigation program to increase colorectal cancer screening among patients in Philadelphia county who are at high risk of CRC and have uncompleted colonoscopies.\n\nTogether, these novel projects aim to be the first to combine use of machine learning algorithms and patient navigation to increase guideline-based cancer screening in order to reduce the burden of CRC among high-risk individuals living in a persistent poverty county through targeted, culturally-sensitive navigation that addresses social factors that prevent CRC screening.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 385,
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Machine Learning Algorithm with Existing Penn Medicine CRC Patient Navigation Program",
+      "type": "OTHER",
+      "description": "This intervention will utilize the existing Penn Medicine CRC patient navigation program. There will be a monthly list of patients with unfilled coloscopies provided, that are risk-stratified according to the machine learning algorithm and select high-risk criteria. The navigation team will prioritize timely outreach and navigation to high-risk patients according to a script that communicates risk."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients residing in 18 zip codes in Western and Southwestern Philadelphia who have primary care providers in 4 Penn Medicine Internal Medicine practices and 3 Penn Medicine Family Medicine Practices\n* Patients who have had a colonoscopy order placed in the past 6 months and have not scheduled, cancelled, or no-showed to their colonoscopy\n\nExclusion Criteria:\n\n* Not applicable",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Enrollment in Navigator Program (Feasibility)",
+      "timeFrame": "During the three month enrollment period",
+      "description": "Number of patients that participate in the navigation program"
+    },
+    {
+      "measure": "Completion of Colorectal Cancer Screening",
+      "timeFrame": "Within the three month enrollment period and three month follow-up period",
+      "description": "Number of patients that have completed their colonoscopy or Fecal Immunochemical Test (FIT)"
+    },
+    {
+      "measure": "Number of Participants With Adenoma Detection",
+      "timeFrame": "Within the three month enrollment period and three month follow-up period",
+      "description": "Rate of adenomas after completion of colonoscopy"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2022-03-29",
+  "completion_date": "2024-11-01",
+  "last_updated": "2026-02-10"
+}

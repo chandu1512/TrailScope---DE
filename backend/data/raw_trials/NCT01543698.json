@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT01543698",
+  "brief_title": "A Phase Ib/II Study of LGX818 in Combination With MEK162 in Adult Patients With BRAF Dependent Advanced Solid Tumors",
+  "official_title": "A Phase Ib/II, Multicenter, Open-label, Dose Escalation Study of LGX818 in Combination With MEK162 in Adult Patients With BRAF V600 - Dependent Advanced Solid Tumors",
+  "brief_summary": "This is a multi-center, open-label, dose finding, Phase Ib dose escalation study to estimate the MTD(s) and/or RP2D(s) for the dual combination of LGX818 and MEK162 and the triple combination of LGX818 and MEK162 and LEE011, followed each independently by a Phase II part to assess the clinical efficacy and to further assess the safety of the combinations in selected patient populations. Oral LGX818 and MEK162 will be administered on a continuous schedule. Oral LEE011 will be administered once daily on a three weeks on, one week off schedule. Patients will be treated until progression of disease, unacceptable toxicity develops, or withdrawal of informed consent, whichever occurs first. A cycle is defined as 28 days. The dose escalation parts of the trial will be conducted in adult patients with BRAF V600-dependent advanced solid tumors and is expected to enroll at least 18 patients for the dual combination and at least 12 patients for the triple combination. The dose escalation will be guided by a Bayesian logistic regression model (BLRM). Following MTD/RP2D declaration, patients will be enrolled in three Phase II arms for the dual combination and one Phase II arm for the triple combination. All patients will be followed for 30 days for safety assessments after study drugs discontinuation. All patients enrolled in the Phase II part of the study will be followed for survival.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 189,
+  "conditions": [
+    "Solid Tumors Harboring a BRAF V600 Mutation"
+  ],
+  "interventions": [
+    {
+      "name": "LGX818",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "MEK162",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "LEE011",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nHistologically confirmed diagnosis of locally advanced or metastatic melanoma (stage IIIB to IV per American Joint Committee on Cancer \\[AJCC\\]), or confirmed diagnosis of non-resectable advanced metastatic colorectal cancer (mCRC), or any other indication upon agreement with the Sponsor, whose disease has progressed despite previous antineoplastic therapy or for whom no further effective standard therapy is available\n\n* Written documentation of BRAF V600E mutation, or any other BRAF V600 mutation\n* Evidence of measurable disease as determined by RECIST v1.1\n* World Health Organization (WHO) Performance Status \u2264 2\n* Negative serum pregnancy test within 72 hours prior to the first study dose in all women of childbearing potential\n\nExclusion Criteria:\n\nProgressive disease following prior treatment with RAF-inhibitors in combination with MEK-inhibitors\n\n* Symptomatic or untreated leptomeningeal disease\n* Symptomatic brain metastases. Patients are not permitted to receive enzyme inducing anti-epileptic drugs\n* Known acute or chronic pancreatitis\n* History or current evidence of retinal disease, retinal vein occlusion or ophthalmopathy\n* Clinically significant cardiac disease\n* Patients with abnormal laboratory values at Screening/baseline\n* Impairment of gastrointestinal (GI) function or GI disease that may significantly alter the absorption of oral LGX818/MEK162\n* Previous or concurrent malignancy\n* Pregnant or nursing (lactating) women\n* For addition of LEE011 in the triple combination, congenital long QT syndrome or family history of unexpected sudden cardiac death and/or hypokalemia CTCAE Grade \u2265 3, brain metastases at baseline, abnormal coagulation results PT/INR \\>1.5 x ULN or aPTT \\>1.5 x ULN.\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Dose Limiting Toxicities (DLTs): Phase 1b",
+      "timeFrame": "Phase 1b: Cycle 1 (28 days following the first dose of LGX818 and MEK162 or LGX818 and MEK162 and LEE011)",
+      "description": "DLT was defined as an adverse event or abnormal laboratory value assessed as at least possibly related to the study medication, as clinically relevant, as unrelated to disease, disease progression, inter-current illness, or concomitant medications, which occurred (less than equal to) \\<=28 days following the first dose of LGX818 and MEK162 or LGX818 and MEK162 and LEE011 (cycle 1) and met the defined criteria for the study."
+    },
+    {
+      "measure": "Disease Control Rate (DCR) at Week 16: Phase 2, Arm 1 (mCRC Participants)",
+      "timeFrame": "Phase 2: Week 16",
+      "description": "DCR was defined as percentage of participants with a best overall response of complete response (CR), partial response (PR) or stable disease (SD). As per Response Evaluation Criteria in Solid tumors Response Evaluation Criteria in Solid Tumors (RECIST) v1.1: CR was defined as complete disappearance of all target lesions and non-target disease. All nodes, both target and non-target, must have a reduction in short axis less than (\\<)10 millimeter \\[mm\\]). PR was defined as more than equal to (\\>=) 30 percent (%) decrease under baseline of sum of diameters of all target lesions taking as reference the baseline sum of diameters. SD was defined as neither sufficient shrinkage to qualify for PR or CR nor an increase in lesions which would qualify for progressive disease (PD)."
+    },
+    {
+      "measure": "Objective Response Rate (ORR): Phase 2, Arms 2, 3 and A",
+      "timeFrame": "Phase 2: From Day 1 of dosing till complete response or partial response achieved (maximum exposure of treatment for Phase 2 was 111.5 months]",
+      "description": "ORR was defined as the percentage of participants with a best overall response of CR or PR. As per RECIST v1.1, CR was defined as complete disappearance of all target lesions and non-target disease. All nodes, both target and non-target, must have a reduction in short axis \\<10 mm. PR was defined as \\>= 30% decrease under baseline of sum of diameters of all target lesions taking as reference the baseline sum of diameters."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2012-05-28",
+  "completion_date": "2023-03-09",
+  "last_updated": "2024-02-15"
+}

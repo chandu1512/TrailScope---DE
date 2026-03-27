@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT06147037",
+  "brief_title": "A Phase 1, Dose-escalation Study of [225Ac]-FPI-2068 in Adult Patients With Advanced Solid Tumours",
+  "official_title": "A Phase 1, First-in-human, Multicentre, Open-label, Dose Escalation Study of [225Ac]-FPI-2068 in Adult Patients With Advanced Solid Tumours",
+  "brief_summary": "This is a first-in-human, Phase 1, non-randomized, multicenter, open-label clinical study designed to investigate the safety, tolerability, dosimetry, biodistribution, and pharmacokinetics (PK) of \\[225Ac\\]-FPI-2068, \\[111In\\]-FPI-2107, and FPI-2053 in metastatic and/or recurrent solid tumors (HNSCC, NSCLC, mCRC, PDAC, GC, RCC).",
+  "detailed_description": "The study will be conducted in 2 parts:\n\nPart A: optimization of the FPI-2053 dose (treatment with dose level 1 of \\[225Ac\\]-FPI-2068 - fixed dose).\n\nPart B: dose escalation of \\[225Ac\\]-FPI-2068 with optimal FPI-2053. Part B will commence once the optimal dose of FPI-2053 is determined in Part A. The RP2D will be determined from Part B based on all available safety, efficacy, PK, and dosimetry information.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 70,
+  "conditions": [
+    "Advanced Solid Tumor",
+    "Metastatic Colorectal Carcinoma",
+    "Head and Neck Squamous Cell Carcinoma",
+    "Non-small Cell Lung Cancer",
+    "Pancreatic Ductal Adenocarcinoma",
+    "Gastric Cancer",
+    "Renal Cell Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "FPI-2053",
+      "type": "DRUG",
+      "description": "FPI-2053 is a bispecific antibody that targets EGFR and cMET"
+    },
+    {
+      "name": "[111In]-FPI-2107",
+      "type": "DRUG",
+      "description": "\\[111In\\]-FPI-2107 is an imaging agent in which indium-111 is conjugated to FPI-2053.\n\nParticipants will have a fixed dose of \\[111In\\]-FPI-2107 followed by imaging scans (with or without pre-administration of FPI-2053)."
+    },
+    {
+      "name": "[225Ac]-FPI-2068",
+      "type": "DRUG",
+      "description": "\\[225Ac\\]-FPI-2068 is a radiopharmaceutical therapy in which an alpha emitter, actinium-225, is conjugated to FPI-2053.\n\nParticipants will be dosed through IV administration every 56 days for up to 3 cycles of the Treatment Period."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\nHistologically and/or cytologically confirmed solid tumor that is metastatic, locally advanced, recurrent or inoperable.\n\nDisease that has progressed despite prior treatment, and for which additional effective standard therapy is not available or is contraindicated, not tolerable, or the participant refuses standard therapy.\n\nMeasurable disease as defined by RECIST Version 1.1\n\nECOG Performance status of 0 or 1\n\nAdequate organ function\n\nKey Exclusion Criteria:\n\nPrevious treatment with any systemic radiopharmaceutical\n\nPrior anti-cancer therapy unless adequate washout and recovery from toxicities\n\nContraindications to or inability to perform the imaging procedures required in this study\n\nRadiation therapy (RT) within 28 days prior to the first dose of \\[111In\\]-FPI-2107\n\nUncontrolled pleural effusion, pericardial effusion, or ascites requiring recurrent drainage procedures (\u2265 once per month)\n\nPatients with known CNS metastatic disease unless treated and stable",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15237",
+      "status": "WITHDRAWN"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Evaluate safety and tolerability of [111In]-FPI-2107, FPI-2053, and [225Ac]-FPI-2068",
+      "timeFrame": "From informed consent up to approximately 5 years post last administration",
+      "description": "Frequency, duration, and severity of AEs, DLTs, and changes in clinical, laboratory, and ECG parameters compared to baseline"
+    },
+    {
+      "measure": "Determine radiation dose of [111In]-FPI-2107 and [225Ac]-FPI-2068 to whole body, organs, and selected regions of interest.",
+      "timeFrame": "Within 56 days of administration",
+      "description": "Changes in uptake of \\[111In\\]-FPI-2107 and projected RAD of \\[225Ac\\]-FPI-2068 by imaging following the administration of varying doses of FPI-2053"
+    },
+    {
+      "measure": "Determine the RP2D of [225Ac]-FPI-2068, given with or without FPI-2053",
+      "timeFrame": "56 days post administration",
+      "description": "Estimates of residence time and absorbed radiation doses to the whole body, organs, and selected regions of interest for \\[111In\\]-FPI-2107 and \\[225Ac\\]-FPI-2068."
+    },
+    {
+      "measure": "Determine the effect of predose administration of varying doses of FPI-2053 on the radiation dosimetry of [111In]-FPI-2107 and [225Ac]-FPI-2068 to whole body, organs, and selected regions of interest.",
+      "timeFrame": "56 days post-administration",
+      "description": "Changes in uptake of \\[111In\\]-FPI- 2107 and projected RAD of \\[225Ac\\]-FPI-2068 by imaging following the administration of varying doses of FPI-2053"
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2024-07-31",
+  "completion_date": "2028-05-12",
+  "last_updated": "2026-03-02"
+}

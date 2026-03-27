@@ -1,0 +1,87 @@
+{
+  "nct_id": "NCT00002706",
+  "brief_title": "Laparoscopic Surgery or Standard Surgery in Treating Patients With Endometrial Cancer or Cancer of the Uterus",
+  "official_title": "A Phase III Randomized Clinical Trial of Laparoscopic Pelvic and Para-Aortic Node Sampling With Vaginal Hysterectomy and BSO Versus Open Laparotomy With Pelvic and Para-Aortic Node Sampling and Abdominal Hysterectomy and BSO in Endometrial Adenocarcinoma and Uterine Sarcoma, Clinical Stage I, IIA, Grade I, II, III",
+  "brief_summary": "This randomized phase III trial is studying laparoscopic surgery to see how well it works compared to standard surgery in treating patients with endometrial cancer or cancer of the uterus. Laparoscopic surgery is a less invasive type of surgery for cancer of the uterus and may have fewer side effects and improve recovery. It is not known whether laparoscopic surgery is more effective than standard surgery in treating endometrial cancer.",
+  "detailed_description": "OBJECTIVES:\n\nI. Compare the incidence of surgical complications, peri-operative morbidity, and mortality in patients with stage I or IIa, grade I-III endometrial cancer or uterine cancer undergoing surgical staging through laparoscopic assisted vaginal hysterectomy vs total abdominal hysterectomy.\n\nII. Compare the length of hospital stay after surgery in patients receiving these treatments.\n\nIII. Compare the quality of life of patients receiving these treatments. IV. Compare the incidence and location of disease recurrence in patients receiving these treatments.\n\nOUTLINE: This is a randomized, multicenter study. Patients are randomized to 1 of 2 treatment arms.\n\nARM I: Patients undergo vaginal hysterectomy and bilateral salpingo-oophorectomy (BSO) via laparoscopy.\n\nARM II: Patients undergo total abdominal hysterectomy and BSO via conventional laparotomy.\n\nPatients in both arms also undergo pelvic and para-aortic lymph node sampling. Quality of life is assessed at baseline, at 1, 3, and 6 weeks, and then at 6 months.\n\nPatients are followed at 6 weeks, every 3 months for 2 years, and then every 6 months for 3 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 2616,
+  "conditions": [
+    "Endometrial Adenocarcinoma",
+    "Stage I Uterine Corpus Cancer",
+    "Stage I Uterine Sarcoma",
+    "Stage II Uterine Corpus Cancer",
+    "Stage II Uterine Sarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "Laparoscopic Surgery",
+      "type": "PROCEDURE",
+      "description": "Undergo vaginal hysterectomy and BSO via laparoscopy"
+    },
+    {
+      "name": "Quality-of-Life Assessment",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "Therapeutic Conventional Surgery",
+      "type": "PROCEDURE",
+      "description": "Undergo total abdominal hysterectomy and BSO via conventional laparotomy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Diagnosis of stage I or IIA, grade I-III endometrial adenocarcinoma or uterine sarcoma\n* Must be considered a candidate for surgery\n* No contraindication to laparoscopy\n* No clinical or chest x-ray evidence of metastasis beyond the uterine corpus or macroscopic involvement of the endocervix\n* Performance status - GOG 0-3\n* WBC at least 3,000/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n* Bilirubin no greater than 1.5 times normal\n* SGOT no greater than 3 times normal\n* Creatinine no greater than 2.0 mg/dL\n* Prior malignancy allowed if no current evidence of disease\n* Not pregnant\n* No prior pelvic or abdominal radiotherapy\n* See Disease Characteristics\n* No prior retroperitoneal surgery",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Gynecologic Oncology Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Duration of disease-free interval",
+      "timeFrame": "Up to 5 years",
+      "description": "The usual logrank test or a proportional hazards model will be used to assess the equality of the hazard rates between the surgical procedures."
+    },
+    {
+      "measure": "Frequency of aborting LAVH in order to perform an TAH/BSO",
+      "timeFrame": "Up to 5 years",
+      "description": ""
+    },
+    {
+      "measure": "Frequency of major surgical complications, graded according to the NCI CTC and classified as either less than grade 2 or grade 2 or worse",
+      "timeFrame": "Up to 5 years",
+      "description": ""
+    },
+    {
+      "measure": "Length of hospitalization following surgery",
+      "timeFrame": "From the date of surgery to the date of discharge, assessed up to 5 years",
+      "description": "A proportional odds model will be used to estimate the treatment difference while adjusting for potential confounding factors."
+    },
+    {
+      "measure": "Self assessed quality of life scores as measured by FACT-G, Physical Function Subscale from the MOS SF-36, Wisconsin Brief Pain Inventory, Fear of Relapse/Recurrence scale, and Personal Appearance scale",
+      "timeFrame": "Up to 6 months",
+      "description": ""
+    }
+  ],
+  "sponsor": "Gynecologic Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "1996-04",
+  "completion_date": "",
+  "last_updated": "2015-05-27"
+}

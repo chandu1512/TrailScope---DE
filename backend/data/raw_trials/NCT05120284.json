@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT05120284",
+  "brief_title": "Trial of Dichloroacetate (DCA) in Glioblastoma Multiforme (GBM)",
+  "official_title": "Trial of Dichloroacetate (DCA) in Glioblastoma Multiforme (GBM)",
+  "brief_summary": "Conduct a multicenter, open label Phase IIA trial of oral DCA in 40 surgical patients with recurrent GBM who have clinically indicated debulking surgery planned. No patients will be recruited at UF. Patients will be genotyped to establish safe dosing regimens and will be randomized to receive DCA (N=20) or no DCA (N=20) for one week prior to surgery. Deidentified blood and tumor tissue obtained at surgery will be assessed at UF for biochemical markers of DCA dynamics.",
+  "detailed_description": "Evaluate effects of dichloroacetate (DCA) on tumor PDC phosphorylation.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 40,
+  "conditions": [
+    "Glioblastoma Multiforme"
+  ],
+  "interventions": [
+    {
+      "name": "Dichloroacetate (DCA)",
+      "type": "DRUG",
+      "description": "Study medication DCA is a liquid formulation mixed with an artificial sweetener containing aspartame and strawberry extract (50mg/mL)\n\nParticipants will be genotyped to determine GSTZ1 (glutathione S-transferase Zeta-1) haplotype status, which will stratify this group into 1 of 2 dose regimens:\n\nEGT carriers will receive 12-14 mg/kg/12hr DCA. EGT non-carriers will receive 6-7 mg/kg/12 hr."
+    },
+    {
+      "name": "Genotype",
+      "type": "GENETIC",
+      "description": "Participants will be genotyped to determine GSTZ1 haplotype status."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Study subjects will be male and female adults, aged 18 through 80 years, previously diagnosed with a GBM who have experienced tumor recurrence as determined by neuroimaging and some degree of symptomatology (e.g., headache, mental status change, seizure) and have clinically indicated tumor debulking surgery planned.\n* All subjects will have completed initial, standard- therapy with surgical debulking, followed by radiation and temozolomide (TMZ) and will, therefore, be considered treatment failures. Patients with truly unmethylated GBM do not require prior treatment with temozolomide (TMZ).\n* Patients will be recruited and studied at Johns Hopkins University, Johns Hopkins affiliated Sibley Memorial Hospital, and Wake Forest University. The DCA liquid formulation is on file with the FDA, is identical to that administered in our Phase I trial of brain tumor patients and can be given by mouth or feeding tube. Patients may retain whatever medications they are receiving for other conditions (e.g., hypertension, seizures), except patients requiring insulin or sulfonylurea therapy (see below).\n* The probability of adverse drug-drug interactions is extremely low, for the following reasons. First, DCA is the only pharmaceutical in clinical use that is metabolized by GSTZ1. Second, DCA is not known to be metabolized by any other drug metabolizing enzyme system, thus precluding competition with other agents for biotransformation. Third, the results of both open label and randomized controlled trials of orally or parenterally administered DCA in the treatment of children and/or adults have never shown evidence of adverse drug-drug interactions (34). Thus, from decades of clinical investigations of use of DCA in various acutely or chronically ill populations, there is nothing to suggest adverse drug-drug interactions should be anticipated in this trial.\n* Patients who are diabetic must have a screening hemoglobin A1c (Hgb A1c) level of at least 6.0.\n\nExclusion Criteria:\n\n* Patients considered pre-terminal (life expectancy \u2264 2 months)\n* Those who are pregnant will be excluded.\n* DCA inhibits gluconeogenesis and lowers blood glucose levels in patients with type 2 diabetes. Therefore, in subjects who are receiving either insulin or a sulfonylurea, coadministration of DCA could lead to symptomatic hypoglycemia and those patients will be excluded from the trial.\n* DCA is dialyzable and its clearance diminishes in patients with end stage renal failure (GFR \u2264 30 ml/min); such patients will be excluded from participating.\n* DCA is metabolized by hepatic GSTZ1, so patients with severe liver insufficiency (total bilirubin \\> 2.0 mg/dl or ALT or AST \\> 3 x ULN) will be excluded.\n* Patients with Hgb A1c level less than 6.0 at screening",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Level of phosphorylated PDC protein expressed in surgical tissue",
+      "timeFrame": "Within 4 weeks post surgery",
+      "description": "The efficacy of dichloroacetate will be determined by the level of phosphorylated PDC protein expressed in surgical tissue."
+    }
+  ],
+  "sponsor": "University of Florida",
+  "collaborators": [],
+  "start_date": "2022-07-01",
+  "completion_date": "2026-08-31",
+  "last_updated": "2025-08-28"
+}

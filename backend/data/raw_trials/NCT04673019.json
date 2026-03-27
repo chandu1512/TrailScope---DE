@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT04673019",
+  "brief_title": "Nurse AMIE for Echo Show: Randomized Control Trial",
+  "official_title": "Nurse AMIE for Echo Show: Randomized Control Trial",
+  "brief_summary": "The Nurse AMIE platform has been modified for use as an Amazon Alexa skill for use on the Echo Show device. The investigators will recruit women receiving treatment for metastatic breast cancer and randomize patients to receive standard treatment (control) or the Nurse AMIE for Echo Show program. Nurse AMIE is a supportive care program for women undergoing chemotherapy and helps manage symptoms. The investigators will test the feasibility of using the Nurse AMIE program as well as its effectiveness at managing symptoms.",
+  "detailed_description": "The investigators will recruit 42 MBC patients and randomize them into a partial crossover trial in which immediate treatment group participants receive the Nurse AMIE intervention in full for 3 months, then continue Nurse AMIE (without navigation) for 3 months, while the delayed intervention group will not receive an intervention for 3 months, followed by receiving the Nurse AMIE full intervention with navigation for 3 months. The primary comparisons will be between the immediate treatment and delayed treatment groups over the first 3 months.\n\nIntervention. Participants will all receive an Amazon Echo Show device, WiFi connection (if patients do not already have one), pedometer, and resistance bands. Each day, the participant will open the Nurse AMIE for Echo Show, which will result in the daily greeting. After the greeting, participants will be asked to provide a verbal rating of their symptoms (e.g., pain, sleep, fatigue, and distress).\n\nAfter completing the symptom survey, Nurse AMIE will use an algorithm to discern which of the intervention modules to offer as assistance for the reported symptoms. These interventions include exercise, guided relaxation, cognitive behavioral therapy, and soothing music. These guideline-based interventions are provided as audio files or YouTube-style videos. In addition, Nurse AMIE provides a daily educational nutrition tip as well as recipes designed to be of interest to people undergoing chemotherapy.\n\nEach week, the participant will receive a phone call from the study navigator. This navigator will monitor symptom ratings daily and will discuss symptoms, interventions, and step goals with the participant each week.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 42,
+  "conditions": [
+    "Metastatic Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nurse AMIE (Addressing Metastatic Individuals Every day)",
+      "type": "BEHAVIORAL",
+      "description": "Supportive Care Platform (behavioral interventions that are offered based on answers to daily symptom rating questions). Interventions offered include walking, balance, strength exercise, guided relaxation, CBT, DBT, soothing music."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Female patient with metastatic breast cancer receiving care at PSCI\n2. Age: \u226518years of age\n3. Personal in-home Wi-Fi access\n4. Personal device capable of receiving telephone calls for weekly study facilitator check-ins\n5. Fluent in written and spoken English\n6. Sufficient vision/hearing to use the Alexa Echo Show.\n\nExclusion Criteria:\n\n1. ECOG Performance Status score of \\>2\n2. Patients with significant medical or psychiatric conditions (beyond breast cancer, its treatment, and its symptoms) that in the opinion of the research team exclude the subject from participation.\n3. Receiving any behavioral intervention.\n4. Pregnant\n5. Cognitive impairment\n6. Life expectancy of less than 6 months as determined by the treating physician",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Feasibility - the proportion of patients who interact with the tablet for at least one month",
+      "timeFrame": "90 days",
+      "description": "The proportion of women who consent, take a tablet home, who actually interact with the Nurse AMIE platform at least 30 out of 90 possible days"
+    },
+    {
+      "measure": "Acceptability - the proportion of patients who agree to participate",
+      "timeFrame": "baseline",
+      "description": "The proportion of women who agree to participate among those deemed eligible and cleared by oncologist."
+    }
+  ],
+  "sponsor": "Milton S. Hershey Medical Center",
+  "collaborators": [
+    "Penn State University",
+    "American Institute for Cancer Research"
+  ],
+  "start_date": "2021-02-02",
+  "completion_date": "2022-02-28",
+  "last_updated": "2022-03-31"
+}

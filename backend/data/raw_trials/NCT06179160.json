@@ -1,0 +1,110 @@
+{
+  "nct_id": "NCT06179160",
+  "brief_title": "A Study to Evaluate INCB161734 in Participants With Advanced or Metastatic Solid Tumors With KRAS G12D Mutation",
+  "official_title": "A Phase 1, Open-Label, Multicenter Study of INCB161734 in Participants With Advanced or Metastatic Solid Tumors With KRAS G12D Mutation",
+  "brief_summary": "This study is conducted to determine the safety and tolerability of INCB161734 as a single agent or in combination with other anticancer therapies.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 710,
+  "conditions": [
+    "Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "INCB161734",
+      "type": "DRUG",
+      "description": "INCB161734 will be administered at protocol defined dose."
+    },
+    {
+      "name": "Cetuximab",
+      "type": "DRUG",
+      "description": "Cetuximab will be administered at protocol defined dose."
+    },
+    {
+      "name": "Retifanlimab",
+      "type": "DRUG",
+      "description": "Retifanlimab will be administered at protocol defined dose."
+    },
+    {
+      "name": "GEMNabP",
+      "type": "DRUG",
+      "description": "GEMNabP will be administered at protocol defined dose."
+    },
+    {
+      "name": "mFOLFIRINOX",
+      "type": "DRUG",
+      "description": "mFOLFIRINOX will be administered at protocol defined dose."
+    },
+    {
+      "name": "FOLFOX",
+      "type": "DRUG",
+      "description": "FOLFOX will be administered at protocol defined dose."
+    },
+    {
+      "name": "FOLFIRI",
+      "type": "DRUG",
+      "description": "FOLFIRI will be administered at protocol defined dose."
+    },
+    {
+      "name": "INCA33890",
+      "type": "DRUG",
+      "description": "INCA33890 will be administered at protocol defined dose."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* \u226518 years old.\n* Locally advanced or metastatic solid tumor with KRAS G12D mutation.\n* For Part 1a and Part 2 Combination Groups 1, 2, and 7: Disease progression on prior standard treatment, intolerance to or ineligibility for standard treatment, declined available therapies that are known to confer clinical benefit, or no standard available treatment to improve the disease outcome.\n* Cohort specific requirements aas defined in the protocol.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n\nExclusion Criteria:\n\n* Prior treatment with any KRAS G12D inhibitor\n* Known additional invasive malignancy within 1 year of the first dose of study drug\n* History of organ transplant, including allogeneic stem cell transplantation\n* Significant, uncontrolled medical condition\n* History or presence of an ECG abnormality\n* Inadequate organ function\n\nOther protocol-defined Inclusion/Exclusion Criteria may apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center At Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Jefferson University Hospitals",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of participants with Dose Limiting Toxicities (DLTs)",
+      "timeFrame": "Up to 28 days",
+      "description": "Dose-limiting toxicity will be defined as the occurrence of any of the toxicities as per protocol."
+    },
+    {
+      "measure": "Number of participants with Treatment-emergent Adverse Events (TEAEs)",
+      "timeFrame": "Up to 2 years and 90 days",
+      "description": "Defined as adverse events reported for the first time or worsening of a pre-existing event after first dose of study drug monotherapy and in combination with cetuximab and retifanlimab."
+    },
+    {
+      "measure": "Number of participants with TEAEs leading to dose modification or discontinuation",
+      "timeFrame": "Up to 2 years and 90 days",
+      "description": "Number of participants with TEAEs leading to dose modification or discontinuation."
+    }
+  ],
+  "sponsor": "Incyte Corporation",
+  "collaborators": [],
+  "start_date": "2024-01-04",
+  "completion_date": "2027-01-01",
+  "last_updated": "2026-03-12"
+}

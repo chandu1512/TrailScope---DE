@@ -1,0 +1,53 @@
+{
+  "nct_id": "NCT03832686",
+  "brief_title": "Investigation of Two Swallowing Therapy Models During Radiation Therapy for Head and Neck Cancer",
+  "official_title": "Investigation of Two Swallowing Therapy Models During Radiation Therapy for Head and Neck Cancer",
+  "brief_summary": "Vibrent Health is partnering with Stanford Cancer Center to conduct a randomized control trial (RCT) using mobile health technology to enhance adherence and improve swallowing outcomes in patients undergoing radiation therapy for head and neck cancer.",
+  "detailed_description": "Head and neck cancer (HNC) is the 6th most common type of cancer in the world and has recently seen a dramatic rise in the United States due to a rise in the incidence of oropharyngeal cancers related to the human papillomavirus (HPV) . The majority of patients diagnosed with HNC receive radiation therapy at some point in their treatment, either in the definitive or post-operative setting. Dysphagia is a common consequence of treatment for HNC, experienced by approximately 50% of patients treated with radiation therapy. Post-treatment dysphagia has been associated with increased risk of morbidity/mortality as well as well-recognized deterioration of quality of life. Performance of swallowing exercises during radiation significantly reduces dysphagia risk; however, patient adherence to swallowing exercises during radiation treatment is limited. Thus, poor adherence stands as a major obstacle to achieving the best swallowing outcomes. In response to this, a mobile health application was developed to directly address barriers cited by patients as reasons for non-adherence. The objective is to conduct a randomized controlled trial to test the impact of the mobile application on adherence to prophylactic swallowing therapy during radiation for HNC.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 98,
+  "conditions": [
+    "Head Neck Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Virtual Coach",
+      "type": "OTHER",
+      "description": "The smartphone application, tailored to patients with HNC, will monitor patient progress while also providing a direct line to health care providers should any questions or concerns arise concerning their treatment. The mobile application will also feature instructional videos that describe the swallowing exercises in detail, providing patients with another resource to help improve their overall rehabilitation experience. Finally, home practice reminders and prompts will be used to help patients integrate the exercises into their daily routine."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Study subjects \u2265 18 years of age.\n* Fluent English speaking subjects.\n* Study subjects capable of providing informed consent.\n* Patients with newly diagnosed non-metastatic head and neck cancer of the oral cavity, oropharynx, nasopharynx, hypopharynx, and larynx that require bilateral neck radiation. Individuals with unknown primary head and neck cancer with nodal disease necessitating bilateral radiation will also be included.\n* Study subjects with a previously untreated head and neck cancer diagnosis requiring a definitive course of radiotherapy requiring a prescribed dose of 60Gy or greater.\n* Study subjects who have either an Android or Apple iOS-based smartphone or tablet compatible with the Vibrent application.\n* Study subjects who have access to a sufficient monthly data plan (approximately 200 MB/month), or Internet connection.\n\nExclusion Criteria:\n\n* Non-English speaking, or incapable of providing informed consent.\n* Lack of smartphone, tablet, or Internet connection.\n* Inability to use the Vibrent application.\n* Patients being treated for head and neck cancer who do not receive some form of primary, adjuvant, or neo-adjuvant radiation therapy will not be considered for the study.\n* Patients with recurrent disease.\n* Pregnant women.\n* Individuals under the age of 18.\n* Individuals with contraindications to radiation therapy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants Achieving at Least 50% Adherence to Swallowing Exercises",
+      "timeFrame": "7 weeks",
+      "description": "Measure of overall adherence to prescribed exercise protocol, by treatment group and radiation week."
+    }
+  ],
+  "sponsor": "Stanford University",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2019-04-22",
+  "completion_date": "2023-04-06",
+  "last_updated": "2024-04-01"
+}

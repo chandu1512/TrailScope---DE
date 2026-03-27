@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT06391294",
+  "brief_title": "Neuronal and Network Mechanisms of Electrocortical Stimulation",
+  "official_title": "Neuronal and Network Mechanisms of Electrocortical Stimulation",
+  "brief_summary": "Electrocortical stimulation (ECS) mapping is a procedure used during brain surgeries, for example when treating diseases like epilepsy or when removing brain tumors. ECS mapping helps surgeons locate areas of the cerebral cortex (the outer part of the brain) that are important for everyday tasks like movement and speech. ECS mapping has been used for decades, and is considered the \"gold-standard\" tool for locating important areas of cortex. Despite this long history, there is still no clear understanding of exactly how ECS works.\n\nThe goal of this study is to learn details about the effects ECS has on the brain. The main questions the study aims to answer are: 1) how ECS affects the neurons of the cortex at the stimulation site; and 2) how ECS impacts brain regions that are critically important for human speech and language. These so-called \"critical sites\" can be physically distant from one another on the brain's surface, requiring extensive ECS mapping and long surgeries. Critical sites are thought to be part of a speech/language network of brain areas, and so the study's goal is to learn about how they are connected. In some participants, the brain's surface will also be slightly cooled. This is a painless procedure that does not harm the brain's function, but could provide insight as to which parts of the brain (the surface, or deeper parts) are responsible for the effects of ECS.\n\nBy improving the understanding of how ECS affects the brain and improving the ability to identify critical sites, this study could potentially lead to shorter surgeries and better outcomes for future individuals who need this care.\n\nParticipants will be recruited from among individuals who are undergoing brain surgery for epilepsy treatment or tumor removal. Participants will complete simple tasks like reading words or naming pictures, similar to standard testing that is already performed during their hospital stay.",
+  "detailed_description": "Electrocortical stimulation (ECS) mapping has been used routinely for many decades to inform surgeons on brain areas to avoid when planning surgical resections for tumors or epilepsy. In particular, those areas that are \"critical\" for speech and language are important to identify. Yet, despite its long history of clinical use, the precise mechanisms of ECS are poorly understood. For example, it is not known how different cortical layers and cell types respond to ECS. Moreover, it is not even clear whether ECS' behavioral effects are due to affecting the underlying cortex alone, causing trans-synaptic activation of other cortices, or directly affecting both the cortex and underlying white matter.\n\nA primary objective of this project is to determine the effects of ECS on the cortical network and subcortical white matter. This objective will be tested in two ways. First, the study will determine the relationship between ECS' effects and cortical connectivity patterns. This will be accomplished using graph theory metrics to analyze electrocorticography (ECoG) and functional magnetic resonance imaging (fMRI) from people with epilepsy or brain tumors. This will allow the recording of intracranial EEG (ECoG or stereo EEG) without adding substantial extra risk from the planned clinical treatment for these conditions. The study will investigate both static and dynamic network connectivity patterns, defined using static and dynamic graph metrics that measure connectivity at different scales (local, inter-regional, global). The study hypothesizes that structural (a.k.a. anatomical) and functional connectivity patterns of a cortical site determine its significance to the language network. To test this hypothesis, the study will use measures of structural and functional connectivity to predict which nodes are labeled critical by ECS.\n\nSecond, the study will test the hypothesis that ECS' behavioral effects also depend on directly perturbing cortico-cortical white matter. The study will use focal cortical cooling as a way to test the respective effects on language function of cooling (which inhibits only the cortex) compared to ECS (which may perturb cortex and underlying white matter), as well as combined ECS and cooling.",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 65,
+  "conditions": [
+    "Epilepsy",
+    "Brain Tumor Adult"
+  ],
+  "interventions": [
+    {
+      "name": "Focal cortical cooling",
+      "type": "PROCEDURE",
+      "description": "Focal cortical cooling will be applied"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Requiring awake, cortical mapping for brain tumor resection or implantation of intracranial electrodes for extraoperative monitoring for epilepsy\n* For extraoperative patients: Planned electrode coverage including at least parts of frontal and temporal or parietal lobes, preferably both anterior (inferior frontal gyrus) and posterior language areas (superior temporal gyrus) in the language dominant hemisphere\n* For intraoperative patients: Planned craniotomy including parts of both frontal and temporal anterior and posterior language areas in the language dominant hemisphere.\n\nExclusion Criteria:\n\n* Significant language or speech impairment, including but not limited to aphasia, dysarthria, and apraxia of speech, consistently preventing patient from speaking words\n* Non English-speaking (because this is a study of language networks, and second language could be encoded differently)\n* Impaired cognitive function, as determined by neurological testing, such that the patient cannot follow test instructions or provide written informed consent\n* Tumor infiltrating, or within 1 cm of, multiple of the cortical or subcortical areas studied in this proposal (inferior frontal gyrus, precentral gyrus, superior temporal gyrus)\n* Ferromagnetic implants that are MRI incompatible or other contraindications to MRI\n* Pregnancy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21218",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Critical node decoding performance",
+      "timeFrame": "Up to 1 week during ECoG recording",
+      "description": "Accuracy at decoding critical nodes from network connectivity metrics using machine learning algorithms."
+    }
+  ],
+  "sponsor": "Northwestern University",
+  "collaborators": [
+    "Johns Hopkins University",
+    "University of Iowa",
+    "Indiana University"
+  ],
+  "start_date": "2024-05-17",
+  "completion_date": "2030-06-30",
+  "last_updated": "2025-09-02"
+}

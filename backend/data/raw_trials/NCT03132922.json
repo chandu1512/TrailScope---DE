@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT03132922",
+  "brief_title": "MAGE-A4\u1d9c\u00b9\u00ba\u00b3\u00b2T for Multi-Tumor",
+  "official_title": "Phase 1 Dose Escalation, Multi-tumor Study to Assess the Safety, Tolerability and Antitumor Activity of Genetically Engineered MAGE-A4\u1d9c\u00b9\u00ba\u00b3\u00b2T in HLA-A2+ Subjects With MAGE-A4 Positive Tumors",
+  "brief_summary": "This study will investigate the safety and tolerability of MAGE-A4\u1d9c\u00b9\u00ba\u00b3\u00b2T cell therapy in subjects who have the appropriate HLA-A2 tissue marker and whose urinary bladder, melanoma, head and neck, ovarian, non-small cell lung, esophageal, gastric, synovial sarcoma, or myxoid/round call liposarcoma (MRCLS) tumor has the MAGE-A4 protein expressed. This study will take a subject's T cells and give them a T cell receptor protein that recognizes and attacks the tumors. This study has a substudy component that will investigate the safety and tolerability of MAGE-A4c1032T cell therapy in combination with low dose radiation in up to 10 subjects.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 71,
+  "conditions": [
+    "Urinary Bladder Cancer",
+    "Melanoma",
+    "Head and Neck Cancer",
+    "Ovarian Cancer",
+    "Non-Small Cell Lung Cancer",
+    "Esophageal Cancer",
+    "Gastric Cancer",
+    "Synovial Sarcoma",
+    "Myxoid Round Cell Liposarcoma",
+    "Gastroesophageal Junction"
+  ],
+  "interventions": [
+    {
+      "name": "Autologous genetically modified MAGE-A4\u1d9c\u00b9\u00ba\u00b3\u00b2T cells",
+      "type": "GENETIC",
+      "description": "Infusion of autologous genetically modified MAGE-A4\u1d9c\u00b9\u00ba\u00b3\u00b2T on Day 1"
+    },
+    {
+      "name": "Autologous genetically modified MAGE-A4c1032T cells combined with low dose radiation",
+      "type": "RADIATION",
+      "description": "Up to 10 subjects will be considered for Radiation sub-study. Radiation with an intensity of 1.4Gy for 5 days before infusion of MAGE-A4c1032T cells"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Subject is \u226518 to 75 years of age at the time of signing the study informed consent.\n2. Subject has histologically confirmed diagnosis of any one of the indicated tumor types\n3. Subject is HLA-A\\*02 positive. (This determination will be made under screening protocol ADP-0000-001).\n4. Subject's tumor shows expression of the MAGE-A4 RNA or protein. (This determination will be made under screening protocol ADP-0000-001).\n5. Adequate organ function as indicated in the study protocol\n6. Subject has measurable disease according to RECIST v1.1 criteria prior to lymphodepletion\n7. Subject meets disease-specific requirements per protocol\n\n7\\. Subject has anticipated life expectancy \\> 6 months prior to leukapheresis and \\>3 months prior to lymphodepletion.\n\nExclusion Criteria:\n\n1. Subject does not express appropriate HLA-A genotype\n2. Subject is receiving excluded therapy/treatment per protocol\n3. Subject has symptomatic CNS metastases.\n4. Subject has any other active malignancy besides the tumor under study within 3 years prior to Screening. Subject has uncontrolled intercurrent illness.\n5. Subject has active infection with HIV, HBV, HCV or HTLV\n6. Subject is pregnant or breastfeeding.\n\nAdditional Exclusion Criteria for the Radiation Substudy:\n\n* Subject does not meet eligibility criteria for the main study (ADP-0044-001).\n* Subject does not have at least one target lesion amenable to radiation.\n* Certain radiation therapy within 6 months of clinical trial are an exclusion.\n* Metastatic disease impinging on the spinal cord or threatening spinal cord compression.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of subjects with adverse events (AE), including serious adverse events (SAEs).",
+      "timeFrame": "3.5 years",
+      "description": "Determine if treatment with autologous genetically modified T cells (MAGE-A4\u1d9c\u00b9\u00ba\u00b3\u00b2T) is safe and tolerable through laboratory assessments including chemistry, hematology and coagulation."
+    },
+    {
+      "measure": "Determining dose limiting toxicities (DLT) and optimally tolerated dose range",
+      "timeFrame": "3.5 years",
+      "description": "Evaluate DLTs and toxicity assessment using NCI CTCAE."
+    },
+    {
+      "measure": "Evaluation of persistence of genetically modified T cells.",
+      "timeFrame": "3.5 years",
+      "description": "Evaluation of persistence of genetically modified T cells in the periphery."
+    },
+    {
+      "measure": "Measurement of RCL in genetically modified T cells.",
+      "timeFrame": "3.5 years",
+      "description": "Evaluation of RCL in subject PBMCs using PCR-based assay."
+    }
+  ],
+  "sponsor": "Adaptimmune",
+  "collaborators": [],
+  "start_date": "2017-05-15",
+  "completion_date": "2032-09",
+  "last_updated": "2024-01-19"
+}

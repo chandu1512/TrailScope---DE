@@ -1,0 +1,127 @@
+{
+  "nct_id": "NCT00063882",
+  "brief_title": "Interstitial Brachytherapy With or Without External-Beam Radiation Therapy in Treating Patients With Prostate Cancer",
+  "official_title": "A Phase III Study Comparing Combined External Beam Radiation and Transperineal Interstitial Permanent Brachytherapy With Brachytherapy Alone for Selected Patients With Intermediate Risk Prostatic Carcinoma",
+  "brief_summary": "RATIONALE: Radiation therapy uses high-energy x-rays and other sources to damage tumor cells. Interstitial brachytherapy uses radioactive material placed directly into or near a tumor to kill tumor cells. Combining interstitial brachytherapy with external-beam radiation therapy may kill more tumor cells. It is not yet known whether interstitial brachytherapy is more effective with or without external-beam radiation therapy in treating prostate cancer.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of interstitial brachytherapy with or without external-beam radiation therapy in treating patients who have prostate cancer.",
+  "detailed_description": "OBJECTIVES:\n\n* Compare the 5-year freedom from progression in patients with intermediate-risk prostate cancer treated with interstitial brachytherapy with or without external beam radiotherapy (EBRT).\n* Compare biochemical (i.e., prostate-specific antigen) failure, biochemical failure by the Phoenix definition, disease-specific survival, local progression, and distant metastases in patients treated with these regimens.\n* Compare morbidity and quality of life of patients treated with these regimens.\n* Determine the feasibility of collecting Medicare data in a large Radiation Therapy Oncology Group (RTOG) prostate cancer clinical trial for cost effectiveness and cost utility analysis of combined treatment with interstitial brachytherapy and EBRT.\n* Prospectively collect diagnostic biopsy samples from these patients for future biomarker analyses.\n\nOUTLINE: This is a randomized, multicenter study. Patients are stratified according to disease stage (T1c vs T2a or T2b), Gleason score (\u2264 6 vs 7), prostate-specific antigen (\\< 10 ng/mL vs 10-20 ng/mL), and prior neoadjuvant hormonal therapy (yes vs no). Patients are randomized to 1 of 2 treatment arms.\n\n* Arm I: Patients undergo external beam radiotherapy 5 days a week for 5 weeks. Within 2-4 weeks of radiotherapy, patients undergo interstitial brachytherapy with iodine I 125 or palladium Pd 103 seeds.\n* Arm II: Patients undergo interstitial brachytherapy only, as in arm I. Quality of life is assessed at baseline, at 4, 12, and 24 months, and then annually for 3 years.\n\nAfter completion of study treatment, patients are followed at 3-5 weeks, at 4, 6, 9, and 12 months, every 6 months for 4 years, and then annually thereafter.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 588,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Brachytherapy (100/110)",
+      "type": "RADIATION",
+      "description": "100 Gy Palladium-103 (P-102) or 110 Gy Iodine-125 (I-125) seeds within 2-4 weeks of completion of external beam radiotherapy."
+    },
+    {
+      "name": "Brachytherapy (125/145)",
+      "type": "RADIATION",
+      "description": "125 Gy Palladium-103 (P-103) or 145 Gy Iodine-125 (I-125) seeds within 4 weeks of study entry."
+    },
+    {
+      "name": "External Beam Radiation Therapy",
+      "type": "RADIATION",
+      "description": "Total dose of 45 Gy to the prostate and seminal vesicles as a daily dose of 1.8 Gy given 5 times per week. The prescribed dose is defined at the International Commission of Radiation Units and Measurements (ICRU) reference point. Both 3D-conformal radiation therapy (3DCRT) and intensity modulated radiation therapy (IMRT) are permitted."
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the prostate\n\n  * T1c-T2b, N0, M0\n* Intermediate-risk disease, as defined by 1 of the following:\n\n  * Gleason score \\< 7 AND prostate-specific antigen (PSA) 10-20 ng/mL\n  * Gleason score 7 AND PSA \\< 10 ng/mL\n* No evidence of distant metastases\n* Prostate volume \u2264 60 cc by transrectal ultrasonography\n* American Urological Association voiding symptom score no greater than 15 (alpha blockers allowed)\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nPerformance status\n\n* Zubrod 0-1\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Not specified\n\nOther\n\n* Patients must use effective contraception\n* No other malignancy within the past 5 years except basal cell or squamous cell skin cancer or carcinoma in situ at any other site\n* No major medical or psychiatric illness that would preclude study therapy\n* No hip prosthesis\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* No prior chemotherapy\n\nEndocrine therapy\n\n* Prior neoadjuvant hormonal therapy allowed provided the following are true:\n\n  * Therapy was initiated within 2-6 months of study enrollment\n  * Therapy was no more than 6 months in duration\n  * Use of 5-alpha reductase inhibitors (e.g., finasteride) is discontinued before registration\n* No concurrent hormonal therapy\n\nRadiotherapy\n\n* No prior pelvic radiotherapy\n\nSurgery\n\n* No prior radical surgery for prostate cancer\n* No prior transurethral resection of the prostate\n* No prior cryosurgery\n\nOther\n\n* No prior transurethral needle ablation of the prostate\n* No prior transurethral microwave thermotherapy of the prostate",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "CCOP - Christiana Care Health Services",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Greenebaum Cancer Center at University of Maryland Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "St. Agnes Hospital Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21229",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Virtua Health Cancer Program at Virtua Memorial Hospital Marlton",
+      "city": "Marlton",
+      "state": "New Jersey",
+      "zip": "08053",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Virtua Health Cancer Program at Virtua West Jersey",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Cancer Institute at Geisinger Health",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822-0001",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center - Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    },
+    {
+      "facility": "McGlinn Family Regional Cancer Center at Reading Hospital and Medical Center",
+      "city": "Reading",
+      "state": "Pennsylvania",
+      "zip": "19612-6052",
+      "status": ""
+    },
+    {
+      "facility": "Frank M. and Dorothea Henry Cancer Center at Geisinger Wyoming Valley Medical Center",
+      "city": "Wilkes-Barre",
+      "state": "Pennsylvania",
+      "zip": "18711",
+      "status": ""
+    },
+    {
+      "facility": "York Cancer Center at Apple Hill Medical Center",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17405",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "5-Year Freedom From Progression Rate",
+      "timeFrame": "From randomization to 5 years",
+      "description": "A Freedom from Progression (FFP) failure includes biochemical failure, local failure, distant failure, or death due to any cause. Patients who are failure free with less than 5 years of follow-up or who receive any secondary salvage therapy are censored. Freedom from Progression rates are estimated using the Kaplan-Meier method."
+    }
+  ],
+  "sponsor": "Radiation Therapy Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "NRG Oncology"
+  ],
+  "start_date": "2003-06",
+  "completion_date": "2022-12-22",
+  "last_updated": "2026-02-11"
+}

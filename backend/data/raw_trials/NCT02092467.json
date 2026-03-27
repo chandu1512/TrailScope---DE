@@ -1,0 +1,134 @@
+{
+  "nct_id": "NCT02092467",
+  "brief_title": "Safety Study Of Tofacitinib Versus Tumor Necrosis Factor (TNF) Inhibitor In Subjects With Rheumatoid Arthritis",
+  "official_title": "PHASE 3B/4 RANDOMIZED SAFETY ENDPOINT STUDY OF 2 DOSES OF TOFACITINIB IN COMPARISON TO A TUMOR NECROSIS FACTOR (TNF) INHIBITOR IN SUBJECTS WITH RHEUMATOID ARTHRITIS",
+  "brief_summary": "This post-marketing study is designed to compare the safety of tofacitinib versus TNF inhibitor with respect to major cardiovascular adverse events and malignancies, excluding non-melanoma skin cancers when given to subjects with rheumatoid arthritis. Other safety events, including non-melanoma skin cancers, hepatic events, infections, and efficacy parameters will be collected and evaluated in the study.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE4"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 4372,
+  "conditions": [
+    "Arthritis, Rheumatoid"
+  ],
+  "interventions": [
+    {
+      "name": "tofacitinib",
+      "type": "DRUG",
+      "description": "Oral tablet, 5 mg BID"
+    },
+    {
+      "name": "tofacitinib",
+      "type": "DRUG",
+      "description": "Oral tablet, 10 mg BID"
+    },
+    {
+      "name": "adalimumab",
+      "type": "BIOLOGICAL",
+      "description": "Pre-filled syringe, 40 mg subcutaneous injection, every other week"
+    },
+    {
+      "name": "etanercept",
+      "type": "BIOLOGICAL",
+      "description": "Pre-filled syringe, 50 mg subcutaneous injection, every week"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Moderate to severe rheumatoid arthritis\n* Taking methotrexate without adequate control of symptoms\n* Have at least one cardiovascular risk factor (eg, current smoker, high blood pressure, high cholesterol levels, diabetes mellitus, history of heart attack, family history of coronary heart disease, extra-articular RA disease)\n\nExclusion Criteria:\n\n* Current or recent infection\n* Clinically significant laboratory abnormalities\n* Pregnancy",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Klein & Associates, M.D.,P.A.",
+      "city": "Cumberland",
+      "state": "Maryland",
+      "zip": "21502",
+      "status": ""
+    },
+    {
+      "facility": "Arthritis Treatment Center",
+      "city": "Frederick",
+      "state": "Maryland",
+      "zip": "21702",
+      "status": ""
+    },
+    {
+      "facility": "Klein & Associates, MD, PA",
+      "city": "Hagerstown",
+      "state": "Maryland",
+      "zip": "21740",
+      "status": ""
+    },
+    {
+      "facility": "The Center for Rheumatology and Bone Research, a division of Arthritis and Rheumatism Associates, PC",
+      "city": "Wheaton",
+      "state": "Maryland",
+      "zip": "20902",
+      "status": ""
+    },
+    {
+      "facility": "Summit Medical Group",
+      "city": "Clifton",
+      "state": "New Jersey",
+      "zip": "07012",
+      "status": ""
+    },
+    {
+      "facility": "Altoona Center for Clinical Research",
+      "city": "Duncansville",
+      "state": "Pennsylvania",
+      "zip": "16635",
+      "status": ""
+    },
+    {
+      "facility": "The Arthritis Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19152",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Arthritis and Autoimmunity Clinic",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Lupus Center of Excellence",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "Clinical Research Center of Reading, LLC",
+      "city": "Wyomissing",
+      "state": "Pennsylvania",
+      "zip": "19610",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence Rate of Adjudicated Malignancies Excluding Non-melanoma Skin Cancers (NMSC)",
+      "timeFrame": "Baseline up to last contact date (maximum up to 72 months)",
+      "description": "Incidence rate (number of participants with event per 100 participant year \\[PY\\]) was defined as the total number of participants with admissible events divided by the total (for all qualifying participants) time at risk for the cohort/treatment group of interest. Malignancy events, excluding NMSC were adjudicated by a steering committee. The risk period (RP) was the last contact date. The last contact date was the maximum of (AE start date, AE stop date, last study visit date, withdrawal date, telephone contact date). If a participant died, last contact date was the death date. First events were counted within the RP. If a participant did not have an event or had an event but outside the risk period, the participant was censored at the end of RP."
+    },
+    {
+      "measure": "Incidence Rate of Adjudicated Major Adverse Cardiovascular Events (MACE)",
+      "timeFrame": "Baseline up to last contact date (maximum up to 72 months)",
+      "description": "MACE included the cardiovascular death, non-fatal myocardial infarction (MI) and non-fatal stroke of any classification, including reversible focal neurologic defects with imaging evidence of a new cerebral lesion consistent with ischemia or hemorrhage. Incidence rate was defined as the total number of participants with admissible events divided by the total (for all qualifying participants) time at risk for the cohort/treatment group of interest. The risk period (RP) was the minimum of last contact date or last study treatment dose date + 60 days. The last contact date was the maximum of (AE start date, AE stop date, last study visit date, withdrawal date, telephone contact date). If a participant died, last contact date was the death date. First events were counted within the RP. If a participant did not have an event or had an event but outside the risk period, the participant was censored at the end of RP."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2014-03-14",
+  "completion_date": "2020-07-22",
+  "last_updated": "2021-07-21"
+}

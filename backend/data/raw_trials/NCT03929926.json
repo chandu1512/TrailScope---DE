@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT03929926",
+  "brief_title": "Proactive Outreach and Shared Decision Making in Improving Lung Cancer Screening Rates in Primary Care Patients",
+  "official_title": "Proactive Outreach and Shared Decision Making to Improve Lung Cancer Screening Rates Among Primary Care Patients",
+  "brief_summary": "This trial studies how well proactive outreach and shared decision making works in improving lung cancer screening rates in primary care patients. Proactive outreach and shared decision making strategies may help to improve the detection of lung cancer at an earlier stage through screening.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To compare the combined intervention group (Outreach Contact Group \\[OC\\]/Outreach Contact and Decision Counseling Group \\[OC-DCP\\]) versus the control usual care group (UC) with respect to time to screening with low dose computed tomography (LDCT).\n\nSECONDARY OBJECTIVES:\n\nI. To compare the combined intervention (OC/OC-DCP) and usual care (UC) groups with respect to the fraction of patients who are referred/scheduled for screening.\n\nII. To compare the combined intervention (OC/OC-DCP) and usual care (UC) groups with respect to the proportion of the referred/scheduled patients who actually keep their screening appointment.\n\nIII. To determine cost of implementing the OC and OC-DCP interventions.\n\nEXPLORATORY OBJECTIVES:\n\nI. To compare the two intervention groups (OC-DCP versus \\[vs.\\] OC) on the primary and secondary study endpoints (time to LDCT screening, proportion of patients referred/scheduled for screening, proportion of patients keeping their screening appointments, and cost).\n\nII. To assess the feasibility of patient eligibility review by providers in the OC and OC-DCP arms.\n\nIII. To assess the difference in success in identifying eligible patients between arms.\n\nIV. To assess the difference in reaching referred patients between arms.\n\nOUTLINE: Patients are randomized to 1 of 3 groups.\n\nGROUP I (USUAL CARE): Patients receive usual care.\n\nGROUP II (OUTREACH CONTACT): Patients receive educational materials in the mail about lung cancer screening with a cover letter from their physician. A week later, they receive a phone call from the study staff to assess their eligibility. Eligible and interested patients receive an office visit at the Jefferson Lung Cancer Screening Program (JLCSP) for shared decision-making and possible lung cancer screening.\n\nGROUP III (OUTREACH + DECISION COUNSELING PROGRAM): Patients receive educational materials in the mail about lung cancer screening with a cover letter from their physician. A week later, they receive a phone call from the study staff to assess their eligibility. Patients then undergo a decision counseling session through a semi-structured Decision Counseling Program that includes a review of the mailed educational materials and completion of an interactive exercise intended to clarify personal preference related to screening options (to have LDCT or not to have LDCT). Patients interested in screening schedule an office visit at JLCSP for possible screening or are referred to their primary care physician for consultation.\n\nAfter completion of study, patients are followed up for 90 days.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 2355,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Best Practice",
+      "type": "OTHER",
+      "description": "receive usual care"
+    },
+    {
+      "name": "Cancer Educational Materials",
+      "type": "BEHAVIORAL",
+      "description": "Receive educational materials via mail"
+    },
+    {
+      "name": "Behavioral, Psychological or Informational Intervention",
+      "type": "OTHER",
+      "description": "Receive shared decision making and lung cancer screening information"
+    },
+    {
+      "name": "Counseling",
+      "type": "OTHER",
+      "description": "Undergo decision counseling session"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Had a recent office visit with a primary care physician in one of the study practices.\n* History of smoking (current or former) in the electronic health record (EHR).\n\nExclusion Criteria:\n\n* LDCT performed in the 12 months prior to study initiation according to EHR.\n* Diagnosis of lung cancer indicated in problem list in the EHR.",
+    "gender": "ALL",
+    "min_age": "55 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Time to screening with low dose computed tomography (LDCT)",
+      "timeFrame": "From the date of randomization to the date of screening (for those screened) or to the date of the review (for those not screened, \"censored\", assessed at 3 months",
+      "description": "Will be assessed through a review of electronic health records data at the end of the study. The main analysis will compare the combined intervention group and the usual care group (Outreach Contact \\[OC\\]/OC-Decision Counseling Program \\[DCP\\] versus \\[vs.\\] usual care \\[UC\\]) with the Kaplan-Meier method and the log-rank test (stratified by practice). Further analyses will rely on Cox proportional hazards regression to explore the difference between OC and OC-DCP groups, as well as differences across practices and patient characteristics (age, gender, race, current vs. former smoking, etc.)."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2019-06-19",
+  "completion_date": "2024-05-01",
+  "last_updated": "2025-05-15"
+}

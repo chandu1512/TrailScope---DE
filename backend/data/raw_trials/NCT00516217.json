@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT00516217",
+  "brief_title": "Galiximab in Treating Patients With Relapsed or Refractory Hodgkin's Lymphoma",
+  "official_title": "A Phase II Study of Galiximab (Anti-CD80) for Patients With Relapsed/Refractory Hodgkin Lymphoma",
+  "brief_summary": "RATIONALE: Monoclonal antibodies, such as galiximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them.\n\nPURPOSE: This phase II trial is studying how well galiximab works in treating patients with relapsed or refractory Hodgkin's lymphoma.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* To determine the response rate (complete and overall response) in patients with relapsed or refractory Hodgkin lymphoma (HL) treated with galiximab.\n\nSecondary\n\n* To assess the duration of response, progression-free survival, and overall survival of patients with relapsed or refractory HL.\n* To assess the safety and tolerability of galiximab in patients with relapsed or refractory HL.\n* To determine if FDG-PET correlates with outcome in patients with relapsed or refractory HL treated with galiximab.\n\nOUTLINE: This is a multicenter study.\n\n* Induction therapy: Patients receive galiximab IV over 60 minutes on days 1, 8, 15, and 22 in month 1.\n* Extended induction therapy: Patients receive galiximab IV over 60 minutes once every four weeks in the absence of disease progression or unacceptable toxicity.\n\nPatients also undergo FDG-PET/CT imaging at baseline and at time of first restaging (within 7 days prior to week 8 treatment).\n\nAfter completion of study treatment, patients are followed periodically for 10 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 30,
+  "conditions": [
+    "Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "galiximab",
+      "type": "BIOLOGICAL",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed classical Hodgkin lymphoma (HL):\n\n  * Bone marrow biopsies as the sole means of diagnosis are not acceptable, but they may be submitted in conjunction with nodal biopsies\n  * Fine needle aspirates are not acceptable\n* Recurrent or refractory disease after at least two prior standard chemotherapy regimens\n* Nodular lymphocyte predominant HL allowed\n* Measurable disease must be present on either physical examination or imaging studies\n\n  * Measurable disease is defined as any lesion that can be accurately measured in at least one dimension (longest diameter to be recorded) as \u2265 10 mm\n  * Evaluable or non-measurable disease alone is not acceptable including any of the following:\n\n    * Bone lesions (lesions, if present, should be noted)\n    * Bone marrow involvement (if present, this should be noted)\n    * Ascites\n    * Pleural/pericardial effusion\n    * Lymphangitis cutis/pulmonis\n* Ineligible for a stem cell transplantation\n* Patients eligible for CALGB-50502 should not be considered for this study\n* No known CNS involvement\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-2\n* ANC \u2265 500/\u03bcL\n* Platelet count \u2265 50,000/\u03bcL\n* Creatinine \u2264 2.0 mg/dL\n* Total bilirubin \u2264 2.0 mg/dL (no history of Gilbert Disease)\n* AST \u2264 2.5 times upper limit of normal\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for 3 months after completion of study\n* No known HIV infection\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Recovered to \u2264 grade 1 from all toxicities related to prior treatments\n* At least 4 weeks since prior chemotherapy, radiotherapy, or biologic anticancer therapy\n* Prior autologous and/or allogeneic stem cell transplantation allowed\n* No prior anti-CD80 antibody\n* No concurrent steroids, hormones, or other chemotherapeutic agents except for steroids given for adrenal failure and hormones administered for non-disease-related conditions (e.g., insulin for diabetes)\n\n  * The use of dexamethasone and other steroidal antiemetics is prohibited unless to treat acute grade 3 or 4 monoclonal antibody-associated infusion reactions not responsive to transient discontinuation of antibody infusion or acetaminophen and diphenhydramine\n  * Dexamethasone is also allowed for re-treatment after an infusion reaction",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Tunnell Cancer Center at Beebe Medical Center",
+      "city": "Lewes",
+      "state": "Delaware",
+      "zip": "19958",
+      "status": ""
+    },
+    {
+      "facility": "CCOP - Christiana Care Health Services",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Union Hospital Cancer Program at Union Hospital",
+      "city": "Elkton MD",
+      "state": "Maryland",
+      "zip": "21921",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey at Cooper - Voorhees",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    },
+    {
+      "facility": "Western Pennsylvania Cancer Institute at Western Pennsylvania Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224-1791",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response",
+      "timeFrame": "Duration of treatment (up to 10 years)",
+      "description": "Overall response is defined as achievement of a complete response (CR) or partial response (PR) as defined by the Revised Response Criteria for Malignant Lymphoma.\n\nCR: complete disappearance of all detectable disease PR: \\>=50% decrease in the sum of the product of diameters of indicator lesions."
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2008-06",
+  "completion_date": "2015-02",
+  "last_updated": "2016-07-01"
+}

@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT02387996",
+  "brief_title": "A Study of Nivolumab in Participants With Metastatic or Unresectable Bladder Cancer",
+  "official_title": "A Phase II Single Arm Clinical Trial of Nivolumab (BMS-936558) in Subjects With Metastatic or Unresectable Urothelial Cancer Who Have Progressed or Recurred Following Treatment With a Platinum Agent",
+  "brief_summary": "The purpose the study is to measure the effect of nivolumab (BMS-936558) in reducing tumor size in subjects with metastatic or unresectable bladder cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 270,
+  "conditions": [
+    "Various Advanced Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Evidence of metastatic or surgically unresectable transitional cell carcinoma of the urothelium involving the bladder,urethra,ureter or renal pelvis\n* Measurable disease by CT or MRI\n* Progression or recurrence after treatment\n* i) With at least 1 platinum-containing chemotherapy regimen for metastatic or surgically unresectable locally advanced urothelial cancer, or\n* ii) Within 12 months of peri-operative (neo-adjuvant or adjuvant) treatment with a platinum agent in the setting of cystectomy for localized muscle-invasive urothelial cancer\n* Subject that have received more than 2 prior lines of chemotherapy must not have liver metastases\n* Tumor tissues (archived or new biopsy) must be provided for biomarker analysis\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1\n\nExclusion Criteria:\n\n* Subjects with active cancer that has spread to the central nervous system\n* Prior malignancy active within the previous 3 years except for locally curable cancers that have been apparently cured\n* Subject with active, known or suspected autoimmune disease\n* Subjects with a condition requiring systemic treatment with either corticosteroids (\\>10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 day of study drug administration\n* Prior treatment with an anti-PD-1,anti-PD-L1,anti-PD-L2,anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) antibody, anti-CD137 or any other antibody or drug specifically targeting T-cell co-stimulation or immune checkpoint pathways\n\nExclusion laboratory criteria:\n\n* Positive test for hepatitis B virus surface antigen (HBV s Ag) or hepatitis C virus ribonucleic acid (HCV antibody) indicating acute or chronic infection\n* Known history of testing positive for human Immunodeficiency virus (HIV) or known acquired Immunodeficiency syndrome (AIDS)\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0029",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2412",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0059",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212-0000",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate Per BIRC Assessment",
+      "timeFrame": "From the date of first dose to the date of objectively documented progression or the date of subsequent therapy, whichever occurs first (assessed up to 14 months)",
+      "description": "Objective Response Rate (ORR) was defined as the number of participants with a best overall response of confirmed Complete Response (CR) or Partial Response (PR) (per RECIST 1.1 criteria) divided by the number of all treated participants. RECIST 1.1 = Response Evaluation Criteria in Solid Tumors. CR= Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\< 10 mm. PR= At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. BIRC= blinded independent review committee"
+    },
+    {
+      "measure": "ORR Per BIRC Assessment by PD-L1 Expression Level",
+      "timeFrame": "From the date of first dose to the date of objectively documented progression or the date of subsequent therapy, whichever occurs first (assessed up to 14 months)",
+      "description": "Objective Response Rate (ORR) was defined as the number of participants with a best overall response of confirmed Complete Response (CR) or Partial Response (PR) (per RECIST 1.1 criteria) divided by the number of all treated participants. RECIST 1.1 = Response Evaluation Criteria in Solid Tumors. CR= Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\< 10 mm. PR= At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. BIRC= blinded independent review committee PD-L1 expression level= membranous staining in greater than or equal to 5% and greater than or equal to 1% tumor cells. n = Number of participants in each category"
+    },
+    {
+      "measure": "Time to Response (TTR)",
+      "timeFrame": "From first dosing date to the date of the first confirmed response (up to approximately 14 months)",
+      "description": "TTR is defined as the time from first dosing date to the date of the first confirmed complete response (CR) or partial response (PR), as assessed by the Blinded Independent Review Committee (BIRC). Complete response is defined as the disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\< 10 mm. Partial response is defined as at least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters."
+    },
+    {
+      "measure": "Duration of Response (DOR)",
+      "timeFrame": "From the first confirmed response to the date of the first documented tumor progression or death due to any cause, whichever occurs first (up to approximately 14 months)",
+      "description": "DOR is defined as the time from first confirmed response, complete response (CR) or partial response (PR) to the date of the first documented tumor progression as determined using RECIST 1.1 criteria or death due to any cause, whichever occurs first. Participants who start subsequent therapy without a prior reported progression will be censored at the last evaluable tumor assessments prior to initiation of the subsequent anticancer therapy. Participants who die without a reported prior progression will be considered to have progressed on the date of their death. Participants who neither progress nor die will be censored on the date of their last evaluable tumor assessment."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "Ono Pharmaceutical Co. Ltd"
+  ],
+  "start_date": "2015-03-09",
+  "completion_date": "2021-11-12",
+  "last_updated": "2022-10-11"
+}

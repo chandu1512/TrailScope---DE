@@ -1,0 +1,49 @@
+{
+  "nct_id": "NCT05716958",
+  "brief_title": "Multi-Reader, Multi-Case, Cross-Over, Retrospective Study to Evaluate Effectiveness of Lunit INSIGHT DBT",
+  "official_title": "Multi-Reader, Multi-Case, Cross-Over, Retrospective, Superiority, Pivotal Study to Evaluate Effectiveness of Lunit INSIGHT DBT in the Assistance of Detection and Diagnosis of Breast Cancer During 3D Mammography Interpretation",
+  "brief_summary": "This study aims to evaluate Effectiveness of Lunit INSIGHT DBT in the assistance of detection and diagnosis of breast cancer during 3D mammography interpretation",
+  "detailed_description": "The primary objective of the trial is to evaluate the effectiveness of Lunit INSIGHT DBT in the assistance of detection and diagnosis of breast cancer by comparing the clinical performance of radiologists before and after using Lunit INSIGHT DBT in their DBT reading and secondarily examining the use of Lunit INSIGHT DBT to shorten DBT reading time.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 262,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Digital Breast Tomosynthesis",
+      "type": "RADIATION",
+      "description": "Digital Breast Tomosynthesis (DBT) is a type of 3D mammography that creates detailed images of the breast tissue. It uses X-rays to take multiple images at different angles and combines them to create a clear, layered view of the breast tissue. DBT is used for breast cancer screening and diagnosis and provides a more accurate view of the breast tissue compared to traditional 2D mammography."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n\\[For All Subject Groups\\]\n\n* Female\n* 22 years old or older\n\n\\[For 'Control (Non-cancer)' Group\\]\n\n* Negative Cases Interpreted as BI-RADS 0 (Assessment Incomplete) or BI-RADS 1 (Negative) with no cancers on the DBT exam and confirmed as BI-RADS 1 (Negative) on the further diagnostic imaging (e.g., MMG, DBT, MRI, CT and Ultrasound) taken at least after 1 year of the DBT exam.\n* Benign Cases Interpreted as BI-RADS 0 (Assessment Incomplete) or BI-RADS 2 (Benign) with a visible lesion on the DBT exam and confirmed as BI-RADS 2 (Benign) on the further diagnostic imaging (e.g., MMG, DBT, MRI, CT and Ultrasound) taken at least after 1 year of the DBT exam without a further breast biopsy.\n\nOr for the biopsy-proven benign exams, interpreted as BI-RADS 0 (Assessment Incomplete), BI-RADS 3 (Probably Benign), 4 (Suspicious) or 5 (Highly Suggestive of Malignancy) with a visible suspicious lesion for breast cancer on the DBT exam but confirmed as benign through subsequent biopsy conducted within following 1 year of the DBT exam.\n\n\\[For 'Condition (Cancer)' Group\\] Interpreted as BI-RADS 0 (Assessment Incomplete), BI-RADS 3 (Probably Benign), 4 (Suspicious) or 5 (Highly Suggestive of Malignancy) with a visible suspicious lesion for breast cancer on the DBT exam and confirmed as a cancer (malignant) through the subsequent biopsy conducted within following 1 year of the DBT exam.\n\nExclusion Criteria:\n\n* Previous breast cancer\n* Previous vacuum-assisted biopsy, surgical biopsy or surgery in breast\n* Presence of a breast implant or pacemaker on the required images: 4 views (RCC, RMLO, LCC, LMLO) images of Screening or diagnostic DBT exams with a FFDM (Full-Field Digital mammography) image or with a synthetic 2D image",
+    "gender": "FEMALE",
+    "min_age": "22 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Anne Arundel Medical Center",
+      "city": "Annapolis",
+      "state": "Maryland",
+      "zip": "21401",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Effectiveness of Lunit INSIGHT DBT",
+      "timeFrame": "3 months after the 1st tomosynthesis reading",
+      "description": "Patient-level LOS (Level of Suspicion) area under the ROC (Receiver Operating Characteristic) curve"
+    }
+  ],
+  "sponsor": "Lunit Inc.",
+  "collaborators": [],
+  "start_date": "2022-03-22",
+  "completion_date": "2023-02-28",
+  "last_updated": "2024-09-10"
+}

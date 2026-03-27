@@ -1,0 +1,53 @@
+{
+  "nct_id": "NCT01164735",
+  "brief_title": "Biomarkers in Tumor Tissue Samples From Patients With Stage III, Stage IV, or Recurrent Endometrial Cancer",
+  "official_title": "Topoisomerase 2-Alpha (TOPO2A) Genomic Alterations and Immunohistochemical Expression as Well as Chromosome 17 Polysomy in Advanced or Recurrent Endometrial Carcinoma Treated With Anthracycline-Based Therapy",
+  "brief_summary": "This research study is studying biomarkers in tissue samples from patients with stage III, stage IV, or recurrent endometrial cancer. Studying samples of tumor tissue from patients with cancer in the laboratory may help doctors learn more about changes that occur in deoxyribonucleic acid (DNA) and identify biomarkers related to cancer.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine the frequency of topoisomerase 2-alpha (TOPO2A) gene copy number alterations (including deletions, gains, and amplification), immunohistochemical expression, and chromosome 17 polysomy in tumor tissue samples from patients with advanced or recurrent endometrial carcinoma treated with anthracycline-based therapy on Gynecologic Oncology Group (GOG)-0177.\n\nII. To assess the relationship between TOPO2A gene copy number alterations, TOPO2A protein expression, chromosome 17 polysomy, and human epidermal growth factor receptor 2 (HER2) status in tumor tissue samples from these patients.\n\nIII. To assess the association between TOPO2A status (TOPO2A gene copy number alterations and TOPO2A protein expression), or chromosome 17 polysomy and clinical covariates (e.g., age, race/ethnicity, cell type, histologic grade, disease stage, regimen type).\n\nIV. To assess the association between TOPO2A status or chromosome 17 polysomy with measures of clinical outcome including response, progression-free survival, and overall survival of patients treated with this regimen.\n\nV. To evaluate the potential identification of cut points for TOPO2A protein expression with potential prognostic value in patients treated with this regimen.\n\nOUTLINE:\n\nArchived tumor tissue samples are analyzed for topoisomerase 2-alpha gene alteration and expression and chromosome 17 polysomy by fluorescent in situ hybridization (FISH) and immunohistochemistry (IHC). Clinical information associated with each endometrial carcinoma sample (e.g., age, race/ethnicity, cell type, histologic grade, disease stage, and regimen type) is also collected.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 169,
+  "conditions": [
+    "Recurrent Uterine Corpus Carcinoma",
+    "Stage III Uterine Corpus Cancer",
+    "Stage IV Uterine Corpus Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Laboratory Biomarker Analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Chemotherapy-na\u00efve women with histologically documented measurable Stage III, Stage IV or recurrent endometrial carcinoma with known HER2 status who participated in Gynecologic Oncology Group (GOG)-0177 are eligible\n* Patients must have given permission for their archival formalin-fixed, paraffin-embedded primary, metastatic or recurrent tumor to be submitted and used for GOG-0177, and at least one to three unstained slides must be available for FISH analysis of TOPO2A and CEP17 and immunohistochemical staining for TOPO2A\n\nExclusion Criteria:\n\n* Women who were not eligible or evaluable on GOG-0177\n* Patients who do not have at least one unstained slide archival formalin-fixed, paraffin-embedded primary, metastatic or recurrent tumor available for fluorescence in situ hybridization (FISH) analysis of TOPO2A and CEP17 or immunohistochemical expression of TOPO2A",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Gynecologic Oncology Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall survival",
+      "timeFrame": "From enrollment on GOG-0177 to death (regardless of cause) or to the date of last contact for women who were alive, assessed up to 5 years",
+      "description": "The Kaplan-Meier method will be used to estimate and plot the unadjusted survival and progression-free survival time distributions by TOPO2A expression and amplification status."
+    }
+  ],
+  "sponsor": "Gynecologic Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2010-01",
+  "completion_date": "2018-01",
+  "last_updated": "2024-08-12"
+}

@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT01362296",
+  "brief_title": "An Open-label Study of GSK1120212 Compared With Docetaxel in Stage IV KRAS-mutant Non-small Cell Lung Cancer",
+  "official_title": "A Phase II, Open-label, Multicenter, Randomized Study to Assess the Efficacy and Safety of GSK1120212 Compared With Docetaxel in 2nd Line Subjects With Targeted Mutations (KRAS, NRAS, BRAF, MEK1) in Locally Advanced or Metastatic Non-small Cell Lung Cancer (NSCLC Stage IV)",
+  "brief_summary": "This is a phase II, open-label, multicenter, randomized study to evaluate the efficacy and safety of GSK1120212 compared with docetaxel in the second line setting for subjects with locally advanced or metastatic (Stage IV) Non-small cell lung cancer (NSCLC) harboring a KRAS mutation who have failed one platinum-containing chemotherapy regimen. A small subset of NSCLC subjects harboring BRAF, NRAS, or MEK1 mutations will be randomized in addition to the primary KRAS population, for exploratory purposes.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 134,
+  "conditions": [
+    "Lung Cancer, Non-Small Cell"
+  ],
+  "interventions": [
+    {
+      "name": "GSK1120212",
+      "type": "DRUG",
+      "description": "Oral once daily"
+    },
+    {
+      "name": "docetaxel",
+      "type": "DRUG",
+      "description": "IV once every 3 weeks"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* At least 18 years old with histologically- or cytologically-confirmed diagnosis of adenocarcinoma Stage IV NSCLC with a positive mutational status for the KRAS, NRAS, BRAF, or MEK1 gene.\n* Documented tumor progression after receiving at least one, but not more than one, prior approved platinum-containing chemotherapy regimen for advanced stage/metastatic NSCLC.\n* Measurable disease per the Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.\n* Performance status score of 0 or 1 according to the Eastern Cooperative Oncology Group (ECOG) scale.\n* Able to swallow and retain orally administered medication and does not have any clinically significant gastrointestinal abnormalities that may alter absorption such as malabsorption syndrome or major resection of the stomach or bowels.\n* Life expectancy of at least three months in the opinion of the investigator.\n* Women of childbearing potential must have a negative serum pregnancy test within 14 days of randomization to study treatment and agree to use effective contraception. Men with a female partner of childbearing potential must have either had a prior vasectomy or agree to use effective contraception from the time of randomization to study medication until at least four weeks after the last dose of study treatment.\n* Adequate baseline organ function.\n\nExclusion Criteria:\n\n* History of another malignancy.\n* Any serious and/or unstable pre-existing medical disorder, psychiatric disorder, or other conditions that could interfere with subject's safety, obtaining informed consent or compliance to the study procedures.\n* Treatment with a BRAF or MEK inhibitor or docetaxel as monotherapy or as part of a combination regimen.\n* Anti-cancer therapy (including chemotherapy and radiation therapy) within the last three weeks.\n* History or current evidence / risk of retinal vein occlusion or central serous retinopathy.\n* Any current or history of tumor manifestation in the Central Nervous System.\n* History or evidence of cardiovascular risk, including QTcB \\>=480 msec, uncontrolled arrhythmias, acute coronary syndrome, coronary angioplasty, or stenting within 6 months prior to randomization, \\>=Class II congestive heart failure, treatment refractory hypertension, intra-cardiac defibrillators or permanent pacemakers or cardiac metastases.\n* Known Human Immunodeficiency Virus, Hepatitis B Virus (HBV), or Hepatitis C Virus (HBC) infection (with the exception of chronic or cleared HBV and HCV infection).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "GSK Investigational Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    },
+    {
+      "facility": "GSK Investigational Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "GSK Investigational Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19141",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS) as Assessed by the Investigator (INV)",
+      "timeFrame": "From randomization (RAN) until the earliest date of documented radiological disease progression (PD) or death (DT) due to any cause (maximum of 10.2 months)",
+      "description": "PFS is defined as the time from RAN until the earliest date of documented radiological PD or DT due to any cause. PD was assessed by the INV according to Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1. PD is defined as at least a 20% increase in the sum of the diameters (SD) of target lesions with an absolute increase of at least 5 millimeters (mm) or the appearance of at least 1 new lesion, or the worsening of non-target lesions significant enough to require study treatment discontinuation. For participants (PAR) who did not have a documented date of PD or DT, PFS was censored at the date of the last adequate assessment. For PAR who received subsequent anti-cancer therapy prior to the date of documented PD or DT, PFS was censored at the date of the last adequate assessment prior to the initiation of therapy."
+    }
+  ],
+  "sponsor": "GlaxoSmithKline",
+  "collaborators": [],
+  "start_date": "2011-09",
+  "completion_date": "2013-09",
+  "last_updated": "2014-06-26"
+}

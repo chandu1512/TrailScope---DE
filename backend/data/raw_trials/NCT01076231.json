@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT01076231",
+  "brief_title": "Proton Beam Radiation Therapy and Chemotherapy in Treating Patients With Stage III Non-Small Cell Lung Cancer That Can Be Removed By Surgery",
+  "official_title": "Feasibility and PhaseI/II Trial of Preoperative Proton Beam Radiotherapy With Concurrent Chemotherapy for Resectable Stage IIIA or Superior Sulcus NSCLC",
+  "brief_summary": "RATIONALE: Specialized radiation therapy, such as proton beam radiation therapy, that delivers a high dose of radiation directly to the tumor may kill more tumor cells and cause less damage to normal tissue in patients with non-small cell lung cancer. Drugs used in chemotherapy, such as cisplatin and etoposide, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving proton beam radiation therapy together with combination chemotherapy may kill more tumor cells.\n\nPURPOSE: This phase I/II trial is studying the side effects and best dose of proton beam radiation therapy when given together with cisplatin and etoposide and to see how well it works in treating patients with stage III non-small cell lung cancer that can be removed by surgery.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To assess feasibility. (Phase I) II. To determine dose-limiting toxicity and maximum tolerated dose. (Phase I) III. To determine the pathologic CR rate. (Phase II)\n\nSECONDARY OBJECTIVES:\n\nI. To assess late complications from irradiation using proton beam therapy in place of conventional photon beam therapy. (Phase II) II. To assess acute side effects from irradiation using proton beam therapy in place of conventional photon beam therapy. (Phase II) III. To compare the dose distribution to tumor and surrounding normal structures using DVH's (Dose Volume Histograms) generated from the proton plan used to treat the patient and the photon plan generated for comparison purposes. (Phase II) IV. To determine progression-free survival (Phase II) and late toxicity.\n\nOUTLINE: This is a phase I, dose-escalation study of proton beam radiation therapy followed by a phase II study.\n\nPatients undergo proton beam radiotherapy over 5.5-7.5 weeks. Patients receive concurrent chemotherapy comprising cisplatin IV on days 1, 8, 29, and 36 and etoposide IV on days 1-5 and days 29-33.Treatment continues in the absence of disease progression or unacceptable toxicity.\n\nBeginning 4-6 weeks after completion of chemoradiotherapy, patients may undergo surgical resection or additional chemoradiotherapy.\n\nAfter completion of study treatment, patients are followed every 3 months for 2 years and then every 6 months for 3 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 34,
+  "conditions": [
+    "Stage IIIA Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "proton beam radiation therapy",
+      "type": "RADIATION",
+      "description": ""
+    },
+    {
+      "name": "cisplatin",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "etoposide",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "therapeutic conventional surgery",
+      "type": "PROCEDURE",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion\n\n* Histologically confirmed diagnosis of NSCLC\n* Stage IIIA or Potentially resectable superior sulcus tumors\n* No evidence of distant metastatic disease as documented by MRI of the brain and PET/CT\n* Patients must have a Karnofsky Performance Status of \\>= 60\n* Patients must be able to provide informed consent\n* WBC \\>= 4000/mm\\^3\n* Platelets \\>= 100,000 mm\\^3\n* Creatinine =\\< 1.2 mg/dl (urinary diversion is permitted to improve renal function)\n* Patients must have bilirubin =\\< 1.5 mg/dl\n* Women of child-bearing potential as long as she agrees to use a recognized method of birth control (e.g. oral contraceptive, IUD, condoms or other barrier methods etc.); hysterectomy or menopause must be clinically documented\n* Negative pregnancy test for women of child-bearing age\n\nExclusion\n\n* Prior or simultaneous malignancies within the past two years (other than cutaneous squamous or basal cell carcinoma, melanoma in situ or thyroid carcinoma) \\[For pts that will be on definitive treatment study, otherwise delete for umbrella recurrent protocol\\]\n* Pregnant women, women planning to become pregnant and women that are nursing\n* Actively being treated on any other research study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of The University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants Deemed Feasible to Receive Intervention",
+      "timeFrame": "90 Days",
+      "description": "Feasibility will be based on multiple radiation planning and treatment parameters. Study will be deemed feasible if all patients are deemed feasible."
+    },
+    {
+      "measure": "Dose-limiting Toxicity",
+      "timeFrame": "90 Days",
+      "description": "DLT is defined as post-operative mortality (within 30 days of surgery) or any grade 3 or higher pneumonitis or any other grade 4 or higher toxicity which occurs during chemoradiation or within 90 days following the end of treatment, whichever is longer."
+    },
+    {
+      "measure": "Late Toxicity",
+      "timeFrame": "4.5 Years",
+      "description": "Late toxicity is defined as any grade 3 or higher pneumonitis or any grade 4 or higher toxicity which occurs more than 90 days after surgery or completion of treatment."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2010-01",
+  "completion_date": "2018-05-24",
+  "last_updated": "2021-04-23"
+}

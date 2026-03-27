@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT01437488",
+  "brief_title": "Cabazitaxel in Patients With Urothelial Carcinoma Who Have Disease Progression Following Platinum-Based Chemotherapy",
+  "official_title": "A Phase II Study of Cabazitaxel in Patients With Urothelial Carcinoma Who Have Disease Progression Following Platinum-Based Chemotherapy",
+  "brief_summary": "There is no accepted standard chemotherapy approved for use in the second line for patients with advanced urothelial carcinoma whose cancer has progressed on combination chemotherapy including either cisplatin or carboplatin. The chemotherapy class called taxanes, either as single agents or in combination, have demonstrated modest efficacy in small studies. Cabazitaxel is an agent in the taxane family designed to be active in the setting of acquired multi-drug resistance that arises in some tumors. The objective of this study is to evaluate the safety and efficacy of this agent in patients with urothelial carcinoma refractory compared to combination platinum based chemotherapy.",
+  "detailed_description": "This is a single-arm, open-label study, meaning all patients will be treated in the same fashion with the investigational agent. Scans will be performed every 3 cycles of treatment, and patients will be withdrawn from study in the event of progression or drug intolerance as defined within the protocol.\n\nTreatment will be administered on an outpatient basis. No investigational or commercial agents or therapies other than those described below may be administered with the intent to treat the patient's malignancy.\n\nThe length of each cycle is 21 days. For the first cycle of treatment, cabazitaxel will be dosed at 20 mg/m2. During cycle 1, complete blood counts will be performed on days 8 and 15, and dosing on Day 1 cycle 2 will depend upon the nadir counts on those days. If, on toxicity assessment on day 1 of cycle 2, the patient has no residual \\>grade 2 toxicity, and all other laboratory parameters are within acceptable limits (see below),at the investigator's discretion the dose can be escalated to 25 mg/m2. 25 mg/m2 is the FDA (Food and Drug Administration)-approved dose for prostate cancer. Neulasta will be given with each dose of cabazitaxel to decrease the risk of febrile neutropenic complication.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 14,
+  "conditions": [
+    "Urothelial Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Cabazitaxel",
+      "type": "DRUG",
+      "description": "* Cycle 1: 20 mg/m2 in 250cc NS via IV on Day 1 every 21 days\n* Following cycles: 20 mg/m2 or escalated to 25 mg/m2 or reduced by 5 mg/m2 in 250cc NS via IV on Day 1 every 21 days at investigator's discretion\n* Treatment continues until disease progression, intercurrent illness preventing further treatment, unacceptable adverse event(s), patient withdraws from the study, or changes in the patient's condition which render further treatment unacceptable in the judgment of the investigator"
+    },
+    {
+      "name": "Neulasta",
+      "type": "DRUG",
+      "description": "6 mg via SQ on Day 2 (24-48 hours post-cabazitaxel) every 21 days"
+    },
+    {
+      "name": "CT Scan",
+      "type": "PROCEDURE",
+      "description": "CT scan of chest, abdomen, and pelvis to assess disease following every 3rd cycle of treatment (approximately every 9 weeks)"
+    },
+    {
+      "name": "Blood Draw",
+      "type": "BIOLOGICAL",
+      "description": "Approximately 2 tablespoons of blood will be taken to test complete blood count, glucose, hematology, electrolytes, liver function, creatinine clearance, and a chemistry profile. This week be done weekly during the first cycle of treatment"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have histologically confirmed urothelial carcinoma\n* Patients must have measurable disease\n* Patients must have been previously treated with a platinum-based regimen, either in the neoadjuvant, adjuvant or first line setting\n* Patients can have had disease progression while on platinum chemotherapy, or progression within 12 months of completion of therapy\n* At least 4 weeks must have passed since the last dose of previous chemotherapy\n* Age \\> 18 years\n* ECOG performance status \\< 2 (Karnofsky \\> 60%)\n* Life expectancy of greater than 6 months\n* Patients must have adequate organ and marrow function as defined below:\n* absolute neutrophil count \\> 1,500/mcL\n* hemoglobin \\> 9.0 g/dl\n* platelets \\> 100,000/mm3\n* total bilirubin \\< normal institutional limits (ULN)\n* AST(SGOT)/ALT(SGPT) \\< 1.5 X institutional upper limit of normal\n* creatinine \\<1.5 x ULN OR creatinine clearance measured \\> 50 mL/min/1.73 m2for patients with creatinine levels above institutional normal or calculated clearance \\< 60 by 24 hour urine\n* Peripheral neuropathy: must be \\< grade 1\n* Women of childbearing potential must have a negative pregnancy test, and patients must use adequate contraception during study and for 3 months thereafter\n* Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n* Patients with any component of small cell carcinoma\n* Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier\n* Patients who are receiving any other investigational agents\n* Patients with known brain metastases\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to taxane chemotherapy\n* Patients with a history of severe hypersensitivity reaction to Cabazitaxel or other drugs formulated with polysorbate 80\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant and breastfeeding women\n* HIV-positive patients on combination antiretroviral therapy\n* Patients who have previously been treated with taxane regimens for bladder cancer or other malignancies\n* Patients who have had more than one platinum based chemotherapy regimen\n* Patients whose cancer has progressed more than 12 months following abstinence from platinum based chemotherapy can be included on study at the discretion of the investigator, however should first be considered for platinum re-challenge",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Cancer Institute",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response Rate",
+      "timeFrame": "Every 3 cycles or 63 days",
+      "description": "To determine the overall response rate of patients who have disease response while on treatment with Cabazitaxel. CT scan will be used to measure tumor pre-treatment and then every 3 cycles (every 63 days)"
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [
+    "Sanofi"
+  ],
+  "start_date": "2012-02-16",
+  "completion_date": "2017-03-30",
+  "last_updated": "2025-05-01"
+}

@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT06013176",
+  "brief_title": "Behavioral Economic Strategies to Improve PRO Adherence",
+  "official_title": "Behavioral Economic Strategies to Improve PRO Adherence",
+  "brief_summary": "The main purpose of this research study is to evaluate the implementation and effectiveness of patient- and nurse-directed strategies across in-clinic and remote patient reported outcome (PRO) monitoring settings, using a three-arm pragmatic cluster randomized controlled trial. Additionally, the goal is to evaluate moderators of implementation effects on PRO monitoring.\n\nEligible patients will be randomized independently to: (1) usual practice (i.e., encounter-based PRO administration via patient portal or tablet); (2) encounter-based PRO monitoring with patient reminders and nurse alerts; or (3) remote PRO monitoring with patient reminders and nurse alerts. The investigators hypothesize that nudges to patients and alerts to nurses will improve patient-level PRO completion and clinician-level PRO engagement.",
+  "detailed_description": "Routine PRO monitoring is an evidence-based practice that improves patient outcomes. Patients with cancer commonly experience symptoms which go unrecognized by clinical teams up to half of the time. PROs are a powerful tool to bridge this gap, amplifying the patient experience and improving communication between patients and clinicians. A seminal clinical trial was conducted in which weekly PRO symptom assessments with care team alerts led to reduced care utilization, improved quality of life, and lengthened overall survival among patients receiving active treatment for advanced solid tumors. Subsequent randomized trials have corroborated the quality of life and survival advantages of PRO monitoring in other cancer populations and practice settings.\n\nReal-world adherence to PRO monitoring is lower than in seminal clinical trials, with potential racial/ethnic disparities. Multilevel barriers to PRO implementation exist at the patient, clinician, practice, and system levels. While patient adherence to PRO monitoring in seminal trials ranged from 70 to 90 percent, real-world adherence is much lower and more variable. Our preliminary research demonstrates that in a large, multi-site rollout of PRO monitoring, mean patient-level adherence was less than 50 percent. Moreover, compared to non-Hispanic White patients, Black and Hispanic patients were 9% and 4% less likely to complete PRO questionnaires, respectively, but more likely to report more severe symptoms. These results highlight that historically marginalized subgroups may benefit less from current methods of PRO administration, potentially reinforcing existing disparities in symptom management if not remediated.\n\nThis will be the first study to apply behavioral economic strategies to align clinicians and patients in achieving sustained patient-level PRO adherence, and addresses limitations of current PRO approaches. Current approaches to PRO collection are limited by: (1) suboptimal clinician engagement, (2) encounter-based assessments which preclude longitudinal monitoring of PROs outside of the clinic, and (3) insufficient automated effectors actively linking reported symptoms with clinical response. This proposal addresses these limitations by employing behavioral strategies directly targeting clinician engagement, utilizing novel electronic remote monitoring methods to maximize real-time PRO capture, and linking these with pathway-driven automated effectors.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 476,
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Encounter-based PRO monitoring",
+      "type": "OTHER",
+      "description": "This arm consists of usual practice plus the addition of patient reminders to complete PRO questionnaires and triage nurse alerts for severe symptoms. Patient reminders will be operationalized through the Epic patient portal. Triage nurse alerts will be routed to Epic symptom management pools in response to a patient reporting moderate or severe symptoms. Patients will have the opportunity to decline or opt-out of triage nurse support. Clinical interventions stemming from triage nurse alerts will be up to the discretion of clinical teams - i.e., clinical responses will be neither prescriptive nor mandatory. Notably, the entry point for triage nurse alerts (i.e., Epic symptom management pools), as well as resultant clinical responses, are existing standard operating procedures/practices for patients reporting symptoms by phone."
+    },
+    {
+      "name": "Remote PRO monitoring",
+      "type": "OTHER",
+      "description": "This arm will consist of weekly PRO questionnaires administered via the patient portal, de-linked from clinical encounters. Patient reminders will be operationalized through the Epic patient portal. Triage nurse alerts will be routed to Epic symptom management pools in response to a patient reporting moderate or severe symptoms. Patients will have the opportunity to decline or opt-out of triage nurse support. Clinical interventions stemming from triage nurse alerts will be up to the discretion of clinical teams - i.e., clinical responses will be neither prescriptive nor mandatory. Notably, the entry point for triage nurse alerts (i.e., Epic symptom management pools), as well as resultant clinical responses, are existing standard operating procedures/practices for patients reporting symptoms by phone."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must initiate a new line of systemic cancer therapy (i.e., intravenous chemotherapy or immunotherapy) at a participating Implementation Lab site\n\nExclusion Criteria:\n\n\\- Patient opts out of pragmatic research",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn Medicine Princeton Health",
+      "city": "Plainsboro",
+      "state": "New Jersey",
+      "zip": "08536",
+      "status": ""
+    },
+    {
+      "facility": "Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "PRO Adherence",
+      "timeFrame": "3 months",
+      "description": "The primary outcome will be PRO adherence, measured at the patient level as the proportion of expected PRO questionnaires completed per patient."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2023-12-04",
+  "completion_date": "2024-09-04",
+  "last_updated": "2025-12-09"
+}

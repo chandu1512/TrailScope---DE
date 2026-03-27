@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT01124734",
+  "brief_title": "High Dose Interleukin-2 Followed by Intermittent Low Dose Temozolomide in Patients With Melanoma",
+  "official_title": "Phase II Trial of High Dose Interleukin-2 Followed by Intermittent Low Dose Temozolomide in Patients With Metastatic Malignant Melanoma",
+  "brief_summary": "The investigators have observed that many patients who had received high dose Interleukin-2 (IL2) and failed to respond to it but who then go immediately to temozolomide seemed to enjoy extremely good responses which seem better quality and longer duration than typically observed for temozolomide alone. To date, the investigators have observed 5 sequentially treated patients with metastatic melanoma who had failed high dose IL-2 but who then went on to receive immediate temozolomide. Two of these patients had complete responses and 3 had very strong partial response. In a recent phase II study of extended low dose temozolomide alone given in the same manner as the post IL-2 patients noted above, the response rate was 12.5% and all of these were partial responses only. The responses that the investigators observed were at a much higher rate of response as well as much better quality than expected for temozolomide. The responses were also better than those observed when temozolomide was given first and then followed by high dose IL-2. The investigators concluded that perhaps the major benefit the investigators observed was a result of the prior high dose IL-2 therapy modulated by the temozolomide and that the sequence of treatment was clearly crucial for this response.",
+  "detailed_description": "Metastatic malignant melanoma remains a disease with a very poor prognosis and median survival duration of less than one year. Durable remissions with conventional therapy are rare and therefore clinical trials remain a primary treatment modality for metastatic disease. There are 2 currently FDA-approved therapies for metastatic melanoma. Chemotherapy with single agent parenteral dacarbazine or its oral pro-drug, temozolomide, are capable of producing responses in 6.5 to 20% of patients. These responses are usually minor to partial at best and are not durable. Combination with other chemotherapeutic drugs has not been successful. The immune system also seems to play a role in malignant melanoma. High dose Interferon therapy is the current standard therapy for the adjuvant treatment of stage IIB, IIC and III melanoma after surgical resection in which it has shown to result in modest improvements in disease free survival and overall survival. In metastatic disease, various immunologic approaches have been employed as well. High dose IL-2 can produce a response rate of about 10-15% in patients with metastatic melanoma. About 5-10% of responses are complete and some of these complete responses are durable so that the lucky few patients who have a durable complete response are for all intents and purposes cured. Attempts to combine chemotherapy with immunotherapy, although improving response rates, has not impacted survival as summarized in recent meta-analysis.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 17,
+  "conditions": [
+    "Malignant Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Interleukin-2",
+      "type": "DRUG",
+      "description": "Participants will receive IL-2 up to a maximum of 14 doses at 600,000 IU/kg"
+    },
+    {
+      "name": "Temozolomide",
+      "type": "DRUG",
+      "description": "Participants receive temozolomide at 75 mg/m2 after completion of the second cycle of high dose IL-2. Participants take the medication at bedtime daily. Four weeks after Cycle 2 of a course, they would take it for 21 days."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Pathologically confirmed metastatic malignant melanoma\n* Age \\> 18 years\n* Eastern Cooperative Oncology Group performance status of 0 or 1\n* Patients considered good candidate for conventional high dose IL-2\n* No chemotherapy, hormonal therapy, immunotherapy or radiation therapy within 1 month of entry\n* Patients with a history or clinical evidence of brain metastasis must have completed radiation therapy or surgical treatment of brain lesions and have no evidence of central nervous system progression for at least 8 weeks at the time of enrollment.\n* Patients may have had prior high dose IL-2 or temozolomide but not together or with high dose IL-2 followed by temozolomide\n* Patients may have had prior high dose interferon as adjuvant treatment for high risk melanoma\n* Serum creatinine \\< 2 mg/dL\n* Bilirubin \\< 2 mg/dL\n\nExclusion Criteria:\n\n* Inability to provide informed consent\n* Hypersensitivity to temozolomide or HD IL-2\n* Active gastrointestinal disorder or cardiac disorders\n* Ejection fraction \\< 50% by echocardiogram or corrected diffusing capacity of lung for carbon monoxide \\< 50% on diffusion capacity testing pulmonary function tests\n* platelets \\< 100 K, neutrophils \\< 1000\n* Serum Creatinine \\< 2 x the upper limits of normal\n* Chronic use of steroids other than for simple adrenal replacement",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Milton S. Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Clinical Response to High-Dose Interleukin-2 (H-D IL-2) Followed by Low Dose Temozolomide",
+      "timeFrame": "2 years",
+      "description": "Clinical response was measured using the Response Evaluation Criteria In Solid Tumors (RECIST) criteria categorizing responses as complete response (CR), partial response (PR), minor response (MR), stable disease (SD), or progressive disease (PD)."
+    },
+    {
+      "measure": "Duration of Response to High-Dose Interleukin-2 (H-D IL-2) Followed by Low Dose Temozolomide",
+      "timeFrame": "8 years",
+      "description": "Duration of response is defined as the length (measured in days) from the date of best response to the date of progression (if any), or to the date of last follow-up (if no progression is observed). The duration of response is applicable for those CR/MR/PR/SD subjects only."
+    },
+    {
+      "measure": "Safety and Toxicity of H-D IL-2 Followed by Low Dose Temozolomide",
+      "timeFrame": "2 years",
+      "description": "Safety and toxicity in this study population was evaluated using the NCI Common Toxicity Criteria. The unit of measure is the number of study participants with one or more unexpected and related (even remotely) SAE."
+    }
+  ],
+  "sponsor": "Milton S. Hershey Medical Center",
+  "collaborators": [],
+  "start_date": "2010-05",
+  "completion_date": "2018-07-01",
+  "last_updated": "2019-01-18"
+}

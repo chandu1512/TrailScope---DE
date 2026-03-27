@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT01397708",
+  "brief_title": "Safety Study of Adenovirus Vector Engineered to Express hIL-12 in Combination With Activator Ligand to Treat Melanoma",
+  "official_title": "A Phase I/II, Open Label Study of Ad-RTS-hIL-12, an Adenovirus Vector Engineered to Express hIL-12, in Combination With an Oral Activator Ligand, in Subjects With Unresectable Stage III or IV Melanoma",
+  "brief_summary": "This research study involves two investigational drugs, an Activator Ligand (INXN-1001) in combination with an Adenovirus Vector Engineered to Express hIL-12 (INXN-2001). IL-12 is a protein that may improve the body's natural response to disease by enhancing the ability of the immune system to kill tumor cells and may interfere with blood flow to the tumor.\n\nThe main purpose of this study is to evaluate the safety and tolerability of tumor injections of INXN-2001 given in combination with different doses of INXN-1001.",
+  "detailed_description": "Single-arm, open label, Phase I/II dose escalation study of intratumoral injections INXN-2001 and oral INXN-1001 in subjects with unresectable Stage III or IV melanoma.\n\nFour sequential dose escalation cohorts of INXN-1001 in combination with a fixed dose of INXN-2001 are planned. Subject enrollment and dose escalation will proceed according to a standard 3+3 design.\n\nApproximately 15 additional subjects will be enrolled as an expansion cohort at a single dose level at or below the MTD.\n\n* Safety and tolerability will be assessed by the incidence and severity of adverse events.\n* The antitumor activity of study treatment will be assessed according to RECIST v1.1 guidelines. Additional assessment of anti-tumor activity will be explored based on total measurable tumor burden.\n* Immunological and biological markers of response will include examinations of tumor biopsy samples, cytokine levels, peripheral blood mononuclear cells (PBMC) and antibody response to INXN-2001.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 26,
+  "conditions": [
+    "Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "INXN-2001",
+      "type": "BIOLOGICAL",
+      "description": "* approximately 1.0 x 1012 viral particles (vp) per injection\n* one intratumoral injection of INXN-2001 per study cycle\n* maximum of 6 study cycles"
+    },
+    {
+      "name": "INXN-1001",
+      "type": "DRUG",
+      "description": "* 4 dose cohorts (5mg/day, 20mg/day, 100mg/day, and 160mg/day)\n* 7 oral daily doses of INXN-1001 per study cycle\n* maximum of 6 study cycles\n* 1 Expansion cohort at a single dose level at or below MTD (160mg/day)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Males or females of all races \u2265 18 years of age, who have provided written informed consent prior to completing any study specific procedure.\n* Unresectable Stage III or Stage IV melanoma arising from any site other than ocular melanoma.\n* A minimum of 2 accessible nonvisceral lesions (shortest diameter \u22651 cm) or palpable tumor-involved lymph nodes (shortest diameter \u22651.5 cm).\n* ECOG performance status of 0 or 1 (Appendix 1).\n* Adequate bone marrow, liver, and renal function.\n* An expected survival of at least approximately 6 months.\n* Male and female subjects must agree to use a highly reliable method of birth control (expected failure rate less than 5% per year) from the screening visit through 28 days after the last dose of study drug.\n\nExclusion Criteria:\n\n* Any prior anti-cancer therapy or investigational agent within 28 days prior to the first dose of study drug. (NOTE: For the expansion cohort ONLY, if subjects received ipilimumab, a 90-day washout period since last dose of ipilimumab is required. If subjects received other immunomodulating therapies (eg, anti-PD1 antibodies), the medical monitor should be contacted and an evaluation will be made.)\n* Clinically significant infection requiring systemic antibacterial, antifungal, or antiviral therapy within 2 weeks of the first dose of study drug.\n* History of HIV infection.\n* Active autoimmune disease requiring steroids (\\>10 mg prednisone or comparable) or other immunosuppressive therapy (e.g., methotrexate, etc.).\n* Documented symptomatic brain metastases. Screening for brain lesions by CT or MRI is not required for all potential subjects; however, if there are any neurological signs or symptoms consistent with brain metastases, then a brain CT or MRI should be performed as clinically indicated.\n* Any medications that induce, inhibit or are substrates of CYP450 3A4 within 7 days prior to the first dose of study drug.\n* Prior history of hematopoietic stem cell transplant or organ allograft.\n* Other concurrent clinically active malignant disease, with the exception of other cancers of the skin.\n* Females who are nursing or pregnant.\n* Subjects who have a history of hypersensitivity that may relate to any component of the study drugs, e.g. to benzoic acid since INXN-1001 contains two benzene rings.\n* Unstable or clinically significant concurrent medical condition that would, in the opinion of the investigator, jeopardize the safety of a subject and/or their compliance with the protocol.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Atlantic Melanoma Center",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    },
+    {
+      "facility": "St. Lukes",
+      "city": "Easton",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Treatment-Emergent Adverse Events",
+      "timeFrame": "From the signing of informed consent until 28 days after the last dose of study treatment, up to 28 weeks",
+      "description": "Evaluation will be based on the incidence, intensity, and type of Adverse Events (AEs). Clinically significant changes in the subjects' physical examinations, vital signs, and ECG evaluations, and clinical manifestations relevant to abnormal laboratory values will be captured as AEs."
+    }
+  ],
+  "sponsor": "Alaunos Therapeutics",
+  "collaborators": [],
+  "start_date": "2011-08",
+  "completion_date": "2014-09",
+  "last_updated": "2025-10-15"
+}

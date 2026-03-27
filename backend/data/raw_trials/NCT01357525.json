@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT01357525",
+  "brief_title": "SBRT for Close or Positive Margins After Resection of Pancreatic Adenocarcinoma",
+  "official_title": "SBRT for Close or Positive Margins After Resection of Pancreatic Adenocarcinoma A Prospective Evaluation in Select Patients With Resected Pancreas Cancer",
+  "brief_summary": "The current study seeks to further investigate the impact of Stereotactic Body Radiation Therapy following pancreatic resection with a close or positive margin. The investigators hope to improve local control, and through the use of a shortened treatment schedule, allow patients to begin systemic therapy earlier.",
+  "detailed_description": "Radiation simulation will be done in Shadyside Radiation Oncology department Contrast-enhanced CT based simulation will be obtained prior to any adjuvant treatment (2-4 weeks post-op depending on healing). The target volume will be identified based on fiducial marker placement at time of surgery as well as a detailed discussion and image review with the operating surgeon. This are will be contoured on axial CT images obtained at 1.25 mm slice thickness. These volumes will then be reconstructed into a 3-dimensional image set for SBRT planning. Subjects will be simulated in the treatment position (supine with arms raised) on the CT scanner table the appropriate immobilization. Optiray\u00ae contrast will be administered intravenously at a flow rate of 2.5 mL/s. A helical CT scan of the abdomen will be acquired with intravenous contrast starting 30 seconds prior to CT acquisition.\n\nA 4D CT data acquisition for the same axial extent will be obtained. The images will then be electronically transferred from the CT workstation via DICOM3 to the appropriate treatment planning workstation in the department of radiation oncology. Based on axial CT images, fiducial marker placement, review of the pathology report, and a detailed discussion with the operating surgeon, contours will be drawn of the clinical target volume (CTV), which is defined as the area at risk for microscopic disease. The planning target volume (PTV) will be equivalent to the CTV unless motion is detected on the 4D motion study. If there is motion, the amount of motion in the superior-inferior, lateral, and anterior-posterior directions will be the margin given. Surrounding normal and critical structures will also be contoured by the treating radiation oncologist including the kidneys, liver, small bowel, spinal cord, and stomach if necessary.\n\nStereotactic Body Radiotherapy Planning An SBRT plan will be created by a medical physicist based on the PTV contoured on the CT scan. The plan will be to deliver fractionated SBRT to the isodose line best encompassing the PTV.\n\nCareful evaluation of each plan will be conducted by the radiosurgical team to ensure that normal tissues and critical structures tolerances are maintained.\n\nThe maximum dose (in Gy) within the treatment volume (MD), prescriptions dose (PD), and the ratio of MD/PD (as a measure of heterogeneity within the target volume), prescription isodose volume (PIV in mm3), tumor volume (TV in mm3), and the ratio of PIV/TV (as a measure of dose conformity of the treatment relative to the target) will be recorded.\n\nEvaluation during treatment The subjects will be carefully followed while on active treatment and post-treatment for 24 months, or until death.\n\nTreatment following SBRT All patients will have been seen in a multi-disciplinary pancreatic cancer clinic. As such, they will be set up with a medical oncologist. Following completion of SBRT as described in this protocol, the patient's medical oncologist may, at his/her discretion, administer systemic therapy according to the current standard of care or the UPMC pathways.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Adenocarcinoma of the Pancreas"
+  ],
+  "interventions": [
+    {
+      "name": "Stereotactic Body Radiation Therapy (SBRT)",
+      "type": "RADIATION",
+      "description": "An SBRT plan will be created by a medical physicist based on the PTV contoured on the CT scan. The plan will be to deliver fractionated SBRT to the isodose line best encompassing the PTV:\n\n12 Gy x 3 fractions (36 Gy total)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically proven adenocarcinoma of the pancreas that has been resected with a close (\\<2.5mm) or positive margin based on surgical and pathological findings.\n* Subjects will be staged according to the 2010 AJCC staging system (Appendix E) with pathologic stage T1-4, N0-1 being eligible; and have a primary tumor of the pancreas (i.e., pancreatic head, neck, uncinate process, body/tail\n* PTV must be encompassed in a reasonable SBRT \"portal\" as defined by the treating radiation oncologist\n* Karnofsky performance status \\> 70 (ECOG 0-1)\n* Age \\> 18\n* Estimated life expectancy \\> 12 weeks\n* Patient must have adequate renal function as defined by serum creatinine\\<1.5mg/dl obtained within 28 days prior to registration\n* Patient must have adequate hepatic function as defined by total bilirubin \\<1.5 xIULN(institutional upper limit of normal) and either SGOT or SGPT \\<2.5xIULN, obtained within 28 days prior to registration.\n* Patient must be able to swallow enteral medications. Patient must not require a feeding tube. Patient must not have intractable nausea or vomiting, GI tract disease resulting in an inability to take oral medication, malabsorption syndrome, or uncontrolled inflammatory bowel disease (Chron's, ulcerative colitis).\n* Ability to provide written informed consent\n* Patient must not have uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, history of myocardial infarction or cerebrovascular accident within 3 months prior to registration, uncontrolled diarrhea, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Patient must not be pregnant because of the risk of harm to the fetus. Nursing women may participate only if nursing is discontinued, due to the possibility of harm to nursing infants from the treatment regimen. Women/men of reproductive potential must agree to use an effective contraception method.\n\nExclusion Criteria:\n\n* Non-adenocarcinomas, adenosquamous carcinomas, islet cell carcinomas, cystadenomas, cystadenocarcinomas, carcinoid tumors, duodenal carcinomas, distal bile duct, and ampullary carcinomas are not eligible.\n* Evidence of distant metastasis on upright chest x-ray (CXR), computed tomography (CT) or other staging studies\n* Subjects with recurrent disease\n* Prior radiation therapy to the upper abdomen or liver\n* Prior chemotherapy\n* Subjects in their reproductive age group should use an effective method of birth control. Subjects who are breast-feeding, or have a positive pregnancy test will be excluded from the study\n* Any co-morbidity or condition of sufficient severity to limit full compliance with the protocol per assessment by the investigator\n* Concurrent serious infection\n* Previous or current malignancies of other histologies within the last 5 years, with the exception of cervical carcinoma in situ, adequately treated basal cell or squamous cell carcinoma of the skin, and treated low-risk prostate cancer.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Local Progression-free Survival (LPFS) at 1-year",
+      "timeFrame": "Up to 12 months",
+      "description": "Percentage of patients that did not experience progressive disease (PD) in the target lesion. Death or development of distant disease was not regarded as an event. For patients that underwent surgical resection, local progression was defined as disease recurrence detected on follow-up imaging (CT or FDG-PET/CT) that is located within the SBRT target volume."
+    },
+    {
+      "measure": "Local Progression-free Survival (LPFS) at 2-years",
+      "timeFrame": "Up to 24 months",
+      "description": "Percentage of patients that did not experience progressive disease (PD) in the target lesion. Death or development of distant disease was not regarded as an event. For patients that underwent surgical resection, local progression was defined as disease recurrence detected on follow-up imaging (CT or FDG-PET/CT) that is located within the SBRT target volume."
+    },
+    {
+      "measure": "Local Progression-free Survival (LPFS)",
+      "timeFrame": "Up to 24 months",
+      "description": "Percentage of patients without disease progression in target lesion from time from enrollment until one month. Death or development of distant disease is not regarded as an event. For patients that undergo surgical resection, local progression will be defined as disease recurrence detected on follow-up imaging (CT or FDG-PET/CT) that is located within the SBRT target volume."
+    },
+    {
+      "measure": "Regional Progression-free Survival (RPFS)",
+      "timeFrame": "Up to 24 months",
+      "description": "Time duration that patients that did not experience progressive disease (PD) in the target lesion. Death or development of distant disease was not regarded as an event. For patients that underwent surgical resection, local progression was defined as disease recurrence detected on follow-up imaging (CT or FDG-PET/CT) that is located within the SBRT target volume."
+    },
+    {
+      "measure": "Regional Progression-free Survival (RPFS) at 2-years",
+      "timeFrame": "Up to 24 months",
+      "description": "Percentage of patients that did not experience progressive disease (PD) in the target lesion. Death or development of distant disease was not regarded as an event. For patients that underwent surgical resection, local progression was defined as disease recurrence detected on follow-up imaging (CT or FDG-PET/CT) that is located within the SBRT target volume."
+    },
+    {
+      "measure": "Distant Metastasis-free Survival (DMFS) at 2 Years",
+      "timeFrame": "Up to 24 months",
+      "description": "Percentage of patients that did not experience distant metastasis. Death or development of distant disease was not regarded as an event. For patients that underwent surgical resection, local progression was defined as disease recurrence detected on follow-up imaging (CT or FDG-PET/CT) that is located within the SBRT target volume."
+    },
+    {
+      "measure": "Distant Metastasis-free Survival (DMFS)",
+      "timeFrame": "Up to 24 months",
+      "description": "Percentage of patients without distant disease metastasis (progression of disease beyond local target lesion)."
+    }
+  ],
+  "sponsor": "David A. Clump, MD, PhD",
+  "collaborators": [],
+  "start_date": "2013-02-06",
+  "completion_date": "2018-06-01",
+  "last_updated": "2021-10-27"
+}

@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT01947140",
+  "brief_title": "Pralatrexate + Romidepsin in Relapsed/Refractory Lymphoid Malignancies",
+  "official_title": "Phase I/IIA Study of the Novel Antifolate Agent Pralatrexate in Combination With the Histone Deacetylase Inhibitor Romidepsin for the Treatment of Patients With Peripheral T-cell Lymphoma",
+  "brief_summary": "This is a study to test how safe the combination of the drugs Romidepsin and Pralatrexate are in patients with lymphoid malignancies and to determine the dose of the combination of drugs that is safest. If the combination is determined to be safe, the study will continue accrual patients with peripheral T-Cell lymphoma (PTCL).",
+  "detailed_description": "The non- Hodgkin lymphomas (NHL) represent a heterogeneous group of malignancies. Under the rubric of lymphoma exist some of the fastest growing cancers known to science, (Burkett's lymphoma, lymphoblastic lymphoma/leukemia), as well as some of the most indolent (small lymphocytic lymphoma, follicular lymphoma, and marginal zone lymphoma). This remarkable diversity of biology imposes significant challenges. Researchers are seeking to understand the cell of origin and differentiate what are sometimes subtle differences between the related sub-types of disease; and to identify the best treatments for these subtypes, with the ever-increasing likelihood that new understanding of the molecular pathogenesis of these diseases will result in an increase in new drugs for specific target populations.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 57,
+  "conditions": [
+    "Lymphoid Malignancies",
+    "Multiple Myeloma",
+    "Lymphoma",
+    "Hodgkin Lymphoma",
+    "Non-hodgkin Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "Pralatrexate",
+      "type": "DRUG",
+      "description": "Phase I - Schedule A: Intravenous drug given on days 1 and 8 of each 21 day cycle Schedule B: Intravenous drug given on days 1 and 15 of each 28 day cycle Dose escalation from 10 mg/m2 to 25 mg/m2\n\nPhase II - 25 mg/m2 will be given intravenously once weekly on days 1 and 15 on a 28 day cycle."
+    },
+    {
+      "name": "Romidepsin",
+      "type": "DRUG",
+      "description": "Phase I - Schedule A: Intravenous drug given on days 1 and 8 of each 21 day cycle Schedule B: Intravenous drug given on days 1 and 15 of each 28 day cycle Dose escalation from 12 mg/m2 to 14 mg/m2.\n\nPhase II - 12 mg/m2 will be given intravenously once weekly on days 1 and 15 on a 28 day cycle."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nPhase I: Patients must have histologically confirmed relapsed or refractory Non-Hodgkin's lymphoma, Hodgkin's Disease or multiple myeloma (defined by World Health Organization (WHO) criteria).\n\nPhase II: Patients must have histologically confirmed relapsed or refractory T-Cell Lymphoma (as defined by WHO criteria).\n\n* Must have received first line chemotherapy. No upper limit for the number of prior therapies\n* Evaluable Disease\n* Age \u226518 years\n* Eastern Cooperative Oncology Group (ECOG) performance status \u22642\n* Patients must have adequate organ and marrow function as defined in the protocol\n* Adequate Contraception\n* Ability to understand and the willingness to sign a written informed consent document\n* Inclusion Criteria for Multiple Myeloma patients specified in the protocol\n\nExclusion Criteria:\n\n* Prior Therapy\n\n  * Exposure to chemotherapy or radiotherapy within 2 weeks (6 weeks for nitrosureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 2 weeks earlier\n  * Systemic steroids that have not been stabilized to the equivalent of \u226410 mg/day prednisone prior to the start of the study drugs\n  * No other investigational agents are allowed\n* Central nervous system metastases, including lymphomatous meningitis\n* History of allergic reactions to Pralatrexate or Romidepsin\n* Uncontrolled intercurrent illness\n* Pregnant women\n* Nursing women\n* Current malignancy or history of a prior malignancy, as outlined in the protocol\n* Patient known to be Human Immunodeficiency Virus (HIV)-positive\n* Active Hepatitis A, Hepatitis B, or Hepatitis C infection",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum tolerated dose (MTD) of the combination of pralatrexate and romidepsin",
+      "timeFrame": "Up to 1.5 years",
+      "description": "For Phase I"
+    },
+    {
+      "measure": "Overall response rate (ORR) (complete + partial response) of the combination of pralatrexate and romidepsin in patients with relapsed/refractory T-Cell Lymphoma",
+      "timeFrame": "Up to 3 years",
+      "description": "For Phase II"
+    }
+  ],
+  "sponsor": "Jennifer Amengual",
+  "collaborators": [],
+  "start_date": "2013-09-09",
+  "completion_date": "2022-09-01",
+  "last_updated": "2022-11-18"
+}

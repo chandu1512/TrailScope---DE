@@ -1,0 +1,94 @@
+{
+  "nct_id": "NCT05856370",
+  "brief_title": "The Ailliance Post-Market Clinical Study",
+  "official_title": "The Ailliance Post-Market Clinical Study: All enablIng technoLogies, bioLogics, IDS, And Core spiNe produCt collEction",
+  "brief_summary": "The purpose of this clinical study is to collect performance and safety data for post-market Medtronic devices indicated for cranial and/or spinal indication(s).\n\nSubjects are enrolled and followed postoperatively to 24 months. The Ailliance clinical study is intended to collect data congruous with routine clinical care practices.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1000,
+  "conditions": [
+    "Spinal Deformity",
+    "Spinal Degenerative Disorder",
+    "Spinal Fusion Failure",
+    "Spinal Trauma",
+    "Spinal Tumor Case"
+  ],
+  "interventions": [
+    {
+      "name": "Follow-up schedule: pre-operative baseline up to 24-months post-procedure",
+      "type": "DEVICE",
+      "description": "Follow-up assessments will be required (therefore interventional) from pre-operative baseline to 24 months post index surgery"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Subject provides written informed consent per institution and/or geographical requirements.\n2. Subject is intended to receive or be treated with an eligible Medtronic Cranial and Spinal Technology (CST) device(s) (see product appendices), used alone or in combination, for a cranial and/or spinal indication(s).\n3. Subject is at least 18 years of age or minimum legal age as required by local regulations.\n4. Subject agrees to complete all required assessments per the Schedule of Events.\n\nExclusion Criteria:\n\n1. Subject is currently enrolled or plans to enroll in concurrent drug/device/biologic trial(s) that may confound this trial's results per investigator assessment (i.e. no required intervention that could affect interpretation of all-around device safety and or performance).\n2. Subject who is, or is expected to be, inaccessible for all required follow-up visits.\n3. Subject with exclusion criteria required by local law.\n4. Subject is considered vulnerable at the time of obtaining consent.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center UPMC Presbyterian",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Surgical success (for any Medtronic eligible market-released Advanced Energy device(s) used)",
+      "timeFrame": "Discharge (from Index Surgery completion to 14 days post-operatively)",
+      "description": "Defined by amount of: 1) blood loss (mL) during surgery and/or 2) total operation time and/or 3) length of stay in the hospital (measured from surgery completion to discharge), and/or 4) investigator opinion on whether the device(s) directly assisted in the completion of surgery"
+    },
+    {
+      "measure": "Fusion Success (for any Medtronic eligible market-released Interbodies and Biologics, Other Spinal Hardware, and/or Rods and Screws device(s) used)",
+      "timeFrame": "12 months",
+      "description": "Fusion success at 12-months is determined through evaluation of radiographic evidence (X-ray and/or CT scan) by the investigator by: (1) Confirming the presence of bone bridging, and (2) if using the Brantigan \\& Steffee's Classification scale: a score D and/or E are determined."
+    },
+    {
+      "measure": "Surgical performance (for any Medtronic eligible market-released Powered Systems, Instruments, and Imaging device(s) used)",
+      "timeFrame": "Index Surgery",
+      "description": "Surgical performance, as defined as the rate at which the device directly assisted in the completion of surgery in the investigator's opinion.\n\nIf O-Arm used: whether O-Arm was utilized for validation of implant placement during the surgery."
+    },
+    {
+      "measure": "Device performance (for any Medtronic eligible market-released Robotics and Navigation device(s) used)",
+      "timeFrame": "24 months",
+      "description": "Robotics: Planned number of screws prior to index surgery compared to number of screws device assisted with placement during surgery. Navigation: Whether or not device was utilized for validation of screw placement during surgery."
+    },
+    {
+      "measure": "Pain Resolution (for select Medtronic eligible market-released Other Spinal Hardware device(s) used)",
+      "timeFrame": "12 months",
+      "description": "Resolution of pain at 12-months when compared to baseline Pain reported by the subject using the Neck Disability Index (NDI) questionnaire"
+    },
+    {
+      "measure": "Stabilization (for any Medtronic eligible market-released device(s) used from the following product groups: Other Spinal Hardware)",
+      "timeFrame": "Up to 12 months",
+      "description": "* Stabilization is the radiographic verification of no noticeable hardware and/or implant loosening, the presence of the hardware in the appropriate position without cage subsidence and/or implant loosening, and noticeable stable alignment of the spine post-surgery.\n* Since all products are market-released, assessment for stabilization will be completed by the investigator.\n* Stabilization will be assessed by the collection of radiographic evidence (X-Ray(s) and CT-scan(s))."
+    },
+    {
+      "measure": "Deformity Correction (for specified Medtronic eligible market-released device(s) used from the following product groups: Spinal Tethers)",
+      "timeFrame": "12 months",
+      "description": "Defined by the change of Cobb angle at 12-month"
+    }
+  ],
+  "sponsor": "Medtronic Spinal and Biologics",
+  "collaborators": [
+    "Medtronic Cardiac Rhythm and Heart Failure"
+  ],
+  "start_date": "2023-05-01",
+  "completion_date": "2031-05",
+  "last_updated": "2026-02-03"
+}

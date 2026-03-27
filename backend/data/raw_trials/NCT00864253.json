@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT00864253",
+  "brief_title": "A Trial of ABI-007 Versus Dacarbazine in Previously Untreated Patients With Metastatic Malignant Melanoma",
+  "official_title": "An Open-Label, Multicenter, Phase III Trial of ABI-007 vs Dacarbazine in Previously Untreated Patients With Metastatic Malignant Melanoma",
+  "brief_summary": "The main purpose of this research study is to compare the safety, tolerability, and anti tumor activity of an investigational drug, ABI-007 versus Dacarbazine in patients with metastatic melanoma who have not previously received chemotherapy. ABI-007 is a new preparation of the active drug paclitaxel. It contains the same medication as the prescription chemotherapy drug Abraxane\u00ae. Abraxane\u00ae is approved by the FDA for the treatment of metastatic breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Dacarbazine is approved by the FDA for the treatment of melanoma. In this study, ABI-007 and Dacarbazine will be tested as therapy for people who have not yet had any cancer treatment for the diagnosis of metastatic melanoma.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 529,
+  "conditions": [
+    "Malignant Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "ABI-007",
+      "type": "DRUG",
+      "description": "Patients who receive ABI-007 will be dosed intravenously over approximately 30 minutes without steroid pre-medication and without G-CSF prophylaxis (unless modified as described below). ABI-007 150 mg/m2 will be administered on Days 1, 8, and 15 every 4 weeks."
+    },
+    {
+      "name": "Dacarbazine",
+      "type": "DRUG",
+      "description": "Patients who receive dacarbazine will be dosed intravenously at 1000 mg/m2 on Day 1 with steroid and antiemetic pre-medication. Treatment will be repeated every 21 days."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed cutaneous malignant melanoma with evidence of metastasis (Stage IV).\n* No prior cytotoxic chemotherapy for metastatic malignant melanoma is permitted. Prior treatment with kinase inhibitors or cytokines is permitted.\n* No prior adjuvant cytotoxic chemotherapy is permitted. Prior adjuvant therapy with interferon, Granulocyte-macrophage colony-stimulating factor (GM-CSF) and/or vaccines is permitted.\n* Male or non-pregnant and non-lactating female, and \u2265 18 years of age. If a female patient is of child-bearing potential, as evidenced by regular menstrual periods, she must have a negative serum pregnancy test Beta human chorionic gonadotropin (\u00df-hCG) within 72 hours prior to first study drug administration. If sexually active, the patient must agree to utilize contraception considered adequate and appropriate by the investigator.\n* No other current active malignancy within the past 3 years.\n* Radiographically-documented measurable disease (defined by the presence of at least 1 radiographically documented measurable lesion\n* Patient has the following blood counts at Baseline:\n* Absolute neutrophil count (ANC) \u2265 1.5 x 10\\^9 cells/L;\n* platelets \u2265 100 x 10\\^9 cells/L;\n* Hemoglobin (Hgb) \u2265 9 g/dL.\n* Patient has the following blood chemistry levels at Baseline:\n* Aspartate aminotransferase(AST) glutamic-oxaloacetic transaminase (SGOT), alanine aminotransferase (ALT) serum glutamic pyruvic transaminase (SGPT) \u2264 2.5x upper limit of normal range (ULN); \u2264 5.0 xULN if hepatic metastases present;\n* total bilirubin \u2264 ULN;\n* creatinine \u2264 1.5 mg/dL.\n* Lactate Dehydrogenase (LDH) \u2264 2.0 x ULNa\n* Expected survival of \\> 12 weeks.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1.\n* Patient or his/her legally authorized representative or guardian has been informed about the nature of the study, and has agreed to participate in the study, and signed the Informed Consent form prior to participation in any study-related activities.\n\nExclusion Criteria:\n\n* History of or current evidence of brain metastases, including leptomeningeal involvement.\n* Patient has pre-existing peripheral neuropathy of National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Scale of Grade \u2265 2.\n* Prior radiation to a target lesion is permitted only if there has been clear progression of the lesion since radiation was completed.\n* Patient has a clinically significant concurrent illness.\n* Patient is, in the investigator's opinion, unlikely to be able to complete the study through the End of Study (EOS) visit.\n* Patient is currently enrolled, or will enroll in a different clinical study in which investigational therapeutic procedures are performed or investigational therapies are administered while participating in this study. Marker studies or studies evaluating biological correlates are permitted.\n* Patient has serious medical risk factors involving any of the major organ systems such that the investigator considers it unsafe for the patient to receive an experimental research drug.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Atlantic Melanoma Center",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07962",
+      "status": ""
+    },
+    {
+      "facility": "St. Luke's Hospital & Health Network",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19131",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS) Based on a Blinded Radiology Assessment of Response Using Response Evaluation Criteria in Solid Tumors (RECIST) Guidelines",
+      "timeFrame": "Response assessment completed every 8 weeks until disease progression for up to 106 weeks; data cut off 30 June 2012",
+      "description": "PFS was defined as the time from the randomization date to the start of disease progression or patient death, whichever occurred first. Participants who did not have disease progression or had not died were censored at the last known time that the patient was progression free. In the event of palliative radiotherapy or surgery, they were censored at the last assessment where they were documented to be progression-free prior to the date of radiotherapy or surgery. In follow up, participants who began new anticancer therapy prior to documented progression were censored at the last assessment where they were documented as progression free. Those with two or more missing response assessments prior to a visit with documented disease progression (or death) were censored at the last visit where they were documented to be progression free. RECIST defines progressive disease as a \u2265 20% increase taking as reference the smallest sum of the longest diameters recorded since the treatment began."
+    }
+  ],
+  "sponsor": "Celgene",
+  "collaborators": [
+    "University of Arizona"
+  ],
+  "start_date": "2009-04-23",
+  "completion_date": "2014-02-12",
+  "last_updated": "2019-10-16"
+}

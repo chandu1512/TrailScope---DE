@@ -1,0 +1,128 @@
+{
+  "nct_id": "NCT04793958",
+  "brief_title": "Phase 3 Study of MRTX849 With Cetuximab vs Chemotherapy in Patients With Advanced Colorectal Cancer With KRAS G12C Mutation (KRYSTAL-10)",
+  "official_title": "A Randomized Phase 3 Study of MRTX849 in Combination With Cetuximab Versus Chemotherapy in Patients With Advanced Colorectal Cancer With KRAS G12C Mutation With Disease Progression On or After Standard First-Line Therapy",
+  "brief_summary": "Study CA239-0006 is an open-label, randomized Phase 3 clinical trial comparing the efficacy of MRTX849 administered in combination with cetuximab versus chemotherapy in the second-line treatment setting in patients with CRC with KRAS G12C mutation.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 461,
+  "conditions": [
+    "Advanced Colorectal Cancer",
+    "Metastatic Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "MRTX849",
+      "type": "DRUG",
+      "description": "28 Day Cycle"
+    },
+    {
+      "name": "Cetuximab",
+      "type": "BIOLOGICAL",
+      "description": "28 Day Cycle"
+    },
+    {
+      "name": "mFOLFOX6 Regimen",
+      "type": "DRUG",
+      "description": "* Fluorouracil\n* Oxaliplatin\n* Folinic acid"
+    },
+    {
+      "name": "FOLFIRI Regimen",
+      "type": "DRUG",
+      "description": "* Fluorouracil\n* Irinotecan\n* Folinic acid"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of colorectal carcinoma with KRAS G12C mutation in tumor tissue.\n* Prior receipt of 1st line treatment in advanced CRC with a fluoropyrimidine-based chemotherapy regimen containing either oxaliplatin or irinotecan, and radiographically documented progression of disease on or after treatment.\n\nExclusion Criteria:\n\n* Prior treatment with a therapy targeting KRAS G12C mutation (e.g., AMG 510).\n* Prior treatment with an anti-EGFR antibody (e.g., cetuximab or panitumumab).\n* Active brain metastasis",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 010-534",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 010-918 - B",
+      "city": "Basking Ridge",
+      "state": "New Jersey",
+      "zip": "07920",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 010-993",
+      "city": "Belleville",
+      "state": "New Jersey",
+      "zip": "07109",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 010-975",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 010-992",
+      "city": "Florham Park",
+      "state": "New Jersey",
+      "zip": "07932",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 010-918 - D",
+      "city": "Middletown",
+      "state": "New Jersey",
+      "zip": "07748",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 010-918 - C",
+      "city": "Montvale",
+      "state": "New Jersey",
+      "zip": "07645",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 010-957",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903-2681",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 010-596",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "30 months",
+      "description": "Defined as time from date of randomization to date of death due to any cause."
+    },
+    {
+      "measure": "Progression-free Survival (PFS)",
+      "timeFrame": "30 months",
+      "description": "Defined as time from randomization until disease progression or death from any cause, whichever occurs first."
+    }
+  ],
+  "sponsor": "Mirati Therapeutics Inc.",
+  "collaborators": [],
+  "start_date": "2021-06-24",
+  "completion_date": "2026-01-30",
+  "last_updated": "2025-02-10"
+}

@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT06688513",
+  "brief_title": "Social Needs App for Oncology Patients Phase II",
+  "official_title": "Social Needs App for Oncology Patients Phase II",
+  "brief_summary": "SNAP ON II is a two-arm, parallel-group, multi-center, randomized trial for patients diagnosed with cancer who are planning to undergo expected uncomplicated surgical intervention for their cancer. The study seeks to test whether a mobile app (developed by PistevoDecision) that identifies and connects patients to resources to meet their basic needs (e.g., housing, food, transportation, etc) ccan improve patient outcomes. Prior to their scheduled surgery, patients will download a mobile/web app that asks about their social needs. Then, the treatment group will be connected to community-based resources through FindHelp and the control group will receive access to the Centers for Disease Control tool called Lets Talk: Sharing Info About Your Family Cancer Risk.",
+  "detailed_description": "The goal for this study is to assess Carealth app's ability to connect patients to resources to meet patient's identified Social Determinant of Health (SDH) needs, with the end goal of assessing reduction in 30-day readmission and missed visits by connecting patients to resources to meet their social needs in a way that enables them to receive care earlier or avoid complications. Additionally, we will integrating the collection of SDH data with Electronic Health Record (EHR) data, per the initiatives from the Centers for Medicare and Medicaid Services (CMS), the US Office of the National Coordinator for Health Information Technology, and private EHR organizations.\n\nThe central hypothesis is that the access to resources in the Carealth app is associated with reduced 30-day readmission when compared to access to the sham app. To test this hypothesis, we will conduct a randomized clinical trial at multiple clinical sites. Our primary aim is to determine the proportion of 30-day readmission in the Carealth app group versus the sham app group. Further, we hypothesize that the time to SDH needs being met, time from oncologic consultation to surgery, and likelihood of missed/rescheduled appointments in the first 90-days post surgery will be reduced in the Carealth app group compared to the sham app. Thus, our secondary aim is to compare these outcomes between groups.",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 722,
+  "conditions": [
+    "Cancer",
+    "Social Support (Formal and Informal)",
+    "Mobile Application"
+  ],
+  "interventions": [
+    {
+      "name": "Carealth Phone App",
+      "type": "DEVICE",
+      "description": "The goal for this study is to assess Carealth app's ability to connect patients to resources to meet patient's identified SDH needs, with the end goal of assessing reduction in 30-day readmission and missed visits by connecting patients to resources to meet their social needs in a way that enables them to receive care earlier or avoid complications."
+    },
+    {
+      "name": "Let's Talk: Sharing information about Family Cancer Risk",
+      "type": "BEHAVIORAL",
+      "description": "An interactive tool that patients can use to learn about how to talk with their family members about the family member's cancer risk"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 18 years or older\n* ECOG Performance Status11 score of 2 or less\n* Diagnosed with cancer (e.g., head and neck; lung; breast; genitourinary; pancreatic; gastrointestinal; gynecological)\n* Requires surgery, with an overnight stay in the hospital, as part of the treatment for their cancer.\n* Surgery is considered low risk of major complication, as determined by the surgeon.\n* Must be in one of the following categories: 1) have no evidence or suspicion of metastatic disease at time of consult, 2) metastatic in first-line treatment, or 3) metastatic with a 6-month or greater survival expectancy\n* Not scheduled for surgery within 2 weeks\n* Able to read and respond in English\n* Have access to a smartphone, tablet, computer, or other device with an internet connection and web browser, ability and willingness to download the Carealth app\n* Able to provide consent to the study\n\nExclusion Criteria:\n\n* Diagnosis of cancers in the central nervous system, as these patients may experience cognitive function changes pre- or post-diagnosis that might influence their ability to use the app\n* Diagnosis of cancers of the upper extremities, as they may experience limited physical function that may make it challenging to use a mobile app",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "30-day Readmission post-surgery",
+      "timeFrame": "30 Days",
+      "description": ""
+    },
+    {
+      "measure": "Time to Social Determinants of Health Needs Addressed",
+      "timeFrame": "90 Days",
+      "description": "Time to event analysis of social determinants of health needs addressed from surgery"
+    }
+  ],
+  "sponsor": "JHSPH Center for Clinical Trials",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2024-10-01",
+  "completion_date": "2025-08-31",
+  "last_updated": "2024-11-13"
+}

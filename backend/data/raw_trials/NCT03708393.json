@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT03708393",
+  "brief_title": "Imagio Feasibility Multi-Reader, Multi-Case Study",
+  "official_title": "Imagio Feasibility Multi-Reader, Multi-Case Study of Optoacoustic Images Versus Imagio Ultrasound to Guide Decision to Biopsy",
+  "brief_summary": "Controlled, blinded, multi-reader, multi-case study",
+  "detailed_description": "The Imagio Feasibility Reader Study-01 Study is intended to evaluate if a subsequent pivotal study can be implemented to test prospective hypotheses for pre-specified effectiveness endpoints with an acceptable sample size. The Feasibility Study will be based on ITD masses from the PIONEER (NCT01943916) Pivotal study to simultaneously reflect the distributions with and without mammograms as well as site CDU BI-RADS scores within benign and malignant masses as strata. The study population will be split into 3 cohorts - Cohort 1, the 120 patient ITD Population used to run the primary/ secondary analyses. Cohort 2, 30 patients used to run exploratory analyses on false negative rate and Cohort 3, 5 patients used to run exploratory analyses on specific mass types",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 155,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Imagio (IUS+OA)",
+      "type": "DEVICE",
+      "description": "The Imagio ultrasound and opto-acoustic images to be reviewed as part of the reader study"
+    },
+    {
+      "name": "Imagio Ultrasound",
+      "type": "DEVICE",
+      "description": "Imagio ultrasound images to be reviewed as part of the reader study"
+    },
+    {
+      "name": "Mammography",
+      "type": "DEVICE",
+      "description": "Mammography images as available per standard of care"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n\\- Female subjects participating in the PIONEER-0 Study of the Imagio Breast Imaging System with known clinical status\n\nExclusion Criteria:\n\n\\- Female subjects who did not have known clinical status in the PIONEER-0 Study of the Imagio Breast Imaging System with known clinical status",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "American College of Radiology",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "The Gain in Imagio IUS Alone Specificity vs Imagio (IUS+OA) Specificity at Fixed 95-99% Sensitivity (fSp), Cohort 1",
+      "timeFrame": "Baseline to 12 month follow-up",
+      "description": "Primary effectiveness endpoint was the specificity of Imagio \\[IUS+OA\\] compared to IUS alone at fixed 95-99% sensitivity (fSp) interpolated from the area under the curve (AUC) of receiver operating characteristic (ROC) curves, averaged across all 10 independent readers. Both imaging modalities (IUS alone and IUS+OA) were read for each subject (subject as own control). Results for each imaging modality compared to biopsy diagnosis or 12-month follow-up ruling of benign as determined by truth panel (ground truth)."
+    }
+  ],
+  "sponsor": "Seno Medical Instruments Inc.",
+  "collaborators": [
+    "American College of Radiology"
+  ],
+  "start_date": "2018-11-13",
+  "completion_date": "2018-12-09",
+  "last_updated": "2021-07-14"
+}

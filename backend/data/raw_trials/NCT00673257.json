@@ -1,0 +1,91 @@
+{
+  "nct_id": "NCT00673257",
+  "brief_title": "Pharmacokinetics of Daunorubicin in Young Patients With Cancer",
+  "official_title": "Pharmacokinetics of Daunomycin in Children",
+  "brief_summary": "This laboratory study is looking at the pharmacokinetics of daunorubicin in young patients with cancer. Collecting and storing samples of blood from patients with cancer to study in the laboratory may help doctors learn more about how patients respond to treatment with certain chemotherapy drugs.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* Determine the pharmacokinetics of daunorubicin hydrochloride in pediatric patients with malignancy.\n\nSecondary\n\n* Evaluate the relationship between body composition (percent body fat) and the pharmacokinetics of daunorubicin hydrochloride in these patients.\n* Correlate the pharmacokinetics of daunorubicin hydrochloride with gender, age, or ethnic background in these patients.\n* Explore, in a preliminary fashion, possible relationships between pharmacokinetic results and toxicity.\n* Explore, in a preliminary fashion, possible relationships between pharmacokinetic results and renal and hepatic function and complete blood count.\n* Explore, in a preliminary fashion, possible genetic polymorphisms that may influence daunorubicin hydrochloride disposition.\n\nOUTLINE: This is a multicenter study.\n\nPatients undergo blood collection prior to, periodically during, and after treatment with daunorubicin hydrochloride for pharmacokinetic analysis.\n\nPatients also undergo body composition testing within 7 days before or after the administration of daunorubicin hydrochloride using dual-energy x-ray absorptiometry.\n\nPROJECTED ACCRUAL: A total of 100 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 107,
+  "conditions": [
+    "Unspecified Childhood Solid Tumor, Protocol Specific"
+  ],
+  "interventions": [
+    {
+      "name": "pharmacological study",
+      "type": "OTHER",
+      "description": "pharmacological studies"
+    },
+    {
+      "name": "dual x-ray absorptimetry",
+      "type": "PROCEDURE",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of any malignancy\n* Must be receiving a chemotherapy regimen that includes daunorubicin hydrochloride administered as an infusion of any duration for \\< 24 hours on either a 1- or a 2-day schedule, including bolus and all short infusion schedules\n\nPATIENT CHARACTERISTICS:\n\n* Not pregnant or nursing\n* No significant uncontrolled systemic illness\n* Large implanted prostheses allowed (should not undergo dual energy x-ray absorptiometry scan)\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "21 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Alfred I. duPont Hospital for Children",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19803",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center Cancer Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Newark Beth Israel Medical Center",
+      "city": "Newark",
+      "state": "New Jersey",
+      "zip": "07112",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-9786",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Population Estimates for Daunorubicin Hydrochloride Clearance",
+      "timeFrame": "Prior to drug infusion, midpoint, and end of infusion. Also 0.5,1,1.5,2,3,4,6,8 and 12 hours after end of infusion.",
+      "description": "Pharmacokinetic parameters of Daunorubicin hydrochloride will be analyzed, samples were drawn according to the following schedule: prior to the drug infusion, at the midpoint of the infusion if infusion is \u2265 30 min in duration, end of infusion and 0.5, 1, 1.5, 2, 3, 4, 6, 8, and 12 (when feasible) hours after the end of the infusion. Samples will also be collected at 24, 48, and 72 (when feasible) hours after the end of the infusion. The concentration time data will be analyzed by model dependent and model-independent means. Pharmacokinetic data will be analyzed using ADAPT II software (Biomedical Simulations Resource, University of Southern California). Mean Daunorubicin hydrochloride Clearance will be assessed."
+    },
+    {
+      "measure": "Population Estimates for Daunorubicin Hydrochloride Volume of Distribution",
+      "timeFrame": "Prior to drug infusion, midpoint, and end of infusion. Also 0.5,1,1.5,2,3,4,6,8 and 12 hours after end of infusion.",
+      "description": "Pharmacokinetic parameters of Daunorubicin hydrochloride will be analyzed, samples were drawn according to the following schedule: prior to the drug infusion, at the midpoint of the infusion if infusion is \u2265 30 min in duration, end of infusion and 0.5, 1, 1.5, 2, 3, 4, 6, 8, and 12 (when feasible) hours after the end of the infusion. Samples will also be collected at 24, 48, and 72 (when feasible) hours after the end of the infusion. The concentration time data will be analyzed by model dependent and model-independent means. Pharmacokinetic data will be analyzed using ADAPT II software (Biomedical Simulations Resource, University of Southern California). Mean volume of distribution will be assessed."
+    }
+  ],
+  "sponsor": "Children's Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2007-01",
+  "completion_date": "2020-03-31",
+  "last_updated": "2020-04-06"
+}

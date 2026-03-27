@@ -1,0 +1,45 @@
+{
+  "collection_date": "2026-03-26T16:26:50.716311",
+  "total_trials": 10980,
+  "target_states": [
+    "Delaware",
+    "Maryland",
+    "Pennsylvania",
+    "New Jersey"
+  ],
+  "cancer_queries": [
+    "breast cancer",
+    "lung cancer",
+    "colorectal cancer",
+    "prostate cancer",
+    "triple negative breast cancer",
+    "melanoma",
+    "pancreatic cancer",
+    "ovarian cancer",
+    "leukemia",
+    "lymphoma",
+    "bladder cancer",
+    "kidney cancer",
+    "liver cancer",
+    "thyroid cancer",
+    "brain cancer",
+    "head and neck cancer",
+    "immunotherapy cancer",
+    "cancer"
+  ],
+  "trials_by_status": {
+    "ACTIVE_NOT_RECRUITING": 1592,
+    "COMPLETED": 7484,
+    "RECRUITING": 1836,
+    "ENROLLING_BY_INVITATION": 68
+  },
+  "trials_by_phase": {
+    "PHASE3": 2032,
+    "NA": 1009,
+    "PHASE1": 2957,
+    "PHASE2": 4660,
+    "PHASE4": 114,
+    "EARLY_PHASE1": 108
+  },
+  "trials_in_delaware": 1107
+}

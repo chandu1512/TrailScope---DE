@@ -1,0 +1,84 @@
+{
+  "nct_id": "NCT05665530",
+  "brief_title": "A Study of PRT2527 as Monotherapy and in Combination With Zanubrutinib or Venetoclax in Participants With R/R Hematologic Malignancies",
+  "official_title": "A Phase 1 Open-Label, Multi-Center, Safety and Efficacy Study of PRT2527 as Monotherapy and in Combination With Zanubrutinib or Venetoclax in Participants With Relapsed/Refractory Hematologic Malignancies",
+  "brief_summary": "This is a Phase 1 dose-escalation study of PRT2527, a potent and highly selective cyclin-dependent kinase (CDK) 9 inhibitor, in participants with select relapsed or refractory (R/R) hematologic malignancies. The purpose of this study is to evaluate the safety, tolerability, recommended phase 2 dose (PR2D), and preliminary efficacy of PRT2527 as a monotherapy and in combination with zanubrutinib or venetoclax.",
+  "detailed_description": "This is an open-label, multi-center, dose-escalation, Phase 1 study of PRT2527, a CDK9 inhibitor, as monotherapy for participants with relapsed and refractory lymphoid and myeloid malignancies, in combination with zanubrutinib, a Bruton tyrosine kinase inhibitor (BTKi) for participants with lymphoid malignancies, or in combination with venetoclax, a B-cell lymphoma 2 inhibitor (BCL-2i) in participants with myeloid malignancies. The study will be conducted in two parts, the dose escalation phase and the dose confirmation phase for both monotherapy and combination therapy. The dose escalation phase will evaluate escalating doses of PRT2527 as a monotherapy and in combination with zanubrutinib or venetoclax until MTD is identified or when the RP2D is determined. The dose confirmation phase will evaluate indication-specific cohorts at the RP2D to confirm the dose.\n\nApproximately 274 participants will be enrolled in the dose escalation and indication-specific, dose confirmation cohorts.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 86,
+  "conditions": [
+    "Aggressive B-Cell Non-Hodgkin's Lymphoma (NHL)",
+    "Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL)",
+    "Mantle Cell Lymphoma (MCL)",
+    "Richter's Syndrome",
+    "T-cell Lymphoma",
+    "Diffuse Large B-cell Lymphoma (DLBCL)",
+    "Marginal Zone Lymphoma",
+    "Myeloid Malignancies",
+    "Acute Myeloid Leukemia (AML)",
+    "Chronic Myelomonocytic Leukemia (CMML)",
+    "Myelodysplastic Syndrome (MDS)",
+    "MDS/Myeloproliferative Neoplasm (MPN) Overlap Syndrome"
+  ],
+  "interventions": [
+    {
+      "name": "PRT2527",
+      "type": "DRUG",
+      "description": "PRT2527 will be administered by intravenous infusion once weekly."
+    },
+    {
+      "name": "Zanubrutinib",
+      "type": "DRUG",
+      "description": "Zanubrutinib will be provided in capsules for oral administration once or twice daily."
+    },
+    {
+      "name": "Venetoclax",
+      "type": "DRUG",
+      "description": "Venetoclax will be provided in tablet for oral administration once daily"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Willing and able to comply with all scheduled visits, treatment plan, laboratory tests, lifestyle considerations, and other study procedures\n* Histologically or cytologically confirmed diagnosis of aggressive B-cell lymphoma subtypes, MCL, MZL, or CLL/SLL (including Richter's syndrome) based on local testing, or TCL (monotherapy only), AML, CMML, MDS, or MDS/MPN overlap syndrome that have relapsed or become refractory to or be ineligible for standard-of-care therapy\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of \\< 2.\n* Adequate organ function (hematology, renal, and hepatic)\n* Echocardiogram (or multigated acquisition \\[MUGA\\] scan) indicating a left ventricular ejection fraction of \u2265 50%\n\nExclusion Criteria:\n\n* Have active central nervous system involvement by malignancy, uncontrolled intercurrent illnesses, and active infections requiring systemic therapy\n* Have undergone HSCT within the last 90 days or have graft versus host disease (GvHD) Grade \\> 1 at study entry\n* Have severe pulmonary disease with hypoxemia\n* History of another malignancy except for adequately treated non-melanoma skin cancer or lentigo maligna, superficial bladder cancer, and carcinoma in situ of the cervix without evidence of disease, and asymptomatic prostate cancer without known metastatic disease and no requirement for therapy\n* Concurrent treatment or within 15 days of starting study treatment with strong CYP3A4 inhibitors\n* Prior exposure to a CDK9 inhibitor\n* Wait at least 5 half-lives of the agent or 14 days after their investigational or approved therapies before start of study treatment, whichever is shorter\n* Mean corrected QT interval of \\> 470 msec following triplicate ECG measurement or history of long QT syndrome\n* T-Cell leukemias",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "American Oncology Partners of Maryland, PA",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose limiting toxicity (DLT) of PRT2527",
+      "timeFrame": "Baseline through Day 21, 28, or 35 days.",
+      "description": "Dose limiting toxicities will be evaluated during Cycle 1 depending on the treatment arm and intrapatient ramp-up."
+    },
+    {
+      "measure": "Safety and tolerability of PRT2527 monotherapy and in combination with zanubrutinib or venetoclax: AEs, CTCAE Assessments",
+      "timeFrame": "Baseline through approximately 2 years",
+      "description": "Safety and tolerability will be evaluated by incidence of DLTs, dose interruption, modification, and discontinuation due to adverse events (AEs) according to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE)"
+    },
+    {
+      "measure": "Maximum tolerated dose (MTD)/Recommended phase 2 dose (RP2D) of PRT2527 monotherapy and in combination with zanubrutinib or venetoclax",
+      "timeFrame": "Baseline through approximately 2 years",
+      "description": "The MTD/RP2D will be established for further investigation in participants with relapsed or refractory hematologic malignancies"
+    }
+  ],
+  "sponsor": "Prelude Therapeutics",
+  "collaborators": [
+    "BeiGene"
+  ],
+  "start_date": "2023-09-12",
+  "completion_date": "2026-01-21",
+  "last_updated": "2026-01-23"
+}

@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT06206239",
+  "brief_title": "Evaluation of Barriers to Cancer Care Delivery and Outcomes for Women of Color With Metastatic Breast Cancer",
+  "official_title": "The Impact of Social Determinants of Health on Cancer Care Delivery & Outcomes for Metastatic Breast Cancer Patients",
+  "brief_summary": "This study evaluates disparities and barriers in cancer care delivery and outcomes in women of color by identifying socioeconomic variables that may be related to the inequity. Social determinants of health, or the conditions in which people live, work, and play, have a profound effect on health outcomes. This research is being done to understand whether social determinants of health factors like employment, household income, and home ownership affect access to care services and outcomes for patients with metastatic breast cancer who receive their cancer treatment at Sidney Kimmel Cancer Center at Jefferson Health.",
+  "detailed_description": "This is a single arm study that seeks to identify disparities in delivery of care and treatment outcomes for metastatic breast cancer patients of color and to identify socioeconomic variables that may be related to the inequity. The study will enroll female patients, ages \\>18 years initially diagnosed with metastatic disease within 60 months of study enrollment and continue to receive treatment for their metastatic disease at SKCC-Jefferson.\n\nPatients will have an in person or telehealth encounter with an oncology social worker at baseline, and when feasible, one additional encounter at 3-6 months from baseline. At each encounter a comprehensive screening tool will be completed by the oncology social work that includes 3 instruments: SDOH wheel, CMS' Innovation's Accountable Health Communities Health-Related Social Needs Screening Tool (16) and Oncology Support tab. All three instruments will be administered by a social worker at the patient's first encounter following consent to participate in the study and when feasible re-administered at the next visit. An acuity risk score will be calculated within the EMR for each of the encounters based on data input into the SDOH section.\n\nThe social worker will also record information about financial toxicity, social needs, barriers to medical care and recommended intervention. We will supplement the data extracted from our EMR with data extracted or calculated from county- or state-level data files, to add to our ability to predict SDOH variables that are most associated with cancer care delivery or health outcomes. This includes calculating an Area Deprivation Index for each patient, which is a reflection of the level of neighborhood deprivation where a patient lives (15). We will also calculate the distance to travel to the cancer center for each patient based on their current address. County-level breast cancer incidence and mortality will be added for each patient based on their current county of residence, as these rates are proxies for access to cancer care among residents of a particular county. Lastly, we will add county-level rates of employment, home ownership, and educational attainment as measurements of SDOH that may influence outcomes among metastatic breast cancer patients.\n\nWe will complete a retrospective chart review to identify patients who had delays in starting their recommended first line systemic treatment of greater than 21 days from their initial metastatic breast cancer diagnosis and collect information on the reason for the treatment delay when available. We will also measure the number of treatment interruptions of greater than 7 days during the course of a patient's first 3 lines of systemic treatment and categorize these interruptions as due to side effects vs. reasons other than side effects. We will also measure any interruption in their palliative radiation therapy and categorize these interruptions as due to side effect vs other reasons. We plan to evaluate the number of referrals that are placed by the social worker or the provider at time of the comprehensive screening assessment and tracking if the patient had an appointment with Palliative Care, genetic counseling, and Psychiatry Oncology within 3 months of the referral placed by a cancer care providers or oncology social worker. We will also evaluate the effect of the mentioned SES and SDOH measures on clinical trial participation of metastatic breast cancer.\n\nThe study will last approximately 12 months.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 44,
+  "conditions": [
+    "Anatomic Stage IV Breast Cancer AJCC v8",
+    "Metastatic Breast Carcinoma"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Female\n* Aged 18 and older\n* English-speaking\n* Diagnosed with metastatic breast cancer within 24 months of study enrollment\n* Receiving treatment at the SKCC in Center City, New Jersey, or Methodist Hospital\n* Provide signed and dated informed consent form\n* Willing to comply with all study procedures and be available for the duration of the study\n\nExclusion Criteria:\n\n* Male breast cancer patients\n* Women with breast cancer that is not metastatic\n* Women who discontinue treatment for their metastatic disease at SKCC",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Acuity Risk Score Aim 1",
+      "timeFrame": "6 months",
+      "description": "For modeling the acuity risk scores, the 3-level scores will be collapsed into a binary outcome measure (low vs. medium/high) at each assessment. These longitudinal observations collected over time will be modeled by generalized logistic regression using Generalized Estimating Equations (GEE) for robust error variance accounting for the correlations in observations from the same patient. The model will include predictor terms for race, time, and race-by-time interactions. This approach will be capable of characterizing baseline racial disparities in acuity risk, as well as distinguishing which racial groups might benefit the most from the intervention of the social worker in changing acuity risk score. The coefficients for race at baseline and linear combinations of coefficients for race and time to characterize changes in acuity risk will be exponentiated for representation as odds ratios and presented with 95% confidence intervals."
+    },
+    {
+      "measure": "Treatment delays and interruption Aim 2",
+      "timeFrame": "At end of study (3-6 months after baseline visit)",
+      "description": "Will be represented as binary endpoints for modeling."
+    },
+    {
+      "measure": "Patient adherence to recommended cancer treatment Aim 2",
+      "timeFrame": "At end of study (3-6 months after baseline visit)",
+      "description": "Will be represented as binary endpoints for modeling."
+    },
+    {
+      "measure": "Patient encounter with nurse navigator, palliative care, and/or genetic counselor Aim 2",
+      "timeFrame": "At end of study (3-6 months after baseline visit)",
+      "description": "Will be represented as binary endpoints for modeling."
+    },
+    {
+      "measure": "Clinical trial participation within first 24 months of metastatic breast cancer diagnosis Aim 2",
+      "timeFrame": "24 months",
+      "description": "Will be represented as binary endpoints for modeling"
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [
+    "Pfizer"
+  ],
+  "start_date": "2022-03-09",
+  "completion_date": "2024-03-31",
+  "last_updated": "2025-05-15"
+}

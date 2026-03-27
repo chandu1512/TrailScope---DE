@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT04439110",
+  "brief_title": "Testing Ado-Trastuzumab Emtansine as a Potential Targeted Treatment in Cancers With HER2 Genetic Changes (MATCH-Subprotocol Q)",
+  "official_title": "MATCH Treatment Subprotocol Q: Ado-trastuzumab Emtansine in Patients With Tumors With HER2 Amplification (Except Breast and Gastric/Gastro-Esophageal Junction (GEJ) Adenocarcinomas)",
+  "brief_summary": "This phase II MATCH treatment trial identifies the effects of ado-trastuzumab emtansine in patients whose cancer has a genetic change called HER2 amplification. Ado-trastuzumab emtansine is a monoclonal antibody, called trastuzumab, linked to a chemotherapy drug called DM1. Trastuzumab is a form of \"targeted therapy\", because it works by attaching itself to specific molecules (receptors) on the surface of cancer cells, known as HER2 receptors and delivers DM1 to kill them. Researchers hope to learn if the study drug will shrink this type of cancer or stop its growth.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate the proportion of patients with objective response (OR) to targeted study agent(s) in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the proportion of patients alive and progression free at 6 months of treatment with targeted study agent in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nII. To evaluate time until death or disease progression. III. To identify potential predictive biomarkers beyond the genomic alteration by which treatment is assigned or resistance mechanisms using additional genomic, ribonucleic acid (RNA), protein and imaging-based assessment platforms.\n\nIV. To assess whether radiomic phenotypes obtained from pre-treatment imaging and changes from pre- through post-therapy imaging can predict objective response and progression free survival and to evaluate the association between pre-treatment radiomic phenotypes and targeted gene mutation patterns of tumor biopsy specimens.\n\nOUTLINE:\n\nPatients receive trastuzumab emtansine intravenously (IV) over 30-90 minutes on day 1. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up every 3 months if less than 2 years from study entry, and then every 6 months for year 3 from study entry.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 38,
+  "conditions": [
+    "Advanced Lymphoma",
+    "Advanced Malignant Solid Neoplasm",
+    "Hematopoietic and Lymphoid Cell Neoplasm",
+    "Refractory Lymphoma",
+    "Refractory Malignant Solid Neoplasm",
+    "Refractory Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Trastuzumab Emtansine",
+      "type": "BIOLOGICAL",
+      "description": "Given IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have met applicable eligibility criteria in the Master MATCH Protocol prior to registration to treatment subprotocol\n* Patients' tumor sample must have HER2 amplification \\> 7 based on targeted custom Ampliseq panel on the Ion Torrent Personal Genome Machine (PGM)\n* Hemoglobin \\>= 9.0 g/dL (which may be reached by transfusion)\n* Patients will be allowed if on anticoagulation (except warfarin and other coumarin derivatives) or on aspirin 81 mg by mouth daily. Additional monitoring while on anticoagulation will be based on institutional guidelines and/or physician discretion. However, patients will not be allowed if on long acting anti-platelet agents such as clopidogrel\n* Patients must have an electrocardiogram (ECG) within 4 weeks prior to treatment assignment and must have no clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g. complete left bundle branch block, third degree heart block)\n* Patients must have echocardiography (ECHO) or nuclear study (multigated acquisition scan \\[MUGA\\] or First Pass) within 4 weeks prior to registration to treatment and must not have a left ventricular ejection fraction (LVEF) \\< 50% to be eligible\n* Women of childbearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation, and for 7 months after completion of study\n\nExclusion Criteria:\n\n* Patients with a diagnosis of breast cancer or gastric/gastroesophageal junction (GEJ) cancer will be excluded\n* Patients must not have known hypersensitivity to ado-trastuzumab emtansine or compounds of similar chemical or biologic composition\n* Patients with current peripheral neuropathy of grade 3 or greater (National Cancer Institute \\[NCI\\]-Common Toxicity Criteria \\[CTC\\], version 4.0) will be excluded\n\n  * Neuropathy assessment and grade assignment will be based on history (location, duration, balance and gait, effect on activity of daily living \\[ADLs\\]) and physical exam\n* Patient must not have had any of the prior therapies:\n\n  * Food and Drug Administration (FDA) approved:\n\n    * Trastuzumab\n    * Pertuzumab\n    * Ado-trastuzumab emtansine\n  * Investigational:\n\n    * Margetuximab\n    * PF-05280014 (Pfizer, Trastuzumab Biosimilar)\n    * CT-P6 (Celltrion, Trastuzumab Biosimilar)\n    * ABP-980 (Amgen, Trastuzumab Biosimilar)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "ECOG-ACRIN Cancer Research Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "timeFrame": "Tumor assessments occurred at baseline, then every 3 cycles for the first 33 cycles and every 4 cycles thereafter until disease progression, up to 3 years post registration",
+      "description": "ORR is defined as the percentage of patients whose tumors have a complete or partial response to treatment among eligible and treated patients. Objective response rate is defined consistent with Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. For each treatment arm, 90% two-sided binomial exact confidence interval will be calculated for ORR."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2015-08-12",
+  "completion_date": "2026-03-19",
+  "last_updated": "2025-11-07"
+}

@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT03365791",
+  "brief_title": "PDR001 Plus LAG525 for Patients With Advanced Solid and Hematologic Malignancies",
+  "official_title": "Modular Phase 2 Study to Link Combination Immune-therapy to Patients With Advanced Solid and Hematologic Malignancies. Module 9: PDR001 Plus LAG525 for Patients With Advanced Solid and Hematologic Malignancies.",
+  "brief_summary": "The purpose of this signal seeking study is to determine whether treatment with PDR001 and LAG525 demonstrates sufficient efficacy in advanced malignancies to warrant further study.",
+  "detailed_description": "This was a phase II, open-label study to determine the efficacy and safety of treatment with the combination of PDR001+LAG525 across multiple tumor types that are relapsed and/or refractory to available standard of care therapies. There were 7 tumor cohorts assessed: 1) Small cell lung cancer, 2) Gastric/esophageal adenocarcinoma, 3) Castration resistant prostate adenocarcinoma (CRPC), 4) Soft tissue sarcoma, 5) Ovarian adenocarcinoma, 6) Advanced well-differentiated neuroendocrine tumors and 7) Diffuse large B cell lymphoma (DLBCL).\n\nParticipants were treated with the combination of PDR001 300 mg with LAG525 400 mg once every 3 weeks (Q3W) via intravenous (i.v.) infusion. Participants received study treatment for a maximum of 2 years, or until disease progression (assessed by investigator per Response Evaluation Criteria In Solid Tumors version 1.1 (RECIST 1.1) or the Revised Response Criteria for Malignant Lymphoma criteria (Cheson et al 2007)), unacceptable toxicity, death or discontinuation from study treatment for any other reason.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 76,
+  "conditions": [
+    "Small Cell Lung Cancer",
+    "Gastric Adenocarcinoma",
+    "Esophageal Adenocarcinoma",
+    "Castration Resistant Prostate Adenocarcinoma",
+    "Soft Tissue Sarcoma",
+    "Ovarian Adenocarcinoma",
+    "Advanced Well-differentiated Neuroendocrine Tumors",
+    "Diffuse Large B Cell Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "PDR001",
+      "type": "BIOLOGICAL",
+      "description": "PDR001 is a high-affinity, ligand-blocking, humanized anti-programmed death-1 (PD-1) IgG4 antibody that blocks the binding of Programmed death-ligand 1 (PD-L1) and programmed death-ligand 2 (PD-L2) to PD-1."
+    },
+    {
+      "name": "LAG525",
+      "type": "BIOLOGICAL",
+      "description": "LAG525 is a high-affinity, ligand-blocking, humanized anti-LAG-3 IgG4 antibody which blocks the binding of the known LAG-3 ligand MHC class II to LAG-3."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nPatients eligible for inclusion in this study had to meet all of the following criteria:\n\n* Patient must have had at least one prior line of therapy for their disease and must not be beyond 4th progression/relapse of disease (5 maximum prior lines).\n* Patient has a pathology confirmed diagnosis of a solid tumor or lymphoma listed in the section \"condition\". Patients must have measurable disease as per appropriate guidelines (Solid Tumors by RECIST 1.1 and Diffuse Large B-cell Lymphoma by Revised Response Criteria for Malignant Lymphoma - Cheson et al 2007).\n\nExclusion Criteria:\n\nPatients eligible for this study must not meet any of the following criteria:\n\n* History of severe hypersensitivity reactions to other monoclonal antibodies.\n* Impaired cardiac function or clinically significant cardiac disease.\n* Active, known or suspected autoimmune disease or a documented history of autoimmune disease within three years prior to screening with a few exceptions as per protocol.\n* Patients previously exposed to anti-PD-1/PD-L1 treatment who are adequately treated for skin rash or with replacement therapy for endocrinopathies should not be excluded.\n* Patient with second primary malignancy within \\< 3 years of first dose of study treatment.\n* Prior immunotherapy treatment with PD-1, PD-L1, CTLA-4, or LAG-3 antibodies.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Weinberg Cancer Institute at Franklin Square Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237-3998",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Clinical Benefit Rate (CBR) at 24 Weeks of PDR001+LAG525 by Tumor Type in Multiple Solid Tumors and Lymphoma",
+      "timeFrame": "24 weeks",
+      "description": "CBR is defined as the percentage of participants with a best overall response of Complete Response (CR), Partial Response (PR) and Stable Disease (SD). Tumor response was based on local investigator assessment. For participants with solid tumors the assessment criteria was Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v1.1) and for participants with lymphoma the assessment criteria was the Revised Response Criteria for Malignant Lymphoma (Cheson et al 2007).\n\nFor RECIST v1.1, CR=Disappearance of all non-nodal target lesions. In addition, any pathological lymph nodes assigned as target lesions must have a reduction in short axis to \\< 10 mm; PR= At least a 30% decrease in the sum of diameter of all target lesions, taking as reference the baseline sum of diameters; SD= Neither sufficient shrinkage to qualify for PR or CR nor an increase in lesions which would qualify for progression.\n\nCBR (CR+PR+SD) is reported overall and by tumor type."
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2018-01-24",
+  "completion_date": "2020-09-17",
+  "last_updated": "2022-05-04"
+}

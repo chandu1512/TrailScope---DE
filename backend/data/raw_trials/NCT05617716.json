@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT05617716",
+  "brief_title": "Spine Radiosurgery for Symptomatic Metastatic Neoplasms",
+  "official_title": "Spine Patient Optimal Radiosurgery Treatment for Symptomatic Metastatic Neoplasms (SPORTSMEN) Multicenter Randomized Phase II Clinical Trial",
+  "brief_summary": "The purpose of this study is to compare three types of radiation therapy for cancer that has spread to the spine. The two types of radiation therapy used in this trial are External Beam Radiation Therapy (EBRT) and Stereotactic Body Radiation Therapy (SBRT). EBRT delivers tightly targeted radiation beams from outside the body. SBRT is a specialized type of radiation therapy that allows high doses of radiation to small targets. This study will include standard dose SBRT and higher dose SBRT. Each participant will be randomly assigned to either EBRT, standard dose SBRT, or higher dose SBRT.",
+  "detailed_description": "Metastatic spine cancer incidence is increasing; the primary treatment is radiation therapy. Metastatic spine disease has been historically treated with external beam radiation therapy (EBRT) with conventional fractionation, yielding relatively limited durability in pain control. The increased lifespan of patients with metastatic cancer has resulted in an increase in the incidence of spine metastases, which has led to a need for more durable treatment results. Stereotactic radiosurgery (SRS)/Stereotactic body radiation therapy (SBRT) of the spine has exponentially increased, with the theoretical advantages of higher tumoricidal dose and more rapid fall off between tumor and surrounding normal tissue compared with EBRT. The goal of this study is to compare three types of radiation therapy to draw conclusions on what is an effective treatment to reduce pain and increase pain freedom rates.\n\nPatients in this trial will be randomized in a 1:1:1 ratio into one of three treatment arms: SBRT (24 Gy in 2 fractions), SBRT (19 Gy in 1 fraction), or conventional EBRT (8 Gy in 1 fraction). Participants will complete three questionnaires-the Brief Pain Inventory, COST-FACIT, and EuroQol EQ-5D-at baseline and again during the 3- to 12-month follow-up period.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 240,
+  "conditions": [
+    "Metastatic Neoplasm to the Spine",
+    "Metastatic Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "Conventional external beam radiation therapy dose (EBRT)",
+      "type": "RADIATION",
+      "description": "Participants will undergo 8 Gray in 1 fraction of EBRT. Questionnaires (brief pain inventory, COST-FACIT, EuroQol EQ-5D) will be administered at baseline, and again at 3,6,9,12 month follow-up."
+    },
+    {
+      "name": "Spine radiosurgery/stereotactic body radiation therapy standard dose",
+      "type": "RADIATION",
+      "description": "Participants will undergo 24 Gray in 2 fractions of SBRT. Questionnaires (brief pain inventory, COST-FACIT, EuroQol EQ-5D) will be administered at baseline, and again at 3,6,9,12 month follow-up."
+    },
+    {
+      "name": "Spine radiosurgery/stereotactic body radiation therapy high dose",
+      "type": "RADIATION",
+      "description": "Participants will undergo 19 Gray in 1 fraction of SBRT. Questionnaires (brief pain inventory, COST-FACIT, EuroQol EQ-5D) will be administered at baseline, and again at 3,6,9,12 month follow-up."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participant must have histologic confirmation of malignancy. Spinal metastatic disease must be confirmed by imaging.\n* Participant must have received no prior therapies for this disease. Prior therapy includes previous radiation therapy encompassing the anatomic site to be treated with spine SBRT. This includes any previous radiation therapy where the treatment field overlaps with the anatomic site to be treated with spine SBRT (even if that previous radiation therapy was not for treatment of spinal disease). Systemic radiation therapy for metastatic disease such as Pluvicto also counts as previous radiation therapy.\n* Age \\>18 years. This study requires informed consent by the participant; as children are not able to perform this without parental approval, Participant \\< age 18 are excluded from this study.\n* Life expectancy of\u2265 3 months, in the opinion of and as documented by the investigator.\n* Participant must have a worst pain score \\< 2 of 10 according to the Brief Pain Inventory\n* Participant must have no intention of changing pain medications on the first day of SBRT\n* Participant must have a Spinal Instability score (SINS) \u2264 12\n* Participant must be a spine SBRT candidate per Radiation Oncology\n* Participant must have the ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Participant receiving any other investigational agents.\n* Participant with prognosis less than 3 months will be excluded from this clinical trial because of their poor prognosis and decreased likelihood to meet the primary endpoint\n* Participant with uncontrolled intercurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Pregnant or nursing Participant are excluded due to toxicity of radiation therapy.\n* Participant is unable to receive MRI of the spine\n* Participant has a Spinal Instability in Neoplasia score (SINS) \u2265 12\n* Participant has received previous stereotactic radiosurgery where the 50% isodose line overlaps with current treatment field\n* Participant has more than 3 consecutive vertebral bodies in the SBRT treatment volume\n* Participant is not an SBRT candidate per radiation oncology discretion\n* Participant has a known primary and has an estimated median survival\u2264 3 months\n* Participant has an unknown primary\n* Participant has a Brief Pain Inventory score \\> 2\n* Participant has received previous radiation therapy involving the intended SBRT treatment field\n* Participant has received previous spinal surgical procedure involving the SBRT target volume. Biopsy is not considered a previous spinal surgical procedure.\n* Participant has neurological deficits from malignant cauda equina compression or epidural spinal cord compression",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University Hospitals",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "ACTIVE_NOT_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of patients who experience 3-month pain freedom based on BPI score",
+      "timeFrame": "3 months",
+      "description": "Freedom from pain at 3 months defined as pain freedom following spine SBRT/EBRT per the Brief Pain Inventory (BPI), which is a scale of 1-10. The complete response for pain freedom is defined as a \"worst\" pain score of 0 on the BPI. Partial pain freedom is defined as a \"worst\" pain score of 2 points on the BPI."
+    }
+  ],
+  "sponsor": "University of Oklahoma",
+  "collaborators": [],
+  "start_date": "2025-09-09",
+  "completion_date": "2029-09-30",
+  "last_updated": "2025-10-15"
+}

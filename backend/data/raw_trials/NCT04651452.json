@@ -1,0 +1,103 @@
+{
+  "nct_id": "NCT04651452",
+  "brief_title": "Writing Interventions in Breast Cancer Patients Taking Aromatase Inhibitors",
+  "official_title": "A Value Affirmation Intervention for Physical Symptoms and Medication Adherence in Breast Cancer Patients Taking Aromatase Inhibitors",
+  "brief_summary": "Aromatase inhibitors are a powerful medication for reducing the risk of recurrence and increasing survival in postmenopausal breast cancer patients. However, these medications can lead to intolerable side effects, poor medication adherence, and increased stress levels. This project's broad objective is to assess whether an intervention can improve medication adherence and reduce physical symptoms and stress in breast cancer patients prescribed aromatase inhibitors. Participants will be randomly assigned to a values affirmation or reflective journaling condition. Interventions will be writing-based, one essay per month for six months. Physical symptoms and perceived stress will be assessed at baseline, post-intervention (one month after the intervention), and follow-up (six months from the post-intervention assessment and seven months after the end of the intervention). Furthermore, an electronic pill bottle will continuously assess daily compliance so that medication adherence rates during the intervention, post-intervention, and follow-up can be calculated.",
+  "detailed_description": "A sample of 250 participants will be recruited and randomly assigned to either the value affirmation (N=125) or reflective journaling (N=125) condition. Participants will complete baseline measures of physical symptoms, perceived stress, and other covariates. They will also be given an electronic pill bottle that will record whether they have daily opened and closed the bottle, signifying adherence to their prescribed medication regime. This pill bottle will sync to an online dashboard. Participants in both conditions will complete a brief essay online (or via paper and pencil for those who prefer or do not have internet access) every month for six months. Value affirmation condition essays will include prompts about important, core personal values. Reflective journaling essays will have prompts that do not include any core personal value content but ask participants, in part, to write about typical daily routines. Following the conclusion of the intervention, participants will report on their levels of perceived stress and physical symptoms. Six months following the post-intervention assessment, participants will again report their perceived stress levels and physical symptoms. A sample size of 250 has been selected for feasibility and because this sample size provides at least 80% power to detect differences for all three outcomes of interest.\n\nA sub-study will be conducted on 80 of these participants who will complete their 3rd essay prompt in an fMRI scanner. In the scan session, participants will also complete a stress reactivity task. The sub-study will allow examination of the neural mechanism of value affirmation and reflective journaling to determine whether these neural mechanisms lead to enhanced medication adherence rates and reductions in stress and physical symptoms.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 250,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Value Affirmation",
+      "type": "BEHAVIORAL",
+      "description": "Participants will complete writing tasks regarding their personal values."
+    },
+    {
+      "name": "Reflective Journaling",
+      "type": "BEHAVIORAL",
+      "description": "Participants will complete writing tasks regarding their least important values and discuss why they may be important to others. They will also describe aspects of daily life."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Breast cancer diagnosis\n* Prescribed an aromatase inhibitor within four weeks of enrollment or anticipates being prescribed one in the future\n* Intention to take the prescribed aromatase inhibitor\n* Fluency in English\n* Own a smartphone that can support downloaded apps\n\nExclusion Criteria for fMRI component only:\n\n* Have implanted metal\n* Have an implanted electronic medical device\n* Have an IUD that contains metal\n* Are currently pregnant\n* Have a history of claustrophobia\n* Weigh more than 300 pounds",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Carnegie Mellon University",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in Physical Symptoms",
+      "timeFrame": "Change from baseline to 1-month post-intervention and 7 months post-intervention",
+      "description": "The Breast Cancer Prevention Trial Symptom Checklist is a 43 item self-report of physical symptoms specific to breast cancer treatment. Participants rate how bothered they were by each symptom in the last 4 weeks on a five-point Likert scale ranging from 0 (Not at all) to 4 (Extremely). Item 43 is an open response question that asks participants to indicate and rate any additional symptoms they may be experiencing. Component symptom scale scores (e.g. musculoskeletal pain, cognitive problems, weight problems) will be determined by calculating the average score of the items that make up each scale. The symptom scale scores will range from 0 to 4. A total score for all the items will be calculated by adding the scores across all symptoms. Thus, the total scores will range from 0 to 172, with higher scores reflecting greater symptom severity."
+    },
+    {
+      "measure": "Change in Perceived Stress",
+      "timeFrame": "Change from baseline to 1-month post-intervention and 7 months post-intervention",
+      "description": "The 10-item Perceived Stress Scale is a self-reported assessment of perceptions of stress over the past month. Total scores range from 0 to 40, with higher scores indicating higher levels of perceived stress."
+    },
+    {
+      "measure": "Change in Medication Adherence",
+      "timeFrame": "Change in adherence assessed daily, throughout 1-year participation in the study",
+      "description": "Participants will receive an electronic pill bottle that syncs over the internet in real-time to indicate when a participant opens and closes the bottle. This gives a daily record of whether the participant took their medication."
+    },
+    {
+      "measure": "Change in Self-Reported Medication Adherence",
+      "timeFrame": "Change from baseline to 1-month post-intervention and 7 months post-intervention",
+      "description": "The NIH PROMIS Medication Adherence Scale (PMAS) is a 12-item scale that will be used to assess self-reported adherence behaviors and understand why a participant may be non-compliant or discontinue their medication with items that, in part, focus on one's attitude and experience with the medication of interest. Certain items are modified to reference aromatase inhibitors."
+    },
+    {
+      "measure": "Health-Related Quality of Life in Breast Cancer Patients as assessed by the Functional Assessment of Cancer Therapy - Breast Cancer",
+      "timeFrame": "Change from baseline to 1-month post-intervention and 7 months post-intervention",
+      "description": "The Functional Assessment of Cancer Therapy - Breast Cancer is an instrument used to assess health-related quality of life in breast cancer patients through five domains comprised of 37 items. Participants respond to each item on a five-point Likert scale. The domains include physical well-being (score ranging from 0 to 28), social/family well-being (score ranging from 0 to 28), emotional well-being (score ranging from 0 to 24), functional well-being (score ranging from 0 to 28), and the breast cancer subscale (score ranging from 0 to 40). A total score for the instrument, ranging from 0 to 148, is calculated by summing the five domain subscale scores. Higher scores are reflective of a better quality of life."
+    },
+    {
+      "measure": "Neural Activity to the Affirmation Task",
+      "timeFrame": "One session, midway through intervention",
+      "description": "Participants will complete an fMRI scan while engaging with a values affirmation or a reflective journaling task. We will specifically assess neural reward response during the task assigned compared to a control comparison condition."
+    },
+    {
+      "measure": "Neural Activity to Stressful Task",
+      "timeFrame": "One session, midway through intervention",
+      "description": "Participants will complete an fMRI scan while engaging with a stressful and socially evaluative math task designed to give participants feedback that suggests they are not performing well compared to their peers. We will specifically assess neural threat response during this task and compare those who complete the value affirmation task before the math task to those who complete the reflective journaling task prior to the math task."
+    },
+    {
+      "measure": "Functional Neural Activity to Positive Stimuli",
+      "timeFrame": "One session, midway through intervention",
+      "description": "Functional neural activity to a task displaying positive vs. neutral images. Analyses will focus on a within-subject analysis for each group, as well as between-subject analyses focusing on differences in neural reward activation to positive images for self-affirmation vs. reflective journaling. ROI and connectivity analyses will focus on the reward network. Correlations with changes in included questionnaires and medication adherence will also be assessed."
+    },
+    {
+      "measure": "Functional Neural Activity to Negative Stimuli",
+      "timeFrame": "One session, midway through intervention",
+      "description": "Functional neural activity to a task displaying negative vs. neutral images. Analyses will focus on a within-subject analysis for each group, as well as between-subject analyses focusing on differences in neural activation to negative images for self-affirmation vs. reflective journaling. ROI and connectivity analyses will focus on the threat/salience network. Correlations with changes in included questionnaires and medication adherence will also be assessed."
+    },
+    {
+      "measure": "Change in Bodily Pain as assessed by the RAND 36-Item Health Survey 1.0",
+      "timeFrame": "Change from baseline to 1-month post-intervention and 7 months post-intervention",
+      "description": "We will utilize two questions from the RAND 36-Item Health Survey 1.0 that comprise the questionnaire's bodily pain component. The bodily pain component score is calculated by taking the average of the two pain items, which each have a range of 0 to 100. The component score also ranges from 0 to 100, where a lower score is indicative of a higher pain impact."
+    }
+  ],
+  "sponsor": "Carnegie Mellon University",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2021-02-01",
+  "completion_date": "2026-04-30",
+  "last_updated": "2025-09-30"
+}

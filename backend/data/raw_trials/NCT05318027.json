@@ -1,0 +1,53 @@
+{
+  "nct_id": "NCT05318027",
+  "brief_title": "ChatBot and Activity Monitoring in Patients Undergoing Chemoradiotherapy",
+  "official_title": "Use of Natural Language Processing ChatBot and Automated Continuous Activity Monitoring Via Mobile Phones for Early Detection and Management of Symptoms in Patients Undergoing Cancer Treatment",
+  "brief_summary": "Evaluate the feasibility of using a chatbot combined with continuous activity monitoring to proactively identify, appropriately triage and help manage patients' symptoms during cancer treatment Determine whether such an early outpatient clinic-based intervention can decrease rates of excess triage visits\n\nCorrelate changes in activity and early symptom management to emergency department visits, unplanned inpatient hospitalizations and treatment breaks",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 70,
+  "conditions": [
+    "Lung Cancer",
+    "Gastrointestinal Cancer",
+    "Head and Neck Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "ChatBot",
+      "type": "DEVICE",
+      "description": "The automated chatbot will check in with the patient on two pre-specified days between scheduled outpatient visits. The chatbot will follow pre-specified symptom algorithms and classify symptoms as requiring high, intermediate and low risk follow ups. High risk symptoms will trigger a same day nursing/physician visit or telemedicine call/video. Intermediate risk symptoms will trigger a nursing triage visit or telemedicine call/video on the next day or treatment day. Low risk symptoms will notify the treating physician to address the symptoms at the next scheduled on treatment visit (OTV). If adjustments are needed in the chat bot triage algorithms, they will be updated in real time to decrease risk for adverse patient events."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adults (age \\>18 years) with a diagnosis of a head and neck, lung, gastrointestinal cancer, that are receiving concurrent chemotherapy and radiation treatment.\n* Possession of a mobile device that can receive SMS texts and can deliver FitBit data wirelessly\n* Ability read and respond in English\n* Ability to provide informed consent to participate in the study\n\nExclusion Criteria:\n\n* Patients who are bed bound at baseline (ECOG 4)\n* Patients who rely on a wheelchair for ambulation",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of triage visits",
+      "timeFrame": "13 weeks",
+      "description": "Difference between Poisson event rates of triage visits between intervention and control arms"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2023-05-22",
+  "completion_date": "2025-12",
+  "last_updated": "2025-07-30"
+}

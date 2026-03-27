@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT02610140",
+  "brief_title": "Phase II Anetumab Ravtansine as 2nd Line Treatment for Malignant Pleural Mesothelioma (MPM)",
+  "official_title": "A Randomized, Open-label, Active-controlled, Phase II Study of Intravenous Anetumab Ravtansine (BAY 94-9343) or Vinorelbine in Patients With Advanced or Metastatic Malignant Pleural Mesothelioma Overexpressing Mesothelin and Progressed on First Line Platinum/Pemetrexed-based Chemotherapy",
+  "brief_summary": "The main purpose of the 15743 study is to assess efficacy and safety of anetumab ravtansine versus vinorelbine in progression free survival in patients with stage IV mesothelin overexpressing malignant pleural mesothelioma (MPM).\n\n210 eligible patients will be randomized to receive either anetumab ravtansine every three weeks or weekly vinorelbine.\n\nTreatment will continue until centrally confirmed disease progression or until another criterion is met for withdrawal from the study. Patients will enter follow up phase to capture safety and endpoint data as required.\n\nEfficacy will be measured by evaluating progression free survival from randomization. Radiological tumor assessments will be performed at defined time points until the patient's disease progresses.\n\nBlood samples will be collected for safety, pharmacokinetic and biomarker analysis. Archival or fresh biopsy tissue may also be collected for central pathology review and biomarkers.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 248,
+  "conditions": [
+    "Mesothelioma"
+  ],
+  "interventions": [
+    {
+      "name": "Anetumab ravtansine (BAY94-9343)",
+      "type": "DRUG",
+      "description": "Starting dose: 6.5 mg/kg administered as IV infusion over 1 h every 3 weeks until disease progression or treatment withdrawal for any reason. Dose reductions are permitted."
+    },
+    {
+      "name": "Vinorelbine",
+      "type": "DRUG",
+      "description": "Starting dose: 30mg/m\\^2 administered as an IV infusion over 6 to 10 min every week until disease progression or treatment withdrawal for any reason. Dose reductions are permitted per standard practise."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histological documentation of malignant pleural mesothelioma (MPM) overexpressing mesothelin\n* Unresectable locally advanced or metastatic MPM after locally confirmed progression on 1st line treatment with platinum in combination with pemetrexed.\n* Patients must have measurable disease\n* Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 or 1\n* Life expectancy of at least 3 months.\n* Adequate bone marrow, liver and renal function\n* Left ventricular ejection fraction (LVEF) \u2265 50% or the lower limit of normal (LLN) according to local institution ranges of normality.\n\nExclusion Criteria:\n\n* More than 1 previous systemic anti-cancer therapy line\n* Patients with corneal epitheliopathy or any eye disorder that may predispose the patients to this condition at the discretion of the investigator in consultation with the ophthalmologist.\n* Brain metastases, meningeal tumours or other metastases in the central nervous system\n* Evidence of history of bleeding diathesis.\n* Ongoing or active infection (bacterial, fungal, or viral) of National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 4.03 Grade \\> 2.\n* Pre-existing cardiac conditions",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20814",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS), [95% CI]",
+      "timeFrame": "From randomization till approximately 117 PFS events observed, up to approx. 30 months (data cut-off: 31-May-2017)",
+      "description": "Progression-free survival (PFS), defined as time from randomization until disease progression according to mRECIST (Modified Response Evaluation Criteria in Solid Tumors) for Malignant pleural mesothelioma (MPM) per blinded central radiology review, or death. Only descriptive analysis of OS was repeated in the follow-up period."
+    }
+  ],
+  "sponsor": "Bayer",
+  "collaborators": [
+    "ImmunoGen and MorphoSys"
+  ],
+  "start_date": "2015-12-03",
+  "completion_date": "2019-09-06",
+  "last_updated": "2020-10-28"
+}

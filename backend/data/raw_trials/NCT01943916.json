@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT01943916",
+  "brief_title": "The PIONEER-01 Study of the Imagio Breast Imaging System",
+  "official_title": "A Study of Imaging With Opto-acoustics to Diagnose Breast Masses Detected by Mammography and/or Diagnostic Ultrasound: A New Evaluation Tool for Radiologists",
+  "brief_summary": "This is a prospective controlled multi-center study involving gray scale (B-mode) ultrasound vs OA/US (opto-acoustic and gray scale ultrasound) for the visualization of suspicious masses. Imagio gray scale and OA image sets will be collected on each enrolled mass and pushed to an Imaging Core Lab for processing and then to a set of Independent Readers who will read the Imagio gray-scale images vs the Imagio OA/US images.",
+  "detailed_description": "Imagio is a multi-modality device, comprised of one probe with the ability to image with diagnostic gray scale (B mode) ultrasound alone and gray scale in conjunction with OA together in a six up image.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 2105,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Imagio OA/US (US and OA/US)",
+      "type": "DEVICE",
+      "description": "opto-acoustic plus gray scale ultrasound"
+    },
+    {
+      "name": "Imagio gray scale ultrasound",
+      "type": "DEVICE",
+      "description": "gray scale ultrasound alone"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* female\n* 18 years of age or older\n* suspicious mass of breast, identified by a health care practitioner within the past 30 days with diagnostic methodology other than conventional ultrasound.\n\nExclusion Criteria:\n\n* presence of a condition or impediment that may interfere with imaging.\n* pregnant or lactating\n* undergoing neoadjuvant therapy",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Weinstein Imaging Associates",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15220",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Specificity Difference Between Imagio Optoacoustic Plus Gray-scale (OA/US) vs Imagio Gray-scale Ultrasound (IUS)",
+      "timeFrame": "Baseline to 12 months +/- 30 days follow-up",
+      "description": "Primary effectiveness endpoint was the difference in specificity for the Imagio OA/US relative to IUS, across all 7 independent readers; both imaging modalities used in each subject (subject as own control); results for each imaging modality compared to biopsy diagnosis or 12-month follow-up ruling of benign as determined by truth panel (ground truth)"
+    }
+  ],
+  "sponsor": "Seno Medical Instruments Inc.",
+  "collaborators": [],
+  "start_date": "2012-12-21",
+  "completion_date": "2015-09-09",
+  "last_updated": "2023-02-03"
+}

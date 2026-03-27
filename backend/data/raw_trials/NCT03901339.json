@@ -1,0 +1,106 @@
+{
+  "nct_id": "NCT03901339",
+  "brief_title": "Study of Sacituzumab Govitecan-hziy Versus Treatment of Physician's Choice in Participants With HR+/HER2- Metastatic Breast Cancer",
+  "official_title": "Phase 3 Study of Sacituzumab Govitecan (IMMU-132) Versus Treatment of Physician's Choice (TPC) in Subjects With Hormonal Receptor-Positive (HR+) Human Epidermal Growth Factor Receptor 2 (HER2) Negative Metastatic Breast Cancer (MBC) Who Have Failed at Least Two Prior Chemotherapy Regimens",
+  "brief_summary": "The primary objective of this study is to assess and compare the efficacy and safety of sacituzumab govitecan-hzi versus treatment of physician's choice (TPC) in participants with hormonal receptor-positive (HR+) human epidermal growth factor receptor 2 (HER2-) negative metastatic breast cancer (MBC).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 543,
+  "conditions": [
+    "Metastatic Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Sacituzumab Govitecan-hziy",
+      "type": "DRUG",
+      "description": "Administered intravenously"
+    },
+    {
+      "name": "Eribulin",
+      "type": "DRUG",
+      "description": "Administered intravenously per NCCN guidelines"
+    },
+    {
+      "name": "Capecitabine",
+      "type": "DRUG",
+      "description": "Administered orally per NCCN guidelines"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Administered intravenously per NCCN guidelines"
+    },
+    {
+      "name": "Vinorelbine",
+      "type": "DRUG",
+      "description": "Administered intravenously per NCCN guidelines"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Documented evidence of hormone receptor-positive human epidermal growth factor receptor 2 negative (HER2-negative) (hormonal receptor-positive (HR+)/HER2-) metastatic breast cancer (MBC) confirmed.\n* Refractory to or relapsed after at least 2, and no more than 4, prior systemic chemotherapy regimens for metastatic disease:\n\n  * At least 1 taxane in any setting.\n  * At least 1 prior anticancer hormonal treatment in any setting.\n  * At least 1 cyclin-dependent kinase inhibitor 4/6 in any setting.\n* Eligible for one of the chemotherapy options listed in the TPC arm.\n* Documented disease progression after the most recent therapy.\n* Adequate bone marrow function (hemoglobin \u2265 9 g/dL, absolute neutrophil count (ANC) \u2265 1,500 per mm\\^3, platelets \u2265 100,000 per mm\\^3).\n* Adequate renal function: calculated creatinine clearance \u2265 30 mL/minute according to the Cockcroft and Gault formula .\n* Adequate liver function (bilirubin \u2264 1.5 institutional upper limit of normal (IULN), or \u2264 3 IULN for individuals with documented Gilbert's syndrome, aspartate aminotransferase (AST) and Alanine aminotransferase (ALT) \u2264 2.5 x IULN (in the case of liver metastases \u2264 5.0 x IULN)).\n* Females must not be lactating or pregnant at Screening or Baseline (as documented by a negative beta human chorionic gonadotropin (\u00df-hCG)).\n\nKey Exclusion Criteria:\n\n* Previous treatment with topoisomerase 1 Inhibitors as a free form or as other formulations.\n* History of significant cardiovascular disease or clinically significant electrocardiogram (ECG) abnormality.\n* Active serious infection requiring antibiotics.\n* Any medical or other condition which, in the opinion of the Investigator, causes the individual to be medically unfit to receive sacituzumab govitecan or unsuitable for any reason.\n* Locally advanced MBC (stage IIIc) in individuals who are candidates for curative intent therapy at the time of study enrollment.\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Mercy Medical Center, Medical Oncology & Hematology",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21202",
+      "status": ""
+    },
+    {
+      "facility": "Maryland Oncology Hematology, P.A.",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "20850",
+      "status": ""
+    },
+    {
+      "facility": "Summit Medical Group",
+      "city": "Florham Park",
+      "state": "New Jersey",
+      "zip": "07932",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "Magee-Womens Hospital of UPMC",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS) by Blinded Independent Central Review (BICR) Assessment",
+      "timeFrame": "Up to 42.8 months",
+      "description": "PFS was defined as the time from the date of randomization to the date of the first documentation of disease progression or death (whichever occurred first) according to BICR using Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1). Disease progression was defined as an increase of greater than 20% in the sum of the longest diameter (LD) of target lesions and a 5 mm absolute increase, taking as a reference the smallest sum LD recorded since the baseline assessment or the appearance of new non-target lesions. PFS was estimated using Kaplan-Meier estimate."
+    }
+  ],
+  "sponsor": "Gilead Sciences",
+  "collaborators": [],
+  "start_date": "2019-05-08",
+  "completion_date": "2023-10-20",
+  "last_updated": "2024-09-25"
+}

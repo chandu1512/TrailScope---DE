@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT04157985",
+  "brief_title": "Evaluating Length of Treatment With PD-1/PD-L1 Inhibitor in Advanced Solid Tumors",
+  "official_title": "Evaluating Length of Treatment With PD-1/PD-L1 Inhibitor in Advanced Solid Tumors",
+  "brief_summary": "Based on the overwhelming positive response to this survey and the large number of patients being treated with PD-1/PD-L1 therapy in the UPMC system, the investigators are proposing a trial that will randomize patients who have disease stability to stop treatment at 1 year or continue treatment until disease progression. The investigators anticipate that the results of this study will answer questions regarding the optimal duration of treatment. therapy.",
+  "detailed_description": "Within the UPMC system, approximately 2,300 patients received PD-1/PD-L1 therapy for a variety of advanced solid tumors within the past year. It is anticipated that this number will increase as the clinical indications for treatment with these agents also increase. The investigators conducted a survey of 60 Medical Oncologists within the UPMC system regarding their interest in a trial that will attempt to address the question of optimal length of PD-1/PD-L1 treatment. Fifty-two (86.7%) physicians indicated that they would participate in a clinical trial that had a primary goal of determining whether it was feasible to stop immunotherapy after 1 year of treatment.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 161,
+  "conditions": [
+    "Advanced Solid Tumors",
+    "NSCLC",
+    "Bladder Cancer",
+    "HNSCC",
+    "Renal Cancer",
+    "Melanoma",
+    "Anal Cancer",
+    "Colorectal Cancer",
+    "Cholangiocarcinoma",
+    "Gastric Cancer",
+    "Hepatocellular Carcinoma",
+    "Merkel Cell Carcinoma",
+    "Cervical Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Continue PD-1/PD-L1 Inhibitors treatment",
+      "type": "DRUG",
+      "description": "Continued treatment with PD-1/PD-L1-1 inhibitor"
+    },
+    {
+      "name": "Discontinue PD-1/PD-L1-1 inhibitor",
+      "type": "OTHER",
+      "description": "Discontinued treatment with PD-1/PD-L1-1 inhibitor"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* All patients must have an advanced solid tumor malignancy (specifically NSCLC, bladder, HNSCC, renal, melanoma, cervical, Merkel cell, MMR/MSI \\[colon, rectal, cholangio, esophageal, ovarian, uterine\\], anal, gastric and GE junction, hepatocellular, triple negative breast cancer) that is being treated with a PD-1/PD-L1 inhibitor including pembrolizumab, nivolumab, atezolizumab, durvalumab, or avelumab according to standard of care treatment.\n* Patients who initially started treatment with another agent in combination with the PD-1/PD-L1 inhibitor, i.e. chemotherapy, ipilumumab, are eligible.\n* Patients must have at least stable disease as evidenced by scans performed within 6 weeks of randomization.\n* Signed Informed consent allowing randomization to stopping immunotherapy at 1 year \u00b1 6 weeks versus continued treatment beyond 1 year.\n* Patients can have measurable or non-measurable disease per RECIST v1.1.\n* Patients cannot be enrolled in a clinical trial.\n\nExclusion Criteria:\n\n* Patients with documented progressive disease prior to randomization.\n* Patients with an immune-related toxicity preventing the continuation of treatment beyond 1 year at the treating physician's discretion.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Time to next treatment",
+      "timeFrame": "Up to 36 months",
+      "description": "In patients who have already been treated with a PD-1 or PD-L1 inhibitor for one year, the difference in progression-free survival (time to next treatment, progression or death, whichever occurs first) between patients who stop treatment and patients who continue treatment."
+    },
+    {
+      "measure": "Progression-free Survival (PFS) (at between 2-3.9 months)",
+      "timeFrame": "Between 2 months and 3.9 months",
+      "description": "The (median) length of time from the initial date of treatment to the date of documented progression, or the date of death due to any cause (in the absence of progression, whichever occurs first), with progression defined by RECIST v1.1.Per RECIST v1.1, progressive disease is defined as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least5mm. For non-target lesions, PD: Unequivocal progression of existing non-target lesions. The appearance of one or more new lesions is also considered progression."
+    },
+    {
+      "measure": "Progression-free Survival (PFS) (at between 4-7.9 months)",
+      "timeFrame": "Between 4 months and 7.9 months",
+      "description": "The (median) length of time from the initial date of treatment to the date of documented progression, or the date of death due to any cause (in the absence of progression, whichever occurs first), with progression defined by RECIST v1.1.Per RECIST v1.1, progressive disease is defined as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least5mm. For non-target lesions, PD: Unequivocal progression of existing non-target lesions. The appearance of one or more new lesions is also considered progression."
+    },
+    {
+      "measure": "Progression-free Survival (PFS)",
+      "timeFrame": "Up to 36 months",
+      "description": "The (median) length of time from the initial date of treatment to the date of documented progression, or the date of death due to any cause (in the absence of progression, whichever occurs first), with progression defined by RECIST v1.1.Per RECIST v1.1, progressive disease is defined as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least5mm. For non-target lesions, PD: Unequivocal progression of existing non-target lesions. The appearance of one or more new lesions is also considered progression."
+    }
+  ],
+  "sponsor": "Dan Zandberg",
+  "collaborators": [],
+  "start_date": "2019-11-15",
+  "completion_date": "2025-11-07",
+  "last_updated": "2025-12-04"
+}

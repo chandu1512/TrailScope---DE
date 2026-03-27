@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT07213791",
+  "brief_title": "A Study of LY4337713 in Participants With FAP-Positive Solid Tumors",
+  "official_title": "A Dose Escalation and Dose Optimization Phase 1a/1b Study to Evaluate Safety, Tolerability and Dosimetry of Radioligand Therapy With LY4337713 in Adults With FAP-Positive Solid Tumors (FiREBOLT)",
+  "brief_summary": "This is a study of LY4337713 in participants with certain types of cancer that is advanced or has spread. Participants must have cancer with high levels of a protein called fibroblast activation protein (FAP). The purpose of this study is to evaluate safety, side effects, and efficacy of LY4337713. In addition, this study will evaluate how much LY4337713 gets into the bloodstream, how it is broken down, and how long it takes the body to get rid of it. For each participant, the study will last about 5 years.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 241,
+  "conditions": [
+    "Ovarian Neoplasms",
+    "Breast Neoplasms",
+    "Pancreatic Intraductal Neoplasms",
+    "Colorectal Neoplasms",
+    "Esophageal Neoplasms",
+    "Stomach Neoplasms",
+    "Cholangiocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "LY4337713",
+      "type": "DRUG",
+      "description": "Administered IV."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Must have clinical or imaging evidence of fibroblast activation protein (FAP) expression per local assessment\n* Must have histologically or cytologically confirmed diagnosis of one of the following:\n\n  * Adenocarcinoma of the pancreas\n  * Hormone receptor (HR)-positive human epidermal growth factor 2 (HER2)-negative breast cancer\n  * HER2-positive breast cancer\n  * Triple negative breast cancer (TNBC)\n  * Platinum-resistant or refractory ovarian cancer (including ovarian carcinosarcoma)\n  * Other solid tumors\n\n    * Gastric cancer (adenocarcinoma)\n    * Colorectal cancer (CRC)\n    * Esophageal cancer (squamous cell carcinoma or adenocarcinoma)\n    * Cholangiocarcinoma\n* Must have received prior treatments as indicated below:\n\n  * Phase 1a\n\n    * Adenocarcinoma of the pancreas: Participants must have received at least 1, but no more than 2 prior regimens for locally advanced unresectable or metastatic disease.\n    * HR-positive HER2-negative breast cancer: Participants must have received less than or equal to (\u2264)5 prior lines of treatment for advanced or metastatic disease, which must include a cyclin-dependent kinase 4/6 inhibitor.\n    * HER2-positive breast cancer: Participants must have received at least 2 lines of HER2-targeted therapy, which should include at least 1 antibody-drug conjugate (ADC) for metastatic disease (if locally available).\n    * TNBC: Participants must have received at least 2 lines of therapy for metastatic disease.\n    * Platinum-resistant or refractory ovarian cancer: Participants must have received or after at least 1 platinum-based therapy.\n    * Other solid tumors (gastric cancer, CRC, esophageal and cholangiocarcinoma): Participants must have received greater than or equal to (\u2265)1 prior line of systemic therapy for advanced or metastatic disease; including prior line(s) in combination with immunotherapy or vascular endothelial growth factor inhibitor.\n  * Phase 1b:\n\n    * Participants must have advanced or metastatic solid tumors and have received \u22651 prior line of therapy.\n* Must have an Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 to 1.\n* Measured creatinine clearance \u226560 milliliters per minute (mL/min)\n\nExclusion Criteria:\n\n* Have known active central nervous system (CNS) metastases or carcinomatous meningitis.\n* Have significant cardiovascular disease\n* Have prolongation of the corrected QTcF \\>470 milliseconds (msec) during screening. QTcF is calculated using Fridericia's Formula: QTcF = QT/(RR0.33)\n* Have evidence of ongoing and untreated urinary tract obstruction\n* Had previous hemi- or total-body radiation.\n* Had previous adoptive T-cell therapy (e.g., chimeric antigen receptor T-cell \\[CAR-T therapy, T-cell receptor \\[TCR\\] therapy, etc.)\n* Unable to lie flat during, or otherwise tolerate, single photon emission computed tomography (SPECT), positron emission tomography (PET), computed tomography (CT) or magnetic resonance imaging (MRI).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "United Theranostics",
+      "city": "Glen Burnie",
+      "state": "Maryland",
+      "zip": "21061",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1a: Percentage of Participants with Dose Limited Toxicity (DLT) Toxicities",
+      "timeFrame": "Cycle 1 (28 days)",
+      "description": ""
+    },
+    {
+      "measure": "Phase 1b: Objective Response Rate (ORR): Percentage of Participants with Best Response of Complete Response (CR) or Partial Response (PR)",
+      "timeFrame": "Baseline through imaging follow-up, up to 5 years",
+      "description": "Per investigator assessed Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1)"
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2025-10-22",
+  "completion_date": "2033-03",
+  "last_updated": "2026-03-19"
+}

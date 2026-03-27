@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT01344837",
+  "brief_title": "Biomarkers in Blood and Tissue Samples From Patients With Uterine Cancer",
+  "official_title": "The Role of Synuclein-gamma (SNCG) in the Carcinogenesis of Uterine Papillary Serous Carcinoma",
+  "brief_summary": "This research study is studying biomarkers in blood and tissue samples from patients with uterine cancer. Studying samples of blood and tissue from patients with cancer in the laboratory may help doctors learn more about changes the occur in DNA and identify biomarkers related to cancer.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. Determine whether synuclein-\u03b3 (SNCG) expression in primary tumor is associated with overall survival (OS) in uterine papillary serous carcinoma (UPSC) patients.\n\nSECONDARY OBJECTIVES:\n\nI. Determine whether SNCG expression is associated with clinical covariates (age at diagnosis, race, surgical stage, depth of myometrial invasion, presence of lymph vascular space invasion, lymph node status, location of extrauterine disease, chemotherapy, and radiation therapy) in UPSC patients.\n\nII. Determine whether SNCG expression is associated with other biomarker expression, including TP53 (p53), HER-2, folate receptor alpha (FOLR1), estrogen receptor (ER), progesterone receptor (PR), phosphatase and tensin homolog (PTEN), phosphorylated AKT (pAKT), pERK, and p16 in primary tumor tissue.\n\nIII. Determine whether SNCG expression is associated with progression-free survival (PFS).\n\nIV. Determine whether SNCG expression is associated with synchronous or metachronous breast cancers.\n\nEXPLORATORY OBJECTIVES:\n\nI. Determine whether SNCG can be detected in sera from UPSC patients. II. Determine whether serum SNCG in UPSC patients differs from that in normal healthy control women and women with endometrioid endometrial cancer.\n\nIII. Determine whether serum SNCG in UPSC patients is associated with overall survival (OS), clinical covariates (listed above), tumor expression of biomarkers (listed above), PFS, and synchronous or metachronous breast cancers.\n\nIV. Develop prediction models with a panel of biomarkers and clinical prognostic factors for OS, PFS, and synchronous or metachronous breast cancers in UPSC patients.\n\nOUTLINE:\n\nArchived serum and tumor tissue samples are analyzed for synuclein-\u03b3 (SNCG) expression and other biomarker expression, including TP53 (p53), HER-2, folate receptor alpha (FOLR1), estrogen receptor (ER), progesterone receptor (PR), phosphatase and tensin homolog (PTEN), phosphorylated AKT (pAKT), pERK, and p16 by microarray analysis, IHC assays, and western blot. Results are then compared with patients' existing clinical, demographic, and pathology data, including history of breast cancer (metachronous) or breast cancer diagnosed at the same time as the endometrial cancer (synchronous).",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 360,
+  "conditions": [
+    "Endometrial Serous Adenocarcinoma",
+    "Stage I Uterine Corpus Cancer",
+    "Stage II Uterine Corpus Cancer",
+    "Stage III Uterine Corpus Cancer",
+    "Stage IV Uterine Corpus Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Diagnostic Laboratory Biomarker Analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "Immunohistochemistry Staining Method",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "Medical Chart Review",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "Microarray Analysis",
+      "type": "GENETIC",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "Study of Socioeconomic and Demographic Variables",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "Western Blotting",
+      "type": "GENETIC",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Women with uterine papillary serous carcinoma (UPSC) who were eligible for GOG-0210 protocol, a molecular staging study in endometrial cancer, or GOG-0136, a general specimen banking study for gynecologic cancer, have consented to future research, have histologically-confirmed UPSC of any stage, and have satisfactory formalin-fixed and paraffin-embedded primary tumor with or without a satisfactory pre-operative serum specimen available for testing\n* Women with endometrioid endometrial cancer who were eligible for GOG-0210 or GOG-0136, have consented to future research, have histologically-confirmed endometrioid endometrial carcinoma with a similar stage, age and race/ethnicity distribution as the UPSC patients, have satisfactory formalin-fixed and paraffin-embedded primary tumor and/or pre-operative serum specimen available for testing\n* Normal healthy control women who participated in the Biopathology protocol for banking sera from normal healthy control women, have consented to future research, do not have a cancer or a history of cancer and have a similar age and race/ethnicity distribution as the UPSC patients and have satisfactory serum available for testing",
+    "gender": "FEMALE",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Gynecologic Oncology Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall survival",
+      "timeFrame": "From time of entry onto GOG-0210, assessed up to 2 years",
+      "description": "Kaplan-Meier survival curves for the overall survival (OS) endpoint will be generated separately for the three SNCG expression groups and globally compared using a log-rank test."
+    }
+  ],
+  "sponsor": "Gynecologic Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2010-01",
+  "completion_date": "2018-01",
+  "last_updated": "2024-08-12"
+}

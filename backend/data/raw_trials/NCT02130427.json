@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT02130427",
+  "brief_title": "A Volume, Motion, and Anatomically Adaptive Approach to Photon and Proton Beam Radiotherapy",
+  "official_title": "A Volume, Motion, and Anatomically Adaptive Approach to Photon and Proton Beam Radiotherapy",
+  "brief_summary": "This pilot study will determine changes over time in tumor volume/motion \\& patient anatomy, as well as dose distributions to normal organs. The study will inform medical decision-making about need for (and timing of) re-calibration of radiation dosimetry plans. Weekly CT and/or serial MR scans will be employed for those patients receiving 7-8 wks of radiation therapy. The study will enroll 30 patients in each stratum: Non small cell lung cancer (NSCLC), Head \\& Neck, gastrointestinal (GI) and Gynecologic tumor.",
+  "detailed_description": "This is a pilot study to estimate the degree of tumor volume, tumor motion and patient anatomy change during treatment with photon or proton beam radiotherapy. Patients will undergo simulation with an MR scan and/or CT scan per best clinical practices, and 4D imaging will be employed as indicated, at the discretion of the treating radiation oncologist. Photon beam treatment plans and Proton beam treatment plans will be generated from these images. Based on the location of the primary tumor, patients will undergo either up to weekly 3D or 4D CT and/or serial MR scans during treatment. These images will be compared to the initial CT/MR scans used for treatment planning and analyzed for changes in tumor volume and tumor anatomic location. At the end of treatment, the frequent 3D or 4D CT and/or serial MR images will be compared to the initial treatment planning images to quantify the changes in tumor volume and tumor motion during the course of radiation treatment. Each CT and/or MR Scan will also be used to evaluate the changes in dose distribution to the target volumes and normal tissues that occur with the initial photon treatment plan and initial proton treatment. The changes in tumor volume, tumor motion and dose distribution during the course of radiation treatment will be analyzed to determine the effect of tumor changes on radiation treatment efficacy.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 74,
+  "conditions": [
+    "Biopsy Proven Non Small Cell Lung Cancer",
+    "Head and Neck Cancer",
+    "Gastrointestinal Cancer",
+    "Colorectal Cancer",
+    "Rectal Cancers",
+    "Gynecological Malignancy Requiring Definitive Radiotherapy"
+  ],
+  "interventions": [
+    {
+      "name": "CT scan",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Weekly 3D/4D CT scan"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Aged 18 and above.\n* Biopsy proven diagnosis of non-small cell lung cancer, small cell lung cancer, head and neck, esophageal, gastric, pancreatic, anal, hepatic, biliary, colorectal, cervical, endometrial, vaginal, vulvar, ovarian cancer and any other gastrointestinal or gynecological cancers requiring definitive radiotherapy alone with or without concurrent chemotherapy.\n* Able to provide written informed consent and comply with all study procedures.\n* Entire course of radiotherapy will be delivered at the University of Pennsylvania Perelman Center for Advanced Medicine.\n\nExclusion Criteria:\n\n\\- Pregnancy or women of childbearing potential and men who are sexually active and not willing/able to use medically acceptable forms of contraception; this exclusion is necessary because the treatment involved in this study may be significantly teratogenic.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Tumor Volume",
+      "timeFrame": "9 weeks",
+      "description": "The degree of tumor volume, tumor motion and patient anatomy change during treatment with photon beam radiotherapy using 4D or 3D CT Scans and/or a serial of MR Imaging."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2010-09",
+  "completion_date": "2022-04",
+  "last_updated": "2022-07-15"
+}

@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT00535119",
+  "brief_title": "Veliparib, Carboplatin, and Paclitaxel in Treating Patients With Advanced Solid Cancer",
+  "official_title": "A Phase 1 Study of ABT-888 in Combination With Carboplatin and Paclitaxel in Advanced Solid Malignancies",
+  "brief_summary": "This phase I trial is studying the side effects and best dose of veliparib when given together with carboplatin and paclitaxel in treating patients with advanced solid cancer. Veliparib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving veliparib together with carboplatin and paclitaxel may help kill more tumor cells.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine the recommended dose for phase II studies of veliparib (ABT-888 ) that can be administered in combination with carboplatin and paclitaxel in patients with advanced solid malignancies. (Stratum I) II. To determine the recommended dose for phase II studies of veliparib that can be administered in combination with carboplatin and paclitaxel in patients with advanced solid malignancies that harbor a germline BRCA1/2 mutation. (Stratum II) (added 04/07/09)\n\nSECONDARY OBJECTIVES:\n\nI. To define the dose-limiting toxicity and other toxicities associated with the use of this combination.\n\nII. To obtain preliminary evidence of antitumor activity in patients treated with this combination.\n\nIII. To evaluate the pharmacokinetic parameters of veliparib, carboplatin, and paclitaxel when administered as a combination.\n\nIV. To conduct correlative science studies.\n\nOUTLINE: This is a multicenter, dose-escalation study of veliparib. Patients are stratified according to BRCA status (no \\[stratum I\\] vs yes \\[stratum II\\]).\n\nPatients receive carboplatin intravenously (IV) over 30 minutes and paclitaxel IV over 3 hours on day 3 and veliparib orally (PO) twice daily on days 1-7 until the recommended phase II dose is determined. Treatment repeats every 3 weeks for at least 6 courses in the absence of disease progression or unacceptable toxicity.\n\nPatients undergo peripheral blood mononuclear cell collection periodically for pharmacokinetic and biomarker studies.\n\nAfter completion of study treatment, patients are followed up for 4 weeks.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 107,
+  "conditions": [
+    "Adult Solid Neoplasm",
+    "BRCA1 Mutation Carrier",
+    "BRCA2 Mutation Carrier",
+    "Hereditary Breast and Ovarian Cancer Syndrome"
+  ],
+  "interventions": [
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Laboratory Biomarker Analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Pharmacological Study",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "Veliparib",
+      "type": "DRUG",
+      "description": "Given PO"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed advanced solid malignancy\n* Patients enrolled in stratum II of the study must have BRCA1/2 mutation (added 04/07/09)\n* Patients with CNS metastases must be stable after therapy for CNS metastases (such as surgery, radiotherapy or stereotactic radiosurgery) for \\> 3 months and must be off steroid treatment prior to study enrollment\n* ECOG performance status 0-2\n* Life expectancy \\> 12 weeks\n* ANC \u2265 1,500/\u03bcL\n* Platelet count \u2265 100,000/\u03bcL\n* Total bilirubin \u2264 1.5 times upper limit of normal (ULN)\n* AST and ALT \u2264 2.5 times ULN\n* Creatinine normal OR creatinine clearance \u2265 60 mL/min\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for \u2265 3 months after completion of study treatment\n* More than 3 weeks since prior chemotherapy (6 weeks for nitrosoureas or mitomycin C)\n* More than 3 weeks since prior radiotherapy\n* Prior veliparib allowed\n\nExclusion Criteria:\n\n* Known history of allergic reactions to veliparib, carboplatin, or Cremophor-paclitaxel\n* Uncontrolled intercurrent illness, including, but not limited to, any of the following:\n\n  * Ongoing or active infection\n  * Symptomatic congestive heart failure\n  * Unstable angina pectoris\n  * Cardiac arrhythmia\n* Psychiatric illness or social situations that would preclude compliance with study requirements\n* Peripheral neuropathy \\> grade 1\n* Inability to take oral medications on a continuous basis\n* Active seizure or history of seizure disorder\n* Evidence of bleeding diathesis\n* Received \\> 3 prior chemotherapy regimens for advanced stage disease for patients enrolled in stratum I (there is no upper limit on the number of prior regimens for patients enrolled in stratum II) (added 04/07/09)\n\n  * Adjuvant chemotherapy administered \u2265 2 years prior to enrollment to the study does not count as a prior chemotherapy regimen\n* Other concurrent investigational agents\n* Concurrent combination antiretroviral therapy for HIV-positive patients",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Milton S Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033-0850",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Cancer Institute (UPCI)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Cancer Institute",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Recommended phase II dose (RP2D) for each stratum",
+      "timeFrame": "Up to 4 weeks",
+      "description": "The RP2D for each cohort will be defined by the study separately. Standard up \\& down dose-escalation scheme to determine the RP2D will be use, and toxicities will be assessed using Common Terminology Criteria for Adverse Events (CTCAE) v4.0."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2007-09",
+  "completion_date": "",
+  "last_updated": "2015-05-21"
+}

@@ -1,0 +1,89 @@
+{
+  "nct_id": "NCT01777152",
+  "brief_title": "ECHELON-2: A Comparison of Brentuximab Vedotin and CHP With Standard-of-care CHOP in the Treatment of Patients With CD30-positive Mature T-cell Lymphomas",
+  "official_title": "A Randomized, Double-blind, Placebo-controlled, Phase 3 Study of Brentuximab Vedotin and CHP (A+CHP) Versus CHOP in the Frontline Treatment of Patients With CD30-positive Mature T-cell Lymphomas",
+  "brief_summary": "This is a double-blind, randomized, multicenter, phase 3 clinical trial to compare the efficacy and safety of brentuximab vedotin in combination with CHP with the standard-of-care CHOP in patients with CD30-positive mature T-cell lymphomas.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 452,
+  "conditions": [
+    "Anaplastic Large-Cell Lymphoma",
+    "Non-Hodgkin Lymphoma",
+    "T-Cell Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "brentuximab vedotin",
+      "type": "DRUG",
+      "description": "1.8 mg/kg every 3 weeks by IV infusion for 6-8 cycles"
+    },
+    {
+      "name": "doxorubicin",
+      "type": "DRUG",
+      "description": "50 mg/m2 every 3 weeks by IV infusion for 6-8 cycles"
+    },
+    {
+      "name": "prednisone",
+      "type": "DRUG",
+      "description": "100 mg on Days 1 to 5 of each 3-week cycle, orally for 6-8 cycles"
+    },
+    {
+      "name": "vincristine",
+      "type": "DRUG",
+      "description": "1.4 mg/m2 (maximum 2 mg) every 3 weeks by IV infusion for 6-8 cycles"
+    },
+    {
+      "name": "cyclophosphamide",
+      "type": "DRUG",
+      "description": "750 mg/m2 every 3 weeks by IV infusion for 6-8 cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients with newly diagnosed, CD30-positive mature T-cell lymphomas\n* Fluorodeoxyglucose (FDG)-avid disease by PET and measurable disease of at least 1.5 cm by CT\n* Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to 2\n\nExclusion Criteria:\n\n* History of another primary invasive malignancy that has not been in remission for at least 3 years\n* Current diagnosis of primary cutaneous CD30-positive T-cell lymphoproliferative disorders and lymphomas or mycosis fungoides\n* History of progressive multifocal leukoencephalopathy (PML)\n* Cerebral/meningeal disease related to the underlying malignancy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Memorial Sloan Kettering Cancer Center - Basking Ridge",
+      "city": "Basking Ridge",
+      "state": "New Jersey",
+      "zip": "07920",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "United States",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival Per Independent Review Facility (IRF)",
+      "timeFrame": "Up to 60 months",
+      "description": "The time from the date of randomization to the date of first documentation of progressive disease (PD), death due to any cause, or receipt of subsequent anticancer chemotherapy to treat residual or progressive disease whichever occurred first."
+    }
+  ],
+  "sponsor": "Seagen Inc.",
+  "collaborators": [
+    "Millennium Pharmaceuticals, Inc."
+  ],
+  "start_date": "2013-01-31",
+  "completion_date": "2020-10-02",
+  "last_updated": "2021-11-01"
+}

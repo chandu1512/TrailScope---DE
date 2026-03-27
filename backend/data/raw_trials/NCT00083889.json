@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT00083889",
+  "brief_title": "SU011248 Versus Interferon-Alfa As First-Line Systemic Therapy For Patients With Metastatic Renal Cell Carcinoma",
+  "official_title": "A Phase 3, Randomized Study Of SU011248 Versus Interferon-Alfa As First-Line Systemic Therapy For Patients With Metastatic Renal Cell Carcinoma",
+  "brief_summary": "The purpose of this study is to test whether SU011248 has activity and is safe compared to interferon-alfa as first-line therapy in patients with metastatic renal cell carcinoma (RCC).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 750,
+  "conditions": [
+    "Carcinoma, Renal Cell"
+  ],
+  "interventions": [
+    {
+      "name": "Interferon-alfa",
+      "type": "DRUG",
+      "description": "3 MIU first week, 6 MIU second week, and 9 MIU thereafter three times a week (non-consecutive days) until progression or unacceptable toxicity"
+    },
+    {
+      "name": "SU011248",
+      "type": "DRUG",
+      "description": "50 mg orally daily for 4 weeks and 2 weeks off treatment until progression or unacceptable toxicity"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed renal cell carcinoma of clear cell histology with metastases\n* Evidence of measurable disease by radiographic technique\n* Eastern Cooperative Oncology Group \\[ECOG\\] performance status of 0 or 1\n\nExclusion Criteria:\n\n* Prior systemic (including adjuvant or neoadjuvant) therapy of any kind for RCC\n* History of or known brain metastases\n* Serious acute or chronic illness or recent history of significant cardiac abnormality",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS), Core Radiology Assessment",
+      "timeFrame": "Day 28 of each 6-week cycle: duration of treatment phase",
+      "description": "Progression-free survival (PFS) = time from randomization to first documentation of objective tumor progression or to death due to any cause, whichever occured first. If tumor progression data included more than 1 date, the first date was used. PFS = first event date minus the date of randomization + 1. On study included treatment plus 28-day follow-up periods."
+    },
+    {
+      "measure": "Progression-Free Survival (PFS), Investigator's Assessment",
+      "timeFrame": "Day 28 of each 6-week cycle: duration of treatment phase",
+      "description": "Progression-free survival = time from randomization to first documentation of objective tumor progression or to death due to any cause, whichever occured first. PFS = first event date minus the date of randomization + 1). On study included treatment plus 28-day follow-up periods."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2004-08",
+  "completion_date": "2008-09",
+  "last_updated": "2010-01-19"
+}

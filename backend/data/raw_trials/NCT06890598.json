@@ -1,0 +1,115 @@
+{
+  "nct_id": "NCT06890598",
+  "brief_title": "Study of Olomorasib (LY3537982) in Combination With Standard of Care in Participants With Resected or Unresectable KRAS G12C-mutant Non-Small Cell Lung Cancer",
+  "official_title": "A Phase 3, Multicenter, Double-Blind, Placebo-controlled Study Assessing the Efficacy and Safety of Olomorasib in Combination With Standard of Care Immunotherapy in Participants With Resected or Unresectable KRAS G12C-Mutant, Non-Small Cell Lung Cancer - SUNRAY-02",
+  "brief_summary": "The main purpose of this study is to assess if olomorasib in combination with pembrolizumab is more effective than the pembrolizumab and placebo combination in part A in participants with resected KRAS G12C-mutant NSCLC and to assess if olomorasib in combination with durvalumab is more effective than the durvalumab and placebo combination in part B in participants with unresectable KRAS G12C-mutant non-small cell lung cancer. The study may last up to 3 years for each participant.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 700,
+  "conditions": [
+    "Carcinoma, Non-Small-Cell Lung"
+  ],
+  "interventions": [
+    {
+      "name": "Olomorasib",
+      "type": "DRUG",
+      "description": "Administered orally."
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Administered intravenously (IV)."
+    },
+    {
+      "name": "Durvalumab",
+      "type": "DRUG",
+      "description": "Administered IV."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Administered orally."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histological or cytological confirmation of NSCLC.\n\n  * Part A\n\n    1. Clinical Stage II-IIIB (N2) treated with presurgical chemoimmunotherapy, with residual tumor present at time of surgery. Patients with a pathologic complete response are not eligible.\n    2. Pathologic Stage II-IIIB (N2) NSCLC treated with initial upfront resection.\n  * Part B - Clinical Stage III, unresectable NSCLC, without progression on concurrent platinum-based chemoradiotherapy.\n* Must have disease with evidence of KRAS G12C mutation.\n* Must have known programmed death-ligand 1 (PD-L1) expression\n* Must have an ECOG performance status of 0 or 1.\n* Able to swallow oral medication.\n* Must have adequate laboratory parameters.\n* Contraceptive use should be consistent with local regulations for those participating in clinical studies.\n* Women of childbearing potential must\n\n  * Have a negative pregnancy test.\n  * Not be breastfeeding during treatment\n\nExclusion Criteria:\n\n* Have known changes in the EGFR or ALK genes.\n* Have another type of cancer that is progressing or required active treatment within the past 2 years before screening.\n* Have an active autoimmune disease that required systemic treatment in the past 2 years. Endocrine replacement therapy is allowed.\n* Had any immune-related side effect or allergic reaction (Grade 3 or higher) from a previous immunotherapy medicine, or any immune-related side effect greater than Grade 1 that has not resolved. This does not apply for people with hormone-related diseases who are now on stable hormone replacement therapy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Johns Hopkins Bayview Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Jefferson Health - Cherry Hill",
+      "city": "Cherry Hill",
+      "state": "New Jersey",
+      "zip": "08002",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Sidney Kimmel Cancer Center - Washington Township",
+      "city": "Sewell",
+      "state": "New Jersey",
+      "zip": "08080",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Thomas Jefferson University, Sidney Kimmel Cancer Center - Clinical Trials Office",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Jefferson Hospital Northeast",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19114",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "AHN Allegheny General Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part A: Disease-Free Survival (DFS) by Investigator Assessment",
+      "timeFrame": "Randomization to disease recurrence or death from any cause (Estimated as approximately 48 months).",
+      "description": "DFS by Investigator Assessment"
+    },
+    {
+      "measure": "Part B: Progression-Free Survival (PFS)",
+      "timeFrame": "Randomization to disease progression or death from any cause (Estimated as approximately 3 years).",
+      "description": "PFS per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 by blinded independent central review (BICR)"
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [
+    "AstraZeneca"
+  ],
+  "start_date": "2025-03-27",
+  "completion_date": "2032-02",
+  "last_updated": "2026-03-22"
+}

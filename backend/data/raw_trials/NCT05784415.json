@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT05784415",
+  "brief_title": "Observational Study of People Living With HIV Treated With CD19-directed CAR T Cell",
+  "official_title": "Observational Cohort Study of People Living With HIV Treated With CD19-directed CAR T Cell Therapy for B-cell Lymphoid Malignancies",
+  "brief_summary": "This protocol will develop an observational cohort of PLWH who have been or are being treated with CAR19 therapy outside of an AMC clinical trial. Following regulatory approval of this protocol, sites will be asked to capture information of participants, who carry a diagnosis of HIV disease AND received CAR19 therapy outside of a clinical trial between August 30, 2017 and August 31, 2021. Data captured will include data points are available as part of standard of care for participants undergoing CAR19 therapy. AMC investigators, as well as non-AMC investigators will identify eligible participants to the CIBMTR, who in turn will provide the AMC statistical center with de-identified data",
+  "detailed_description": "Two landmark trials have led to the FDA approval of two different CD19 directed chimeric antigen receptor (CAR) T cell (CAR19) products in the United States for the treatment of relapsed or refractory (RR) large B-cell lymphoma after two or more lines of systemic therapy: tisagenlecleucel (Kymriah\u2122) and axicabtagene ciloleucel (Yescarta \u00ae). In the ZUMA-1 registration trial for axicabtagene ciloleucel (axi-cel), 42% of the 101 treated patients achieved a complete response (CR), and with a median follow up of 15 months, the projected 1year progression free survival (PFS) was 70%. In a recent updated analysis, the CR rate was 58% with about 40% of patients having durable remissions at 2 years of follow up. Similar results were seen in the JULIET registrational trial for tisagenlecleucel (tisa-cel) with an overall response rate (ORR) of 52%, and a CR rate of 40% in the 93 patients evaluable for response; with a median follow up of 14 months, the estimated 12-months relapse-free survival was 65% (79% among patients with a CR). Tisagenlecleucel is also approved for the treatment of acute B-lineage lymphoblastic leukemia in patients up to the age of 25 years. Unfortunately, in both trials patients with known HIV infection were excluded. Therefore, no safety or efficacy data for treatment with CAR19 in PLWH exists, and access for PLWH in the US to this potentially curative treatment has been limited.\n\nThis has to be contrasted with the fact that malignancies, and specifically lymphomas, remain a major contributor to early mortality in PLWH. With a lifetime risk of cancer ranging between 24-40%, the leading cause of death in PLWH in economically developed countries is cancer, and the most common cancer in PLWH in the US remains Non-Hodgkin lymphoma (NHL). While early during the HIV epidemic, outcomes for PLWH and aggressive B-cell lymphomas were significantly worse compared to immunocompetent patients, this is no longer the case for the majority of PLWH, owing mainly to effective antiretroviral therapies leading to better tolerance of myelosuppressive chemotherapy and a consequent paradigm shift in aggressive therapies for HIV-associated lymphoma. It has been repeatedly demonstrated that PLWH have been able to safely tolerate aggressive high-dose chemotherapy, as well as autologous and even allogeneic hematopoietic cell transplant.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 30,
+  "conditions": [
+    "Leukemia",
+    "Leukemia, Lymphoblastic",
+    "Lymphoma, Large B-Cell, Diffuse",
+    "Follicular Lymphoma",
+    "Lymphoma, B-Cell",
+    "Lymphoma, Follicular",
+    "Lymphoma, Non-Hodgkin",
+    "HIV Infections",
+    "HIV Associated Lymphoma",
+    "HIV Disease; Lymphoma"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Documented history of HIV infection\n* Received CD19-directed CAR T cell therapy for acute lymphoblastic leukemia, diffuse large B-cell lymphoma, high-grade B-cell lymphoma, transformed follicular lymphoma, or primary mediastinal B-cell lymphoma\n* Age \u2265 18 years\n\nExclusion Criteria:\n\n\u2022 Prior treatment with any CAR T cell therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pennsylvania Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19106",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Rate of toxicities related to CAR19 therapy",
+      "timeFrame": "12 months",
+      "description": "Toxicities related to CAR19 therapy will be reported by Common Terminology for Adverse Events (CTCAE) criteria, as well as American Society for Transplantation and Cellular Therapy (ASTCT) criteria (for cytokine release syndrome)"
+    }
+  ],
+  "sponsor": "AIDS Malignancy Consortium",
+  "collaborators": [
+    "Center for International Blood and Marrow Transplant Research"
+  ],
+  "start_date": "2021-05-22",
+  "completion_date": "2024-11-14",
+  "last_updated": "2026-01-29"
+}

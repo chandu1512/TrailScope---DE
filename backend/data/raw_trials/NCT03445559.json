@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT03445559",
+  "brief_title": "A Multi-modal, Physician-centered Intervention to Improve Guideline-concordant Prostate Cancer Imaging",
+  "official_title": "A Multi-modal, Physician-centered Intervention to Improve Guideline-concordant Prostate Cancer Imaging",
+  "brief_summary": "The primary aim of this study is to determine whether a multi-modal, physician-focused behavioral intervention can improve facility-level guideline-concordant utilization of prostate cancer staging imaging. Other aims of this study include to use mixed methods to explore physician influence on guideline-concordant imaging and to determine the cost and cost impact of a physician-focused behavioral intervention to improve guideline-concordant prostate cancer imaging.",
+  "detailed_description": "Almost half of Veterans with localized prostate cancer (the most common non-cutaneous malignancy among US men) receive inappropriate, wasteful imaging. The VHA Blueprint for Excellence prioritizes increasing operational effectiveness. Prior studies seeking to limit inappropriate imaging did not assess barriers and achieved mixed results. The investigators' team has explored the causes of guideline-discordant prostate cancer imaging and found that 1) patients with newly diagnosed prostate cancer have little concern for radiographic staging but rather focus on treatment, 2) physician trust imaging guidelines but are apt to follow their own intuition, fear medico-legal consequences, and succumb to influence from colleagues who image frequently. In spite of such discrepant views, most VHA physicians suggested or supported a large-scale effort to improve imaging use across VHA.\n\nThe investigators propose a multi-site, stepped wedge, cluster-randomized trial to determine the effect of a physician-focused behavioral intervention on VHA prostate cancer imaging use. The multi-level intervention, developed according to the Theoretical Determinants Framework, combines traditional physician behavior change methods with novel methods of communication and data collection. The intervention consists of three components: 1) a system of audit and feedback to clinicians informing individual clinicians and their sites about how their behavior compares to their peers' and to published guidelines 2) a program of academic detailing with the goal to educate providers about prostate cancer imaging, and 3) a CPRS Clinical Order Check for potentially inappropriate imaging. The intervention will be introduced to 10 participating geographically-distributed study sites.\n\nThe investigators will assess imaging rates 6 months prior to the intervention and 3 months following the intervention. The study's specific aims seek to understand the effects of the intervention on 1) facility-level prostate cancer imaging rates, 2) physician experience with and perceptions of the intervention and its implementation, and 3) the costs of both implementing the intervention and affecting change in imaging use. These aims will support a subsequent intervention to improve guideline-concordant imaging across VHA. Experience gained through this project will be leveraged to improve guideline-concordant care and increase operational effectiveness in other domains.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 58,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Clinical Order Check",
+      "type": "BEHAVIORAL",
+      "description": "A Clinical Order Check is an evidence-based, systems-level method to affect significant behavior change. It addresses the intervention functions of education, enablement and incentivization which are effective methods to change behaviors driven by beliefs about capabilities, knowledge, social influences, beliefs about consequences, and environmental context and resources. All VA facilities currently use locally adapted clinical reminders. This strategy is technologically simple, straightforward, and is considered to be a best practice within the VA IT community. The reminder will be self-explanatory and non-intrusive to workflow."
+    },
+    {
+      "name": "Academic Detailing",
+      "type": "BEHAVIORAL",
+      "description": "Academic detailing is an individual and facility-level intervention consistently shown to improve provider behavior. This strategy addresses the intervention functions of persuasion, coercion, modeling, and education which are effective methods for affecting behaviors driven by beliefs about capabilities, knowledge, social influences, beliefs about consequences, and environmental context and resources. During the meeting, the detailer will follow a script explaining that the visit is part of an experimental program to provide physicians with up-to-date, unbiased information about imaging to stage prostate cancer."
+    },
+    {
+      "name": "Audit and Feedback",
+      "type": "BEHAVIORAL",
+      "description": "Audit and feedback is an effective, individual-level intervention for changing healthcare provider behavior, resulting in small but potentially clinically important benefits. Audit and feedback addresses the intervention functions of education, persuasion and incentivization, all of which are important for addressing beliefs about capabilities and consequences, knowledge, and social influence."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nProvider Criteria:\n\n* Urology Chiefs and attending urologists employed through the VA (full time, part time) at one of the 10 participating sites\n* Physician Assistants and Nurse Practitioners employed through the VA at one of the 10 participating sites that work in the respective urology clinics\n* Providers may be any gender or race/ethnicity\n\nQualitative portion only:\n\n* Urology Chiefs and/or frontline staff physicians\n* participating PAs \\& NPs having cared for at least 5 men with incident prostate cancer within the previous 6 months\n* Patients will not be directly recruited into the study.\n* The investigators have obtained a waiver of HIPAA authorization and informed consent to analyze electronic health records of patients that are diagnosed with ICD-9 code 185 or ICD-10 code C61 during the study period at the 10 participating sites.\n\nExclusion Criteria:\n\nProvider Criteria:\n\n* Urology Residents will be excluded.\n\nPatients\n\n* Patients will be excluded if they have a history of prior malignancy\n* Are over the age of 85\n* Diagnosed at autopsy or by death certificate\n* Died within 3 months of diagnosis\n* Not having data on at least one of the following:\n\n  * PSA\n  * clinical stage\n  * Gleason score",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "VA Pittsburgh Healthcare System University Drive Division, Pittsburgh, PA",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15240",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Facility-level Inappropriate Prostate Cancer Bone Scan Imaging Rates",
+      "timeFrame": "Through study completion, an average of 4 years",
+      "description": "Facility-level utilization of bone scan imaging among men with newly diagnosed, low-risk prostate cancer. (Inappropriate Imaging according to NCCN guidelines)"
+    },
+    {
+      "measure": "Facility-level Appropriate Prostate Cancer Bone Scan Imaging Rates",
+      "timeFrame": "Through study completion, an average of 4 years",
+      "description": "Facility-level utilization of bone scan imaging among men with newly diagnosed, high-risk prostate cancer. (Appropriate Imaging according to NCCN guidelines)"
+    }
+  ],
+  "sponsor": "VA Office of Research and Development",
+  "collaborators": [],
+  "start_date": "2018-04-09",
+  "completion_date": "2027-02-28",
+  "last_updated": "2026-03-13"
+}

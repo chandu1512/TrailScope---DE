@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT05014412",
+  "brief_title": "A Study to Learn About the Study Medicine (Elranatamab) in Participants With Multiple Myeloma That Has Come Back After Responding to Treatment or Has Not Responded to Treatment",
+  "official_title": "A PHASE 1/2, OPEN-LABEL, MULTICENTER STUDY TO EVALUATE A DOSING REGIMEN WITH TWO STEP-UP PRIMING DOSES AND LONGER DOSING INTERVALS OF ELRANATAMAB (PF-06863135) MONOTHERAPY IN PARTICIPANTS WITH RELAPSED/REFRACTORY MULTIPLE MYELOMA",
+  "brief_summary": "The purpose of the study (Part 1 and Part 2) is to evaluate the safety of a step-up dosing approach (starting with low doses followed by higher doses) of the study medicine (elranatamab) in participants with multiple myeloma that has come back after responding to treatment or has not responded to treatment (relapsed/refractory multiple myeloma). This study will also look at the safety and efficacy of different doses of elranatamab, as well as different intervals between doses.\n\nParticipants in the study will receive elranatamab as an injection under the skin at the study clinic. After the initial step-up doses, participants will start receiving one dose every week. The frequency of clinic visits for injections may then decrease over time. Participation will be at least two years.",
+  "detailed_description": "The purpose of the study (Part 1 and Part 2) of the study is to evaluate the safety (in particular the rate of Grade \u2265 2 CRS) of a step-up priming dose regimen of elranatamab in participants with relapsed/refractory multiple myeloma. In addition, this study will assess the safety of different dosing regimens of elranatamab and if it can provide a clinical benefit in those participants. Elranatamab is a bispecific antibody: binding of elranatamab to CD3-expressing T-cells and BCMA-expressing multiple myeloma cells causes targeted T-cell-mediated cytotoxicity.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 86,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Elranatamab",
+      "type": "DRUG",
+      "description": "BCMA-CD3 bispecific antibody"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Diagnosis of multiple myeloma (IMWG criteria, Rajkumar et al, 2014)\n* Measurable disease, as defined by at least 1 of the following:\n\n  1. Serum M-protein \\>0.5 g/dL by SPEP\n  2. Urinary M-protein excretion \\>200 mg/24 hours by UPEP\n  3. Serum immunoglobulin FLC\u226510 mg/dL (\u2265100 mg/L) AND abnormal serum immunoglobulin kappa to lambda FLC ratio\n* Refractory to at least one IMiD\n* Refractory to at least one PI\n* Refractory to at least one anti-CD38 antibody\n* Relapsed/refractory to last anti-myeloma regimen\n* ECOG performance status \u22641\n* Resolved acute effects of any prior therapy to baseline severity or CTCAE Grade \u22641\n* Not pregnant and willing to use contraception\n\nExclusion Criteria:\n\n* Smoldering multiple myeloma\n* Active Plasma cell leukemia\n* POEMS syndrome\n* Amyloidosis\n* Waldenstr\u00f6m's macroglobulinemia\n* Known active CNS involvement or clinical signs of myelomatous meningeal involvement\n* Stem cell transplant within 12 weeks prior to enrollment or active GVHD\n* Active HBV, HCV, SARS-CoV2, HIV, or any active, uncontrolled bacterial, fungal, or viral infection\n* Any other active malignancy within 3 years prior to enrollment, except for adequately treated basal cell or squamous cell skin cancer, or carcinoma in situ or Stage 0/1 malignancy with minimal risk of recurrence per investigator.\n* Previous treatment with an anti-BCMA bispecific antibody or CAR-T cell therapy.\n* Live attenuated vaccine within 4 weeks of the first dose\n* Previous administration with an investigational drug within 30 days or 5 half-lives preceding the first dose of study intervention used in this study (whichever is longer)\n* Known or suspected hypersensitivity to the study intervention, or any of its excipients",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "MSK Basking Ridge",
+      "city": "Basking Ridge",
+      "state": "New Jersey",
+      "zip": "07920",
+      "status": ""
+    },
+    {
+      "facility": "MSK Monmouth",
+      "city": "Middletown",
+      "state": "New Jersey",
+      "zip": "07748",
+      "status": ""
+    },
+    {
+      "facility": "MSK Bergen",
+      "city": "Montvale",
+      "state": "New Jersey",
+      "zip": "07645",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Grade 2 or Higher Cytokine Release Syndrome (CRS) During Cycle 1: Parts 1 and 2",
+      "timeFrame": "Parts 1 and 2: Cycle 1 (28 days)",
+      "description": "CRS: supraphysiologic response following any immune therapy that results in the activation or engagement of endogenous or infused T-cells and/or other immune effector cells. Symptoms must include fever at the onset, and may include hypotension, hypoxia and end organ dysfunction. As per ASTCT criteria, Grade (G) 1: fever (temperature \\>=38 degree Celsius), hypotension and/or hypoxia none; G 2: fever, hypotension not requiring vasopressors, hypoxia requiring low-flow nasal cannula/ facemask or blow-by; G 3: fever, hypotension requiring a vasopressor with or without vasopressin, hypoxia requiring high-flow nasal cannula/ facemask, nonrebreather mask, or Venturi mask; G 4: fever, hypotension requiring multiple vasopressors (excluding vasopressin), hypoxia requiring positive pressure. Organ toxicities associated with CRS graded according to CTCAE v5.0. G 1: Mild, G 2: Moderate, G 3: severe, and G 4: life-threatening consequences; urgent intervention indicated. G 5: death related to AE."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2021-10-07",
+  "completion_date": "2025-12-12",
+  "last_updated": "2026-01-22"
+}

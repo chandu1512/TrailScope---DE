@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT03786081",
+  "brief_title": "Safety and Efficacy of Tisotumab Vedotin Monotherapy & in Combination With Other Cancer Agents in Subjects With Cervical Cancer",
+  "official_title": "A Phase 1b/2 Open-Label Trial of Tisotumab Vedotin (HuMax\u00ae-TF-ADC) Monotherapy and in Combination With Other Agents in Subjects With Recurrent or Stage IVB Cervical Cancer",
+  "brief_summary": "This is an open label, multi-center trial of tisotumab vedotin monotherapy and in combination with bevacizumab, pembrolizumab, or carboplatin in subjects with recurrent or stage IVB cervical cancer.\n\nThe trial consists of two-parts a dose escalation part and an expansion part. The expansion part of the trial will be initiated once the Recommended Phase 2 Dose (RP2D) of the combinations have been determined in the dose escalation part.",
+  "detailed_description": "The dose escalation part will occur in participants with cervical cancer who have progressed during or after standard of care therapy and who are intolerant or ineligible to receive standard of care treatments. Arm A will be conducted by escalating doses of both tisotumab vedotin and bevacizumab. Dose escalations of the tisotumab vedotin + pembrolizumab and tisotumab vedotin + carboplatin combinations (Arms B and C, respectively) will be conducted by combining fixed doses of either pembrolizumab or carboplatin with increasing doses of tisotumab vedotin.\n\nThe dose expansion part of this study (Arms D through H) will be conducted in 2 populations: participants with cervical cancer who have not received prior systemic therapy for recurrent or stage IVB cervical cancer (Arms D, E, and H) and participants with cervical cancer who have progressed on or after at least 1 but no more than 2 prior systemic therapies (Arms F and G).\n\nParticipants enrolled to Arms D, E, F and H will receive the RP2D of tisotumab vedotin established in the dose escalation part. Participants enrolled to Arm G will receive tisotumab vedotin weekly (at a dose lower than subjects in all other Arms) for three weeks and 1 week off (28-day treatment cycle).",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 214,
+  "conditions": [
+    "Cervical Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Tisotumab Vedotin",
+      "type": "DRUG",
+      "description": "Given into the vein (IV)"
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "Given via IV"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Given via IV"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Given via IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Must have squamous, adenosquamous, or adenocarcinoma of the cervix and progressed on or after standard of care treatments or are ineligible or intolerant to standard of care for recurrent or stage IVB cervical cancer (Arms A, B and C only).\n* Must have squamous, adenosquamous, or adenocarcinoma of the cervix and must not have received prior systemic therapy for recurrent or stage IVB cervical cancer (Arms D, E, and H only).\n* Must have squamous, adenosquamous, or adenocarcinoma of the cervix and progressed on or after at least one but no more than two prior systemic therapies for recurrent or stage IVB cervical cancer (Arms F and G only).\n* Must have baseline measurable disease per RECIST v1.1.\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 (All Arms).\n* Is not pregnant, breastfeeding, or expecting to conceive children within the projected duration of the trial and for at least 6 months after the last trial treatment administration\n* Participants of childbearing potential must agree to use adequate contraception during and for 6 months after the last dose of trial treatment administration.\n* Must sign an informed consent form (ICF) indicating the trial subject understands the purpose of and procedures required for the trial and are willing to participate in the trial (All Arms).\n\nExclusion Criteria:\n\n* Has clinically relevant bilateral hydronephrosis which cannot be alleviated by ureteral stents or percutaneous drainage. (All Arms)\n* Has clinical signs or symptoms of gastrointestinal obstruction and requires parenteral hydration and/or nutrition. Post-operative obstructions within 4 weeks of abdominal surgery are permitted. (All Arms)\n* Has clinically significant bleeding issues or risks\n\n  * Prior history (within 3 months) or current evidence of hemoptysis (1/2 teaspoon or more) (Arm A and bevacizumab-eligible participants in Arm H)\n  * Recent (within 4 weeks of first dose of trial treatment) clinically significant gastrointestinal or vaginal bleeding requiring PRBC transfusion (Arms A and H only)\n  * Recent (within 4 weeks of first dose of trial treatment) evidence of wound healing complications that require medical intervention (Arms A and H only)\n* Has active ocular surface disease at baseline. Subjects with prior history of cicatricial conjunctivitis are ineligible (All Arms).\n* Clinically significant cardiac disease\n* Requires anti-coagulation therapy (Arms A and H only)",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Magee-Womens Hospital of UPMC",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose escalation: Dose Limiting Toxicities (DLTs)",
+      "timeFrame": "DLTs will be identified during the first treatment cycle (21 day cycles)",
+      "description": "To establish the MTD and RP2D of tisotumab vedotin in combination"
+    },
+    {
+      "measure": "Dose expansion: Objective Response Rate (ORR) per Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v1.1)",
+      "timeFrame": "approximately 2 years",
+      "description": "Objective response is defined as confirmed partial response (PR) or complete response (CR)"
+    }
+  ],
+  "sponsor": "Seagen, a wholly owned subsidiary of Pfizer",
+  "collaborators": [
+    "Genmab",
+    "European Network of Gynaecological Oncological Trial Groups (ENGOT)",
+    "Belgian Gynaecological Oncology Group",
+    "GOG Foundation",
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2019-02-27",
+  "completion_date": "2026-03-31",
+  "last_updated": "2026-03-12"
+}

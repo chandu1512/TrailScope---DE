@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT06226571",
+  "brief_title": "A Study of SNDX-5613 in Combination With Intensive Chemotherapy in Participants With Acute Myeloid Leukemias",
+  "official_title": "A Phase 1, Open-label, Dose-escalation, and Dose-expansion Study to Evaluate Safety, Tolerability, and Clinical Activity of SNDX-5613 in Combination With Intensive Chemotherapy in Participants With Newly Diagnosed Acute Myeloid Leukemias Harboring Alterations in Lysine-specific Methyltransferase 2A (KMT2A/MLL), Nucleophosmin 1 (NPM1), and Nucleoporin 98 (NUP98) Genes",
+  "brief_summary": "The purpose of this study is to evaluate the safety, tolerability, pharmacokinetics, and clinical activity of SNDX-5613 in combination with intensive chemotherapy in participants with newly diagnosed acute myeloid leukemia (AML) harboring alterations in KMT2A, NPM1, or NUP98 genes.",
+  "detailed_description": "The Dose Escalation portion of this study will identify the maximum tolerated dose, or if different, the recommended Phase 2 dose of SNDX-5613 to be used in combination with intensive chemotherapy and in maintenance monotherapy following intensive chemotherapy in participants with newly diagnosed AML harboring alterations in KMT2A, NPM1, or NUP98 genes.\n\nIn the Dose Expansion portion of the study, safety and preliminary efficacy of SNDX-5613 may be explored in expansion cohorts at tolerated dose levels.\n\nIn both Dose Escalation and Dose Expansion, the treatment period will consist of an induction phase (up to 2 cycles), a consolidation phase (up to 4 cycles and could include hematopoietic stem cell transplant for participants who are transplant eligible and have an available donor), and a maintenance monotherapy phase with SNDX-5613. The cycle duration will be 28 days.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 76,
+  "conditions": [
+    "Acute Myeloid Leukemias"
+  ],
+  "interventions": [
+    {
+      "name": "SNDX-5613",
+      "type": "DRUG",
+      "description": "Participants will receive SNDX-5613 orally during Induction, Consolidation, and Maintenance until meeting criteria for discontinuation."
+    },
+    {
+      "name": "Chemotherapy Regimen",
+      "type": "DRUG",
+      "description": "Induction: Participants will receive an intravenous (IV), 2-drug combination of cytarabine and either daunorubicin or idarubicin."
+    },
+    {
+      "name": "HiDAC",
+      "type": "DRUG",
+      "description": "Consolidation: Participants will receive HiDAC IV."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Established, pathologically confirmed diagnosis of AML by World Health Organization 2022 criteria.\n* Previously untreated AML and eligible to receive intensive chemotherapy.\n* KMT2Ar, NPM1c, or NUP98r mutations identified by local laboratory prior to the first dose of SNDX-5613.\n* Eastern Cooperative Oncology Group performance status \u22642 and \u22641 if \\>65 years old .\n* Adequate liver, kidney, and cardiac function.\n\nExclusion Criteria:\n\n* Diagnosis of acute promyelocytic leukemia.\n* Clinically active central nervous system leukemia (blasts detected in cerebrospinal fluid, radiographic or clinical signs and symptoms).\n* Fridericia's corrected QT interval (QTcF) \\>450 milliseconds (average of triplicate), diagnosis or suspicion of Long QT syndrome or family history of Long QT syndrome.\n* Any gastrointestinal issue of the upper gastrointestinal tract that might affect oral drug absorption or ingestion.\n* Cirrhosis with a Child-Pugh score of B or C.\n* Any of the following within the 6 months prior to study entry: myocardial infarction, uncontrolled/unstable angina, congestive heart failure (New York Heart Association Classification Class \u2265II), life-threatening, uncontrolled arrhythmia, cerebrovascular accident, or transient ischemic attack.\n* Hepatitis B, Hepatitis C, or HIV-positive with detectable viral load.\n* Documented active, uncontrolled infection.\n* Uncontrolled disseminated intravascular coagulation.\n* Lactating/breast feeding or pregnant.\n* Use of prohibited concomitant chemotherapy, radiation therapy, or immunotherapy.\n* Use of strong CYP3A4 inducers or inhibitors (except for Itraconazole, Ketoconazole, Posaconazole, or Voriconazole).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose Escalation: Number of Participants with Dose-limiting Toxicities",
+      "timeFrame": "Up to Day 42",
+      "description": ""
+    },
+    {
+      "measure": "Number of Participants with Treatment-emergent Adverse Events (TEAEs)",
+      "timeFrame": "Day 1 through 30 days after final dose (up to approximately 3 years)",
+      "description": ""
+    }
+  ],
+  "sponsor": "Syndax Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2024-05-21",
+  "completion_date": "2027-02",
+  "last_updated": "2026-02-12"
+}

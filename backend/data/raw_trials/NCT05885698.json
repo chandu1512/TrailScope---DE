@@ -1,0 +1,53 @@
+{
+  "nct_id": "NCT05885698",
+  "brief_title": "MYLUNG Consortium Part 3: Observational Study",
+  "official_title": "Molecularly Informed Lung Cancer Treatment in a Community Cancer Network: A Longitudinal Prospective RWE Study (MYLUNG Consortium Part 3: Observational Study)",
+  "brief_summary": "This longitudinal study looks to quantify the testing timeline, operational barriers, and outcomes of biomarker-guided therapy in a large, community-based, and largely unselected patient population with early stage and advanced stage, treatment-naive non-small cell lung cancer, whether squamous or non-squamous.",
+  "detailed_description": "Lung cancer remains the most lethal malignancy in men and women in the U.S. Providing high quality management of these patients in the community setting as compared to hospital or academic centers offers the opportunity to reduce cost without sacrificing clinical outcome and simultaneously improving patient convenience and value. Many patients diagnosed with late-stage cancers can benefit from advanced biomarker testing, yet not all eligible patients receive this type of diagnostic testing today.\n\nWithin advanced non-small-cell lung cancer (aNSCLC), there are many specific somatic mutations observed in select patient populations that have targeted highly effective and less toxic therapies. National guidelines have advocated for broad tumor molecular profiling as a part of the standard diagnostic evaluation for aNSCLC, with the goal of identifying driver mutations for which effective therapies or clinical trials are available.\n\nFurthermore, there is emerging evidence that molecular testing can impact treatment choices in earlier stages of lung cancer. However, adherence to genomic testing guidelines presents unique challenges to community oncologists. While most oncology clinical research has been conducted at well-established academic medical centers, over 85% of cancer patients are diagnosed and treated at local, community-based clinical practices. Barriers exist in the ability to order these tests efficiently, in a timely manner, and reimbursed accordingly. Furthermore, patient care can vary drastically based on community-associated disparities.\n\nThis longitudinal clinical trial will generate Real World Evidence (RWE) to validate efficacy of first treatment regimen in newly diagnosed patients with non-small cell lung cancer. The MYLUNG Program integrates three separate protocols: Protocol #1 interrogated historical data from a large number of practices seeing lung cancer patients to evaluate biomarker testing, decision making patterns, the patient journey, and the tissue journey; Protocol #2 prospectively evaluated the patient journey in a limited number of index practices focused on testing; integration of testing results; and treatments. Interventional strategies to optimize these objectives will be developed and integrated into various interventions all aimed at improving biomarker testing rates. Protocol #3 (22285) will serve as a resource to monitor the impact of these strategies on the patient journey as it relates to shared decision making, and will continue to prospectively evaluate the patient journey in a limited number of index practices focused on testing, integration of testing results and treatments.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 7500,
+  "conditions": [
+    "Carcinoma, Non-Small-Cell Lung"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adult subjects (18 years and older) with newly diagnosed early stage, locally advanced or metastatic non-small cell lung cancer\n* Must be eligible for systemic therapy based on the treating provider's assessment. If systemic therapy was recommended and documented by the treating provider but the patient declined, they can still be eligible for the study. Patients can be enrolled prior to start of treatment.\n* Subjects who developed locally advanced or metastatic disease after receiving adjuvant or neoadjuvant therapy are eligible if the adjuvant/neoadjuvant therapy was completed at least 12 months prior to the development of locally advanced or metastatic disease\n* Subjects must be enrolled within 30 days of initiation of systemic therapy\n* Signed informed consent\n\nExclusion Criteria:\n\n* Stage IA at the time of enrollment\n* Subjects with small cell lung cancer\n* Subjects with Unknown primary tumor origin",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Oncology Hematology, P.A.",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20904",
+      "status": "ACTIVE_NOT_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of Patients Who Receive Biomarker Test Results Prior to Systemic Therapy or Death",
+      "timeFrame": "5 years from date of enrollment into study",
+      "description": ""
+    },
+    {
+      "measure": "Proportion of Patients Who Receive Single-gene Testing Compared to Those that Receive Comprehensive Biomarker Testing",
+      "timeFrame": "5 years from date of enrollment into study",
+      "description": "Comprehensive biomarker testing is defined as both PD-L1 testing to guide the use of immunotherapies and testing for all genomic alterations for which there are FDA-approved therapies including (but not limited to) EGFR, ALK, ROS1, BRAF, NTRK, RET, KRAS and MET."
+    },
+    {
+      "measure": "For Patients without Biomarker Test Results, List Reasons for Not Conducting Testing",
+      "timeFrame": "5 years from date of enrollment into study",
+      "description": "1. Clinical deterioration, clinical crisis\n2. Tissue: obtaining sample, tissue retrieval\n3. Assay failure for 1 or more biomarkers: Quantity Not Sufficient (QNS), Quality Assurance (QA) fail, test failure\n4. Patient/provider attitudes \\& perceptions\n5. Provider knowledge about testing options\n6. Patient knowledge about biomarker testing\n7. Payor Coverage: prior authorization denial, payor refusal\n8. Financial barriers: uncovered costs, reimbursement"
+    }
+  ],
+  "sponsor": "US Oncology Research",
+  "collaborators": [],
+  "start_date": "2023-01-30",
+  "completion_date": "2030-12",
+  "last_updated": "2024-07-17"
+}

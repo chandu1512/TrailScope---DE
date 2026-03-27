@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT06400225",
+  "brief_title": "Testing BVD-523FB (Ulixertinib) as Potentially Targeted Treatment in Cancers With Genetic Changes (MATCH - Subprotocol Z1L)",
+  "official_title": "MATCH Treatment Subprotocol Z1L: BVD-523FB (Ulixertinib) in Patients With Tumors With BRAF Fusions, or With Non-V600E, Non-V600K BRAF Mutations",
+  "brief_summary": "This phase II MATCH treatment trial tests how well BVD-523FB (ulixertinib) works in treating patients with cancer that has certain genetic changes. BVD-523FB (ulixertinib) is used in patients whose cancer has a mutated (changed) form of a gene called BRAF. It is in a class of medications called kinase inhibitors. It works by blocking the action of proteins that signal cancer cells to multiply. This helps slow or stop the spread of cancer cells.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate the proportion of patients with objective response (OR) to targeted study agent(s) in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the proportion of patients alive and progression free at 6 months of treatment with targeted study agent in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nII. To evaluate time until death or disease progression. III. To identify potential predictive biomarkers beyond the genomic alteration by which treatment is assigned or resistance mechanisms using additional genomic, ribonucleic acid (RNA), protein and imaging-based assessment platforms.\n\nIV. To assess whether radiomic phenotypes obtained from pre-treatment imaging and changes from pre- through post-therapy imaging can predict objective response and progression free survival and to evaluate the association between pre-treatment radiomic phenotypes and targeted gene mutation patterns of tumor biopsy specimens.\n\nOUTLINE:\n\nPatients receive BVD-523FB (ulixertinib) orally (PO) twice daily (BID) on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Additionally, patients undergo computed tomography (CT) or magnetic resonance imaging (MRI) and blood sample collection throughout the trial. Patients also undergo echocardiography (ECHO) or nuclear study (multigated acquisition \\[MUGA\\] or similar scan) during screening and on study. Patients may also undergo biopsies on study.\n\nAfter completion of study treatment, patients are followed every 3 months for 2 years and then every 6 months for 1 year.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 35,
+  "conditions": [
+    "Advanced Lymphoma",
+    "Advanced Malignant Solid Neoplasm",
+    "Refractory Lymphoma",
+    "Refractory Malignant Solid Neoplasm",
+    "Refractory Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Biopsy Procedure",
+      "type": "PROCEDURE",
+      "description": "Undergo biopsy"
+    },
+    {
+      "name": "Biospecimen Collection",
+      "type": "PROCEDURE",
+      "description": "Undergo blood sample collection"
+    },
+    {
+      "name": "Computed Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo CT scan"
+    },
+    {
+      "name": "Echocardiography Test",
+      "type": "PROCEDURE",
+      "description": "Undergo ECHO"
+    },
+    {
+      "name": "Magnetic Resonance Imaging",
+      "type": "PROCEDURE",
+      "description": "Undergo MRI"
+    },
+    {
+      "name": "Radionuclide Imaging",
+      "type": "PROCEDURE",
+      "description": "Undergo nuclear study"
+    },
+    {
+      "name": "Ulixertinib",
+      "type": "DRUG",
+      "description": "Given PO"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have met applicable eligibility criteria in the Master MATCH Protocol EAY131/ NCI-2015-00054 prior to registration to treatment subprotocol\n* Patients must fulfill all eligibility criteria of MATCH Master Protocol at the time of registration to treatment step (Step 1, 3, 5, 7)\n* Patients must have a BRAF non-V600 mutation or BRAF fusion, or another BRAF aberration, as determined via the MATCH Master Protocol\n* Patients with BRAF V600E/K/R/D mutations are excluded\n* Patients must have an electrocardiogram (ECG) within 8 weeks prior to treatment assignment and must have no clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g. complete left bundle branch block, third degree heart block)\n* Patients must not have known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to BVD-523FB (ulixertinib), dimethyl sulfoxide (DMSO), or excipients\n* Patients must not have a left ventricular ejection fraction (LVEF) \\< the institutional lower limit of normal (LLN) or \\< 50% (whichever is higher)\n* Patients must not have prior use of MEK or ERK 1/2 inhibitors\n* Patients must not have a history of retinal vein occlusion (RVO) or central serous retinopathy. Patients with visible retinal pathology as assessed by ophthalmologic exam that is considered a risk factor for retinal vein thrombosis or central serous retinopathy will be excluded\n* Intraocular pressure is \u2264 21mm Hg as measured by tonography. Patients diagnosed with glaucoma within 1 month prior to Step 1 registration are excluded\n* Patients must not have leptomeningeal metastases or spinal cord compression due to disease\n* Patients must not have primary malignancy of the central nervous system",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "ECOG-ACRIN Cancer Research Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective response rate (ORR)",
+      "timeFrame": "Up to 3 years",
+      "description": "ORR is defined as the percentage of patients whose tumors have a complete or partial response to treatment among analyzable patients. Objective response is defined consistent with Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. 90% two-sided confidence interval is calculated for ORR. For the purposes of this study, patients should be re-evaluated for response:\n\n* For treatments given in 21 day (3 week) cycles: every 3 cycles (9 weeks) for the first 33 cycles, and every 4 cycles thereafter (12 weeks)\n* For treatments given in 28 day (4 week) cycles: every 2 cycles (8 weeks) for the first 26 cycles, and every three cycles thereafter (12 weeks)\n* For treatments given in 42 day (6 week) cycles: every 2 cycles (12 weeks)"
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2019-07-24",
+  "completion_date": "2026-12-31",
+  "last_updated": "2025-11-01"
+}

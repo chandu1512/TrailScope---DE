@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT00047385",
+  "brief_title": "National Lung Screening Trial (NLST) Screening",
+  "official_title": "National Lung Screening Trial A Randomized Trial Comparing Low-dose Helical CT With Chest Xray for Lung Cancer",
+  "brief_summary": "RATIONALE: Effective screening tests should help doctors detect lung cancer early and plan curative treatment. It is not yet known whether low-dose helical computed tomography (LDCT) screening is more effective than chest radiography (CXR) screening in reducing death from lung cancer.\n\nPURPOSE: Randomized clinical trial to compare the effectiveness of LDCT scan with that of CXR in screening individuals who are at high risk for developing lung cancer.",
+  "detailed_description": "OBJECTIVES:\n\n* Compare whether screening with low-dose helical CT scan vs chest x-ray reduces lung cancer-specific mortality in participants who are at high risk for developing lung cancer.\n\nOUTLINE:\n\nNLST participants were randomized to either low-dose helical CT or chest x-ray in equal proportions. A total of 53,454 participants were enrolled (26,722 in low-dose CT and 26,732 in chest radiography) at 33 screening centers across the United States. Screening was offered three times (at baseline and two annual follow-up examinations). The primary endpoint of the study was lung cancer mortality. The study arms were compared with regard to overall mortality, lung cancer incidence, and screening-related complications.\n\nAll low-dose scanners and chest x-ray machines were certified for use and met NLST protocol requirements and American College of Radiology guidelines. Low-dose CT acquisitions and chest radiographs were interpreted by trained radiologists. Participants and their health care provider were informed of study examination results. Participants with abnormalities suspicious for lung cancer were contacted for information regarding diagnostic evaluation. Medical records were collected on diagnostic evaluation, medical complications, and initial treatment.\n\nParticipants were then contacted at least annually by mail or telephone.\n\nThe National Lung Screening Trial (NLST) represents the union of two NCI-sponsored efforts, the NCI Lung Screening Study and the American College of Radiology Imaging Network (ACRIN).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 53454,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "low-dose helical computed tomography",
+      "type": "DEVICE",
+      "description": "A LDCT is a computerized tomography image with low-dose technique without contrast. The scan is done from the neck to the diaphragm in one breath-hold."
+    },
+    {
+      "name": "chest radiography",
+      "type": "DEVICE",
+      "description": "The chest x-ray in this study was a single posterior-anterior film done with the participant upright."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age 55-74 years (pack-years = packs per day \\* years smoked)\n* 30 or more pack-years of cigarette smoking history\n* Former smokers: quit smoking within the previous 15 years\n* Ability to lie on the back with arms raised over the head\n* Signed informed consent form\n\nExclusion Criteria:\n\n* Metallic implants or devices in the chest or back, such as pacemakers or Harrington fixation rods\n* Treatment for, or evidence of, any cancer other than nonmelanoma skin cancer or carcinoma in situ (with the exception of transitional cell carcinoma in situ or bladder carcinoma in situ) in the 5 years prior to eligibility assessment\n* History of lung cancer\n* History of removal of any portion of the lung, excluding needle biopsy\n* Requirement for home oxygen supplementation\n* Participation in another cancer screening trial\n* Participation in a cancer prevention study, other than a smoking cessation study\n* Unexplained weight loss of more than 15 pounds in the 12 months prior to eligibility assessment\n* Recent hemoptysis\n* Pneumonia or acute respiratory infection treated with antibiotics in the 12 weeks prior to eligibility assessment\n* Chest CT examination in the 18 months prior to eligibility assessment",
+    "gender": "ALL",
+    "min_age": "55 Years",
+    "max_age": "74 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey at Hamilton",
+      "city": "Hamilton",
+      "state": "New Jersey",
+      "zip": "08690",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15236",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Lung Cancer Deaths",
+      "timeFrame": "All events through December 31, 2009; median follow-up 6.5 years.",
+      "description": "Lung cancer deaths confirmed in participants by Endpoint Verification if available, otherwise by death certificate."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [
+    "American College of Radiology Imaging Network"
+  ],
+  "start_date": "2002-08",
+  "completion_date": "2010-10",
+  "last_updated": "2014-05-02"
+}

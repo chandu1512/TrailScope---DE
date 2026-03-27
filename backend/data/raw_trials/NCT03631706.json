@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT03631706",
+  "brief_title": "M7824 Versus Pembrolizumab as a First-line (1L) Treatment in Participants With Programmed Death-ligand 1 (PD-L1) Expressing Advanced Non-small Cell Lung Cancer (NSCLC)",
+  "official_title": "An Adaptive Phase III, Multicenter, Randomized, Open-Label, Controlled Study of M7824 (Bintrafusp Alfa) Versus Pembrolizumab as a First-line Treatment in Patients With PD-L1 Expressing Advanced Non-small Cell Lung Cancer",
+  "brief_summary": "The purpose of the study is to evaluate the efficacy and safety of bintrafusp alfa (M7824) compared with pembrolizumab in participants with advanced NSCLC with high PD-L1-tumor expression, with no epidermal growth factor receptor (EGFR) mutation or anaplastic lymphoma kinase (ALK) translocation. The Phase III adaptive design allows for the option to recruit up to 584 patients based on pre-specified rules.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 304,
+  "conditions": [
+    "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "M7824",
+      "type": "DRUG",
+      "description": "Participants received intravenous infusion of M7824 at a dose of 1200 milligrams (mg) once every 2 weeks until confirmed progression of disease, death, unacceptable toxicity, or study withdrawal."
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Pembrolizumab: Participants received intravenous infusion of Pembrolizumab at a dose of 200 milligrams (mg) once every 3 weeks until confirmed progression of disease, death, unacceptable toxicity, or study withdrawal."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of advanced NSCLC\n* Have not received prior systemic therapy treatment for their advanced/Stage four NSCLC. Completion of treatment with cytotoxic chemotherapy, biological therapy, and/or radiation as part of neoadjuvant/adjuvant therapy is allowed as long as therapy was completed at least 6 months prior to the diagnosis of metastatic disease. Confirmation of resolution of toxic effects of previous neoadjuvant/adjuvant chemotherapy therapy to Grade less than or equal to 1. For radiation toxicity or prior major surgeries, participants should have recovered from side effects and/or complications\n* Have measurable disease based on RECIST 1.1\n* Have a life expectancy of at least 3 months\n* Availability of tumor tissue (less than 6 months old) before the first dose is mandatory to determine PD-L1 expression level prior to enrollment\n* PD-L1 high status as determined by central testing\n* Other protocol defined inclusion criteria could apply\n\nExclusion Criteria:\n\n* Participants with nonsquamous NSCLC histologies whose tumor harbors any of the following molecular alterations and targeted therapy is locally approved: epidermal growth factor receptor (EGFR) sensitizing (activating) mutation, anaplastic lymphoma kinase (ALK) translocation, ROS1 rearrangement, or BRAF V600E mutation\n* Has received major surgery within 4 weeks prior to the first dose of study intervention; received thoracic radiation therapy of greater than 30 units of gray (Gy) within 6 months prior to the first dose of study\n* Known severe hypersensitivity to investigational products (M7824 or pembrolizumab), or any components in their formulations\n* Previous malignant disease (other than the target malignancy to be investigated in this study) within the last 3 years\n* Other protocol defined exclusion criteria could apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Valley Hospital - Luckow Pavilion",
+      "city": "Paramus",
+      "state": "New Jersey",
+      "zip": "07652",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS) According to Response Evaluation Criteria in Solid Tumors (RECIST Version 1.1) Assessed by Independent Review Committee (IRC)",
+      "timeFrame": "Time from randomization of study drug until the first documentation of PD or death, assessed approximately up to 746 days",
+      "description": "Progression free survival was defined as the time from randomization of study intervention until the first documentation of disease progression (PD) or death due to any cause, whichever occurred first. PD: At least a 20 percent (%) increase in the sum of the longest diameter (SLD) taking as reference the smallest SLD recorded from baseline or the appearance of 1 or more new lesions."
+    },
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "Time from randomization of study drug assessed approximately up to 843 days",
+      "description": "Overall Survival was defined as the time from randomization of study intervention to the date of death due to any cause. The overall survival was analyzed by using the Kaplan-Meier method."
+    }
+  ],
+  "sponsor": "EMD Serono Research & Development Institute, Inc.",
+  "collaborators": [
+    "Merck KGaA, Darmstadt, Germany"
+  ],
+  "start_date": "2018-10-01",
+  "completion_date": "2024-06-25",
+  "last_updated": "2025-03-21"
+}

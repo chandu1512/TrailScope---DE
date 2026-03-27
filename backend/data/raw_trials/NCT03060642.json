@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT03060642",
+  "brief_title": "The Microenvironment in Barrett's Esophagus",
+  "official_title": "Application of the Microbiome and Microenvironment to Novel Non-Endoscopic Screening and Surveillance in Barrett's Esophagus",
+  "brief_summary": "This study aims to elucidate the relationship between the microbiome, inflammation, and the microenvironment in Barrett's esophagus (BE) and esophageal adenocarcinoma (EAC), with the end goal of developing a non-endoscopic testing strategy based on pathogenic factors to identify patients at highest risk for EAC. To accomplish this the investigators will enroll 100 patients with known BE (50 with dysplasia or EAC) and 50 subjects without BE undergoing upper endoscopy. Prior to endoscopy each subject will undergo three minimally invasive potential screening and surveillance tests: saliva (oral microbiome), breath test (exhaled volatile organic compounds), and tethered capsule sponge sampling (methylated DNA markers). The study will evaluate these novel tests in combination with clinical and anthropometric factors to describe an optimal strategy for BE screening and monitoring.",
+  "detailed_description": "The investigators will perform a multi-center cross-sectional study of patients with Barrett's esophagus, with and without associated dysplasia or cancer, and controls without BE. Enrollment of controls will be stratified based on use of proton pump inhibitors (PPIs). The investigators plan to enroll an approximate total of 150 subjects:\n\n100 BE patients (with or without associated dysplasia or cancer)\n\n* 50 subjects with non-dysplastic BE\n* 50 subjects with BE and dysplasia or EAC\n\n  50 controls\n* 25 controls on PPIs (at least once daily)\n* 25 controls not taking PPIs\n\nVarious tests will be performed and samples collected on the day of endoscopy. These tests include: saliva samples, electronic nose device testing, tethered capsule sponge testing, dietary questionnaires, and collection of blood and gastrointestinal biosamples. Analyses of this data and samples will then be performed to address the specific aims above.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 155,
+  "conditions": [
+    "Barrett Esophagus",
+    "Esophageal Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Tethered capsule sponge",
+      "type": "DEVICE",
+      "description": "Subjects swallow a tethered capsule sponge sampling device, which is then withdrawn through the mouth after an interval of 5 minutes."
+    },
+    {
+      "name": "Electronic nose device",
+      "type": "DEVICE",
+      "description": "Subjects breathe into the device, which then records an exhaled volatile organic compounds (VOC) signature."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n(for BE patients)\n\n* History of histologically confirmed BE, defined as endoscopically-suspected BE with intestinal metaplasia with goblet cells on esophageal biopsies\n* BE length M\u22652\n* Taking proton pump inhibitors at least once daily for 3 months prior to enrollment\n* Age \u226518\n\nExclusion Criteria:\n\n* History of gastric cancer or esophageal squamous cell cancer\n* History of gastric or esophageal surgery\n* Use of antibiotics or systemic immunosuppressants within three months prior to the date of endoscopy (intranasal and inhaled steroids are allowed)\n* Known untreated esophageal stricture or uninvestigated dysphagia\n* Inability to give informed consent\n* (BE patients only) History of prior endoscopic therapy for BE except a history of prior endoscopic mucosal resection (EMR) of focal lesions without subsequent ablative therapy is permitted",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Oral and esophageal 16S rRNA gene sequencing",
+      "timeFrame": "1 day",
+      "description": "Oral and esophageal microbiome"
+    }
+  ],
+  "sponsor": "Columbia University",
+  "collaborators": [
+    "Mayo Clinic",
+    "University of Pennsylvania"
+  ],
+  "start_date": "2018-02-01",
+  "completion_date": "2022-11-30",
+  "last_updated": "2024-04-04"
+}

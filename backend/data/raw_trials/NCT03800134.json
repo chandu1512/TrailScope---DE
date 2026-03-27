@@ -1,0 +1,112 @@
+{
+  "nct_id": "NCT03800134",
+  "brief_title": "A Study of Neoadjuvant/Adjuvant Durvalumab for the Treatment of Patients With Resectable Non-small Cell Lung Cancer",
+  "official_title": "A Phase III, Double-blind, Placebo-controlled, Multi-center International Study of Neoadjuvant/Adjuvant Durvalumab for the Treatment of Patients With Resectable Stages II and III Non-small Cell Lung Cancer (AEGEAN)",
+  "brief_summary": "This is a Phase III, randomized, double-blind, placebo-controlled, multi-center international study assessing the activity of durvalumab and chemotherapy administered prior to surgery compared with placebo and chemotherapy administered prior to surgery in terms of pathological complete response.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 825,
+  "conditions": [
+    "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Durvalumab",
+      "type": "DRUG",
+      "description": "1500mg on Day 1 of each 3-week cycle for 4 cycles during the neoadjuvant period and 1500mg on Day 1 of each 4-week cycle for 12 cycles during the adjuvant period"
+    },
+    {
+      "name": "Placebo",
+      "type": "OTHER",
+      "description": "Day 1 of each 3-week cycle for 4 cycles during the neoadjuvant period and Day 1 of each 4-week cycle for 12 cycles during the adjuvant period"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Area under the curve of 5/6 on Day 1 of each 3-week cycle for 4 cycles"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "75 mg/m2 on Day 1 of each 3-week cycle, for 4 cycles"
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": "500 mg/m2 on Day 1 of each 3-week cycle for 4 cycles."
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "200mg/m2 on Day 1 of each 3-week cycle for 4 cycles."
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "1250 mg/m2 on Day 1 and Day 8 of each 3-week cycle, for 4 cycles."
+    },
+    {
+      "name": "Surgery",
+      "type": "PROCEDURE",
+      "description": "Expected within 40 days from the last dose of Investigational Product following the completion of neoadjuvant treatment."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age \u226518 years\n* Newly diagnosed and previously untreated patients with histologically or cytologically documented NSCLC with resectable (Stage IIA to select \\[ie, N2\\] Stage IIIB) disease\n* World Health Organization (WHO)/ECOG PS of 0 or 1 at enrollment\n* At least 1 lesion, not previously irradiated, that qualifies as a RECIST 1.1 Target Lesion (TL) at baseline\n* No prior exposure to immune-mediated therapy including, but not limited to, other anti-CTLA-4, anti-PD-1, anti-PD-L1, and anti-PD-L2 antibodies, excluding therapeutic anticancer vaccines\n* Adequate organ and marrow function\n* Confirmation of a patient's tumour PD-L1 status\n* Provision of sufficient tumour biopsy sample for evaluation and confirmation of EGFR and ALK status\n* Planned surgery must comprise lobectomy, sleeve resection, or bilobectomy\n\nExclusion Criteria:\n\n* History of allogeneic organ transplantation\n* Active or prior documented autoimmune or inflammatory disorders (including inflammatory bowel disease, diverticulitis, systemic lupus erythematosus, Sarcoidosis syndrome, or Wegener syndrome)\n* History of another primary malignancy\n* History of active primary immunodeficiency\n* Active infection including tuberculosis hepatitis B and C, or human immunodeficiency virus\n* Deemed unresectable NSCLC by multidisciplinary evaluation\n* Patients who have pre-operative radiotherapy treatment as part of their care plan\n* Patients who have brain metastases or spinal cord compression\n* Stage IIIB N3 and Stages IIIC, IVA, and IVB NSCLC\n* Known allergy or hypersensitivity to any of the study drugs or excipients\n* Existence of more than one primary tumour such as mixed small cell and NSCLC histology\n* Patients whose planned surgery at enrollment includes any of the following procedures: pneumonectomy, segmentectomies, or wedge resections\n* Patients with a documented test result confirming the presence of EGFRm or ALK translocation",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20910",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Towson",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07962",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Pathological Complete Response (pCR) in modified intent-to-treat (mITT) population",
+      "timeFrame": "Up to approximately 15 weeks after randomization",
+      "description": "Defined as the lack of any viable tumour cells after complete evaluation in the resected lung cancer specimen and all sampled regional lymph nodes."
+    },
+    {
+      "measure": "Event-Free Survival (EFS) in modified intent to treat (mITT) population",
+      "timeFrame": "Up to 5.5 years after first patient randomized.",
+      "description": "An event is defined as documented RECIST 1.1 local or distant recurrence of lung cancer; death due to any cause; disease progression that precludes surgery or discovered upon attempting surgery that prevents completion of surgery."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2018-12-06",
+  "completion_date": "2028-09-11",
+  "last_updated": "2025-06-10"
+}

@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT04640792",
+  "brief_title": "A Study to Evaluate the Safety and Efficacy of the Use of ME-APDS During Colonoscopy",
+  "official_title": "A Randomized Two Arm Multi-Center Study to Evaluate the Safety and Efficacy of the Use of Magentiq Eye's Automatic Polyp Detection System (ME-APDS) During Colonoscopy",
+  "brief_summary": "ME-APDS is a device (software-based with hardware) developed by Magentiq Eye LTD and intended to support the decision of the endoscopist on polyps which appear in the colonoscopy video during the colonoscopy procedure.\n\nThis randomized two arm colonoscopy trial will mainly compare APC and APE between Magentiq Eye Assisted Colonoscopy (MEAC) and Conventional Colonoscopy (CC) in patients referred for either screening or surveillance colonoscopies.",
+  "detailed_description": "The primary objective of the present study is to compare the number of Adenomas Per Colonoscopy (APC) and the Adenomas Per Extraction (APE) between the Magentiq Eye-Assisted Colonoscopy (MEAC) and Conventional Colonoscopy (CC). These are also the co-primary endpoints.\n\nThe secondary endpoints are Adenoma Miss Rate (AMR, tested on part of the total study population) and Adenoma Detection Rate (ADR).\n\nThis study mainly hypothesizes that more adenomas will be detected in MEAC compared to CC (higher APC in MEAC compared to CC), and that the reduction of APE in MEAC compared to CC (if there will be a reduction) will be limited.\n\nThe study also assumes that AMR will be reduced in MEAC compared to CC and that ADR will increase to some level in MEAC compared to CC.\n\nThe study will include 952 subjects . Eligible patients will be randomized in a 1:1 ratio into two groups, group A and B. In group A, patients will be examined with CC. Patients in group B will be examined using MEAC. Immediately after the randomization, a sub-randomization will be performed on whether an immediate second examination (for AMR calculation) will be conducted or not (136 patients will undergo second examination).\n\nThe colonoscopy will be performed in accordance with the standard of care of each medical center in either MEAC or CC.\n\nAfter the colonoscopy procedure patients will be observed at the endoscopy unit until the discharge criteria are met as per the standard clinical protocol of the medical center. After here, they will be discharged by the treating physician.\n\nStudy follow-up period will be up to 30-days post-colonoscopy to register (serious) adverse events and it will be in accordance with the standard of care of medical center.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 952,
+  "conditions": [
+    "Screening Colonoscopy",
+    "Surveillance Colonoscopy"
+  ],
+  "interventions": [
+    {
+      "name": "Screening or Surveillance Conventionall colonoscopy",
+      "type": "PROCEDURE",
+      "description": "Patients in Group A (CC) will undergo Screening or Surveillance Conventual Colonoscopy, Patients in Group B (MEAC) will undergo Screening or Surveillance Colonoscopy with ME-ADPS Device"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Able to provide written informed consent prior to any study procedures;\n2. Able to communicate clearly with the Investigators and study staff;\n3. Males and females aged between 18 - 90 years of age;\n4. Referred and scheduled for either screening colonoscopy or surveillance colonoscopy if the last colonoscopy was performed 3 years or more before the scheduled colonoscopy;\n5. Has not been referred to the test after positive iFOBT.\n\nExclusion Criteria:\n\n1. Has a known or suspected colorectal tumor or polyp on referral;\n2. Has a referral for therapeutic procedure (i.e. endoscopic mucosal resection, intervention to stop a lower gastro-intestinal bleeding, etc.);\n3. Has not corrected anticoagulation disorders;\n4. Inability to provide informed consent;\n5. Has any clinically significant condition that would, in the opinion of the investigator, preclude study participation;\n6. Unable or unwilling, in the opinion of the Investigator to comply with the requirements of the protocol;\n7. Employees of the investigator and study site or the sponsor, as well as family members of the employees or the investigator or the sponsor;\n8. Has inadequate bowel preparation, defined as: Boston Bowel Preparation Score (BBPS) \\<6 or any segment \\<2 (each procedure report will include the BBPS);\n9. Any woman who is pregnant or potentially pregnant.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "90 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21202",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Comparison of the Adenoma Per Colonoscopy (APC) between the two arms",
+      "timeFrame": "During the Colonoscopy Procedure",
+      "description": "Compare the APC of the Magentiq Eye Assisted Colonoscopy (MEAC) with the Conventional Colonoscopy (CC)"
+    },
+    {
+      "measure": "Comparison of the Adenoma Per Extraction (APE) between the two arms",
+      "timeFrame": "During the Colonoscopy Procedure",
+      "description": "Compare the APE of the MEAC with the CC"
+    }
+  ],
+  "sponsor": "Magentiq Eye LTD",
+  "collaborators": [],
+  "start_date": "2020-10-01",
+  "completion_date": "2022-02-10",
+  "last_updated": "2022-05-04"
+}

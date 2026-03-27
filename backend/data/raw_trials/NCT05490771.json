@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT05490771",
+  "brief_title": "Testing Copanlisib as a Potential Targeted Treatment in Cancers With PIK3CA Mutations (MATCH-Subprotocol Z1F)",
+  "official_title": "MATCH Treatment Subprotocol Z1F: Phase II Study of Copanlisib in Patients With Tumors With PIK3CA Mutations (PTEN Loss Allowed)",
+  "brief_summary": "This phase II MATCH treatment trial identifies the effects of copanlisib hydrochloride (copanlisib) in patients whose cancer has a genetic change called PIK3CA mutation. Copanlisib may stop the growth of cancer cells by blocking PIK3, a protein needed for cell growth. Researchers hope to learn if copanlisib will shrink this type of cancer or stop its growth.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate the proportion of patients with objective response (OR) to targeted study agent(s) in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the proportion of patients alive and progression free at 6 months of treatment with targeted study agent in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nII. To evaluate time until death or disease progression. III. To identify potential predictive biomarkers beyond the genomic alteration by which treatment is assigned or resistance mechanisms using additional genomic, ribonucleic acid (RNA), protein and imaging-based assessment platforms.\n\nIV. To assess whether radiomic phenotypes obtained from pre-treatment imaging and changes from pre- through post-therapy imaging can predict objective response and progression free survival and to evaluate the association between pre-treatment radiomic phenotypes and targeted gene mutation patterns of tumor biopsy specimens.\n\nOUTLINE:\n\nPatients receive copanlisib intravenously (IV) over 1 hour on days 1, 8, and 15 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo tumor biopsies at screening and end of treatment and computed tomography (CT) or magnetic resonance imaging (MRI) at baseline, every 2 cycles for the first 26 cycles, and then every 3 cycles thereafter until progressive disease or start of another MATCH treatment step.\n\nAfter completion of study treatment, patients are followed up every 3 months if less than 2 years from study entry, and then every 6 months for year 3 from study entry.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 35,
+  "conditions": [
+    "Advanced Lymphoma",
+    "Advanced Malignant Solid Neoplasm",
+    "Hematopoietic and Lymphatic System Neoplasm",
+    "Refractory Lymphoma",
+    "Refractory Malignant Solid Neoplasm",
+    "Refractory Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Biopsy Procedure",
+      "type": "PROCEDURE",
+      "description": "Undergo tumor biopsy"
+    },
+    {
+      "name": "Computed Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo CT"
+    },
+    {
+      "name": "Copanlisib Hydrochloride",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Magnetic Resonance Imaging",
+      "type": "PROCEDURE",
+      "description": "Undergo MRI"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have met applicable eligibility criteria in the Master MATCH Protocol prior to registration to treatment subprotocol\n* Patients must have PIK3CA mutation as determined via the MATCH Master Protocol\n* Patients must have an electrocardiogram (ECG) within 8 weeks prior to treatment assignment and must have no clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g. complete left bundle branch block, third degree heart block)\n* Patients should stop using herbal medications at least 7 days prior to the first dose of copanlisib. Herbal medications include, but are not limited to: St. John's Wort, Kava, ephedra, gingko biloba, dehydroepiandrosterone (DHEA), yohimbe, saw palmetto, black cohosh and ginseng\n* Patients with type I or II diabetes mellitus must have glycosylated hemoglobin A1c (HbA1c) =\\< 8.5% within 28 days from registration\n* Absolute neutrophil count (ANC) \\>= 1.5 x 10\\^9 /L\n* Platelets \\>= 100x10\\^9/L\n* Hemoglobin (Hb) \\> 9 g/dl\n* Total serum bilirubin \\< 2.0 mg/dL\n* Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) \\< 2.5 x upper limit of normal (ULN) (\\< 5 x ULN in patients with liver metastases)\n* Serum creatinine \\< 1.5 x ULN\n* Men and women of child-bearing potential must agree to use contraception while receiving study treatment and for 1 month after the last dose of copanlisib\n\nExclusion Criteria:\n\n* Patients must not have known hypersensitivity to copanlisib or compounds of similar chemical or biologic composition\n* Patients must not have had prior therapy with copanlisib or other PI3K inhibitors, AKT inhibitors or mTOR inhibitors\n* Patients must not have activating KRAS mutations\n* Patients must not have HER2 positive (3+ by immunohistochemistry \\[IHC\\] or fluorescence in situ hybridization \\[FISH\\] ratio \\>= 2) breast cancer\n* Patients must not have indolent non-Hodgkin lymphoma (NHL) (follicular lymphoma, small lymphocytic lymphoma \\[SLL\\]/chronic lymphocytic leukemia \\[CLL\\], lymphoplasmacytic lymphoma \\[LPL\\], marginal zone lymphoma) or DLBCL (diffuse large B cell lymphoma)\n* Patients must not be on strong inhibitors or inducers of CYP3A4 within two weeks prior to start of study treatment and for the duration of study treatment\n* Patients must not be on anti-arrhythmic therapy other than digoxin or beta-blockers\n* Patients with non-healing wound, ulcer, or bone fracture are not eligible\n* Patients with history of or current interstitial pneumonitis are not eligible\n\n  * NOTE: For solid tumors, cytomegalovirus (CMV) polymerase chain reaction (PCR) can be obtained at the discretion of treating physician or local institutional guidelines",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "ECOG-ACRIN Cancer Research Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response Rate (ORR)",
+      "timeFrame": "Tumor assessments occurred at baseline, then every 2 cycles for the first 26 cycles and every 3 cycles thereafter until disease progression, up to 30 months post registration",
+      "description": "ORR is defined as the percentage of patients whose tumors have a complete or partial response to treatment among analyzable (ie, eligible, treated and PIK3CA mutation status confirmed) patients. Objective response is defined consistent with Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. Details about how to define complete response and partial response can be found in the master protocol. 90% two-sided binomial exact confidence interval is calculated for ORR."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2018-06-20",
+  "completion_date": "2027-01-15",
+  "last_updated": "2026-03-24"
+}

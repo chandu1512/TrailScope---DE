@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT02130557",
+  "brief_title": "A Multicenter Phase 3, Open-Label Study of Bosutinib Versus Imatinib in Adult Patients With Newly Diagnosed Chronic Phase Chronic Myelogenous Leukemia",
+  "official_title": "A MULTICENTER PHASE 3 RANDOMIZED, OPEN-LABEL STUDY OF BOSUTINIB VERSUS IMATINIB IN ADULT PATIENTS WITH NEWLY DIAGNOSED CHRONIC PHASE CHRONIC MYELOGENOUS LEUKEMIA",
+  "brief_summary": "Phase 3, 2-arm, randomized, open label trial. Patients will be randomized to receive bosutinib or imatinib for the duration of the study.",
+  "detailed_description": "The study will be open for enrollment until the planned number of approximately 500 Philadelphia Chromosome Positive (Ph+) patients have been randomized (approximately 250 Ph+ patients in each treatment arm; a total of approximately 530 Ph+ and Ph- patients). All patients will be treated and/or followed for approximately 5 years (240 weeks) after randomization until the study has closed. Patients who discontinue study therapy early due to disease progression or intolerance to study medication will continue to be followed yearly for survival for up to approximately 5 years (240 weeks) after randomization.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 536,
+  "conditions": [
+    "Leukemia, Myelogenous, Chronic, Breakpoint Cluster Region-Abelson Proto-oncogene (BCR-ABL) Positive"
+  ],
+  "interventions": [
+    {
+      "name": "Bosutinib",
+      "type": "DRUG",
+      "description": "Bosutinib (Bosulif\u00ae) is an orally bioavailable, potent, multi-targeted, dual Src-Abl tyrosine kinase inhibitor (TKI) that has been approved for the treatment of adult patients with Philadelphia positive (Ph+) chronic phase (CP), accelerated phase (AP) and blast phase (BP) chronic myelogenous leukemia (CML) previously treated with other TKI inhibitor therapy.\\[1\\] This study will investigate the use of bosutinib as first-line treatment for patients with Ph+ CP CML."
+    },
+    {
+      "name": "Imatinib",
+      "type": "DRUG",
+      "description": "Imatinib mesylate (referred to in this protocol as imatinib) is an inhibitor of the BCR-ABL kinase and been the standard first-line therapy for patients with chronic-phase CML. Imatinib was granted approval by the European Commission in November 2001 and by the FDA in December 2002 for the treatment of newly diagnosed patients with CP Ph+ CML based on results from the IRIS trial.\n\nImatinib is considered the standard of care for both first-line and later line settings, and consequently is an appropriate active comparator."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Molecular diagnosis of CP CML of \u2264 6 months (from initial diagnosis).\n2. Adequate hepatic, renal and pancreatic function.\n3. Age \u2265 18 years.\n\nExclusion Criteria:\n\n1. Any prior medical treatment for CML, including tyrosine kinase inhibitors (TKIs), with the exception of hydroxyurea and/or anagrelide treatment, which are permitted for up to 6 months prior to study entry (signature of ICF) if suitably approved for use in the subject's region.\n2. Any past or current Central Nervous System (CNS) involvement, including leptomeningeal leukemia.\n3. Extramedullary disease only.\n4. Major surgery or radiotherapy within 14 days of randomization.\n5. History of clinically significant or uncontrolled cardiac disease.\n6. Known seropositivity to human immunodeficiency virus (HIV), current acute or chronic hepatitis B (hepatitis B surface-antigen positive), hepatitis C, cirrhosis or evidence of decompensated liver disease. Patients with resolved Hepatitis B can be included.\n7. Recent or ongoing clinically significant GI disorder, e.g. Crohn's Disease, Ulcerative Colitis, or prior total or partial gastrectomy.\n8. History of another malignancy within 5 years with the exception of basal cell carcinoma or cervical carcinoma in situ or stage 1 or 2 cancer that is considered adequately treated and currently in complete remission for at least l2 months.\n9. Current, or recent (within 30 days, or 5 half-lives of investigational product) participation in other clinical trials of investigational agents and/or containing interventional procedures deemed contrary to the objectives and conduct of this trial.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rcca Md Llc",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "John Theurer Cancer Center at Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Major Molecular Response (MMR) at Month 12",
+      "timeFrame": "Month 12",
+      "description": "MMR was defined as a ratio of breakpoint cluster region to abelson (BCR-ABL/ABL) less than or equal to (\\<=) 0.1 percent (%) on the international scale (IS) (greater than or equal to \\[\\>=\\] 3 log reduction from standardized baseline in ratio of BCR-ABL to ABL transcripts \\[\\>=3000 ABL required\\]) by quantitative reverse transcriptase polymerase chain reaction (RT-qPCR). The percentage of participants with MMR at Month 12 are reported."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2014-07-15",
+  "completion_date": "2020-04-17",
+  "last_updated": "2021-04-16"
+}

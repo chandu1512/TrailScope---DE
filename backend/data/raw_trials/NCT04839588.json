@@ -1,0 +1,60 @@
+{
+  "nct_id": "NCT04839588",
+  "brief_title": "Telerehabilitation Cognitive Impairments Following Chemotherapy Usability Study",
+  "official_title": "Home-based Virtual Reality System for the Treatment of Chemotherapy-related Cognitive Impairments",
+  "brief_summary": "Develop a game-based upper-extremity motor and cognitive rehabilitation system using custom and adaptable virtual reality simulations.\n\nPerform usability study on 2 elderly healthy volunteers and 2 breast cancer survivors with lasting cognitive impairments following chemotherapy, so to improve the product design. The usability evaluation will be done at NJ Bioscience Center (North Brunswick, NJ).",
+  "detailed_description": "The study will generate data on ease of use of a system for subjects with stage II or stage III breast cancer survivors with lasting cognitive impairments subsequent to their first chemotherapy regimen. The usability component will uncover technical issues in its usability, as well as its rating on perceived usefulness. Data will also be collected on the ease of remote monitoring of the subjects by clinicians.\n\nThis portion of the study is intended to provide information pertaining to the usability of the experimental system for remote integrative (cognitive and motor) therapy of breast cancer survivors (Stage II or III) with lasting chemotherapy related cognitive impairment (CRCI) subsequent to first chemotherapy regimen, living in the community.\n\nSpecific aims are:\n\n1. testing of a added biosensors, new technology acceptance and ease of use at home by these individuals;\n2. a caregiver console and enhanced automatic session report that will allow remote monitoring of patient exercising and offline data processing and review.\n\nParticipants will each perform 4 usability evaluation sessions. At the end of each session participants will fill a custom evaluation form, using 5-point Likert scale scoring. At the end of the last session participants will also fill a USE standardized usability evaluation form.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 4,
+  "conditions": [
+    "Chemotherapy-Related Cognitive Impairment",
+    "Healthy"
+  ],
+  "interventions": [
+    {
+      "name": "Usability study",
+      "type": "OTHER",
+      "description": "Participants will first be screened for propensity to simulation sickness and for cognitive state using the MoCA evaluation test. Those who passed the screening will perform 4 usability sessions rating the ease of use and perceived benefit of the experimental system and of a caregiver interface laptop. The 2 healthy volunteers will evaluate first, such that issues may be resolved before testing is done on the impaired participants. Each session will be compensated with a $35 payment. During each session participants will play a series of increasing difficulty simulated tasks, aimed to train primarily the executive functions domain. At the end of each session participants will rate their experience using custom subjective evaluation forms with multiple items. Each item will be scored using a 5-point Likert scale. At the end of the 4th session, participants will also fill the USE standardized usability form.\n\nThis usability evaluation will be conducted at the NJ Bioscience Center."
+    }
+  ],
+  "eligibility": {
+    "criteria": "At NJ Bioscience Center Healthy Volunteers\n\n* Female\n* Age 20 to 65;\n* Good or corrected hearing;\n* Good or corrected vision;\n* No motor or cognitive impairments;\n* English speakers;\n* Those with low propensity for simulation sickness (as determined by the Simulation Sickness Questionnaire \\[Kennedy et al, 1993\\]).\n* Either healthy or having had stage II or stage III breast cancer;\n* Montreal Cognitive Assessment (MoCA) Score 10-25 indicating mild to moderate impairment \\[Chapman 2016\\] or 26-30 indicating normal cognition;\n\nEXCLUSION CRITERIA\n\n* Male;\n* Female participants younger than 20 or older than 65;\n* High propensity for simulation sickness (as determined by Simulation Sickness Questionnaire screening);\n* Those with severe visual neglect or legally blind;\n* Those with severe hearing loss or deafness;\n* Those with uncontrolled hypertension (\\>190/100 mmHg);\n* Those with severe cognitive impairment (MoCA score\\<10);\n* Current diagnosis of moderate-severe depression (Beck Depression Inventory II score of 17-63);\n* a history of psychiatric illness, defined as serious psychiatric illness such as bipolar mood disorder and schizophrenia, or requiring psychiatric hospitalization.\n* a history of or current substance abuse;\n* a previous head injury resulting in loss of consciousness;\n* a prior diagnosis of neurological illness;\n* a current or prior diagnosis of brain cancer;\n* non-English speakers;\n* Those unable to reliable participate in pre-study assessment due to any reason;\n* Those with co-morbidities limiting arm and neck motor function (ex. lymphedema, chronic pain, severe arthritis);\n* Less than 1 month post first chemotherapy regimen or starting chemotherapy during 16 weeks post screening (as chemotherapy during study participation is a confounding factor);\n* Those with Stage IV (metastatic) breast cancer will be excluded;\n* Those presenting with multiple cancers, such as breast and arm bone cancer, or breast and brain cancer;\n* Those who are unwilling to allow a home inspection to ascertain Internet quality, determine best placement for the experimental or sham systems, for installation and removal of the systems and necessary repairs.",
+    "gender": "FEMALE",
+    "min_age": "20 Years",
+    "max_age": "65 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Bright Cloud Int'l Corp",
+      "city": "North Brunswick",
+      "state": "New Jersey",
+      "zip": "08902",
+      "status": ""
+    },
+    {
+      "facility": "New Jersey Bioscience Center",
+      "city": "North Brunswick",
+      "state": "New Jersey",
+      "zip": "08902",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "USE questionnaire to assess the usability of a computerized system",
+      "timeFrame": "At the end of the 4th evaluation session (about 1 month from enrollment)",
+      "description": "A standardized questionnaire to assess the usefulness, satisfaction and ease of use of the experimental system \\[Lund, 2001\\] when evaluated by study participants. The form consists of 30 questions, each rated on a 7-point Likert scale (1 worst 7 best). The score range for this form is 30 (min) to 210 (max).\n\nParticipants will also be able to comment in free form on aspects they liked most and least about the device."
+    }
+  ],
+  "sponsor": "Bright Cloud International Corp",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Rutgers, The State University of New Jersey"
+  ],
+  "start_date": "2021-06-07",
+  "completion_date": "2021-12-31",
+  "last_updated": "2022-04-27"
+}

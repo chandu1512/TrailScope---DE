@@ -1,0 +1,96 @@
+{
+  "nct_id": "NCT03819465",
+  "brief_title": "A Study of Novel Anti-cancer Agents in Patients With Previously Untreated NSCLC",
+  "official_title": "A Phase IB, Open-Label, Multi-Center Study to Determine the Efficacy and Safety of Durvalumab and/or Novel Oncology Therapies, With or Without Chemotherapy, for First-Line Stage IV Non-Small Cell Lung Cancer (NSCLC) (MAGELLAN)",
+  "brief_summary": "This study is designed to determine the efficacy and safety of durvalumab and/or novel oncology therapies, with or without chemotherapy, for first-line Stage IV Non-Small Cell Lung Cancer (NSCLC)",
+  "detailed_description": "This is a Phase IB, Open-Label, Multi-Center Study to Determine the Efficacy and Safety of Durvalumab and/or Novel Oncology Therapies, With or Without Chemotherapy, for First-Line Stage IV Non-Small Cell Lung Cancer (NSCLC).",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 175,
+  "conditions": [
+    "Metastatic Non-Small Cell Lung Cancer (NSCLC)"
+  ],
+  "interventions": [
+    {
+      "name": "Durvalumab",
+      "type": "DRUG",
+      "description": "Durvalumab IV Cohort A: Every 4 weeks (q4w) Cohort B: Every 3 weeks (q3w) for the first 4 cycles, then every 4 weeks (q4w) starting at Cycle 5 Day 1"
+    },
+    {
+      "name": "Danvatirsen",
+      "type": "DRUG",
+      "description": "Danvatirsen IV Loading dose Cycle 1 Day 1, Cycle 1 Day 3, and Cycle 1 Day 5 then once a week (q1w) starting at Cycle 1 Day 8"
+    },
+    {
+      "name": "Oleclumab",
+      "type": "DRUG",
+      "description": "Oleclumab IV Cohort A: Every 2 weeks (q2w) for first 2 cycles, then every 4 weeks (q4w) starting at Cycle 3 Day 1 Cohort B: Every 3 weeks (q3w) for the first 4 cycles, then every 4 weeks (q4w) starting at Cycle 5 Day 1"
+    },
+    {
+      "name": "MEDI5752",
+      "type": "DRUG",
+      "description": "MEDI5752 IV Every 3 weeks (q3w)"
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": "Pemetrexed IV Day 1 of each 21-day cycle Arm B1: Day 1 of each 21-day cycle for the first 4 cycles then either every 3 weeks (q3w) or every 4 weeks (q4w) (per investigator discretion) thereafter Arm B2 and B3: Day 1 of each 21-day cycle for the first 4 cycles then Day 1 of each 28-day cycle (q4w) thereafter Arm B5: Day 1 of each 21-day cycle throughout the study"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Carboplatin IV Day 1 of each 21-day cycle"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Gemcitabine IV Days 1 and 8 of each 21-day cycle"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Cisplatin IV Day 1 of each 21-day cycle"
+    },
+    {
+      "name": "Nab-paclitaxel",
+      "type": "DRUG",
+      "description": "Nab-paclitaxel IV Days 1, 8, and 15 of each 21-day cycle"
+    },
+    {
+      "name": "AZD2936",
+      "type": "DRUG",
+      "description": "AZD2936 IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically documented Stage IV NSCLC not amenable to curative surgery or radiation\n* No prior chemotherapy or any other systemic therapy for metastatic NSCLC\n* Prior platinum-containing adjuvant, neoadjuvant, or definitive chemoradiation for advanced disease are eligible, if progression has occurred \\>12 months from end of last therapy\n* Known tumor PD-L1 status\n* Tumors that lack activating EGFR mutations and ALK fusions or documented local test result for any other known genomic alteration for which a targeted therapy is approved in first line per local standard of care\n* WHO/ECOG status at 0 or 1 at enrollment\n* Life expectancy of at least 12 weeks\n* Troponin I or T \u2264 ULN (per institutional guidelines)\n\nExclusion Criteria:\n\n* Active or prior documented autoimmune or inflammatory disorders\n* History of active primary immunodeficiency\n* Any prior chemotherapy or any other systemic therapy for metastatic NSCLC\n* Untreated CNS metastases",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Assessment of AEs by CTCAE v5.0",
+      "timeFrame": "From informed consent until the safety follow-up visit 3 months after the last dose of study drug, or until the final data cut-off (DCO) date, whichever is earlier.",
+      "description": "Assessment of safety and tolerability of each treatment arm"
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2018-12-27",
+  "completion_date": "2026-03-26",
+  "last_updated": "2026-02-09"
+}

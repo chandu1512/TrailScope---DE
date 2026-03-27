@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT01896856",
+  "brief_title": "Phase I/II Study of SGI-110 With Irinotecan Versus Regorafenib or TAS-102 in Metastatic Colorectal Cancer",
+  "official_title": "A Phase I Study of SGI-110 Combined With Irinotecan Followed by a Randomized Phase II Study of SGI-110 Combined With Irinotecan Versus Regorafenib or TAS-102 in Previously Treated Metastatic Colorectal Cancer Patients",
+  "brief_summary": "This is a phase I/II study of the combination of Guadecitabine (SGI-110) and previously treated metastatic colorectal cancer patients. This study will be conducted in two components. First, patients will be enrolled in a phase I study of SGI-110 combined with irinotecan in a standard 3+3 design. After the maximum tolerated dose (MTD) is determined, patients will subsequently be enrolled in a 2:1 randomized phase II study of SGI-110 and irinotecan versus the standard of care regorafenib or Lonsurf (TAS-102).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 118,
+  "conditions": [
+    "Previously Treated Metastatic Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "SGI-110 Dose Escalation",
+      "type": "DRUG",
+      "description": "* Dose level 1 (DL1): 45 mg/m\\^2 administered as a subcutaneous injection\n* Dose level 1G (DL1G): 45 mg/m\\^2 administered as a subcutaneous injection + growth factor support\n* Dose level -1 (DL-1): 30 mg/m\\^2 administered as a subcutaneous injection\n* Dose level -1G (DL-1G): 30 mg/m\\^2 administered as a subcutaneous injection + growth factor support"
+    },
+    {
+      "name": "Regorafenib",
+      "type": "DRUG",
+      "description": "160 mg taken orally"
+    },
+    {
+      "name": "TAS-102",
+      "type": "DRUG",
+      "description": "35 mg/m\\^2 taken orally"
+    },
+    {
+      "name": "SGI-110",
+      "type": "DRUG",
+      "description": "45 mg/m\\^2 administered as a subcutaneous injection"
+    },
+    {
+      "name": "Irinotecan",
+      "type": "DRUG",
+      "description": "125 mg/m\\^2 administered IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the colon or rectum\n* Phase I only: patients with biopsiable disease amenable to having two research biopsies.\n* Have measurable disease\n* Phase II only: progressed while receiving irinotecan therapy in the metastatic setting. There are no limitations on number of prior therapies in the metastatic setting.\n* Life expectancy of greater than 12 weeks.\n* Eastern Cooperative Oncology Group (ECOG) performance status \\<1\n* Normal organ and marrow function as defined by study-specified laboratory tests\n* Must use adequate contraception through the study and for 3 months after last dose of study drug.\n\nExclusion Criteria:\n\n* Chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) of first dose of study drug or who have not recovered from treatment-related adverse events\n* Receiving any other investigational agents\n* Participants with known brain metastases\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to irinotecan, decitabine or SGI-110.\n* Received prior therapy with any hypomethylating agents.\n* Uncontrolled intercurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Pregnant or nursing women\n* History of a different malignancy are ineligible with exceptions (disease-free for at least 5 years with low risk for recurrence, cervical cancer in situ, definitively treated early stage prostate cancer, definitively treated breast ductal or lobular carcinoma in situ, and basal cell or squamous cell carcinoma of the skin).\n* HIV-positive individuals on combination antiretroviral therapy\n* Phase II only: previous treatment with regorafenib and TAS-102. If patients have previously received either regorafenib OR TAS-102, they must be able to receive the alternate regimen if randomized to standard of care (Arm B).\n* Hospitalization for an acute medical issue within 4 weeks prior to screening visit\n* Symptomatic bowel obstruction within 6 months prior to enrollment, Patients who undergo surgical correction of obstructing lesion will be eligible within 6 months.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants Experiencing a Dose Limiting Toxicity",
+      "timeFrame": "28 days",
+      "description": "Number of participants experiencing a Dose Limiting Toxicity (DLT) in each dose level. DLT is defined as any of the following study drug-related toxicities occurring during the first cycle of study drug on study:\n\n1. grade 4 thrombocytopenia lasting \\>7days\n2. any grade 3-4 febrile neutropenia\n3. grade 3 or higher non-hematologic toxicity unless it could be managed by supportive treatment\n4. any other clinically significant adverse event which would place subjects at undue safety risk, or results in discontinuation of treatment."
+    },
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "Up to 12 months",
+      "description": "Progression Free Survival is the time (in months) from start of treatment to progression, clinical deterioration attributed to disease, or death."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Van Andel Research Institute",
+    "Astex Pharmaceuticals, Inc."
+  ],
+  "start_date": "2013-10-23",
+  "completion_date": "2019-08-26",
+  "last_updated": "2020-09-14"
+}

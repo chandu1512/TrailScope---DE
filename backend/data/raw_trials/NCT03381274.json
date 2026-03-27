@@ -1,0 +1,87 @@
+{
+  "nct_id": "NCT03381274",
+  "brief_title": "Oleclumab (MEDI9447) Epidermal Growth Factor Receptor Mutant (EGFRm) Non-small Cell Lung Cancer (NSCLC) Novel Combination Study",
+  "official_title": "A Multiarm, Open-label, Multicenter, Phase 1b/2 Study to Evaluate Novel Combination Therapies in Subjects With Previously Treated Advanced EGFRm NSCLC",
+  "brief_summary": "The objective of this study is to investigate the safety, tolerability, and antitumor activity of novel combination therapies administered in participants with advanced EGFRm NSCLC.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 43,
+  "conditions": [
+    "Carcinoma, Non-Small-Cell Lung"
+  ],
+  "interventions": [
+    {
+      "name": "Oleclumab",
+      "type": "BIOLOGICAL",
+      "description": "Participants will receive oleclumab in combination with osimertinib or AZD4635 as stated in the arms' description."
+    },
+    {
+      "name": "Osimertinib",
+      "type": "DRUG",
+      "description": "Participants will receive osimertinib in combination with oleclumab as stated in the arms' description."
+    },
+    {
+      "name": "AZD4635",
+      "type": "DRUG",
+      "description": "Participants will receive AZD4635 in combination with oleclumab as stated in the arms' description."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age \u2265 18\n2. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1\n3. Weight \u2265 35 kg\n4. Diagnosed with histologically or cytologically confirmed locally advanced/metastatic NSCLC with EGFRm\n\n   * For Arm A (Oleclumab + Osimertinib arms): must have received 1 prior line of therapy with an EGFR tyrosine kinase inhibitor (TKI) and confirmed T790M negative\n   * For Arm B (Oleclumab + AZD4635 arms): must have received at least 2 but not more than 4 prior lines of therapy.\n\nExclusion Criteria:\n\n1. Receipt of an EGFR TKI within 14 days of the first dose of study treatment\n2. Receipt of any conventional or investigational anticancer therapy not otherwise specified within 21 days of the planned first dose\n3. Prior receipt of any investigational immunotherapy. Participants may have received agents that have local health authority approval for the disease indication\n4. Concurrent enrollment in another therapeutic clinical study. Enrollment in observational studies will be allowed.\n5. Participants with a history of venous thrombosis within the past 3 months\n6. Participants with prior history of myocardial infarction, transient ischemic attack, or stroke in the last 6 months\n7. Active or prior documented autoimmune or inflammatory disorders within the past 3 years prior to the start of treatment\n8. Other invasive malignancy within 2 years\n9. Untreated central nervous system (CNS) metastatic disease, leptomeningeal disease, or cord compression\n10. Current or prior use of immunosuppressive medication within 14 days prior to the first dose\n\nAdditional Exclusion Criteria for Arm A\n\n1. Concurrent treatment (or inability to stop therapy) with medications or herbal supplements known to be potent inducers of cytochrome P (CYP) 3A4\n2. Participants has a history of interstitial lung disease (ILD), drug-induced ILD, radiation pneumonitis that required steroid treatment, or any evidence of clinically active ILD\n3. Participants requires continuous supplemental oxygen for any reason\n\nAdditional Exclusion Criteria for Arm B\n\n1. Herbal preparations/medications are not allowed throughout the study\n2. History of seizures excluding those that occurred due to previously untreated CNS metastasis",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "101 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Dose-limiting Toxicities (DLTs) in Part 1",
+      "timeFrame": "From Day 1 to Day 28 after first dose of study drug",
+      "description": "A DLT was defined as \\>= Grade 3 toxicity or adverse events (AE) occurred during DLT evaluation period which included any Grade 4 immune-mediated (immune nature) AE, anemia, thrombocytopenia (present \\> 4 days), or neutropenia (present \\> 4 days); \\>= Grade 3 colitis or pneumonitis or interstitial lung disease (ILD); \\>= Grade 3 nausea, vomiting, or diarrhea (not resolved to \\<= Grade 2 in 3 days); Grade 2 pneumonitis or ILD (not resolved to \\<= Grade 1 in 3 days); Grade 3 thrombocytopenia with bleeding, any grade febrile neutropenia; convulsions, seizures, or stroke; protocol defined elevations of isolated liver transaminase, isolated total bilirubin (TBL), or Hy's Law; confirmed QT interval corrected for heart rate by Fridericia's formula prolongation (\\>= 501 msec) on triplicate electrocardiograms within a short period of time; or any other toxicity greater than that at baseline, was clinically significant and/or unacceptable, and was judged to be a DLT by the Dose Escalation Committee."
+    },
+    {
+      "measure": "Number of Participants With Treatment Emergent Adverse Events (TEAEs) and Treatment Emergent Serious Adverse Events (TESAEs) in Parts 1 and 2",
+      "timeFrame": "From Day 1 through 90 days of the last dose of study drug (approximately 37 months)",
+      "description": "An AE is any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. A serious adverse event (SAE) is an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. The TEAEs are defined as events present at baseline that worsened in intensity after administration of study drug or events absent at baseline that emerged after administration of study drug."
+    },
+    {
+      "measure": "Number of Participants With Abnormal Laboratory Parameters Reported as TEAEs in Parts 1 and 2",
+      "timeFrame": "From Day 1 through 90 days of the last dose of study drug (approximately 37 months)",
+      "description": "Participants with abnormal laboratory parameters reported as TEAEs are reported. Laboratory analysis included hematology, clinical chemistry, thyroid function tests, and urinalysis."
+    },
+    {
+      "measure": "Number of Participants With Abnormal Vital Signs and Physical Examination Reported as TEAEs in Parts 1 and 2",
+      "timeFrame": "From Day 1 through 90 days of the last dose of study drug (approximately 37 months)",
+      "description": "Participants with abnormal vital signs (heart rate, blood pressure, temperature, and respiratory rate) and physical examination reported as TEAEs are reported."
+    },
+    {
+      "measure": "Number of Participants With Notable QTc Interval in Parts 1 and 2",
+      "timeFrame": "From Day 1 through 90 days of the last dose of study drug (approximately 37 months)",
+      "description": "Notable QTc intervals included single beat changes from baseline (Day 1) values (\\> 30, \\> 60, and \\> 90 milliseconds). Participants who had notable QTc interval are reported."
+    },
+    {
+      "measure": "Percentage of Participants With Objective Response (OR) Per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 in Part 2",
+      "timeFrame": "From Day 1 through 90 days of the last dose of study drug (approximately 37 months)",
+      "description": "The OR is defined as confirmed complete response (CR) or confirmed partial response (PR) based on RECIST v1.1 guidelines. The CR is defined as disappearance of all target and non-target lesions, no new lesions, and normalization of tumor marker level. The PR is defined as \\>= 30% decrease in the sum of the diameters of target lesions compared to baseline, and non-progressive disease and not evaluable or no non-target lesion. A confirmed CR or PR is defined as 2 CRs or 2 PRs that were separated by at least 4 weeks with no evidence of progression in-between."
+    }
+  ],
+  "sponsor": "MedImmune LLC",
+  "collaborators": [],
+  "start_date": "2018-05-08",
+  "completion_date": "2026-04-16",
+  "last_updated": "2026-03-09"
+}

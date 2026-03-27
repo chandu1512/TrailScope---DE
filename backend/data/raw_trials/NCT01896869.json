@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT01896869",
+  "brief_title": "FOLFIRINOX Followed by Ipilimumab With Pancreatic Tumor Vaccine in Treatment of Metastatic Pancreatic Cancer",
+  "official_title": "A Phase 2, Multicenter Study of FOLFIRINOX Followed by Ipilimumab in Combination With Allogeneic GM-CSF Transfected Pancreatic Tumor Vaccine in the Treatment of Metastatic Pancreatic Cancer",
+  "brief_summary": "This study will enroll patients who have metastatic pancreatic cancer with stable disease on FOLFIRINOX chemotherapy. The main purpose of this study is to compare survival between patients that receive ipilimumab and a pancreatic tumor vaccine and patients who continue to receive FOLFIRINOX.\n\nFunding Source - FDA Office of Orphan Product Development (OOPD)",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 83,
+  "conditions": [
+    "Metastatic Pancreatic Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Ipilimumab",
+      "type": "DRUG",
+      "description": "3 mg/kg administered IV (10mg/kg if treatment started prior to protocol v 6.3)"
+    },
+    {
+      "name": "Vaccine",
+      "type": "BIOLOGICAL",
+      "description": "5x10\\^8 cells administered in 6 intradermal injections"
+    },
+    {
+      "name": "FOLFIRINOX",
+      "type": "DRUG",
+      "description": "Standard of care FOLFIRINOX may be modified according to the patient's known tolerability. Acceptable modified options could include 5-FU alone, capecitabine, FOLFOX, FOLFIRI, or FOLFIRINOX on a 21 day cycle."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria (abbreviated):\n\n1. Documented adenocarcinoma of the pancreas\n2. Stable metastatic pancreatic cancer after 8-12 doses of FOLFIRINOX\n3. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n4. Life expectancy greater than 3 months\n5. Adequate organ and marrow function defined by study-specified laboratory tests.\n6. Must use acceptable form of birth control while on study\n7. Oxygen saturation on room air \\>92%\n\nExclusion Criteria (abbreviated):\n\n1. Surgery within 4 weeks of dosing investigational agent (some exceptions for minor procedures)\n2. Off FOLFIRINOX treatment for more than 70 days prior to treatment on study\n3. Prior chemotherapy for metastatic pancreatic cancer (other than FOLFIRINOX or adjuvant therapy).\n4. History of prior treatment with ipilimumab, anti-PD1 antibody, CD137 agonist, or anti-CD40 antibody\n5. Received any non-oncology live vaccine therapy up to one month prior to or after any dose of ipilimumab/vaccine\n6. Receiving any other investigational agents\n7. Any of the following concomitant therapy: IL-2, interferon, immunosuppressive agents, or chronic use of systemic corticosteroids\n8. History of symptomatic autoimmune disease or immune impairment. Thyroid disease is allowed.\n9. Known brain metastasis\n10. Radiographic ascites that is apparent on physical exam or requiring intervention in the 2 months prior to enrollment\n11. Uncontrolled intercurrent illness\n12. Known or suspected hypersensitivity to GM-CSF\n13. Chronic HIV, Hepatitis B or Hepatitis C\n14. Pregnant or breastfeeding women",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21205",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "4 years",
+      "description": "Overall Survival is the time between the date of randomization on study and death."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [],
+  "start_date": "2013-11",
+  "completion_date": "2019-05-03",
+  "last_updated": "2020-05-05"
+}

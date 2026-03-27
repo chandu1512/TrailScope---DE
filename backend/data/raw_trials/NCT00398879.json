@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT00398879",
+  "brief_title": "Placebo-Controlled Study of Perifosine + Single Agent Chemotherapy for Metastatic Cancer Patients",
+  "official_title": "A Randomized Placebo-Controlled Study of Perifosine in Combination With Single Agent Chemotherapy for Metastatic Cancer Patients",
+  "brief_summary": "This is an exploratory phase 2, randomized placebo-controlled trial with stratification for disease and chemotherapy type. The study is subsequently closed to enrollment in all arms except patients with metastatic colorectal cancer which would be randomized to either capecitabine plus perifosine or capecitabine alone.\n\nThe effects of perifosine may be manifested by increased time to progression, tumor regression reflected in partial or complete responses, or a combination of these outcomes. The primary goal of this trial is to obtain a preliminary and objective assessment of the effects of perifosine on time to progression.",
+  "detailed_description": "This is an exploratory phase 2, randomized placebo-controlled trial with stratification for disease and chemotherapy type. If there is any evidence of improved time to progression in any tumor type with any of the drugs to be evaluated, the initial study or component(s) of the study will be expanded to increase the certainty that this is an effect of perifosine. If there is compelling evidence of benefit from this study, a phase 3 trial will be conducted to obtain proof of principle.\n\nPrimary Study Objectives:\n\nTo determine the time to tumor progression when receiving single agent chemotherapy (capecitabine) in combination with perifosine in comparison to patients receiving single agent chemotherapy (capecitabine) alone (i.e., with placebo).\n\nSecondary Study Objectives:\n\n* To determine the toxicity of single agent chemotherapy in combination with perifosine.\n* To compare the time to progression of chemotherapy in combination with placebo to historical experience.\n* Overall survival will also be evaluated.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 381,
+  "conditions": [
+    "Colon Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Perifosine",
+      "type": "DRUG",
+      "description": "Perifosine 50 mg/d qd"
+    },
+    {
+      "name": "Capecitabine",
+      "type": "DRUG",
+      "description": "Capecitabine 825 mg/m\\^2 BID days 1 - 14 q 3 weeks"
+    },
+    {
+      "name": "Perifosine Placebo",
+      "type": "OTHER",
+      "description": "Placebo to Perifosine 50 mg/d qd"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. In the opinion of the treating physician, treatment with one of the following regimens should represent an appropriate treatment for the patient.\n\n   \\- Capecitabine 825 mg/m2 BID days 1 - 14 q 3 weeks\n2. Patients should have a histologically or cytologically confirmed diagnosis of colorectal cancer.\n3. Patients must have received at least one but no more than two prior chemotherapy regimen(s) for the treatment of metastatic or recurrent disease.\n4. ECOG performance status 0 or 1.\n\n   * Leukocytes \\>= 4,000/\u03bcL\n   * absolute neutrophil count \\>= 1,500/ \u03bcL\n   * platelets \\>= 100,000/ \u03bcL\n   * HCT \\> 28% (with or without growth factor support)\n   * Creatinine \\<= 2.5 mg/dl\n   * total bilirubin \\< 1.5 x upper limit of normal\n   * transaminase \\< 2.5 x upper limit of normal\n5. Patients must have recovered from acute toxicity-excluding alopecia-related to prior therapy, including surgery or radiotherapy.\n6. Patients with brain metastases may be admitted, provided the disease has been treated and been stable for 2 months.\n7. Patients must have ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n1. Patients receiving any other investigational agents or devices.\n2. History of allergic reactions attributed to compounds of similar chemical or biologic composition to perifosine (miltefosine or edelfosine).\n3. Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, psychiatric illness, or social situations that would limit compliance with study requirements.\n4. HIV-positive patients receiving combination anti-retroviral therapy are excluded from the study due to potential pharmacokinetic interactions with perifosine.\n5. Patients with a history of unstable or newly diagnosed angina pectoris, recent myocardial infarction (within 6 months of enrollment), or New York Heart Assoc. class II - IV congestive heart failure.\n6. Female patients who are pregnant or lactating are ineligible.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "AOI Pharmaceuticals Investigative Site",
+      "city": "Pottsville",
+      "state": "Pennsylvania",
+      "zip": "17901",
+      "status": ""
+    },
+    {
+      "facility": "AOI Pharmaceuticals Investigative Site",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Effects of perifosine on time to progression",
+      "timeFrame": "Every 12 weeks",
+      "description": "Time to progression will be measured from the first day of study drug until progression."
+    }
+  ],
+  "sponsor": "AEterna Zentaris",
+  "collaborators": [],
+  "start_date": "2005-08",
+  "completion_date": "2011-10",
+  "last_updated": "2018-03-12"
+}

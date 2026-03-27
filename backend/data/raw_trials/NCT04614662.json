@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT04614662",
+  "brief_title": "Symptom Screening Linked to Care Pathways",
+  "official_title": "Symptom Screening Linked to Care Pathways for Children With Cancer: a Cluster Randomized Trial",
+  "brief_summary": "Most children with cancer survive because they are given intensive treatments, but unfortunately, these treatments are associated with distressing symptoms. To address this problem, we developed the Symptom Screening in Pediatrics Tool (SSPedi) so that children receiving cancer treatments can communicate their bothersome symptoms, and Supportive care Prioritization, Assessment and Recommendations for Kids (SPARK), a web-based application that links identified symptoms to supportive care guidelines for symptom management. To establish that these tools improve the lives of children newly diagnosed with cancer, we will conduct a trial that randomizes 20 pediatric cancer institutions and measures the impact of three times weekly symptom screening, symptom feedback to healthcare providers and the development of care pathways for symptom management to improve total symptom burden, fatigue and quality of life.",
+  "detailed_description": "Aims 1 and 2: Among children with newly diagnosed cancer, to determine if symptom screening and feedback to healthcare providers at least three times weekly and locally-adapted symptom management care pathways, when compared to usual care:\n\nAim 1. Improves overall self-reported symptom scores (total SSPedi score), fatigue (PROMIS-Fatigue) and cancer-specific QoL (PedsQL 3.0 Acute Cancer Module) over 8 weeks Hypothesis: Symptom screening and care pathways will improve symptoms, fatigue and QoL\n\nAim 2. Improves symptom documentation, increases provision of interventions for symptoms, and reduces emergency department visits and unplanned clinic visits and hospitalizations over 8 weeks Hypotheses: Symptom screening and care pathways will increase symptom documentation and provision of interventions for symptoms, and will reduce healthcare utilization.\n\nAim 3: As an exploratory aim, we will evaluate key elements of the intervention related to the external validity and generalizability of the intervention effects using the RE-AIM framework.\n\nOverall Strategy This is a cluster randomized trial including 20 pediatric oncology sites. The coordinating center is The Hospital for Sick Children in Toronto, Canada. Sites will be randomized to either systematic symptom screening via SPARK with provision of symptom reports to healthcare providers containing links to care pathways for symptom management (intervention) or usual care (control).\n\nResearch Methods Eligibility: We will include children with cancer who: (1) are 8-18 years of age at enrollment (SSPedi is validated in this age range); (2) are English or Spanish-speaking (all PROs are validated in these languages in this age range); (3) have any newly diagnosed cancer; (4) have a plan for any chemotherapy, radiotherapy or surgery; and (5) enroll within 28 days after treatment initiation. Exclusion criteria will be cognitive disability (attending lower than second grade or equivalent) or visual impairment (cannot see SPARK even with corrective lens).\n\nProcedures: In this cluster randomized trial, we will randomize sites to either intervention or control groups. At both intervention and control sites, we will enroll participants within 28 days after treatment initiation. Eligible participants will be identified by site personnel and the study will be explained to them by trained research team members. Participant capacity to consent will be assessed by the clinical or research team according to institutional standards. After the study has been explained and sufficient time has been provided to ensure all questions have been answered, informed consent and assent will be obtained from participants and guardians as appropriate. For those who decline to contribute PROs, they will be given the option to only participate in a retrospective chart review to evaluate symptom documentation, intervention provision and healthcare utilization. Careful tracking of all newly diagnosed patients by site research personnel will occur to determine how many patients are approached and consented, and where possible, reasons for declining participation.\n\nFor all enrolled participants who will be contributing PROs (excluding those only involved in the retrospective chart review), a personal SPARK account will be created to allow SSPedi to be completed and symptom results to be recorded. At the 10 intervention sites, site-specific symptom management care pathways will be adapted from template care pathways for each of the 15 symptoms included in SSPedi. Enrolled participants will be prompted by text or email to complete symptom screening three times weekly via SPARK with corresponding feedback sent to their healthcare providers. Symptom reports will contain links to care pathways for symptom management. Active intervention will last for eight weeks starting from the date of enrollment. At the 10 control sites, participants will complete SSPedi to obtain the primary outcome at weeks 0, 4 and 8 but the scores will not be revealed to providers and will not be linked to care pathways. Usual care will be provided to participants at control sites and thus, there will be no study-requested routine, systematic symptom screening, symptom feedback to providers, or linkage to care pathways. If sites already routinely perform systematic symptom screening or use care pathways for symptom management, these may be continued but their use will be recorded.\n\nAt both intervention and control sites, demographic information including age, sex, race, ethnicity, diagnosis, cancer stage, family socioeconomic information and treatment plan will be collected at enrollment. The following PROs will be obtained by trained research staff at baseline, week 4 and week 8 for all participants: SSPedi, PROMIS Fatigue and the PedsQL 3.0 Acute Cancer Module (Aim 1). We will contact participants ahead of time to coordinate the week 4 and 8 PROs so that they can be completed in person during hospitalizations or clinic visits. If unable to arrange completion of these PROs in person, we will use their contact information to complete the questionnaires by email, text or over the phone. Data from health records (Aim 2) will be abstracted for all enrolled participants. Relapse and cancer treatment received information will be collected at the end of the study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 445,
+  "conditions": [
+    "Pediatric Cancer",
+    "Quality of Life"
+  ],
+  "interventions": [
+    {
+      "name": "SPARK Symptom Screening Linked to Feedback to Providers",
+      "type": "BEHAVIORAL",
+      "description": "Symptom screening three times weekly via SPARK, feedback of symptoms to healthcare providers and development of care pathways for symptom management."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 8-18 years of age at enrollment\n* English or Spanish-speaking\n* Any newly diagnosed cancer\n* Have a plan for any chemotherapy, radiotherapy or surgery\n* Enroll within 28 days after treatment initiation\n\nExclusion Criteria:\n\n* Cognitive disability (attending minimum second grade or equivalent)\n* Visual impairment (cannot see SPARK even with corrective lens)",
+    "gender": "ALL",
+    "min_age": "8 Years",
+    "max_age": "18 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Nemours Children's Hospital, Delaware",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19803",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Symptom Screening in Pediatrics Tool (SSPedi) Total Score",
+      "timeFrame": "Week 8",
+      "description": "SSPedi measures the degree to which 15 symptoms bothered the participant yesterday or today. Each symptom is scored on a 5-point Likert scale ranging from 0 (not at all bothered) to 4 (extremely bothered). The total score ranges from 0 to 60 where higher numbers indicate more bothersome symptoms. The total SSPedi score is reliable, valid and responsive to change in children with cancer 8-18 years of age.(1)"
+    }
+  ],
+  "sponsor": "The Hospital for Sick Children",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2021-08-02",
+  "completion_date": "2023-10-25",
+  "last_updated": "2025-09-04"
+}

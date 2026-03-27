@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT07188090",
+  "brief_title": "Mozobil for Autologous Hematopoietic Stem Cell Transplantation",
+  "official_title": "A Prospective Trial Evaluating Plerixafor-based Mobilization and Risk of Engraftment Syndrome After Autologous Hematopoietic Stem Cell Transplantation",
+  "brief_summary": "This prospective trial investigates the approach of G-CSF with risk-adapted Plerixafor use for stem cell mobilization in patients undergoing autologous stem cell transplantation. Since FDA approval in 2008, Plerixafor has been combined with G-CSF to mobilize stem cells, though this regimen has been associated with a potentially higher incidence of engraftment syndrome.\n\nThe trial aims to evaluate whether using G-CSF alone, with selective use of Plerixafor, can achieve adequate stem cell collection while possibly reducing the incidence of engraftment syndrome.",
+  "detailed_description": "This is a prospective, single-arm, open-label clinical trial designed to evaluate the incidence of engraftment syndrome and the efficacy of using granulocyte colonystimulating factor (G-CSF) as the primary agent for stem cell mobilization in patients undergoing autologous stem cell transplantation. The study aims to determine whether selective use of Plerixafor, administered only when necessary, can reduce the incidence of engraftment syndrome compared to a historical rate of 54%, where seventy patients with multiple myeloma or lymphoma were treated with autologous HSCT after stem cell mobilization with GCSF plus plerixafor from 2017-2021 at our institution (27).\n\nAll patients will receive G-CSF (peg-filgrastim or filgrastim) starting on day -4, prior to planned peripheral blood stem cell collection on day 0. All patients will proceed with stem cell collection on day 0. Collection will be performed via apheresis, with a collection target of approximately 3 x 106 CD34+ cells/kg of body weight. If less than 1.7 x 106 CD34+ cells/kg is collected after the first day or the target number of stem cells is not reached after two days, Plerixafor will be administered, and additional collection days will be added until the collection goal is reached. The pre-collection CD34+ cell count in peripheral blood will be measured for all participants on day 0 but will not be used to determine whether Plerixafor will be administered. The correlation between pre-collection CD34+ cell count and stem cell collection yield has been well-established (31-33).\n\nThe primary objective of the trial is to assess the incidence of engraftment syndrome, defined by clinical symptoms such as fever, rash, and capillary leakage. Incidence of engraftment syndrome will be reported separately for patients who did or did not receive Plerixafor. Secondary objectives include evaluating the efficacy of stem cell mobilization, the time to neutrophil and platelet engraftment post-transplant, the number of collection days required, length of hospital stay, patient disease response, cell composition of the collected product, and cytokine analysis.\n\nPatients will be closely monitored throughout the mobilization and collection process, with routine blood tests performed to assess CD34+ levels, engraftment markers, and any adverse events, including engraftment syndrome. Flow cytometry will be utilized to assess the cellular composition of the collected stem cells, including measurements of CD34+ cells, mononuclear cells, lymphocyte subsets (CD3+, CD4+, CD8+), and NK cells. Additionally, cytokine levels will be measured from each subject prior to stem cell mobilization, day 10, and day 28 post-transplant. These measurements will be analyzed using appropriate assays to investigate their potential roles in the development of engraftment syndrome. The study will provide a comprehensive evaluation of whether limiting Plerixafor use can effectively reduce complications while maintaining sufficient stem cell yield for transplantation.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 100,
+  "conditions": [
+    "Multiple Myeloma",
+    "Hodgkin Lymphoma",
+    "Non-hodgkin Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "Plerixafor",
+      "type": "DRUG",
+      "description": "Plerixafor is an antagonist of chemokine receptor-4 (CXCR4) receptor that can release stem cells from the bone marrow niche into the peripheral blood circulation"
+    },
+    {
+      "name": "Gcsf",
+      "type": "DRUG",
+      "description": "All patients will receive G-CSF (peg-filgrastim or filgrastim) starting on day -4, prior to planned peripheral blood stem cell collection on day 0."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Individuals must meet all of the following inclusion criteria in order to be eligible to participate in the study:\n\n  * Age \u226518 years\n  * Undergoing autologous stem cell transplant for one of the following diagnoses:\n\n    * Multiple myeloma\n    * Hodgkin's lymphoma\n    * Non-Hodgkin lymphoma\n  * Karnofsky performance status of \u2265 60%\n  * Patients must meet the TJUH BMT SOP guidelines for \"Patient Criteria for Autologous HSCT\" as specified below\n  * Adequate organ function:\n\n    * LVEF of \u226540%\n    * Adjusted DLCO \u226545% of predicted corrected for hemoglobin\n  * Adequate liver function as defined by a serum bilirubin \\<1.8, AST or ALT \\< 2.5X upper limit of normal\n  * Serum creatinine \u2264 2.0 mg/dl and/or creatinine clearance of \\> 40 ml/min (excludes multiple myeloma patients receiving high dose Melphalan conditioning)\n  * Willingness to use contraception if childbearing potential\n  * Has the ability to give informed consent, or for cognitively or decisionally impaired individuals (vulnerable population), the availability of a family member or guardian to give consent and assist in the consent process\n  * Life expectancy of \\> 12 months (exclusive of the disease for which the Auto HSCT is being performed)\n  * Patients must have undergone stem cell mobilization with the combination of G- CSF or biosimilars with plerixafor or G-CSF or biosimilars alone\n\nExclusion Criteria:\n\n* An individual who meets any of the following criteria will be excluded from participation in this study:\n\n  * Uncontrolled HIV\n  * Uncontrolled bacterial infection\n  * Active CNS disease\n  * Pregnancy or lactation\n  * Evidence of another malignancy, exclusive of a skin cancer that requires only local treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of Engraftment Syndrome",
+      "timeFrame": "60 days post-autologous stem cell transplant",
+      "description": "ES will be defined as per Maiolino criteria (1) as a new fever \\>100.4 F without clinical or microbiological documentation of infection plus at least 1 other criteria: (1) skin rash, (2) pulmonary infiltrates in the absence of cardiac failure, pulmonary embolism, or infection, or (3) 2 or more episodes of diarrhea a day. Clinical signs of ES have to occur within 24 hours before or after the first appearance of neutrophils in the peripheral blood."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2025-10-16",
+  "completion_date": "2028-06",
+  "last_updated": "2025-11-21"
+}

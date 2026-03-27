@@ -1,0 +1,86 @@
+{
+  "nct_id": "NCT03086369",
+  "brief_title": "A Study of Nab-Paclitaxel and Gemcitabine With or Without Olaratumab (LY3012207) in Participants With Metastatic Pancreatic Cancer",
+  "official_title": "A Phase 1b (Open-Label) / Phase 2 (Randomized, Double-Blinded) Study Evaluating Nab-Paclitaxel and Gemcitabine With or Without Olaratumab in the Treatment of First-Line Metastatic Pancreatic Cancer",
+  "brief_summary": "The purpose of this study is to determine the safety and efficacy of nab-paclitaxel and gemcitabine with or without olaratumab in the treatment of first-line metastatic pancreatic cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 184,
+  "conditions": [
+    "Metastatic Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Olaratumab",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Nab-paclitaxel",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Administered IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histological or cytological diagnosis of adenocarcinoma of the exocrine pancreas that is metastatic (Stage IV) and not amenable to resection with curative intent.\n* If present, clinically significant or symptomatic amounts of ascites should be drained prior to Day 1.\n* Have had no prior systemic treatment for metastatic disease. Prior adjuvant or neo-adjuvant chemotherapy or radiochemotherapy (other than nab-paclitaxel) is allowed if completed \u22653 months prior to enrollment and no lingering toxicities are present.\n* Prior radiation therapy for treatment of cancer is allowed to \\<25% of the bone marrow.\n* Phase 2: archival tumor tissue or be willing to provide a pre-treatment biopsy.\n* Measurable or nonmeasurable but evaluable disease as defined by the Response Evaluation Criteria in Solid Tumors (RECIST 1.1).\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1.\n* Discontinued all previous treatments for cancer \u22654 weeks prior.\n* Adequate organ function.\n* Life expectancy of at least 3 months.\n\nExclusion Criteria:\n\n* Serious concomitant systemic disorder.\n* Have received first line treatment for metastatic pancreatic cancer.\n* Received prior treatment with nab-paclitaxel.\n* Have known central nervous system malignancy or metastasis.\n* Current hematologic malignancies.\n* Participated within the last 30 days in a clinical trial involving an investigational product.\n* Women with a positive pregnancy test or lactating.\n* Have endocrine pancreatic tumors or ampullary cancer.\n* Currently enrolled in another clinical trial.\n* Have a known additional malignancy that is progressing or required active treatment within the past 1 year.\n* Known allergy to nab-paclitaxel or gemcitabine or any ingredient of study drug formulations.\n* Are taking certain anti-coagulant medications such as warfarin and are unable to be switched to other similar medicines.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232-1305",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1b: Number of Participants With Dose Limiting Toxicities (DLTs)",
+      "timeFrame": "Cycle 1 (Up to 28 days)",
+      "description": "A DLT is defined as an adverse event that is likely related to the study medication or combination, and fulfils any one of the following criteria, graded according to the NCI-CTCAE version 4.03:\n\n1. Any febrile neutropenia\n2. Grade 4 thrombocytopenia, or Grade 3 thrombocytopenia complicated by clinically significant hemorrhage\n3. Grade 4 neutropenia lasting 7 days or longer\n4. Nonhematologic Grade \u22653 toxicity, except for toxicities such as nausea, vomiting, transient electrolyte abnormalities, diarrhea which can be controlled with optimal medical management within 48 hours; non-clinically significant, treatable, or reversible laboratory abnormalities including liver function tests, uric acid, electrolytes, etc.\n5. Any other significant toxicity deemed to be dose-limiting (e.g., any toxicity that is possibly related to the study medication that requires the withdrawal of the participant from the study during Cycle 1)."
+    },
+    {
+      "measure": "Phase 2: Overall Survival (OS)",
+      "timeFrame": "Baseline to Date of Death from Any Cause (Up To 29 Months)",
+      "description": "OS is defined as the time from the date of randomization to the date of death from any cause. If the participant is alive or lost to follow-up at the time of data analysis, OS data will be censored on the last date the participant is known to be alive. For any participant who has withdrawn consent for further follow-up of survival data, OS will be censored at the last date for which the participant consented to be followed for the study."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2017-06-22",
+  "completion_date": "2021-06-17",
+  "last_updated": "2022-06-03"
+}

@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT00112853",
+  "brief_title": "Tipifarnib and Etoposide in Treating Older Patients With Newly Diagnosed Acute Myeloid Leukemia",
+  "official_title": "A Phase I Trial of Oral Etoposide in Combination With the Farnesyltransferase Inhibitor R115777 (ZARNESTRA, Tipifarnib, NSC #702818, IND #58,359) in Elderly Adults With Newly Diagnosed Acute Myelogenous Leukemia (AML)",
+  "brief_summary": "This phase I trial is studying the side effects and best dose of tipifarnib and etoposide in treating older patients with newly diagnosed acute myeloid leukemia. Tipifarnib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as etoposide, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving tipifarnib together with etoposide may kill more cancer cells",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine the feasibility, tolerability, and toxicities of administering a fixed dose of R115777 in combination with escalating doses of VP-16 in elderly adults ( = 70 years) with newly diagnosed, previously untreated acute myelogenous leukemia (AML).\n\nII. To determine the maximal tolerated dose (MTD) of R115777 + VP-16 combination, including the duration of R115777 administration, for future Phase II trials.\n\nIII. To obtain preliminary descriptive data regarding the effects of R115777 + VP-16 on cell cycle progression and apoptosis in AML marrow cells.\n\nIV. To study mechanisms of leukemia cell resistance to R115777 in combination with etoposide.\n\nOUTLINE: This is a multicenter, dose-escalation study.\n\nPatients receive oral tipifarnib twice daily on days 1-14 OR 1-21 and oral etoposide once daily on days 1-3 and 8-10. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients who achieve a complete response (CR) may receive up to 5 additional courses of therapy beyond documentation of CR.\n\nCohorts of 3-6 patients receive escalating doses of tipifarnib and etoposide until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity. Up to 14 additional patients receive treatment at the MTD.\n\nAfter completion of study treatment, patients are followed at 1 month and then every 3 months thereafter.\n\nPROJECTED ACCRUAL: A total of 3-100 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 100,
+  "conditions": [
+    "Adult Acute Megakaryoblastic Leukemia (M7)",
+    "Adult Acute Minimally Differentiated Myeloid Leukemia (M0)",
+    "Adult Acute Monoblastic Leukemia (M5a)",
+    "Adult Acute Monocytic Leukemia (M5b)",
+    "Adult Acute Myeloblastic Leukemia With Maturation (M2)",
+    "Adult Acute Myeloblastic Leukemia Without Maturation (M1)",
+    "Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities",
+    "Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)",
+    "Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)",
+    "Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)",
+    "Adult Acute Myelomonocytic Leukemia (M4)",
+    "Adult Erythroleukemia (M6a)",
+    "Adult Pure Erythroid Leukemia (M6b)",
+    "Secondary Acute Myeloid Leukemia",
+    "Untreated Adult Acute Myeloid Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "tipifarnib",
+      "type": "DRUG",
+      "description": "Given orally"
+    },
+    {
+      "name": "etoposide",
+      "type": "DRUG",
+      "description": "Given orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adults age with established, pathologically confirmed diagnoses of newly diagnosed AML, including de novo and secondary AMLs but excluding newly diagnosed acute progranulocytic leukemia (APL, M3), will be considered eligible for study\n* ECOG performance status 0-2\n* Patient must be able to give informed consent\n* Serum creatinine =\\< 2.0 mg/dl\n* SGOT and SGPT =\\< 5 x upper limit normal (ULN)\n* Bilirubin =\\< 2 mg/dl\n* Disease-specific criteria:\n\n  * Newly diagnosed AML, subtypes M0,1,2,4-7 but excluding M3 (APL), including myelodysplasia (MDS)-related AML (MDS/AML) and treatment-related AML\n  * Patients who have received hydroxyurea alone or have received non-cytotoxic therapies previously for MDS (e.g., thalidomide, interferon, cytokines, 5-azacytidine) will be eligible for this trial\n\nExclusion Criteria:\n\n* Any previous treatment with R115777 or VP-16\n* Patients receiving concomitant chemotherapy, radiation therapy or immunotherapy\n* Hyperleukocytosis with \\>= 30,000 blasts/uL or rapidly rising blast count with projected doubling time of =\\< 2 days\n* Acute progranulocytic leukemia (APL,M3)\n* Active CNS leukemia\n* Active, uncontrolled infection; patients with infection under active treatment and controlled with antibiotics are eligible\n* Presence of other life-threatening illness\n* Patients with mental deficits and/or psychiatric history that preclude them from giving informed consent or from following protocol\n* Patients on enzyme-inducing anti-convulsants (e.g., phenytoin, fosphenytoin, phenobarbital, primidone, carbamazepine, oxcarbazepine); patients may be changed to non-enzyme inducing anti-convulsants and stabilized before starting study treatment",
+    "gender": "ALL",
+    "min_age": "70 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287-8936",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of patients who experience dose limiting toxicities (DLT), based on the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v3.0",
+      "timeFrame": "Up to 28 days",
+      "description": ""
+    },
+    {
+      "measure": "Clinical response in terms of optimal dose combination for further study",
+      "timeFrame": "Up to 4 years",
+      "description": "A response surface will be constructed using a flexible two dimensional polynomial."
+    },
+    {
+      "measure": "Clinical tolerance in terms of additive or synergistic non-hematologic toxicities grade 2 or greater",
+      "timeFrame": "Up to 4 years",
+      "description": "A response surface will be constructed using a flexible two dimensional polynomial."
+    },
+    {
+      "measure": "Surrogates of response in terms of cell cycle progression and apoptosis, deoxyribonucleic acid (DNA) damage, and results of in vitro model studies (using pre-post assessments).",
+      "timeFrame": "Up to day 63",
+      "description": "A response surface will be constructed using a flexible two dimensional polynomial."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2005-03",
+  "completion_date": "",
+  "last_updated": "2013-01-08"
+}

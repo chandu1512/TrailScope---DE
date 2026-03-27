@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT05386355",
+  "brief_title": "Improving Pediatric COVID-19 Vaccine Uptake Using an mHealth Tool",
+  "official_title": "Improving Pediatric COVID-19 Vaccine Uptake Using an mHealth Tool: a Randomized, Controlled Trial",
+  "brief_summary": "This study will determine the effectiveness of a vaccine communication mobile health app on parental decisions to vaccinate their children against coronavirus disease 2019 (COVID-19).\n\nThe hypothesis is that unvaccinated children of caregivers assigned to the Vaccine Uptake app will be more likely to achieve COVID-19 vaccine series completion than those children whose caregivers are assigned to the General Health app.",
+  "detailed_description": "This is a site-level block-randomized trial. The study population is Custodial parents/caregivers with \u22651 child eligible for COVID-19 vaccination who has not yet received the vaccine at the time of study enrollment.\n\nThe primary objective is to determine the effect of a parent-facing, vaccination decision-making mobile health (mHealth) tool on children's COVID-19 vaccine series completion. The endpoint of this objective is the proportion of children who complete COVID-19 vaccination, as verified in state, clinic, or participant-held records.\n\nSecondary Objective 1 is to determine the effect of a parent-facing, vaccination decision-making mHealth tool on children's COVID-19 vaccine series initiation. The endpoint of this objective is the proportion of children who receive \u22651 dose of the COVID-19 vaccination series, as verified in state, clinic, or participant-held records\n\nSecondary Objective 2 is to determine the effect of a parent-facing, vaccination decision-making mHealth tool on parental attitude toward pediatric COVID-19 vaccination. The endpoint of this objective is the change in enrolled parent/caregiver domain scores from baseline to week 16 on the modified World Health Organization (WHO) Strategic Advisory Group of Experts on Immunization (SAGE) Vaccine Hesitancy Scale adapted for the COVID-19 Vaccine.\n\nEnrolling sites will recruit participants. These sites will collaborate with outpatient practices within Environmental influences on Child Health Outcomes (ECHO) Institutional Development Award (IDeA) States Pediatric Clinical Trials Network (ISPCTN) states that provide primary care services to children (\\<18 years old). Sites will serve a population base of at least 40% Medicaid/uninsured children, \\<60% non-Hispanic White children, or \\>40% of families residing in rural communities. Sites are encouraged, but not required, to have a high Spanish-speaking population.\n\nStudy interventions are a Vaccine Uptake App and General Health App. The Vaccine Uptake App will include 24-week (8 weeks with weekly push notifications; 2 monthly push notifications for 2 months \\[1 notification per month\\]; 8 weeks without) exposure to a mobile phone application (app) designed to improve parental knowledge, attitudes, and self-efficacy regarding pediatric COVID-19 vaccination. The app will address logistical and motivational barriers to pediatric COVID-19 vaccination. Participants will also receive eight weekly nudges and 1 monthly nudge for 2 months (cues to action) regarding vaccinating their child that will be sent to participants via push notifications to their mobile devices. Through branching logic, users will access content tailored to their COVID-19 vaccine knowledge and confidence gaps, locality, degree of rural-urban primary residence, primary language (English/Spanish), race/ethnicity, and child's age.\n\nThe General Health App will include 24-week (8 weeks with weekly push notifications; 2 monthly push notifications for 2 months \\[1 notification per month\\]; 8 weeks without) exposure to a mobile phone app designed to provide information on general pediatric health and infection prevention and mitigation strategies based on recommendations from the American Academy of Pediatrics (AAP) and the Centers for Disease Control and Prevention (CDC). Nudges regarding these topics will be sent to participants via push notifications to their mobile devices.\n\nThe study duration is 24 months (6 months study start-up; up to 8 months rolling enrollment; 7 months final participants' completion; 3 months analysis). Participant duration is 27 weeks.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1934,
+  "conditions": [
+    "COVID-19 Vaccines",
+    "Telemedicine",
+    "Vaccine Hesitancy",
+    "Pediatric ALL"
+  ],
+  "interventions": [
+    {
+      "name": "COVID-19 Vaccine Uptake App",
+      "type": "BEHAVIORAL",
+      "description": "A mHealth mobile application (app) that will provide educational and logistical information about the COVID-19 vaccination for children. The target audience will be parents of unvaccinated children."
+    },
+    {
+      "name": "General Health App",
+      "type": "OTHER",
+      "description": "A mobile application (app) that will provide general pediatric health and infection prevention and mitigation strategies."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Parent/Caregiver Inclusion Criteria:\n\n* Age of majority, as defined by the state of residency\n* Access to a mobile device that can store and run the study app for 24 weeks. Devices that can run the app include mobile phones and tablets running Android or iOS operating systems\n* Able to speak and read in English or Spanish\n* Be a parent/caregiver with primary medical decision-making and legal authority to consent to vaccination decisions for at least one child who meets the child inclusion criteria\n\nChild Inclusion Criteria:\n\n* Age 6 months to less than age of majority, as defined by the child's state of residence\n* Has not received any doses of COVID-19 vaccine based on parent/caregiver report\n* Eligible to receive COVID-19 vaccine\n* Patient at a participating clinic\n\nParent/Caregiver Exclusion Criteria:\n\n* Has only a child or children with known contraindication to all COVID-19 vaccines\n* Has only a child or children whose other parent/caregiver is already a current or past participant in the study\n* Has a child or children enrolled in any other COVID-19 vaccine study of any kind\n* Past or present participation in a COVID-19 vaccine or behavioral trial\n* Has a cognitive impairment that limits their ability to engage with the app content and/or make medical decisions regarding vaccination, based on the site investigator's assessment and local human subjects research policies\n\nChild Exclusion Criteria:\n\n* Not a patient of a participating clinic\n* Prior receipt of least one dose of COVID-19 vaccine\n* Receiving or scheduled to receive COVID-19 vaccination at the time of parental consent\n* Known medical contraindication to all COVID-19 vaccines\n* Ineligible to receive COVID-19 vaccine\n* Prior or current participation in a COVID-19 vaccine study of any kind",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Nemours Children's Health",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19803",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of Children Who Complete COVID-19 Vaccination, as Verified in State, Clinic, or Participant-held Records",
+      "timeFrame": "Week 24",
+      "description": "Initiation and completion of the COVID-19 vaccine series during the 24-week intervention period. Vaccine series completion will be per ACIP guidance for the vaccine product. For children who receive a product that requires more than 2 doses for the primary series, receipt of up to 3 doses will be considered complete. Vaccine doses will be valid if given within 24-week study intervention. Additional doses for primary series completion will be valid if they are in accordance with ACIP-recommended interval minus a 4-day grace period. There will be no maximum interval between valid doses. An incorrect second vaccine product (i.e., mixed series) will be invalid. The statistical team will use a mixed model with the binomial distribution and the logit link to compare the two intervention groups and the proportions of children who complete COVID-19 vaccination, using a site random effect and controlling for clustering by caregiver."
+    }
+  ],
+  "sponsor": "IDeA States Pediatric Clinical Trials Network",
+  "collaborators": [
+    "National Institutes of Health (NIH)",
+    "University of Nebraska",
+    "University of Montana"
+  ],
+  "start_date": "2022-07-18",
+  "completion_date": "2023-09-25",
+  "last_updated": "2025-02-19"
+}

@@ -1,0 +1,50 @@
+{
+  "nct_id": "NCT05478538",
+  "brief_title": "Observational Lung Trial to Collect Tissue to Train and Validate a Live Tumor Diagnostic Platform",
+  "official_title": "Observational Lung Trial to Collect Tissue to Train and Validate a Live Tumor Diagnostic Platform (CYBRID-01)",
+  "brief_summary": "The primary objective of this study is to determine the ex-vivo prognostic accuracy of the Cybrid live tumor diagnostic platform using in-vivo RECIST 1.1 as the reference method.",
+  "detailed_description": "Cancer is a leading cause of death and despite many new drugs, a major diagnostic challenge remains knowing which drug will work best for a patient. A new class of drugs called immune checkpoint inhibitors (ICIs) have revolutionized cancer treatment. However, current diagnostic methods (e.g. PDL1, MSI and TMB) do not accurately predict which patients will respond.\n\nElephas is developing a diagnostic platform using small 3D Live Tumor Fragments (LTFs) from participants for accurate prediction of drug response with a focus on ICIs such as Pembrolizumab (Keytruda). These LTFs contain both tumor cells and infiltrating immune cells, which are critical in determining response to ICIs and other immunotherapies.\n\nIn this observational clinical trial, 200 Non-Small Cell Lung Cancer (NSCLC) participants will be recruited and their actual clinical response to ICIs (using RECIST 1.1) will be compared to the platform's predictive Artificial Intelligence (AI) score that is based on RNA, clinical data, and 3D microscopy images. The sensitivity and specificity of the platform's score will be determined and compared to current diagnostic methods for ICIs like PDL1, MSI, and TMB.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "NSCLC (Non-small Cell Lung Cancer)",
+    "Metastatic NSCLC - Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Core Needle, Forceps, or Punch Biopsy",
+      "type": "PROCEDURE",
+      "description": "Subjects must be clinically able, at investigator discretion, to undergo additional core needle, forceps, or punch biopsy during their biopsy. These additional biopsies may either be collected from the primary tumor or a metastatic site amenable to additional passes (e.g., liver or lymph nodes) per the clinician."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Subject Inclusion Criteria\n\n1. Written informed consent and HIPAA authorization for release of personal health information prior to registration. NOTE: HIPAA authorization may be included in the informed consent or obtained separately.\n2. Age \u2265 18 years at the time of consent.\n3. Subjects suspected of or diagnosed with Stage IV/metastatic NSCLC and meet one of the following criteria:\n\n   1. Subjects who are undiagnosed, have undergone imaging and are suspected to have Stage IV lung cancer.\n   2. Subjects with a previous Stage I, II, or III diagnosis of NSCLC, who are being re-biopsied due to suspected progression to metastatic disease.\n   3. Subjects who have a newly confirmed diagnosis of Stage IV NSCLC, have undergone a SOC biopsy procedure and will undergo a separate procedure for the purposes of this study prior to starting first line treatment.\n   4. Subjects who have a previous Stage IV/metastatic NSCLC diagnosis and have already received first line treatment.\n4. Subjects must be clinically able, at investigator discretion, to undergo additional CNB or forceps biopsy passes during their biopsy. These additional biopsies may either be collected from the primary tumor or a metastatic site amenable to additional passes (e.g., liver or lymph nodes) per the clinician.\n5. Subjects who are newly diagnosed or have suspected cancer must be treatment-na\u00efve at the time of biopsy. All other subjects should have the biopsy performed before starting their next line of treatment.\n\nSubject Exclusion Criteria\n\n1. Any patient for whom an extra biopsy might pose a clinical risk based on the discretion of the clinician.\n2. Any mental impairment that would render the patient unable to understand his/her participation in the study would disqualify the patient from consenting and participating.\n3. Subjects with an auto-immune disease that would render them ineligible for immune- oncology treatment.\n4. Immunocompromised subjects, and subjects known to be HIV positive and currently receiving antiretroviral therapy. NOTE: Patients known to be HIV positive, but without clinician evidence of an immunocompromised state, are eligible for this trial.\n5. Subjects who are enrolled or plan to be enrolled in a blinded oncology treatment trial are not eligible.\n6. Subjects who are pregnant are not eligible.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "James M Stockman Cancer Institute",
+      "city": "Frederick",
+      "state": "Maryland",
+      "zip": "21702",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Sensitivity and Specificity of Cybrid Score for Predicting In-Vivo Clinical Response to Immune Checkpoint Inhibitors",
+      "timeFrame": "3 years",
+      "description": "The ex-vivo prognostic accuracy of the Cybrid live tumor diagnostic platform will be determined using in-vivo RECIST 1.1 as the reference method."
+    }
+  ],
+  "sponsor": "Elephas",
+  "collaborators": [],
+  "start_date": "2023-01-31",
+  "completion_date": "2026-12",
+  "last_updated": "2025-12-18"
+}

@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT01772797",
+  "brief_title": "Phase Ib Study of LDK378 and AUY922 in ALK-rearranged Non-small Cell Lung Cancer",
+  "official_title": "A Phase Ib, Open-label, Dose Escalation Study of LDK378 and AUY922 in Patients With ALK-rearranged Non-small Cell Lung Cancer",
+  "brief_summary": "The primary purpose of the study is to estimate the maximum tolerated dose of the combination of LDK378 and AUY922. This study will assess the safety, tolerability, pharmacokinetics and preliminary evidence of anti-tumor activity of the combination of LDK378 and AUY922 in ALK-rearranged non-small cell lung cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 22,
+  "conditions": [
+    "Anaplastic Lymphoma Kinase (ALK)",
+    "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "LDK378",
+      "type": "DRUG",
+      "description": "LDK378 is a capsule to be taken daily by mouth."
+    },
+    {
+      "name": "AUY922",
+      "type": "DRUG",
+      "description": "AUY922 is an intravenous infusion that will be administered by the investigative site to the patient on a weekly basis."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* locally advanced or metastatic NSCLC that has progressed during or following therapy with an ALK inhibitor\n* tumor must carry an ALK rearrangement in 15% or more of tumor cells as measured by FISH\n* disease that can be evaluated by RECIST v1.1 and measurable disease\n\nExclusion Criteria:\n\n* central nervous system (CNS) metastases that are symptomatic or require increasing steroids or CNS-directed therapy to control CNS disease\n* history of interstitial lung disease or interstitial pneumonitis, including clinically significant radiation pneumonitis\n* clinically significant cardiac dysfunction\n* inadequate end organ function as defined by specified laboratory values\n* use of medications known to be strong inhibitors or inducters of CYP3A4/5 that cannot be discontinued at least 1 week prior to start of treatment\n* use of medications that are mainly metabolized by CYP3A4/5 or CYP2C9 that cannot be discontinued at least 1 week prior to start of treatment\n* clinically significant, uncontrolled impaired gastrointestinal function or GI disease\n* prior treatment with a HSP90 inhibitor\n* radiotherapy to lung within 4 weeks prior to the first dose of study treatment or patients who have not recovered from radiotherapy-related toxicities\n* pregnant or nursing women\n* history of pancreatitis or history of increased amylase or lipase that was due to pancreatic disease.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center Fox Chase Cancer (2)",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence rate of Dose Limiting Toxicities (DLT)",
+      "timeFrame": "up to day 28 after the patient's first dose",
+      "description": "cycle = within the first 28 days of patient's first dose"
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2013-06",
+  "completion_date": "2016-01",
+  "last_updated": "2020-12-16"
+}

@@ -1,0 +1,100 @@
+{
+  "nct_id": "NCT02710734",
+  "brief_title": "Risk Enabled Therapy After Initiating Neoadjuvant Chemotherapy for Bladder Cancer (RETAIN)",
+  "official_title": "A Phase II Trial of Risk Enabled Therapy After Initiating Neoadjuvant Chemotherapy for Bladder Cancer (RETAIN BLADDER)",
+  "brief_summary": "The aim of this study is to evaluate a risk-adapted approach to the treatment of muscle invasive bladder cancer. Each baseline transuretheral resection of bladder tumor (TURBT) sample will be sequenced while proceeding with neoadjuvant accelerated methotrexate, vinblastine, doxorubicin, and cisplatin (AMVAC) chemotherapy. Based on the mutational profile and the post AMVAC TURBT findings, patients will be treated with active surveillance (experimental arm), or standard of care intravesicle therapy, chemoradiation or surgery. We hypothesize that this approach will lead to non-inferior metastasis-free survival at 2 years, while preserving the bladder and thus quality-of-life for a proportion of patients.",
+  "detailed_description": "This phase II trial studies how well maximal transurethral surgery (surgery performed with a special instrument inserted through the urethra) followed by accelerated methotrexate, vinblastine, doxorubicin hydrochloride, cisplatin, and radiation therapy work in treating patients with bladder cancer that has spread to the muscle. Drugs used in chemotherapy, such as methotrexate, vinblastine sulfate, doxorubicin hydrochloride, and cisplatin work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Radiation therapy uses high-energy x-rays to kill tumor cells and shrink tumors. Giving chemotherapy with radiation therapy may kill more tumor cells. Giving combination chemotherapy and radiation therapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 78,
+  "conditions": [
+    "Urothelial Carcinoma of the Bladder"
+  ],
+  "interventions": [
+    {
+      "name": "Methotrexate",
+      "type": "DRUG",
+      "description": "Administered Day 1 of each 14 day cycle for 3 cycles"
+    },
+    {
+      "name": "Vinblastine",
+      "type": "DRUG",
+      "description": "Administered Day 1 of each 14 day cycle for 3 cycles"
+    },
+    {
+      "name": "Doxorubicin",
+      "type": "DRUG",
+      "description": "Administered Day 1 of each 14 day cycle for 3 cycles"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Administered Day 1 of each 14 day cycle for 3 cycles"
+    },
+    {
+      "name": "Intensity modulated radiation therapy (IMRT)",
+      "type": "RADIATION",
+      "description": "2.0 Gy per fraction to the whole bladder plus a margin for a total of 32 fractions (64.0 Gy). Radiation will be administered from Monday to Friday"
+    },
+    {
+      "name": "Transurethral Resection of Bladder tumor",
+      "type": "PROCEDURE",
+      "description": "Performed at before and after AMVAC and after chemoradiation and intravesicle therapy"
+    },
+    {
+      "name": "5-FU",
+      "type": "DRUG",
+      "description": "Continuous 24hr Intravenous infusion days 1-5 and 16-20 with radiation treatment"
+    },
+    {
+      "name": "Mitomycin C",
+      "type": "DRUG",
+      "description": "Intravenous on day 1 with radiation treatment"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male or female patients \u226518 years.\n* Primary urothelial or predominantly urothelial carcinoma of the bladder.\n* Histologic evidence of muscularis propria invasion.\n* AJCC27 clinical stage T2-T4a .\n* No radiographic evidence of lymph node positivity (N0) or metastatic disease (M0). Clinical lymphadenopathy on staging CT greater than 1.5 cm in short axis must be biopsy proven negative.\n* ECOG performance status 0, 1, or 2.\n* Left ventricular ejection fraction \u2265 50% by MUGA or ECHO within 6 months of study entry.\n* Normal organ and bone marrow function as defined:\n\nLeukocytes \u2265 3,000/mcL Absolute neutrophil count \u2265 1,500/mcL Platelets \u2265 100,000/mcL Total bilirubin \u2264 institutional upper limit of normal (ULN) AST(SGOT)/ALT(SGPT) \u2264 2.5 X institutional ULN Creatinine Creatinine Clearance \u2265 50 mL/min (calculated using the Cockroft-Gault formula or measured with 24 hour urine collection)\n\nExclusion Criteria:\n\n* Any component of small cell histology.\n* Prior pelvic radiation therapy or patients who have undergone prior radiation to greater than or equal to 25% of the bone marrow within the past year are excluded due to risk of life threatening myelosuppression\n* Prior systemic chemotherapy; patients who have received any previous systemic chemotherapy or radiation therapy for urothelial carcinoma or cytotoxic chemotherapy for another malignancy within 1 year of study entry are ineligible.\n* Prior or concurrent malignancy of any other site except for non-melanoma skin cancer, unless disease free interval \u2265 5 years.\n* Patients who have received experimental agents within 4 weeks of study entry.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to Methotrexate, Vinblastine, Adriamycin or Cisplatin or other agents used in the study\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection (defined by current oral or intravenous antibiotic therapy), symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Pregnant women are excluded from this study due to the potential for teratogenic or abortifacient effects of cytotoxic chemotherapy.\n* Known HIV-positive patients on combination antiretroviral therapy are ineligible because of the potential for pharmacokinetic interactions with cytotoxic chemotherapy. In addition, these patients are at increased risk of lethal infections when treated with marrow-suppressive therapy.\n* Patients with hydronephrosis that has not been addressed with an intervention such as placement of a stent.\n* Pregnancy \\& Women of Childbearing Potential",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Sidney kimmel Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Metastasis-free survival (MFS) at 2 years.",
+      "timeFrame": "24 months",
+      "description": ""
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [],
+  "start_date": "2016-02-24",
+  "completion_date": "2034-02",
+  "last_updated": "2024-12-20"
+}

@@ -1,0 +1,97 @@
+{
+  "nct_id": "NCT04788758",
+  "brief_title": "Geriatric Assessment Screening Tool for the Identification of At-Risk Older Adults Who Are Undergoing Cancer Treatment",
+  "official_title": "Feasibility of Implementation and Assessment of Geriatric Assessment Screening Tool in Outpatient Oncology Clinic",
+  "brief_summary": "This phase II trial investigates how easy it is to incorporate a nursing led geriatric assessment screening tool into a busy oncology practice, in order to identify at-risk older adults being evaluated for cancer treatment. This screening tool may help identify at-risk patients who can be referred for more in depth assessment, allowing for the creation of an individualized treatment plan that puts the patient's safety and personal goals as a priority.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To determine the feasibility of training nurses to administer the Geriatric 8 (G8) screening tool in an oncology practice, to identify older patients (\\> 65 years old \\[y/o\\]) that would benefit from a more extensive Comprehensive Geriatric Assessment (CGA).\n\nSECONDARY OBJECTIVE:\n\nI. To report the positive predictive value of the G8 screening tool with the final frailty designation determined by the Comprehensive Geriatric Assessment completed in patients referred to the Senior Adult Oncology Center (SAOC).\n\nOUTLINE:\n\nPHASE I:\n\nRegistered Nurses receive training on how to administer the G8 screening tool utilizing an Epic flowsheet to patients using a self-directed education module and by direct assessment by a geriatrician.\n\nPHASE II:\n\nPatients complete the G8 screening tool questionnaire over 10 minutes as part of their standard initial assessment, and their answers are entered into their electronic health record (EHR) flowsheet. Patients who score =\\< 14 on the G8 are referred for a CGA at SAOC, and these patients and their medical oncologists are made aware. Within 2 weeks of the initial screening, the results are communicated with the patient and medical oncologist at a 2-hour SAOC visit. Patients with a score of \\> 15 on the G8 are made aware of their results without any referral generated.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 76,
+  "conditions": [
+    "Hematopoietic and Lymphoid Cell Neoplasm",
+    "Malignant Solid Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "Educational Intervention",
+      "type": "OTHER",
+      "description": "Receive G8 screening tool administration training"
+    },
+    {
+      "name": "Screening Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Complete G8 screening tool"
+    },
+    {
+      "name": "Referral",
+      "type": "OTHER",
+      "description": "Receive referral"
+    },
+    {
+      "name": "Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* NURSES: Assigned to two designated cancer clinics at Sidney Kimmel Cancer Center (SKCC) Center City, the Renal Cell Carcinoma (RCC) and Lymphoma/myeloma clinics\n* PATIENTS: 65 years and older\n* PATIENTS: Diagnosis of cancer\n\nExclusion Criteria:\n\n\u2022 PATIENTS: Inability to answer or have caregiver answer questions on screening tool",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefefrson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall assessment score: Pre",
+      "timeFrame": "Before self-administered learning module",
+      "description": "The score will be a number between 1-20. The responses to two questions of primary interest, assessing their comfort caring for older adults and their comfort in administering the G8 tool, will be binary measurements. The overall assessment scores from pre- and post- self-administered learning module will be compared using paired Wilcoxon test."
+    },
+    {
+      "measure": "Overall assessment score: Post",
+      "timeFrame": "After self-administered learning module",
+      "description": "The score will be a number between 1-20. The responses to two questions of primary interest, assessing their comfort caring for older adults and their comfort in administering the G8 tool, will be binary measurements. The overall assessment scores from pre- and post- self-administered learning module will be compared using paired Wilcoxon test."
+    },
+    {
+      "measure": "Number of patients screened",
+      "timeFrame": "Up to 30 months",
+      "description": "Will be summarized by sample means, standard deviations and/or percentages."
+    },
+    {
+      "measure": "Number of patients who refused",
+      "timeFrame": "Up to 30 months",
+      "description": "Will be summarized by sample means, standard deviations and/or percentages."
+    },
+    {
+      "measure": "Time it took to screen",
+      "timeFrame": "Up to 30 months",
+      "description": "Will be summarized by sample means, standard deviations and/or percentages."
+    },
+    {
+      "measure": "Number of referrals to Senior Adult Oncology Center (SAOC)",
+      "timeFrame": "Up to 30 months",
+      "description": "Will be summarized by sample means, standard deviations and/or percentages."
+    },
+    {
+      "measure": "Number of completed SAOC visits",
+      "timeFrame": "Up to 30 months",
+      "description": "Will be summarized by sample means, standard deviations and/or percentages."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2020-01-29",
+  "completion_date": "2022-05-25",
+  "last_updated": "2025-04-28"
+}

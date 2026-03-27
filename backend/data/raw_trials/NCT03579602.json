@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT03579602",
+  "brief_title": "Study of Tozuleristide and the Canvas Imaging System in Pediatric Subjects With CNS Tumors Undergoing Surgery",
+  "official_title": "A Randomized, Blinded Study of Fluorescence Detection of Pediatric Primary Central Nervous System Tumors in Subjects Receiving Tozuleristide and Imaged With the Canvas System",
+  "brief_summary": "Many types of cancer are primarily treated with surgery and patient survival is directly related to the extent to which the tumor is able to be removed. It is often difficult for surgeons to distinguish tumor tissue from normal tissue or to detect tumor cells that have spread from the original tumor site, resulting in incomplete removal of the tumor and reduced patient survival. In some sites, such as the brain, it is critical to avoid damage to normal tissue around the tumor to prevent adverse effects of surgery on function. Tozuleristide is a drug that is thought to attach to tumor tissue and then fluoresces (glows) when a special light from the Canvas is shined on it. It is hypothesized that tozuleristide, when imaged with the Canvas, will improve surgical outcomes by allowing surgeons to visualize the edges of the tumor or other ambiguous tissue in real-time as they operate. The purpose of this study is to evaluate how well tozuleristide imaged with Canvas work at helping to distinguish between tumor and normal tissue during surgery in pediatric primary central nervous system tumors.",
+  "detailed_description": "Subjects who provide voluntary written informed consent, or have it provided by their legally acceptable representative, will be screened for eligibility. Subjects meeting all of the inclusion and none of the exclusion criteria will be eligible to participate.\n\nSurgical excision will occur at least 1 hour and no more than 36 hours after tozuleristide administration. Surgery will be performed by a neurosurgeon and the Canvas will be operated by a designated Imaging Operator. Fluorescence of tumor and ambiguous tissue during surgery will be assessed and scored. Biopsy samples of these tumor and ambiguous tissues will be collected for pathology analysis.\n\nAll subjects will be monitored for safety during their participation in the study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 118,
+  "conditions": [
+    "Pediatric Central Nervous System Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "tozuleristide",
+      "type": "DRUG",
+      "description": "Tozuleristide will be administered at least 1 hour and no more than 36 hours prior to planned surgical excision of their tumor."
+    },
+    {
+      "name": "Canvas System",
+      "type": "DEVICE",
+      "description": "All subjects enrolled in the study will have their tissue imaged with the Canvas System."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Subjects must be \\>1 month and \u226430 years of age at the time of study enrollment\n2. Subjects must have MRI obtained within 30 days of study enrollment documenting a measurable lesion consistent with a pediatric primary CNS tumor for which maximal safe resection is indicated\n3. Adequate renal function\n4. Adequate liver function\n5. Prior therapy: Subjects with prior therapy are eligible provided they have recovered from any acute toxic effects of prior therapy and have sufficient time interval prior to enrollment:\n\n   1. Radiation therapy: subjects may not have had radiation therapy to the area of tumor planned to be resected within 28 days of study enrollment\n   2. Chemotherapy: at least 14 days from any myelosuppressive chemotherapy (28 days if prior nitrosourea) and if prior chemotherapy, must have an absolute neutrophil count recovery of \u2265 1000/mm3 following count nadir\n   3. Biologic: at least 7 days from any anti-neoplastic biologic agent (at least 3 half-lives since last administration of monoclonal antibodies)\n   4. Immunotherapy: at least 42 days after completion of any cellular immunotherapy, such as CAR-T cell therapy\n   5. Prior surgery for CNS tumors is allowed\n   6. Prior tozuleristide: at least 1 week after prior dose of tozuleristide if previously treated\n6. Written informed consent must be obtained from the subject or parent or legal guardian prior to the conduct of study activities. Routine clinical tests, e.g., MRI, clinical laboratory studies, may be used for screening requirements. Assent, when appropriate, will be obtained according to institutional guidelines.\n7. The risks of treatment with tozuleristide during pregnancy have not been evaluated. Female subjects of child-bearing potential must agree not to attempt to become pregnant or undergo in vitro fertilization and, if participating in sexual activity that could lead to pregnancy, must use 2 reliable methods of contraception simultaneously for 30 days after surgery. Male subjects must agree not to attempt to father a child and, if participating in sexual activity that could lead to pregnancy, must use 2 reliable methods of contraception simultaneously for 30 days after surgery if their partner is of child-bearing potential.\n\nExclusion Criteria:\n\n1. Pregnancy and contraception: Subjects who are pregnant or breast-feeding or planning to conceive a child within 30 days are not eligible. Males and females of childbearing potential must agree to use 2 effective forms of contraception from the time of enrollment until 30 days post-surgery\n2. Subjects with on-going serious medical conditions (poorly controlled asthma, diabetes, heart disease) such that participation in the study could put the subject at increased risk of worsening their condition\n3. Subjects planned to undergo only a diagnostic biopsy procedure, without intent to resect tissue for therapeutic purposes (e.g., stereotactic pontine biopsy)\n4. Subjects who in the opinion of the investigator are not willing or able to comply with randomization procedures or other study-required study procedures and observations. Subjects previously enrolled and randomized to Arm 1 (control) are not eligible for re-enrollment unless a second surgery is required by standard of care.",
+    "gender": "ALL",
+    "min_age": "1 Month",
+    "max_age": "30 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Sensitivity and Specificity of Tozuleristide Fluorescence to Detect Tumor in Equivocal (Ambiguous) Tissue During Surgery When Imaged With the Canvas System",
+      "timeFrame": "During surgery (which occurs at least 1 hour post tozuleristide administration)",
+      "description": "Sensitivity and specificity of tozuleristide imaged with the Canvas system to fluorescently identify tumor in equivocal tissue will be evaluated based on central pathology consensus assessment of tumor and by imaging operator fluorescence assessment. These measures will be compared to the sensitivity and specificity of surgical designation of tumor (more likely tumor or less likely tumor) under white light. Sensitivity reflects the probability that tumor tissue evaluated is fluorescent. Specificity reflects the probability that normal tissue evaluated is not fluorescent. Equivocal tissues are those that the surgeon considers abnormal but ambiguous as tumor vs. not tumor under normal (white light) conditions."
+    },
+    {
+      "measure": "Ratio of Tozuleristide Sensitivity Compared to Surgeon Sensitivity",
+      "timeFrame": "During surgery (which occurs at least 1 hour post tozuleristide administration)",
+      "description": "Tozuleristide sensitivity as assessed by imaging operator fluorescence assessment compared to sensitivity of surgeon designation of tumor under white light in equivocal tissue biopsies. Sensitivity reflects the probability that tumor tissue evaluated is fluorescent. Equivocal tissues are those that the surgeon considers abnormal but ambiguous as tumor vs. not tumor under normal (white light) conditions."
+    },
+    {
+      "measure": "Ratio of Tozuleristide Specificity Compared to Surgeon Specificity",
+      "timeFrame": "During surgery (which occurs at least 1 hour post tozuleristide administration)",
+      "description": "Tozuleristide specificity as assessed by imaging operator fluorescence assessment compared to specificity of surgeon designation of tumor under white light in equivocal tissue biopsies. Specificity reflects the probability that normal tissue evaluated is not fluorescent. Equivocal tissues are those that the surgeon considers abnormal but ambiguous as tumor vs. not tumor under normal (white light) conditions."
+    }
+  ],
+  "sponsor": "Blaze Bioscience Inc.",
+  "collaborators": [
+    "Pacific Pediatric Neuro-Oncology Consortium"
+  ],
+  "start_date": "2018-11-26",
+  "completion_date": "2022-06-13",
+  "last_updated": "2024-06-25"
+}

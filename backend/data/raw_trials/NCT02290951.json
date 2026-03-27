@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT02290951",
+  "brief_title": "Study to Investigate the Safety and Tolerability of Odronextamab in Patients With CD20+ B-Cell Malignancies",
+  "official_title": "An Open-Label, Multi-Center Phase 1 Study to Investigate the Safety and Tolerability of REGN1979, an Anti-CD20 x Anti-CD3 Bispecific Monoclonal Antibody, in Patients With CD20+ B-Cell Malignancies Previously Treated With CD20-Directed Antibody Therapy (ELM-1)",
+  "brief_summary": "This study has two parts with distinct study objectives and study design. In part A, odronextamab is studied as an intravenous (IV) administration with a dose escalation and a dose expansion phase for B-NHL and CLL. The dose escalation phase for B-NHL and the CLL study are closed at the time of protocol amendment 17. In part B, odronextamab is studied as a subcutaneous (SC) administration with a dose finding and a dose expansion phase for B-NHL.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "Non-Hodgkin Lymphoma",
+    "Chronic Lymphocytic Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "Odronextamab multiple dose levels",
+      "type": "DRUG",
+      "description": "Administered by intravenous (IV) infusion"
+    },
+    {
+      "name": "Odronextamab multiple dose levels",
+      "type": "DRUG",
+      "description": "Administered by subcutaneous (SC) injection"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n1. Have documented CD20+ B-cell malignancy, with active disease not responsive to prior therapy, for whom no standard of care options exists, and for whom treatment with an anti-CD20 antibody may be appropriate:\n\n   * Part A (IV administration) B-NHL confirmed by National Cancer Institute (NCI) working group criteria\n   * Part B (SC administration): Confirmed diagnosis of B-NHL requiring therapy as defined by WHO classification 2017\n2. Patients with B-NHL must have had prior treatment with an anti-CD20 antibody therapy. Patients with CLL (Part A only) are not required to have received prior treatment with an anti-CD20 antibody therapy as defined in the protocol.\n\n   * For the inclusion in the disease-specific expansion cohort enrolling DLBCL patients after failure of CAR-T therapy, the patient must have recovered from the toxicities of the lymphodepletion therapy and CAR-T infusion.\n   * For inclusion in Part B, patients must have FL grade 1-3a or DLBCL (with or without prior CAR-T) per the criteria above, and:\n   * Patients with FL grade 1-3a and DLBCL must have received at least 2 prior lines of systemic therapy, including an anti-CD20 antibody and an alkylating agent\n3. All patients must have at least one bi-dimensionally measurable lesion \u22651.5 cm) documented by CT or MRI scan, if CT scan is not feasible.\n4. Eastern Cooperative Oncology Group (ECOG) performance status \u22641\n5. Life expectancy of at least 6 months\n6. Adequate bone marrow function as described in the protocol\n7. Adequate organ function as described in the protocol\n8. Willingness to undergo mandatory tumor biopsy pretreatment, if in the opinion of the investigator, the patient has an accessible lesion that can be biopsied without significant risk to the patient.\n9. Willing and able to comply with clinic visits and study-related procedures\n10. Provide signed informed consent or legally acceptable representative\n\nKey Exclusion Criteria:\n\n1. Primary central nervous system (CNS) lymphoma or known or suspected CNS involvement by non-primary CNS NHL\n2. History of or current relevant CNS pathology such as\n\n   * Epilepsy, seizure, paresis, aphasia, apoplexia, severe brain injuries, cerebellar disease, organic brain syndrome, psychosis, or\n   * Evidence for presence of inflammatory lesions and/or vasculitis on cerebral MRI\n3. Standard anti-lymphoma chemotherapy (non-biologic) or radiotherapy within 28 days prior to first administration of study drug\n4. Infection with human immunodeficiency virus (HIV) or chronic infection with hepatitis B virus (HBV), hepatitis C virus (HCV), or cytomegalovirus (CMV) infection \\[(as noted by detectable levels on a blood polymerase chain reaction (PCR) assay)\\].\n\n   1. Patients with hepatitis B (HepBsAg+) who have controlled infection (serum hepatitis B virus deoxyribonucleic acid (DNA) that is below the limit of detection AND receiving anti-viral therapy for hepatitis B) are permitted upon consultation with the physician managing the infection.\n   2. Patients who show detectable levels of CMV at screening will need to be treated with appropriate antiviral therapy and demonstrate at least 2 undetectable levels of CMV by PCR assay (at least 7 days apart) before being re-considered for eligibility.\n5. Patients who have received a live vaccination within 28 days of first dose of study treatment\n\nNote: Other protocol Inclusion/Exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety/overall frequency of adverse events (AEs)",
+      "timeFrame": "Up to 24 months",
+      "description": "Part A and B"
+    },
+    {
+      "measure": "Safety/dose limiting toxicities (DLTs)",
+      "timeFrame": "Up to 28 days",
+      "description": "Part A and B"
+    },
+    {
+      "measure": "Antitumor activity as measured by the objective response rate (ORR)",
+      "timeFrame": "Through study completion, an average of 24 months",
+      "description": "Expansion Cohorts:\n\n\u2022 Diffuse large B-cell lymphoma (DLBCL) after failure of CAR-T therapy\n\nPart A"
+    }
+  ],
+  "sponsor": "Regeneron Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2015-01-09",
+  "completion_date": "2025-08-21",
+  "last_updated": "2025-10-09"
+}

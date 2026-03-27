@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT04083976",
+  "brief_title": "A Study of Erdafitinib in Participants With Advanced Solid Tumors and Fibroblast Growth Factor Receptor (FGFR) Gene Alterations",
+  "official_title": "A Phase 2 Study of Erdafitinib in Subjects With Advanced Solid Tumors and FGFR Gene Alterations",
+  "brief_summary": "The purpose of this study is to evaluate the efficacy of erdafitinib in terms of overall response rate (ORR) in adult and pediatric participants with advanced solid tumors with fibroblast growth factor receptor (FGFR) alterations (mutations or gene fusions). It will also evaluate ORR in pediatric participants with advanced solid tumors and FGFR alterations.",
+  "detailed_description": "Erdafitinib is a selective and potent pan FGFR 1-4 inhibitor with demonstrated clinical activity in participants with metastatic urothelial cancer and cholangiocarcinoma identified to have alterations in the FGFR pathway. This study targets the underlying altered biology of FGFR-driven tumors irrespective of solid tumor histology subtype. The study consists of screening phase, treatment phase and the post treatment follow-up phase (from the end of treatment visit until the participant has died, withdraws consent, is lost to follow-up, or the end of study, whichever comes first). End of study is considered as the time when the last participant receives the last dose of study drug on the study and either all pediatric participants are off study or until the most recently enrolled pediatric participant still participating in the study has 6 months of follow-up, whichever occurs first. Currently this study is recruiting pediatric participants only.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 316,
+  "conditions": [
+    "Advanced Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Erdafitinib",
+      "type": "DRUG",
+      "description": "Participants will receive erdafitinib oral tablets."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologic demonstration of an unresectable, locally advanced, or metastatic solid tumor malignancy with an fibroblast growth factor receptor (FGFR) mutation or FGFR gene fusion\n* Measurable disease\n* Participant must have received at least one prior line of systemic therapy in the advanced, unresectable, or metastatic setting; or is a child or adolescent participant with a newly-diagnosed solid tumor and no acceptable standard therapies\n* Documented progression of disease, defined as any progression that requires a change in treatment, prior to full study screening\n\nExclusion Criteria:\n\n* Has had prior chemotherapy, targeted therapy, or treatment with an investigational anticancer agent within 15 days or less than or equal to (\\<=) 5 half-lives of the agent (whichever is longer) and up to a maximum of 30 days before the first dose of erdafitinib\n* The presence of FGFR gatekeeper and resistance mutations\n* Histologic demonstration of urothelial carcinoma\n* Hematologic malignancy (i.e., myeloid and lymphoid neoplasms\n* For non-small cell lung cancer participants only: pathogenic somatic mutations or gene fusions in the following genes: EGFR, ALK, ROS1, NTRK, BRAF V600E and KRAS\n* Active malignancies other than for disease requiring therapy",
+    "gender": "ALL",
+    "min_age": "6 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Broad Panel and Pediatric Cohorts: Objective Response Rate (ORR) Based on Response Assessment in Neuro-Oncology (RANO) as Assessed by Independent Review Committee (IRC)",
+      "timeFrame": "Baseline (Cycle 1 Day 1 [each cycle of 21 days]) up to 4 years",
+      "description": "ORR is defined as the percentage of participants who achieved a complete response (CR), or partial response (PR) based on Response Assessment in Neuro-Oncology (RANO) criteria. According to RANO criteria whereby overall RANO response is based on both radiographic response (CR: disappearance of all target lesions; PR: sum of products of diameters \\[SPD\\] decreased by \\>=50 percent \\[%\\] from baseline value) and clinical performance status with steroid dose information."
+    },
+    {
+      "measure": "Core Panel Cohort: Objective Response Rate (ORR) Based on Response Assessment in Neuro-Oncology (RANO) as Assessed by Independent Review Committee (IRC)",
+      "timeFrame": "Baseline (Cycle 1 Day 1 [each cycle of 21 days]) up to 4 years",
+      "description": "ORR is defined as the percentage of participants who achieved a CR, or PR based on RANO criteria. According to RANO criteria whereby overall RANO response is based on both radiographic response (CR: disappearance of all target lesions; PR: sum of products of diameters \\[SPD\\] decreased by \\>=50 percent \\[%\\] from baseline value) and clinical performance status with steroid dose information. The core panel cohort is a subgroup of the broad panel cohort with a select panel of pre-specified FGFR markers: FGFR3 mutations (S249C;Y373C; R248C; G370C); FGFR2 mutations (C382R); FGFR3 fusions (FGFR3-TACC3); FGFR2 fusions (FGFR2-BICC1; FGFR2-TACC2)."
+    }
+  ],
+  "sponsor": "Janssen Research & Development, LLC",
+  "collaborators": [],
+  "start_date": "2019-11-20",
+  "completion_date": "2026-12-31",
+  "last_updated": "2026-03-18"
+}

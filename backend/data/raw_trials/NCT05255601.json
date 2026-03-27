@@ -1,0 +1,120 @@
+{
+  "nct_id": "NCT05255601",
+  "brief_title": "A Study to Evaluate the Safety, Tolerability, Drug Levels, and Preliminary Efficacy of Relatlimab Plus Nivolumab in Pediatric and Young Adults With Hodgkin and Non-Hodgkin Lymphoma",
+  "official_title": "A Phase 1/2 Study of the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of Relatlimab Plus Nivolumab in Pediatric and Young Adult Participants With Recurrent or Refractory Classical Hodgkin Lymphoma and Non-Hodgkin Lymphoma",
+  "brief_summary": "The purpose of this study is to assess the safety, tolerability, drug levels, and preliminary efficacy of relatlimab plus nivolumab in pediatric and young adult participants with recurrent or refractory classical Hodgkin lymphoma and non-Hodgkin lymphoma.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 5,
+  "conditions": [
+    "Lymphoma, Non-Hodgkin",
+    "Hodgkin Disease"
+  ],
+  "interventions": [
+    {
+      "name": "Relatlimab",
+      "type": "DRUG",
+      "description": "Specified Dose on Specified Days"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Specified Dose on Specified Days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants with pathologically confirmed high-risk R/R cHL, after non-response to or failure of 1or more lines of standard therapy.\n* Participants with pathologically confirmed R/R NHL after non-response to or failure of 1or more lines of standard therapy, including, but not limited to, R/R primary mediastinal B-cell lymphoma, diffuse large B-cell lymphoma (DLBCL), mediastinal gray zone lymphoma (MGZL), anaplastic large cell lymphoma (ALCL), or peripheral T-cell lymphoma (PTCL).\n* Participants with pathologically confirmed R/R NHL after non-response to or failure of 2 or more lines of standard therapy, including Burkitt lymphoma (blast count \\<25% malignant Burkitt cells and/or per the investigator's clinical assessment of risk status), lymphoblastic lymphoma (blast count \\< 25% of marrow nucleated cells and/or per the investigator's clinical assessment of risk status), NK/T-cell lymphoma (nasal and non-nasal NK/T-cell lymphoma subtypes, but not aggressive NK/T-cell leukemia/lymphoma subtype).\n* The participant's current disease state must be R/R to standard therapy.\n* Participants must have measurable PET positive disease in both cHL and NHL cohorts.\n\nExclusion Criteria:\n\n* Primary CNS lymphoma of the brain or spinal cord, and secondary CNS lymphoma (ie, from systemic non-Hodgkin lymphoma) involving the brain, spinal cord, or with leptomeningeal seeding.\n* Prior treatment with an anti-cytotoxic T-lymphocyte-associated protein 4 (anti-CTLA-4) antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways, with the exception of anti-PD(L)-1 targeted therapies.\n* Prior treatment with lymphocyte activation gene-3 (LAG-3)-targeted agents.\n* Participants with clinically significant systemic illnesses unrelated to the cancer as judged by the investigators, which would compromise the participant's ability to tolerate the study treatment.\n* Participants with autoimmune disease.\n* Prior allogeneic bone marrow transplantation.\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "30 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0073",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0071",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of dose-limiting toxicities (DLTs)",
+      "timeFrame": "Up to 135 days following last dose",
+      "description": "DLT evaluation window is 4 weeks from start of treatment. Safety evaluation will continue up to 135 days following last dose."
+    },
+    {
+      "measure": "Maximum tolerated dose or Recommended phase 2 dose (MTD/RP2D)",
+      "timeFrame": "Up to 135 days following last dose",
+      "description": ""
+    },
+    {
+      "measure": "Number of participants with Adverse Events (AEs)",
+      "timeFrame": "Up to 135 days following last dose",
+      "description": ""
+    },
+    {
+      "measure": "Number of participants with serious adverse events (SAEs)",
+      "timeFrame": "Up to 135 days following last dose",
+      "description": ""
+    },
+    {
+      "measure": "Number of participants with AEs leading to discontinuation",
+      "timeFrame": "Up to 135 days following last dose",
+      "description": ""
+    },
+    {
+      "measure": "Number of deaths",
+      "timeFrame": "Up to 2 years from the last treatment of last participant",
+      "description": ""
+    },
+    {
+      "measure": "Number of participants with clinical laboratory abnormalities",
+      "timeFrame": "Up to 135 days following last dose",
+      "description": ""
+    },
+    {
+      "measure": "Maximum observed plasma concentration (Cmax)",
+      "timeFrame": "Up to 96 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Trough observed concentration (Ctrough)",
+      "timeFrame": "Up to 96 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Time of maximum observed plasma concentration (Tmax)",
+      "timeFrame": "Up to 96 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Area Under the Curve within a dosing interval (AUC(TAU))",
+      "timeFrame": "Up to 96 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Complete Metabolic Response (CMR) Rate defined as the proportion of all response-evaluable participants who achieve the best response of CMR using Lugano 2014 criteria",
+      "timeFrame": "Up to 2 years from the last treatment of last participant",
+      "description": ""
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2022-09-13",
+  "completion_date": "2025-12-03",
+  "last_updated": "2026-02-24"
+}

@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT05447637",
+  "brief_title": "PROCLAIM: Germline Genetic Testing for Prostate Cancer Patients",
+  "official_title": "A Multi-center Prospective Observational Study of Community Urology Practices Applying Germline Genetic Testing for Prostate Cancer Patients (PROCLAIM)",
+  "brief_summary": "This registry is for men who have prostate cancer and have had multigene panel hereditary testing. The registry will gather data on genetic testing results and how that information may change physician treatment or follow up recommendations. It will also gather data on the patient's experience with genetic testing, through a post-test survey to be completed 60-90days after results have been received and discussed with their provider.",
+  "detailed_description": "This registry will enroll men with prostate cancer who have done multi-gene testing for their cancer. Patients will be enrolled into two cohorts, one for individuals who meet current NCCN testing guidelines, and one for individuals who do not meet current NCCN guidelines.\n\nThe main goal of this Registry is to assess whether nationally developed guidelines used to select patients for hereditary testing are adequate to identify all patients with prostate cancer who may benefit from testing. Patients will completed a post-test survey regarding their testing experience and clinicians will be asked to provide additional medical records review information via the Clinician Report Form.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1000,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Invitae multi-cancer gene panel",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Invitae's multi-cancer panel tests for 84 genes associated with hereditary cancer risk."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Men ages 18-90 who have been prescribed genetic testing as part of their clinical care\n* Have prostate cancer at any stage, either actively under treatment or being followed who either: 1. meet NCCN criteria for testing or 2. do not meet NCCN criteria for testing\n* Patients who are naive to clinical genetic testing for BRCA1/BRCA2 (single gene panel testing)\n\nExclusion Criteria:\n\n* Mental or cognitive impairment that interferes with ability to provide informed consent",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "90 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University Urology Associates of New Jersey",
+      "city": "Hamilton",
+      "state": "New Jersey",
+      "zip": "08690",
+      "status": ""
+    },
+    {
+      "facility": "MidLantic Urology",
+      "city": "Bala-Cynwyd",
+      "state": "Pennsylvania",
+      "zip": "19004",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Diagnostic yield of pathogenic and likely pathogenic genes in the patient population",
+      "timeFrame": "to be assessed at baseline only",
+      "description": "Identify the diagnostic yield of pathogenic/likely pathogenic variants in known cancer syndrome genes in patients with prostate cancer, using the Invitae 84 gene multi-cancer panel. These rates will be compared between the two cohorts."
+    }
+  ],
+  "sponsor": "Invitae Corporation",
+  "collaborators": [],
+  "start_date": "2019-11-01",
+  "completion_date": "2022-05-31",
+  "last_updated": "2022-07-01"
+}

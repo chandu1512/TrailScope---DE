@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT03697148",
+  "brief_title": "Multiparametric MRI in Evaluating Cancer Stage and Helping Treatment Planning in Patients With Prostate Cancer",
+  "official_title": "Multiparametric MRI (mpMRI) for Preoperative Staging and Treatment Planning for Newly-Diagnosed Prostate Cancer",
+  "brief_summary": "This phase II trial studies how well multiparametric magnetic resonance imaging (MRI) works in evaluating cancer stage and helping treatment planning in patients with prostate cancer. Multiparametric MRI may be useful for evaluating the type of cancer in finding aggressive disease.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To estimate the diagnostic performance as quantified by the area under the ROC curve to detect aggressive prostate cancer.\n\nII. To develop a risk prediction model by incorporating overall PI-RADS, PSA, Gleason score and clinical stage to predict the presence of aggressive prostate cancer.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the diagnostic performance of the individual PI-RADS score of each MRI parameter (T2W, DWI and DCE), as determined by local imaging review.\n\nTERTIARY OBJECTIVES:\n\nI. All clinical data including magnetic resonance (MR) images will be banked for future exploratory research aims.\n\nOUTLINE:\n\nPatients undergo mpMRI within 3 months prior to schedule surgery.\n\nAfter completion of study, patients are followed up until radical prostatectomy pathology is reported and finalized.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 852,
+  "conditions": [
+    "Prostate Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Multiparametric Magnetic Resonance Imaging",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Undergo mpMRI"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Recently diagnosed with prostate cancer for whom definitive surgical treatment is indicated\n\nExclusion Criteria:\n\n* Not suitable to undergo MRI or receive gadolinium-based contrast agent (severe, untreatable claustrophobia; MRI-incompatible metallic objects or implanted medical devices; renal failure; weight greater than allowable by scanner per institutional standard practice)\n* Prior surgical and/or non-surgical treatment for prostate cancer\n* Prior hip replacement or other major pelvic surgery",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Milton S Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033-0850",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania/Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Diagnostic performance of overall prostate imaging reporting and data system (PI-RADS) score",
+      "timeFrame": "Up to 2 years",
+      "description": "Will estimate the diagnostic performance as quantified by the area under the ROC curve."
+    },
+    {
+      "measure": "Risk prediction model",
+      "timeFrame": "Up to 2 years",
+      "description": "To estimate the predictive performance of a model for predicting clinically significant prostate cancer on the basis of the overall PI-RADS, PSA, Gleason score and clinical stage."
+    }
+  ],
+  "sponsor": "ECOG-ACRIN Cancer Research Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2019-02-11",
+  "completion_date": "2026-08-31",
+  "last_updated": "2026-03-19"
+}

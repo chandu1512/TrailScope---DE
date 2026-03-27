@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT02501954",
+  "brief_title": "Trial of Cisplatin Plus Radiation Followed by Carbo and Taxol Vs. Sandwich Therapy of Carbo and Taxol Followed Radiation Then Further Carbo and Taxol",
+  "official_title": "Randomized Phase III Trial of Cisplatin and Tumor Volume Directed Irradiation Followed by Carboplatin and Paclitaxel Vs. Sandwich Therapy of Carboplatin and Paclitaxel Followed by Tumor Volume Directed Irradiation Then Further Carboplatin and Paclitaxel",
+  "brief_summary": "To determine if treatment with cisplatin and radiation followed by carbo and taxol reduces the rate of recurrence when compared to sandwich therapy.",
+  "detailed_description": "To determine if treatment with cisplatin and volume-directed radiation followed by carboplatin and paclitaxel for 4 cycles (experimental arm) reduces the rate of recurrence (increases recurrence-free survival) when compared to sandwich therapy (control arm).\n\nTo determine if treatment with cisplatin and volume-directed radiation followed by carboplatin and paclitaxel for 4 cycles (experimental arm) reduces the rate of death (increases survival) when compared to sandwich therapy (control arm).\n\nTo compare the regimens with respect to tolerability and acute and late adverse effects of therapy.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 48,
+  "conditions": [
+    "Endometrial Clear Cell Adenocarcinoma",
+    "Endometrial Serous Adenocarcinoma",
+    "Stage IIIA Uterine Corpus Cancer",
+    "Stage IIIB Uterine Corpus Cancer",
+    "Stage IIIC Uterine Corpus Cancer",
+    "Stage IVA Uterine Corpus Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Radiation Therapy",
+      "type": "RADIATION",
+      "description": "Undergo Radiation Therapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* All patients with Surgical Stage III or IVA endometrial carcinoma per FIGO 2009 staging criteria, including clear cell and serous papillary and undifferentiated carcinomas.\n* Surgical Stage III disease includes those patients with positive adnexa, parametrial involvement, tumor invading the serosa, positive pelvic and/or para-aortic nodes, or vaginal involvement.\n* Surgical Stage IVA includes patients with bladder or bowel mucosal involvement, but no spread outside the pelvis.\n* Patients with FIGO 2009 surgical Stage I or II endometrial clear cell or serous carcinoma and with positive peritoneal cytology.\n* Surgery must have included a hysterectomy and bilateral salpingooophorectomy. Pelvic lymph node sampling and para-aortic lymph node sampling are optional.\n* Patients with a GOG Performance Status of 0, 1, or 2.\n* Patients with adequate organ function, reflected by the following parameters:\n\nWBC \u2265 3000/mcl Absolute neutrophil count (ANC) \u2265 1500/mcl Platelet count \u2265 100,000/mcl SGOT, SGPT, and alkaline phosphatase \u2264 2.5 X upper limit of normal (ULN) Bilirubin \u2264 1.5 X ULN Creatinine \u2264 institutional ULN\n\n* Patients must be 18 years of age or older.\n* Entry into the study is limited to no more than 8 weeks from the date of surgery.\n\nExclusion Criteria:\n\n* Patients with carcinosarcoma.\n* Patients with recurrent endometrial cancer.\n* Patients with residual tumor after surgery (any single site) exceeding 1 cm in maximum dimension.\n* Patients who have had pelvic or abdominal radiation therapy.\n* Patients with positive pelvic washings as the only extra-uterine disease are NOT eligible if the histology is other than clear cell or papillary serous carcinoma.\n* Patients with a history of other invasive malignancies, with the exception of non-melanoma skin cancer, are excluded if there is any evidence of active malignancy within the last five years. Patients are also excluded if their previous cancer treatment contraindicates this protocol therapy.\n* Patients with a history of serious co-morbid illness or uncontrolled illnesses that would preclude protocol therapy.\n* Patients with an estimated survival of less than three months.\n* Patients with FIGO 2009 Stage IVB endometrial cancer.\n* Patients with parenchymal liver metastases.\n* Patients who have received prior chemotherapy for endometrial cancer.\n* Patients with a history of myocardial infarction, unstable angina, or uncontrolled arrhythmia within 3 months from enrollment.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Greater Baltimore Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Atlantic Health",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Recurrence-free survival (RFS)",
+      "timeFrame": "From study entry until disease recurrence, death, or date of last contact, assessed up to 8 years",
+      "description": "RFS will be assessed by radiology tests, patient's clinical symptoms or physical exam."
+    }
+  ],
+  "sponsor": "Women's Cancer Care Associates, LLC",
+  "collaborators": [],
+  "start_date": "2015-03",
+  "completion_date": "2023-11",
+  "last_updated": "2024-07-22"
+}

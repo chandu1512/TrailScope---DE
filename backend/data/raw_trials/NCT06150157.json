@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT06150157",
+  "brief_title": "A Study of JNJ-88549968 for the Treatment of Calreticulin (CALR)-Mutated Myeloproliferative Neoplasms",
+  "official_title": "A First-in-Human Study of the Safety, Pharmacokinetics, and Pharmacodynamics of JNJ-88549968, a T-cell Redirecting Bispecific Antibody for CALR-mutated Myeloproliferative Neoplasms",
+  "brief_summary": "The purpose of this study is to characterize safety and to determine the Recommended Phase 2 Dose (RP2D\\[s\\]) and optimal dosing schedule(s) of JNJ-88549968 in part 1 (Dose Escalation); to characterize the safety of JNJ- 88549968 at RP2D(s) in part 2 (Cohort Expansion). For U.S. sites: the purpose of this study is to characterize the safety and to determine the RP2D(s) and optimal dosing schedule(s) of JNJ-88549968 in Part 1 and part 1b (Dose Escalation), and to characterize the safety of JNJ-88549968 at the RP2D(s) in Part 2 and part 2b (Cohort Expansion), when given as monotherapy in essential thrombocythemia (ET) or myelofibrosis (MF), and with ruxolitinib or momelotinib in MF only.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 220,
+  "conditions": [
+    "Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "JNJ-88549968",
+      "type": "DRUG",
+      "description": "JNJ-88549968 will be administered."
+    },
+    {
+      "name": "Ruxolitinib",
+      "type": "DRUG",
+      "description": "For US sites: Ruxolitinib will be administered for participants with MF only."
+    },
+    {
+      "name": "Momelotinib",
+      "type": "DRUG",
+      "description": "For US sites: Momelotinib will be administered for participants with MF only."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Be greater than or equal to (\\>=) 18 years of age (or the legal age of majority in the jurisdiction in which the study is taking place, whichever the greater) at the time of informed consent\n* Positive for a calreticulin (CALR) driver mutation of essential thrombocythemia (ET) or myelofibrosis (MF)\n* Participants with ET and MF with risk characteristics as described in the protocol\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status grade of less than or equal to (\\<=) 2\n* For US sites: Eligible for ruxolitinib therapy as per drug label for participants naive to a janus kinase (JAK) inhibitor\n\nExclusion Criteria:\n\n* Known allergies, hypersensitivity, or intolerance to the excipients of the study treatment\n* Concurrent or recently diagnosed or treated malignancies present at the time of participant screening. Exceptions are squamous and basal cell carcinoma of the skin, carcinoma in situ of the cervix, and any malignancy that is considered cured or has minimal risk of recurrence within 1 year of first dose of study treatment in the opinion of both the investigator and sponsor's medical monitor. Participants cured of another malignant disease with no sign of relapse greater than or equal to (\\>=) 3 years after treatment ended are allowed to enter the study\n* Prior solid organ transplantation\n* Either of the following regarding hematopoietic stem cell transplantation:\n\n  1. Prior treatment with allogenic stem cell transplant less than or equal to (\\<=) 6 months before the first dose of JNJ-88549968 or\n  2. Evidence of graft versus host disease (GVHD) that requires immunosuppressant therapy\n* History of clinically significant cardiovascular disease within 6 months prior to the first dose of study treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1, Part 1b (US Only): Number of Participants With Dose Limiting Toxicity (DLT)",
+      "timeFrame": "Approximately up to 35 days after first dose of study treatment",
+      "description": "Number of participants with DLT will be reported. The DLTs are specific adverse events and are defined as any of the following: high grade non-hematologic toxicity, or hematologic toxicity. For US only: A DLT is any adverse event attributed to study treatment that meets the criteria for severity and duration and that occurs during the evaluation periods unless it can be incontrovertibly attributed to disease or other extraneous cause such as an accident."
+    },
+    {
+      "measure": "Part 1, 2, Part 1b (US Only), Part 2b (US Only): Number of Participants with Adverse Events (AEs)",
+      "timeFrame": "Up to 2 years",
+      "description": "An AE is any untoward medical occurrence in a participant participating in a clinical study that does not necessarily have a causal relationship with the pharmaceutical/biological agent under study."
+    },
+    {
+      "measure": "Part 1, 2, Part 1b (US Only), Part 2b (US Only): Number of Participants with Adverse Events (AEs) by Severity",
+      "timeFrame": "Up to 2 years",
+      "description": "An adverse event is any untoward medical occurrence in a clinical study participant that does not necessarily have a causal relationship with the pharmaceutical/biological agent under study. Severity will be graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 5.0. Severity scale ranges from grade 1 (mild) to grade 5 (death). Grade 1= mild, Grade 2= moderate, Grade 3= severe, Grade 4= life-threatening and Grade 5= death related to adverse event. Cytokine release syndrome (CRS) and associated neurologic toxicity events (immune effector cell-associated neurotoxicity syndrome events \\[ICANS\\]) will be graded according to the American Society for Transplantation and Cellular Therapy (ASTCT) guidelines."
+    }
+  ],
+  "sponsor": "Janssen Research & Development, LLC",
+  "collaborators": [],
+  "start_date": "2023-12-20",
+  "completion_date": "2028-04-12",
+  "last_updated": "2026-03-12"
+}

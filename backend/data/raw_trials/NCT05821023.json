@@ -1,0 +1,55 @@
+{
+  "nct_id": "NCT05821023",
+  "brief_title": "Messaging Strategies to Reduce Breast Cancer Over-screening in Older Women",
+  "official_title": "Messaging Strategies to Reduce Breast Cancer Over-screening in Older Women",
+  "brief_summary": "This is an online survey experiment with data collection over 2 time points two weeks apart. This is Aim 2 of a three-aim R01 project; overall project goal is to better understand how messages from different sources interact to affect older women's breast cancer screening decisions. In this current project, the investigators propose to test the effect of combined exposure to a clinician message + a message from another source (i.e. family/friend or media) on older women's breast cancer screening beliefs, attitudes, and intentions.",
+  "detailed_description": "In a two-wave national online survey experiment, the investigators will randomly assign 3,000 women 65 years or older without personal history of breast cancer to 6 groups, including two control groups and four experimental groups. The experimental groups will read a message at Time 1 (T1) that may be from either family/friend or the media followed by a second message from a clinician one to two weeks later at Time 2 (T2).\n\nThe clinician message will be directed at reducing over-screening, mentioning the harms of over-screening and supporting screening cessation. The investigators will systematically vary the non-clinician message to be either consistent with the clinician message (also mentions harms of over-screening and supports screening cessation) or conflicting (mentions benefits of screening, supports continued screening and opposes screening cessation). The investigators include a no-exposure control group (Group 1) where the participants read no message at either time point and will only be asked the assessment questions. The investigators also include a single exposure group that reads only the clinician message (Group 2).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 4173,
+  "conditions": [
+    "Breast Cancer Screening"
+  ],
+  "interventions": [
+    {
+      "name": "messages",
+      "type": "OTHER",
+      "description": "Different messages describing either the benefits of breast cancer screening aimed at supporting continued screening or messages describing the harms of over-screening and making recommendations to stop screening"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Part of an online survey panel called KnowledgePanel\n* able to complete survey in English\n\nExclusion Criteria:\n\n* Personal history of breast cancer",
+    "gender": "FEMALE",
+    "min_age": "65 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Support for stopping screening for a hypothetical patient in survey vignette assessed by score on a scale",
+      "timeFrame": "Immediately after reading the assessment question",
+      "description": "Screening intention for a hypothetical patient; assessed by score on a 7 point likert scale question developed by the investigators. 7= definitely should not get a mammogram (i.e. strong support for stopping screening) 1=definitely should get a mammogram (i.e. weak support for stopping screening)"
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [
+    "University of Minnesota",
+    "Beth Israel Deaconess Medical Center",
+    "National Institute on Aging (NIA)"
+  ],
+  "start_date": "2023-05-12",
+  "completion_date": "2023-06-19",
+  "last_updated": "2024-02-12"
+}

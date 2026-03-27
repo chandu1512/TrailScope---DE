@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT00113607",
+  "brief_title": "An Efficacy and Safety Study for Yondelis (Trabectedin) in Patients With Advanced Relapsed Ovarian Cancer",
+  "official_title": "An Open-Label Multicenter Randomized Phase 3 Study Comparing the Combination of DOXIL/CAELYX and YONDELIS With DOXIL/CAELYX Alone in Subjects With Advanced Relapsed Ovarian Cancer",
+  "brief_summary": "The purpose of the study is to compare the progression-free survival (PFS) of the combination of trabectedin + DOXIL with DOXIL monotherapy in patients with ovarian cancer.",
+  "detailed_description": "This is a multicenter, open-label (all people know the identity of the intervention), randomized (study medication is assigned by chance), Phase 3 study comparing the combination of trabectedin + DOXIL with DOXIL monotherapy in patients with advanced ovarian cancer (who were previously treated and for whom first-line platinum-based chemotherapy regimen has failed). Approximately 650 patients will be randomly assigned to 1 of the treatment arms (DOXIL and DOXIL + trabectedin) over 2 years. At the time of randomization, patients will be stratified on the basis of platinum sensitivity of disease (sensitive or resistant) and baseline Eastern Cooperative Oncology Group performance status score (0 to 1 or 2. Safety will be evaluated on the basis of adverse events, clinical laboratory tests, physical examination, vital signs assessment and cardiovascular safety assessment. An interim analysis of overall survival will be performed in conjunction with progression-free survival analysis during the study. Treatment will be continued until disease progression occurred or until patients experienced a confirmed complete response for at least 2 cycles. Continuation of treatment in select individual patients beyond this study end date will be allowed if the investigator determined that the patient is benefiting from treatment, is eligible to receive further therapy, and consents to treatment. If disease progression has not occurred at treatment termination, then disease assessment will continue every 8 weeks until there is evidence of disease progression or death, or until the clinical data cutoff date, or until the start of first subsequent anticancer therapy, whichever is earlier.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 672,
+  "conditions": [
+    "Ovarian Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Trabectedin",
+      "type": "DRUG",
+      "description": "Type=exact number, unit=mg/m2, number=1.1, form=solution, route=IV. Trabectedin will be administered over 3 hours every 3 weeks."
+    },
+    {
+      "name": "DOXIL",
+      "type": "DRUG",
+      "description": "Type=exact number, unit=mg/m2, number=30, 50, form=solution, route=IV. DOXIL will be administered over 90 minutes every 4 weeks when administered alone (monotherapy) and every 3 weeks when administered with trabectedin."
+    },
+    {
+      "name": "Dexamethasone",
+      "type": "DRUG",
+      "description": "Type=exact number, unit=mg, number=20, form=solution, route=IV. Dexamethasone or its equivalent will be administered over 30 minutes prior to the DOXIL infusion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically proven epithelial ovarian cancer, epithelial fallopian tube cancer, or primary peritoneal cancer\n* Prior treatment with only 1 platinum based chemotherapy regimen\n* Eastern Cooperative Oncology Group status of not more than 2\n* Progression more than 6 months after the start of initial chemotherapy treatment\n\nExclusion Criteria:\n\n* Treatment with more than 1 prior chemotherapy regimen\n* Progression within 6 months after starting initial chemotherapy\n* Prior exposure to anthracyclines\n* Unwilling or unable to have central venous catheter\n* Known clinically relevant central nervous system metastasis",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS): Independent Radiologist Review",
+      "timeFrame": "From the date of randomization until the date of disease progression or death, as assessed for approximately 3 years",
+      "description": "PFS is defined as the time between randomization and disease progression or death."
+    }
+  ],
+  "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+  "collaborators": [
+    "PharmaMar"
+  ],
+  "start_date": "2005-04",
+  "completion_date": "2010-11",
+  "last_updated": "2014-06-18"
+}

@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT01783444",
+  "brief_title": "A Phase II Study of Everolimus in Combination With Exemestane Versus Everolimus Alone Versus Capecitabine in Advance Breast Cancer.",
+  "official_title": "A Three-arm, Randomized, Open Label, Phase II Study of Everolimus in Combination With Exemestane Versus Everolimus Alone Versus Capecitabine in the Treatment of Postmenopausal Women With Estrogen Receptor Positive, Locally Advanced, Recurrent, or Metastatic Breast Cancer After Recurrence or Progression on Prior Letrozole or Anastrozole.",
+  "brief_summary": "This was a three-arm, randomized, open label, multi-center phase II study investigating the combination of everolimus (10mg daily) with exemestane (25mg daily) versus everolimus (10mg daily) versus capecitabine (1250mg/m2 twice daily for 14 days, 3-week cycle) in patients with estrogen-receptor positive, HER2 negative, advanced breast cancer after recurrence or progression on letrozole or anastrozole.",
+  "detailed_description": "The reference therapy (control arm) used in the course of this trial was the combination arm of everolimus plus exemestane. The investigational therapies in the context of this study were everolimus monotherapy and capecitabine monotherapy. All treatments were taken orally until disease progression, intolerable toxicity or withdrawal of patient's informed consent. Patients were randomly assigned with equal allocation to one of the treatment arms:\n\n1. Exemestane (25mg daily) in combination with everolimus (10mg daily)\n2. Everolimus (10mg daily)\n3. Capecitabine (1250mg/m2 twice daily) orally for two weeks, followed by a one week rest period in 3-weeks cycles.\n\nTreatment assignment was stratified by the presence of visceral disease (yes vs. no). Visceral refered to lung, liver, heart, ovary, spleen, kidney, adrenal gland, malignant pleural or pericardial effusion or malignant ascites.\n\nRandomization and Treatment Phase:\n\nAt Visit 3 all eligible patients were randomized in 1:1:1 ratio to receive everolimus (10mg daily oral tablets) in combination with exemestane (25 mg daily oral tablets), everolimus (10mg daily oral tablets) or capecitabine monotherapy (1250mg/m2 twice daily orally for two weeks followed by a one week rest period in 3-weeks cycles). Assignment was stratified by the presence of visceral disease (yes vs. no). Visceral refered to lung, liver, heart, ovary, spleen, kidney, adrenal gland, malignant pleural or pericardial effusion or malignant ascites. After randomization, study treatment started and continued until progression, intolerable toxicity or consent withdrawal. Further treatment after progression and study treatment discontinuation was at the investigator's discretion. Dose adjustment (reduction, interruption) according to safety findings was allowed. Regular safety and efficacy reviews by Data Monitoring Committee (DMC) were performed. Tumor assessments were performed every 6 weeks until disease progression. Additional evaluation were performed to confirm response at 4 weeks after it was first observed. After at least 150 PFS events had been documented per RECIST 1.1 by local assessment in each of the two following groups: (i) everolimus + exemestane arm plus everolimus monotherapy arm, and (ii) everolimus + exemestane arm plus capecitabine monotherapy arm, the frequency of tumor assessments was changed to every 12 weeks or as clinically indicated.\n\nFollow-up phase:\n\nPatients were followed for safety for 30 days after study treatment discontinuation. If a patient did not discontinue study treatment due to disease progression, lost to follow-up or consent withdrawal, then tumor assessments continued to be performed every 6 weeks until disease progression, death, lost to follow-up or investigator decision in patient best interest.\n\nSurvival Data Collection:\n\nAll patients were followed for survival status at least every 3 months regardless of treatment discontinuation reason and up to two years after randomization of last patient. Survival information could be obtained via phone and information were documented in the source documents and eCRF. Additional survival follow-up might be performed more frequently if a survival update was required for reporting the results or to meet safety or regulatory needs.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 309,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Capecitabine",
+      "type": "DRUG",
+      "description": "Capecitabine, tablets for oral use, 1250 mg/m\u00b2 twice daily for 2 weeks followed by one week rest (3-week-cycle) (locally supplied)"
+    },
+    {
+      "name": "Exemestane",
+      "type": "DRUG",
+      "description": "Exemestane, tablets for oral use, 25 mg per day in (locally supplied)"
+    },
+    {
+      "name": "Everolimus",
+      "type": "DRUG",
+      "description": "Everolimus, 5 mg tablets for oral use, 10 mg (2 x 5 mg) per day (centrally supplied)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n\\- Women with locally advanced, recurrent, or metastatic breast cancer along with confirmation of estrogen-receptor positive (ER+). Measurable disease defined as at least one lesion \u2265 10 mm by CT or MRI that can be accurately measured in at least one dimension (CT scan slice thickness \u2264 5 mm) OR \u2022 Bone lesions: lytic or mixed (lytic + blastic) in the absence of measurable disease as defined above.\n\nKey Exclusion Criteria:\n\n\\- Patients who received more than one chemotherapy line. Patients with only non-measurable lesions other than lytic or mixed (lytic and blastic) bone metastasis.Previous treatment with exemestane, mTOR inhibitors, PI3K inhibitors or AKT inhibitors.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Trinitas Comprehensive Cancer Center SC",
+      "city": "Elizabeth",
+      "state": "New Jersey",
+      "zip": "07207",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center Dept of Oncology",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers-New Jersey Medical School SC",
+      "city": "Newark",
+      "state": "New Jersey",
+      "zip": "07101",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS) - Everolimus Plus Exemestane Versus Everolimus Alone",
+      "timeFrame": "Date of randomization to the date of first documented tumor progression or death from any cause, whichever occurs first, reported between day of first patient randomized up to 39 months",
+      "description": "Progression Free Survival (PFS) is defined as the time from date of randomization to the date of first radiologically documented progression or death due to any cause. If a patient did not have an event, PFS was censored at the date of the last adequate tumor assessment. PFS was compared between the everolimus + exemestane combination therapy with the everolimus monotherapy."
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2013-02-26",
+  "completion_date": "2018-07-30",
+  "last_updated": "2021-02-19"
+}

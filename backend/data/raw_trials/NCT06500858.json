@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT06500858",
+  "brief_title": "MBC Physical Activity Study",
+  "official_title": "A Tailored Physical Activity Program to Address Physical Inactivity Amongst Metastatic Breast Cancer Patients",
+  "brief_summary": "This clinical trial evaluates the impact of a tailored physical activity program on physical activity in patients with breast cancer that has spread from where it first started to other places in the body (metastatic). It has been shown that decreased physical activity contributes to poor performance and quality of life. Evidence has also shown that exercise could improve physical fitness, physical functioning, quality of life, and cancer-related fatigue, however, there is concern that it may not be available to those with physical limitations. The proposed physical activity program offers a comprehensive and individualized assessment for each metastatic breast cancer patient and includes a high quality, tailored exercise home-based program designed by an advanced qualified cancer exercise specialist. A tailored physical activity program may improve physical activity in metastatic breast cancer patients.",
+  "detailed_description": "This single-arm study aims to evaluate the impact of participation in a physical rehabilitation program tailored for metastatic breast cancer (MBC) patients on physical activity, quality of life (QOL), and patient satisfaction.\n\nThe study will enroll approximately 50 female patients aged 18 or older who were initially diagnosed with metastatic disease within 60 months of enrollment and are continuing treatment for metastatic disease at Jefferson Health. Enrollment will be balanced at an approximate 1:1 ratio, including 25 African American or Hispanic (non-White) patients and 25 White Caucasian patients who meet eligibility criteria during the 24-month study period.\n\nThe primary goal is to develop a physical activity program that addresses a key social determinant of health-physical inactivity-particularly among women of color with MBC. The study will further assess the impact of this program on physical activity, physical function, and quality of life.\n\nThe proposed program will provide a comprehensive, individualized assessment for each participant and include a high-quality, home-based exercise regimen directed by an advanced cancer exercise specialist.\n\nIntervention:\n\nA virtual program through 2Unstoppable will be offered. This 6-week, small-group program combines cardio and strength training to help women with metastatic cancer safely and confidently engage in physical activity in a supportive environment. The program meets exercise recommendations from the American Cancer Society (ACS) and the American College of Sports Medicine (ACSM) for cancer patients and survivors and is led by an advanced cancer exercise specialist.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 12,
+  "conditions": [
+    "Anatomic Stage IV Breast Cancer AJCC v8",
+    "Metastatic Breast Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Exercise Intervention",
+      "type": "OTHER",
+      "description": "Receive a welcome package with exercise equipment"
+    },
+    {
+      "name": "Exercise Intervention",
+      "type": "OTHER",
+      "description": "Participate in virtual-exercise sessions"
+    },
+    {
+      "name": "Exercise Intervention",
+      "type": "OTHER",
+      "description": "Receive access to optional drop-in classes"
+    },
+    {
+      "name": "Health Promotion and Education",
+      "type": "OTHER",
+      "description": "Receive monthly newsletters"
+    },
+    {
+      "name": "Internet-Based Intervention",
+      "type": "OTHER",
+      "description": "Receive access to online fitness buddy matching program"
+    },
+    {
+      "name": "Physical Activity",
+      "type": "OTHER",
+      "description": "Participate in a walking program"
+    },
+    {
+      "name": "Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Female\n* Aged 18 and older\n* Able to read and speak English\n* Diagnosed with metastatic breast cancer within 60 months of study enrollment\n* Performance status Eastern Cooperative Oncology Group (ECOG) 0-2\n* Insufficiently inactive defined as answer \"no\" to screening question \"On average, do you engage in at least 75 minutes a week of vigorous activity (like jogging) or at least 150 minutes a week of moderate activity (like a brisk walk)?\"\n* Able to comprehend and sign a written informed consent (no cognitive decline)\n* Willing to comply with all study procedures and be available for the duration of the study through at least week 2 of 2Unstoppable\n* Medically cleared by co-investigator or principal investigator (PI) to engage in aerobic and resistance exercise intervention\n* Access to a smart device and have an active wi-fi connection at home\n\nExclusion Criteria:\n\n* Severe or unstable cardiopulmonary, metabolic, or renal disease\n* Unable to walk safely without physical assistance of another person or assistive device\n* Any condition that may limit the ability to comply with behavioral and physical recommendations of the virtual exercise program\n* Pregnancy",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Physical activity improvement",
+      "timeFrame": "At baseline and up to 6 weeks after initial post-assessment",
+      "description": "Physical activity improvement will be measured by mean change in minutes of physical activity per week from baseline. Intervention effects will be estimated by using a follow-up indicator in longitudinal general estimating equations (GEE) linear regression model to test for a difference from zero for the follow-up indicator parameter estimate with a 2-sided Wald test at alpha=0.05 significance level along with a 95% confidence interval."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2024-09-06",
+  "completion_date": "2025-10-30",
+  "last_updated": "2025-11-18"
+}

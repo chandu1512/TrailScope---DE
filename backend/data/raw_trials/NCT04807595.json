@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT04807595",
+  "brief_title": "Estimation of the Prevalence of HER2 Low and Describe the SoC, Treatment Patterns, and Outcome in Real-world Practice Among Unresectable and/or Metastatic Breast Cancer Patients With HER2 Low Status",
+  "official_title": "A Multicenter Study to Estimate the Prevalence of HER2 Low and Describe the SoC, Treatment Patterns, and Outcome in Real-world Practice Among Unresectable and/or Metastatic Breast Cancer Patients With HER2-low Status - the RetroBC-HER2L Study",
+  "brief_summary": "This is a worldwide, multicenter, non-interventional, retrospective study of patient medical records from metastatic breast cancer (mBC) patients previously identified as human epidermal growth factor receptor 2 negative (HER2-neg), regardless of hormone status.",
+  "detailed_description": "This is a worldwide, multicenter, non-interventional, retrospective study. The study will consist of 2 components. The first component involves local lab rescoring of qualified historical HER2 fixed tissue immunohistochemistry (IHC) stained slides (preferably using Ventana 4B5 assay) at sites (post-training) for mBC patients previously identified as HER2-neg, and independent central retesting of HER2 status using Ventana 4B5 assay for any enrolled patients with available archived tissue samples at designated central laboratories. Local lab rescoring and independent central retesting/local lab retesting will be conducted blinded of historical HER2 IHC scores.\n\nThe second component involves linking the rescored IHC status to the patient medical record either through registry databases or patient chart review. Such information will be used to describe the patient demographics, histopathological features, clinical presentation, and treatment patterns following mBC diagnosis, and clinical outcomes in real-world settings for all patients with HER2 scores of 0, \\>0 and \\< 1+, and 1+2+/ISH- (HER2 low). The clinicopathological and other relevant BC biomarker information will also be examined based on historical biomarker testing results and/or new testing conducted as part of this study.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 798,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "None (Observational study)",
+      "type": "OTHER",
+      "description": "The data source for this project will be HER2 IHC historical scores, local lab rescoring of historical HER2 fixed tissue slides, independent central retesting or local lab retesting (under special occasions) of HER2 IHC status for enrolled patients who have available tissue, other biomarker testing results based on historical testing and/or testing of archived tissue samples when available, and curated patient-level data. Real-world data sources include electronic health records/electronic medical records (EHR/EMR) and biobank registries. Data from EHR/EMR sources will be curated. Biobank tissue for enrolled patients who have multiple samples available will be selected consecutively when possible and will start with the latest available samples then move backward in time."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Men or women:\n\n   1. \u2265 18 years of age when consent provided for future sample and clinical data use - applicable for all countries participating in the study except Japan\n   2. \u2265 20 years of age when consent provided for future sample and clinical data use - applicable for Japan only\n2. Must have a histological or cytological confirmed diagnosis of unresectable or/and mBC between 01 January 2015 and 31 December 2017\n3. Must have provided written consent allowing for data and samples to be used in the future and this study would be covered by the consent for future use. If the patient is deceased, a waiver may be accepted\n4. Diagnosed as HER2-neg (HER2 IHC 0, 1+, 2+/ISH-), regardless of hormone status\n5. Progressed on any systemic anti-cancer therapy (eg, endocrine therapy, chemotherapy, CDK4/6i, targeted therapies other than anti-HER2, or immunotherapy) in the metastatic setting\n6. Must have historical HER2 fixed tissue IHC stained slides (preferably stained using Ventana 4B5 assay) in acceptable quality for accurate rescoring.\n\nExclusion Criteria:\n\n1. Have a history of other malignancies, other than basal cell carcinoma of the skin and squamous cell carcinoma of the skin\n2. Patients with historical HER2 status of IHC 2+/ISH+ or 3+, or HER2 amplified.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Prevalence/Incidence of HER2 low among HER2-neg mBC patients, based on rescoring of historical HER2 fixed tissue IHC stained slides by Ventana 4B5 assay",
+      "timeFrame": "Retrospective: From 01 January 2015 to 31 December 2020",
+      "description": "To describe the overall prevalence and disease burden of HER2 low (IHC 1+, 2+/ISH-) among unresectable and/or mBC patients identified as HER2-neg, based on rescoring of historical HER2 fixed tissue IHC stained slides by Ventana 4B5 assay. The prevalence of HER2 low (IHC 1+, 2+/ISH-) at unresectable/metastatic BC diagnosis, determined based on rescoring of historical HER2 IHC slides locally, among patients confirmed to be HER2-neg (HER2 IHC zero and HER2 IHC 1+ and 2+/ISH-) by rescoring of historical HER2 IHC slides, will be calculated by the following, based on the re-established HER2 status determined for each patient:\n\nPrevalence of HER2 low = (Number of patients with HER2 low)/(Total number of HER2 negative patients )"
+    },
+    {
+      "measure": "Disease outcome: Time to first subsequent treatment (TFST)",
+      "timeFrame": "Retrospective: From 01 January 2015 to 31 December 2020",
+      "description": "To compare TFST between HER2 low BC patients and the HER2 IHC zero patient population. TFST is defined as the length of time from the initiation of treatment to the initiation of the patient's next systemic treatment."
+    },
+    {
+      "measure": "Disease outcome: Time to treatment failure (TTF)",
+      "timeFrame": "Retrospective: From 01 January 2015 to 31 December 2020",
+      "description": "To compare TTF between HER2 low BC patients and the HER2 IHC zero patient population. TTF is defined as the length of time from initiation of treatment to premature discontinuation."
+    },
+    {
+      "measure": "Disease outcome: Overall survival (OS)",
+      "timeFrame": "Retrospective: From 01 January 2015 to 31 December 2020",
+      "description": "To compare OS between HER2 low BC patients and the HER2 IHC zero patient population. OS is defined as the length of time from the initiation of treatment that patients are still alive."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [
+    "Daiichi Sankyo"
+  ],
+  "start_date": "2021-05-28",
+  "completion_date": "2022-04-26",
+  "last_updated": "2023-03-03"
+}

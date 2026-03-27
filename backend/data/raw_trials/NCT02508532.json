@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT02508532",
+  "brief_title": "(NAVIGATOR) Study of BLU-285 in Patients With Gastrointestinal Stromal Tumors (GIST) and Other Relapsed and Refractory Solid Tumors",
+  "official_title": "A Phase 1 Study of BLU-285 in Patients With Gastrointestinal Stromal Tumors (GIST) and Other Relapsed and Refractory Solid Tumors",
+  "brief_summary": "This is a Phase 1, open-label, first-in-human (FIH) study designed to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD) and antineoplastic activity of avapritinib (formerly BLU-285), administered orally (PO), in adult patients with unresectable GIST or other relapsed or refractory solid tumors. The study consists of 2 parts, a dose-escalation part (Part 1) and an expansion part (Part 2).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 250,
+  "conditions": [
+    "Gastrointestinal Stromal Tumors (GIST)",
+    "Other Relapsed or Refractory Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "Avapritinib",
+      "type": "DRUG",
+      "description": "avapritinib tablets"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* For Part 1: Histologically- or cytologically-confirmed diagnosis of unresectable GIST or another advanced solid tumor. Patients with unresectable GIST must have disease that has progressed following imatinib and at least 1 of the following: sunitinib, regorafenib, sorafenib, dasatinib, pazopanib or an experimental kinase-inhibitor agent, or disease with a D842 mutation in the PDGFR\u03b1 gene. Patients with an advanced solid tumor other than GIST must have relapsed or refractory disease without an available effective therapy.\n\nOR For Part 2:\n\n* Group 1: Patients must have a confirmed diagnosis of unresectable GIST that has progressed following imatinib and at least 1 of the following: sunitinib, regorafenib, sorafenib, dasatinib, pazopanib, or an experimental kinase-inhibitor agent, and the patient does not have a D842V mutation in PDGFR\u03b1.\n* Group 2: Patients must have a confirmed diagnosis of unresectable GIST with a D842V mutation in the PDGFR\u03b1 gene. The PDGFR\u03b1 mutation will be identified by local or central assessment, either in an archival tissue sample or a new tumor biopsy obtained prior to treatment with avapritinib.\n* Group 3: Patients must have a confirmed diagnosis of unresectable GIST that has progressed and/or patients must have experienced intolerance to imatinib and not received additional kinase-inhibitor therapy. Patients must not have a known D842V mutation in PDGFR\u03b1.\n* Groups 1, 2 and 3: At least 1 measurable lesion defined by mRECIST 1.1 for patients with GIST.\n* Groups 1 and 2: A tumor sample (archival tissue or a new tumor biopsy) has been submitted for mutational testing.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-2\n\nExclusion Criteria:\n\n* QT interval corrected using Fridericia's formula (QTcF) \\>450 milliseconds\n* Platelet count \\<90,000/mL\n* Absolute neutrophil count \\<1000/mL\n* Hemoglobin \\<9 g/dL\n* Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) \\>3 x the upper limit of normal (ULN) if no hepatic metastases are present; \\>5 \u00d7 ULN if hepatic metastases are present\n* Total bilirubin \\>1.5 \u00d7 ULN; \\>3 \u00d7 ULN with direct bilirubin, \\>1.5 \u00d7 ULN in the presence of Gilbert's Disease\n* Estimated (Cockroft-Gault formula) or measured creatinine clearance \\<40 mL/min Brain malignancy or metastases to the brain\n* History of a seizure disorder or requirement for anti-seizure medication\n* Group 3: Patients known to be KIT wild type.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1: Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (RP2D) of Avapritinib",
+      "timeFrame": "Cycle 1 (28 days) of treatment",
+      "description": "Patients with event(s) of dose-limiting toxicity"
+    },
+    {
+      "measure": "Parts 1 and 2: Number of Patients With Adverse Events (AE) and Serious Adverse Events (SAE)",
+      "timeFrame": "AEs were collected from the start of study drug until 30 days after the last dose, SAEs were collected from the date of the informed consent signature until 30 days after the last dose of study drug, up to 5 years",
+      "description": "The overall safety profile of the drug was assessed by reviewing the number of patients with AEs, SAEs and other events. There was no formal statistical analysis. Safety assessments continued for the duration of treatment."
+    },
+    {
+      "measure": "Part 2: Objective Response Rate (ORR) Determined by Central Radiology Assessment Per mRECIST, Version 1.1",
+      "timeFrame": "Tumor assessments were performed at screening, Cycle 3 Day 1, then every 2 cycles through Cycle 13, then every 3 cycles thereafter up to approximately 4 years. Each cycle is 28 days.",
+      "description": "To evaluate objective response rate (ORR) determined by central radiology assessment per mRECIST, version 1.1 in patients with advanced GIST treated with avapritinib. A complete response per modified Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1) is defined as complete disappearance of all target lesions. A partial response is defined as at least 30% decrease in the sum of diameters of target lesions taking as reference the baseline sum of diameters. Overall Response (OR) = CR + PR"
+    }
+  ],
+  "sponsor": "Blueprint Medicines Corporation",
+  "collaborators": [],
+  "start_date": "2015-08",
+  "completion_date": "2021-06-03",
+  "last_updated": "2022-05-20"
+}

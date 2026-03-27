@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT00334789",
+  "brief_title": "Belinostat and Isotretinoin in Treating Patients With Solid Tumors That Are Metastatic or That Cannot Be Removed by Surgery",
+  "official_title": "A Phase 1 Trial of PXD101 in Combination With 13-cis-Retinoic Acid in Advanced Solid Tumor Malignancies",
+  "brief_summary": "This phase I trial is studying the side effects and best dose of belinostat when given together with isotretinoin in treating patients with metastatic or unresectable solid tumors. Belinostat may stop the growth of tumor cells by blocking blood flow to the tumor and by blocking some of the enzymes needed for cell growth. Isotretinoin may cause solid tumor cells to look more like normal cells, and to grow and spread more slowly. Giving belinostat together with isotretinoin may be an effective treatment for metastatic or unresectable solid tumors.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To assess the safety and feasibility of combining PXD101 (belinostat) with 13-cis-retinoic acid \\[13-cRA\\] (isotretinoin) in patients with advanced solid tumor malignancies.\n\nII. To define the maximum tolerated dose (MTD) of PXD101 when administered in combination with 13-cRA and to describe the toxicities at each dose studied.\n\nIII. To evaluate the pharmacokinetics of PXD101 and 13-cRA when given in combination.\n\nSECONDARY OBJECTIVES:\n\nI. To demonstrate upregulation of retinoic acid receptor-beta (RAR\u03b2) and retinoic X-receptor (RXR) expression in tumor tissues after treatment with PXD101 and 13-cRA.\n\nII. To measure apoptosis in tumor biopsies after treatment. III. To assess the change in gene expression after exposure to PXD101 and 13-cRA.\n\nIV. To document any clinical activity of the combination of PXD101 and 13-cRA.\n\nOUTLINE: This is a multicenter, dose-escalation study of belinostat.\n\nPatients receive belinostat intravenously (IV) over 30 minutes on days 1-5 and isotretinoin orally (PO) once daily (QD) on days 1-14. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.\n\nCohorts of 3-6 patients receive escalating doses of PXD101 until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity during the first course of therapy.\n\nOnce the MTD is determined, an expanded cohort of 10 patients are enrolled and treated at the MTD. These patients also undergo blood collection periodically during treatment for pharmacokinetic studies.\n\nAll patients undergo blood collection, buccal scrapings, and tumor biopsies periodically for biomarker, pharmacodynamic, gene expression, and laboratory studies.\n\nAfter completion of study treatment, patients are followed for \\>= 8 weeks.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 51,
+  "conditions": [
+    "Adult Solid Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "Belinostat",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Isotretinoin",
+      "type": "DRUG",
+      "description": "Given orally"
+    },
+    {
+      "name": "Pharmacological Study",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed metastatic or unresectable solid tumor for which standard curative or palliative measures do not exist or are no longer effective\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2 (Karnofsky \\>= 50%)\n* Life expectancy of greater than 3 months\n* Leukocytes \\>= 3,000/mcL\n* Absolute neutrophil count \\>= 1,500/mcL\n* Platelets \\>= 100,000/mcL\n* Total bilirubin within normal institutional limits\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 X institutional upper limit of normal\n* Creatinine within normal institutional limits OR creatinine clearance \\>= 60 mL/min for patients with creatinine levels above institutional normal\n* Eligibility of patients receiving any medications or substances known to affect or with the potential to affect the activity or pharmacokinetics of belinostat will be determined following review of their case by the Principal Investigator\n* Women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier\n* Patients may not be receiving any other investigational agents\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to belinostat or other agents used in study\n* Patients should not have taken valproic acid, another histone deacetylase inhibitor, for at least 2 weeks prior to enrollment\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, or psychiatric illness/social situations that would limit compliance with study requirements\n* A marked baseline prolongation of QT/QTc interval, e.g., repeated demonstration of a QTc interval \\> 500 msec; Long QT Syndrome; the required use of concomitant medication on belinostat infusion days that may cause Torsade de Pointes\n* Significant cardiovascular disease including unstable angina pectoris, uncontrolled hypertension, congestive heart failure related to primary cardiac disease, a condition requiring anti-arrhythmic therapy, ischemic or severe valvular heart disease, or a myocardial infarction within 6 months prior to the trial entry\n* Pregnant women are excluded from this study; breastfeeding should be discontinued if the mother is treated with belinostat\n* Human immunodeficiency virus (HIV)-positive patients on combination antiretroviral therapy are ineligible",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Cancer Institute (UPCI)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "MTD of belinostat in combination with isotretinoin determined by dose limiting toxicities graded according to NCI CTCAE 4.0",
+      "timeFrame": "21 days",
+      "description": "Tables will be created to summarize these toxicities and side effects by dose and by cycle. Tabular and graphical summaries will be used to explore the relationship of type and grade of toxicity to dose, cycle, and pharmacokinetics."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2006-06-12",
+  "completion_date": "2018-03-29",
+  "last_updated": "2018-04-02"
+}

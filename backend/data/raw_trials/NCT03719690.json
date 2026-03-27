@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT03719690",
+  "brief_title": "Safety and Efficacy of Tipifarnib in Head and Neck Cancer With HRAS Mutations and Impact of HRAS on Response to Therapy",
+  "official_title": "A 2 Cohort, Non-comparative, Pivotal Study Evaluating the Efficacy of Tipifarnib in Patients With Head and Neck Squamous Cell Carcinoma (HNSCC) With HRAS Mutations (AIM-HN) and the Impact of HRAS Mutations on Response to First Line Systemic Therapies for HNSCC (SEQ-HN)",
+  "brief_summary": "An international, multicenter, open-label, 2 cohort, non-comparative, pivotal study evaluating the efficacy of tipifarnib in HRAS mutant HNSCC (AIM-HN). The first cohort will assess the objective response rate (ORR) of tipifarnib in subjects with HNSCC with HRAS mutations. The second study cohort, SEQ-HN, is an observational sub-study including HNSCC patients in whom HRAS mutations were not identified (wild type HRAS HNSCC) and who consent to provide first line outcome data and additional follow up.",
+  "detailed_description": "KO-TIP-007 is an international, multicenter, open-label, 2 cohort, non-comparative, pivotal study evaluating the efficacy of tipifarnib in HRAS mutant HNSCC (AIM-HN) and the impact of HRAS mutations on response to first line systemic therapies for HNSCC (SEQ-HN). KO-TIP-007 has 2 study cohorts. The first study cohort, named AIM-HN, includes HNSCC subjects with HRAS mutations. AIM-HN subjects will receive treatment with tipifarnib and the outcome of this cohort will be evaluated for ORR by an independent review facility.\n\nThe second study cohort, SEQ-HN, is an observational sub-study including HNSCC patients in whom HRAS mutations were not identified (wild type HRAS HNSCC) and who consent to provide first line outcome data and additional follow up.\n\nHNSCC patients in whom HRAS mutations are identified and who meet eligibility criteria will be offered participation in AIM-HN. HNSCC patients in whom HRAS mutations are not identified may participate in SEQ-HN only. These patients will be followed and the comparison of outcomes of HRAS mutant and HRAS wild type HNSCC will address the exploratory objective to determine the effect of HRAS mutation on the ORR of first line systemic therapy in patients with recurrent/metastatic HNSCC. Outcome data from subsequent lines of therapy will be collected.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 296,
+  "conditions": [
+    "HRAS Gene Mutation",
+    "HNSCC"
+  ],
+  "interventions": [
+    {
+      "name": "Tipifarnib",
+      "type": "DRUG",
+      "description": "Tablet for oral administration"
+    },
+    {
+      "name": "HRAS Detection Assay",
+      "type": "DEVICE",
+      "description": "In Vitro Assay to detect HRAS mutations"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nAIM-HN\n\n1. At least 18 years of age.\n2. Histologically confirmed head and neck cancer (oral cavity, pharynx, larynx, sinonasal, nasopharyngeal, or unknown primary) of squamous histology not amenable to local therapy with curative intent (surgery or radiation therapy with or without chemotherapy).\n3. Documented treatment failure from most recent prior therapy (e.g. tumor progression, clinical deterioration, or recurrence), and from at least one prior platinum-containing regimen, in any treatment setting.\n4. Known tumor missense HRAS mutation.\n5. Measurable disease by RECIST v1.1.\n6. ECOG performance status of 0-1.\n7. Acceptable liver, renal and hematological function\n8. Other protocol defined inclusion criteria may apply.\n\nExclusion Criteria:\n\n1. Histologically confirmed salivary gland, thyroid, (primary) cutaneous squamous or nonsquamous histologies (e.g. mucosal melanoma).\n2. Received treatment for unstable angina within prior year, myocardial infarction within the prior year, cerebro-vascular attack within the prior year, history of New York Heart Association grade III or greater congestive heart failure, or current serious cardiac arrhythmia requiring medication except atrial fibrillation.\n3. Non-tolerable Grade 2 or \u2265 Grade 3 neuropathy or evidence of unstable neurological symptoms within 4 weeks of Cycle 1 Day 1.\n4. Active, uncontrolled bacterial, viral or fungal infections requiring systemic therapy. Known history of infection with human immunodeficiency virus or an active infection with hepatitis B or hepatitis C.\n5. Received treatment for non-cancer related liver disease within prior year.\n6. Other protocol defined exclusion criteria may apply\n\nInclusion Criteria: SEQ-HN\n\n1. At least 18 years of age.\n2. Histologically confirmed head and neck cancer (oral cavity, pharynx, larynx, sinonasal, nasopharyngeal, or unknown primary) of squamous histology.\n3. Will or has received at least one systemic anti-cancer therapy for recurrent or metastatic HNSCC.\n4. HRAS wildtype (i.e., have no identified tumor missense HRAS mutation).\n5. Other protocol defined inclusion criteria may apply\n\nExclusion Criteria: SEQ-HN\n\n1\\. Histologically confirmed salivary gland, thyroid, (primary) cutaneous squamous or nonsquamous histologies (e.g. mucosal melanoma).\n\n5\\. Other protocol defined exclusion criteria may apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Greater Baltimore Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Marlene and Stewart Greenebaum Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR) in High Variable Allele Frequency (VAF) Population, as Assessed by Independent Review Facility (IRF)",
+      "timeFrame": "Up to approximately 28 months",
+      "description": "ORR was defined as the percentage of participants who experienced a best overall response (BOR) of complete response (CR; disappearance of all target lesions) or partial response (PR; at least a 30% decrease in the sum of diameters of target lesions) and was assessed using Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 by IRF. 95% confidence interval (CI) was calculated by the exact binomial (Clopper-Pearson) method."
+    }
+  ],
+  "sponsor": "Kura Oncology, Inc.",
+  "collaborators": [],
+  "start_date": "2019-03-15",
+  "completion_date": "2023-05-02",
+  "last_updated": "2024-05-28"
+}

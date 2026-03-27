@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT06514794",
+  "brief_title": "A Phase 2 Study of WU-CART-007, an Anti-CD7 Allogeneic CAR-T Cell Therapy in T-Cell Acute Lymphoblastic Leukemia and Lymphoblastic Lymphoma (T-RRex)",
+  "official_title": "A Phase 2 Study of WU-CART-007, an Anti-CD7 Allogeneic CAR-T Cell Therapy in Patients With Relapsed/Refractory Cell Acute Lymphoblastic Leukemia/Lymphoblastic Lymphoma (T-RRex)",
+  "brief_summary": "The T-RRex study evaluates the efficacy of WU-CART-007 for patients with Relapsed/Refractory (R/R) T-Cell Acute Lymphoblastic Leukemia (T-ALL)/Lymphoblastic Lymphoma (LBL) and to WU-CART-007 as a therapy to induce complete Minimum Residual Disease (MRD) negative response",
+  "detailed_description": "This is a Phase 2, single-arm, multi-center, open label study in patients with R/R T-ALL/LBL and T-ALL/LBL in remission but remaining MRD positive.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 125,
+  "conditions": [
+    "T-cell Acute Lymphoblastic Leukemia",
+    "Lymphoblastic Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "WU-CART-007",
+      "type": "BIOLOGICAL",
+      "description": "A single IV infusion of WU-CART-007"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Disease Criteria: Evidence of T-ALL or T-LBL, as defined by World Health Organization (WHO) classification, and either relapse/refractory or MRD positive\n* Age: Lower age limit of \u2265 1 year; adequate organ function\n* Eastern Cooperative Oncology Group (ECOG)/Karnofsky Performance Status 0 or 1/70 and above at Screening.\n\nKey Exclusion Criteria:\n\n* Prior treatment with any anti-CD7 therapy.\n* Patients with decompensated hemolytic anemia.\n* Presence of Grade 2 to 4 acute or extensive chronic GvHD requiring systemic immunosuppression. Grade 1 GvHD not requiring immunosuppression or Grade 2 skin GvHD if treated with topical therapy only are acceptable.",
+    "gender": "ALL",
+    "min_age": "1 Year",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19390",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "R/R Cohort - Composite Complete Response Rate",
+      "timeFrame": "24 months",
+      "description": "CRc is defined as proportion of patients that achieve a complete remission (CR) + CR with incomplete hematologic recovery (CRi)"
+    },
+    {
+      "measure": "MRD Pos Cohort - Response Rate",
+      "timeFrame": "24 months",
+      "description": "Defined as the efficacy of WU-CART-007 to induce complete MRD negative response"
+    }
+  ],
+  "sponsor": "Wugen, Inc.",
+  "collaborators": [],
+  "start_date": "2025-01-31",
+  "completion_date": "2028-12-30",
+  "last_updated": "2026-01-02"
+}

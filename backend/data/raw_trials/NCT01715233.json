@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT01715233",
+  "brief_title": "Phase II Study Using CHFR Methylation Status in Patients With Metastatic Esophageal, Gastroesophageal, Gastric Cancer.",
+  "official_title": "A Phase II Study Investigating CHFR Methylation Status As A Biomarker For Taxane Sensitivity Using Modified Docetaxel, Cisplatin and 5 Fluorouracil In Patients With Metastatic Esophageal, Gastroesophageal And Gastric Cancer.",
+  "brief_summary": "To estimate and compare the response rates in patients treated with mDCF based on methylation status of CHFR.",
+  "detailed_description": "To estimate and compare the response rates in patients treated with mDCF based on methylation status of CHFR. The overall response rates in the un-methylated and methylated patient groups will be reported with a exact 95% binomial confidence interval. A chi-square test will be used for comparison.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 27,
+  "conditions": [
+    "Metastatic Esophageal Cancer",
+    "Gastroesophageal Cancer",
+    "Gastric Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Modified Docetaxel 40mg/m2 on Day 1"
+    },
+    {
+      "name": "Leucovorin",
+      "type": "DRUG",
+      "description": "Leucovorin 400mg/m2 on Day 1"
+    },
+    {
+      "name": "Fluorouracil",
+      "type": "DRUG",
+      "description": "Fluorouracil 400mg/m2 on Day 1 Fluorouracil 1000mg/m2/day on Days 1 and 2"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Cisplatin (or Carboplatin) 40mg/m2 on Day 3"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have metastatic disease of the esophagus, gastroesophageal junction or stomach. Patients with locally recurrent disease who are not deemed eligible for radiation are also permitted.\n* Histological, cytologic or radiographic documentation of metastatic adenocarcinoma or squamous cell carcinoma of the esophagus, gastroesophageal junction or stomach. Radiologic, endoscopic, histologic or cytologic evidence of locally recurrent disease is also permitted.\n* Patients must be untreated with chemotherapy for metastatic or locally recurrent disease. Prior radiation therapy is permitted.\n* Patients must have measurable disease as per RECIST 1.1, defined as at least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded for non-nodal lesions and short axis for nodal lesions) as \\>20 mm with conventional techniques or as \\>10 mm with spiral CT scan, MRI, or calipers by clinical exam. See Section 11 for the evaluation of measurable disease.\n* Age \\>18 years and \u2264 80 years.\n* ECOG performance status \\<2 (Karnofsky \\>60%, see Appendix A).\n* Life expectancy of greater than 3 months.\n* Patients must have normal organ and marrow function.\n* Patients must not have any of the following conditions:\n* Recent major surgery, hormonal therapy (other than replacement) or chemotherapy, within 4 weeks prior to entering the study or those who have not recovered from the adverse events of treatment.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to the chemotherapy on this trial.\n* Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n* Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier.\n* Patients who are receiving any investigational agents.\n* Patients with known brain metastases should be excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other adverse events.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to the chemotherapy used in the study.\n* Concomitant use of phenytoin, carbamazepine, barbiturates, rifampicin, phenobarbital, or St John's Wort; these drugs induce CYP3A and may decrease levels of taxanes. 5-FU is a strong CYP2C9 inducer, and concomitant use with carvedilol, celecoxib, fosphenytoin, fluoxetine, phenytoin, warfarin and other CYP2C9 substrates should be used with caution.\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, unstable cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Pregnant women are excluded from this study because chemotherapy has the potential for teratogenic or abortifacient effects.\n* HIV-positive patients on combination antiretroviral therapy are ineligible because of the potential for pharmacokinetic interactions with chemotherapeutic agents. In addition, these patients are at increased risk of lethal infections when treated with marrow-suppressive therapy. Appropriate studies will be undertaken in patients receiving combination antiretroviral therapy when indicated.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "SKCCC at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Response",
+      "timeFrame": "4 months",
+      "description": "Number of participants treated with mDCF with progressive disease (PD), stable disease (SD), partial response (PR), non-complete response and non-progressive disease (non-CR/non-PD), and partial response with progressive disease clinically (PR/PD) as defined by RECIST criteria. Response is compared based on CHFR-methylation status."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [],
+  "start_date": "2012-12",
+  "completion_date": "2017-04",
+  "last_updated": "2019-03-14"
+}

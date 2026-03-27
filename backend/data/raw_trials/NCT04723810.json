@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT04723810",
+  "brief_title": "TumorGlow Intraoperative Molecular Imaging (IMI)",
+  "official_title": "A Study to Evaluate the Safety and Efficacy of Indocyanine Green for Intraoperative Molecular Imaging of Solid Tumors (TumorGlow\u2122)",
+  "brief_summary": "This is a Phase 1/2 study in patients presenting with any solid tumor and/or diseased tissue even benign nodules presumed to be resectable and at risk for recurrence on pre-operative assessment who are considered to be good surgical candidates to evaluate the safety and efficacy of the image-guided surgery using indocyanine green for intramolecular imaging of solid tumors.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 500,
+  "conditions": [
+    "Tumor, Solid"
+  ],
+  "interventions": [
+    {
+      "name": "Indocyanine Green",
+      "type": "DRUG",
+      "description": "The investigational drug is indocyanine green, single dose between 1-5 mg/kg diluted into sterile water for intravenous (IV) injection up to 5 days prior to resection surgery. The actual dose and timing from dose to imaging will be determined based on tumor type."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adult patients 18 years of age or older.\n* Patients presenting with any solid tumor and/or diseased tissue even benign nodules presumed to be resectable and at risk for recurrence on pre-operative assessment.\n* Good operative candidate as determined by the treating physician and/or multidisciplinary team.\n* Subject capable of giving informed consent.\n\nExclusion Criteria:\n\n* Subject unable to participate in the consent process.\n* Vulnerable population including pregnant women, prisoners, and children.\n* History of uncontrolled hypertension (e.g., history of an ER admission for hypertensive crisis or \u2265 3 blood pressure medications)\n* Patients with a self-reported history of iodide allergies.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cohort 1: Determine the safety of indocyanine green (all tumor types combined)",
+      "timeFrame": "Up to 5 days",
+      "description": "Type, frequency, severity, and attribution of AEs/SAEs (all tumor types combined)."
+    },
+    {
+      "measure": "Cohort 1: Identify optimal dosing of indocyanine green before surgery, and camera combination (tumor type-specific)",
+      "timeFrame": "Up to 5 days",
+      "description": "Dosing of indocyanine green, and camera combination with the highest tumor-to-background ratio (TBR) (tumor type-specific). The minimum acceptable TBR value is 2."
+    },
+    {
+      "measure": "Cohort 1: Identify optimal timing of indocyanine green before surgery, and camera combination (tumor type-specific)",
+      "timeFrame": "Up to 5 days",
+      "description": "Timing of indocyanine green, and camera combination with the highest tumor-to-background ratio (TBR) (tumor type-specific). The minimum acceptable TBR value is 2."
+    },
+    {
+      "measure": "Cohort 2: Determine the sensitivity and specificity of indocyanine green (tumor type-specific)",
+      "timeFrame": "Up to 5 days",
+      "description": "Nodule/lesion-level and subject-level sensitivity and specificity of TumorGlow (tumor type-specific).\n\n* Sensitivity of indocyanine green = TP/(TP+FN) = (# that fluoresce and are cancer)/(# that are cancer)\n* Specificity of indocyanine green = TN/(TN+FP) = (# that not cancer and do not fluoresce)/(# that are not cancer)"
+    },
+    {
+      "measure": "Cohort 2: Confirm the efficacy of indocyanine green used with Near Infrared (NIR) fluorescent imaging as measured by Clinically Significant Event (CSE) rate (tumor type-specific)",
+      "timeFrame": "Up to 5 days",
+      "description": "Clinically Significant Event (CSE) rate (tumor type-specific). A CSE includes any of the following event:\n\n* One or more primary nodule (cancerous or non-cancerous) not detected under normal light and/or palpation but is detected by imaging,\n* One or more cancerous synchronous lesion not detected under normal light and/or palpation but is detected by imaging,\n* The identification of a cancer positive margin that fluoresces within (less than or equal to) 5 mm of the surgical margin."
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [],
+  "start_date": "2024-08-14",
+  "completion_date": "2027-01-14",
+  "last_updated": "2026-03-05"
+}

@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT01358734",
+  "brief_title": "A Study Being Conducted at Multiple Locations to Compare Safety and Efficacy of Three Different Regimens; (1) High-Dose Lenalidomide; (2) Lenalidomide + Azacitidine; or (3) Azacitidine in Subjects \u2265 65 Years With Newly-Diagnosed Acute Myeloid Leukemia",
+  "official_title": "A Phase 2, Multicenter, Randomized, Open-label, Parallel-group Study of a Lenalidomide (Revlimid\u00ae) Regimen or a Sequential Azacitidine (Vidaza\u00ae) Plus Lenalidomide (Revlimid\u00ae) Regimen Versus an Azacitidine (Vidaza\u00ae) Regimen for Therapy of Older Subjects With Newly Diagnosed Acute Myeloid Leukemia",
+  "brief_summary": "The study aim is to compare safety and efficacy of high-dose lenalidomide regimen, sequential azacitidine and lenalidomide and an azacitidine in persons \u226565 years with newly-diagnosed acute myeloid leukemia (AML).",
+  "detailed_description": "On September 11, 2013, randomization into the continuous 50 mg lenalidomide only arm was temporarily suspended based on review of the data from the first 13 participants and a high rate of discontinuation (11/13 participants). The Data Monitoring Committee assessed the study data on September 20, 2013 and reported no safety concerns. The high rate of early discontinuation is inconsistent with the treatment duration required for testing the study primary endpoint of survival at one year. Consequently, Celgene has decided not to reopen the lenalidomide only arm.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 88,
+  "conditions": [
+    "Acute Myeloid Leukemia",
+    "Acute Myelogenous Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "Azacitidine",
+      "type": "DRUG",
+      "description": "Azacitidine at 75 mg/m\\^2/day subcutaneous on Days 1-7"
+    },
+    {
+      "name": "Lenalidomide",
+      "type": "DRUG",
+      "description": "Lenalidomide 50 mg PO daily x 28 days for the first 2 cycles then 25 mg PO daily x 28 days for the next 2 cycles followed by continuous 28-day cycles of lenalidomide 10 mg PO daily"
+    },
+    {
+      "name": "Best Supportive Care (BSC)",
+      "type": "OTHER",
+      "description": "The use of BSC was considered as concomitant treatment and must be documented as concomitant medication.\n\nBSC includes, but is not limited to, treatment with Red Blood Celll (RBC) or whole blood transfusions, fresh frozen plasma transfusions, platelet transfusions, antibiotic or antifungal therapy, and nutritional support"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Newly diagnosed acute myeloid leukemia (AML), AML with antecedent hematologic disorder or therapy-related AML\n* Male or female subjects aged \u2265 65\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1 or 2\n* White blood cell (WBC) count \u2264 10 x 10\u2079/L at screening\n\nExclusion Criteria:\n\n* Previous treatment with azacitidine, decitabine, cytarabine or lenalidomide\n* Previous cytotoxic or biologic treatment of any kind for AML or prior use of targeted therapy agents.\n* Suspected or proven acute promyelocytic leukemia\n* Prior bone marrow or stem cell transplantation\n* Candidate for allogeneic bone marrow or stem cell transplantation\n* AML antecedent hematologic disorder such as chronic myelogenous leukemia or myeloproliferative neoplasms\n* Presence of malignant disease within the previous 12 months with exceptions",
+    "gender": "ALL",
+    "min_age": "65 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "(160) The Western Pennsylvania Hospital- Cancer Institute",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224-1791",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Kaplan Meier Estimates for One Year Survival",
+      "timeFrame": "Up to 24 months",
+      "description": "One-year survival rate was defined as all deaths within one year from the date of randomization. All others censored at the at year 1 or date of discontinuation"
+    },
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "From date of randomization until the date of the first documented date of progression or date of death of any cause; the overall median follow-up for survivng participants was 4.1 months (range 0.2 to 54.8 months)",
+      "description": "Overall Survival reported at the end of the study are for those participants who were alive at the end of the study"
+    }
+  ],
+  "sponsor": "Celgene",
+  "collaborators": [],
+  "start_date": "2012-04-27",
+  "completion_date": "2018-05-15",
+  "last_updated": "2019-06-17"
+}

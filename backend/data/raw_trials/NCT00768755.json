@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT00768755",
+  "brief_title": "Evaluation Of The Efficacy Of The Combination Of Axitinib With Pemetrexed And Cisplatin In The Treatment Of Non-Squamous Non-Small Cell Lung Cancer",
+  "official_title": "Randomized Phase 2 Study Of Cisplatin/Pemetrexed With Or Without Axitinib (AG-013736) As First-Line Treatment For Patients With Non-Squamous Non-Small Cell Lung Cancer",
+  "brief_summary": "AG-013736 (axitinib) in combination with cisplatin and pemetrexed will be evaluated as first-line treatment of patients with locally advanced, recurrent, or metastatic non-squamous, non small cell lung cancer (NSCLC).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 180,
+  "conditions": [
+    "Carcinoma, Non-Small Cell Lung"
+  ],
+  "interventions": [
+    {
+      "name": "axitinib",
+      "type": "DRUG",
+      "description": "5mg BID po up to max 10mg BID po"
+    },
+    {
+      "name": "axitinib",
+      "type": "DRUG",
+      "description": "5mg BID po up to max 10mg BID po paused for 3 days before each cycle of concomitant chemotherapy"
+    },
+    {
+      "name": "chemotherapy",
+      "type": "DRUG",
+      "description": "Pemetrexed(500mg/m2)/Cisplatin(75mg/m2) x max 6 cycles"
+    },
+    {
+      "name": "axitinib",
+      "type": "DRUG",
+      "description": "5mg BID po up to max 10mg BID po paused before each concomitant chemotherapy"
+    },
+    {
+      "name": "chemotherapy",
+      "type": "DRUG",
+      "description": "Pemetrexed(500mg/m2)/Cisplatin(75mg/m2) x max 6 cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of adeno-, large cell or bronchioalveolar non-small cell lung cancer\n* Cytologic specimens for diagnosis or for cell type classification must have been obtained from bronchial brushings or washings or from needle aspiration of a defined lesion. Sputum cytology alone will not be acceptable for diagnosis or for cell type classification.\n* Patients with mixed NSCLC with predominantly squamous cell carcinoma should be classified as squamous and thus do not qualify for this study.\n* Stage IIIB with malignant effusion (with cytologic confirmation of malignant pleural or pericardial effusion), Stage IV, or recurrent disease after definitive loco-regional therapy.\n* Candidate for primary treatment with cisplatin and pemetrexed\n\nExclusion Criteria:\n\n* Any histological/cytological evidence of predominantly squamous NSCLC.\n* Small cell or carcinoid lung cancer patients are also ineligible.\n* NSCLC that cannot be classified as one of the eligible histologies (adenocarcinoma, large cell or bronchioalveolar).\n* Prior systemic therapy for Stage IIIB (with malignant effusion), Stage IV, or recurrent NSCLC. (Prior treatment with systemic therapy as adjuvant chemotherapy or in conjunction with radiotherapy for Stage II or III NSCLC is permitted if the last dose of chemotherapy was completed 12 months or more prior to randomization).\n* Prior treatment with a VEGF or VEGFR inhibitor.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033-0850",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "West Reading",
+      "state": "Pennsylvania",
+      "zip": "19611",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS)",
+      "timeFrame": "Phase 2 baseline until the date of first documented progression or death due to any cause or initiation of subsequent anticancer therapy, assessed every 6 weeks up to 84 weeks",
+      "description": "Time in months from the date of randomization to first documentation of objective tumor progression or death due to any cause. PFS was calculated as (first event date minus minus the date of randomization plus 1) divided by 30.4. Tumor progression was determined from oncologic assessment data (where data meet the criteria for progressive disease \\[PD\\]); death was determined from AE data (where the outcome was \"Death\") or from the end of study data."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2009-01",
+  "completion_date": "2012-03",
+  "last_updated": "2015-10-06"
+}

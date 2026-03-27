@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT05800574",
+  "brief_title": "Lymphoscintigraphy Directed Elective Neck Radiation for p16+ Favorable Risk Oropharynx Cancer",
+  "official_title": "A Phase II Investigation of Lymphoscintigraphy Directed Elective Neck Radiation for p16+ Favorable Risk Oropharynx Cancer Patients Managed With Primary (Chemo) Radiation",
+  "brief_summary": "This is a prospective, phase II, stratified single arm investigation for favorable prognosis in p16+ oropharynx cancer patients with either node negative or malignant neck adenopathy with lymphoscintigraphy mapping confined to the ipsilateral neck.",
+  "detailed_description": "This is a prospective, phase II, stratified single arm investigation for favorable prognosis in p16+ oropharynx cancer patients with either node negative or malignant neck adenopathy with lymphoscintigraphy mapping confined to the ipsilateral neck. Patients positive for p16 status will be approached for consent during the pre-treatment intake process. Contralateral neck progression will be measured by PET (positron emission tomography)/CT scans. Xerostomia will be measured by the EORTC QLQ (European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire) H\\&N35 at 6, 12, and 24 months. Patients will remain on study treatment for 6-7 weeks or until unacceptable toxicity or withdrawal of consent. Disease free survival (DFS) and overall survival (OS) will be assessed until 24 months after completion of study treatment",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 22,
+  "conditions": [
+    "Oropharynx Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Radiation therapy (5 days for 7 weeks)",
+      "type": "RADIATION",
+      "description": "Mon-Fri (5 days for 7 weeks), total 35 fractions over 35 treatment days of radiation therapy (RT)"
+    },
+    {
+      "name": "Radiation therapy (5 days for 6 weeks)",
+      "type": "RADIATION",
+      "description": "Mon-Fri (5 days for 6 weeks), total 35 fractions over 30 treatment days of RT (two doses 6 hours apart except for the last 6th Friday of the 6 weeks )"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Cisplatin, 40mg/m2 (weekly for 7 weeks)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Pathologically confirmed squamous cell carcinoma of the oropharynx\n* Patients to be treated with bilateral neck radiation per current guidelines must have either present (see below):\n* Nodal status (based on staging manual, AJCC (American Joint Committee on Cancer) 8th ed.): N0 (provided the tumor is within 1cm of midline) N1\\> 1 lymph nodes (on the same side of the neck as the primary cancer) or cN3 (cranial nerve III) with no contralateral neck adenopathy\n* Tumor stage T1-2 that approaches within 1 cm but does not cross midline as appreciated radiographically and/or by the treating radiation oncologist or a head and neck surgeon\n* CT with contrast and/or MRI with contrast performed within 56 days prior to registration that does not demonstrate bilateral neck adenopathy. In the setting of medical contraindication to both CT and MRI contrast please contact the study PI\n* PET/CT performed with 28 days prior to registration that does not demonstrate bilateral neck adenopathy.\n* Immunohistochemical staining for p16 that demonstrates moderate to severe staining in at least 70% of cells.\n* Patients must provide their smoking history prior to registration. Number of pack-years = \\[Frequency of smoking (number of cigarettes per day) x duration of cigarette smoking (years)\\]/20\n* Patients must have clinically and/or radiographically evident disease that can be accurately measured in accordance with RECIST criteria v. 1.1.\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0-1 within 56 days prior to registration\n* Age \u2265 18 years.\n* Adequate hematologic function within 14 days prior to registration\n* Adequate renal function within 14 days prior to registration\n* Adequate hepatic function within 14 days prior to registration\n\nExclusion Criteria:\n\n* Tumors that cross midline, regardless of T stage\n* N2 adenopathy (bilateral neck adenopathy)\n* Gross total excision of the primary site in a diagnostic procedure prior to either imaging and/or physical examination by registering physician.\n* p16-negative squamous cell carcinoma\n* Definitive clinical or radiologic evidence of metastatic disease or adenopathy below the clavicles\n* Prior systemic therapy for the study cancer\n* Prior head and neck cancer surgery that involved the neck (includes excisional biopsy)\n* Prior radiation therapy to the head and neck that would result in overlap of treated fields\n* History of allergic reaction attributed to Technetium-99m-tilmanocept used in lymphoscintigraphy\n* Uncontrolled intercurrent illness including, but not limited to, any other malignancy, other ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Pregnant or breast feeding",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of patients that develop cancer on the contra-lateral side of the neck within 12 months of completion of radiation treatment",
+      "timeFrame": "1 year",
+      "description": "To evaluate the development of cancer on the contra-lateral side of the neck within 12 months of completion of radiation treatment."
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [
+    "Cardinal Health"
+  ],
+  "start_date": "2023-03-14",
+  "completion_date": "2027-09-23",
+  "last_updated": "2024-12-20"
+}

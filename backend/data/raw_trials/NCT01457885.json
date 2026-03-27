@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT01457885",
+  "brief_title": "Multi-center Study of Myeloablative Allo Stem Cell Transplant for Non-remission AML Using CloBu4 Regimen",
+  "official_title": "Multi-center Single Arm Phase II Study of Myeloablative Allogeneic Stem Cell Transplantation for Non-remission Acute Myeloblastic Leukemia (AML) Using Clofarabine and Busulfan x 4 (CloBu4) Regimen",
+  "brief_summary": "Although transplant results for AML in complete remission (CR) at the time of transplant have improved, transplant results for non-remission AML have been quite poor. Most multi-center studies have focused on standard risk AML patients and not many studies have been done in this population of patients with non-remission AML. There are a large number of older patients with non-remission AML because the complete remission rate with induction chemotherapy decreases with age. Such older patients do not tolerate conventional full intensity conditioning regimens. Thus, an effective and tolerable conditioning regimen for non-remission AML is a great unmet need for current transplant practice.\n\nFrom the investigators earlier study, it is suggested that replacing Fludarabine of standard FluBu4 regimen by Clofarabine (a related drug with much more potent anti-leukemia effect) in the transplant conditioning regimen may potentiate the anti-tumor activity of the conditioning regimen without adding significant toxicity, a goal of new conditioning regimen development.\n\nThe investigators expect to enroll a total of 75 patients from about fifteen sites. The investigators main objective is to confirm both the safety and efficacy as measured by one-year overall survival, of the CloBu4 combination as full intensity conditioning for non-remission acute myelogenous leukemia.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 75,
+  "conditions": [
+    "Acute Myeloblastic Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "Clofarabine/Busulfan x 4",
+      "type": "DRUG",
+      "description": "* Clofarabine IV dose level: 40 mg/m2/day x 5 days\n* Busulfan IV dose level: 3.2 mg/kg daily x 4 days"
+    },
+    {
+      "name": "Peripheral blood stem cell transplant",
+      "type": "PROCEDURE",
+      "description": "Peripheral blood stem cell transplant, after pre-conditioning drug treatment"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nDisease Criteria\n\n* AML not in remission at the time of transplant\n\n  * \"Not in remission\" is defined as \"greater than 5.0% bone marrow blasts by aspirate morphology,\" as determined by a bone marrow aspirate obtained within 2 weeks of study registration.\n  * For primary induction failure patients: Patients must have failed at least 2 induction regimens.\n  * For patients with relapsed disease: Patients who relapse more than 6 months after preceding remission must fail at least one reinduction regimen to be eligible. For patients in whom the preceding remission is equal to or shorter than 6 months duration, no re-induction regimen is required to qualify for this protocol.\n* If the pre-transplant bone marrow aspirate and biopsy are hypoplastic (less than 10% cellularity), and blast percentages cannot be determined, the patient is eligible if the preceding bone marrow met the above criteria.\n* Patients with peripheral circulating blasts or patients with extramedullary leukemia are eligible if bone marrow aspirate and biopsy meets the above criteria. Age and Organ Function Criteria\n* Age: 2 to 65 years in age.\n* Cardiac: LVEF \u2265 40% by MUGA (Multi Gated Acquisition) scan or echocardiogram.\n* Pulmonary: FEV1 and FVC capacity) \u2265 40% predicted, DLCO (corrected for hemoglobin) \u2265 40% of predicted.\n* Children who are unable to cooperate for pulmonary function tests (PFTs), must have no evidence of dyspnea at rest, no exercise intolerance, and not require supplemental oxygen therapy.\n* Renal: Age equal to or older than 12: The estimated creatinine clearance (CrCl) must be equal or greater than 60 mL/min/1.73 m2 as calculated by the Cockcroft-Gault Formula. Age younger than 12: Either estimated or measured CrCl should be greater than 90 ml/min/1.73m2. For estimation, Schwartz formula will be used.\n* Hepatic: Serum bilirubin \u2264 1.5 x upper limit of normal (ULN); (AST)/ ALT \u2264 2.5 x ULN; Alkaline phosphatase \u2264 2.5 x ULN\n* Performance status: Karnofsky \u2265 70%., or Lansky\u226570% Consent: All patients must sign informed consent\n\nExclusion Criteria:\n\n* Active life-threatening cancer requiring treatment other than AML\n* Non-compliant to medications.\n* No appropriate caregivers identified.\n* HIV1 (Human Immunodeficiency Virus-1) or HIV2 positive\n* Active life-threatening cancer requiring treatment other than AML\n* Uncontrolled medical or psychiatric disorders.\n* Uncontrolled infections, defined as positive blood cultures within 72 hours of study entry, or evidence of progressive infection\n* Active central nervous system (CNS) leukemia\n* Preceding allogeneic HSCT\n* Receiving intensive chemotherapy within 21 days of registration.\n* Patients with preceding primary myelofibrosis\n* Peripheral blasts \\> 10,000/\u03bcL at the time of registration",
+    "gender": "ALL",
+    "min_age": "2 Years",
+    "max_age": "65 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cumulative Incidence of Non Relapse Mortality (NRM)",
+      "timeFrame": "1 year",
+      "description": "Percentage of patients passed without relapse/recurrence at 1 year."
+    }
+  ],
+  "sponsor": "University of Michigan Rogel Cancer Center",
+  "collaborators": [
+    "Genzyme, a Sanofi Company",
+    "Otsuka Pharmaceutical Development & Commercialization, Inc."
+  ],
+  "start_date": "2011-11",
+  "completion_date": "2016-06-14",
+  "last_updated": "2017-05-03"
+}

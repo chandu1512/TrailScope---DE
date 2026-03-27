@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT04945317",
+  "brief_title": "ROSE for Improved Molecular Marker Testing Via EBUS",
+  "official_title": "Rapid Onsite Cytopathologic Evaluation for Improved Molecular Marker Testing Via Endobronchial Ultrasound Bronchoscopy - A Randomized Controlled Trial",
+  "brief_summary": "This research study is being done to compare two ways to conduct bronchoscopic biopsy of lymph nodes and other structures in the chest (i.e. the presence or absence of an on-site cytotechnologist performing a limited microscopic evaluation to provide non-binding feedback on specimen adequacy in real time during the procedure).",
+  "detailed_description": "Endobronchial ultrasound (EBUS) is a highly safe and effective bronchoscopic procedure that can achieve diagnostic yields of over 90% for lung cancer - similar to those with the more-invasive surgical mediastinoscopy - with EBUS enjoying the advantage of a near 0% complication rate in several large studies. This has led to EBUS becoming the procedure of choice for mediastinal staging of lung cancer. Increasingly, bronchoscopists are being asked to perform EBUS not only for lung cancer staging but also for tissue acquisition for molecular markers to assess for mutations that can be treated with biologic therapy. However, a frequently encountered clinical scenario is that while an EBUS is diagnostic for lung cancer, it is non-diagnostic for molecular testing because of an insufficient amount of tissue material being collected. According to multiple studies, the \"molecular yield\" for EBUS in lung cancer can range from 74-82%. These studies have not specifically looked at adequacy of biomarkers, which could be distinctly different considering that evaluation of biomarkers requires more tissue for next generation sequencing (NGS). Currently, Johns Hopkins Hospital uses NGS as standard of care for identifying mutations associated with malignant cells. NGS analysis, which is usually reported as a percentage of cells that express one of many biomarkers currently being tested as standard of care, is performed via immunohistochemistry (IHC), necessitating the presence of a sufficiently cellular material with \\>100 tumor cells for reliable quantitative characterization. To the investigator's knowledge, the rates of NGS biomarker sufficiency have not been prospectively analyzed to date.\n\nRapid on-site evaluation (ROSE) is an optional step during EBUS bronchoscopy in which an on-site cytotechnologist performs a limited microscopic evaluation to provide non-binding feedback on specimen adequacy in real time during the procedure. The cytotechnologist can also aid specimen processing e.g. through creation of a \"tissue clot\" in addition to use of the more standard liquid-based medium. At Johns Hopkins, EBUS procedures are routinely performed both with and without ROSE since the presence or absence of ROSE during EBUS has not been shown to impact diagnostic yield or procedural safety. However, its impact on NGS biomarker sufficiency has not been tested to the investigator's knowledge.\n\nThis study aims to investigate whether ROSE can impact NGS biomarker sufficiency by assisting the bronchoscopist in obtaining adequate tissue from the appropriate site. The hypothesis is that ROSE will decrease the rate of insufficient tumor tissue to permit NGS biomarker testing.",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 349,
+  "conditions": [
+    "Non-small Cell Lung Cancer (NSCLC)"
+  ],
+  "interventions": [
+    {
+      "name": "ROSE (presence of cytotech) & liquid prep",
+      "type": "OTHER",
+      "description": "Standard of care EBUS will include presence of trained cytotechnologist providing on-site cytopathology feedback to bronchoscopist during the procedure. Sample is liquid."
+    },
+    {
+      "name": "NO-ROSE (absence of cytotech) & liquid prep",
+      "type": "OTHER",
+      "description": "Standard of care EBUS will NOT include presence of trained cytotechnologist providing on-site cytopathology feedback to bronchoscopist during the procedure. Sample is liquid."
+    },
+    {
+      "name": "ROSE (presence of cytotech) & tissue clot sample",
+      "type": "OTHER",
+      "description": "Standard of care EBUS will include presence of trained cytotechnologist providing on-site cytopathology feedback to bronchoscopist during the procedure. Sample is a tissue clot."
+    },
+    {
+      "name": "NO-ROSE (absence of cytotech) & tissue clot sample",
+      "type": "OTHER",
+      "description": "Standard of care EBUS will NOT include presence of trained cytotechnologist providing on-site cytopathology feedback to bronchoscopist during the procedure. Sample is a tissue clot."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Inpatients or outpatients \\>18 years old\n* Capable of informed consent\n* Known or suspected non-small cell lung cancer (NSCLC)\n* Referred to the interventional pulmonary team at Johns Hopkins Hospital (JHH), Johns Hopkins Bayview Medical Center (JHBMC), or other participating sites for tissue sampling of a hilar/mediastinal lymph node or another lesion accessible by convex-probe (CP) EBUS\n\nExclusion Criteria:\n\n* Refuse participation\n* Standard contraindications to EBUS and bronchoscopy in general: bleeding disorders, antiplatelet or anticoagulant usage, high fraction of inspired oxygen (FiO2) requirement, and clinical instability\n* Pregnant women\n* Cytotechnologist not available at the time of screening, enrollment, or randomization",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Bayview Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": ""
+    },
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of NGS biomarker testing attempts",
+      "timeFrame": "within 60 days of procedure",
+      "description": "NGS biomarker sufficiency - percentage of NGS biomarker testing attempts that were successful due to sufficient tissue"
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [
+    "AstraZeneca"
+  ],
+  "start_date": "2021-05-14",
+  "completion_date": "2026-12-31",
+  "last_updated": "2025-12-09"
+}

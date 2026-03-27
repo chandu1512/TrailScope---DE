@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT07307664",
+  "brief_title": "Increasing Germline Genetic Testing for Patients With Cancer",
+  "official_title": "Increasing Germline Genetic Testing for Patients With Cancer",
+  "brief_summary": "Germline testing for hereditary cancer syndromes is underutilized across most health care settings. Using a learning health care approach, the Genomics-enabled Learning Health Systems (gLHS) network aims to evaluate the impact of a suite of implementation strategies to increase germline test ordering by oncology care teams (i.e., mainstreaming) for eligible patients with breast, pancreatic or colorectal cancer. Secondarily, the study will investigate completion of testing by eligible patients, as well as impact on overall rates of germline test ordering in patients with cancer. The network will bundle and deploy different implementation strategies across the clinical sites in three 6-month phases. A maintenance phase after the implementation periods will measure genetic testing rates without any additional implementation strategies to determine persistence of effects. The implementation strategies address clinician-level factors, and thus oncologists and their team members (e.g. advanced practice providers, nurse navigators, case managers) will be the focus of evaluating the impact of implementation strategies. Strategies that will be considered include provider education, audit and feedback reports, facilitation, peer support, and electronic health record (EHR) system optimization to support germline testing. Using the RE-AIM QuEST framework, outcomes will be assessed using mixed methods separately for each eligible cancer type. Data collection from the EHR, other relevant data sources, and qualitative provider feedback will be used to assess ordering and completion of tests and the effect of the implementation strategies on germline testing rates in oncology clinics.",
+  "detailed_description": "This project seeks to close the acknowledged care gap in genetic testing of hereditary cancer predisposition by evaluating implementation strategies expected to increase guideline-concordant germline genetic testing (referred to in protocol as \"germline testing\" and defined as testing for inherited gene variants related to cancer) by oncology care teams (i.e., 'mainstreaming', or 'task-shifting' from the traditional genetic consultation referral model). Identification of inherited pathogenic variants in individuals with a cancer diagnosis can have implications for treatment, with targeted therapies. Furthermore, identifying individuals with hereditary risk provides an opportunity for surveillance for early detection of other cancers or risk-reducing procedures. Finally, identifying a pathogenic variant allows for cascade testing in family members, extending these benefits to more individuals. Germline testing for hereditary cancer within current clinical practice is underutilized across most health care settings, even though evidence supports effectiveness to inform clinical care. Mainstreaming is service delivery model that has emerged to improve access to germline testing. It shifts the clinical activities of pre- and post- test germline testing to frontline clinician teams. Here, the investigators will be studying the implementation of mainstreaming throughout the germline testing process, from recognizing patients who are eligible for germline testing to disclosing results for those who opt to test.\n\nThe study will assess changes in germline test orders for and completion by patients with cancer who receive care across the clinical sites in the gLHS Network before and after deploying implementation strategies designed to promote testing uptake. There will be three implementation phases followed by a maintenance period. The selected implementation strategies are widely used to improve clinical practice and address barriers previously reported in the literature and documented in participating sites. These strategies will aim to increase mainstreaming of germline testing by oncology teams. Most studies evaluating mainstreaming of germline testing for cancer have been performed in relatively small numbers of patients often at single institutions focusing on outcomes of feasibility and patient and provider satisfaction. Implementation outcomes (e.g., reach, adoption, implementation) precede and impact both service and patient outcomes. Thus, understanding implementation outcomes for mainstreaming of germline testing, as well as contextual factors that are associated with successful implementation, is fundamental to achieving high-quality genetic health care.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1000,
+  "conditions": [
+    "Hereditary Pancreatic Cancer",
+    "Conditions or Focus of Study",
+    "Hereditary Breast Cancer",
+    "Hereditary Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Implementation strategies",
+      "type": "BEHAVIORAL",
+      "description": "We will deploy different strategy bundles across the clinical sites in three approximate 6-month phases.\n\nPhase I - Facilitation of provider training, educational materials, and information resources; Patient-facing educational material and information resources Phase II - Audit and feedback report on existing patients; Practice champion support; Optimizing EHR strategies Phase III - EHR tools to facilitate prospective identification of patients, testing, and result reporting"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Oncology care team members (including, but not limited to, oncologists, advanced practice providers, nurse navigators, caring for patients with adult patients with breast cancer, pancreatic cancer or colorectal cancer.\n\nExclusion Criteria:\n\n* Providers not on the oncology care team",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Geisinger",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Germline Genetic Testing Ordered for Breast Cancer Patients",
+      "timeFrame": "48 months",
+      "description": "Number of eligible breast cancer patients with germline genetic testing ordered by an oncology care team provider, or associated with an oncology visit, within 7 days of an oncology encounter divided by the number of eligible breast cancer patients seen by the oncology team"
+    },
+    {
+      "measure": "Germline Genetic Testing Ordered for Pancreatic Cancer Patients",
+      "timeFrame": "48 months",
+      "description": "Number of eligible pancreatic cancer patients with germline genetic testing ordered by an oncology care team provider, or associated with an oncology visit, within 7 days of an oncology encounter divided by the number of eligible pancreatic cancer patients seen by the oncology care team."
+    },
+    {
+      "measure": "Germline Genetic Testing Ordered for Colorectal Cancer Patients",
+      "timeFrame": "48 months",
+      "description": "Number of eligible colorectal cancer patients with germline genetic testing ordered by an oncology care team provider, or associated with an oncology visit, within 7 days of an oncology encounter divided by the number of eligible colorectal cancer patients seen by the oncology care team."
+    }
+  ],
+  "sponsor": "Josh Peterson",
+  "collaborators": [
+    "National Human Genome Research Institute (NHGRI)",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2026-01-30",
+  "completion_date": "2030-01-01",
+  "last_updated": "2026-02-26"
+}

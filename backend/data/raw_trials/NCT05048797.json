@@ -1,0 +1,108 @@
+{
+  "nct_id": "NCT05048797",
+  "brief_title": "A Study to Investigate the Efficacy and Safety of Trastuzumab Deruxtecan as the First Treatment Option for Unresectable, Locally Advanced/Metastatic Non-Small Cell Lung Cancer With HER2 Mutations",
+  "official_title": "An Open-label, Randomized, Multicenter, Phase 3 Study to Assess the Efficacy and Safety of Trastuzumab Deruxtecan as First-line Treatment of Unresectable, Locally Advanced, or Metastatic NSCLC Harboring HER2 Exon 19 or 20 Mutations (DESTINY-Lung04)",
+  "brief_summary": "DESTINY-Lung04 will investigate the efficacy and safety of Trastuzumab Deruxtecan (T-DXd) versus Standard of Care (SoC) as first-line treatment of Non-Small Cell Lung Cancer (NSCLC) with HER2 Exon 19 or 20 mutations",
+  "detailed_description": "Eligible participants will be those diagnosed with unresectable, locally advanced or metastatic histologically documented non-squamous NSCLC with HER2 exons 19 or 20 mutations and who are treatment-na\u00efve for palliative intent systemic therapy for locally advanced or metastatic disease.\n\nThe study aims to evaluate the efficacy, safety and tolerability of trastuzumab deruxtecan as first-line treatment of Non-Small Cell Lung Cancer (NSCLC) as compared with Standard of Care treatment (Investigator's choice of cisplatin or carboplatin + pembrolizumab + pemetrexed). This study aims to see if trastuzumab deruxtecan allows patients to live longer without the cancer getting worse or simply to live longer, compared to patients receiving standard of care treatment. This study is also looking to see how the treatment and the cancer affects patients' quality of life.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 454,
+  "conditions": [
+    "Locally Advanced or Metastatic Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Trastuzumab Deruxtecan",
+      "type": "DRUG",
+      "description": "Trastuzumab Deruxtecan administered by intravenous infusion"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Investigator's choice of platinum chemotherapy (cisplatin) administered by intravenous infusion"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Investigator's choice of platinum chemotherapy (carboplatin) administered by intravenous infusion"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Pembrolizumab administered by intravenous infusion"
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": "Pemetrexed administered by intravenous infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants at least 18 years of age\n* Locally advanced and unresectable NSCLC, not amenable to curative therapy, or metastatic disease\n* Histologically documented non-squamous NSCLC with HER2 mutation in exons 19 or 20 by tissue NGS or ctDNA\n* Treatment-na\u00efve for palliative intent systemic therapy for locally advanced or metastatic disease\n* Left ventricular ejection fraction (LVEF) \u2265 50%\n* Measurable disease assessed by Investigator based on RECIST 1.1\n* Protocol-defined adequate organ function including cardiac, renal, hepatic function\n* ECOG 0-1\n* Having tumour tissue available for central testing\n\nExclusion Criteria:\n\n* Tumors with targetable alterations to EGFR (or other targetable mutations including but not limited to ALK, if routinely tested as a targetable alteration with approved available therapy)\n* Any untreated brain metastases, including asymptomatic or clinically inactive brain metastases\n* Active autoimmune or inflammatory disorders\n* Medical history of myocardial infarction within 6 months prior to randomization\n* History of non-infectious pneumonitis/ILD, current or suspected ILD\n* Lung-specific intercurrent clinical significant severe illness\n* Contraindication to platinum-based doublet chemotherapy or pembrolizumab",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "123 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20910",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Basking Ridge",
+      "state": "New Jersey",
+      "zip": "07920",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Middletown",
+      "state": "New Jersey",
+      "zip": "07748",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Montvale",
+      "state": "New Jersey",
+      "zip": "07645",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS) by Blinded Independent Central Review (BICR)",
+      "timeFrame": "Until progression or death, assessed up to approximately 12 months",
+      "description": "Defined as time from randomization until progression per RECIST 1.1 as assessed by Blinded Independent Central Review (BICR), or death due to any cause."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [
+    "Daiichi Sankyo"
+  ],
+  "start_date": "2021-10-28",
+  "completion_date": "2027-07-30",
+  "last_updated": "2025-12-22"
+}

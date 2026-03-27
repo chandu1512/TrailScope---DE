@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT01486602",
+  "brief_title": "Specialized Radiation Therapy and Chemotherapy in Treating Patients With Stage III Non-Small Cell Lung Cancer That Cannot Be Removed by Surgery",
+  "official_title": "Phase I Study of Accelerated Hypofractionated Radiation Therapy With Concomitant Chemotherapy for Unresectable Stage III Non-Small Cell Lung Cancer",
+  "brief_summary": "This phase I trial studies the side effects and the best dose of hypofractionated radiation therapy when given together with chemotherapy in treating patients with stage III non-small cell lung cancer that cannot be removed by surgery. Hypofractionated radiation therapy delivers higher doses of radiation therapy over a shorter period of time and may kill more tumor cells and have fewer side effects. Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving hypofractionated radiation therapy together with chemotherapy may kill more tumor cells.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine the maximum-tolerable radiotherapy (RT) dose fraction for accelerated hypofractionated radiotherapy with concurrent chemotherapy.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the rate of radiographic response to treatment. II. To estimate the rates of progression: local/regional/distant. III. To estimate the progression-free survival. IV. To estimate the overall survival.\n\nOUTLINE: This is a dose-escalation study of accelerated hypofractionated radiotherapy.\n\nCONCURRENT THERAPY: Patients receive paclitaxel IV over 1 hour and carboplatin IV over 30-60 minutes on days 1 and 8. Treatment repeats every 14 days for 2 courses in the absence of disease progression or unacceptable toxicity. Patients also undergo accelerated hypofractionated radiotherapy using 3-dimensional conformal radiation therapy or intensity-modulated radiotherapy (IMRT) once daily, 5 days a week, for approximately 4-5.5 weeks.\n\nCONSOLIDATION THERAPY: Beginning 4 weeks after completion of radiotherapy, patients receive paclitaxel IV over 3 hours and carboplatin IV over 30-60 minutes on day 1. Treatment repeats every 21 days for 2 courses in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 1 month, every 3 months for 2 years, and then every 6 months for 3 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 22,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "carboplatin",
+      "type": "DRUG",
+      "description": "IV"
+    },
+    {
+      "name": "paclitaxel",
+      "type": "DRUG",
+      "description": "IV"
+    },
+    {
+      "name": "radiation therapy",
+      "type": "RADIATION",
+      "description": "Defined per the protocol"
+    }
+  ],
+  "eligibility": {
+    "criteria": "1. Histologically or cytologically documented non-small cell lung cancer\n2. Stage IIIA or IIIB non-small cell lung cancer (NSCLC) per American Joint Committee on Cancer (AJCC) version 7; patients who present with N2 or N3 disease and an undetectable primary tumor are also eligible\n3. Thoracic disease without supraclavicular or contralateral hilar involvement\n4. When pleural fluid is visible on both computed tomography (CT) scan and on a chest x-ray, a pleuracentesis is required to confirm that the pleural fluid is cytologically negative; exudative pleural effusions are excluded regardless of cytology; patients with effusions that are minimal (i.e., not visible on chest x-ray) and too small to safely tap are eligible\n5. No prior radiotherapy or chemotherapy for NSCLC\n6. No prior mediastinal or thoracic radiotherapy\n7. Patients with complete surgical resection of disease are not eligible, however; patients with surgical resection and measurable gross residual disease present on imaging are considered eligible\n8. Patients must have measurable disease\n\n   * Lesions that can be accurately measured in at least one dimension (longest diameter to be recorded) as \\>= 2 cm with conventional techniques or as \\>= 1 cm with spiral CT scan\n   * Patients with non-measurable disease are not eligible; all other lesions, including small lesions (longest diameter \\< 20 mm with conventional techniques or \\< 10 mm with spiral CT scan) and truly nonmeasurable lesions; lesions that are considered non-measurable include the following:\n\n     * Bone lesions\n     * Leptomeningeal disease\n     * Ascites\n     * Pleural/pericardial effusion\n     * Inflammatory breast disease\n     * Lymphangitis cutis/pulmonis\n     * Abdominal masses that are not confirmed and followed by imaging techniques\n     * Cystic lesions\n9. Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n10. No patients that are known to be pregnant or nursing\n11. Granulocytes \u2265 1,500/\u03bcl Platelet count \u2265 100,000/\u03bcl Bilirubin \u2264 1.5 times upper limit of normal (ULN) Aspartate aminotransferase (AST) (serum glutamic oxalo-acetic transaminase \\[SGOT\\]) \u2264 2.0 times ULN Serum creatinine \u2264 1.5 times ULN OR calculated creatinine clearance \\>= 70 mL/min FEV-1 \u2265 1.2 L/sec or 50% predicted",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland/Greenebaum Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum-tolerated RT dose fraction",
+      "timeFrame": "Up to 28 months",
+      "description": ""
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2012-03",
+  "completion_date": "2018-01-16",
+  "last_updated": "2018-01-17"
+}

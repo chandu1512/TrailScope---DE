@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT06084416",
+  "brief_title": "A Study of Sovilnesib in Subjects With Ovarian Cancer",
+  "official_title": "A Phase 1b Dose Optimization Study of Sovilnesib (an Oral KIF18A Inhibitor) in Subjects With Advanced High Grade Serous Ovarian Cancer",
+  "brief_summary": "This is a randomized, phase 1b study to assess the safety, tolerability, pharmacokinetics (PK), and efficacy of sovilnesib at different dose levels to establish the Recommended Phase 2 Dose (RP2D) of sovilnesib in subjects with high grade serous ovarian cancer (HGSOC).",
+  "detailed_description": "This is a randomized, phase 1b dose optimization study of sovilnesib in subjects with platinum-resistant HGSOC. The focus of the proposed clinical study is to establish the RP2D of sovilnesib in HGSOC.\n\nAn adaptive multi-cohort design will be used to assess the safety, tolerability, PK, and efficacy of multiple dose levels in parallel to establish the RP2D of sovilnesib. The study will be conducted in 2 parts.\n\nPart 1: 10 subjects will be randomized to each of the open dose levels to generate preliminary PK, pharmacodynamic (PD), safety, tolerability and efficacy data. Early stopping rules for safety based on a Bayesian Toxicity Monitoring Design will be applied.\n\nPart 2: Based on review of the data from Part 1, 20-30 additional subjects will be randomized to 2 or more dose levels examined in Part 1. At the end of Part 2, PK, PD, safety, tolerability and efficacy data will be used to determine the RP2D. Early stopping rules for safety based on a Bayesian Toxicity Monitoring Design and for futility based on a Bayesian Efficacy Monitoring via Predictive Probability Design will be applied.\n\nSovilnesib will be given orally in 28-day cycles at selected dose levels of interest. Dosing will continue until disease progression, unacceptable toxicity, withdrawal of consent, or other stopping criteria are met.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 120,
+  "conditions": [
+    "High Grade Serous Adenocarcinoma of Ovary",
+    "Fallopian Tube Cancer",
+    "Primary Peritoneal Carcinoma",
+    "Chromosomal Instability"
+  ],
+  "interventions": [
+    {
+      "name": "Sovilnesib",
+      "type": "DRUG",
+      "description": "Sovilnesib tablets will be given orally."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* All Parts: Age \u2265 18 years, ECOG Performance Status \u2264 1, at least 1 site of measurable disease evaluable by CT scan or MRI per RECIST 1.1, able to take oral medication without alteration\n* High Grade Serous Ovarian Cancer, Fallopian Tube or Primary Peritoneal Cancer - histologically or cytologically confirmed; metastatic or unresectable; platinum resistant (defined as recurrence within 6 months of platinum containing therapy) or platinum refractory; prior bevacizumab treatment, or ineligible or intolerant to bevacizumab, or did not receive bevacizumab based on Investigator judgement; if germline and/or somatic BRCA1/2 mutation, previously treated with PARP-inhibitor or ineligible or intolerant.\n\nKey Exclusion Criteria:\n\n* MSI-H, dMMR, POLE gene hotspot mutated, or known hypermutator phenotype\n* Endometrioid, clear cell, mucinous, sarcomatoid, low-grade/borderline ovarian tumor or mixed tumors containing any of the above histologies\n* Previously received KIF18A inhibitor\n* Current CNS metastases or leptomeningeal disease\n* Cardiac parameters: MI or stroke \u2264 6 months, unstable angina/PE/DVT/CABG \u2264 6 months, NYHA Class \u2265 II, LVEF \\< 50%\n* Any gastrointestinal condition (e.g. malabsorption syndrome, surgical anastomosis, short bowel syndrome) that might affect the absorption of oral medications including the study drug",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Determination of the Recommended Phase 2 Dose (RP2D) of Sovilnesib",
+      "timeFrame": "Up to 24 months",
+      "description": ""
+    },
+    {
+      "measure": "Frequency and duration of Serious Adverse Events (SAEs) graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 5.0",
+      "timeFrame": "Up to 24 months",
+      "description": ""
+    },
+    {
+      "measure": "Frequency and duration of Treatment-related Adverse Events (AEs) graded per NCI-CTCAE version 5.0",
+      "timeFrame": "Up to 24 months",
+      "description": ""
+    },
+    {
+      "measure": "Frequency and duration of Treatment-Emergent AEs (TEAEs) graded per NCI-CTCAE version 5.0",
+      "timeFrame": "Up to 24 months",
+      "description": ""
+    },
+    {
+      "measure": "Frequency of Dose Interruptions and Permanent Treatment Discontinuations",
+      "timeFrame": "Up to 24 months",
+      "description": ""
+    },
+    {
+      "measure": "Objective Response Rate (ORR) as assessed by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1",
+      "timeFrame": "Up to 24 months",
+      "description": ""
+    }
+  ],
+  "sponsor": "Volastra Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2024-04-04",
+  "completion_date": "2026-04",
+  "last_updated": "2025-10-15"
+}

@@ -1,0 +1,105 @@
+{
+  "nct_id": "NCT02526017",
+  "brief_title": "Study of Cabiralizumab in Combination With Nivolumab in Patients With Selected Advanced Cancers",
+  "official_title": "A Phase 1a/1b Study of Cabiralizumab in Combination With Nivolumab in Patients With Selected Advanced Cancers",
+  "brief_summary": "Phase 1a/1b does-escalation study of cabiralizumab alone and with nivolumab in advanced solid tumors.",
+  "detailed_description": "This is a phase 1a/b single-arm, open-label study to evaluate safety, tolerability, pharmacokinetics (PK), and clinical benefit of cabiralizumab in combination with nivolumab in patients with selected advanced cancers.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 313,
+  "conditions": [
+    "Advanced Solid Tumors",
+    "Head and Neck Cancer",
+    "Pancreatic Cancer",
+    "Ovarian Cancer",
+    "Renal Cell Carcinoma",
+    "Malignant Glioma",
+    "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Cabiralizumab",
+      "type": "BIOLOGICAL",
+      "description": "Solution for IV administration"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Solution for IV administration"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have at least one measurable lesion at baseline by computed tomography (CT) or magnetic resonance imaging (MRI) as per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 criteria.\n* Patients must have had progressive disease on, after, or refused, appropriate approved therapy for their tumor type.\n* Patients must have histologically or cytologically confirmed solid tumor that is locally recurrent or metastatic and has progressed following standard treatment or is not appropriate for standard treatment\n* Understand and sign an Institutional review board/Independent ethics committee (IRB/IEC)-approved informed consent form (ICF) prior to any study-specific evaluation\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Willing and able to comply with all study procedures\n\nExclusion Criteria:\n\n* Current or history of clinically significant muscle disorders (e.g., myositis), recent unresolved muscle injury, or any condition known to elevate serum creatine kinase (CK) levels\n* Decreased cardiac function with New York Heart Association (NYHA) \\> Class 2\n* Uncontrolled or significant heart disorder such as unstable angina\n* Significant abnormalities on electrocardiogram (ECG) at screening. Fridericia's correction formula for QT interval (QTcF) \\> 450 msec for males or \\> 470 msec for females at screening\n* History of anti-drug antibodies, severe allergic, anaphylactic, or other infusion-related reaction to a previous biologic agent\n* Positive test for latent tuberculosis (TB) at screening (Quantiferon test) or evidence of active TB\n* Patients with abnormal serum chemistry values, which in the opinion of the Investigator is considered to be clinically significant, will be excluded from the study\n* Lack of peripheral venous or central venous access or any condition that would interfere with drug administration or collection of study samples\n* Any uncontrolled medical condition or psychiatric disorder which, in the opinion of the Investigator, would pose a risk to patient safety or interfere with study participation or interpretation of individual patient results\n* Pregnant or breastfeeding\n* Current unresolved infection or history of chronic, active, clinically significant infection (viral, bacterial, fungal, or other) which, in the opinion of the Investigator, would preclude the patient from exposure to a biologic agent or pose a risk to patient safety\n* Prior exposure to any colony stimulating factor 1 receptor (CSF1R) pathway inhibitors",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Cancer Institute, William M. Cooper Ambulatory Pavilion of the Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety: Number of Participants With Grade 3 or Grade 4 Adverse Events (AEs) and Laboratory Abnormalities Defined as Dose Limiting Toxicities (DLT) (Phase 1a)",
+      "timeFrame": "28 days",
+      "description": "A DLT was defined as a study drug-related \u2265 Grade 3 AE (using National Cancer Institute Common Terminology Criteria for Adverse Events v 4.03) occurring during the first 28-days, excluding Grade 3 tumor flare (defined as local pain, irritation, or rash localized at sites of known or suspected tumor), rash, immune-related adverse event (irAE) that resolved to \u2264 Grade 1 by 14 days or a transient (resolving within 6 hours of onset) Grade 3 infusion-related AE. Any recurrence of Grade 3 rash, irAE or infusion-related AE was considered a DLT.\n\nThe protocol was amended such that in the absence of clinical symptoms and other accompanying changes in bilirubin or alanine aminotransferase (ALT), serum elevation of aspartate aminotransferase (AST)/ALT \\> 12 \u00d7 upper limit of normal (ULN) and \u2264 20 \u00d7 ULN that lasted for \\< 7 days and serum elevation of creatine kinase (CK) and/or lactate dehydrogenase (LDH) \\> 15 \u00d7 ULN and \u2264 20 \u00d7 ULN that lasted for \\< 7 days were not considered DLTs."
+    },
+    {
+      "measure": "Recommended Dose (RD) of Cabiralizumab in Combination With Nivolumab (Phase 1a)",
+      "timeFrame": "28 days",
+      "description": "Using both the incidence of dose limiting toxicities (first 28 days on therapy) as well as overall tolerability and toxicities observed beyond 28 days, the RD was chosen as 4 mg/kg of cabiralizumab + 3 mg/kg nivolumab every 2 weeks to be the dose used in the Phase 1b (dose expansion). No maximum tolerated dose was identified."
+    },
+    {
+      "measure": "Safety: Number of Participants With Adverse Events and Serious Adverse Events (Phase 1a and 1b)",
+      "timeFrame": "From first dose of study drug up to 100 days after last dose. Median (range) duration of exposure was 6 (2-32) weeks in the monotherapy cohorts and 8 (2-108) weeks for cabiralizumab and 8 (2-156) weeks for nivolumab in the combination groups.",
+      "description": "An AE is defined as any new untoward medical occurrence or worsening of a preexisting medical condition in a clinical investigation, patient-administered study drug and that does not necessarily have a causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (such as an abnormal laboratory finding), symptom, or disease temporally associated with the use of study drug, whether or not considered related to the study drug.\n\nA Serious Adverse Event (SAE) is any untoward medical occurrence that at any dose:\n\n* Resulted in death;\n* Was life-threatening;\n* Required inpatient hospitalization or causes prolongation of existing hospitalization;\n* Resulted in persistent or significant disability/incapacity;\n* Was a congenital anomaly/birth defect;\n* Was an important medical event that may jeopardize the patient or may require intervention (e.g., medical, surgical) to prevent one of the other serious outcomes listed in the definition above."
+    },
+    {
+      "measure": "Safety: Number of Participants With Treatment Discontinuations, Modifications, or Interruptions Due to Adverse Events (Phase 1b)",
+      "timeFrame": "From first dose of study drug up to last dose; median (range) duration of exposure was 8 (2-108) weeks for cabiralizumab and 8 (2-156) weeks for nivolumab.",
+      "description": "Safety: In the Phase 1b only, the incidence of treatment discontinuations, modifications, and interruptions due to adverse events."
+    },
+    {
+      "measure": "Efficacy: Objective Response Rate - Investigator Assessment (Phase 1b)",
+      "timeFrame": "Tumor response was assessed every 8 weeks from first dose for the first 12 months and then every 12 weeks thereafter until end of treatment; maximum duration of treatment was 156 weeks.",
+      "description": "Objective response rate (ORR) is defined as the percentage of participants with confirmed responses of either complete response (CR) or partial response (PR). Response was evaluated using Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1 by investigator review.\n\nComplete Response: Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\<10 mm.\n\nPartial Response: At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters."
+    }
+  ],
+  "sponsor": "Five Prime Therapeutics, Inc.",
+  "collaborators": [
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2015-09-08",
+  "completion_date": "2019-11-18",
+  "last_updated": "2022-01-05"
+}

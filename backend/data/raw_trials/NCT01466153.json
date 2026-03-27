@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT01466153",
+  "brief_title": "A Phase 2, Multicenter, Open-label Study of MEDI-551 in Adults With Relapsed or Refractory Chronic Lymphocytic Leukemia (CLL)",
+  "official_title": "A Phase 2 Open-label Study of MEDI-551 and Bendamustine vs Rituximab and Bendamustine in Adults With Relapsed or Refractory CLL",
+  "brief_summary": "The overall purpose of the study was to determine if MEDI-551, when used in combination with salvage chemotherapy (bendamustine) in participants with relapsed or refractory CLL who are not eligible for Autologous Stem Cell Transplant (ASCT), had superior efficacy compared to rituximab in the same population.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 183,
+  "conditions": [
+    "Chronic Lymphocytic Leukemia (CLL)"
+  ],
+  "interventions": [
+    {
+      "name": "Rituximab",
+      "type": "DRUG",
+      "description": "Rituximab was administered by IV infusion as a dose of 375 mg/m\\^2 on Day 2 of Cycle 1 and then at 500 mg/m\\^2 on Day 1 of up to 5 subsequent 28-day cycles"
+    },
+    {
+      "name": "Bendamustine",
+      "type": "DRUG",
+      "description": "Bendamustine was administered by IV infusion as a dose of 70 mg/m\\^2 on Day 1 and Day 2 of each 5 subsequent 28-day cycle."
+    },
+    {
+      "name": "MEDI-551",
+      "type": "DRUG",
+      "description": "MEDI-551 was administered at 2 mg/kg or 4 mg/kg by IV infusion on Days 2 and 8 of Cycle 1 and then on Day 1 of up to 5 subsequent 28-day cycles."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed B-cell Chronic Lymphocytic Leukemia (CLL) according to the National Cancer Institute criteria; Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2; Adequate hematological function\n\nExclusion Criteria:\n\n* Any chemotherapy, radiotherapy, immunotherapy, biologic, investigational, or hormonal therapy for treatment of lymphoma within 28 days prior to treatment;\n* Exposure to bendamustine within the 180 days before study enrollment\n* Prior autologous or allogeneic stem cell transplantation (SCT);\n* Clinically significant abnormality on electrocardiogram (ECG) as determined by the treating physician or medical monitor;\n* History of other invasive malignancy within 5 years except for localized/in situ carcinomas;\n* Evidence of active infection, Confirmed current central nervous system involvement by leukemia or lymphoma;",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate",
+      "timeFrame": "From treatment administration (Day 1) until disease progression, death, initiation of alternative therapy, withdrawal of consent, or end of study (up to 24 months)",
+      "description": "ORR, defined as the proportion of participants with complete response (CR) or partial response (PR) out of total number of participants. Responses were assessed by using National Cancer Institute - Working Group guidelines on CLL."
+    }
+  ],
+  "sponsor": "MedImmune LLC",
+  "collaborators": [],
+  "start_date": "2012-02-07",
+  "completion_date": "2016-01-08",
+  "last_updated": "2017-04-20"
+}

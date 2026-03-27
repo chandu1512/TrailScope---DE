@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT01902251",
+  "brief_title": "Relative Bioavailability Study of Enzalutamide in Prostate Cancer Patients",
+  "official_title": "A Phase I, Open-label, Randomized, Parallel, Relative Bioavailability Study Comparing a Capsule and a Tablet Formulation of Enzalutamide Following Multiple Once Daily Doses of 160 mg Enzalutamide in Male Subjects With Prostate Cancer",
+  "brief_summary": "A multiple dose relative bioavailability study in patients with prostate cancer comparing a capsule and a tablet formulation of enzalutamide.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 27,
+  "conditions": [
+    "Prostate Cancer",
+    "Pharmacokinetics of Enzalutamide"
+  ],
+  "interventions": [
+    {
+      "name": "Enzalutamide tablet",
+      "type": "DRUG",
+      "description": "Oral"
+    },
+    {
+      "name": "Enzalutamide capsule",
+      "type": "DRUG",
+      "description": "Oral"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed prostate cancer (all stages) for whom androgen deprivation therapy is indicated (except when indicated in a neoadjuvant/adjuvant setting). Subjects may be on ongoing androgen deprivation therapy with a gonadotropin releasing hormone (GnRH) analogue or orchiectomy (i.e., medical or surgical castration) at study entry.\n* Progressive disease by Prostate-specific antigen (PSA) or imaging. Disease progression for study entry is defined as one or more of the following 3 criteria:\n\n  * PSA progression defined by a minimum of 2 rising PSA levels with an interval of \u22651 week between each determination. The PSA value during the pre-investigational period should be \u22652 \u03bcg/L (2 ng/mL);\n  * Soft tissue disease progression defined by the Response Evaluation Criteria in Solid Tumors, version 1.1 (RECIST 1.1) for soft tissue disease\n  * Bone disease progression defined by two or more new lesions on bone scan\n\nExclusion Criteria:\n\n* Treatment with chemotherapy within 4 weeks prior to enrollment (Day 1 visit) or plans to initiate treatment with chemotherapy during the study.\n* History of seizure or any condition that may predispose to seizure. Also, history of loss of consciousness, or transient ischemic attack within 12 months prior to enrollment (Day 1 visit).\n* Patients who previously received treatment with Enzalutamide.\n* Concomitant use of drugs that are potent inducers and/or inhibitors of CYP3A4 and CYP2C8.\n* Confirmed CYP2C8 poor metabolizer status based on genotyping analysis.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Pharmacokinetic profile of Enzalutamide under fasted conditions measured by Cmax (Maximum concentration)",
+      "timeFrame": "Day1 through Day 56 (12 samples)",
+      "description": "Day 56 (fasted) Cmax under steady state conditions of enzalutamide"
+    },
+    {
+      "measure": "Pharmacokinetic profile of Enzalutamide under fasted conditions measured by AUC0-24h (Area under the concentration-time curve 0-24h)",
+      "timeFrame": "Day1 through Day 56 (12 samples)",
+      "description": "Day 56 (fasted) AUC0-24h under steady state conditions of enzalutamide"
+    }
+  ],
+  "sponsor": "Astellas Pharma Europe B.V.",
+  "collaborators": [
+    "Medivation, Inc."
+  ],
+  "start_date": "2012-11",
+  "completion_date": "2013-10",
+  "last_updated": "2014-09-08"
+}

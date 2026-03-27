@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT00839332",
+  "brief_title": "A Study for Participants With Pancreatic Cancer",
+  "official_title": "A Phase 1/Randomized Phase 2 Study to Evaluate LY2603618 in Combination With Gemcitabine in Patients With Pancreatic Cancer",
+  "brief_summary": "The purpose of the Phase 1 portion of this study was to determine the dose of LY2603618 that can be safely administered 24 hours after gemcitabine treatment. This dose was then used for the Phase 2 portion of the study. The Phase 2 portion of the study evaluated whether LY2603618, when administered 24 hours after gemcitabine therapy, was an effective treatment for participants with pancreatic cancer.",
+  "detailed_description": "Phase 1 included a dose escalation of LY2603618 doses from 70 milligrams/meter squared (mg/m\\^2) to 250 mg/m\\^2 divided into 5 cohorts. Each participant was assigned to a single cohort with no intra-participant dose escalation. Phase 1 also included an expansion cohort where participants received a flat dose of 200 or 230 mg LY2603618. Participants received gemcitabine on Days 1, 8, and 15, followed by LY2603618 on Days 2, 9, and 16 of each 28-day cycle. The purpose of the Phase 1 portion was to determine the maximum tolerated LY2603618 dose to be carried into the Phase 2 portion of the study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 157,
+  "conditions": [
+    "Pancreatic Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "LY2603618",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Diagnosed with cancer that is metastatic and/or advanced during Phase 1\n* Diagnosed with pancreatic cancer that is metastatic and not amenable to surgery\n* Must be at least 18 years of age\n* Adequate hematological, liver, and renal functions\n* Eastern Cooperative Oncology Group (ECOG) status of 0 to 2\n\nExclusion Criteria:\n\n* Known hypersensitivity to gemcitabine\n* Pregnant or lactating females or refusal to use medically approved contraceptive precautions\n* Had prior treatment with radiotherapy involving more than 25% of marrow producing area\n* Have received treatment in the last 30 days with a drug which has not received regulatory approval for any indication at the time of study entry",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "85 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1: Determine the Recommended Phase 2 Dose for LY2603618 When Administered After Gemcitabine",
+      "timeFrame": "Baseline through 18 months",
+      "description": "The recommended Phase 2 dose for LY2603618 when administered approximately 24 hours after gemcitabine was based on the maximum tolerated dose and achievement of predefined LY2603618 plasma systemic exposures targets (area under the LY2603618 plasma concentration versus time curve from time zero to infinity \\[AUC(0-inf)\\] \\>21,000 nanogram\\*hour/milliliter \\[ng\\*h/mL\\] and maximum LY2603618 plasma concentration \\[Cmax\\] \\>2000 nanograms/milliliter \\[ng/mL\\])."
+    },
+    {
+      "measure": "Phase 2: Overall Survival (OS)",
+      "timeFrame": "Phase 2: Baseline to date of death",
+      "description": "Overall survival (OS) time is defined as the time from the date of randomization to the date of death from any cause. For participants not known to have died as of the data cut-off date, OS time was censored at the last contact date the participant was known to be alive prior to the cut-off date. OS was summarized using Kaplan-Meier estimates."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2009-02",
+  "completion_date": "2013-12",
+  "last_updated": "2018-03-15"
+}

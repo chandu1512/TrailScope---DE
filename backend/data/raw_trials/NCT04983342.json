@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT04983342",
+  "brief_title": "Apollo Device for Metastatic Breast Cancer (MBC)",
+  "official_title": "Apollo Device for Fatigue in Metastatic Breast Cancer",
+  "brief_summary": "This is a single-arm, open label pilot intervention study with outcomes measured by electronic survey and chart review evaluating a wearable device called Apollo, which is similar to a FitBit but emits vibrations. Our primary objective is to assess whether or not Apollo can help with symptoms of fatigue and pain in patients with Metastatic Breast Cancer (MBC).",
+  "detailed_description": "This study aims to provide preliminary data on the efficacy and tolerability of the Apollo device in the management of fatigue and pain in patients with Metastatic Breast Cancer (MBC).\n\nApollo is about the size of an Apple Watchand can be worn on the ankle, wrist, or armwith two adjustable fabric straps. Apollo vibrations activate touch receptors in the skin and are perceived as safety signals by the brain resulting in decreased stress, improved recovery, focus, and energy. In addition to the wearable, Apollo is a software system that curates music for the body, rather than for the ears. The scientific principles guiding the use of Apollo and mechanistic understanding of its effects on the body are consistent with the understanding of how music and therapeutic touch effect the body to convey feelings of energy, focus, or relaxation by sending safety signals to the emotional cortex (limbic system) in the brain. Similar to music and touch used to facilitate a healing response in the body, there are no known side effects to this type of therapy.\n\nThe PROMIS-Fatigue scale and the Functional Assessment of Cancer Therapy Fatigue (FACT-F) are instruments that have been previously validated in multiple diseases and will be used in this study. Preliminary data on indices of pain, use of PRN pain medications, health-related quality of life, sleep, anxiety and depression and tolerability/frequency of use with the Apollo device in MBC will also be evaluated using:\n\n* PROMIS pain scale\n* Use of pain medications\n* Health-related quality of life (HRQOL) using PROMIS-29\n* PROMIS Sleep\n* Hospital Anxiety and Depression Scale (HADS)\n* Usage data from Apollo app\n\nThis study aims to identify improvement of fatigue symptoms from baseline after 4 and 8 weeks of Apollo use. Improvements in pain, quality of life, use of PRN pain medication, anxiety and sleep.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 27,
+  "conditions": [
+    "Fatigue",
+    "Metastatic Breast Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Apollo Armband",
+      "type": "DEVICE",
+      "description": "The Apollo armband is approximately the size of an Apple Watch and can be worn on the ankle, wrist, or arm with two adjustable fabric straps. Apollo vibrations activate touch receptors in the skin and are perceived as safety signals by the brain resulting in decreased stress, improved recovery, focus, and energy, combatting fatigue and pain. In addition to the wearable, Apollo is a software system that curates music for the body, rather than for the ears."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Metastatic breast cancer diagnosis\n* Fatigue score of 4 or greater at last clinic visit\n\nExclusion Criteria:\n\n* Not able to read and understand English\n* Use of Beta Blockers,\n* Use of medications for serious mental illness",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Magee Womens Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in Fatigue (PROMIS-Fatigue)",
+      "timeFrame": "Up to 8 weeks",
+      "description": "Change from baseline to 4 and then 8 weeks as measured by the Patient-Reported Outcomes Measurement Information System (PROMIS)-Fatigue scale, which measures the presence of fatigue and its interference with life. PROMIS-Fatigue includes 6 items with scores 1-5 for each item, total scores 6-30. Lower scores indicate less fatigue and interference from fatigue."
+    },
+    {
+      "measure": "Change in Fatigue (FACT-F)",
+      "timeFrame": "Up to 8 weeks",
+      "description": "Change from baseline to 4 and then 8 weeks as measured by the Functional Assessment of Chronic Illness Therapy - Fatigue (FACIT-F) is a 40-item, 5 choice/item measure ranging from 0 (Not at all) to 4 (Very much) that assesses self-reported fatigue and its impact upon daily activities and function, 0-160 is the total score with higher scores indicating better QOL, the lower the fatigue symptoms. The recall period refers to the \"past 7 days\"."
+    }
+  ],
+  "sponsor": "Margaret Quinn Rosenzweig",
+  "collaborators": [
+    "Apollo Neuroscience, Inc."
+  ],
+  "start_date": "2021-02-01",
+  "completion_date": "2022-08-09",
+  "last_updated": "2024-06-18"
+}

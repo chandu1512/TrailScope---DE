@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT03148080",
+  "brief_title": "Work Ability in Young Adult Cancer Survivors",
+  "official_title": "Work Ability in Young Adult Survivors (WAYS)",
+  "brief_summary": "To document levels of labor force participation, occupation, educational attainment, and financial toxicity following cancer treatment in YA cancer survivors aged 25-34 years.",
+  "detailed_description": "This observational, cross-sectional study will recruit 220 analyzable YA survivors through the Wake Forest National Cancer Institute Community Oncology Research Program (NCORP) Research Base (WF NCORP RB). Data will be collected using a web-based interface and will capture physical, psychosocial and cognitive late effects; work ability; work-related outcomes, including labor force participation, occupation, work place characteristics, and educational attainment; survivor characteristics; and cancer diagnosis/treatment information (from clinical records). We will evaluate the relationships among these measures using the theoretical framework to guide statistical analysis.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 214,
+  "conditions": [
+    "Cancer Survivor"
+  ],
+  "interventions": [
+    {
+      "name": "Cognitive Assessment",
+      "type": "PROCEDURE",
+      "description": "Complete CogState"
+    },
+    {
+      "name": "Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Complete Self-Report Questionnaire"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* \\>= 2 to \\< 10 years post-cancer diagnosis (per diagnostic pathology report)\n* Diagnosed with first cancer (any type except types listed in exclusion criteria below) at age \\>= 15 years\n* Ability to understand and willingness to sign a written informed consent document\n* Must be able to read and understand English\n\nExclusion Criteria:\n\n* Currently receiving active cancer treatment (acceptable to be on maintenance or hormonal therapies)\n* Life expectancy less than 6 months\n* Precancerous or pre invasive conditions (myelodysplastic syndrome; carcinoma in situ; non-melanoma skin cancer) without progression to malignancy without another prior primary cancer diagnosis; (those who have had these conditions may participate IF they have a primary cancer diagnosis)\n* Non-Hispanic Whites (effective 11/01/2018)",
+    "gender": "ALL",
+    "min_age": "25 Years",
+    "max_age": "34 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants Currently Employed",
+      "timeFrame": "Baseline",
+      "description": "Labor force participation will be summarized as employed, unemployed (not working, but looking for work), and not in labor force (not employed and not looking for work or active duty military)."
+    },
+    {
+      "measure": "Occupation Status",
+      "timeFrame": "Baseline",
+      "description": "This categorical work-related outcomes will be described using frequencies. Occupational status will be summarized using the 2010 Standard Occupational Classification (SOC) system: managerial and professional) (SOC major groups 11-29), (support, retail, and service (SOC major groups 31-43), and construction, production and transportation (SOC major groups 45-53)."
+    },
+    {
+      "measure": "Educational Attainment",
+      "timeFrame": "Baseline",
+      "description": "This categorical work-related outcomes will be described using frequencies. Educational attainment will be classified as using the Current Population Survey classifications so that we can compare rates to US Benchmarks. The classifications are the following: Less than 1st grade, 1-4th grade, 5th-6th grade, 7-8th grade, 9th grade, 10th grade, 11th grade, 12 grade (no diploma), high school diploma or equivalent, some college (no degree), associate degree in college - occupational/vocational program, associate degree in college - academic program, Bachelor's degree, Master's degree, Professional School Degree (MD, DDS, DVM, JD etc.), Doctorate Degree."
+    },
+    {
+      "measure": "Financial Toxicity",
+      "timeFrame": "Baseline",
+      "description": "The Comprehensive Score for Financial Toxicity (COST) is a self-report measure of financial distress experienced in response to cancer and its treatment. It ranges from 0-44, with higher scores associated with greater financial toxicity."
+    }
+  ],
+  "sponsor": "Wake Forest University Health Sciences",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2018-03-13",
+  "completion_date": "2022-07-29",
+  "last_updated": "2022-08-01"
+}

@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT04099641",
+  "brief_title": "An Open Label Study of Bavituximab and Pembrolizumab in Advanced Gastric and GEJ Cancer Patients",
+  "official_title": "A Phase 2, Multicenter Open-label, Non-randomized Study of Bavituximab Plus Pembrolizumab in Patients With Advanced Gastric or Gastroesophageal Cancer Who Have Progressed on or After at Least One Prior Standard Therapy",
+  "brief_summary": "This study evaluates the combination of bavituximab and pembrolizumab in the treatment of gastric and gastroesphogeal cancer. All patients will receive both bavituximab, a drug that is not yet approved by the FDA, and pembrolizumab known as Keytruda.\n\nThere is no expanded access program available for the investigational agents per this protocol.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 80,
+  "conditions": [
+    "Gastric Cancer",
+    "GastroEsophageal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Bavituximab",
+      "type": "DRUG",
+      "description": "Bavituximab IV infusion"
+    },
+    {
+      "name": "Pembrolizumab Injection",
+      "type": "DRUG",
+      "description": "Pembrolizumab IV Infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Signed written informed consent\n* Men and women \u2265 18 years old; \u2265 20 years old in South Korea and Taiwan\n* Unresectable metastatic or locally advanced gastric or GEJ adenocarcinoma\n* Progressed on and/or after at least 1 prior regimen for metastatic disease or achieved stable disease or better in two consecutive scans to PD-1/PD-L1 inhibition alone or in combination with chemotherapy and relapsed\n* Willing and able to provide fresh formalin-fixed paraffin-embedded tissue tumor sample\n* Presence of at least one measurable lesion\n* ECOG of 0 or 1\n* Has adequate organ functions\n* Women of childbearing potential must have a negative serum or urine pregnancy test within 72 hours prior to start of study treatment.\n* Women must not be breastfeeding.\n* Women of childbearing potential , must agree to follow instructions for highly effective method(s) of contraception\n* Males who are sexually active with women of childbearing potential must agree to follow instructions for highly effective method(s) of contraception\n* Has adequate treatment washout period before start of study treatment\n\nExclusion Criteria:\n\n* Received any form of anti-phosphatidylserine therapies\n* Prior treatment with any checkpoint inhibitor or other therapies targeting T-cell control\n* Known microsatellite instability-high (MSI-H) gastric or GEJ adenocarcinoma\n* Medical history of myocardial infarction within 6 months before registration, symptomatic congestive heart failure (CHF) , troponin levels consistent with myocardial infarction, unstable angina, or serious cardiac arrhythmia\n* Weight loss \\>10% over 2 months prior to first dose of study treatment\n* History of pneumonitis that required steroids or has current pneumonitis\n* Has known active CNS metastases/and or carcinomatous meningitis\n* Known additional malignancy that is progressing or has required active treatment in within the past 3 years\n* An active infection requiring systemic therapy\n* Known human immunodeficiency virus (HIV) infection or known acute hepatitis B or C infection\n* Unresolved toxicities from previous cancer treatments\n* History or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the study, interfere with the participant's participation for the full duration of the study, or is not in the best interest of the participant to participate, in the opinion of the treating investigator\n* Active autoimmune disease or history of chronic recurrent autoimmune disease\n* Severe hypersensitivity (\u2265 Grade 3) to pembrolizumab and/or any of its excipients.\n* History of infusion reactions to any component/excipient of bavituximab\n* History of severe hypersensitivity reactions to mAbs.\n* Systemic steroid therapy within 7 days prior to the first dose of study treatment\n* Has received a live vaccine within 30 days prior to first dose of study drug.\n* Prior organ transplantation including allogeneic or autologous stem-cell transplantation\n* Currently participating in or has participated in a study of an investigational agent or has used an investigational device within 4 weeks prior to the first dose of study treatment\n* Receipt of treatment with immunotherapy, biological therapies, or therapeutic doses of hormonal therapies within 3 weeks of scheduled C1D1 dosing\n* Known psychiatric, substance abuse disorder, or geographical travel limitations that would interfere with participant's ability to cooperate with the requirements of the study\n* Pregnant or breastfeeding or expecting to conceive or father children within the projected duration of the study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Cancer Treatment Centers of America at Eastern Regional Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19124",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Patients With Treatment Emergent Adverse Events (TEAE)",
+      "timeFrame": "From first dose through 30 days after last dose. Maximum exposure: 567 days.",
+      "description": "Incidence of TEAEs graded according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v5.0, including changes in clinical laboratory parameters. TEAEs: any AE that emerged on or after first dose, and within 30 days of the last dose."
+    },
+    {
+      "measure": "Severity of Treatment Emergent Adverse Events (TEAE)",
+      "timeFrame": "From first dose through 30 days after last dose. Maximum exposure: 567 days.",
+      "description": "Severity of TEAEs graded according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v5.0, including changes in clinical laboratory parameters. TEAEs: any AE that emerged on or after first dose, and within 30 days of the last dose."
+    },
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "timeFrame": "From date of first dose until the date of CR, PR, first documented progression or date of death from any cause, whichever came first. Maximum exposure: 567 days.",
+      "description": "ORR was based on RECIST version 1.1 criteria for target lesions, where a patient may achieve as best overall response (BOR) either complete response (CR), partial response (PR), stable disease (SD), or progressive disease (PD). CR was defined as the disappearance of all target lesions. PR was defined as at least a 30% decrease in the sum of the longest diameter of target lesions, taking as reference the baseline summary of diameters. ORR is calculated as the number of patients achieving a CR or PR (objective response) divided by the number of efficacy patients."
+    }
+  ],
+  "sponsor": "OncXerna Theraputics, Inc.",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2019-09-11",
+  "completion_date": "2022-10-26",
+  "last_updated": "2023-01-13"
+}

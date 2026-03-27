@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT01699867",
+  "brief_title": "Computed Optical Margin Assessment for Breast Cancer Surgery, Phase I (Part A)",
+  "official_title": "Computed Optical Margin Assessment for Breast Cancer Surgery, Phase I (Part A)",
+  "brief_summary": "This multi-center, prospective, open label study analyzed specimens from fifty subjects at two study sites. Patients scheduled to undergo breast-conserving surgery were recruited in accordance with the inclusion and exclusion criteria. The study period per subject was the time it took to assess the ex vivo breast tissue sample using the study device. Image review was conducted after surgery and compared to the margin status findings in the post-operative pathology report.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Optical coherence tomography",
+      "type": "DEVICE",
+      "description": "Optical coherence tomography was used to image ex vivo breast tissue specimens."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Women 18 years of age or older\n2. Signed informed consent form\n3. Women who have been histologically diagnosed with carcinoma of the breast prior to surgery\n4. Patients planning breast preservation and undergoing lumpectomy (partial mastectomy) procedure\n\nExclusion Criteria:\n\n1. Multicentric disease (histologically diagnosed cancer in two different quadrants of the breast)\n2. Neoadjuvant systemic therapy\n3. All T4 tumors\n4. Previous radiation in the operated breast\n5. Prior surgical procedure in the same quadrant\n6. Implants in the operated breast\n7. Pregnancy\n8. Lactation\n9. Participating in any other investigational study for either drug or device which can influence collection of valid data under this study",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Anne Arundel Medical Center",
+      "city": "Annapolis",
+      "state": "Maryland",
+      "zip": "21401",
+      "status": ""
+    },
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Patients With All Positive Margins Correctly Identified With the Device",
+      "timeFrame": "one week after surgery",
+      "description": "In this study, a patient had \"positive margins\" if tumor was identified at the true margin (i.e., the final margin or new margin) surface of at least one specimen by histology (0 mm, \"tumor on ink\")."
+    },
+    {
+      "measure": "Number of Margins With False Positive Device Readings",
+      "timeFrame": "one week after surgery",
+      "description": ""
+    }
+  ],
+  "sponsor": "Diagnostic Photonics, Inc.",
+  "collaborators": [
+    "Johns Hopkins University"
+  ],
+  "start_date": "2012-12",
+  "completion_date": "2014-04",
+  "last_updated": "2014-12-12"
+}

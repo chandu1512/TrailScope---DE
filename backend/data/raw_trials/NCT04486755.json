@@ -1,0 +1,52 @@
+{
+  "nct_id": "NCT04486755",
+  "brief_title": "Hypofractionated Accelerated Pelvic Nodal Radiotherapy (GCC 2048)",
+  "official_title": "A Phase I Dose Escalation Study of Hypofractionated Accelerated Pelvic Nodal Radiotherapy Delivered With A Simultaneously Integrated Prostate Boost For Patients With Localized, Intermediate- And High-Risk Prostate Cancer (GCC 2048)",
+  "brief_summary": "A phase I trial to determine the safety of delivering three sequentially shorter RT schedules (20, 16, and 12 fractions) of HypoFx pelvic nodal RT in combination with a HypoFx, simultaneous integrated boost (SIB) to the prostate that have been designed to incrementally increased the biological equivalent dose (BED) to prostate cancer, while maintaining a constant BED to normal tissue toxicity.",
+  "detailed_description": "Outcomes for patients with unfavorable intermediate-risk and high-risk prostate cancer (PC) have been historically poor and are now known to require multimodality treatment. A standard non-surgical treatment option for patients with localized, intermediate and high-risk PC is radiation therapy (RT) in combination with short- or long-term androgen deprivation therapy (ADT).\n\nThe benefit of pelvic nodal RT in this setting is unclear, previous studies have been equivocal. There is a growing body of evidence to demonstrate that use of hypofractionated (HypoFx) RT may be a safe method for increasing the dose of RT, while also decreasing normal tissue toxicity.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 18,
+  "conditions": [
+    "Prostate Cancer",
+    "Prostate Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Hypofractionated Radiation Therapy",
+      "type": "RADIATION",
+      "description": "All patients RT will be delivered utilizing pencil beam scanning proton therapy. Radiation treatment will be delivered 4 days per week."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patient age is \u2265 18 years\n2. Pathologically (histologically or cytologically) proven diagnosis of prostatic adenocarcinoma within 180 days of registration.\n3. Patient's with intermediate to high risk prostate cancer and must be recommended to undergo pelvic as well as prostatic irradiation.\n4. History/physical examination (to include at a minimum digital rectal examination of the prostate and examination of the skeletal system and abdomen) within 90 days prior to registration.\n5. Clinically negative lymph nodes as established by imaging (pelvic \u00b1 abdominal CT or MR), (but not by nodal sampling, or dissection) within 120 days prior to registration.\n\n   \u2022 Patients with lymph nodes equivocal or questionable by imaging are eligible if the nodes are \u2264 1.5 cm.\n6. No evidence of bone metastases (M0) on bone scan within 120 days prior to registration.\n\n   \u2022 Equivocal bone scan findings are allowed if plain films (or CT or MRI) are negative for metastasis.\n7. Baseline serum PSA value performed within 12 weeks (90 days) prior to registration.\n8. ECOG Performance Status 0-1\n9. Patient must be able to provide study specific informed consent prior to study entry.\n\nExclusion Criteria:\n\n1. Evidence of distant metastases\n2. Regional lymph node involvement\n3. Previous radical surgery (prostatectomy), cryosurgery, or HIFU (High-intensity focused ultrasound) for prostate cancer\n4. Previous pelvic irradiation or prostate brachytherapy\n5. Planned prostate brachytherapy boost\n6. Previous or concurrent cytotoxic chemotherapy for prostate cancer\n7. Severe acute or chronic medical or psychiatric condition or laboratory abnormality that may increase the risk associated with study participation or study drug administration, or may interfere with the interpretation of study results, and in the judgment of the investigator would make the subject inappropriate for entry into this study.\n8. Patients are excluded if they have a history of autoimmune disease that, in the opinion of the treating physician would be a contraindication to pelvic radiation (e.g., active systemic lupus, progressive scleroderma)\n9. Patients receiving full-dose anticoagulation or clopidogrel\n\n   \u2022 Patients taking 81 mg Aspirin po daily may are still eligible for the study\n10. Patients with a history of prior small bowel ulceration",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Proton Treatment Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "HypoFx RT schedule that results in <33% acute dose-limiting toxicity with accelerated, HypoFx pelvic nodal RT",
+      "timeFrame": "Within 90 days of completing RT",
+      "description": "The frequency of all observed acute GI, GU, hematologic, and neurologic dose limiting toxicities by CTCAE v5 grade will be tabulated. DLT is defined as treatment-related: Grade \u22653 GI (small bowel or rectal) toxicity, Grade \u22653 GU toxicity, Grade \u22653 hematologic, Grade \u22653 neurologic toxicity, or any grade 5 treatment-related adverse events."
+    }
+  ],
+  "sponsor": "University of Maryland, Baltimore",
+  "collaborators": [],
+  "start_date": "2020-11-19",
+  "completion_date": "2027-08",
+  "last_updated": "2025-06-16"
+}

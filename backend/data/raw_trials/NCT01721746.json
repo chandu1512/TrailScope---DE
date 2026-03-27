@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT01721746",
+  "brief_title": "A Study to Compare BMS-936558 to the Physician's Choice of Either Dacarbazine or Carboplatin and Paclitaxel in Advanced Melanoma Patients That Have Progressed Following Anti-CTLA-4 Therapy (CheckMate 037)",
+  "official_title": "A Randomized Open-Label Phase 3 Trial of BMS-936558 (Nivolumab) Versus Investigator's Choice in Advanced (Unresectable or Metastatic) Melanoma Patients Progressing Post Anti-CTLA-4 Therapy",
+  "brief_summary": "The purpose of the study is to estimate the response rate and compare overall survival of patients taking BMS-936558 to those taking study physician's choice of either Dacarbazine or Carboplatin and Paclitaxel",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 405,
+  "conditions": [
+    "Unresectable or Metastatic Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "BMS-936558",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "Dacarbazine",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "For more information regarding BMS clinical trial participation, please visit www.BMSStudyConnect.com\n\nInclusion Criteria:\n\n* Men \\& women \u2265 18 years of age\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-1\n* Histologically confirmed Stage III (unresectable)/Stage IV melanoma\n* Measurable disease by computed tomography (CT)/magnetic resonance imaging (MRI) per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria\n* Objective evidence of disease progression (clinical or radiological) during or after at least 1 (V600 Wildtype) or at least 2 (V600 mutation positive) prior treatment regimens\n* Pre-treatment fresh core, excision or punch tumor biopsy\n* Archival Formalin-fixed paraffin-embedded (FFPE) tumor material if available\n\nExclusion Criteria:\n\n* Any treatment in a BMS-936558 (Nivolumab) trial\n* Subjects with condition requiring systemic treatment with either corticosteroids (\\> 10mg daily prednisone/equivalent) or other immunosuppressive medications within 14 days of study drug administration\n* Active, known or suspected autoimmune disease\n* Unknown BRAF status\n* Active brain metastasis or leptomeningeal metastasis\n* Ocular melanoma\n* Prior therapy with anti programmed death-1 (anti-PD-1), anti programmed death-ligand 1 (anti-PD-L1) or anti-programmed death-ligand 2 (anti-PD-L2)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Network Office of Research and Innovation",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    },
+    {
+      "facility": "St. Luke'S Health System",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18109",
+      "status": ""
+    },
+    {
+      "facility": "Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "timeFrame": "From date of randomization to the date of objectively documented progression, date of death, or the date of subsequent therapy (Up to approximately 38 months)",
+      "description": "Objective response rate (ORR) per Independent Review Committee (IRC) is defined as the number of participants with a best overall response (BOR) of complete response (CR) or partial response (PR) divided by the number of randomized participants using RECIST 1.1"
+    },
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "Up to 96 months",
+      "description": "Overall Survival (OS) was defined the time between the date of randomization to the date of death. For participants without documentation of death, OS was censored on the last date the participant was known to be alive. Unit of measure (months) is the median survival time."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2012-12-21",
+  "completion_date": "2020-12-29",
+  "last_updated": "2022-03-23"
+}

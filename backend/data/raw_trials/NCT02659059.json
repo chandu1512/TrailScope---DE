@@ -1,0 +1,102 @@
+{
+  "nct_id": "NCT02659059",
+  "brief_title": "Nivolumab in Combination With Ipilimumab (Part 1); Nivolumab Plus Ipilimumab in Combination With Chemotherapy (Part 2) as First Line Therapy in Stage IV Non-Small Cell Lung Cancer",
+  "official_title": "A Study of Nivolumab in Combination With Ipilimumab (Part 1); and Nivolumab Plus Ipilimumab in Combination With Chemotherapy (Part 2) as First Line Therapy in Stage IV Non-Small Cell Lung Cancer (NSCLC)",
+  "brief_summary": "The purpose of part 1 of this study is to determine the objective response rate (ORR) in stage IV NSCLC subjects treated with nivolumab in combination with ipilimumab as first line therapy.\n\nThe purpose of part 2 of this study is to determine the safety and tolerability of nivolumab and ipilimumab combined with a short course of chemotherapy in first line stage IV NSCLC.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 324,
+  "conditions": [
+    "Non-Small-Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified Dose on Specified Days"
+    },
+    {
+      "name": "Ipilimumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified Dose on Specified Days"
+    },
+    {
+      "name": "Platinum Doublet Chemotherapy",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Men and Women \u2265 18 years of age\n* Diagnosed with stage IV Non-Small Cell Lung Cancer\n* Diagnosed with recurrent stage IIIB non-small cell lung cancer and failed previous concurrent chemoradiation with no further curative options.\n\nExclusion Criteria:\n\n* Subjects with untreated CNS metastases are excluded.\n* Subjects with carcinomatous meningitis\n* Subjects with an active, known or suspected autoimmune disease.\n* Subjects with a condition requiring systemic treatment with either corticosteroids ( \\> 10 mg daily prednisone equivalent) or other immunosuppressive medications within 14 days of first treatment.\n* Women who are pregnant, plan to become pregnant, and/or breastfeed during the study.\n\nOther protocol defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2412",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0006",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR) by PD-L1 Positive and Negative Levels - Part 1",
+      "timeFrame": "From first dose to database lock (Up to 18 months)",
+      "description": "Objective response rate (ORR) in PD-L1 positive (PD-L1 \u22651%) and PD-L1 negative (PD-L1 \\<1%) participants was defined as the percentage of treated participants with confirmed complete response (CR) or partial response (PR) per RECIST 1.1 based on Blinded Independent Central Review (BICR) assessment."
+    },
+    {
+      "measure": "Number of Participants With Dose Limiting Toxicities (DLTs) - Part 2",
+      "timeFrame": "9 weeks after first dose",
+      "description": "Dose limiting toxicities (DLTs) were defined as any of the items listed below.\n\n1. Any Grade 2 drug-related uveitis or eye pain that does not respond to topical therapy and does not improve to Grade 1 severity within the re-treatment period OR requires systemic treatment.\n2. Any Grade 2 drug-related pneumonitis or interstitial lung disease that does not resolve to dose delay and systemic steroids in 14 days.\n3. Any Grade 3 non-skin drug-related adverse event with the exception of laboratory abnormalities that cannot be alleviated or controlled by appropriate care within 14 days.\n4. Any Grade 4 drug-related adverse event including laboratory abnormalities except Grade 4 leukopenia or neutropenia lasting \\< 14 days and asymptomatic amylase/lipase elevation.\n5. Drug-related hepatic function laboratory abnormalities."
+    },
+    {
+      "measure": "Number of Participants With Adverse Events (AEs) - Part 2",
+      "timeFrame": "Deaths are from first dose to database lock (Up to 24 months). AEs and SAEs are from first dose to 30 days post last dose",
+      "description": "Number of participants with adverse events (AEs) including serious adverse events (SAEs) and deaths graded by Common Terminology Criteria for Adverse Events (CTCAE v4.0) to determine the safety and tolerability of Nivolumab and Ipilimumab combined with chemotherapy."
+    },
+    {
+      "measure": "Number of Participants With Laboratory Abnormalities in Hepatic Tests - Part 2",
+      "timeFrame": "From first dose to 30 days post last dose",
+      "description": "Number of participant with specific liver laboratory abnormalities graded by Common Terminology Criteria for Adverse Events (CTCAE v4.0) to determine the safety and tolerability of Nivolumab and Ipilimumab combined with chemotherapy."
+    },
+    {
+      "measure": "Number of Participants With Laboratory Abnormalities in Thyroid Tests - Part 2",
+      "timeFrame": "From first dose to 30 days post last dose",
+      "description": "Number of participants with specific thyroid laboratory abnormalities graded by Common Terminology Criteria for Adverse Events (CTCAE v4.0) to determine the safety and tolerability of Nivolumab and Ipilimumab combined with chemotherapy."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2016-02-15",
+  "completion_date": "2022-03-07",
+  "last_updated": "2023-03-07"
+}

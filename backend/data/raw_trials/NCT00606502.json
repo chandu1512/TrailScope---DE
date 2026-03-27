@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT00606502",
+  "brief_title": "Study of Pralatrexate vs. Erlotinib for Non-Small Cell Lung Cancer After at Least 1 Prior Platinum-based Treatment",
+  "official_title": "A Randomized, Phase 2b, Multi-center Study of Pralatrexate Versus Erlotinib in Patients With Stage IIIB/IV Non-small Cell Lung Cancer After Failure of at Least 1 Prior Platinum-based Treatment",
+  "brief_summary": "The purpose of this clinical study is to determine the effectiveness (ability to provide beneficial treatment of the disease) and safety of pralatrexate compared to erlotinib when given to non-small cell lung cancer (NSCLC) patients who are current or former cigarette smokers and who have received at least 1 prior treatment with a platinum drug (cisplatin or carboplatin)",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 201,
+  "conditions": [
+    "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Pralatrexate",
+      "type": "DRUG",
+      "description": "Intravenous (IV) push administration over 3-5 minutes into a patent IV line containing normal saline (0.9% sodium chloride).\n\nInitial dose: 230 mg/m2, increased to 270 mg/m2 if patient does not have specific adverse events (AEs) as per the protocol after receipt of 2 consecutive doses 2 weeks apart. Reductions allowed in 40 mg/m2 decrements to 190 mg/m2 per the protocol defined dose modifications.\n\nProtocol amended dose: 190 mg/m2, then 230 mg/m2 if patient does not have specific AEs per the protocol after receipt of 2 consecutive doses 2 weeks apart. Reductions allowed in 40 mg/2 decrements to 150 mg/m2 per the protocol defined dose modifications.\n\nAdministered on days 1 and 15 of a 4-week cycle (every 2 weeks) until criteria for discontinuation per the protocol are met."
+    },
+    {
+      "name": "Erlotinib",
+      "type": "DRUG",
+      "description": "150 mg orally in tablet form\n\nAdministered daily 1 hour before or 2 hours after ingestion of food until criteria for discontinuation per the protocol are met."
+    },
+    {
+      "name": "Vitamin B12",
+      "type": "DIETARY_SUPPLEMENT",
+      "description": "1 mg intramuscular injection\n\nAdministered within 10 weeks of randomization, every 8-10 weeks throughout the study and for at least 30 days after last dose of study treatment."
+    },
+    {
+      "name": "Folic Acid",
+      "type": "DIETARY_SUPPLEMENT",
+      "description": "1-1.25 mg orally\n\nAdministered daily for at least 7 days prior to randomization, throughout the study and for at least 30 days after last dose of study treatment."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Confirmed Stage IIIB/ IV non-small cell lung cancer (NSCLC).\n* Relapsed after treatment with 1 or 2 prior chemotherapy regimens, including at least 1 platinum-based treatment. Patients may have received pemetrexed as 1 of the prior therapies. Patients may not have received investigational therapy as their only prior therapy.\n* Recovered from the toxic effects of prior therapy.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Smoked \u2265 100 cigarettes in their lifetime, whether a former or current cigarette smoker.\n* Adequate blood, liver and kidney function as defined by laboratory values.\n* Received 1-1.25 mg daily oral folic acid for at least 7 days prior to randomization and 1 mg intramuscular injection of vitamin B12 within 10 weeks prior to randomization.\n* Women of childbearing potential must use medically acceptable birth control and have a negative serum pregnancy test within 14 days prior to randomization. Patients who are postmenopausal for at least 1 year (\\> 12 months since last menses) or are surgically sterilized do not require this test.\n* Men who are not surgically sterile must use medically safe and effective birth control from the time of study randomization, and agree to continue practicing until at least 90 days after the last administration of study treatment.\n* Accessible for repeat dosing and follow-up.\n* Give written informed consent.\n\nExclusion Criteria:\n\n* Active concurrent primary malignancy (except non-melanoma skin cancer or in situ carcinoma of the cervix). If there is a history of prior malignancy, the patient must be disease-free for \u2265 5 years. Patients with other prior malignancies less than 5 years before study entry may still be enrolled if they have received treatment resulting in complete resolution of the cancer and currently have no evidence of active or recurrent disease.\n* Use of investigational drugs, biologics, or devices within 4 weeks prior to randomization.\n* Previous exposure to pralatrexate or erlotinib.\n* Women who are pregnant or breastfeeding.\n* Congestive Heart Failure Class III/IV according to New York Heart Association (NYHA) Functional Classification.\n* Uncontrolled hypertension.\n* Human immunodeficiency virus (HIV)-positive diagnosis with a CD4 count of \\<100 mm3 or detectable viral load within the past 3 months, and is receiving combination anti-retroviral therapy.\n* Symptomatic central nervous system metastases or lesions for which treatment is required.\n* Major surgery within 2 weeks of study randomization.\n* Receipt of any conventional systemic chemotherapy within 4 weeks (6 weeks for nitrosoureas, mitomycin C), or radiation therapy (RT) within 2 weeks, prior to randomization.\n* Active infection or any serious underlying medical condition, which would impair the ability of the patient to receive protocol treatment.\n* Dementia or significantly altered mental status that would prohibit the understanding and giving of informed consent or limit study compliance.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Summit Medical Group",
+      "city": "Berkeley Heights",
+      "state": "New Jersey",
+      "zip": "07922",
+      "status": ""
+    },
+    {
+      "facility": "Hematology and Oncology Associates South Jersey",
+      "city": "Mount Holly",
+      "state": "New Jersey",
+      "zip": "08060",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS) of Patients Receiving Pralatrexate vs. Erlotinib",
+      "timeFrame": "Assessed from date of randomization no less frequently than every 16 weeks for up to 2 years after randomization.",
+      "description": "OS was defined as the length of time from randomization until death due to any cause. Patients who were alive at the time of the data cut-off date were censored at the last contact date."
+    }
+  ],
+  "sponsor": "Spectrum Pharmaceuticals, Inc",
+  "collaborators": [],
+  "start_date": "2008-01",
+  "completion_date": "2010-06-24",
+  "last_updated": "2021-02-08"
+}

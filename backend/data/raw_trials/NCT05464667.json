@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT05464667",
+  "brief_title": "Preoperative Irradiation for Stage I Breast Cancer",
+  "official_title": "Preoperative Irradiation for Stage I Breast Cancer: A Phase IB Study",
+  "brief_summary": "The novel use of preoperative RT will have broad implications for breast cancer patients, most of whom present with early-stage disease. In the era of reduced chemotherapy delivery, preoperative RT will allow oncologists to assess radiologic and biologic tumor response and correlate it to outcomes. Underutilization of RT negatively affects mortality. This trial aims to further evaluate pre-operative radiation therapy in patients with early stage, biologically favorable breast cancer, with improved access to RT.",
+  "detailed_description": "This trial is a dose escalation study where we will evaluate preoperative dose-escalated RT in four cohorts and determine the maximum tolerated dose (MTD)In the first cohort, patients will be assigned to receive the standard dose of 30 Gy in 5 fractions to the planning target volume (PTV) and 30 GY in 5 fractions to the gross target volume (GTV). In the subsequent cohorts patients will receive 30 Gy in 5 fractions to the PTV with dose-escalation of the GTV to 35 Gy, 40 Gy, and 50 Gy respectively. An interim analysis will be performed after 40 Gy to assess toxicity.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 21,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Radiation Therapy (RT)",
+      "type": "RADIATION",
+      "description": "Dose Escalation: 4 Cohorts - 30 GY in 5 fractions (baseline treatment with 0 boost dose to GTV), 35, 40, 50 Gy in 5 fractions (Par 1)\n\nDose Expansion: Maximum Tolerated Dose determined during dose escalation (Part 2)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Pathologically confirmed diagnosis of breast cancer within 90 days from breast biopsy. NOTE: The day of biopsy is Day \"0\"\n2. Patient biologically of the female sex\n3. Must meet ALL the following criteria:\n\n   3.1. Age \u2265 50 years\n\n   3.2. Clinical size \u2264 3 cm (invasive) or \u2264 4 cm (DCIS) based on results of dedicated breast imaging.\n\n   3.3. All invasive subtypes and DCIS\n\n   3.4. ER positive, HER2/neu negative\n\n   3.5. No LVSI\n\n   3.6. Clinically negative lymph nodes based on results of dedicated breast imaging\n4. The gross tumor should be \\>1cm from the chest wall and the skin surface\n5. Eastern Cooperative Oncology Group (ECOG) Performance Status \u2264 2 within 90 days prior to registration\n6. Patients of child-bearing age should have either a negative urine or serum pregnancy test within 14 days of study entry.\n7. Patients of child-bearing age should be non-pregnant and non-lactating. They should use a medically acceptable form of contraception during RT.\n8. Patients must have signed this study's informed consent prior to study entry.\n\nExclusion Criteria:\n\n1. Clinically staged breast cancer that does not meet all of the criteria delineated in Inclusion criteria 3.\n2. Prior invasive non-breast malignancy (except non-melanomatous skin cancer, carcinoma in situ of the cervix) unless disease free for a minimum of 5 years prior to study entry\n3. Prior invasive non-breast malignancy (except non-melanomatous skin cancer, carcinoma in situ of the cervix, melanoma in situ) unless disease free for a minimum of 5 years prior to study entry\n4. Non-epithelial breast malignancies such as sarcoma or lymphoma.\n5. Two or more documented breast cancers within the index breast or bilateral breast cancer.\n6. Suspicious unresected microcalcifications, densities, or palpable abnormalities (in the ipsilateral or contralateral breast) unless biopsied and found to be benign.\n7. Paget's disease of the nipple.\n8. Male breast cancer.\n9. Evidence of distant metastases.\n10. Clinical regional lymph node involvement.\n11. Prior RT to the region of the breast that would result in overlap of RT fields.\n12. Intention to administer concurrent chemotherapy for current breast cancer.\n13. Severe, active co-morbidity, defined as follows:\n\n    13.1. Unstable angina and/or congestive heart failure requiring hospitalization within the last 6 months\n\n    13.2. Transmural myocardial infarction within the last 6 months\n\n    13.3. Acute bacterial or fungal infection requiring intravenous antibiotics at the time of registration\n\n    13.4. Chronic Obstructive Pulmonary Disease exacerbation or other respiratory illness requiring hospitalization or precluding study therapy within 30 days before registration\n\n    13.5. Hepatic insufficiency resulting in clinical jaundice and/or coagulation defects; note, however, that laboratory tests for liver function and coagulation parameters are not required for entry into this protocol\n\n    13.6. Acquired Immune Deficiency Syndrome (AIDS) based upon current CDC definition; note, however, that HIV testing is not required for entry into this protocol. The need to exclude patients with AIDS from this protocol is necessary because the treatments involved in this protocol may be significantly immunosuppressive. Protocol-specific requirements may also exclude immunocompromised patients.\n14. Active connective tissue disorders/collagen vascular disease, specifically dermatomyositis with a CPK level above normal or with an active skin rash, systemic lupus erythematosis, or scleroderma.\n15. Medical, psychiatric or other condition that would prevent the patient from receiving the protocol therapy or providing informed consent.\n16. Unable to delineate tumor on pre-RT MRI and CT simulation scan.",
+    "gender": "FEMALE",
+    "min_age": "50 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Magee Womens Hospital - Radiation Oncology",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum tolerated dose (MTD)",
+      "timeFrame": "Up to18 months (cohort)",
+      "description": "Maximum tolerated dose (MTD) of RT, which will be defined based on the occurrence of grade 2 or higher acute radiation dermatitis as defined per National Cancer Institute, Common Terminology Criteria for Adverse Events (CTCAE) v5.0, occurring within approximately 1 month after radiation therapy (RT). Dose escalation will begin with 30 GY and be escalated to 35, 40, and 50 GY as tolerated."
+    }
+  ],
+  "sponsor": "Parul Barry",
+  "collaborators": [],
+  "start_date": "2023-07-07",
+  "completion_date": "2028-03-31",
+  "last_updated": "2025-12-05"
+}

@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT01500720",
+  "brief_title": "Cabazitaxel Compared to Topotecan for the Treatment of Small Cell Lung Cancer",
+  "official_title": "Randomized Phase II Study of Cabazitaxel Versus Topotecan in Small Cell Lung Cancer Patients With Progressive Disease During or After a First Line Platinum Based Chemotherapy",
+  "brief_summary": "Primary Objective:\n\nTo demonstrate progression free survival (PFS) improvement for cabazitaxel compared to topotecan in participants with sensitive or resistant/refractory small cell lung cancer following a first line platinum based chemotherapy.\n\nSecondary Objectives:\n\n* To assess disease progression free rate at 12 weeks\n* To assess Response Rate (Response Evaluation Criteria in Solid Tumor \\[RECIST\\] 1.1) and duration of response\n* To assess Overall Survival (OS)\n* To assess the Safety (National Cancer Institute - Common Toxicity Criteria \\[NCI-CTC\\] version 4.03)\n* To assess the Health-Related Quality of Life (HRQoL)",
+  "detailed_description": "Participants are to be treated until progressive disease, unacceptable toxicity or refusal for further study treatment.\n\nAll participants are to be followed for disease progression documentation and for participant status until the study cut-off date.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 179,
+  "conditions": [
+    "Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Cabazitaxel",
+      "type": "DRUG",
+      "description": "Cabazitaxel 25 milligram per square meter (mg/m\\^2) intravenously (IV) on Day 1 every 3 weeks (21-day cycle) until unacceptable toxicity, disease progression or withdrawal consent."
+    },
+    {
+      "name": "Topotecan",
+      "type": "DRUG",
+      "description": "Topotecan 1.5 mg/m\\^2 IV on Day 1 to Day 5 every 3 weeks (21-Day cycle) until unacceptable toxicity, disease progression or withdrawal consent."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria :\n\n* Histological/cytological proven locally advanced or metastatic small cell lung cancer with progressive disease during or after first line platinum based chemotherapy\n* Male or female greater than or equal to (\\>=) 18 years (or country's legal age of majority if greater than \\[\\>\\]18 years)\n* Participants with measurable disease, Response Evaluation Criteria in Solid Tumors (RECIST) (version 1.1)\n* Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to (\\<=) 1\n\nExclusion criteria:\n\n* Absence of signed and dated Institutional Review Board (IRB)-approved participant informed consent form prior to enrollment into the study\n* More than one prior chemotherapy regimen. Prior treatment with topotecan or taxanes\n* Less than 28 days elapsed from prior treatment with chemotherapy, radiotherapy or surgery to the time of randomization (Radiotherapy for bone pain palliation is allowed)\n* Adverse events (excluding alopecia) from any prior anticancer therapy of grade \\>1 (National Cancer Institute Common Terminology Criteria \\[NCI CTCAE\\] v4.03) at the time of randomization\n* Uncontrolled Central Nervous System (CNS) metastases: participants with CNS metastases may have previous irradiation, only participants with stable disease or response to irradiation who are without CNS symptoms and on a maximum steroid dose of dexamethasone 8 mg daily or equivalent could be included\n* Participants with known leptomeningeal metastases\n* History of other, invasive neoplasm requiring ongoing therapy\n* Participation in another clinical trial and any concurrent treatment with any investigational drug within 30 days prior to randomization\n* Any of the following within 6 months prior to study enrollment: myocardial infarction, severe/unstable angina pectoris, coronary/peripheral artery bypass graft, New York Heart Association class III or IV congestive heart failure, stroke or transient ischemic attack\n* Any severe acute or chronic medical condition, which could impair the ability of the participant to participate in the study or interfere with interpretation of study results\n* Known Human Immunodeficiency Virus (HIV) disease, or active hepatitis B or C (systematic testing was not required)\n* Pregnant or breast-feeding woman. Positive serum or urine pregnancy test prior to randomization\n* Participant with reproductive potential (M/F) who did not agree to use an accepted and effective method of contraception during the study treatment period and for at least 6 months after the completion of the study treatment. The definition of \"effective method of contraception\" was based on the investigator's judgment. Effective method of contraception should also be adapted to local regulation\n* History of hypersensitivity to polysorbate 80\n* Inadequate organ and bone marrow function as evidenced by:\n\n  * Hemoglobin less than \\[\\<\\] 9.0 gram per deciliter (g/dL)\n  * Absolute neutrophil count \\<1.5 x 10\\^9 per liter\n  * Platelet count \\<100 x 10\\^9 per liter\n  * Aspartate Aminotransferase/Serum Glutamic Oxaloacetic Transaminase (AST/SGOT) and/or alanine aminotransferase/Serum Glutamic-Pyruvic Transaminase (ALT/SGPT) \\>2.5 x Upper Limit of Normal (ULN)\n  * Alkaline Phosphatase (AP) \\>2.5 x ULN. In case of liver metastases AP \\>5 x ULN\n  * Total bilirubin \\>1.0 x ULN\n  * Serum Creatinine \\>1.5 x ULN. If creatinine 1.0 - 1.5 x ULN, creatinine clearance will be calculated according to Chronic Kidney Disease Epidemiology Collaboration formula, and creatinine clearance \\<60 milliliter per minute (mL/min) was exclude the participant.\n\nThe above information is not intended to contain all considerations relevant to a participant's potential participation in a clinical trial.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Investigational Site Number 840001",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "Randomization to first tumor progression/clinical deterioration or death (maximum 7.6 months)",
+      "description": "PFS was defined as the time interval from the date of randomization to the date of occurrence of the first documented tumor progression or death due to any cause, whichever came first. Median PFS was estimated using the Kaplan-Meier method. Progression was defined using Response Evaluation Criteria in Solid Tumors (RECIST) (version 1.1) as: at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study or unequivocal progression of existing non-target lesion. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 millimeter (mm). The appearance of one or more new lesions is also considered progression."
+    }
+  ],
+  "sponsor": "Sanofi",
+  "collaborators": [],
+  "start_date": "2012-03",
+  "completion_date": "2014-04",
+  "last_updated": "2015-03-30"
+}

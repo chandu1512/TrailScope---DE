@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT00384176",
+  "brief_title": "First Line Metastatic Colorectal Cancer Therapy in Combination With FOLFOX",
+  "official_title": "A Randomised, Double-blind, Multicentre Phase II/III Study to Compare the Efficacy of Cediranib (RECENTIN\u2122, AZD2171) in Combination With 5-fluorouracil, Leucovorin, and Oxaliplatin (FOLFOX), to the Efficacy of Bevacizumab in Combination With FOLFOX in Patients With Previously Untreated Metastatic Colorectal Cancer",
+  "brief_summary": "The purpose of this study is to see if Cediranib in combination with FOLFOX is effective in treating metastatic colorectal cancer and to see how it compares with Avastin (Bevacizumab) in combination with FOLFOX.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1814,
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Cediranib",
+      "type": "DRUG",
+      "description": "oral tablet once daily"
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "intravenous infusion"
+    },
+    {
+      "name": "5-fluorouracil ( in FOLFOX)",
+      "type": "DRUG",
+      "description": "intravenous infusion"
+    },
+    {
+      "name": "Leucovorin (in FOLFOX)",
+      "type": "DRUG",
+      "description": "intravenous infusion"
+    },
+    {
+      "name": "Oxaliplatin (in FOLFOX)",
+      "type": "DRUG",
+      "description": "intravenous infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Clinical Diagnosis of colon or rectal cancer\n* No prior systemic therapy for metastatic disease. Any adjuvant/neoadjuvant oxaliplatin therapy must have been received \\>12 months prior to study entry and adjuvant/neoadjuvant 5-FU must have been received \\>6 months prior to study entry.\n\nExclusion Criteria:\n\n* Prior treatment with a VEGF Inhibitor, including bevacizumab and cediranib.\n* Poorly controlled hypertension",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Hagerstown",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Summit",
+      "state": "New Jersey",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival",
+      "timeFrame": "Baseline then at Weeks 8, 16, 24 and then every 12 weeks until progression",
+      "description": "Progression is defined as the number of months from randomisation until progressive disease based on RECIST (progression of target lesions, clear progression of existing non-target lesions or the appearance of one or more new lesions) or death in the absence of progression."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2006-08-30",
+  "completion_date": "2015-08-19",
+  "last_updated": "2017-04-13"
+}

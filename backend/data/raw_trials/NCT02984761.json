@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT02984761",
+  "brief_title": "Veterans Affairs Lung Cancer Surgery Or Stereotactic Radiotherapy",
+  "official_title": "CSP #2005 - Veterans Affairs Lung Cancer Surgery Or Stereotactic Radiotherapy Trial (VALOR)",
+  "brief_summary": "Patients with stage I non-small cell lung cancer have been historically treated with surgery whenever they are fit for an operation. However, an alternative treatment known as stereotactic radiotherapy now appears to offer an equally effective alternative. Doctors believe both are good treatments and are therefore conducting this study to determine if one may be possibly better than the other.",
+  "detailed_description": "The standard of care for stage I non-small cell lung cancer has historically been surgical resection in patients who are medically fit to tolerate an operation. Recent data now suggests that stereotactic radiotherapy may be a suitable alternative. This includes the results from a pooled analysis of two incomplete phase III studies that reported a 15% overall survival advantage with stereotactic radiotherapy at 3 years. While these data are promising, the median follow-up period was short, the results underpowered, and the findings were in contradiction to multiple retrospective studies that demonstrate the outcomes with surgery are likely equal or superior. Therefore, the herein trial aims to evaluate these two treatments in a prospective randomized fashion with a goal to compare the overall survival beyond 5 years. It has been designed to enroll patients who have a long life-expectancy, and are fit enough to tolerate an anatomic pulmonary resection with intraoperative lymph node sampling.\n\nThis study is designed to open at Veterans Affairs medical centers with expertise in both treatments. The recruitment process includes shared decision making and multi-disciplinary evaluations with lung cancer specialists. Mandatory evaluations before randomization include tissue confirmation of NSCLC, staging with FDG-PET/CT, and biopsies of all hilar and/or mediastinal lymph nodes \\>10mm that have a SUV \\>2.5. Pre-randomization elective lymph node sampling is strongly encouraged, but not required. Following treatment, patients will be followed for a minimum of 5 years.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 670,
+  "conditions": [
+    "Lung Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "Stereotactic Radiotherapy",
+      "type": "RADIATION",
+      "description": "Stereotactic radiotherapy uses high doses of ionizing energy to treat cancer cells with image guidance. The treatment is delivered in an outpatient setting, and for purposes of this trial is delivered in 3-5 fractions."
+    },
+    {
+      "name": "Anatomic Pulmonary Resection",
+      "type": "PROCEDURE",
+      "description": "An anatomic pulmonary resection is an oncologic procedure that dissects out an anatomically defined segment of the lung to remove all of the lung tissue around a lung tumor. It requires an operation with general anesthesia, with a short hospital stay. The procedure entails removal of lymph nodes inside the chest that might not be easily accessible without an operation."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nInclusion Criteria for Screening\n\n* Age 18 or older\n* Any patient with a preliminary diagnosis of stage I Non-Small Cell Lung Cancer (NSCLC), whether pathologically proven by biopsy, or highly suspicious by radiographic imaging. \\[Participants will ultimately need biopsy confirmation before enrolling\\]\n* Primary tumor size less than or equal to 5 cm by CT (may include CT images from PET/CT)\n* Karnofsky performance status greater than or equal to 70\n* Participant has willingness and ability to provided informed consent for participation\n\nInclusion Criteria for Randomization\n\n* Biopsy proven non-small cell lung cancer\n* Participant's case reviewed at multidisciplinary conference\n* Tumor size less than or equal to 5cm (measured on the most recent CT images available, and may include PET/CT images)\n* Tumor is equal to or greater than 1.0cm from the trachea, esophagus, brachial plexus, 1st bifurcation of the proximal bronchial tree, or spinal cord (measured on the most recent CT images available, and may include PET/CT images).\n* Mandatory FDG-PET/CT within 60 days of the randomization date (note: FDG-PET/CT may need to be repeated prior to treatment if outside of this requirement)\n* Mandatory pathological assessment of any lymph nodes \\>10mm with a SUV \\>2.5 seen on FDG- PET/CT\n* Mandatory biopsy of any additional concerning lesions seen on FDG-PET/CT, to make better determination that the patient is not harboring metastatic disease or a secondary primary malignancy.\n* Pre-operative FEV1 greater than or equal to 40% of predicted value and pre-operative DLCO greater than or equal to 40% of predicted value.\n* Formally evaluated and documented by a local thoracic surgeon to be medically fit to undergo a complete anatomic pulmonary resection (wedge resection not allowed)\n* Formally evaluated and documented by a local radiation oncologist to be eligible to receive protocol-defined stereotactic radiotherapy\n* Participant willingness to be randomized\n\nExclusion Criteria:\n\nExclusion Criteria for Screening\n\n* Previously evaluated by a local thoracic surgeon and determined to be medically inoperable\n* Pathological confirmation of nodal or distant metastasis\n* Prior history of lung cancer, not including current lesion\n* Prior history of thoracic surgery or lung or esophageal cancer. \\[prior cardiac surgery acceptable\\]\n* Prior history of radiotherapy to the thorax\n* Prior history of invasive state I-III malignancy treated with surgery, radiation therapy, chemotherapy, immunotherapy, or targeted therapy in the past 2 years, excluding prostate cancer, low-risk papillary thyroid cancer (less than or equal to 1 cm), follicular lymphoma, or chronic lymphocytic leukemia.\n* Prior history of IV malignancy, excluding follicular lymphoma, chronic lymphocytic leukemia, or hormone sensitive prostate cancer confined to the pelvis.\n* Ever diagnosed with stage IV metastatic cancer of any type\n* History of scleroderma\n* Positive Pregnancy test (for women \\<61 years of age or without prior hysterectomy)\n\nExclusion Criteria for Randomization\n\n* Pathological confirmation of nodal or metastatic disease",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Baltimore VA Medical Center VA Maryland Health Care System, Baltimore, MD",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Corporal Michael J. Crescenz VA Medical Center, Philadelphia, PA",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-4551",
+      "status": "TERMINATED"
+    },
+    {
+      "facility": "VA Pittsburgh Healthcare System University Drive Division, Pittsburgh, PA",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15240",
+      "status": "TERMINATED"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "From date of randomization through study completion, up to 10 years",
+      "description": "Survival estimates will include death from any cause."
+    }
+  ],
+  "sponsor": "VA Office of Research and Development",
+  "collaborators": [],
+  "start_date": "2017-04-13",
+  "completion_date": "2034-03-31",
+  "last_updated": "2026-02-17"
+}

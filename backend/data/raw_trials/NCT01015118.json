@@ -1,0 +1,89 @@
+{
+  "nct_id": "NCT01015118",
+  "brief_title": "LUME-Ovar 1: Nintedanib (BIBF 1120) or Placebo in Combination With Paclitaxel and Carboplatin in First Line Treatment of Ovarian Cancer",
+  "official_title": "Multicenter, Randomised, Double-blind Phase III Trial to Investigate the Efficacy and Safety of BIBF 1120 in Combination With Carboplatin and Paclitaxel Compared to Placebo Plus Carboplatin and Paclitaxel in Patients With Advanced Ovarian Cancer",
+  "brief_summary": "The trial will be performed to evaluate if BIBF 1120 in combination with paclitaxel and carboplatin is more effective than placebo in combination with paclitaxel and carboplatin in first-line treatment of patients with advanced ovarian cancer. Safety information about BIBF1120/paclitaxel/carboplatin will be obtained.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1366,
+  "conditions": [
+    "Ovarian Neoplasms",
+    "Peritoneal Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "comparator to BIBF 1120"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Paclitaxel (standard chemo-therapy)"
+    },
+    {
+      "name": "BIBF 1120",
+      "type": "DRUG",
+      "description": "comparison of BIBF 1120 in combination with chemotherapy and placebo in combination with chemotherapy (paclitaxel/carboplatin)"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Carboplatin (standard chemo-therapy)"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Paclitaxel (standard chemo-therapy)"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Carboplatin (standard chemo-therapy)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria:\n\n* first diagnosis of histologically confirmed epithelial ovarian cancer, fallopian tube or primary peritoneal cancer\n* International Federation of Gynecology and Obstetrics (FIGO) Stages IIB - IV\n* females, age 18 years or older\n* life expectancy of at least 6 months\n* Eastern Cooperative Oncology Group (ECOG) performance status 0, 1 or 2\n* prior surgery, defined as either (a) debulking surgery with maximum surgical effort at cytoreduction with the goal of no residual disease or (b) biopsy or limited surgery in patients with stage IV disease for whom surgical debulking was not considered appropriate, if diagnosis is confirmed by histology and no surgery is planned prior to disease progression (including interval debulking surgery)\n* patient has given written informed consent which must be consistent with the International Conference on Harmonization - Good Clinical Practice (ICH-GCP) and local legislation\n* planned application of first dose of chemotherapy after wound healing, but no later than 10 weeks after surgery\n\nExclusion criteria:\n\n* histologic diagnosis of a benign or borderline tumour or of a malignant tumour of non-epithelial origin of the ovary, the fallopian tube or the peritoneum\n* planned surgery within 124 weeks after randomisation in this trial, including interval debulking surgery\n* clinically relevant non-healing wound, ulcer or bone fracture\n* clinical symptoms or signs of gastrointestinal obstruction that require parenteral nutrition or hydration\n* brain metastases\n* pre-existing sensory or motor neuropathy Common Terminology Criteria for Adverse Events (CTCAE) grade 2 or higher, except due to trauma\n* history of major thromboembolic event\n* known inherited or acquired bleeding disorder\n* significant cardiovascular diseases\n* clinically relevant pericardial effusion\n* history of a cerebral vascular accident, transient ischemic attack or subarachnoid haemorrhage within the past 6 months\n* inadequate safety laboratory values\n* serious infections in particular if requiring systemic antibiotic (antimicrobial, antifungal) or antiviral therapy, including Hepatitis B, Hepatitis C, Human Immunodeficiency Virus (HIV)\n* poorly controlled diabetes mellitus or other contraindication to high dose corticosteroid therapy\n* gastrointestinal disorders or abnormalities that would interfere with absorption of the study drug\n* other malignancy diagnosed within the past 5 years. In exception to this rule, the following malignancies may be included if adequately treated: non-melanomatous skin cancer, cervical carcinoma in situ, carcinoma in situ of the breast, low risk endometrial cancer\n* prior systemic therapy for ovarian cancer (e.g. chemotherapy, monoclonal antibody therapy, oral targeted therapy, hormonal therapy)\n* prior systemic cytotoxic chemotherapy\n* prior treatment with BIBF 1120 or any other angiogenesis inhibitor\n* prior radiotherapy\n* serious illness or concomitant non-oncological disease such as neurologic, psychiatric or infectious disease or a laboratory abnormality that may increase the risk associated with study participation or study drug administration\n* Women of childbearing potential who are sexually active and not using a highly effective method of birth control during the trial and for at least twelve months after the end of active therapy.\n* pregnancy or breast feeding\n* psychological, familial, sociological or geographical factors potentially hampering compliance with the study protocol and follow-up schedule\n* active alcohol or drug abuse\n* patients unable to comply with the protocol\n* any contraindications for therapy with paclitaxel or carboplatin\n* treatment with other investigational drugs or participation in another clinical trial testing a drug within the past four weeks before start of therapy or concomitantly with this trial",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "1199.15.10013 Boehringer Ingelheim Investigational Site",
+      "city": "Abington",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "1199.15.10016 Boehringer Ingelheim Investigational Site",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "PFS Based on Investigator Assessment According to Modified Response Evaluation Criteria in Solid Tumors, Version 1.1 (mRECIST), and Additional Clinical Criteria.",
+      "timeFrame": "First drug administration to date of disease progression or death whichever occurs first , upto 29 months",
+      "description": "Progression free survival (PFS) is calculated as the time from randomisation to the date of disease progression, or to the date of death, whichever occurs first according to the Investigator assessment.\n\nThe primary PFS analysis of this trial was performed when approximately 753 patients had experienced a PFS event\n\nMedian, 25th and 75th percentiles are calculated from an unadjusted Kaplan-Meier curve for each treatment arm."
+    },
+    {
+      "measure": "PFS Based on Investigator Assessment According to Modified Response Evaluation Criteria in Solid Tumors, Version 1.1 (mRECIST), and Additional Clinical Criteria (Follow up Analysis).",
+      "timeFrame": "First drug administration to date of disease progression or death whichever occurs first until final Data Base Lock (DBL) 26September16, upto 62 months",
+      "description": "Follow-up analysis was conducted at the time of overall survival analysis. Progression free survival (PFS) is calculated as the time from randomisation to the date of disease progression, or to the date of death, whichever occurs first according to the Investigator assessment.\n\nMedian, 25th and 75th percentiles are calculated from an unadjusted Kaplan-Meier curve for each treatment arm."
+    }
+  ],
+  "sponsor": "Boehringer Ingelheim",
+  "collaborators": [],
+  "start_date": "2009-11-17",
+  "completion_date": "2016-09-15",
+  "last_updated": "2017-11-03"
+}

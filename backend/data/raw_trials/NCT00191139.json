@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT00191139",
+  "brief_title": "Gemcitabine or Gemcitabine Plus Docetaxel After Cisplatin, Etoposide and Radiation in Non Small Cell Lung Cancer (NSCLC)",
+  "official_title": "A Randomized Study of Gemcitabine Plus Docetaxel After Cisplatin, Etoposide and Radiation Therapy in Stage III Unresectable NSCLC",
+  "brief_summary": "To assess the 2 year survival of patients with Stage III unresectable non-small cell lung cancer receiving consolidation gemcitabine or gemcitabine plus docetaxel following concurrent chemotherapy and radiation.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 64,
+  "conditions": [
+    "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "gemcitabine",
+      "type": "DRUG",
+      "description": "After induction chemotherapy, radiation therapy and 10 weeks with no disease progression, randomized consolidation treatment begins. In both treatment arms, gemcitabine 1000 milligrams per meter squared (mg/m2), is administered intravenously (IV), on days 1 and 8 of every 21-day cycle for 3 cycles."
+    },
+    {
+      "name": "docetaxel",
+      "type": "DRUG",
+      "description": "Following cisplatin-etoposide induction chemotherapy, radiation therapy and 10 weeks with no disease progression, randomized consolidation treatment begins. In this treatment arm, docetaxel 75 mg/m2, is administered IV on day 1 of each 21-day cycle for 3 cycles. Docetaxel is given after gemcitabine."
+    },
+    {
+      "name": "cisplatin",
+      "type": "DRUG",
+      "description": "As part of induction chemotherapy, cisplatin is given 50 mg/m2, IV, day 1, 8, 29 and 36 (spans 2 cycles)"
+    },
+    {
+      "name": "etoposide",
+      "type": "DRUG",
+      "description": "As part of induction chemotherapy, etoposide is given 50 mg/m2, IV, days 1-5 and 29-33 (spans 2 cycles)"
+    },
+    {
+      "name": "radiation therapy",
+      "type": "RADIATION",
+      "description": "In conjunction with induction chemotherapy, radiation therapy is administered at a dose of 200 centi Gray (cGy) per day, Monday through Friday for 6 weeks"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* histologic or cytologic proof of single primary non-small cell lung cancer\n* No prior chemotherapy or radiation therapy\n* no prior malignancy\n\nExclusion Criteria:\n\n* pregnancy or breastfeeding\n* serious concomitant systemic disorder\n* unintentional weight loss greater than 10%",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal ph",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal ph",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "2-Year Survival",
+      "timeFrame": "2 years",
+      "description": "Percentage of participants alive at 2 years."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2003-03",
+  "completion_date": "2009-02",
+  "last_updated": "2010-02-04"
+}

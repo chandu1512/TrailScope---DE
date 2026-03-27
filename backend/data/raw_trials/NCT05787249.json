@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT05787249",
+  "brief_title": "Improving Utilization of Supplemental Breast MRI Screening for Women With Extremely Dense Breasts",
+  "official_title": "Improving Utilization of Supplemental Breast MRI Screening for Women With Extremely Dense Breasts",
+  "brief_summary": "The goal of this study is to increase MRI utilization among women with extremely dense breasts. The main question it seeks to answer is whether nudging of the provider, patient, or both increases the uptake of MRI among this group, and whether this effect differs between Black and White women.",
+  "detailed_description": "Women with dense breasts have 3-5-fold increased risk for breast cancer as women without dense breasts. Dense breast tissue can \"mask\" small tumors, leading to reduced mammography sensitivity. Recent randomized controlled trials demonstrate that supplemental breast MRI screening improves detection of small, invasive cancers that are not detected by mammography. In January 2022, a Pennsylvania law went into effect mandating insurance coverage of supplemental screening for women with extremely dense breasts. Currently only a small fraction of eligible women with extremely dense breasts are receiving supplemental breast MRI screening. Clinical pathways to identify patients who are eligible for insurance coverage of supplemental breast MRI screening and communicate this option to patients and providers are needed to ensure equitable access to supplemental screening. This study therefore proposes a stepped wedge cluster randomized clinical trial to determine whether electronic health record (EHR) and secure text message nudges increase utilization of supplemental breast MRI screening among eligible women with extremely dense breasts.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1358,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Patient nudge",
+      "type": "BEHAVIORAL",
+      "description": "Nudge directed to the patient with the aim of increasing the uptake of MRI in patients with extremely dense breasts"
+    },
+    {
+      "name": "Provider nudge",
+      "type": "BEHAVIORAL",
+      "description": "Nudge directed to the provider with the aim of increasing ordering of MRI in patients with extremely dense breasts"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Patient participants:\n\nInclusion Criteria:\n\n* Women aged 40-74\n* Recent non-actionable mammogram of less than 6 months\n* Mammogram performed at Penn Center for Advanced Medicine, Penn Presbyterian Hospital, Pennsylvania Hospital, or Radnor\n* Valid mobile phone number\n\nExclusion Criteria:\n\n* Prior history of breast cancer\n* No breast MRI within the past 2 years\n* No prior actionable mammogram within 6 months\n* No recent or concurrent ultrasound\n\nProvider participants:\n\nInclusion Criteria:\n\n* Provider needs to have ordered the initial screening mammogram\n* Employed by Penn Health System and access to Penn Chart",
+    "gender": "FEMALE",
+    "min_age": "40 Years",
+    "max_age": "74 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Bala-Cynwyd",
+      "state": "Pennsylvania",
+      "zip": "19004",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Ordering and/or scheduling of supplemental breast MRI",
+      "timeFrame": "6 months",
+      "description": "Whether a breast MRI is ordered and/or scheduled within 6 months of receiving a nudge."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2023-10-04",
+  "completion_date": "2025-04-04",
+  "last_updated": "2026-01-07"
+}

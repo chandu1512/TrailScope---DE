@@ -1,0 +1,104 @@
+{
+  "nct_id": "NCT00002875",
+  "brief_title": "Radiation Therapy Plus Combination Chemotherapy in Treating Children With Medulloblastoma",
+  "official_title": "Phase III Prospective Randomized Study of Craniospinal RT Followed by One of Two Adjuvant Chemotherapy Regimens (CCNU, CDDP, VCR OR CPM, CDDP, VCR) for Newly-Diagnosed Average Risk MedulloblastomaMEDULLOBLASTOMA",
+  "brief_summary": "RATIONALE: Radiation therapy uses high energy x-rays to damage tumor cells. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining radiation therapy with chemotherapy may kill more tumor cells. It is not yet known which chemotherapy regimen is more effective when combined with radiation therapy for treating medulloblastoma.\n\nPURPOSE: Randomized phase III trial to compare two combination chemotherapy treatments plus radiation therapy in treating children with newly diagnosed medulloblastoma.",
+  "detailed_description": "OBJECTIVES: I. Assess whether a cyclophosphamide-containing combination chemotherapy regimen increases progression-free survival compared to a lomustine-containing regimen in children with newly diagnosed, average-risk medulloblastoma. II. Determine progression-free and overall survival of children treated with craniospinal radiotherapy and local boost radiotherapy for a total dose of 5580 cGy followed by adjuvant lomustine/cisplatin/vincristine vs. cyclophosphamide/cisplatin/vincristine. III. Determine the long-term neurocognitive, endocrinologic, and cardiopulmonary sequelae associated with craniospinal radiotherapy, local boost radiotherapy, and adjuvant chemotherapy in these children, and determine whether replacement of lomustine with cyclophosphamide alters the incidence and degree of sequelae. IV. Determine whether cellular and biologic parameters, including tumor molecular genetic analysis, DNA ploidy, mitotic activity markers, and immunohistochemical analysis, are correlated with progression-free survival, overall survival, and patterns of disease relapse in these patients. V. Evaluate the utility of routine magnetic resonance imaging surveillance studies of the head and spine in detecting subclinical recurrent disease.\n\nOUTLINE: This is a randomized study. Patients are stratified by participating institution. Following surgery, patients are randomized to one of two groups. The first group receives craniospinal irradiation followed by a boost to the primary tumor. Beginning within 1 week after initiation of radiotherapy, patients receive vincristine weekly for 8 doses. Beginning 6 weeks after the completion of radiotherapy, patients receive adjuvant lomustine/vincristine/cisplatin every 6 weeks for a total of 8 courses. The second group receives craniospinal irradiation plus vincristine as above, followed by adjuvant cyclophosphamide/vincristine/cisplatin every 6 weeks for a total of 8 courses. Patients are followed every 3 months for 1 year, every 6 months for 2 years, then annually.\n\nPROJECTED ACCRUAL: It is anticipated that 240-300 patients will be entered over 4 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 421,
+  "conditions": [
+    "Brain Tumors",
+    "Central Nervous System Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "filgrastim",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "cisplatin",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "cyclophosphamide",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "lomustine",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "mesna",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "vincristine sulfate",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "low-LET electron therapy",
+      "type": "RADIATION",
+      "description": ""
+    },
+    {
+      "name": "low-LET photon therapy",
+      "type": "RADIATION",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS: Pathologically confirmed posterior fossa medulloblastoma (CCG diagnosis code 2041) Localized disease required, i.e.: No more than 1.5 square centimeters of residual tumor on postoperative contrast-enhanced CT or MRI (preferably within 72 hours but no more than 14 days after surgery) No evidence of metastatic disease on pre- and postoperative MRI of spine (with dye enhancement) and lumbar cerebrospinal fluid (CSF) cytology within 3 days prior to surgery Cytologic analysis of ventricular CSF allowed only if medical contraindication to lumbar puncture and with approval of study chairperson Brain stem involvement eligible\n\nPATIENT CHARACTERISTICS: Age: 3 to 21 at diagnosis Performance status: Not specified Hematopoietic: ANC greater than 1,500/mm3 Platelet count greater than 100,000/mm3 Hemoglobin greater than 10 g/dL Hepatic: Bilirubin less than 1.5 mg/dL ALT less than 1.5 times normal Renal: Nuclear glomerular filtration rate or creatinine clearance greater than 70 mL/min per 1.73 square meters\n\nPRIOR CONCURRENT THERAPY: No prior radiotherapy or chemotherapy (other than corticosteroids) No more than 31 days since definitive surgery",
+    "gender": "ALL",
+    "min_age": "3 Years",
+    "max_age": "22 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "St. Joseph's Hospital and Medical Center",
+      "city": "Paterson",
+      "state": "New Jersey",
+      "zip": "07503",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Event Free Survival",
+      "timeFrame": "",
+      "description": ""
+    }
+  ],
+  "sponsor": "Children's Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Pediatric Oncology Group"
+  ],
+  "start_date": "1996-12",
+  "completion_date": "2011-01",
+  "last_updated": "2014-07-31"
+}

@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT03625505",
+  "brief_title": "A Study to Assess Safety and Efficacy of Venetoclax in Combination With Gilteritinib in Participants With Relapsed/Refractory Acute Myeloid Leukemia",
+  "official_title": "A Multicenter, Open-Label Phase 1b Study to Assess Safety and Efficacy of Venetoclax in Combination With Gilteritinib in Subjects With Relapsed/Refractory Acute Myeloid Leukemia",
+  "brief_summary": "A dose-escalation study evaluating the safety, tolerability, pharmacokinetics (PK) and efficacy of venetoclax, in combination with gilteritinib, in participants with relapsed or refractory (R/R) acute myeloid leukemia (AML) who have failed to respond to, and/or have relapsed or progressed after at least 1 prior therapy.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 61,
+  "conditions": [
+    "Acute Myeloid Leukemia (AML)"
+  ],
+  "interventions": [
+    {
+      "name": "Venetoclax",
+      "type": "DRUG",
+      "description": "tablet, oral"
+    },
+    {
+      "name": "Gilteritinib",
+      "type": "DRUG",
+      "description": "tablet, oral"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Should have an established, confirmed diagnosis of Acute Myeloid Leukemia (AML) by World Health Organization (2016).\n* Should have failed at least 1 line of prior therapy (defined as failure to respond to therapy, and/or progression during or after therapy).\n* Should have an Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2.\n* Should have adequate hematologic, kidney and liver function as described in the protocol.\n* For participants enrolling into the Expansion Cohort only: a documented FMS-like Tyrosine Kinase (FLT3) mutation in bone marrow or peripheral blood, as described in the protocol.\n\nExclusion Criteria:\n\n* Has a diagnosis of acute promyelocytic leukemia (APL) or BCR-ABL-positive leukemia.\n* Has a history of other malignancies within 2 years prior to study entry, with exceptions as described in the protocol.\n* Has active central nervous system leukemia.\n* Has a history of chronic New York Heart Association (NYHA) class IV heart failure.\n* Has a corrected QT interval of \\> 450 ms.\n* Has a chronic respiratory disease that requires continuous oxygen use.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University /ID# 200349",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack Univ Med Ctr /ID# 200229",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Hosp of the Univ of Penn /ID# 200348",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Recommended Phase 2 Dose (RPTD) of Co-administered Study Drugs",
+      "timeFrame": "Up to approximately 6 months after the last participant is enrolled",
+      "description": "The RPTD of co-administered venetoclax and gilteritinib will be determined during the dose escalation phase of the study. RPTD will be determined using available safety and pharmacokinetics data."
+    },
+    {
+      "measure": "Modified Composite Complete Remission (CRc)",
+      "timeFrame": "Up to approximately 6 months after the last participant is enrolled",
+      "description": "Modified CRc rate is defined as the proportion of participants with documented complete response (CR) + CR with partial blood count recovery (CRp) + CR with incomplete blood count recovery (CRi) plus Morphologic Leukemia-Free State (MLFS) based on guidelines adapted from the International Working Group (IWG) for Acute Myeloid Leukemia (AML)."
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [
+    "Astellas Pharma Inc",
+    "Genentech, Inc."
+  ],
+  "start_date": "2018-10-18",
+  "completion_date": "2021-08-31",
+  "last_updated": "2021-09-07"
+}

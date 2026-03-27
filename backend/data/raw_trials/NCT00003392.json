@@ -1,0 +1,84 @@
+{
+  "nct_id": "NCT00003392",
+  "brief_title": "High-Dose Chemotherapy and Peripheral Stem Cell Transplantation in Treating Patients With Recurrent or Refractory Metastatic Breast Cancer",
+  "official_title": "Multiple Cycles of High Dose Chemotherapy Supported With Filgrastim and Peripheral Blood Progenitor Cells in Patients With Metastatic Breast Cancer",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining chemotherapy with peripheral stem cell transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill more tumor cells.\n\nPURPOSE: Phase II trial to study the effectiveness of high-dose chemotherapy and peripheral stem cell transplantation in treating patients with recurrent or refractory metastatic breast cancer.",
+  "detailed_description": "OBJECTIVES: I. Determine the effects on 2 year progression-free survival of a regimen consisting of cyclophosphamide, paclitaxel, and filgrastim (G-CSF) to mobilize peripheral blood progenitor cells (PBPCs), followed by 2 courses of carboplatin and paclitaxel followed by 1 course of melphalan, each supported with PBPCs and G-CSF, in patients with recurrent or refractory, advanced breast cancer. II. Evaluate the feasibility of administering multiple courses of high dose chemotherapy in an outpatient setting for these patients. III. Evaluate the rate of complete response to the high dose therapy in these patients.\n\nOUTLINE: This is a multicenter study. Patients receive mobilization therapy consisting of cyclophosphamide IV over 1 hour followed by paclitaxel IV over 3 hours, then filgrastim (G-CSF) beginning 24 hours following completion of paclitaxel and continuing through the last day of leukapheresis. Leukapheresis continues until an adequate number of CD34+ cells is collected. Following cell count recovery, patients receive 3 courses of high-dose chemotherapy: 2 courses of paclitaxel IV over 3 hours followed by carboplatin IV over 1 hour, with the first course generally within 21 days after completion of leukapheresis and the second course 21-35 days after the first; then 1 course of melphalan IV infused over 30 minutes 21-35 days after the previous carboplatin dose. Each course of chemotherapy is followed 24-48 hours later by the infusion of G-CSF-mobilized peripheral blood progenitor cells and G-CSF. Patients are followed every 3 months for 2 years.\n\nPROJECTED ACCRUAL: A total of 96 evaluable patients will be accrued for this study over 3 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 61,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "filgrastim",
+      "type": "BIOLOGICAL",
+      "description": "10 mcg/kg/d, day 2 through last day of leukapheresis"
+    },
+    {
+      "name": "carboplatin",
+      "type": "DRUG",
+      "description": "18 AUC IV, approximately days 21, 42"
+    },
+    {
+      "name": "cyclophosphamide",
+      "type": "DRUG",
+      "description": "4 gm/m2 IV, day 1"
+    },
+    {
+      "name": "melphalan",
+      "type": "DRUG",
+      "description": "140 mg/m2 IV , approximately day 63"
+    },
+    {
+      "name": "paclitaxel",
+      "type": "DRUG",
+      "description": "170 mg/m2 IV day 1"
+    },
+    {
+      "name": "bone marrow ablation with stem cell support",
+      "type": "PROCEDURE",
+      "description": ""
+    },
+    {
+      "name": "peripheral blood stem cell transplantation",
+      "type": "PROCEDURE",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS: Histologically proven recurrent or refractory, metastatic breast cancer Patients previously treated for metastatic disease must show response to last standard dose chemotherapy regimen within 60 days of study entry OR Patients with no evidence of disease (e.g., resected skin lesions) must show no evidence of progression or bone disease No CNS metastases No disease progression following prior platinum or paclitaxel based regimens Hormone receptor status: Not specified\n\nPATIENT CHARACTERISTICS: Age: 18 to 65 Sex: Not specified Menopausal status: Not specified Performance status: ECOG 0-2 Life expectancy: Not specified Hematopoietic: Absolute neutrophil count at least 1,500/mm3 Platelet count at least 90,000/mm3 No prior inability to mobilize adequate peripheral blood progenitor cells for high dose therapy Hepatic: Bilirubin no greater than 1.8 mg/dL Transaminases stable and no greater than 3 times upper limit of normal Renal: Creatinine no greater than 2.0 mg/dL Cardiovascular: LVEF within normal limits No significant cardiovascular disease No coronary artery disease No arrhythmias No congestive heart failure Other: Not pregnant or nursing Negative pregnancy test required of fertile women Effective contraception required of fertile patients Not HIV positive No nonmalignant disease precluding protocol treatment No sensitivity to E. coli-derived drug preparations No prior participation in this study No greater than grade I neurotoxicity\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: No prior cellular support for high dose chemotherapy Chemotherapy: See Disease Characteristics No more than 6 prior courses of chemotherapy for metastatic disease At least 3 weeks since prior chemotherapy and recovered No prior high dose chemotherapy with cellular support Endocrine therapy: No concurrent steroid therapy Concurrent hormonal therapy allowed Radiotherapy: At least 3 weeks since prior radiotherapy and recovered No prior extensive pelvic radiation Surgery: Not specified Other: Recovered from acute toxic effects of any prior therapy No concurrent anticoagulation therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "65 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Temple University Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19140",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [],
+  "sponsor": "UNC Lineberger Comprehensive Cancer Center",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "1997-09",
+  "completion_date": "2003-01",
+  "last_updated": "2012-02-19"
+}

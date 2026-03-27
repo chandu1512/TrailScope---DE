@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT03151642",
+  "brief_title": "A PILOT STUDY OF DIFFUSION WEIGHTED MRI TO ASSESS ESOPHAGEAL TUMOR RESONSE TO NEOADJUVANT CHEMORADIATION",
+  "official_title": "A PILOT STUDY OF DIFFUSION WEIGHTED MRI TO ASSESS ESOPHAGEAL TUMOR RESONSE TO NEOADJUVANT CHEMORADIATION",
+  "brief_summary": "The purpose of this research study will be to determine the sensitivity and specificity of dwMRI metrics to assess tumor response following neoadjuvant chemoradiation in esophageal cancer. This pilot study will generate the preliminary data needed for the design of a statistically-justified trial that would investigate dwMRI as an integral biomarker to stratify patients for escalated therapy to improve outcomes. We hope to develop dwMRI as a predictive clinical tool for a personalized treatment model that can identify patients who may be candidates for organ-preservation or treatment intensification to improve outcomes in esophageal cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 11,
+  "conditions": [
+    "Esophageal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Chemotherapy",
+      "type": "RADIATION",
+      "description": "Patients will have their chemotherapy coordinated through the Medical Oncology department at the University of Pennsylvania, and will be followed by Medical Oncology at Penn during chemoradiation. As part of the standard of care for locally advanced esophageal cancer, neoadjuvant concurrent chemotherapy will likely consist of weekly carboplatin and paclitaxel, beginning within 1 day of starting radiation therapy and continuing until the completion of radiation treatment. Alternative chemotherapy regimens, dose adjustments or delays in administration will be determined at the discretion of the treating medical oncologist and recorded in the patient's chart."
+    },
+    {
+      "name": "Radiation Therapy",
+      "type": "RADIATION",
+      "description": "Patients will have their radiation therapy coordinated and performed through the Radiation Oncology Department at the University of Pennsylvania. The development and delivery of the patient's radiation treatment plan will be at the discretion of the treating radiation oncologist, and details will be recorded in the patient's chart."
+    },
+    {
+      "name": "Surgery",
+      "type": "PROCEDURE",
+      "description": "Patients will have their surgery coordinated and performed through Thoracic Surgery department at the University of Pennsylvania. Patients will undergo esophagectomy 4-8 weeks after the completion of neoadjuvant chemoradiation as part of the standard of care."
+    },
+    {
+      "name": "MRI Imaging",
+      "type": "DEVICE",
+      "description": "A total of 40 paired MRI examinations from eligible participants will be collected in the Department of Radiology at the Hospital of the University of Pennsylvania. Participants will undergo two 1.5T MRI studies performed at two time points: (1) within 28 days prior to starting neoadjuvant chemoradiation, and (2) between radiation fraction 8-13 during treatment. The quantitative imaging studies for the trial (DWI) will be performed with and without respiratory gating using a navigator, with B values of 0, 100, 600 and 800 s/mm2."
+    },
+    {
+      "name": "Blood Draws",
+      "type": "OTHER",
+      "description": "The procedure of blood collection for each patient will be as follows: the total amount being drawn each time will be approximately 30 cc. Approximately 25 ml of blood will be collected into heparinized tubes, and immediately placed on ice in a prepared plastic bag and transported to the laboratory for processing within 1 hour. If necessary, we may need up to 2 hours in order to begin processing the blood; in the event that longer than this time period has transpired, the sample will be deemed inadequate for processing purposes. The first blood draw will be obtained prior to the first fraction of radiation treatment and will be coordinated to occur at the time of pre-treatment MRI. Thereafter, the second sample will be obtained during chemoradiation therapy, between fraction 8-13 and the blood draw will be coordinated with the on-treatment MRI scan."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients with a histologic diagnosis of adenocarcinoma of the esophagus located distal to the carina\n* Patients with AJCC 7th edition clinical stage IIB-IIIC\n* Patients will be treated with neoadjuvant chemoradiotherapy for this condition\n* Patients must be \\> 18 years of age\n* Patients must be able to provide informed consent\n* Patients must be surgical candidates\n* Patients must be able to tolerate MR imaging required by protocol\n\nExclusion Criteria:\n\n* Patients with primary tumors located above the carina\n* Prior abdominal radiation therapy with fields overlapping the current fields\n* Severe claustrophobia not relieved by oral anxiolytics per institutional standard practice\n* Presence of MRI-incompatible metallic objects or implanted medical devices in the body (including but not limited to: non-MRI compatible metal objects, cardiac pacemaker, aneurysm clips, artificial heart valves with steel parts, metal fragments in the eye or central nervous system)\n* Weight greater than that allowable by the MRI table",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of MRIs",
+      "timeFrame": "2 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2017-04-05",
+  "completion_date": "2021-04-23",
+  "last_updated": "2021-04-23"
+}

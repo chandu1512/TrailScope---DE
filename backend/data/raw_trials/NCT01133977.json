@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT01133977",
+  "brief_title": "E7080 (Lenvatinib) in Combination With Dacarbazine Versus Dacarbazine Alone as First Line Therapy in Patients With Stage IV Melanoma",
+  "official_title": "An Open-Label, Multicenter, Randomized, Phase Ib/II Study of E7080 (Lenvatinib) in Combination With Dacarbazine Versus Dacarbazine Alone as First Line Therapy in Patients With Stage IV Melanoma.",
+  "brief_summary": "Primary:\n\n* Phase Ib: To define the safety, tolerability and maximum tolerated dose (MTD) of lenvatinib administered in combination with dacarbazine.\n* Phase II: To evaluate the safety and tolerability of lenvatinib administered in combination with dacarbazine, compared with dacarbazine alone.\n\nSecondary:\n\n-Phase II: To make a preliminary assessment of the efficacy of lenvatinib administered in combination with dacarbazine, compared with dacarbazine alone.",
+  "detailed_description": "Safety was assessed by monitoring and recording all treatment emergent adverse events (AEs) and serious adverse events (SAEs); regular monitoring of clinical laboratory parameters; periodic measurement of vital signs and electrocardiograms (ECGs); dose limiting toxicities; performance of physical examinations; concomitant medications and procedures.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 97,
+  "conditions": [
+    "Stage IV Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Lenvatinib",
+      "type": "DRUG",
+      "description": "Lenvatinib tablets administered orally at doses of 16 mg, 20 mg, or 22 mg, once daily continuously over 3 weeks (21 days) during each 21-day cycle"
+    },
+    {
+      "name": "Lenvatinib",
+      "type": "DRUG",
+      "description": "Lenvatinib 20 mg (MTD/recommended Phase 2 dose as determined in Phase 1b of the study) administered once daily continuously over 3 weeks (21 days) during each 21-day cycle"
+    },
+    {
+      "name": "Dacarbazine",
+      "type": "DRUG",
+      "description": "Dacarbazine (1000 mg/m2) infusion over 60 minutes on Day 1 of each 21-day cycle."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients with histologically-confirmed metastatic melanoma (Stage IV, American Joint Committee on Cancer (AJCC)).\n2. No prior cytokine, chemotherapy, or targeted therapy for Stage IV melanoma.\n3. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.\n4. Life expectancy greater than or equal to 3 months.\n5. At least 1 site of measurable disease by RECIST 1.1.\n6. Adequate hematologic, renal, liver, and coagulation system function as defined by laboratory values performed within 21 days prior to initiation of dosing.\n7. Blood pressure must be well-controlled (less than or equal to 140/90 mmHg at screening) with or without antihypertensive medication. Patients must have no history of hypertensive crisis or hypertensive encephalopathy.\n\nExclusion Criteria:\n\n1. Known central nervous system (CNS) lesions, except for asymptomatic, nonprogressive, treated brain metastases. Treatment for brain metastases must have been completed at least 4 weeks prior to Day 1 and may include whole brain radiotherapy (WBRT), radiosurgery \\[RS; Gamma Knife, linear accelerator (LINAC), or equivalent\\] or a combination as deemed appropriate by the treating physician. Dexamethasone must be discontinued at least 3 weeks prior to Day 1. Patients with CNS metastases treated by neurosurgical resection or brain biopsy performed within 3 months prior to Day 1 will be excluded.\n2. Lactate dehydrogenase greater than or equal to 2.0 x upper limit of normal (ULN).\n3. Subjects with proteinuria greater than 1+ on urine dipstick testing will undergo 24-hour urine collection for quantitative assessment of proteinuria. Subjects with 24-hour urine protein greater than or equal to 1 g/24 hours will be ineligible.\n4. Pregnant, breast-feeding, or refusing double barrier contraception, oral contraceptives or avoidance of pregnancy measures.\n5. Other active malignancy.\n6. History of or known carcinomatous meningitis.\n7. History of or known ocular melanoma.\n8. Are currently receiving any other treatment for the tumor (including palliative radiotherapy) aside from control of symptoms.\n9. Received treatment in another clinical study within the 30 days prior to commencing study treatment or patients who have not recovered from side effects of an investigational drug to grade less than or equal to 1, except for alopecia.\n10. Received radiotherapy within the 30 days prior to commencing study treatment or have not recovered from side effects of all radiation-related toxicities to grade less than or equal to 1, except for alopecia.\n11. Serious non-healing wound, ulcer, bone fracture, or have undergone a major surgical procedure, open biopsy, or significant traumatic injury within the 28 days prior to commencing study treatment. Minor surgery such as Portacath placement or skin biopsy is permitted if greater than or equal to 7 days have passed.\n12. History of bleeding diathesis or coagulopathy.\n13. Current use of anti-coagulants such as Vitamin K antagonists, unfractionated heparin, or low molecular weight heparin.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Hagerstown",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose Limiting Toxicity (DLT) of Lenvatinib Administered in Combination With Dacarbazine (for Phase 1b)",
+      "timeFrame": "From Day 1 through 21 days (one cycle)",
+      "description": "DLTs were defined as clinically significant adverse events (AEs) occurring less than or equal to 21 days after commencing study treatment and considered by the Investigator to be possibly or probably related to study treatment."
+    },
+    {
+      "measure": "Number of Participants With Adverse Events/Serious Adverse Events (AEs/SAEs)",
+      "timeFrame": "From signing of informed consent up to 30 days after the last dose, up to approximately 2 years",
+      "description": "Safety assessments consisted of monitoring and recording all AEs, including all Common Terminology Criteria for Adverse Events version 4.0 (CTCAE v. 4.0) grades, and SAEs; regular monitoring of hematology, blood chemistry, and urine values; periodic measurement of vital signs and electrocardiograms (ECGs); and performance of physical examinations. Details of AEs and SAEs are provided in the reported adverse event section."
+    }
+  ],
+  "sponsor": "Eisai Inc.",
+  "collaborators": [
+    "Quintiles, Inc."
+  ],
+  "start_date": "2010-04",
+  "completion_date": "2014-11",
+  "last_updated": "2016-08-16"
+}

@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT00006392",
+  "brief_title": "S0000 Selenium and Vitamin E in Preventing Prostate Cancer",
+  "official_title": "Selenium and Vitamin E Cancer Prevention Trial (SELECT) for Prostate Cancer",
+  "brief_summary": "RATIONALE: Chemoprevention therapy is the use of certain drugs to try to prevent the development of cancer. It is not yet known which regimen of selenium and/or vitamin E may be more effective in preventing prostate cancer.\n\nPURPOSE: Randomized phase III trial to determine the effectiveness of selenium and vitamin E, either alone or together, in preventing prostate cancer.",
+  "detailed_description": "OBJECTIVES:\n\n* Compare the effect of selenium and vitamin E administered alone vs in combination on the clinical incidence of prostate cancer.\n* Compare the effect of these prevention regimens on the incidence of lung cancer, colorectal cancer, and all cancers combined in participants on this study.\n* Compare the effect of these prevention regimens on prostate cancer-free survival, lung cancer-free survival, colorectal cancer-free survival, cancer-free survival, overall survival, and serious cardiovascular events in these participants.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 35533,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Vitamin E",
+      "type": "DRUG",
+      "description": "400 IU daily by mouth for 7-12 years"
+    },
+    {
+      "name": "Selenium",
+      "type": "DRUG",
+      "description": "200 mcg daily for 7-12 years"
+    },
+    {
+      "name": "Vitamin E placebo",
+      "type": "OTHER",
+      "description": "daily for 7-12 years"
+    },
+    {
+      "name": "selenium placebo",
+      "type": "OTHER",
+      "description": "daily for 7-12 years"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Healthy male volunteers\n* Digital rectal examination (DRE) deemed not suspicious for prostate cancer performed within 364 days prior to study entry\n\n  * Participants with a suspicious DRE are ineligible even if a recent or subsequent biopsy is negative for cancer\n* Total prostate-specific antigen \u2264 4.0 ng/mL within 364 days prior to study entry\n* No prior prostate cancer or high-grade (grade 2-3) prostatic intraepithelial neoplasia\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* See Disease Characteristics\n\nPerformance status:\n\n* Not specified\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nCardiovascular:\n\n* Systolic blood pressure \\< 160 mm Hg\n* Diastolic blood pressure \\< 90 mm Hg\n* No history of hemorrhagic stroke\n\nOther:\n\n* No malignancies within the past 5 years except basal cell or squamous cell skin cancer\n* No uncontrolled medical illness\n* No retinitis pigmentosa\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* Not specified\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified\n\nOther\n\n* At least 7 years since prior randomization to SWOG-9217, with completion of end-of-study biopsy requirement\n* No additional concurrent selenium or vitamin E (contained in individual supplements, antioxidant mix, or multivitamin)\n* Concurrent multivitamins allowed (supplied on study)\n* No concurrent anticoagulation therapy (e.g., warfarin)\n* Concurrent prophylactic aspirin (average daily dose no greater than 175 mg/day) allowed\n\n  * Concurrent daily aspirin dose \u2264 81 mg for participants receiving clopidogrel\n* Concurrent anti-hypertension medication allowed\n* No concurrent participation in another study involving a medical, surgical, nutritional, or life-style intervention (unless no longer receiving the intervention and are in the follow-up phase only)",
+    "gender": "MALE",
+    "min_age": "50 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Geisinger Medical Center",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822-0001",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Group - Scenery Park",
+      "city": "State College",
+      "state": "Pennsylvania",
+      "zip": "16801",
+      "status": ""
+    },
+    {
+      "facility": "Frank M. and Dorothea Henry Cancer Center at Geisinger Wyoming Valley Medical Center",
+      "city": "Wilkes-Barre",
+      "state": "Pennsylvania",
+      "zip": "18711",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Prostate Cancer",
+      "timeFrame": "Every six months for 7 to 12 years depending on when the participant was randomized.",
+      "description": "Participants are seen at the study site every six month for an update of medical events. Prostate cancer diagnosis is based on participant report followed by the submission of a pathologic sample to central pathology review for confirmation."
+    }
+  ],
+  "sponsor": "SWOG Cancer Research Network",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Eastern Cooperative Oncology Group",
+    "Cancer and Leukemia Group B",
+    "NCIC Clinical Trials Group"
+  ],
+  "start_date": "2001-07",
+  "completion_date": "2012-09",
+  "last_updated": "2015-10-23"
+}

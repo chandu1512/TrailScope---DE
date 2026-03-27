@@ -1,0 +1,50 @@
+{
+  "nct_id": "NCT06751576",
+  "brief_title": "Retrospective Clinical Trial Comparing Radiologists' Diagnosis Accuracy in Lung Cancer Screening Population With and Without the Help of an AI/ML Tech-based SaMD",
+  "official_title": "A Multi-Reader Multi-Case Controlled Clinical Trial to Evaluate the Comparative Accuracy Of Readers Assisted By an AI/ML Technology-Based End-To-End CADe/CADx SaMD Versus Alone in the Detection, Localization and Characterization of Pulmonary Nodules in Populations With High Risk of Lung Cancer (RELIVE)",
+  "brief_summary": "This is a two arm, randomized, controlled, blinded, multi-case multi reader (MRMC), retrospective study for the evaluation of the efficacy and safety of an AI/ML technology-based CADe/x developed to detect, localize and characterize malignancy score of pulmonary nodules on LDCT chest scans taken as part of a lung cancer screening program.\n\nLDCT DICOM images of patients who underwent routine lung cancer screening will be selected and enrolled into the study. Enrolled scans analyzed by radiologists with the assistance of the Median LCS (formerly iBiopsy) device are compared to the analysis by radiologists without the assistance of the Median LCS device.\n\nFigures of merit for patient level and lesion level detection and diagnostic efficacy will be calculated and compared, sub-class analysis will be performed to ensure device generalizability.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 480,
+  "conditions": [
+    "High Risk Cancer",
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Median LCS",
+      "type": "DEVICE",
+      "description": "End-to-end processing of chest LDCT DICOM images by an AI/ML tech-based SaMD to detect, localize, and characterize (assign a malignancy score) each detected pulmonary nodule. The output of the device is a DICOM File (Median LCS result report) summarizing results per patient."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* \u226550-80 Years of age;\n* Current or ex-smoker (\\>=20 pack years);\n* Patient screened and surveilled for lung cancer screening following lung cancer screening guidelines (equivalent to United States Preventive Services Task Force (USPSTF) 2021 Criteria);\n* Received LDCT due to inclusion in high-risk category for lung cancer.\n\nExclusion Criteria:\n\n* Prior lung resection;\n* Pacemaker or other indwelling metallic medical devices in the thorax that interfere with CT acquisition;\n* Patients/images used during AI model development;\n* Patients with only hilar and/or mediastinal cancer(s);\n* Patients with only ground glass cancer(s);\n* Patients with nodules, solid or part-solid \\>30mm (masses);\n* Patients that are not accompanied with the required clinical information;\n* Patients with imaging with any of the following: missing slices, slice thickness \\>3mm;\n* Partial cover of the lung.",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania - Penn Center for Innovation",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "\u2206 AUC of ROCs > 0. Delta Area between the Response operating curve (AUROC) value with Median LCS and AUROC without Median LCS at patient level data is superior to 0.",
+      "timeFrame": "12 months",
+      "description": "Demonstrate that patient diagnosis with Median LCS is improved compared to without Median LCS."
+    }
+  ],
+  "sponsor": "Median Technologies",
+  "collaborators": [],
+  "start_date": "2022-09-21",
+  "completion_date": "2025-03-12",
+  "last_updated": "2025-05-05"
+}

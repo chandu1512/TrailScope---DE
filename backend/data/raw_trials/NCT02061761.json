@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT02061761",
+  "brief_title": "A Study to Evaluate the Safety, Tolerability, and Efficacy of Relatlimab in Relapsed or Refractory B-Cell Malignancies",
+  "official_title": "A Phase 1/2a Dose Escalation and Cohort Expansion Study of the Safety, Tolerability, and Efficacy of Anti-LAG-3 Monoclonal Antibody (Relatlimab, BMS-986016) Administered Alone and in Combination With Anti-PD-1 Monoclonal Antibody (Nivolumab, BMS-936558) in Relapsed or Refractory B-Cell Malignancies",
+  "brief_summary": "The primary objective of this study is to characterize the safety, tolerability, dose-limiting toxicities (DLTs), and maximum tolerated dose (MTD) of relatlimab administered alone or in combination with nivolumab to subjects with relapsed or refractory B-cell malignancies. Co-primary objective is to investigate the preliminary efficacy of relatlimab in combination with nivolumab in subjects with relapsed or refractory Hodgkin lymphoma (HL), and relapsed or refractory Diffused Large B Cell lymphoma (DLBCL)",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 106,
+  "conditions": [
+    "Hematologic Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "BMS-986016",
+      "type": "BIOLOGICAL",
+      "description": "Specified Dose on Specified Days"
+    },
+    {
+      "name": "BMS-936558",
+      "type": "BIOLOGICAL",
+      "description": "Specified Dose on Specified Days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Must have histologic or cytologic confirmation of chronic lymphocytic leukemia, Hodgkin lymphoma, Non-Hodgkin lymphoma, or Multiple Myeloma and have relapsed following prior treatment or been refractory to prior treatment\n* Must have progressed or been refractory to, at least one prior standard therapy, including radiation, immunomodulatory agents (eg, lenalidomide), immunotherapy, cytotoxic chemotherapy, and select antibody (anti-CD20, alemtuzumab, or anti-CD30) therapy.\n* Must be more than 100 days post autologous transplant\n\nExclusion Criteria:\n\n* Known or suspected central nervous system (CNS) metastases or with the CNS as the only site of active disease (controlled CNS metastases are allowed)\n* Known or suspected autoimmune disease\n* History of allergy to anti-PD-1 or anti-PD-L1 antibody therapy or to other monoclonal antibodies or related compounds or to any of their components\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0007",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21205",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Adverse Events (AEs), Serious Adverse Events (SAEs), and AEs Leading to Discontinuation",
+      "timeFrame": "From first dose to 100 days post last dose (Up to 51 months)",
+      "description": "Number of participants with any grade adverse events (AEs), any grade serious adverse events (SAEs) and any grade AEs leading to discontinuation of any drug. The severity of AEs will be graded using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v4.0. An AE is defined as any new untoward medical occurrence or worsening of a preexisting medical condition in a clinical investigation participant administered study treatment and that does not necessarily have a causal relationship with this treatment."
+    },
+    {
+      "measure": "Number of Participants Who Died",
+      "timeFrame": "From first dose to 135 days post last dose (Up to 52 months)",
+      "description": "Number of participants who died due to any cause."
+    },
+    {
+      "measure": "Number of Participants With On-Treatment Laboratory Abnormalities in Specific Hepatics Tests",
+      "timeFrame": "From first dose to 30 days post last dose (Up to 49 months)",
+      "description": "Number of participants with laboratory abnormalities in specific hepatic tests based on SI unit convention. The number of participants with the following laboratory abnormalities from on-treatment evaluations will be summarized:\n\n* ALT or AST \\> 3 x ULN, \\> 5 x ULN, \\> 10 x ULN and \\> 20 x ULN\n* Total bilirubin \\> 2 x ULN\n* ALP \\> 1.5 x ULN\n* Concurrent (within 1 day) ALT or AST \\> 3 x ULN and total bilirubin \\> 1.5 x ULN\n* Concurrent (within 30 days) ALT or AST \\> 3 x ULN and total bilirubin \\> 1.5 x ULN\n* Concurrent (within 1 day) ALT or AST \\> 3 x ULN and total bilirubin \\> 2 x ULN\n* Concurrent (within 30 days) ALT or AST \\> 3 x ULN and total bilirubin \\> 2 x ULN"
+    },
+    {
+      "measure": "Objective Response Rate (ORR) - Part D",
+      "timeFrame": "From first dose date to the date of disease progression per investigator or the date of subsequent therapy, whichever occurs first (Up to approximately 95 months)",
+      "description": "Investigator-assessed ORR per International Working Group (IWG 2007) response criteria for malignant lymphoma is defined as the number of participants with a best overall documented response (BOR) of either a complete response (CR) or partial response (PR).\n\nComplete response: Disappearance of all evidence of disease. Partial response: Regression of measurable disease and no new sites. \\>= 50% decrease in sum of the produce of the diameters of up to 6 largest dominant masses (index lesions); no increase in size of other nodes (non-index lesions).\n\nProgressive disease: Any new lesion or increase by \\>=50% of previously involved sites from nadir."
+    },
+    {
+      "measure": "Duration of Response (DoR) - Part D",
+      "timeFrame": "From first dose to the date of the first objectively documented progression, or death due to any cause, whichever occurs first (Up to approximately 95 months)",
+      "description": "Investigator-assessed DoR per International Working Group (IWG 2007)) response criteria for malignant lymphoma is defined as the time between the date of first documented response (complete response or partial response) to the date of the first objectively documented progression, or death due to any cause, whichever occurs first.\n\nComplete response: Disappearance of all evidence of disease. Partial response: Regression of measurable disease and no new sites. \\>= 50% decrease in sum of the produce of the diameters of up to 6 largest dominant masses (index lesions); no increase in size of other nodes (non-index lesions).\n\nProgressive disease: Any new lesion or increase by \\>=50% of previously involved sites from nadir."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2014-03-13",
+  "completion_date": "2022-02-16",
+  "last_updated": "2023-03-20"
+}

@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT05932680",
+  "brief_title": "Limited-duration Teclistamab",
+  "official_title": "Phase 2, Single-Arm, Non-Inferiority Study Of Limited-Duration Teclistamab For Relapsed Refractory Multiple Myeloma",
+  "brief_summary": "This is a single-arm, non-inferiority study in which patients who have achieved a very good partial response (VGPR) or better, according to International Myeloma Working Group (IMWG) response criteria, following 6 to 9 months of treatment with teclistamab, a B-cell maturation antigen (BCMA)-directed T-cell engager (anti-BCMAxCD3 bispecific antibody), will be offered monitored drug discontinuation. Teclistamab is typically dosed on a regular schedule (every 1-4 weeks) indefinitely until disease progression (\"continuous therapy\"). Here, a limited-duration regimen will be studied in which patients achieving \u2265VGPR after 6-9 months of standard teclistamab dosing will discontinue therapy and resume if laboratory or clinical parameters suggest early disease progression (\"limited-duration therapy\"). Patients will enter the clinical trial protocol after completing 6-9 months of standard teclistamab monotherapy and achieving \u2265VGPR. The study's hypothesis is that the failure probability six months after stopping teclistamab in this patient population will be non-inferior compared to that of historical controls treated with continuous therapy. Reducing drug exposure may be beneficial by reducing risk of infection and reducing anti-BCMA selective pressure toward generation of BCMA-negative relapses. Analysis of minimal residual disease (MRD), tumor features, and bone marrow microenvironment parameters, which will be pursued as exploratory correlative analyses in this study, may identify factors that predict durable response to limited-duration therapy and thereby enable more precise selection of patients likely to benefit from this approach. A subset of patients will be enrolled on a biomarker study for analysis of these exploratory endpoints.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 75,
+  "conditions": [
+    "Myeloma Multiple"
+  ],
+  "interventions": [
+    {
+      "name": "Off Drug Surveillance",
+      "type": "OTHER",
+      "description": "After stopping teclistamab, participants will be monitored monthly by standard serum paraprotein studies for disease progression. Participants will resume teclistamab at time of disease progression. After Teclistamab therapy re-initiation on-study, monthly response assessments and data for other study endpoints will be obtained. All participants will undergo peripheral blood collection for correlative research studies at baseline and every two months on-study. Participants who enroll on the biomarker sub-study will undergo bone marrow examination and peripheral blood collection for correlative studies at study entry, at time of disease progression and at six months from enrollment."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants must be age \u226518 and able to give written, informed consent.\n* Participants must have initiated teclistamab (first full dose) 6-9 months prior to enrollment and received an average teclistamab dose of at least 1.5 mg/kg/month since the date of the first 1.5 mg/kg dose.\n* Participants must have received a teclistamab dose within 4 weeks prior to enrollment.\n* Participants must have had measurable disease according to IMWG criteria within 1 month prior to teclistamab initiation or first full teclistamab dose\n* Participants must have achieved a confirmed VGPR or better to teclistamab therapy at any assessment prior to enrollment and have ongoing response (i.e., no disease progression) at time of enrollment per IMWG consensus criteria (Appendix 14.3).\n* Prior to initiating teclistamab, participants must have received therapy with a proteasome inhibitor, thalidomide analog (lenalidomide or pomalidomide), and an anti-CD38 antibody and meet one of the following criteria:\n\n  1. \u22653 prior lines of therapy (with lines-of-therapy delineated according to IWMG guidelines)\n  2. Refractory to both a proteasome inhibitor and a thalidomide analog.\n* Participants must have had an ECOG performance status of 0-2 at time of teclistamab initiation; in addition, ECOG performance status must be 0-1 at time of enrollment.\n* Participants must not have known diagnoses of systemic amyloidosis or POEMS syndrome.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center at University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Thomas Jefferson University, Honickman Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Failure free at six months following teclistamab discontinuation",
+      "timeFrame": "Six months after teclistamab discontinuation",
+      "description": "Failure-free survival is defined as the rate of evaluable individuals who have not experienced any of the following predefined failure events within 6 months of discontinuing teclistamab. Failure is defined as earliest occurrence of any of the following: Participants who progress by IMWG criteria after discontinuing teclistamab, failure to achieve at least minimal response within 90 days after reinitiating teclistamab or failure to resume teclistamab within 90 days of IMWG-defined disease progression. Participants who reinitiate teclistamab due to rise in disease markers before IMWG criteria for disease progression are met, disease progression by IMWG criteria after reinitiation of teclistamab. Initiation of non-teclistamab systemic multiple myeloma therapy. Failure date will be defined as the date of initiating subsequent therapy. Death due to complications of multiple myeloma, teclistamab therapy, or infection"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2023-07-05",
+  "completion_date": "2027-01",
+  "last_updated": "2025-09-29"
+}

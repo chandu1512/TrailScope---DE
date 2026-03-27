@@ -1,0 +1,90 @@
+{
+  "nct_id": "NCT00630552",
+  "brief_title": "QUILT-2.019: A Study of AMG 655 or AMG 479 in Combination With Gemcitabine for Treatment of Metastatic Pancreatic Cancer",
+  "official_title": "A Phase 1b/2 Study to Evaluate the Safety and Efficacy of AMG 655 or AMG 479 in Combination With Gemcitabine as First-Line Therapy for Metastatic Pancreatic Cancer",
+  "brief_summary": "This is a multi-center, 2-part study of AMG 655, AMG 479 or AMG 655-placebo plus gemcitabine as first-line treatment of subjects with metastatic pancreatic cancer. Part 1 is an open-label, dose-escalation phase 1b segment to determine the safety, tolerability and maximum tolerated dose of AMG 655 in combination with gemcitabine. Enrollment into part 1 of the study has been completed. Part 2 is a randomized, placebo-controlled phase 2 segment to estimate the efficacy as assessed by 6 month survival of AMG 655, AMG 479, or AMG 655-placebo in combination with gemcitabine. The phase 2 segment that will commence after dose selection in part 1. In part 2, subjects will be randomized 1:1:1 to AMG 655, AMG 479, or placebo in combination with gemcitabine.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 138,
+  "conditions": [
+    "Adenocarcinoma of the Pancreas",
+    "Metastatic Pancreatic Cancer",
+    "Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Placebo",
+      "type": "OTHER",
+      "description": "Inactive dummy of AMG 655."
+    },
+    {
+      "name": "AMG 479",
+      "type": "DRUG",
+      "description": "AMG 479 is fully human monoclonal antagonist antibody targeted against insulin-like growth factor receptor type 1 (IGF-1R)."
+    },
+    {
+      "name": "AMG 655",
+      "type": "DRUG",
+      "description": "AMG 655 is a fully human monoclonal agonist antibody directed against TRAIL Receptor 2 (TR-2)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Untreated metastatic adenocarcinoma of the pancreas (AJCC Stage IV)\n* Subjects with unresectable pancreatic cancer who have had surgery are eligible if fully recovered and greater than 30 days have elapsed since the surgery.\n\nSubjects with a history of pancreatoduodenectomy are eligible provided that there is radiographically documented disease recurrence.\n\n* Men or women \u2265 18 years of age\n* Eastern Cooperative Oncology Group (ECOG) score of 0 or 1\n* Adequate hematologic, hepatic, renal and coagulation function\n* Amylase and lipase \u2264 2.0 x ULN\n* Adequately controlled type 1 or 2 diabetic subjects\n\nExclusion Criteria:\n\n* Islet cell, acinar cell carcinoma, non-adenocarcinoma (eg, lymphoma, sarcoma, etc), adenocarcinoma originated from biliary tree or cystadenocarcinoma\n* Known central nervous system metastases\n* Uncontrolled cardiac disease or any other co-morbid disease that would increase the risk of toxicity\n* Adjuvant chemotherapy or chemoradiotherapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Westminster",
+      "state": "Maryland",
+      "zip": "21157",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19106",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15261",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Dose Limiting Toxicities (DLTs; Phase 1b Portion Only)",
+      "timeFrame": "28 days",
+      "description": "The incidence of adverse events and clinical laboratory abnormalities defined as DLTs. A DLT was defined as any grade 3 or higher hematologic or non-hematologic toxicity related to any study treatment."
+    },
+    {
+      "measure": "Six Month Overall Survival Rate (Phase 2 Portion Only)",
+      "timeFrame": "6 months",
+      "description": "The proportion of subjects alive at 6 months"
+    }
+  ],
+  "sponsor": "NantCell, Inc.",
+  "collaborators": [],
+  "start_date": "2007-06",
+  "completion_date": "2012-04",
+  "last_updated": "2024-10-14"
+}

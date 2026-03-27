@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT01088984",
+  "brief_title": "Study of Bendamustine Hydrochloride for the Treatment of Pediatric Patients With Relapsed or Refractory Acute Leukemia",
+  "official_title": "An Open-Label Study of Bendamustine Hydrochloride for the Treatment of Pediatric Patients With Relapsed or Refractory Acute Leukemia",
+  "brief_summary": "The primary objective of phase 1 of this study is to establish the recommended phase II dose (RP2D). The primary objective of phase 2 of this study is to evaluate the safety and efficacy of bendamustine at the recommended pediatric dose for the treatment of pediatric patients with relapsed or refractory acute leukemia.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 43,
+  "conditions": [
+    "Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "Bendamustine",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* The patient has histologically proven acute lymphocytic leukemia (ALL) or acute myeloid leukemia (AML) that has relapsed or is refractory to the last regimen, and the patient is without alternative curative therapy.\n* The patient's last myelosuppression therapy ended at least 2 weeks before the first dose of study drug.\n* Nonhematologic acute toxic effects of prior therapy have resolved to grade 2 or less according to National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE).\n* The patient has adequate liver function with bilirubin values less than or equal to 1.5 times the upper limit of normal (ULN) and aspartate aminotransferase (AST) and alanine aminotransferase (ALT) values less than or equal to 5 times the age-appropriate ULN.\n* The patient has adequate renal function with serum creatinine values less than 2 times ULN.\n* The patient has Karnofsky or Lansky performance status of 60 or greater. Patients older than 16 years of age will be scored according to the Karnofsky scale and patients 16 years of age or younger will be scored according to the Lansky scale.\n* The patient may have had hematopoietic stem cell transplantation.\n* Women of childbearing potential (not surgically sterile) must use a medically accepted method of contraception and must agree to continue use of this method for the duration of treatment and for 30 days after the end of treatment.\n* Men not surgically sterile or who are capable of producing offspring must practice abstinence or use a barrier method of birth control, and must agree to continue use of this method for the duration of treatment and for 30 days after the end of treatment.\n* The patient must be willing and able to comply with study restrictions and to remain at the clinic for the required duration during the study period, and willing to return to the clinic for the follow-up evaluation as specified in this protocol.\n\nKey Exclusion Criteria:\n\n* The patient has any active, uncontrolled systemic infection, severe concurrent disease, or symptomatic untreated central nervous system (CNS) involvement.\n* The patient has evidence of active graft versus host disease.\n* The patient has a known human immunodeficiency virus (HIV) infection.\n* The patient has active hepatitis B or hepatitis C infection.\n* The patient is a pregnant or lactating woman. Any women becoming pregnant during the study will be withdrawn from the study immediately.\n* The patient has any serious uncontrolled medical or psychological disorder that would impair the ability of the patient to receive study drug.\n* The patient has any condition that places the patient at unacceptable risk or confounds the ability of the investigators to interpret study data.\n* The patient has received any other investigational agent within 30 days of study entry.\n* The patient has known hypersensitivity to bendamustine or mannitol.",
+    "gender": "ALL",
+    "min_age": "1 Year",
+    "max_age": "20 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Teva Investigational Site 8",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "Teva Investigational Site 11",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "Teva Investigational Site 7",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Recommended Phase II Dose (RP2D) of Bendamustine",
+      "timeFrame": "Induction Cycle (21- to 35-day cycle)",
+      "description": "RP2D was determined by a traditional 3+3 dose escalation design, with the following restrictions: only doses of 60, 90, 120, and 150 mg/m\\^2 were explored, and escalation to 150 mg/m\\^2 would only occur if the 120 mg/m\\^2 dose was deemed safe and pharmacokinetic data indicate subtherapeutic exposure as compared with adults. The first cohort was administered bendamustine at the 90 mg/m\\^2 dose; de-escalation to the 60 mg/m\\^2 dose would only occur if the starting dose led to dose-limiting toxicity (DLT) in 2 or more participants. A DLT was defined as any study drug-related nonhematologic adverse event (AE) that was grade 4 for toxicity by National Cancer Institute's Common Toxicity Criteria for AEs, version 4. In addition, grade 3 or above allergic reaction or skin rash were considered DLTs. Hematologic AEs were not considered DLTs. The dose level at which at least 2 of 3 or 2 of 6 participants had a DLT was considered as exceeding the RP2D. The RP2D was the dose 1 step below that level."
+    },
+    {
+      "measure": "Overall Response Rate (ORR)",
+      "timeFrame": "Assessed at each treatment cycle (21 to 35 days), for a maximum of 12 cycles",
+      "description": "ORR was calculated as follows: number of participants in the primary analysis set achieving a best overall response of complete remission without platelet recovery (CRp) or complete remission (CR), divided by the number of participants in the primary analysis set. The most positive response for each patient during the study was counted. The 95% CI was calculated using binomial parameter exact method. Response was determined by the investigator, and evaluated per Jeha et al, 2006: A CR required no evidence of circulating blasts or extramedullary disease, an M1 marrow (\u2264 5% bone marrow blasts), and recovery of peripheral counts (platelets \u2265 100 \u00d7 10\\^9/L and absolute neutrophil count \u2265 1.0 \u00d7 10\\^9/L). A CR without platelet recovery (CRp) required all of the criteria for a CR with the exception of platelet recovery."
+    }
+  ],
+  "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+  "collaborators": [],
+  "start_date": "2010-08",
+  "completion_date": "2011-08",
+  "last_updated": "2016-04-21"
+}

@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT04315467",
+  "brief_title": "Intraoperative Imaging of Pulmonary Nodules by SGM-101",
+  "official_title": "Intraoperative Molecular Imaging Of Pulmonary Nodules By SGM-101, A Fluorochrome-Labeled Anti-Carcino-Embryonic Antigen (CEA) Monoclonal Antibody",
+  "brief_summary": "The primary objectives of this study are to assess the sensitivity and specificity of SGM-101 in detecting non-small cell lung carcinomas during surgery when excited by an near-infrared light source utilizing intraoperative imaging.",
+  "detailed_description": "Potential subjects will be seen in a General Thoracic Surgery clinic. If potential subjects have a lung nodule that is suspicious for non-small cell lung cancer, they will be a candidate for the operation and the study. There will be no randomization or control group and only subjects previously scheduled to undergo surgery will be eligible to participate. The investigators anticipate a 24-month period will be necessary to reach the accrual goal of 20 subjects.\n\nAfter obtaining informed consent, subjects who are confirmed as eligible will receive a one-time dose of 5 to 10 mg of SGM-101, up to 5 days prior to the planned operation. As a prophylactic measure, the Principal Investigator may recommend giving 25 mg of IV Benadryl to the subject prior to the infusion of SGM-101 to ensure the possibility of an allergic reaction is absolutely minimized. The goal of surgery in subjects is to remove the nodule and lymph nodes in concern. During surgery, the investigators will take images with an intra-operative camera system. Imaging will take place prior to surgical resection to record the localization of tumors, and post-resection to document the visualization of any residual tumor.\n\nThe duration of surgical procedures to resect thoracic malignancies varies substantially, anywhere from 2-6 hours or more. It is estimated that visualization of the chest and removal of nodules for the purposes of this study will require an additional ten (10) minutes. Due to potential quenching of the fluorophore, visualization time will be limited to 30 minutes.\n\nCohort 1: The first 10 subjects will be a feasibility trial. The investigators will discover whether lung non-small cell lung cancers fluoresce based on the intraoperative images. The surgeon will look at the images during surgery to determine if the tumor is glowing or not. In the first 10 subjects, if the investigators identify 5 or more subjects with a false positive, then the investigators will review the data prior to proceeding. If the investigators have a high false positive rate, then the investigators will likely not proceed because the clinical value of the fluorescent probe is minimal. Of note, if the first five consecutive subjects have false positives, the investigators will stop the study and analyze the data carefully before proceeding with the study.\n\nCohort 2: If the first 10 subjects show no significant false positives, then the investigators will continue to examine another 10 subjects.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 10,
+  "conditions": [
+    "Lung Cancer",
+    "Lung Nodule",
+    "Non Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "SGM-101",
+      "type": "DRUG",
+      "description": "A one-time infusion of SGM-101"
+    },
+    {
+      "name": "Near infrared camera imaging system",
+      "type": "DEVICE",
+      "description": "Near infrared camera imaging system"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adult subjects over 18 years of age\n* Subjects presenting with a lung, pleural nodule or mass presumed to be resectable on pre-operative assessment\n* Good operative candidate\n* Subject is capable of giving informed consent and participating in the process of consent.\n\nExclusion Criteria:\n\n* At-risk subject populations:\n\n  1. Homeless subjects\n  2. Subjects with drug or alcohol dependence\n  3. Children and neonates\n  4. Subjects unable to participate in the consent process.\n* Female patients should not be pregnant or lactating. Women of child-bearing potential will be included provided that they have a negative pregnancy test or provide documentation of sterilization, menopausal or post-menopausal status, prior to infusion.\n* Patients who have received SGM-101 in the past.\n* Patients who have received any investigational drug four weeks of the injection.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Sensitivity measure of SGM-101 uptake and expression in identifying non-small cell lung cancer",
+      "timeFrame": "Up to 10 days post surgery (completion of pathology report)",
+      "description": "The sensitivity measure will be based on the single lung nodule that is being removed from each subject included in the study. The sensitivity measure is calculated by dividing the number of True Positives (fluorescent nodule, pathology is cancer) by True Positives plus False Negatives (not fluorescent nodule, pathology is cancer)."
+    },
+    {
+      "measure": "Specificity measure of SGM-101 uptake and expression in identifying non-small cell lung cancer",
+      "timeFrame": "Up to 10 days post surgery (completion of pathology report)",
+      "description": "The specificity measure will be based on the single lung nodule that is being removed from each subject included in the study. The specificity measure is calculated by dividing the number of True Negatives (not fluorescent nodule, pathology is no cancer) by True Negatives plus False Positives (fluorescent nodule, pathology is no cancer)."
+    },
+    {
+      "measure": "Number of Adverse Events (AEs) and Treatment-emergent Adverse Events (TEAEs)",
+      "timeFrame": "Up to 4 weeks post surgery (completion of post-operative follow-up visit)",
+      "description": "The safety of the study will be determined via incidence rates of all AEs and TEAEs from the time of SGM-101 administration through post-operative follow-up visit."
+    }
+  ],
+  "sponsor": "Sunil Singhal",
+  "collaborators": [],
+  "start_date": "2020-07-08",
+  "completion_date": "2022-02-10",
+  "last_updated": "2022-06-15"
+}

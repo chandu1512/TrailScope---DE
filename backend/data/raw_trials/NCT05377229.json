@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT05377229",
+  "brief_title": "MarginProbe 2.0 Data Collection Protocol",
+  "official_title": "MarginProbe 2.0 Data Collection Protocol",
+  "brief_summary": "Previous clinical studies with the MarginProbe (MP) system demonstrated the MP System diagnostic accuracy for identification of cancerous/abnormal tissue at the margins (\u2264 1mm) of the ex-vivo lumpectomy specimen. The current study is a prospective data collection study with the enhanced technology, the MP2.0 System and is aimed at collecting data to optimize the system algorithm/procedure and to subsequently validate the system to demonstrate non-inferiority to the MP1.x system.\n\nIn this study, MP2.0 system will be used on ex-vivo lumpectomy specimens at the Operating Room (OR). The study will collect a library of case information data using the MP2.0 system in sequential cohorts of a minimum of 50 subjects until the software and procedure are optimized. The final analysis sample size will be determined and outlined in the SAP based upon the results of the optimization stage.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 398,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "MarginProbe2.0",
+      "type": "DEVICE",
+      "description": "The MarginProbe System is an adjunctive diagnostic tool for identification of cancerous tissue at the margins of the ex-vivo lumpectomy specimen following primary excision and is indicated for intraoperative use, in conjunction with standard methods (such as intraoperative imaging and palpation) in patients undergoing breast lumpectomy surgery for previously diagnosed breast cancer."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Women over 18 years of age\n2. Diagnosed with cancer, undergoing lumpectomy or partial mastectomy procedure\n3. Signed Informed Consent Form\n\nExclusion Criteria:\n\n1. Undergoing re-excision procedure\n2. Concurrent infectious disease\n3. Pregnancy\n4. Lactation\n5. Previous surgery in the same site including open biopsy procedure, previous breast reduction or mastopexy in the operated breast\n6. Prior radiation treatment in the operated breast\n7. Participating in any other investigational study for either drug or device which can influence collection of valid data under this study",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Englewood Health",
+      "city": "Englewood",
+      "state": "New Jersey",
+      "zip": "07631",
+      "status": ""
+    },
+    {
+      "facility": "Lehigh Valley",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18017",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+      "timeFrame": "During the lumpectomy surgery",
+      "description": "Adverse Events (AEs) and Serious Adverse Events (SAEs)"
+    },
+    {
+      "measure": "Collect MP2.0 data in cohorts of a minimum of 50 subjects to optimize MP2.0 algorithm and procedure.",
+      "timeFrame": "During the lumpectomy surgery",
+      "description": "The cohorts will continue to be collected until a final algorithm is established and the cohort(s) can be collected with the final algorithm to determine the sensitivity and specificity to demonstrate non-inferiority to the MP1.x system."
+    }
+  ],
+  "sponsor": "Dilon Medical Technologies Ltd.",
+  "collaborators": [],
+  "start_date": "2021-12-15",
+  "completion_date": "2025-01-12",
+  "last_updated": "2025-08-27"
+}

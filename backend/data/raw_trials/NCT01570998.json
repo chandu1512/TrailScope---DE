@@ -1,0 +1,86 @@
+{
+  "nct_id": "NCT01570998",
+  "brief_title": "Intraoperative Radiation Therapy in Treating Patients With Breast Cancer Undergoing Breast-Conserving Surgery",
+  "official_title": "Targeted Intraoperative Radiotherapy United States (TARGIT-US) Phase IV Registry Trial: A Registry Trial of Targeted Intraoperative Radiation Therapy Following Breast-conserving Surgery",
+  "brief_summary": "This phase IV trial studies the side effects of intraoperative radiation therapy and how well it works in treating patients with breast cancer undergoing breast-conserving surgery. Delivering radiation one time to the area where the tumor was removed while the patient is still in the operating room may kill any residual tumor cells and may be as effective as standard radiation therapy in patients with early stage breast cancer.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To establish eligibility criteria based on previously published trials and studies in order to allow women who meet these criteria to receive intraoperative radiation therapy (IORT) on an Institutional Review Board (IRB)-approved protocol.\n\nII. To systematically collect and assess acute and long-term toxicity and outcomes in larger cohort of patients.\n\nIII. To study the efficacy and toxicity of breast radiotherapy given intra-operatively as a single fraction after breast conserving surgery, with or without whole breast radiation, as indicated by pathologic risk factors, in women with early stage breast cancer.\n\nIV. In-breast local failure and patterns of in-breast failure. V. Ipsilateral regional nodal failure. VI. Toxicity and morbidity. VII. Relapse-free survival. VIII. Overall survival.\n\nOUTLINE:\n\nPatients undergo IORT in a single fraction over 15-40 minutes at the time of standard of care lumpectomy.\n\nAfter completion of study treatment, patients are followed up within 6 weeks and then every 6 months for 3 years and yearly for 2 years.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1259,
+  "conditions": [
+    "Stage IA Breast Cancer",
+    "Stage IIA Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Intraoperative Radiation Therapy",
+      "type": "RADIATION",
+      "description": "Undergo IORT"
+    },
+    {
+      "name": "Laboratory Biomarker Analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Suitable for breast conserving surgery\n* T1 and T2 (\\< 3.5 cm), N0, M0\n\nExclusion Criteria:\n\n* Axillary lymph node positive breast cancer\n* Tumor size \\> 3.5 cm\n* Extensive intraductal component (EIC \\>= 25% of the lumpectomy specimen involved with ductal carcinoma in situ), as assessed on surgical pathologic lumpectomy specimen\n* Multicentric cancer in the same breast as diagnosed by clinical examination, mammography, ultrasound; magnetic resonance imaging (MRI) or pathologic assessment, not amenable to excision with negative margins with a single lumpectomy\n* Inability to assess pathologic margin status\n* Synchronous bilateral breast cancer at the time of diagnosis\n* Ipsilateral breast had a previous cancer and/or prior in-field radiation\n* Patients known to have BRCA1/2 gene mutations (testing for gene mutations is not required)\n* Patients undergoing primary systemic treatment (hormones or chemotherapy) as initial treatment with neoadjuvant reducing tumor size\n* Previous history of malignant disease does not preclude entry if the expectation of relapse-free survival at 10 years or greater\n* Any factor included as exclusion criteria in the participating center's treatment policy statement\n* Additional exclusion criteria for University of California San Francisco (UCSF) (as laid out in the Treatment Policy):\n\n  * Patients under the age of 50\n  * Estrogen receptor negative (as defined in Treatment Policy under \"Pathology\")\n  * Human epidermal growth factor receptor 2 (HER2) positive (as defined in Treatment Policy under \"HER2\")\n  * Lymphovascular invasion\n  * High grade\n  * Tumors \\> 3 cm\n  * Node positive patients\n  * Prior chemotherapy or hormone therapy",
+    "gender": "FEMALE",
+    "min_age": "45 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Mercy Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21202",
+      "status": ""
+    },
+    {
+      "facility": "Saint Luke's Hospital-Anderson Campus",
+      "city": "Easton",
+      "state": "Pennsylvania",
+      "zip": "18045",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of local recurrence",
+      "timeFrame": "Up to 5 years",
+      "description": "Local tumor control is defined as no recurrent tumor in the ipsilateral breast. Patients will be regularly monitored as per the individual center's policy provided this meets the minimum trial criteria for follow-up with physical examination at least every 6 months for 3 years and yearly at 4 and 5 years post-treatment. Confirmation of recurrence will follow clinical examination and cytology or biopsy. The two patient cohorts will not be separated for the analysis regarding local control."
+    },
+    {
+      "measure": "Frequency of site of relapse within the breast",
+      "timeFrame": "Up to 5 years",
+      "description": "Site of relapse within the breast will be recorded in order to assess whether the recurrence is at the site of initial tumor or at a new site and whether it has occurred within the treated field (IORT)."
+    },
+    {
+      "measure": "Percentage of participants with treatment-related adverse events",
+      "timeFrame": "Up to 5 years",
+      "description": "Local toxicity and morbidity will be recorded as adverse events related to the primary treatment of the breast cancer. These were recorded in the randomized trial and outcomes showed no significant difference in clinical complications for the IORT as compared to standard external beam radiation. However, all expected toxicities of hematoma, seroma, wound infection, wound breakdown and delayed wound healing will be assessed according to Radiation Therapy Oncology Group (RTOG) criteria. Late skin reactions, rash, telangiectasia and pain due to radiation and all other toxicities will be recorded and graded according to standard NCI-CTCAE V. 4 criteria"
+    },
+    {
+      "measure": "Median Relapse-free survival",
+      "timeFrame": "Up to 5 years",
+      "description": "Relapse-free survival will be recorded as the time interval between trial entry and the date of confirmation of any recurrence. The actual date to be used is the clinic day on which the investigations that led to a confirmed diagnosis of the recurrence were requested. Relapse-free survival would include any recurrence of breast cancer (local, regional or distant) or death without prior report a relapse. All patients will be analyzed under an \"Intent to Treat\" policy"
+    },
+    {
+      "measure": "Median Overall Survival",
+      "timeFrame": "Up to 5 years",
+      "description": "Overall survival will be the time interval between enrollment and death."
+    }
+  ],
+  "sponsor": "University of California, San Francisco",
+  "collaborators": [
+    "Carl Zeiss Meditec AG"
+  ],
+  "start_date": "2012-05-18",
+  "completion_date": "2028-12-31",
+  "last_updated": "2026-03-16"
+}

@@ -1,0 +1,101 @@
+{
+  "nct_id": "NCT06105749",
+  "brief_title": "Biennial CEM in Women With a Personal History of Breast Cancer",
+  "official_title": "Outcome of Biennial Screening Contrast-Enhanced Mammography (CEM) in Women With a Personal History of Breast Cancer (PHBC)",
+  "brief_summary": "This is a prospective clinical trial that will examine if biennial contrast-enhanced mammography added to annual 3D mammography (tomosynthesis) substantially improves breast cancer detection with minimal increase in false-positives, in women with a personal history of breast cancer.",
+  "detailed_description": "The investigators seek to determine if improved breast cancer detection is maintained with biennial contrast-enhanced mammography (CEM) added to annual digital breast tomosynthesis (DBT) with overall fewer false positives than from annual DBT plus CEM. The investigators will offer biennial CEM exams for eligible patients. Enrolled participants will have a baseline CEM exam with their routine DBT exam, and then have another CEM exam 24 months after their baseline CEM exam and then again at 48 months. Participants will continue to have their annual DBT exams during this time as a part of their usual care. Two radiologists (one primary) will evaluate each pair of examinations by sequentially interpreting each of DBT and CEM in opposing order (primary reader DBT then CEM and secondary reader CEM then DBT), initially blinded to the other modality. We expect that with biennial screening, at least a similar number of cancers will be detected with CEM (and possibly more that were occult on the DBT-only screen 12 months prior), with a similar incremental false-positive rate and at least similar (if not improved) overall positive predictive value (PPV1).",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1500,
+  "conditions": [
+    "Breast Cancer",
+    "Breast Neoplasms",
+    "Breast Cancer Female",
+    "Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "contrast-enhanced mammography",
+      "type": "DEVICE",
+      "description": "Contrast-enhanced mammography (CEM) is a new FDA-approved exam that is similar to magnetic resonance imaging (MRI) in depicting breast cancers due to increased and leaky blood vessels. Contrast-enhanced mammography is used as an adjunct following mammography and/or ultrasound examinations to localize a known or suspected lesion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Asymptomatic women, ages 30-79, with a personal history of breast cancer who are at least one year out from any breast cancer surgery and/or treatment and are scheduled to have a routine annual mammogram with tomosynthesis (DBT).\n\nExclusion Criteria:\n\n* Women with a history of prior moderate or severe iodinated contrast reaction \\[only those with a prior mild reaction that can be managed by pre-medication AND with and a strong desire to participate will be allowed to participate. However, among these women with a mild sensitivity, if they are allergic to Benadryl (one of the premedications), they will be excluded\\].\n* Women with implant(s) in the breasts to be screened (as this creates artifacts and diagnostic performance of imaging in women with implants likely does not generalize to those without implants, and the sample size with implants would be too small to infer conclusions.\n* Women who have had bilateral mastectomy\n* Women with a history of kidney failure or estimated glomerular filtration rate (eGFR) \\< 45 mL/min\n* Pregnancy or lactation\n* Women actively being treated for cancer of any type with chemotherapy\n* Having only one kidney\n* Women with stage 4 metastasis to visceral areas or brain\n* Women who have a screening breast MRI exam within 24 months prior to the current round of CEM.\n* Women who had a CEM exam within the prior 23 months",
+    "gender": "FEMALE",
+    "min_age": "30 Years",
+    "max_age": "79 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "UPMC Magee-Womens Imaging - Bethel Park",
+      "city": "Bethel Park",
+      "state": "Pennsylvania",
+      "zip": "15102",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Magee at the Lemieux Sports Complex",
+      "city": "Cranberry Township",
+      "state": "Pennsylvania",
+      "zip": "16066",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Magee Womancare Monroeville",
+      "city": "Monroeville",
+      "state": "Pennsylvania",
+      "zip": "15146",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Magee-Womens Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Hillman Cancer Center at Shadyside",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC West Mifflin Outpatient Center",
+      "city": "West Mifflin",
+      "state": "Pennsylvania",
+      "zip": "15236",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incremental Cancer Detection Rate",
+      "timeFrame": "at 24 months, 48 months, and 62 months",
+      "description": "CEM cancer detection rate for first observer vs usual care (annual DBT)"
+    },
+    {
+      "measure": "False-positive recall rate",
+      "timeFrame": "at 24 months, 48 months, and 62 months",
+      "description": "CEM false-positive findings for first observer vs usual care (annual DBT)"
+    },
+    {
+      "measure": "Positive-predictive values",
+      "timeFrame": "at 24 months, 48 months, and 62 months",
+      "description": "CEM positive-predictive values for first observer vs usual care (annual DBT)"
+    }
+  ],
+  "sponsor": "Wendie Berg",
+  "collaborators": [
+    "Breast Cancer Research Foundation"
+  ],
+  "start_date": "2023-11-08",
+  "completion_date": "2031-04",
+  "last_updated": "2025-09-04"
+}

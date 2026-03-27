@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT05650021",
+  "brief_title": "Rectal Spacer for Prostate Cancer Radiation Image Guidance",
+  "official_title": "Radiopaque Hydrogel Rectal Spacer for Prostate Cancer Radiation Image Guidance",
+  "brief_summary": "The purpose of the study is to determine if a radiopaque hydrogel rectal spacer, SpaceOAR Vue\u00ae, can be used in place of fiducial markers when aligning patients for radiotherapy. The investigator hypothesizes that the alignment of the patient based on the rectal spacer will be similar to the alignment of the patient with fiducial markers.",
+  "detailed_description": "In 2021 it is estimated that there will be 248,530 new cases of prostate cancer. Treatment options for prostate cancer are broad and based primarily on the risk category of prostate cancer as well as the life expectancy of the patient. For patients with intermediate and high-risk prostate cancer, there are a multitude of treatment options including radical prostatectomy, external beam radiation, brachytherapy, a combination of external beam and brachytherapy, and with strong consideration of androgen deprivation therapy (ADT) for patients receiving radiation who have higher risk disease. Furthermore, external beam radiotherapy can be delivered in a variety of dose / fractionation schedules, such as conventionally fractionated courses over 8-9 weeks, moderately hypofractionationed courses over 4-6 weeks, and stereotactic body radiation therapy (SBRT) over just 5 treatments. Since the prostate location is variable and dependent on rectal and bladder filling, on any given treatment day the prostate may shift \\> 1cm relative to bony anatomy. A current state of the art image guided radiotherapy (IGRT) includes the use of cone beam CT (CBCT) for alignment of the prostate based on internal 3D anatomy. Since this technology lacks soft tissue contrast, the implantation of at least three non-colinear fiducial markers in the prostate is commonly utilized to help with daily IGRT to reproducibly align the prostate for radiotherapy. The use of three fiducials ensures that alignment of the three points at the time of CBCT accurately triangulates the location of the prostate gland in three-dimensional space.\n\nAnother major advance prostate radiotherapy is the use of rectal hydrogel spacer to displace the anterior rectal wall posteriorly away from the high doses of radiation prescribed to the prostate. A phase III trial of hydrogel rectal spacer during prostate radiotherapy found decreased toxicity and improved bowel quality of life at 3 years for patients receiving the spacer. Subsequently, the device (SpaceOAR\u00ae) was FDA approved in April 2015. The first generation of spaceOAR\u00ae is only discernable on MRI, which most commonly necessitates a prostate MRI after placement to assist with radiotherapy planning. The second generation of SpaceOAR\u00ae, deemed SpaceOAR Vue \u00ae, is an iodinated version of the hydrogel that is visible on CT scan and thus obviates the need for a post-procedural MRI scan for radiotherapy treatment planning. In July 2019 the SpaceOAR Vue\u00ae device received 510(k) clearance indicating that it is substantially equivalent to predicate devices and can thus be marketed for use in the United States. SpaceOAR Vue\u00ae is now offered to patients with prostate cancer undergoing radiotherapy to decrease rectal toxicity.\n\nThe placement of fiducial markers and rectal hydrogel spacers are relatively well tolerated, though they are both still invasive procedures that carry a small, but tangible amount of risk due to transperineal or transrectal needle placement. Approximately 1/3 of patients will have at least one new symptom after fiducial marker placement, most commonly increased urinary frequency, hematuria, rectal bleeding, dysuria, hematospermia, pain, obstruction, or fever. Most of these side effects are grade 2, though 0.5-1.5% of patients have been shown to have a grade 3 complication from fiducial marker placement. With placement of rectal hydrogel, mild transient procedural adverse events such as perineal discomfort was noted in 10% of patients receiving spaceOAR. The investigator proposes that SpaceOAR Vue\u00ae may be used not only as a radiopaque rectal spacer, but also as a three-dimensional fiducial marker. This would obviate the need for fiducial marker placement resulting in improved patient experience, less procedural invasiveness, and decreased procedural toxicity.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 17,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "SpaceOAR Vue",
+      "type": "DEVICE",
+      "description": "CBCT images acquired during the first five fractions of radiotherapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* To be eligible for the study, you must have already had SpaceOAR and fiducial markers placed before undergoing prostate radiotherapy, or you should have a plan to have them placed.\n* Untreated cT1 - cT3 prostate cancer\n\nExclusion Criteria:\n\n* Extracapsular extension of prostate cancer\n* Prior prostatectomy",
+    "gender": "MALE",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Cancer Institute",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cone beam CT alignment",
+      "timeFrame": "8 weeks",
+      "description": "The radiation oncologist will measure the difference in anterior/posterior, superior/inferior, and lateral shifts between the cone beam CT alignment completed with fiducial markers and the cone beam CT alignment completed with the radiopaque hydrogel rectal spacer."
+    }
+  ],
+  "sponsor": "Milton S. Hershey Medical Center",
+  "collaborators": [],
+  "start_date": "2024-03-08",
+  "completion_date": "2025-09-15",
+  "last_updated": "2025-12-02"
+}

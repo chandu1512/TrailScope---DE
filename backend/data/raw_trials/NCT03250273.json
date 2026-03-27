@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT03250273",
+  "brief_title": "A Clinical Trial of Entinostat in Combination With Nivolumab for Patients With Previously Treated Unresectable or Metastatic Cholangiocarcinoma and Pancreatic Adenocarcinoma",
+  "official_title": "A Phase 2 Clinical Trial of Entinostat in Combination With Nivolumab for Patients With Previously Treated Unresectable or Metastatic Cholangiocarcinoma and Pancreatic Adenocarcinoma",
+  "brief_summary": "The proposed study is an open-label, two-arm study of entinostat plus nivolumab in patients with unresectable or metastatic cholangiocarcinoma (CCA) or pancreatic ductal adenocarcinoma (PDAC).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 44,
+  "conditions": [
+    "Metastatic Cholangiocarcinoma",
+    "Cholangiocarcinoma",
+    "Pancreatic Cancer",
+    "Metastatic Pancreatic Cancer",
+    "Unresectable Pancreatic Cancer",
+    "Unresectable Cholangiocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Entinostat",
+      "type": "DRUG",
+      "description": "Entinostat (5mg) will be administered starting with 2 lead-in doses at 14 and 7 days before the first dose of nivolumab in combination with entinostat. After the lead-in dose, entinostat will be administered once a week (days 1, 8, 15, and 21 of each treatment cycle)."
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "After both lead-in doses of entinostat, nivolumab (240 mg) will be administered every 2 weeks (day 1 and day 15 of a cycle)."
+    },
+    {
+      "name": "Entinostat",
+      "type": "DRUG",
+      "description": "Entinostat (5mg) will be administered starting with 2 lead-in doses at 14 and 7 days before the first dose of nivolumab in combination with entinostat. After the lead-in dose, entinostat will be administered once a week (days 1, 8, 15, and 21 of each treatment cycle)."
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "After both lead-in doses of entinostat, nivolumab (240 mg) will be administered every 2 weeks (day 1 and day 15 of a cycle)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age \u226518 years.\n2. Have histologically or cytologically proven cholangiocarcinoma or adenocarcinoma of the pancreas that is metastatic or unresectable.\n3. Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n4. Life expectancy of greater than 12 weeks.\n5. Patients must have adequate organ and marrow function defined by study-specified laboratory tests.\n6. Woman of child bearing potential must have a negative pregnancy test.\n7. Must have progressive measurable disease.\n8. Must have an accessible non-bone tumor that can be biopsied.\n9. Must use acceptable form of birth control while on study.\n10. Willing to provide tissue and blood samples.\n11. Ability to understand and willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n1. Chemotherapy, radiotherapy, investigational therapy, or surgery less than 3 weeks prior to trial registration\n2. Prior treatment with epigenetic therapy (such as entinostat, panobinostat, vorinostat, romidepsin, 5-azacitidine, or decitabine)\n3. Prior treatment with immunotherapy agents (including, anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA4, etc.).\n4. Hypersensitivity reaction to any monoclonal antibody.\n5. History of any autoimmune disease: inflammatory bowel disease, (including ulcerative colitis and Crohn's Disease), rheumatoid arthritis, systemic progressive sclerosis (scleroderma), systemic lupus erythematosus (SLE) autoimmune vasculitis (e.g., Wegener's Granulomatosis), central nervous system (CNS) or motor neuropathy considered to be of autoimmune origin (e.g., Guillain-Barre Syndrome, Myasthenia Gravis, Multiple Sclerosis). Patients are permitted to enroll if they have vitiligo, type I diabetes mellitus, residual hypothyroidism due to autoimmune condition only requiring hormone replacement, psoriasis not requiring systemic treatment, or conditions not expected to recur in the absence of an external trigger (precipitating event).\n6. Have significant and/or malignant pleural effusion\n7. Has a pulse oximetry \\< 92% on room air.\n8. Known history or evidence of brain metastases.\n9. Conditions, including alcohol or drug dependence, intercurrent illness, or lack of sufficient peripheral venous access, that would affect the patient's ability to comply with study visits and procedures.\n10. Are pregnant or breastfeeding.\n11. Infection with HIV or hepatitis B or C.\n12. Patients on immunosuppressive agents.\n13. Requiring concurrent administration of valproic acid.\n14. Patients with diverticulitis, intra-abdominal abscess, or GI obstruction\n15. Any contraindication to oral agents.\n16. Another active malignancy \u2264 3 years prior to registration with the exception of non-melanotic skin cancer or carcinoma-in-situ of any type.\n17. Unwilling or unable to follow the study schedule for any reason.\n18. Evidence of ascites on imaging.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR) Using Response Evaluation Criteria for Solid Tumors (RECIST 1.1)",
+      "timeFrame": "27 months",
+      "description": "Objective Response Rate (ORR) is defined as the number of patients achieving a complete response (CR) or partial response (PR) based on RECIST 1.1 criteria. CR = disappearance of all target lesions, PR is =\\>30% decrease in sum of diameters of target lesions. Subjects who discontinue due to clinical progression prior to post-baseline tumor assessments were considered as non-responders."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Syndax Pharmaceuticals",
+    "Bristol-Myers Squibb",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2017-11-06",
+  "completion_date": "2020-11-20",
+  "last_updated": "2025-05-12"
+}

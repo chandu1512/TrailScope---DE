@@ -1,0 +1,101 @@
+{
+  "nct_id": "NCT01193244",
+  "brief_title": "Study Comparing Orteronel Plus Prednisone in Participants With Chemotherapy-Naive Metastatic Castration-Resistant Prostate Cancer",
+  "official_title": "A Phase 3, Randomized, Double-Blind, Multicenter Trial Comparing Orteronel Plus Prednisone With Placebo Plus Prednisone in Patients With Chemotherapy-Naive Metastatic Castration-Resistant Prostate Cancer",
+  "brief_summary": "This is a randomized, double-blind, multicenter, phase 3 study evaluating orteronel (TAK-700) plus prednisone compared with placebo plus prednisone in the treatment of men with progressive, chemotherapy-naive, metastatic, castration-resistant prostate cancer (mCRPC)",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1560,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Orteronel",
+      "type": "DRUG",
+      "description": "Orteronel will be administered orally twice a day continuously throughout the study. Patients will also receive concomitant gonadotropin-releasing hormone (GnRH) analogue therapy unless they have previously undergone orchiectomy and have a testosterone concentration of \\<50 ng/dL."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Placebo will be administered orally twice a day continuously throughout the study. Additionally, all patients will receive concomitant gonadotropin-releasing hormone (GnRH) analogue therapy unless they have previously undergone orchiectomy and a testosterone concentration of \\<50 ng/dL."
+    },
+    {
+      "name": "Prednisone",
+      "type": "DRUG",
+      "description": "Prednisone will be administered orally twice a day continuously throughout the study. Patients will also receive concomitant gonadotropin-releasing hormone (GnRH) analogue therapy unless they have previously undergone orchiectomy and have a testosterone concentration of \\<50 ng/dL."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nEach patient must meet all of the following inclusion criteria:\n\n* Voluntary written consent\n* Male patients 18 years or older\n* Histologically or cytologically confirmed diagnosis of prostate adenocarcinoma\n* Radiograph-documented metastatic disease\n* Progressive disease\n* Prior surgical castration or concurrent use of an agent for medical castration\n* Either absence of pain or pain not requiring use of any opioid or narcotic analgesia in the 2 weeks prior to study entry\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Even if surgically sterilized, patients must practice effective barrier contraception during the entire study treatment and for 4 months after the last dose of study drug, OR abstain from heterosexual intercourse\n* Meet screening laboratory values as specified in protocol\n* Stable medical condition\n\nExclusion Criteria:\n\nPatients meeting any of the following exclusion criteria are not to be enrolled in the study:\n\n* Known hypersensitivity to orteronel, prednisone or gonadotropin-releasing hormone (GnRH) analogue\n* Received prior therapy with orteronel, aminoglutethimide, ketoconazole or abiraterone\n* Received antiandrogen therapy within 6 weeks for bicalutamide and 4 weeks for all others prior to first dose of study drug\n* Continuous daily use of oral prednisone or oral dexamethasone for more than 14 days within 3 months prior to study\n* Received prior chemotherapy for prostate cancer with exception of neoadjuvant/adjuvant therapy as part of initial primary treatment for local disease that was completed 2 or more years prior to screening\n* Exposure to radioisotope therapy within 4 weeks of receiving first dose of study drug; exposure to external beam radiation within 2 weeks of start of screening until receiving the first dose of study drug\n* Documented central nervous system metastases\n* Treatment with any investigational compound within 30 days prior to first dose of study drug\n* Current spinal cord compression, bilateral hydronephrosis or current bladder neck outlet obstruction\n* Diagnosis or treatment of another malignancy within 2 years preceding first dose of study drug except nonmelanoma skin cancer or in situ malignancy completely resected\n* Uncontrolled cardiovascular condition as specified in study protocol\n* Known history of human immunodeficiency virus (HIV) infection, hepatitis B, or hepatitis C\n* Unwilling or unable to comply with protocol\n* Uncontrolled nausea, vomiting or diarrhea\n* Known gastrointestinal disease or procedure that could interfere with oral absorption or tolerance of orteronel",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Piitsburgh",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Radiographic Progression-free Survival (rPFS)",
+      "timeFrame": "Baseline until radiographic disease progression or death, whichever occurred first (approximately up to 4.7 years)",
+      "description": "rPFS was defined as the time from randomization to the first objective evidence of radiographic disease progression assessed by independent central radiology review or death due to any cause, whichever occurred first. Radiographic disease progression was evaluated by computerized tomography (CT) scan or magnetic resonance imaging (MRI) and radionuclide bone scans at regularly scheduled visits. Radiographic disease progression in bone required a confirmatory scan. Radiographic disease progression in soft tissue did not require a confirmatory scan for purposes of analysis. Radiographic disease progression was evaluated by independent central radiology review using Response Evaluation Criteria In Solid Tumors (RECIST) 1.1 for soft tissue disease and Prostate Cancer Working Group (PCWG2) guidelines for bone disease. Participants who did not reach the endpoint were censored at their last assessment."
+    },
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "Baseline until death (up to 4.7 years)",
+      "description": "Overall survival was calculated from the date of participant randomization to the date of participant death due to any cause. Participants without documentation of death at time of the analysis were censored as of the date the participant was last known to be alive, or the data cutoff date, whichever was earlier."
+    }
+  ],
+  "sponsor": "Millennium Pharmaceuticals, Inc.",
+  "collaborators": [],
+  "start_date": "2010-10-01",
+  "completion_date": "2016-04-07",
+  "last_updated": "2017-04-07"
+}

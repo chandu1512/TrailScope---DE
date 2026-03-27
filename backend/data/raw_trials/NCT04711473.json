@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT04711473",
+  "brief_title": "Choice Architecture and Mailed Colorectal Cancer Screening Outreach in a Community Health Setting",
+  "official_title": "Choice Architecture and Mailed Colorectal Cancer Screening Outreach in a Community Health Setting",
+  "brief_summary": "This is a 3-arm randomized trial aimed at increasing rates of participation in colorectal cancer (CRC) screening by outreach to patients' homes using choice architecture informed by behavioral science principles.",
+  "detailed_description": "The investigators will evaluate the effectiveness of mailed outreach with choice between colonoscopy and FIT, and FIT alone, as compared to colonoscopy alone in increasing CRC screening rates.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 800,
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Colonoscopy Only",
+      "type": "BEHAVIORAL",
+      "description": "Mailed letter asking participants to complete CRC screening by colonoscopy"
+    },
+    {
+      "name": "Choice",
+      "type": "BEHAVIORAL",
+      "description": "Mailed letter and FIT test asking participants to complete CRC screening by their choice of either colonoscopy or mailed FIT"
+    },
+    {
+      "name": "FIT Only",
+      "type": "BEHAVIORAL",
+      "description": "Mailed letter and FIT test asking participants to complete CRC screening by mailed FIT"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. At least 1 visit with CHDC in the past 2 years\n2. Not up to date on CRC screening (no evidence of colonoscopy in the last 10 years, sigmoidoscopy in the last 5 years, or stool testing in the past 12 months)\n\nExclusion Criteria:\n\n1. History of CRC or polyps\n2. Significant family history of CRC\n3. History of Inflammatory Bowel Disease or Ulcerative Colitis\n4. History of colectomy\n5. History of metastatic cancer\n6. Current use of Medication Assisted Therapy (MAT)",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "74 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Community Health and Dental Care",
+      "city": "Pottstown",
+      "state": "Pennsylvania",
+      "zip": "19465",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Colorectal Cancer Screening Completion",
+      "timeFrame": "6 months from initial outreach",
+      "description": "Screening completion rate in arm 2 (Choice) to arm 1 (Colonoscopy only) and arm 3 (FIT only) separately."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "National Comprehensive Cancer Network"
+  ],
+  "start_date": "2021-10-27",
+  "completion_date": "2022-11-11",
+  "last_updated": "2023-01-12"
+}

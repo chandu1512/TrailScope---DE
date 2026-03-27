@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT05008185",
+  "brief_title": "Regenerative Peripheral Nerve Interfaces to Treat Painful Digit and Hand Neuromas After Amputation",
+  "official_title": "Regenerative Peripheral Nerve Interfaces to Treat Painful Digit and Hand Neuromas After Amputation: A Prospective Observational Trial\"",
+  "brief_summary": "This study is being done to demonstrate the effectiveness of Regenerative Peripheral Nerve Interfaces (RPNI) surgery in treating symptomatic neuromas of the hand and digits following amputation compared to standard of care using a Prospective, Observational Trial",
+  "detailed_description": "This will be a prospective observational study that seeks to provide a comprehensive assessment of the outcomes after RPNI surgery compared to standard of care by utilizing multiple established and validated patient-reported outcomes measures, carefully tracking pre- and post-operative pain regimens, and performing functional and physiologic tests.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 80,
+  "conditions": [
+    "Neuroma"
+  ],
+  "interventions": [
+    {
+      "name": "Regenerative Peripheral Nerve Interface (RPNI) surgery",
+      "type": "PROCEDURE",
+      "description": "Surgeons will perform neuroma resection and RPNI creation using a free muscle graft from the brachioradialis muscle harvested through a small separate incision"
+    },
+    {
+      "name": "Traction Neurectomy",
+      "type": "PROCEDURE",
+      "description": "Surgeons will perform neuroma resection and traction neurectomy,"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 18 years or older\n* History of unilateral digit, multiple digit, or partial hand amputation\n* Discrete neuroma pain on clinical exam\n* Following standard of care (SOC), confirmation through a local block and/or ultrasound imaging will be performed if indicated\n* Must be seen by a hand therapist for at least 6-week trial of desensitization therapy\n\nExclusion Criteria:\n\n* Patients with previous surgical treatment for symptomatic neuromas of the digits or hand\n* Patients with other major injuries more proximal in the ipsilateral extremity that cause chronic pain or functional loss\n* women pregnant at time of enrollment\n* prisoners\n* adults who are unable to consent",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "The Curtis National Hand Center at Medstar Union Memorial Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21218",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Patient-Reported Outcomes Measurement Information System - Pain Interference (PROMIS-PI)",
+      "timeFrame": "Assessing change from Baseline to 1 week, 1 month, 3 months and 6 months",
+      "description": "PROMIS Pain Interference (PROMIS-PI) scale measures the extent to which pain hinders an individual's engagement with physical, mental, cognitive, emotional, recreational, and social activities over the past 7 days answering each questions with a response of not at all, a little bit, somewhat, quite a bit, and very much with not at all being the best and very much the worst."
+    },
+    {
+      "measure": "Short-form McGill Pain Questionnaire (SF-MPQ-2)",
+      "timeFrame": "Assessing change from Baseline to 1 week, 1 month, 3 months and 6 months",
+      "description": "theShort-form McGill Pain Questionnaire (SF-MPQ-2) measures 24 different qualities of pain and related symptoms using the intensity of pain and related symptoms felt during the past week on 0 to 10 scale, with 0 being no pain and 10 being the worst pain ."
+    },
+    {
+      "measure": "PROMIS Global Health (GH) v1.2",
+      "timeFrame": "Assessing change from Baseline to 1 week, 1 month, 3 months and 6 months",
+      "description": "The Global Health Questionnaire contains 10 questions (7 general and 3 about the last 7 days). First 7 questions use a scale of excellent, very good, good, fair, and poor, poor being the worst with excellent being the best. The other three questions use different scales such as; never rarely, sometimes, often or always with never being the best and always being the worst; as well as none, mild, moderate, severe, very severe with none being the best and very severe being the worst; finally pain rating numbered 0-10 with 0 being no pain and 10 being the worst pain imaginable."
+    },
+    {
+      "measure": "Patient Health Questionnaire (PHQ-9),",
+      "timeFrame": "Assessing change from Baseline to 1 week, 1 month, 3 months and 6 months",
+      "description": "The PHQ-9 form is a brief, self-administered questionnaire that assesses depression symptoms over the last 2 weeks consisting of 10 questions. 9 will be answered on a scale of 0-3 with 0 being the best and 3 bing the worst. The last question will use a response of not difficult at all, somewhat difficult, very difficult, and extremely difficult with not difficult at all being the best and extremely difficult being the worst."
+    },
+    {
+      "measure": "Generalized Anxiety Disorder measure (GAD-7),",
+      "timeFrame": "Assessing change from Baseline to 1 week, 1 month, 3 months and 6 months",
+      "description": "Generalized Anxiety Disorder measure (GAD-7) is a screening tool and severity measure for generalised anxiety disorder (GAD) over the past 2 weeks consisting of 7 questions answered on a scale of 0-3 with 0 being the best and 3 being the worst."
+    },
+    {
+      "measure": "PC-PTSD-5",
+      "timeFrame": "Assessing change from Baseline to 1 week, 1 month, 3 months and 6 months",
+      "description": "The Primary Care PTSD Screen for DSM-5 (PC-PTSD-5) is a 5-item screening tool with 'Yes/No\" answers designed to identify individuals with probable PTSD. Yes\" answers represent the worst and \"no\" represents the best."
+    }
+  ],
+  "sponsor": "Medstar Health Research Institute",
+  "collaborators": [
+    "United States Department of Defense",
+    "University of Michigan"
+  ],
+  "start_date": "2021-10-05",
+  "completion_date": "2025-08",
+  "last_updated": "2024-11-26"
+}

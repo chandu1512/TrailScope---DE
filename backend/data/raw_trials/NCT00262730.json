@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT00262730",
+  "brief_title": "Radiation Therapy and Temozolomide Followed by Temozolomide and Poly ICLC in Treating Patients With Newly Diagnosed GBM",
+  "official_title": "A Phase II Trial of Radiation Plus Temozolomide Followed by Adjuvant Temozolomide and Poly-ICLC in Patients With Newly Diagnosed Glioblastoma Multiforme",
+  "brief_summary": "RATIONALE: Radiation therapy uses high-energy x-rays to kill tumor cells. Drugs used in chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Biological therapies, such as poly ICLC, may stimulate the immune system in different ways and stop tumor cells from growing. Giving poly ICLC after radiation therapy and temozolomide may stop any remaining tumor cells from growing.\n\nPURPOSE: This phase II trial is studying how well giving radiation therapy together with temozolomide followed by temozolomide and poly ICLC works in treating patients with newly diagnosed glioblastoma multiforme.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* Evaluate the safety and efficacy of radiation plus low-dose temozolomide followed by adjuvant temozolomide and intramuscular poly ICLC for adult patients with newly diagnosed glioblastoma multiforme.\n\nSecondary\n\n* Estimate the frequency of toxicity associated with this treatment regimen.\n\nOUTLINE: This is an open-label, multicenter study.\n\n* Induction chemoradiotherapy: Patients undergo radiotherapy once daily, 5 days a week, for 6 weeks. During the same 6 weeks, patients also receive oral temozolomide once daily. Four weeks later, patients are evaluated for disease progression. Patients with progressive disease are removed from the study. Patients with no progressive disease proceed to maintenance therapy.\n* Maintenance therapy: Patients receive oral temozolomide once daily on days 1-5 (week 1). Patients also receive poly ICLC intramuscularly three times a week in weeks 2-8. Courses repeat every 9 weeks in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study therapy, patients are followed every 2 months for survival.\n\nPROJECTED ACCRUAL: A total of 96 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 97,
+  "conditions": [
+    "Glioblastoma Multiforme"
+  ],
+  "interventions": [
+    {
+      "name": "poly ICLC",
+      "type": "DRUG",
+      "description": "20 mcg/kg 3x each week (Maintenance cycles)"
+    },
+    {
+      "name": "temozolomide",
+      "type": "DRUG",
+      "description": "daily 75mg/m2 6wks concomitant therapy Wk 1 - days 1-5 150-200 mg/m2 maintenance cycles (adjuvant)"
+    },
+    {
+      "name": "radiation therapy",
+      "type": "RADIATION",
+      "description": "RT: 60 Gy (6 weeks) concomitant therapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed supratentorial grade IV astrocytoma (glioblastoma multiforme) by biopsy or resection within the past 3 months\n\nPATIENT CHARACTERISTICS:\n\n* Karnofsky performance status \u2265 60%\n* Absolute neutrophil count \u2265 1500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Bilirubin \u2264 1.5 mg/dL\n* Transaminases \u2264 4 times above the upper limits of the institutional normal\n* Creatinine \u2264 1.7 mg/dL\n* Not pregnant or breast-feeding\n* Patients must agree to follow acceptable birth control methods to avoid conception\n* Negative pregnancy test\n* Patients must have a Mini Mental State Exam score of \u2265 15\n* No serious concurrent infection or medical illness which would jeopardize the ability of the patient to receive the treatment outlined in this protocol with reasonable safety\n* Patients with a concurrent or prior malignancy are ineligible unless they are patients with curatively treated carcinoma-in-situ or basal cell carcinoma of the skin\n\n  * Patients who have been free of disease (any prior malignancy) for \u2265 five years are eligible for this study\n* Patients requiring ongoing therapy for psychoses with antipsychotic medications at the time of enrollment will be ineligible\n\nPRIOR CONCURRENT THERAPY:\n\n* Patients must not have received prior radiation therapy, chemotherapy, immunotherapy or therapy with biologic agent (including immunotoxins, immunoconjugates, antisense, peptide receptor antagonists, interferons, interleukins, TIL, LAK or gene therapy), or hormonal therapy for their brain tumor\n\n  * Prior glucocorticoid therapy is allowed\n* Patients must be willing to forego other cytotoxic and non-cytotoxic drug therapy against the tumor while being treated with poly ICLC plus temozolomide on this protocol\n* No other concurrent therapy for their tumor (i.e., chemotherapeutics or investigational agents)\n* Patients who have received prior Gliadel wafers are not eligible for this study\n* No concurrent prophylactic filgrastim (G-CSF)\n* No concurrent electron, particle, implant, or stereotactic radiosurgery boost",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    },
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-4283",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Survival",
+      "timeFrame": "30 months",
+      "description": "survival time is defined from time of histological diagnosis to death occurrence."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2006-01",
+  "completion_date": "2010-04",
+  "last_updated": "2019-05-30"
+}

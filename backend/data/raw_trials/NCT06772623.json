@@ -1,0 +1,99 @@
+{
+  "nct_id": "NCT06772623",
+  "brief_title": "Study to Evaluate Adverse Events and Efficacy of Intravenous (IV) Telisotuzumab Adizutecan in Combination With a PD-1 Immune Checkpoint Inhibitor in Adult Participants With Advanced or Metastatic Non-Squamous NSCLC With No Prior Treatment for Advanced Disease, and No Actionable Genomic Alterations",
+  "official_title": "An Open-label Multi-Cohort Phase 1b/2 Study to Evaluate the Safety, Efficacy, and Optimal Dose of Telisotuzumab Adizutecan in Combination With a PD-1 Immune Checkpoint Inhibitor in Advanced or Metastatic Non-Squamous NSCLC With No Prior Treatment for Advanced Disease and No Actionable Genomic Alterations",
+  "brief_summary": "Non small cell lung carcinoma (NSCLC) is the most frequently occurring histologic subtype of lung cancer and is the leading cause of cancer-related deaths worldwide. The purpose of this study is to assess adverse events and change in disease activity when Telisotuzumab Adizutecan (ABBV-400) is given in combination with a programmed cell death receptor 1 (PD1) immune checkpoint inhibitor to adult participants to treat NSCLC.\n\nTelisotuzumab Adizutecan (ABBV-400) and budigalimab are investigational drugs being developed for the treatment of NSCLC. This study will be divided into two stages, with the first stage treating participants with several doses of telisotuzumab adizutecan in combination with budigalimab within the dose escalation regimen until the dose reached is tolerable and expected to be efficacious. In Stage 2 there will be 3 treatment groups. Two groups will receive pembrolizumab with different optimized doses of telisotuzumab adizutecan (to allow for the best dose to be studied in the future). One group will receive the standard of care (SOC) - pembrolizumab, pemetrexed, and investigator's choice of carboplatin or cisplatin, followed by pembrolizumab and pemetrexed. Approximately 252 adult participants with NSCLC will be enrolled in the study in 132 sites worldwide.\n\nIn the dose escalation stage participants will be treated with increasing intravenous (IV) doses of Telisotuzumab Adizutecan in combination with budigalimab until the dose of Telisotuzumab Adizutecan reached is tolerable and expected to be efficacious. In the dose optimization stage participants will be receive IV optimized doses of Telisotuzumab Adizutecan in combination with IV pembrolizumab, or IV SOC - pembrolizumab, pemetrexed, and investigator's choice of carboplatin or cisplatin, followed by pembrolizumab and pemetrexed. The study will run for a duration of approximately 33 months.\n\nThere may be higher treatment burden for participants in this trial compared to their standard of care. Participants will attend regular visits during the study at an approved institution (hospital or clinic). The effect of the treatment will be frequently checked by medical assessments, blood tests, questionnaires and side effects.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 252,
+  "conditions": [
+    "Non Small Cell Lung Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Telisotuzumab Adizutecan",
+      "type": "DRUG",
+      "description": "Intravenous (IV) Infusion"
+    },
+    {
+      "name": "Budigalimab",
+      "type": "DRUG",
+      "description": "IV Infusion"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "IV Injection"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "IV Infusion"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "IV Infusion"
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": "IV Infusion"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "IV Infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Must have histologically documented non-squamous (NSq) non small cell lung carcinoma (NSCLC) that is locally advanced or metastatic will be enrolled into the study.\n* Must have measurable disease per response evaluation criteria in solid tumors (RECIST) v1.1.\n* For Part 1, participants must have had no more than 1 systemic therapy for advanced disease including platinum-based chemotherapy or an immune checkpoint inhibitor (as monotherapy or in combination with chemotherapy), or appropriate targeted therapy for an actionable gene alteration, if applicable, for epidermal growth factor receptor (EGFR) wild-type (WT) NSq NSCLC.\n* For Part 2, participants must have no prior systemic therapy for advanced disease, no known actionable genomic alteration.\n* Must have documented programmed death ligand 1 (PD-L1) status.\n* For Part 2, participant must have evaluable c-Met immunohistochemistry (IHC) result per central testing prior to randomization.\n* Must have adequate organ function.\n\nExclusion Criteria:\n\n* Known uncontrolled metastases to the central nervous system.\n* History of interstitial lung disease (ILD) or pneumonitis that required treatment with systemic steroids, or any evidence of active ILD or pneumonitis on screening chest computed tomography (CT) scan.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Astera Cancer Care /ID# 271915",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816-4096",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Spoknwrd Clinical Trials /ID# 273776",
+      "city": "Easton",
+      "state": "Pennsylvania",
+      "zip": "18045",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1: Dose-Limiting Toxicities (DLT)s of Telisotuzumab Adizutecan",
+      "timeFrame": "Up to Approximately 84 Days",
+      "description": "DLT events are defined as clinically significant adverse events or abnormal laboratory values assessed as unrelated to disease progression, underlying disease, intercurrent illness, or concomitant medications."
+    },
+    {
+      "measure": "Part 2: Objective Response (OR) as Assessed by Blinded Independent Central Review (BICR)",
+      "timeFrame": "Up to Approximately 33 Months",
+      "description": "OR is defined as confirmed complete response (CR) or confirmed partial response (PR) per BICR based on Response Evaluation Criteria in Solid Tumors (RECIST) v1.1."
+    },
+    {
+      "measure": "Number of Participants with Adverse Events (AE)s",
+      "timeFrame": "Up to Approximately 33 Months",
+      "description": "An adverse event is defined as any untoward medical occurrence in a participant or clinical investigation subject administered a pharmaceutical product and which does not necessarily have a causal relationship with this treatment."
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [],
+  "start_date": "2025-03-06",
+  "completion_date": "2027-11",
+  "last_updated": "2026-02-24"
+}

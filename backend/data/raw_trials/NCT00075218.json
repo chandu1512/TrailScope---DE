@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT00075218",
+  "brief_title": "A Study To Assess The Safety And Efficacy Of SU11248 In Patients With Gastrointestinal Stromal Tumor(GIST)",
+  "official_title": "A Phase III, Randomized, Double-Blind, Placebo-Controlled Study Of SU011248 In The Treatment Of Patients With Imatinib Mesylate (Gleevec Tm, Glivec)-Resistant Or Intolerant Malignant Gastrointestinal Stromal Tumor",
+  "brief_summary": "A study to assess the safety and efficacy of SU11248 in patients with gastrointestinal stromal tumor (GIST) whose disease has failed imatinib therapy or who were intolerant to imatinib treatment.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 361,
+  "conditions": [
+    "Gastrointestinal Stromal Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "50 mg taken orally once a day. 6 week treatment cycle (Schedule 4/2) 4 weeks on study drug/2 weeks off study drug."
+    },
+    {
+      "name": "SU011248",
+      "type": "DRUG",
+      "description": "50 mg taken orally once a day. 6 week treatment cycle (Schedule 4/2) 4 weeks on study drug/2 weeks off study drug."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Histologically-proven diagnosis of malignant GIST not amenable to surgery, radiation or combined modality treatment with curative intent\n* Failed Gleevec treatment or intolerant to Gleevec therapy\n\nKey Exclusion Criteria:\n\n* Treatment with any chemotherapy, chemoembolization therapy, immunotherapy, or investigational agent since the last dose of Gleevec",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Time to Tumor Progression (TTP) as Assessed by Imaging Studies at End of Double-blind Treatment Phase",
+      "timeFrame": "Day 28 of each 6-week cycle : duration of double-blind treatment phase",
+      "description": "Time from randomization to first documentation of objective tumor progression based on the assessment of an independent, third-party imaging laboratory using RECIST (Response Evaluation Criteria in Solid Tumors)."
+    },
+    {
+      "measure": "Time to Tumor Progression (TTP) as Assessed in the Double-blind Treatment Phase at End of Study",
+      "timeFrame": "Day 28 of each 6-week cycle : duration of double-blind treatment phase after Last Subject Last Visit (LSLV)",
+      "description": "Time from randomization to first documentation of objective tumor progression based on the assessment of an independent, third-party imaging laboratory using RECIST (Response Evaluation Criteria in Solid Tumors)."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2003-12",
+  "completion_date": "2008-05",
+  "last_updated": "2009-08-31"
+}

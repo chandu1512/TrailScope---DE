@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT01721759",
+  "brief_title": "Study of Nivolumab (BMS-936558) in Patients With Advanced or Metastatic Squamous Cell Nonsmall-cell Lung Cancer Who Have Received At Least 2 Prior Systemic Regimens",
+  "official_title": "A Single-Arm Phase 2 Study of Nivolumab (BMS-936558) in Subjects With Advanced or Metastatic Squamous Cell Non-Small Cell Lung Cancer Who Have Received At Least Two Prior Systemic Regimens",
+  "brief_summary": "The purpose of the study is to assess the objective response rate (change in tumor size from baseline) in patients with advanced or metastatic squamous cell nonsmall-cell lung cancer treated with Nivolumab (BMS-936558) after failure of 2 prior systemic regimens",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 117,
+  "conditions": [
+    "Squamous Cell Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "For more information regarding BMS clinical trial participation, please visit www.BMSStudyConnect.com\n\nInclusion Criteria:\n\n* Men and women \u226518 years of age\n* Patients with histologically or cytologically documented squamous cell nonsmall-cell lung cancer who present with Stage IIIB/Stage IV disease (according to version 7 of the International Association for the Study of Lung Cancer Staging Manual in Thoracic Oncology), or with recurrent or progressive disease following multimodal therapy (radiation therapy, surgical resection, or definitive chemoradiation for locally advanced disease\n* Eastern Cooperative Oncology Group Performance Status of 0 or 1\n* Disease progression or recurrence after both a platinum doublet-based chemotherapy regimen and at least 1 additional systemic therapy\n* Measurable disease by computed tomography scan/magnetic resonance imaging as per Response Evaluation Criteria in Solid Tumors, volume 1.1\n\nExclusion Criteria:\n\n* Untreated central nervous system (CNS) metastases. Metastases have been treated and patients neurologically returned to baseline (except for residual signs or symptoms related to the CNS treatment) for at least 2 weeks prior to enrollment. In addition, patients must have stopped taking corticosteroids or be taking a stable or decreasing dose of \u226410 mg prednisone daily (or equivalent)\n* Carcinomatous meningitis\n* Active known or suspected autoimmune disease or interstitial lung disease\n* Prior treatment on either arm of study CA209-017 or CA184-104\n* Prior therapy with anti-Programmed death-1 (anti-PD-1), anti-Programmed cell death ligand 1 (anti-PD-L1), anti-Programmed cell death ligand 2 (anti-PD-L2), anti-CD137, or anti-Cytotoxic T lymphocyte-associated antigen 4 (anti-CTLA-4) antibody, or any other antibody or drug specifically targeting T-cell costimulation or checkpoint pathways\n* A condition requiring systemic treatment with corticosteroids or other immunosuppressive medications within 14 days of first dose of study drug",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Network Office of Research and Innovation",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    },
+    {
+      "facility": "University Of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR) as Assessed by Independent Radiology Review Committee (IRC)",
+      "timeFrame": "Day 1 of treatment up to approximately 14 months",
+      "description": "ORR is defined as the percentage of participants with best overall response (OR) of confirmed complete response (CR) or partial response (PR) divided by the number of participants who received treatment.\n\nThe IRC-assessed ORR (using RECIST v1.1, to confirm response and based on the IRC global radiology review after incorporation of on-study clinical data) was estimated using a binomial response rate and its corresponding 2-sided 95% exact confidence intervals using the Clopper-Pearson method."
+    },
+    {
+      "measure": "Duration of Response (DOR) as Assessed by Independent Radiology Review Committee (IRC)",
+      "timeFrame": "From the first treatment to the date of the first documented tumor progression or death. Approximately up to 14 months",
+      "description": "DOR is defined as the time from first confirmed response (CR or PR) per IRC assessment to the date of the first documented tumor progression as determined using RECIST 1.1 criteria or death due to any cause, whichever occurs first. Participants who start subsequent therapy without a prior reported progression will be censored at the last evaluable tumor assessments prior to initiation of the subsequent anticancer therapy. Participants who die without a reported prior progression will be considered to have progressed on the date of their death. Participants who neither progress nor die will be censored on the date of their last evaluable tumor assessment. Median values of DOR, along with two-sided 95% CI in each treatment group will be computed based on a log-log transformation method."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2012-11-16",
+  "completion_date": "2021-04-22",
+  "last_updated": "2022-06-03"
+}

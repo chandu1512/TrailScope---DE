@@ -1,0 +1,44 @@
+{
+  "nct_id": "NCT01563874",
+  "brief_title": "Proteomic-Based Profiling of Lymphomas: Chromatin Proteomics; Composition and Modification of Histone and Non-Histone Chromosomal Proteins",
+  "official_title": "Proteomic-Based Profiling of Lymphomas: Chromatin Proteomics; Composition and Modification of Histone and Non-Histone Chromosomal Proteins",
+  "brief_summary": "BACKGROUND:\n\nLymphomas are comprised of a diversity of tumors with different pathologic and clinical features. While distinct differences in gene expression profiles have been elucidated in different lymphomas, there has been inconsistent correlation with the few published proteomic studies.\n\nGreater insights into the biology of lymphomas may be achieved by integrating current genomic information with additional studies focused on the interrelationships in tumors of the patterns of chromatin protein expression, chromatin protein modification, and RNA expression profiling (both within bulk tumor and within specific microscopic tumor niches accessible by microdissection and cell sorting approaches).\n\nOBJECTIVES:\n\nThe goals of this protocol are to identify the global levels of all histones (including variant histones) and non-histone chromosomal proteins, and to measure the relative levels of most known covalent modifications on histone and non-histone chromosomal proteins.\n\nFor a limited number of cases illustrative of selected pathological entities, we propose to map the genome-wide distribution of those modifications judged to be biochemically instructive.\n\nELIGIBILITY:\n\nThis work will involve the analysis of a broad panel of lymphoma and lymphoid samples, which were previously procured under multiple protocols at the NIH, and for which there is excess tissue available for research. We also request permission to extend this analysis to surplus materials to be accrued under existing protocols, upon completion of all superseding diagnostic tests and medical/scientific studies. The criteria for inclusion in this study are subsumed under the enveloping protocols. The number of cases to be included is dependent upon the size of these protocols; because statistical significance improves with increasing numbers. We hope to include up to 300 cases.\n\nDESIGN:\n\nLysates from surplus samples will be prepared and arrayed onto microarrays.\n\nThese arrays will be probed with panels of protein and modification specific antibodies.\n\nThe antibody reactivity will be quantified and samples will be subjected to statistical analysis, especially hierarchical clustering to correlate patterns of reactivity with clinical and histological features.\n\nRepresentative cases for which sufficient surplus tissue remains will be subjected to ChIP-Seq to map the distribution of modifications across the genome.",
+  "detailed_description": "BACKGROUND:\n\nLymphomas are comprised of a diversity of tumors with different pathologic and clinical features. While distinct differences in gene expression profiles have been elucidated in different lymphomas, there has been inconsistent correlation with the few published proteomic studies.\n\nGreater insights into the biology of lymphomas may be achieved by integrating current genomic information with additional studies focused on the interrelationships in tumors of the patterns of chromatin protein expression, chromatin protein modification, and RNA expression profiling (both within bulk tumor and within specific microscopic tumor niches accessible by microdissection and cell sorting approaches).\n\nOBJECTIVES:\n\nThe goals of this protocol are to identify the global levels of all histones (including variant histones) and non-histone chromosomal proteins, and to measure the relative levels of most known covalent modifications on histone and non-histone chromosomal proteins.\n\nFor a limited number of cases illustrative of selected pathological entities, we propose to map the genome-wide distribution of those modifications judged to be biochemically instructive.\n\nELIGIBILITY:\n\nThis work will involve the analysis of a broad panel of lymphoma and lymphoid samples, which were previously procured under multiple protocols at the NIH, and for which there is excess tissue available for research. We also request permission to extend this analysis to surplus materials to be accrued under existing protocols, upon completion of all superseding diagnostic tests and medical/scientific studies. The criteria for inclusion in this study are subsumed under the enveloping protocols. The number of cases to be included is dependent upon the size of these protocols; because statistical significance improves with increasing numbers. We hope to include up to 300 cases.\n\nDESIGN:\n\nLysates from surplus samples will be prepared and arrayed onto microarrays.\n\nThese arrays will be probed with panels of protein and modification specific antibodies.\n\nThe antibody reactivity will be quantified and samples will be subjected to statistical analysis, especially hierarchical clustering to correlate patterns of reactivity with clinical and histological features.\n\nRepresentative cases for which sufficient surplus tissue remains will be subjected to ChIP-Seq to map the distribution of modifications across the genome.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 130,
+  "conditions": [
+    "Lymphoma",
+    "Lymphoid Hyperplasia"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "* INCLUSION CRITERIA:\n\nWe propose to analyze the histone and chromatin modifications from several classes of patients: 1) patients bearing the diagnosis of lymphoid malignancies made or confirmed at the NIH. Solid tumors of the lymphoid system would constitute the major source of these tissues, however tissue samples from patients with malignant diagnoses that involve circulating malignant cells (Mycosis fungoides, Sezary syndrome, etc.) would also be appropriate for analysis; 2) non-malignant lymphoid tissue obtained for diagnostic purposes or normal lymphoid tissue obtained incidentally during surgery (in all cases only residual and surplus tissue will be used, only with the express approval of the appropriate clinical investigator(s). Primarily included among these tissues would be hyperplastic lymphoid tissue especially tonsils. Other hyperplastic and non-malignant lymph node samples showing proliferative responses or sinus histiocytosis would also be appropriate to compare with the malignant samples.\n\nEXCLUSION CRITERIA:\n\nOnly cases with sufficient frozen biopsy material from initial biopsy and/or biopsies at relapse of disease to obtain adequate tissues lysates for proteomic-based analyses and in selected cases for ChIPSeq following analysis of RNA expression as performed under superseding protocols. In some cases, for some histone modifications, it may be possible to recover appropriate tissue from paraffin embedded blocks, however no such samples will be used for this study without prior consultation and approval from the clinical investigator and hematopathologist associated with the superseding protocols. Samples from minors \\<18 years old will not be used.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Cancer Institute (NCI), 9000 Rockville Pike",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Global histone protein expressioon and covalent modification profiles from lymphoid cells",
+      "timeFrame": "End of study",
+      "description": "global histone protein expression and covalent modification profiles from lymphoid cells"
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2009-06-02",
+  "completion_date": "",
+  "last_updated": "2026-03-21"
+}

@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT01220817",
+  "brief_title": "Safety and Efficacy of POMx Capsules in Men With Recurrent Prostate Cancer: An 18-Month Study",
+  "official_title": "Safety and Efficacy of POMx in Men With Prostate Cancer: An 18-Month, Randomized, Double-Blind, Dose-Finding Study of the Effects of Two (2) Doses of Pomegranate Juice Extract Capsules (1 or 3 Capsules/Day) on Rising Prostate Specific Antigen Levels in Men Following Initial Therapy for Prostate Cancer",
+  "brief_summary": "When given to men with recurrent prostate cancer, the investigators hypothesize that POMx is effective in slowing the rise of PSA as measured by PSA doubling time in men following initial therapy for prostate cancer. Further, the investigators believe that POMx will be shown to be safe and well tolerated.",
+  "detailed_description": "The study will be an 18-month, prospective, multi-center, double-blind, dose finding study with subjects who have undergone definitive treatment (surgery, cryotherapy, radiation therapy or brachytherapy) for primary prostate tumor and have had documented rising PSA on a minimum of 3 time points each at least 1 month apart, higher than the reference value noted within 1 year of study entry.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 104,
+  "conditions": [
+    "Recurrent Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "3 POMx capsules",
+      "type": "DRUG",
+      "description": "3 POMx capsules daily"
+    },
+    {
+      "name": "1 POMx capsule",
+      "type": "DRUG",
+      "description": "1 POMx capsule daily"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subject has histologically or cytologically confirmed adenocarcinoma of the prostate.\n* Subject has undergone definitive treatment (surgery, surgery with radiation therapy, cryotherapy, radiation therapy or brachytherapy) for the primary prostate tumor.\n* Subject with a rising PSA post-prostatectomy may consider radiation as an alternative. If subject declines radiation, he may be considered eligible in this setting.\n* Subject has a rising PSA on a minimum of 3 time points each at least 1 month apart, higher than the reference value noted within 1 year of study entry and defined as:\n* Absolute level of PSA \\>0.4 ng/mL following surgery.\n* Absolute level of PSA \\>1.5 ng/mL following radiation or cryotherapy.\n* Absolute level of PSA \\>0.4 ng/mL for subjects treated with multiple treatment modalities (e.g., surgery + radiation, radiation + cryotherapy, etc.).\n* Absolute level of PSA \\> nadir + 2 following neoadjuvant hormonal therapy along with external beam radiation.\n* Interim PSA values during the immediate pre-study interval may demonstrate a \"fluctuation\" including a decline; however, the study baseline PSA must have shown a rise within the pre-study 1 year period.\n* Study baseline PSAs must be determined within 4 weeks of study entry.\n* First postoperative PSA permitted if detectable.\n* Subject is \\>18 years or age.\n* Subject has life expectancy of greater than 6 months.\n* Subject has ECOG performance status 0, 1 or 2\n* Subject has testosterone level of \\>150 ng/mL at screening.\n* Subjects has normal organ and marrow function as defined below:\n* leukocytes \\>3,000/mcL\n* absolute neutrophil count \\>1,500/mcL\n* platelets \\>100,000/mcL\n* total bilirubin within normal limits except for Gilberts\n* AST(SGOT)/ALT(SGPT) \\>2.5 X upper limit of normal\n* creatinine \\> 2.5 upper limit of normal\n* testosterone level \\>150 ng/mL\n* Subject agrees to abstain from other commercially available pomegranate products while participating in this study.\n* Subject's use of other dietary/herbal supplements (e.g. saw palmetto, selenium, etc) has been stable for at least 2 months prior to screening and the subject agrees not to stop or change the dose while participating in the study.\n* Subject has signed a written informed consent document and agrees to comply with requirements of the study.\n\nExclusion Criteria:\n\n* Subject has known radiographic evidence of metastatic disease, except for presence of positive lymph nodes from the surgical pathology.\n* Subject has received any therapies that modulate testosterone levels (e.g., androgen ablative/anti-androgen therapy, herbal therapies containing estrogen) for a minimum of 1 year prior to study.\n* Subject has had prior or concomitant treatment with experimental drugs, high dose steroids, or any other cancer treatment within 4 weeks prior to the first dose of the study product.\n* Subject has consumed more than two 8 ounce glasses of pomegranate juice per week over the past 2 months.\n* Subject has a known allergy to pomegranate juice or ellagic acid.\n* Subject has uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21205",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Prostate specific antigen doubling time (PSADT)",
+      "timeFrame": "PSADT assessed at baseline",
+      "description": "All subjects who have a baseline PSA value and at least 1 on study PSA value. The PSADT will be calculated as ln 2 (0.693)/ \u03b2 (slope of the linear regression fit to ln PSA vs. time in months)."
+    }
+  ],
+  "sponsor": "POM Wonderful LLC",
+  "collaborators": [],
+  "start_date": "2007-10",
+  "completion_date": "2010-05",
+  "last_updated": "2012-04-05"
+}

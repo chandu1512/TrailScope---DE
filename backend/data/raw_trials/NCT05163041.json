@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT05163041",
+  "brief_title": "Study BT7480-100 in Patients With Advanced Malignancies Associated With Nectin-4 Expression",
+  "official_title": "Phase 1/2 Study of the Safety, Pharmacokinetics, and Preliminary Clinical Activity of BT7480 in Patients With Nectin-4 Associated Advanced Malignancies",
+  "brief_summary": "This clinical study is evaluating a drug called BT7480 alone and in combination with nivolumab in participants with advanced solid tumors associated with Nectin-4 expression.\n\nThe main goals of the study are to:\n\n* Find the recommended dose of BT7480 that can be given safely to participants alone and in combination with nivolumab\n* Learn about the side effects and effectiveness of BT7480 alone and in combination with nivolumab\n* Learn about the effect BT7480 has on the body and how BT7480 is cleared by the body\n* Learn about the side effects and effectiveness of BT7480 in patients with reduced kidney function",
+  "detailed_description": "BT7480 is a tumor targeted immune cell agonist consisting of three bicyclic peptides (Bicycle\u00ae) conjugated via a linker, one that binds selectively to Nectin-4 and two that bind to CD137.\n\nThis study is a Phase 1/2, multicenter, first-in-human, open-label study of BT7480 given as a single agent and in combination with nivolumab once weekly. There are five parts to the trial: 1) Phase 1 dose escalation in patients with select advanced solid tumors primarily to evaluate safety and tolerability of BT7480 as a monotherapy and determine a recommended Phase 2 dose (RP2D); 2) Phase 1 dose escalation in combination with nivolumab, once the monotherapy RP2D has been determined; 3) Phase 2 dose expansion as a monotherapy once the RP2D has been determined; 4) Phase 2 dose expansion in combination with nivolumab; 5) Phase 1 monotherapy dose confirmation in patients with renal insufficiency once the monotherapy RP2D has been determined",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "Advanced Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "BT7480",
+      "type": "DRUG",
+      "description": "Participants will receive a 60 minute IV infusion of BT7480 once weekly (i.e., on Days 1,8,15 and 22) during a 28-day cycle"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Nivolumab will be given as a 240mg dose every 2 weeks administered as per local labelling as a 30 minute IV infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Must have locally advanced or metastatic disease that is refractory to standard therapy, or for which no standard therapy is judged to be appropriate or provide clinical benefit, as judged by the Investigator\n* Must have a histologically or cytologically confirmed malignant solid tumor associated with Nectin-4 expression, including, but not limited to, urothelial (transitional cell) carcinoma; head and neck squamous cell carcinoma; non-small cell lung cancer; and ovarian, breast, gastric, or esophageal carcinoma\n* Must have ECOG performance status score 0 or 1 and acceptable organ and hematological function\n* Must have metastatic or locally advanced disease and measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1\n* Life expectancy \u226512 weeks\n* Must submit fresh or archival tumor tissue\n* Must provide written informed consent, according to local guidelines, signed and dated by the patient or by a legal guardian prior to the performance of any study-specific procedures, sampling, or analysis\n\nExclusion Criteria:\n\n* Prior therapy with a cytotoxic, small molecule, or other systemic chemotherapy within 14 days of the first dose of study drug\n* Prior immunotherapy, including monoclonal antibodies, within 28 days or 5 half-lives of the first dose of study drug, whichever is shorter\n* Prior treatment with CD137 targeted therapy\n* Mean resting QTc (eg, QTcF) greater than 470 msec on triplicate electrocardiograms (ECGs) obtained at screening\n* Uncontrolled symptomatic brain metastases\n* Uncontrolled diabetes with glycosylated hemoglobin greater than or equal to 8%\n* Uncontrolled hypertension at screening or prior to initiation of study drug\n* History of autoimmune disease except well-controlled diabetes mellitus, alopecia, well controlled thyroid disease or vitiligo",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of patients with treatment emergent adverse events in dose escalation phase",
+      "timeFrame": "From Cycle 1 Day 1 (each cycle is 28 days) until 30 (+/-5) days after the last dose of study drug",
+      "description": "Incidence and severity of treatment emergent adverse events to assess safety and tolerability following treatment with BT7480 alone and in patients with renal insufficiency using NCI CTCAE v5.0 criteria"
+    },
+    {
+      "measure": "Number of patients with treatment emergent adverse events in dose escalation phase",
+      "timeFrame": "From Cycle 1 Day 1 (each cycle is 28 days) until 125 (+/-5) days after the last dose of study drug",
+      "description": "Incidence and severity of treatment emergent adverse events to assess safety and tolerability following treatment with BT7480 and in combination with nivolumab using NCI CTCAE v5.0 criteria"
+    },
+    {
+      "measure": "Confirmed response rate as measured by overall response rate (ORR) to demonstrate clinical activity following treatment with BT7480 in dose expansion phase",
+      "timeFrame": "From Cycle 1 Day 1 (each cycle is 28 days) through study completion, an average of 6 months",
+      "description": "Overall response rate (ORR) following treatment with BT7480 alone and in combination with nivolumab according to RECIST 1.1 criteria nivolumab according to RECIST 1.1 criteria"
+    },
+    {
+      "measure": "Confirmed response rate as measured by clinical benefit rate (CBR) to demonstrate clinical activity following treatment with BT7480 in dose expansion phase",
+      "timeFrame": "From Cycle 1 Day 1 (each cycle is 28 days) through study completion, an average of 6 months",
+      "description": "Clinical benefit rate (CBR) following treatment with BT7480 alone and in combination with nivolumab according to RECIST 1.1 criteria nivolumab according to RECIST 1.1 criteria"
+    }
+  ],
+  "sponsor": "BicycleTx Limited",
+  "collaborators": [],
+  "start_date": "2021-11-02",
+  "completion_date": "2026-12",
+  "last_updated": "2026-01-14"
+}

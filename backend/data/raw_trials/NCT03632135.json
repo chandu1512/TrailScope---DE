@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT03632135",
+  "brief_title": "Standard Chemotherapy vs. Chemotherapy Guided by Cancer Stem Cell Test in Recurrent Glioblastoma",
+  "official_title": "Standard Chemotherapy Versus Chemotherapy Chosen by Cancer Stem Cell Chemosensitivity Testing in the Management of Patients With Recurrent Glioblastoma Multiforme (GBM).",
+  "brief_summary": "The purpose of this clinical study is to confirm the utility of chemosensitivity tumor testing on cancer stem cells (ChemoID) as a predictor of clinical response in poor prognosis malignant brain tumors such as recurrent glioblastoma (GBM).",
+  "detailed_description": "This study is designed as a parallel group randomized controlled clinical trial to determine if recurrent Glioblastoma (GBM) patients treated with drugs predicted by the ChemoID assay will have better outcomes than patients treated with standard-of-care control therapy chosen by the Physician.\n\nUpon obtaining informed consent, all eligible participants affected by recurrent GBM will have a tumor biopsy to undergo ChemoID drug response testing with multiple FDA-approved chemotherapeutic agents.\n\nEligible participants will be randomized to a standard treatment arm with control treatment (chemotherapy chosen by the Physician from a provided list), or to a study arm of FDA-approved drugs selected by the ChemoID drug response assay.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 78,
+  "conditions": [
+    "Recurrent Glioblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "ChemoID assay",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "The ChemoID test is a CLIA-certified and CAP-accredited drug response assay performed by a hospital clinical pathology laboratory that uses a patient's live tumor cells to indicate which chemotherapy agent (or combinations) will kill not only bulk of tumor cells, but importantly the cancer stem cells (CSCs) that are known to cause cancer to recur. During the assay, cancer stem cells and bulk tumor cells from an individual patient are exposed to FDA-approved chemotherapy drugs.\n\nThe test measures the cytotoxic effect of actual doses of standard-of-care chemotherapies. The ChemoID drug response assay reports a prioritized list of effective and ineffective chemotherapies. The test is designed to target cancer stem cells to mitigate tumor relapse."
+    },
+    {
+      "name": "Chemotherapy",
+      "type": "DRUG",
+      "description": "Chemotherapies chosen by Physician or ChemoID assay are in the same list of FDA approved drugs to treat recurrent high-grade glioma"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Men and Women and members of all ethnic groups who are at least 18 years old at the time of enrollment are eligible for this trial;\n2. Informed consent obtained and signed;\n3. Willing and able to commit to study procedures including long-term follow-up visit(s);\n4. Histopathologically confirmed 2016-WHO grade III recurrent glioma, and grade IV recurrent glioblastoma (GBM), inclusive of Gliosarcoma\n5. In all cases, the diagnosis must be confirmed by a pathologist.\n6. Recurrent surgically resectable tumor and/or biopsy;\n7. Participants who have undergone surgical resection should have received an MRI or a scan after surgery in order to visualize residual tumor. If not, the operative report must be available;\n8. Prior to surgery there was imaging evidence of measurable progressive disease (PD);\n9. Start of radiotherapy, if indicated, must occur at least 2 weeks after surgery and/or biopsy;\n10. Estimated survival of at least 3 months;\n11. Hgb \\> 9 gm; absolute neutrophil count (ANC) \\> 1500/\u03bcl; platelets \\> 100,000; Creatinine \\< 1.5 times the upper limit of laboratory normal value; Bilirubin \\< 2 times the upper limit of laboratory normal value; serum glutamate pyruvate transaminase (SGPT) or serum glutamate oxaloacetate transaminase (SGOT) \\< 3 times the upper limit of laboratory normal value;\n12. If indicated radiation therapy and chemotherapy must start within 8 weeks of tumor resection or biopsy.\n13. Bevacizumab (Avastin) is allowed. If indicated it should be initiated at least 4 weeks post craniotomy or biopsy if the wound has healed well without any drainage or cellulitis;\n14. The use of herbal preparation or tetrahydrocannabinol/cannabidiol is strongly discouraged, but not contraindicated;\n\nExclusion Criteria:\n\n1. Subjects with newly diagnosed GBM\n2. Pregnant women or nursing mothers cannot participate in the study. Women of childbearing age must have a negative pregnancy test within 72 hours prior to study entry. Women of childbearing potential must practice medically approved contraceptive precautions;\n3. Abnormal hematological results at inclusion with: Neutrophils \\< 1,500/mm3; Blood-platelets \\< 100,000/mm3\n4. Severe or chronic renal insufficiency (creatinine clearance \u2264 30 ml/min);\n5. Patient unable to follow procedures, visits, examinations described in the study;\n6. Any usual formal indication against imaging examinations (important claustrophobia, pacemaker);\n7. History of another malignancy in the previous 2 years, with a disease-free interval of \\< 2 years. Patients with prior history of in situ cancer or basal or squamous cell skin cancer, any time prior to screening, are eligible;\n8. OPTUNE device is not permitted in the study;\n9. Patients cannot participate to any clinical trials utilizing a liquid biomarker or imaging studies that impact the overall survival.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "St. Luke's University Health Network",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": ""
+    },
+    {
+      "facility": "The Penn State Univeristy College of Medicine",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University Hospitals",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny Health Network",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Median Overall Survival (OS)",
+      "timeFrame": "36 months",
+      "description": "Overall survival (OS) in recurrent GBM patients who have had a ChemoID assay-guided treatment compared to standard therapy chosen by the physician."
+    }
+  ],
+  "sponsor": "Cordgenics, LLC",
+  "collaborators": [],
+  "start_date": "2018-05-20",
+  "completion_date": "2023-12-31",
+  "last_updated": "2025-04-01"
+}

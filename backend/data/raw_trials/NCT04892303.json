@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT04892303",
+  "brief_title": "Combination Radiotherapy and Radiopharmaceutical Therapy Treatment Planning for Thyroid Cancer",
+  "official_title": "Combination Radiotherapy and Radiopharmaceutical Therapy Treatment Planning for Thyroid Cancer",
+  "brief_summary": "The goal of this study is to evaluate combined radioactive iodine (RAI, 131-I) and external beam radiotherapy (XRT) to optimize the radiation dose delivered to treat well differentiated thyroid cancers (DTC) with iodine-avid metastases. The investigators hypothesize that precise dosimetric planning will permit this combined RAI-XRT radiotherapeutic approach to be safe and permit higher tumor radiation doses than could otherwise be delivered. Patients with metastatic well-differentiated DTC) that is not completely resectable with macroscopic invasion of tumor into cervical soft tissues and/or non-resectable distant metastases, are the target study population. The primary objective is to evaluate safety as defined by the incidence of maximum grade 3 or greater NCI CTCAE toxicity observed during the treatment period and for the first 30 days following completion of radiotherapy. Secondary endpoints will evaluate efficacy at 6 months and feasibility of this combination to deliver a minimum cumulative dose of 80 Gy to the index tumors selected prior to treatment initiation. The investigators plan to enroll 48 subjects at an accrual rate of 1 subject per month over a study duration of 4 years.",
+  "detailed_description": "The study goal is to evaluate combined radioactive iodine (RAI, 131-I) and external beam radiotherapy (XRT) to optimize the radiation dose delivered to treat well-differentiated thyroid cancers (DTC) with iodine-avid metastases, hypothesizing that this combination approach is safe and enables delivery of higher local radiation doses than could otherwise be safely delivered with either radiotherapeutic modality alone. This is an open-labeled, phase 1 clinical trial design that will enroll study subjects with recurrent DTC that is not completely resectable with macroscopic invasion of tumor into cervical soft tissues and/or non-resectable distant metastases. Study subjects will have a sub-therapeutic level of lesional RAI uptake demonstrated in either a pre-treatment diagnostic scan or a previous post-treatment radioiodine scan, making it unlikely that the patient would fully benefit from RAI therapy alone. The primary objective is evaluate safety as defined by the incidence of maximum grade 3 or greater NCI CTCAE grade toxicity observed during the treatment period and for the first 30 days following completion of radiotherapy. Additional secondary endpoints will evaluate efficacy at 6 months and feasibility of this combination to deliver a minimum cumulative dose of 80 Gy (66 Gy, Equivalent dose in 2Gy fractions (EQD2); 2 Gy per fraction) to the index tumors (up to 3 in each study subject) selected prior to treatment initiation. The investigators plan to enroll 48 subjects at an accrual rate of 1 subject per month over a study duration of 4 years.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 48,
+  "conditions": [
+    "Recurrent Thyroid Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Combination treatment (CXRPT) of external beam radiation (XRT) plus radioactive iodine (RAI)",
+      "type": "COMBINATION_PRODUCT",
+      "description": "To safely administer a minimum cumulative dose of external beam radiation to up 3 index tumors per patient, supplemented radiation dose delivered by radioactive iodine (RAI)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion:\n\n* 18 and 85 years, inclusive.\n* Histologically confirmed papillary or follicular thyroid carcinoma, collectively referred to as differentiated thyroid carcinoma (DTC), that is incompletely responsive to initial surgery +/- 131-Iodine as established by anatomic imaging (CT, MRI, and Ultrasound).\n* DTC that is not completely resectable with macroscopic invasion of tumor into cervical soft tissues and/or non-resectable distant metastases.\n* Iodine avid residual disease, but with a sub-therapeutic level of lesional radioiodine uptake demonstrated in either a pre-treatment diagnostic scan or a previous post-treatment radioiodine scan, making it unlikely that the patient would benefit from radioiodine therapy alone.\n* Adequate organ function, including: a) adequate renal function, defined as a measured creatinine clearance \\>70 ml/min/1.73 m2 or normal radioisotope glomerular filtration rate (GFR); and b) adequate hematologic function, defined as a platelet count \\> 50,000 cells/mm3 and an absolute neutrophil count (ANC) \\> 500 cells/mm3\n* Life expectancy of at least 8 weeks.\n* Karnofsky performance status (KPS) \\> 50%\n* Patients must have adequately recovered from the effects of any prior chemotherapy, as determined by the treating physician and study team, based in part on organ function defined above. Toxicities from previous therapies must have recovered to CTCAE v5.0 grade 2 or better.\n* Patients with previously identified cardiac disease will be eligible, as Sodium Iodide I-131 (131I NaI) is not expected to cause cardiac dysfunction\n\nExclusion:\n\n* Patient is pregnant or breastfeeding.\n* Patient is sexually active, premenopausal, and does not agree to use accepted, effective forms of contraception.\n* Any criteria that would contraindicate radioiodine therapy or external beam radiotherapy.\n* Patient having alimentary toxic aleukia (ATA) low and intermediate risk tumors, not meeting the guidelines for either radioactive iodine (RAI) treatment or External beam radiotherapy (EBRT).\n* Patient with advanced central nervous system (CNS) metastatic disease, critical lesions in the hip and spine, etc. that would make RAI treatment prior to EBRT potentially harmful, with respect to worsening of disease as a result of the recombinant thyroid-stimulating hormone (TSH) stimulation.\n* Patients having recent exposure to iodinated contrast (within 6 weeks, that could render RAI treatment ineffective).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "85 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Johns Hopkins SKCCC",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety of combined therapy of XRT plus RAI measured by NCI-CTCAE toxicity",
+      "timeFrame": "During external beam radiation therapy (over a 2 week period)",
+      "description": "Toxicity of combined XRT plus RAI defined by the incidence of grade 3 or greater toxicities as measured with National Cancer Institutes-Common Terminology Criteria for Adverse Events (CTCAE)"
+    },
+    {
+      "measure": "Safety of combined therapy of XRT plus RAI measured by NCI-CTCAE toxicity",
+      "timeFrame": "Within 30 days of completing external beam radiation therapy",
+      "description": "Toxicity of combined XRT plus RAI defined by the incidence of grade 3 or greater toxicities as measured with National Cancer Institutes-Common Terminology Criteria for Adverse Events (CTCAE)"
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2021-03-17",
+  "completion_date": "2030-12",
+  "last_updated": "2025-06-30"
+}

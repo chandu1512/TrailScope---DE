@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT00387608",
+  "brief_title": "ABT-888 in Patients With Refractory Solid Tumors or Hematologic Cancer",
+  "official_title": "A Phase 0 Pharmacokinetic, Pharmacodynamic Study of ABT-888, an Inhibitor of Poly (ADP-ribose) Polymerase (PARP), in Refractory Solid Tumors and Lymphoid Malignancies",
+  "brief_summary": "RATIONALE: ABT-888 may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Collecting and storing samples of blood from patients with cancer to study in the laboratory may help doctors learn more about the ways a patient's body handles the drug.\n\nPURPOSE: This early phase I trial is studying the side effects and best dose of ABT-888 in patients with refractory solid tumors or hematologic cancer.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* Determine the dose-range at which ABT-888 inhibits poly (ADP-ribose) polymerase (PARP) in tumor samples and in peripheral blood mononuclear cells (PBMCs) in patients with refractory solid tumors or lymphoid malignancies.\n* Determine the pharmacokinetics of ABT-888.\n* Determine the time course of PARP inhibition in PBMCs by ABT-888.\n\nSecondary\n\n* Determine the safety of administering 1 dose of ABT-888 in these patients.\n\nOUTLINE: This is a dose-finding study.\n\nPatients receive oral ABT-888 once on day 1.\n\nCohorts of 3 patients receive escalating doses of ABT-888 until significant tumor poly (ADP-ribose) polymerase (PARP) inhibition is observed in 3 of 3 patients at 2 dose levels. Significant PARP inhibition is defined as \u2265 0.69 reduction on the log scale in poly (ADP-ribose) level from baseline to 3-6 hours after ABT-888 administration (with 90% confidence that it is not due to chance variation).\n\nPatients undergo peripheral blood collection at baseline and periodically after ABT-888 administration for PARP inhibition, pharmacokinetic, and pharmacodynamic studies. Once significant PARP inhibition is observed in 1 of 3 patients, subsequently enrolled patients also undergo tumor biopsy\\* at baseline and 3-6 hours or 21-27 hours after ABT-888 administration to determine PARP inhibition in tumor tissue.\n\nNOTE: \\*Patients with chronic lymphocytic leukemia undergo peripheral blood collection instead of biopsy.\n\nAfter completion of ABT-888 administration, patients are followed for 7 days.\n\nPROJECTED ACCRUAL: A total of 23 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 23,
+  "conditions": [
+    "Leukemia",
+    "Lymphoma",
+    "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "interventions": [
+    {
+      "name": "veliparib",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "pharmacological study",
+      "type": "OTHER",
+      "description": ""
+    },
+    {
+      "name": "biopsy",
+      "type": "PROCEDURE",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed malignancy, meeting 1 of the following criteria:\n\n  * Solid tumor that is refractory to \u2265 1 line of standard treatment OR for which no standard therapy is available\n\n    * Must have \u2265 1 lesion amenable to percutaneous biopsy (for solid tumor patients enrolled after the initial phase of the study)\n  * Chronic lymphocytic leukemia (CLL) or follicular lymphoma with no current indication for standard therapy OR disease that has failed \u2265 1 line of standard therapy\n* No disease-associated symptoms requiring immediate therapy or other interventions\n* Must be willing to undergo tumor biopsies\\* after the initial phase of the study NOTE: \\*Patients with CLL undergo peripheral blood collection instead of biopsy\n* No primary brain tumors, brain metastases, or leptomeningeal disease\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status (PS) 0-2 or Karnofsky PS 60-100%\n* Life expectancy \u2265 3 months\n* Absolute neutrophil count \u2265 1,500/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Hemoglobin \u2265 9 g/dL\n* Bilirubin \\< 1.5 times upper limit of normal (ULN)\n* AST and ALT \u2264 2.5 times ULN\n* Creatinine \\< 1.5 times ULN OR creatinine clearance \u2265 60 mL/min\n* INR \u2264 1.4\n* PTT \u2264 36 seconds\n* Calcium (corrected) normal\n* Magnesium \\< 1.5 times ULN\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for 30 days after study completion\n* No history of seizures\n* No evidence of bleeding diathesis\n* No uncontrolled intercurrent illness including, but not limited to, any of the following:\n\n  * Ongoing or active infection\n  * Symptomatic congestive heart failure\n  * Unstable angina pectoris\n  * Cardiac arrhythmias\n* No psychiatric illness or social situations that would limit study compliance\n\nPRIOR CONCURRENT THERAPY:\n\n* At least 2 weeks since prior radiation therapy or surgery and recovered\n* At least 2 weeks since other prior therapy and recovered\n* No concurrent antiretroviral therapy for HIV-positive patients\n* No concurrent lung, liver, or mediastinal lymph node biopsies\n* No other concurrent investigational agents",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Warren Grant Magnuson Clinical Center - NCI Clinical Trials Referral Office",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892-1182",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in tumor poly (ADP-ribose) (PAR) levels from baseline to 3-6 hours after ABT-888 administration",
+      "timeFrame": "",
+      "description": ""
+    },
+    {
+      "measure": "Pharmacokinetics",
+      "timeFrame": "",
+      "description": ""
+    }
+  ],
+  "sponsor": "National Institutes of Health Clinical Center (CC)",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2006-06",
+  "completion_date": "2009-04",
+  "last_updated": "2012-03-14"
+}

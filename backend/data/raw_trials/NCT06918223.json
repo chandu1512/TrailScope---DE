@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT06918223",
+  "brief_title": "Assessing Patient Satisfaction and Confidence After Use of Educational Video to Augment Surgical Consent for Thyroid Surgery",
+  "official_title": "Assessing Patient Satisfaction and Confidence After Use of Educational Video to Augment Surgical Consent for Thyroid Surgery",
+  "brief_summary": "This study looks at how a short educational video can help people better understand thyroid surgery. Patients who have thyroid nodules and need surgery will be part of the study. Some patients will get the usual information from their doctor, while others will also watch a video that explains the surgery in a simple and clear way. The study will check if the video helps patients feel more confident about their decision, lowers anxiety, and helps them remember important information about their surgery. Patients will answer surveys before surgery, after surgery, and 3 months later.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "Thyroid Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Thyroid Informed Surgical Consent Augmenting Video (TISCAV)",
+      "type": "BEHAVIORAL",
+      "description": "Participants randomized to the intervention group will receive a surgeon-created Thyroid Informed Surgical Consent Augmenting Video (TISCAV). This 8-minute video includes animated visuals and a surgeon voiceover explaining thyroid anatomy, surgical options (lobectomy vs. total thyroidectomy), risks, benefits, and expectations. The TISCAV was designed and reviewed by an endocrine surgery team to improve patient comprehension, confidence, satisfaction, and reduce decision regret compared to standard verbal consent alone."
+    },
+    {
+      "name": "Standard Consent",
+      "type": "BEHAVIORAL",
+      "description": "Participants receiving the Standard Consent intervention will undergo the routine informed consent process for thyroid surgery provided by their surgeon. This process includes a verbal discussion covering thyroidectomy procedure details, potential risks and complications, benefits, alternatives such as active surveillance, and an opportunity to ask questions."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria Fluent in English\n\n* English is Primary Language\n* \u226518 years old at time of consent\n* Eligible for Thyroidectomy, lobectomy, isthmusectomy for any indication\n\nExclusion Criteria:\n\n* History of prior thyroid surgery\n* Previously consented for thyroid surgery",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Patient knowledge score using a 10-item internally validated Thyroid Surgery Knowledge Assessment",
+      "timeFrame": "Immediately after study enrollment (pre-consent) and immediately following the surgical consent process (post-consent)",
+      "description": "This outcome measures patient knowledge of thyroid surgery, including indications, procedural options, risks, and benefits. A 10-question internally developed and validated multiple-choice questionnaire will be administered before and after the informed consent process. Each correct answer is scored as 1 point, with a total score ranging from 0 to 10. Higher scores indicate greater understanding and retention of surgical information."
+    },
+    {
+      "measure": "Decisional Conflict Score using the Decisional Conflict Scale (DCS)",
+      "timeFrame": "Preoperatively (after the consent process and before surgery)",
+      "description": "This outcome measures patient uncertainty and confidence related to thyroid surgery decision-making using the validated 16-item Decisional Conflict Scale (DCS). The DCS evaluates five subdomains: uncertainty, feeling informed, values clarity, support, and perceived effectiveness of the decision. Each item is scored from 0 (strongly agree) to 4 (strongly disagree), then standardized to a total score ranging from 0 to 100. Higher scores reflect greater decisional conflict and more difficulty with making a decision."
+    },
+    {
+      "measure": "Satisfaction with Decision Score using the Satisfaction with Decision Scale (SDS)",
+      "timeFrame": "Immediately after consent (Preoperative), Postoperative Day 22, and Postoperative Day 100",
+      "description": "This outcome assesses patient satisfaction with their decision to undergo thyroid surgery using the validated 6-item Satisfaction with Decision Scale (SDS). Each item is scored from 1 (not satisfied) to 5 (very satisfied), with a total score ranging from 6 to 30. Higher scores indicate greater satisfaction with the decision-making process and outcome."
+    },
+    {
+      "measure": "Decision Regret Score using the Decision Regret Scale (DRS)",
+      "timeFrame": "Postoperative Day 22 and Postoperative Day 100",
+      "description": "This outcome evaluates postoperative regret related to undergoing thyroid surgery using the validated 5-item Decision Regret Scale (DRS). Each item is scored from 1 (strongly agree) to 5 (strongly disagree), with scores converted to a 0-100 scale. Higher scores reflect greater decision regret."
+    },
+    {
+      "measure": "Anxiety Score using the Visual Analog Scale for Anxiety (VAS-A)",
+      "timeFrame": "Immediately after consent (Preoperative), Postoperative Day 22, and Postoperative Day 100",
+      "description": "This outcome measures patients' current level of anxiety using the validated Visual Analog Scale for Anxiety (VAS-A), a single-item scale presented as a 100 mm line ranging from \"calm\" to \"anxious.\" Participants place a mark on the scale reflecting their current state. The score is recorded as a number from 0 to 100, with higher scores indicating greater anxiety."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2023-11-10",
+  "completion_date": "2025-12",
+  "last_updated": "2025-04-09"
+}

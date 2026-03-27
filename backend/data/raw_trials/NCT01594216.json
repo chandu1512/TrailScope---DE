@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT01594216",
+  "brief_title": "Ruxolitinib in Estrogen Receptor Positive Breast Cancer",
+  "official_title": "A Phase II Trial Of The JAK-Inhibitor Ruxolitinib (INCB018424) In Combination With Exemestane For Patients With Estrogen Receptor (ER) Positive Advanced Breast Cancer)",
+  "brief_summary": "This is a Phase II investigator-Initiated trial of the Investigational Drug, Ruxolitinib, in combination with Exemestane in patients with estrogen-receptor positive advanced breast cancer. The objective of this study is to determine the preliminary safety and efficacy of the combination of exemestane and Ruxolitinib (INCB018424).",
+  "detailed_description": "In vitro mechanisms link IL-6 to poor outcome in breast cancer via activated JAK/STAT tumor signaling, leading to an aggressive tumor phenotype, and our preliminary data support these mechanisms in women with ER+ disease. Our overarching hypotheses are that (1) IL-6 mediates upregulation of JAK/STAT signaling pathways that leads to poor prognosis in women with ER-positive disease, (2) blockade of JAK/STAT signaling, via JAK inhibition, in patients with activating IL-6 polymorphisms and/or upregulation of STAT3 tumor signaling will enhance the response to endocrine therapy, and (3) patients likely to respond to JAK inhibition can be identified by germline genotyping for IL-6 variants, and effectiveness of the targeted therapy will be measurable through tumor assessment of activated STAT signaling through upregulation of phospho- STAT3 and expression of STAT3 target genes.\n\nWe now propose a trial to determine whether addition of the JAK inhibitor, Ruxolitinib (INCB018424), enhances the activity of exemestane alone in women with ER-positive breast cancer who have relapsed after non-steroidal aromatase inhibitor and carry a germline polymorphism in IL-6, and to determine if tumor activation of STAT3 can identify patients most likely to respond to the combination.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 25,
+  "conditions": [
+    "Estrogen-receptor Positive Invasive Metastatic Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Ruxolitinib",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Exemestane",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically-confirmed, invasive metastatic breast cancer.\n* Estrogen-receptor positivity (defined by at least 5% staining by immunohistochemistry) on either the primary breast tumor or a metastatic biopsy.\n* Postmenopausal status, defined as: either \"surgical menopause\" via oophorectomy, or \"natural menopause\" in which the patient has had no menses in the previous 12-month period. Premenopausal patients who have been been rendered amenorrheaic by tamoxifen must have a serum estradiol level \\<30 pg/ml after discontinuation of tamoxifen. Amenorrheaic premenopausal subjects must have a negative pregnancy test during screening (prior to enrollment) and must be advised to use adequate contraception throughout their participation.\n* Prior therapy for the current malignancy: Patient must have 1) relapsed on or within 2 years of completing adjuvant hormonal therapy with a non-steroidal aromatase inhibitor, OR 2) failed a non-steroidal aromatase inhibitor in the metastatic setting. There is no limit to prior chemotherapy or hormonal regimens for this malignancy.\n* At least one measureable lesion by RECIST or mainly lytic bone lesions in the absence of measurable disease. Bone-only disease is allowed.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate organ function, defined as follows:\n\nBilirubin \u2264 1.5 x the upper limit of normal (ULN) Serum creatinine \u2264 1.5 x UNL or calculated creatinine clearance \u2265 60 mL/min, and\n\n* For subjects without liver metastases: alanine aminotransferase (ALT) and aspartate aminotransferase (AST) \u2264 2.5 x ULN\n* For subjects with liver metastases: alanine aminotransferase (ALT) and aspartate aminotransferase \u2264 5 x ULN\n* Adequate bone marrow function, defined as follows Absolute neutrophil count (ANC) \\>1500/mm3 Hemoglobin \\> 9 Platelets \\>100,000/mm3\n* The subject is capable of understanding and complying with the protocol requirements and has signed the informed consent document.\n\nEXCLUSION CRITERIA:\n\n* Chemotherapy, hormonal therapy or investigational anti-tumor therapy within 21 days of starting study treatment. Use of bone-building agents is allowed.\n* Prior treatment with exemestane.\n* Any type of investigational agent within 28 days before the first dose of study treatment.\n* Unresolved clinically-meaningful toxicity due to prior therapy. Toxicity from previous treatment must be back to baseline or Grade \u2264 1, with the exception of neurotoxicity and alopecia.\n* Untreated or uncontrolled brain metastases or evidence of leptomeningeal involvement of disease. Patients who have stable disease after radiotherapy for CNS disease are eligible. Testing for brain involvement in the absence of symptoms is not required as part of this protocol.\n* Uncontrolled, intercurrent illness\n* Known ongoing or active infection, including active hepatitis B or hepatitis C. Testing for hepatitis B or C is not required as part of this protocol.\n* Uncontrolled diabetes mellitus\n* Uncontrolled hypertension\n* Symptomatic congestive heart failure, unstable angina pectoris, stroke or myocardial infarction within 3 months\n* A baseline corrected QT interval (QTc) \\> 470 ms.\n* The subject is known to be positive for the human immunodeficiency virus (HIV). Note: baseline HIV screening is not required\n* The subject is unable or unwilling to abide by the study protocol or cooperate fully with the investigator or designee.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "10104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Adverse Events",
+      "timeFrame": "3 years",
+      "description": "Safety will be assessed by evaluation of the number and severity adverse events as defined by the NCI CTCAE Version 4.0"
+    },
+    {
+      "measure": "Time to Progression",
+      "timeFrame": "3 years",
+      "description": "Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by CT or MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \\>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2012-04",
+  "completion_date": "2016-04-09",
+  "last_updated": "2024-05-15"
+}

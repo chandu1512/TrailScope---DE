@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT05074810",
+  "brief_title": "Phase 1/2 Study of Avutometinib (VS-6766) + Sotorasib With or Without Defactinib in KRAS G12C NSCLC Patients",
+  "official_title": "A Phase 1/2 Study of Avutometinib (VS-6766) in Combination With Sotorasib With or Without Defactinib in Patients With KRAS G12C Mutant Non-Small Cell Lung Cancer (NSCLC)",
+  "brief_summary": "This study will assess the safety and efficacy of avutometinib (VS-6766) in combination with sotorasib with or without defactinib in patients with KRAS G12C Non-Small Cell Lung Cancer (NSCLC) in patients who have been exposed to prior G12C inhibitor and those who have not been exposed to prior G12C inhibitor.",
+  "detailed_description": "This is a multicenter, non-randomized, open-label Phase 1/2 study designed to evaluate safety and tolerability and efficacy of avutometinib (VS-6766) in combination with sotorasib with or without defactinib in patients with KRAS G12C mutant NSCLC.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 153,
+  "conditions": [
+    "Non Small Cell Lung Cancer",
+    "KRAS Activating Mutation"
+  ],
+  "interventions": [
+    {
+      "name": "avutometinib and sotorasib",
+      "type": "DRUG",
+      "description": "The RP2D of avutometinib + sotorasib determined in Part A will be used in Part B dose expansion"
+    },
+    {
+      "name": "avutometinib and sotorasib and defactinib",
+      "type": "DRUG",
+      "description": "The RP2D of avutometinib + sotorasib + defactinib determined in Part A will be used in Part B dose expansion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male or female patients \u2265 18 years of age\n* Histologic or cytologic evidence of NSCLC\n* Known KRAS G12C mutation\n* Either exposed or not exposed to a KRAS inhibitor to be included in Part A (avutometinib + sotorasib + defactinib) and not exposed to KRAS inhibitor to be included in Part B (avutometinib + sotorasib + defactinib), Cohort 1\n* Received at least 1 dose of a G12C inhibitor to be included in Part B, Cohort 2 (avutometinib + sotorasib + defactinib)\n* Must have received appropriate treatment with at least one prior systemic regimen, but no more than 2 prior regimens, for Stage 3B-C or 4 NSCLC\n* Measurable disease according to RECIST 1.1\n* An Eastern Cooperative Group (ECOG) performance status \u2264 1\n* Adequate organ function\n* Adequate recovery from toxicities related to prior treatments\n* Agreement to use highly effective method of contraceptive\n\nExclusion Criteria:\n\n* Systemic anti-cancer therapy within 4 weeks of the first dose of study therapy\n* History of prior malignancy, with the exception of curatively treated malignancies\n* Major surgery within 4 weeks, minor surgery within 2 weeks (excluding placement of vascular access)\n* History of treatment with a direct and specific inhibitor of MEK\n* Exposure to strong CYP3A4 inhibitors or inducers within 14 days prior to the first dose and during the course of therapy\n* Symptomatic brain metastases requiring steroids or other local interventions.\n* Known SARS-Cov2 infection \u226428 days prior to first dose of study therapy\n* Known hepatitis B, hepatitis C, or human immunodeficiency virus infection that is active\n* Active skin disorder that has required systemic therapy within the past year\n* History of rhabdomyolysis\n* Concurrent ocular disorders\n* Concurrent heart disease or severe obstructive pulmonary disease\n* Inability to swallow oral medications\n* Female patients that are pregnant or breastfeeding\n* Previously treated with sotorasib and were dose reduced due to toxicity",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Oncology & Hematology, P.A.",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "20850",
+      "status": ""
+    },
+    {
+      "facility": "Consultants in Medical Oncology & Hematology",
+      "city": "Broomall",
+      "state": "Pennsylvania",
+      "zip": "19008",
+      "status": ""
+    },
+    {
+      "facility": "Alliance Cancer Specialists,",
+      "city": "Horsham",
+      "state": "Pennsylvania",
+      "zip": "19044",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part A: To determine RP2D for avutometinib in combination with sotorasib and the Alt-RP2D for avutometinib in combination with sotorasib and defactinib",
+      "timeFrame": "From start of treatment to confirmation of RP2D; 28 days",
+      "description": "Assessment of Dose-limiting toxicities (DLTs)"
+    },
+    {
+      "measure": "Part B: To determine the efficacy of the RP2D and/or Alt-RP2D identified from Part A",
+      "timeFrame": "From start of treatment to confirmation of response; 16 weeks",
+      "description": "Confirmed overall response rate per RECIST 1.1"
+    }
+  ],
+  "sponsor": "Verastem, Inc.",
+  "collaborators": [
+    "Amgen"
+  ],
+  "start_date": "2022-04-12",
+  "completion_date": "2027-04",
+  "last_updated": "2026-01-08"
+}

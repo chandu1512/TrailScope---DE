@@ -1,0 +1,84 @@
+{
+  "nct_id": "NCT04614103",
+  "brief_title": "Autologous LN-145 in Patients With Metastatic Non-Small-Cell Lung Cancer",
+  "official_title": "A Phase 2 Multicenter Study of Autologous Tumor Infiltrating Lymphocytes (TIL or LN-145) in Patients With Metastatic Non-Small-Cell Lung Cancer",
+  "brief_summary": "This is a prospective, open-label, multi-cohort, non-randomized, multicenter phase 2 study evaluating LN-145 in patients with metastatic non-small-cell lung cancer",
+  "detailed_description": "LN-145 is a ready-to-infuse TIL therapy that utilizes an autologous TIL manufacturing process, as originally developed by the NCI and further optimized by Iovance for the treatment of patients with metastatic NSCLC. The cell transfer therapy used in this study involves patients receiving a non-myeloablative (NMA) lymphodepleting preparative regimen, followed by infusion of autologous TIL, then finally followed by the administration of IL-2.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 170,
+  "conditions": [
+    "Metastatic Non Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "LN-145",
+      "type": "BIOLOGICAL",
+      "description": "A tumor sample is resected from each patient and cultured ex vivo to expand the population of tumor infiltrating lymphocytes. After lymphodepleting chemotherapy including cyclophosphamide and fludarabine, patient is infused with autologous TIL (LN-145), followed by IL-2."
+    },
+    {
+      "name": "LN-145",
+      "type": "BIOLOGICAL",
+      "description": "A tumor sample is obtained by image-guided core biopsy from each patient and cultured ex vivo to expand the population of tumor infiltrating lymphocytes. After lymphodepleting chemotherapy including cyclophosphamide and fludarabine, patient is infused with autologous TIL (LN-145) followed by IL-2."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients who are over 70 years of age may be allowed to enroll after discussion with the Medical Monitor.\n* Have historically or pathologically confirmed diagnosis of metastatic Stage IV NSCLC without EGFR, ALK, or ROS1 genomic alterations.\n* For patients who have actionable mutations (other than EGFR, ALK, or ROS1 genomic alterations), 1 additional line of therapy with the appropriate health authority approved targeted therapy is required.\n* Patients must have documented radiographic disease progression on or after the first-line therapy, including concurrent or sequential ICI and platinum-based chemotherapy \u00b1 bevacizumab. No more than 1 prior line is allowed if ICI and platinum-based chemotherapy were administered concurrently and no more than 2 prior lines are allowed for sequential administration of platinum-based chemotherapy and ICI as 2 separate lines.\n* LN-145 manufacture is allowed for patients who have residual resectable disease after completion of the platinum-based chemotherapy component of the front-line ICI and platinum-based chemotherapy combination and meet all eligibility criteria except documented disease progression. These patients must intend to receive TIL therapy after disease progression\n* Prior systemic therapy in the adjuvant or neoadjuvant setting, or as part of definitive chemoradiotherapy, will count as a line of therapy if the patient had disease progression during or within 12 months after the completion of such therapy.\n* At least 1 resectable lesion for TIL production and at least one remaining measurable lesion, as defined by RECIST v1.1\n* Have adequate organ function\n* LVEF \\> 45%, NYHA Class 1\n* Have adequate pulmonary function\n* ECOG performance status of 0 or 1\n* Patients of childbearing potential or those with partners of childbearing potential must be willing to practice an approved method of highly effective birth control during treatment and up to 12 months after all protocol-related therapy\n\nExclusion Criteria:\n\n* Patients who have EGFR, ALK or ROS1 driver mutations\n* Patients who have symptomatic, untreated brain metastases.\n* Patients who have had allogeneic organ transplant or prior cell therapy within the past 20 years\n* Patients who have any form of primary immunodeficiency\n* Patients who are on systemic steroid therapy \u2265 10 mg/day of prednisone or equivalent.\n* Patients who have received a live or attenuated vaccination within 28 days prior to the start of treatment\n* Patients who have had another primary malignancy within the previous 3 years\n* Participation in another interventional clinical study within 21 days",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Christiana Care Health System",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": "WITHDRAWN"
+    },
+    {
+      "facility": "University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "MD Anderson Cooper",
+      "city": "Camden",
+      "state": "New Jersey",
+      "zip": "08103",
+      "status": "WITHDRAWN"
+    },
+    {
+      "facility": "Allegheny General Hospital",
+      "city": "Natrona Heights",
+      "state": "Pennsylvania",
+      "zip": "15065",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "WITHDRAWN"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate",
+      "timeFrame": "Up to 60 months",
+      "description": "To evaluate the efficacy of LN-145 as determined by objective response rate (ORR) in patients with metastatic NSCLC using the Response Evaluation Criteria in Solid Tumors (RECIST v1.1), as assessed by central review for Cohorts 1 and 2 and by the investigator for Cohorts 3, 4 and the Retreatment Cohort"
+    }
+  ],
+  "sponsor": "Iovance Biotherapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2021-05-07",
+  "completion_date": "2031-12",
+  "last_updated": "2025-11-11"
+}

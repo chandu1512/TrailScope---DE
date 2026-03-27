@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT01560923",
+  "brief_title": "Phase II Study of Sipuleucel-T and Indoximod for Patients With Refractory Metastatic Prostate Cancer",
+  "official_title": "A Randomized, Double-Blind Phase II Study of Sipuleucel-T (Provenge\u00ae) Followed by Indoximod or Placebo in the Treatment of Patients With Asymptomatic or Minimally Symptomatic Metastatic Castration Resistant Prostate Cancer",
+  "brief_summary": "This is a randomized, double blind, multi-institutional phase II therapeutic study of Indoximod or placebo after the completion of standard of care sipuleucel-T (Provenge\u00ae) in men with asymptomatic or minimally symptomatic metastatic prostate cancer that is castration resistant (hormone refractory). Patients are randomized to receive either twice daily oral Indoximod or placebo for 6 months beginning the day after the third and final sipuleucel-T infusion.",
+  "detailed_description": "Sipuleucel-T will be administered as standard of care. Oral Indoximod/placebo will be self-administered twice daily for 6 months starting after the last infusion of sipuleucel-T. Patients will be treated for a minimum of 12 weeks of Indoximod/placebo before disease progression can be declared and Indoximod/placebo will not be discontinued for increasing prostate specific antigen (PSA) in the absence of symptomatic clinical progression.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 47,
+  "conditions": [
+    "Metastatic Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Indoximod",
+      "type": "BIOLOGICAL",
+      "description": "Given twice daily (1200 mg total) by mouth for 6 months."
+    },
+    {
+      "name": "Sipuleucel-T",
+      "type": "BIOLOGICAL",
+      "description": "Sipuleucel-T will be administered as standard of care. Given by infusion over 60 minutes at Week 0, 2 and 4. Patients will undergo leukapheresis at weeks 0, 2, and 4 with sipuleucel-T infused 3 days later (i.e. Monday/Thursday; Tuesday/Friday)."
+    },
+    {
+      "name": "Placebo",
+      "type": "OTHER",
+      "description": "Given in same manner as Indoximod; 1200 mg per day by mouth."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically documented adenocarcinoma of the prostate with metastatic disease as evidenced by soft tissue and/or bony metastases on baseline computed tomography (CT) scan of the abdomen and pelvis and/or bone scan\n* Castration-resistant based on a current or historical evidence of disease progression despite surgical or medical castration as demonstrated by one or more of the following:\n\n  * PSA progression (defined as two consecutive prostate specific antigen (PSA) measurements at least 14 days apart \u2265 2.0 ng/ml and \u2265 50% above the minimum PSA during castration therapy or above pre-treatment value if no response)\n  * progression of measurable disease based on Response Evaluation Criteria In Solid Tumors (RECIST) criteria (\u2265 50% increase in the sum of the cross products of all measurable lesions or the development of any new lesions\n  * progression of non-measureable disease\n* Serum PSA \u2265 2.0 ng/ml at study enrollment\n* Castration levels of testosterone defined as \u2264 30 ng/dL at study enrollment. Must be at least 3 months from surgical castration or must have received medical castration therapy for at least 3 months and be receiving such therapy at the time of confirmed disease progression\n* Asymptomatic or minimally symptomatic disease as demonstrated by Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1 and no need for opiate pain medications to control pain/symptoms\n* Age 18 years and old\n* Adequate bone marrow, renal and hepatic function within 14 days of study enrollment defined as:\n\n  * Bone marrow: WBC \\> 3,000/uL; absolute neutrophil count \\> 1,500/uL; platelets \\> 100,000/uL\n  * Renal: creatinine within institutional upper limit of normal (ULN) OR creatinine clearance \\> 60 mL/min/1.73 m2 for patients with creatinine levels above ULN\n  * Hepatic: total bilirubin \\< 1.5 X institutional ULN; aspartate aminotransferase (AST ((SGOT)) and alanine aminotransferase (ALT((SGPT)) \\< 2.5 X institutional ULN\n\nExclusion Criteria:\n\n* Chronic steroid dependence (should stop all steroid supplementation 4 weeks prior to enrollment)\n* Human immunodeficiency virus (HIV)-positive patients and those with other acquired/inherited immunodeficiency\n* History of gastrointestinal disease causing malabsorption or obstruction such as, but not limited to Crohn's disease, celiac sprue, tropical sprue, bacterial overgrowth/blind loop syndrome, gastric bypass surgery, strictures, adhesions, achalasia, bowel obstruction, or extensive small bowel resection\n* Inability to take medications by mouth\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition\n* Active autoimmune disease, chronic inflammatory condition, conditions requiring concurrent use of any systemic immunosuppressants or steroids. Mild-intermittent asthma requiring only occasional beta-agonist inhaler use or mild localized eczema will not be excluded.\n* Previous allo-transplant of any kind\n* History of prior treatment with anti-CTLA4 blocking antibody",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Milton S. Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Immune Response to Sipuleucel-T",
+      "timeFrame": "14 Weeks from First Leukapheresis",
+      "description": "Assess the augmentation of immune response (PA2024) to sipuleucel-T measured at 14 weeks from first leukapheresis, in response to twice daily oral Indoximod at a dose of 1200 mg/day or an identical looking placebo.\n\nThe frequency of antigen specific, cytokine producing cells will be determined by an ELISPOT assay. ELISPOT assay will use whole PBMC to assess interferon gamma production in response to the immunizing protein PA2024. Increase in number of ELISPOT responses to PBMC in patients in the treatment arm will be compared to those in control arm."
+    }
+  ],
+  "sponsor": "Masonic Cancer Center, University of Minnesota",
+  "collaborators": [],
+  "start_date": "2012-10-01",
+  "completion_date": "2018-12-12",
+  "last_updated": "2020-03-20"
+}

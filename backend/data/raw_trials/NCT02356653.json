@@ -1,0 +1,55 @@
+{
+  "nct_id": "NCT02356653",
+  "brief_title": "Expanded Access Protocol Using CD3+/CD19+ Depleted PBSC",
+  "official_title": "Expanded Access Protocol Using CD3+/CD19+ Depleted Unrelated Donor or Related Donor Peripheral Stem Cells",
+  "brief_summary": "The goal of this protocol is to expand access for patients who lack a fully HLA (Human leukocyte antigen) matched sibling donor and who are candidates for allogeneic hematopoietic stem cell transplant (HSCT). These patients have a serious or immediately life-threatening disease for which HSCT is indicated. These patients are not eligible for other Children's Hospital of Philadelphia IRB approved protocols that utilize CliniMACs technology for T depletion.",
+  "detailed_description": "Only 25-30% of patients who may benefit from HSCT have a matched related donor. There is a higher rate of complications using cells from an unrelated or partially matched related donor. T cells within the donor cells may cause a complication called graft vs. host disease (GVHD). The goal of this study is to use the CliniMACs device to remove the T cells that cause GVHD, called T cell depletion.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "EARLY_PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 100,
+  "conditions": [
+    "Leukemia",
+    "Inborn Errors of Metabolism",
+    "Bone Marrow Failure Syndromes",
+    "Immunodeficiencies",
+    "Immunodysregulation Polyendocrinopathy Enteropathy X-linked Syndrome"
+  ],
+  "interventions": [
+    {
+      "name": "Transplant of stem cells with CD3+/CD19+ depletion (CliniMACs)",
+      "type": "BIOLOGICAL",
+      "description": "Processing of stem cells using the CliniMACs device to selectively deplete specific T cells to decrease risk of graft versus host disease when using donor stem cells which are not fully matched."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients who lack a fully HLA matched sibling and who are candidates for allogeneic hematopoietic stem cell transplant (HSCT) but are not deemed suitable candidates per their treating clinical team for current open institutional protocols using ClinMACs device for CD3+/CD19+ depletion.\n2. Patients with the following transplantable diseases:\n\n   Non-malignant diseases:\n\n   Metabolic storage diseases correctable by HSCT, Bone marrow failure syndromes, Immunodeficiencies/immune dysregulation syndromes/including HLH, Hemoglobinopathies correctable and requiring HSCT, and Other diseases treated with HSCT/Other non-malignant blood, metabolic, or immune disorders for which HSCT has been recommended\n\n   Malignant diseases:\n\n   Acute leukemias, Chronic leukemias, Lymphomas, Myelodyplastic syndrome\n3. Signed informed consent\n4. Lansky or Karnofsky performance \u226560\n5. Hematologic and Organ Function per current institutional SOP.\n6. Infectious Evaluation as per current institutional SOP.\n7. Participants of childbearing potential must have a negative pregnancy test as per institutional SOP\n8. In cases that are deemed clinical emergencies (primary or secondary graft failure, severe marrow suppression), the above status criteria will be waived.\n9. Patients must have an identified living donor\n\n   * Donor selection will comply with 21 CFR 1271\n   * Unrelated donor that meets the matching criteria of the NMDP with allele matching at HLA -A, -B, -C, -DRB1, and -DQB1: Unrelated donors may be a 10/10 match, a 9/10 match, or an 8/10 match if one of the mismatches is at DQB1\n   * Related donor suitable for mobilization infectious disease criteria as per SOP, including HIV, HepB, HepC PCR negative.\n   * CHOP BMT procedures apply for determining donor eligibility, including donor screening and testing for relevant communicable disease agents and diseases. Our donor collection program is FACT accredited.\n   * Unrelated donor identified through the National Marrow Donor Program (NMDP) and fulfills the NMDP criteria for donation. Unrelated donor willing and able to undergo mobilization of peripheral stem cells and apheresis.\n   * The donors selected for this IND will either be unrelated donors identified through the National Marrow Donor Program (NMDP) or related donors. Regarding the unrelated donors; NMDP procedures for determining donor eligibility include donor screening and testing for relevant communicable disease agents and diseases\n\nExclusion Criteria:\n\n1. Uncontrolled bacterial, viral or fungal infections\n2. Suitable, fully HLA matched sibling donor\n3. Donor unable to donate peripheral stem cells\n4. Pregnant participants",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "30 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "1 year post transplant",
+      "description": "Number of participants who remain alive."
+    }
+  ],
+  "sponsor": "Children's Hospital of Philadelphia",
+  "collaborators": [],
+  "start_date": "2013-12",
+  "completion_date": "2030-01",
+  "last_updated": "2026-02-18"
+}

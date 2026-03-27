@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT06220864",
+  "brief_title": "SNV1521 in Participants with Advanced Solid Tumors",
+  "official_title": "A Phase 1, Open-Label Dose Escalation and Expansion Study of SNV1521 in Participants with Advanced Solid Tumors",
+  "brief_summary": "This study is testing a new medicine, SNV1521, for people with advanced cancers. The researchers want to find out if SNV1521 is safe, well-tolerated, and effective in treating solid tumors. They are investigating different doses in order to find the most effective and safe one. They are also investigating whether it can be combined with other cancer therapies.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "Advanced Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "SNV1521",
+      "type": "DRUG",
+      "description": "SNV1521 is a tablet taken orally. Dose and frequency are dependent upon treatment arm."
+    },
+    {
+      "name": "Trastuzumab Deruxtecan",
+      "type": "DRUG",
+      "description": "Trastuzumab Deruxtecan is given as an infusion based upon prescribing information."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Advanced or metastatic solid tumor malignancy\n* Evaluable or Measurable disease (RECIST 1.1 Criteria).\n* ECOG Performance Status 0 or 1.\n* Life expectancy \\> 3 months\n\nExclusion Criteria:\n\n* History of other malignancy within the past 2 years\n* Prior diagnosis of Myelodysplastic syndrome or Acute Myeloid Leukemia\n* Significant cardiovascular disease within 6 months\n* Significant gastrointestinal disease\n* HIV infection with a CD4+ T-cell count \\< 200 cells/\u03bcL and/or a detectable viral load\n* Liver dysfunction",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19144",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety of SNV1521",
+      "timeFrame": "From first dose through last dose (up to 13 months)",
+      "description": "Treatment emergent adverse events (TEAEs)"
+    },
+    {
+      "measure": "Tolerability of SNV1521",
+      "timeFrame": "DLTs: From first dose through completion of first cycle (28 days)",
+      "description": "Incidence and frequency of dose-limiting toxicities (DLTs) (Dose-escalation arm only)"
+    }
+  ],
+  "sponsor": "Synnovation Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2024-02-23",
+  "completion_date": "2026-12",
+  "last_updated": "2025-03-10"
+}

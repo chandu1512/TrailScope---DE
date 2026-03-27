@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT02544633",
+  "brief_title": "Phase 2 Study of MGCD265 in Patients With Non-Small Cell Lung Cancer With Activating Genetic Alterations in MET",
+  "official_title": "Phase 2, Parallel-Arm Study of MGCD265 in Patients With Locally Advanced or Metastatic Non-Small Cell Lung Cancer With Activating Genetic Alterations in Mesenchymal-Epithelial Transition Factor",
+  "brief_summary": "MGCD265 is an orally administered receptor tyrosine kinase inhibitor that targets MET and other receptors. This study is a Phase 2 trial of MGCD265 in patients with locally advanced, unresectable or metastatic non-small cell lung cancer (NSCLC) that has activating genetic changes of the MET gene (mutation or amplification \\[increase number of gene copies\\]). Testing for tumor gene changes can be performed in tumor tissue or blood samples. Patients must have previously received treatment with chemotherapy. The number of patients to be enrolled will depend on how many enrolled patients experience tumor size reduction. MGCD265 will be administered orally, twice daily. The study is designed to evaluate whether the number of patients experiencing tumor size reduction is substantially higher than would be expected with other available treatments.",
+  "detailed_description": "If testing has not already been performed, the study will provide for the testing.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 68,
+  "conditions": [
+    "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "MGCD265",
+      "type": "DRUG",
+      "description": "MGCD265 is a small molecule multi-targeted receptor tyrosine kinase inhibitor"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Diagnosis of non-small cell lung cancer\n* Metastatic or locally advanced disease\n* Prior platinum chemotherapy or immunotherapy\n* Test result showing genetic change in MET tumor gene\n* At least one tumor that can be measured on a radiographic scan\n\nExclusion Criteria:\n\n* Prior treatment with inhibitor of MET or HGF\n* Prior positive test for EGFR mutation or ALK gene rearrangement\n* Uncontrolled tumor in the brain",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Guthrie Cancer Center",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate",
+      "timeFrame": "Up to 3 months",
+      "description": "Objective disease response is defined as the percent of patients documented by investigator assessment to have a confirmed Complete Response (CR) or Partial Response (PR) in accordance with the Response Evaluation Criteria in Solid Tumors (RECIST 1.1) for target and non-target lesions as assessed by CT or MRI. CR is defined as complete disappearance of all target lesions with the exception of nodal disease; PR is defined as \\>=30% decrease under baseline of the sum of diameters of all target measurable lesions; Stable Disease (SD) is concluded when the response does not qualify for CR, PR or Progression; Progressive Disease (PD) is defined as a 20% increase in the sum of diameters of target measurable lesions above the smallest sum observed with a minimum absolute increase of 5 mm, or unequivocal progression of pre-existing non-target lesions."
+    }
+  ],
+  "sponsor": "Mirati Therapeutics Inc.",
+  "collaborators": [],
+  "start_date": "2015-10",
+  "completion_date": "2019-01",
+  "last_updated": "2020-02-19"
+}

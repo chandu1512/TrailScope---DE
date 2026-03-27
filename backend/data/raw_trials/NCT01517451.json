@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT01517451",
+  "brief_title": "Radiation and Androgen Ablation for Prostate Cancer",
+  "official_title": "Stereotactic Body Radiation Therapy and Short-Term Androgen Ablation for Intermediate-Risk, Localized, Adenocarcinoma of the Prostate",
+  "brief_summary": "A study to see how effective and tolerable radiation therapy along with androgen deprivation therapy is in treating prostate cancer.",
+  "detailed_description": "This will be a Phase I/II study evaluating the effectiveness and toxicity of a combined regimen of 7.25 Gy every other day fractions to a total dose of 36.25 Gy (total of 5 fractions) with androgen deprivation therapy (ADT) for 4 months total.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 45,
+  "conditions": [
+    "Adenocarcinoma of the Prostate"
+  ],
+  "interventions": [
+    {
+      "name": "Radiation Therapy",
+      "type": "RADIATION",
+      "description": "7.25 Gy every other day fractions to a total dose of 36.25 Gy (total of 5 fractions)"
+    },
+    {
+      "name": "Androgen Deprivation Therapy (ADT)",
+      "type": "DRUG",
+      "description": "Androgen deprivation therapy (ADT) for 4 months total, greater than or equal to 1 month prior to SBRT."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed, locally confined adenocarcinoma of the prostate\n* Patient must fit D'Amico intermediate risk criteria by clinical stage (T2b-T2c), PSA (prostatic specific antigen) (10-20 ng/mL), and/or Gleason score (Gleason 7).\n* The patient has decided to undergo external beam radiation as treatment choice for his prostate cancer.\n* Signed study-specific consent form prior to registration\n\nExclusion Criteria:\n\n* Stage T3-4 disease.\n* Gleason 8 or higher score.\n* PSA \\> 20 ng/ml.\n* IPSS (International Prostate Symptom Score) \\> 15\n* Clinical or Pathological Lymph node involvement (N1).\n* Evidence of distant metastases (M1).\n* Radical surgery for carcinoma of the prostate.\n* Previous Chemotherapy, unless intervention was greater than 5 years from beginning treatment for current prostate cancer.\n* Previous pelvic radiation therapy.\n* Previous or concurrent cancers other than basal or squamous cell skin cancers or superficial bladder cancer unless disease free for at least 5 years.\n* History of inflammatory bowel disease.\n* Major medical or psychiatric illness which, in the investigator's opinion, would prevent completion of treatment and would interfere with follow up.\n* Myocardial infarction or cerebrovascular accident within one year from consultation, or other major vascular risk factor which would prevent a patient from receiving appropriate androgen deprivation therapy.11\n* Liver function tests (LFTs) greater than twice the upper limit of normal.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Suburban Hospital",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20814",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Biochemical Failure Free-rate (BFFR) Associated With the Combined Hypofractionated Dose Regimen and Androgen Deprivation Therapy (ADT).",
+      "timeFrame": "From consent up to 5 years post treatment completion",
+      "description": "To assess 5-year biochemical failure free rate (BFFR) associated with image-guided radiation therapy in doses of 7.25 Gy every other day to a total dose of 36.25 Gy (5 fractions) along with 4 months of androgen deprivation therapy (ADT) neoadjuvantly and concurrently. BFFR is defined as binary indicator whether PSA has increased by 2 ng/ml or more above the nadir PSA any time before the end of 5 years as the number of events."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [],
+  "start_date": "2013-05-22",
+  "completion_date": "2025-12-31",
+  "last_updated": "2026-01-23"
+}

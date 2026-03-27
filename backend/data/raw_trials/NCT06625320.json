@@ -1,0 +1,107 @@
+{
+  "nct_id": "NCT06625320",
+  "brief_title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
+  "official_title": "RASolute 302: A Phase 3 Multicenter, Open-label, Randomized Study of Daraxonrasib (RMC-6236) Versus Investigator's Choice of Standard of Care Therapy in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
+  "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of a novel RAS(ON) inhibitor compared to standard(s) of care (SOC) treatment.",
+  "detailed_description": "This is a global, randomized, open-label, Phase 3 study designed to evaluate whether treatment with RMC-6236 will improve progression free survival (PFS) or overall survival (OS) compared to Investigator's choice of standard of care chemotherapy in patients with metastatic PDAC who were previously treated with one prior line of therapy with 5-fluorouracil (5-FU) based or gemcitabine-based regimen.\n\nPatients will be randomized in a 1:1 ratio to receive RMC-6236 (Arm A) or Investigator's choice of standard of care chemotherapy (Arm B).",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 501,
+  "conditions": [
+    "Pancreatic Cancer",
+    "PDAC",
+    "PDAC - Pancreatic Ductal Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "RMC-6236",
+      "type": "DRUG",
+      "description": "Oral Tablets"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "intravenous (IV) infusion"
+    },
+    {
+      "name": "nab-paclitaxel",
+      "type": "DRUG",
+      "description": "IV infusion"
+    },
+    {
+      "name": "Irinotecan",
+      "type": "DRUG",
+      "description": "IV infusion"
+    },
+    {
+      "name": "Liposomal irinotecan",
+      "type": "DRUG",
+      "description": "IV infusion"
+    },
+    {
+      "name": "5-fluorouracil",
+      "type": "DRUG",
+      "description": "IV infusion"
+    },
+    {
+      "name": "leucovorin",
+      "type": "DRUG",
+      "description": "IV infusion"
+    },
+    {
+      "name": "Oxaliplatin",
+      "type": "DRUG",
+      "description": "IV infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* At least 18 years old and has provided informed consent.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Histologically or cytologically confirmed PDAC with metastatic disease.\n* Measurable disease per RECIST 1.1.\n* Adequate organ function (bone marrow, liver, kidney, coagulation)\n* Documented RAS mutation status, either mutant or wild-type. RAS mutations defined as nonsynonymous mutations in KRAS, NRAS, or HRAS at codons 12, 13, or 61 (G12, G13, or Q61).\n* Able to take oral medications.\n\nExclusion Criteria:\n\n* Prior therapy with direct RAS-targeted therapy (eg. degraders and/or inhibitors).\n* History of or known central nervous system metastatic disease.\n* Any conditions that may affect the ability to take or absorb study treatment\n* Major surgery within 4 weeks prior to randomization.\n* Patient is unable or unwilling to comply with protocol-required study visits or procedures",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Abramson Cancer Center Clinical Research Unit",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression free survival (PFS) in the RAS G12-mutant population",
+      "timeFrame": "Up to approximately 3 years",
+      "description": "PFS is defined as the time from randomization until disease progression or death from any cause, whichever occurs first. Progression is per response evaluation criteria in solid tumors (RECIST) v1.1 and as assessed by blinded independent central review (BICR)"
+    },
+    {
+      "measure": "Overall survival (OS) in the RAS G12-mutant population",
+      "timeFrame": "Up to approximately 3 years",
+      "description": "OS is defined as the time from randomization until death from any cause."
+    }
+  ],
+  "sponsor": "Revolution Medicines, Inc.",
+  "collaborators": [],
+  "start_date": "2024-10-16",
+  "completion_date": "2027-12",
+  "last_updated": "2025-12-05"
+}

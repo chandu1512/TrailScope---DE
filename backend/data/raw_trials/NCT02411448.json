@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT02411448",
+  "brief_title": "A Study of Ramucirumab (LY3009806) in Combination With Erlotinib in Previously Untreated Participants With EGFR Mutation-Positive Metastatic NSCLC (RELAY)",
+  "official_title": "A Multicenter, Randomized, Double-Blind Study of Erlotinib in Combination With Ramucirumab or Placebo in Previously Untreated Patients With EGFR Mutation-Positive Metastatic Non-Small Cell Lung Cancer",
+  "brief_summary": "The main purpose of this study is to evaluate the efficacy and safety of ramucirumab in combination with erlotinib as compared to placebo in combination with erlotinib in previously untreated participants with stage IV non-small cell lung cancer (NSCLC) harboring an activating epidermal growth factor receptor (EGFR) mutation (Exon 19-Del and Exon 21 L858R). Safety and tolerability of ramucirumab in combination with erlotinib will be assessed in Part A before proceeding to Part B.\n\nThe purpose of Part C is to determine the efficacy and safety of ramucirumab in combination with gefitinib in previously untreated East Asian participants with EGFR mutation-positive metastatic NSCLC and of ramucirumab in combination with osimertinib in those participants whose disease progressed on ramucirumab and gefitinib and that have T790M - positive metastatic NSCLC.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 545,
+  "conditions": [
+    "Metastatic Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Ramucirumab",
+      "type": "DRUG",
+      "description": "Administered IV."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Administered IV."
+    },
+    {
+      "name": "Erlotinib",
+      "type": "DRUG",
+      "description": "Administered orally."
+    },
+    {
+      "name": "Gefitinib",
+      "type": "DRUG",
+      "description": "Administered orally."
+    },
+    {
+      "name": "Osimertinib",
+      "type": "DRUG",
+      "description": "Administered orally."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Cytologically or histologically confirmed diagnosis of Stage IV NSCLC as defined by the American Joint Committee on Cancer Staging Criteria for Lung Cancer (AJCC 7th edition 2009).\n* Eligible for first-line treatment with erlotinib based on documented evidence of tumor harboring an activating EGFR mutation \\[exon 19 deletion or exon 21 (L858R) substitution mutation\\].\n* Mandatory provision of adequate archived stage IV NSCLC tissue samples or tissue samples other than stage IV NSCLC may be acceptable (optional for part C).\n* At least one measurable lesion.\n* Life expectancy of at least 3 months.\n\nExclusion Criteria:\n\n* Known T790M EGFR mutation (not applicable for Part C Period 2).\n* Known leptomeningeal carcinomatosis, uncontrolled/unstable spinal cord compression, or brain metastases.\n* Serious illness or medical condition.\n* Ongoing treatment with CYP3A4 inducers or strong inhibitors.\n* Ongoing therapy with nonsteroidal anti-inflammatory drugs for more than 2 months.\n* History of gross hemoptysis.\n* Significant bleeding disorders.\n* Radiologically documented evidence of major blood vessel invasion or encasement by cancer.\n* Radiographic evidence of intratumor cavitation.\n* History of gastrointestinal perforation within last 6 months.\n* History of bowel obstruction, inflammatory enteropathy or extensive intestinal resection.\n* History of any arterial thrombotic event within 6 months prior to enrollment.\n* The participant has any known significant ophthalmologic abnormalities of the surface of the eye.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "AHN Allegheny General Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part B: Progression Free Survival (PFS)",
+      "timeFrame": "Randomization to Measured Progressive Disease or Death from Any Cause (Up To 37 Months)",
+      "description": "PFS is defined as the time from the date of randomization to the date of radiographically documented progressive disease (PD) based on investigator assessment, or the date of death due to any cause, whichever is first assessed via Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. Progressive Disease (PD) was at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. The appearance of 1 or more new lesions is also considered progression."
+    },
+    {
+      "measure": "Number of Participants With Treatment-Emergent Adverse Events",
+      "timeFrame": "Cycle 1 Day 1 through End of Study (Up To 3 Years)",
+      "description": "A summary of other non-serious adverse events and all serious adverse events, regardless of causality, is located in the Reported Adverse Events Section."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2015-05-06",
+  "completion_date": "2026-12",
+  "last_updated": "2025-12-24"
+}

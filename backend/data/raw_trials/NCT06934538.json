@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT06934538",
+  "brief_title": "First-in-human Trial of STC-1010, an Immunotherapy, in Patients With Unresectable Locally Advanced or Metastatic Colorectal Cancer",
+  "official_title": "Open Label, Multicenter, Dose-escalation and Cohort-expansion Phase I/IIA Trial of STC-1010, an Immunotherapy, in Patients With Unresectable Locally Advanced or Metastatic Colorectal Cancer (CRC) - BreAK CRC Trial (BreAK for Brenus Anti-cancer)",
+  "brief_summary": "This is a phase I/IIA, first-in-human (FIH), two-part, open-label, multicenter study to characterize the safety, tolerability profile, and clinical efficacy of STC-1010 associated with GM-CSF and cyclophosphamide immunostimulant (IS) regimen administered with standard of care (SOC) therapy (mFOLFOX6 with or without bevacizumab) to participants with unresectable locally advanced (stage IIIC, T4b) or unresectable metastatic (stage IV) colorectal cancer (CRC).\n\nThe trial will be conducted in two parts:\n\n* A Phase I consisting of a dose escalation part and small expansion part to determine the maximum tolerated dose (MTD), recommended Phase II dose (RP2D) and safety profile of the STC-1010 + IS regimen administered with SOC therapy. Approximately 21 to 33 participants will be included in this phase in Europe.\n* A Phase IIA consisting of the expansion stage of the study which will further evaluate the clinical efficacy and safety of STC-1010 on a larger number of participants treated at the identified RP2D. Approximately 57 to 60 participants will be enrolled in total in 2 different arms. Multi-site recruitment will take place in Europe and in the US.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 90,
+  "conditions": [
+    "Unresectable Metastatic Colorectal Cancer",
+    "Unresectable Locally Advanced Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "STC-1010 + IS regimen + SOC therapy",
+      "type": "BIOLOGICAL",
+      "description": "STC-1010 administered with immunostimulants (IS) in low-dose (cyclophosphamide and GM-CSF) and standard of care (SOC) therapy (mFOLFOX6 with or without bevacizumab)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Male or female aged 18-75 years\n2. Histologically confirmed diagnosis of unresectable locally advanced (stage IIIC, T4b) or unresectable metastatic (stage IV) (R0) adenocarcinoma of the colon or rectum\n3. Adjuvant fluoropyrimidine monotherapy or oxaliplatin-based chemotherapy allowed if more than 6 months have elapsed between the end of adjuvant treatment and first relapse\n4. Determination of KRAS and BRAF mutation status\n5. Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST 1.1)\n6. Must agree to have biopsy at screening and on-treatment, only if not representing an unacceptable clinical risk and/or if technically feasible as judged by the Investigator in discussion with the interventional radiologist or endoscopist\n7. Eastern Cooperative Oncology Group (ECOG) performance status (PS) \u2264 1. Participants \\>70 years must have a PS= 0.\n8. Life expectancy \\> 3 months as assessed by the investigator\n9. Effective contraceptive measures implemented\n\nExclusion Criteria:\n\n1. Patients with symptomatic ascites or pleural effusion\n2. Dihydropyrimidine dehydrogenase (DPD) deficiency\n3. Resectable tumor with curative intent or patient considered for a curative strategy by intensifying chemotherapy to induce resectability\n4. Prior chemotherapy for metastatic disease\n5. Prior immunotherapy for advanced/metastatic disease (except for Arm 2A-2)\n6. Prior therapy with an investigational agent\n7. BRAF mutation\n8. Active auto-immune diseases such as rheumatoid arthritis, lupus, Crohn's disease, ulcerative colitis\n9. Medical conditions requiring immunosuppressive therapy\n10. Major surgery \\<4 weeks prior to first administration of STC-1010\n11. Radiotherapy \\< 4 weeks prior to first administration of STC-1010 or \\< 2 weeks in case of palliative radiotherapy\n12. Prior stem cell or solid organ transplantation\n13. Dementia or altered mental status or subject of a legal protection measure that would prohibit informed consent\n14. Active drug or alcohol abuse as assessed by the Investigator\n15. Participant deprived of their liberty by a judicial or administrative decision, undergoing psychiatric care and admitted to a health or social establishment for purposes other than research.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1: To determine overall safety profile, recommended Phase 2 dose (RP2D) and maximum tolerated dose (MTD)",
+      "timeFrame": "28 days",
+      "description": "Endpoint/Outcome Measures:\n\nIncidence, severity, and relationship of Treatment Emergent Adverse Events (TEAEs), Serious Adverse Events (SAEs), Dose-Limiting Toxicities (DLT) (in dose escalation part), AEs leading to treatment discontinuation; and clinically significant findings on clinical laboratory tests, vital signs, electrocardiograms (ECGs), and physical examinations, using the Common Terminology Criteria for Adverse Events (CTCAE Version 5)."
+    },
+    {
+      "measure": "Phase 2A: To determine the clinical efficacy by Progression Free Survival (PFS) rate",
+      "timeFrame": "12 months",
+      "description": "Progression Free Survival (PFS) rate at 12 months from STC-1010 + IS regimen initiation, defined as the proportion of participants alive and without progression (i.e., participants with complete response \\[CR\\], partial response \\[PR\\] or stable disease \\[SD\\]) at 12 months according to RECIST 1.1"
+    }
+  ],
+  "sponsor": "Brenus Pharma",
+  "collaborators": [],
+  "start_date": "2025-06-17",
+  "completion_date": "2029-06",
+  "last_updated": "2025-12-19"
+}

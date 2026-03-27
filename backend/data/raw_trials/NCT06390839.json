@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT06390839",
+  "brief_title": "Testing Palbociclib (PD-0332991) as Potentially Targeting Treatment in Cancers With CDK4 or CDK6 Amplification (MATCH - Subprotocol Z1C)",
+  "official_title": "MATCH Treatment Subprotocol Z1C: Phase II Study of Palbociclib (PD-0332991) in Patients With Tumors With CDK4 or CDK6 Amplification",
+  "brief_summary": "This phase II MATCH treatment trial tests how well palbociclib (PD-0332991) works in treating patients with cancer that has certain genetic changes. Palbociclib (PD-0332991) is in a class of medications called kinase inhibitors. It is used in patients whose cancer has a certain mutation (change) in the CDK4 or CDK6 gene. It works by blocking the action of mutated CDK4 or CDK6 that signals cancer cells to multiply. This helps to stop or slow the spread of cancer cells.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate the proportion of patients with objective response (OR) to targeted study agent(s) in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the proportion of patients alive and progression free at 6 months of treatment with targeted study agent in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nII. To evaluate time until death or disease progression. III. To identify potential predictive biomarkers beyond the genomic alteration by which treatment is assigned or resistance mechanisms using additional genomic, ribonucleic acid (RNA), protein and imaging-based assessment platforms.\n\nIV. To assess whether radiomic phenotypes obtained from pre-treatment imaging and changes from pre- through post-therapy imaging can predict objective response and progression free survival and to evaluate the association between pre-treatment radiomic phenotypes and targeted gene mutation patterns of tumor biopsy specimens.\n\nOUTLINE:\n\nPatients receive palbociclib orally (PO) once daily (QD) on days 1-21 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Additionally, patients undergo computed tomography (CT) or magnetic resonance imaging (MRI) and blood sample collection throughout the trial. Patients may also undergo a biopsy on study.\n\nAfter completion of study treatment, patients are followed every 3 months for 2 years and then every 6 months for 1 year.\n\nTHE MATCH SCREENING TRIAL:\n\nPlease see NCT02465060 for information on the MATCH Screening Protocol and applicable documents.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 43,
+  "conditions": [
+    "Advanced Lymphoma",
+    "Advanced Malignant Solid Neoplasm",
+    "Refractory Lymphoma",
+    "Refractory Malignant Solid Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "Biopsy Procedure",
+      "type": "PROCEDURE",
+      "description": "Undergo biopsy"
+    },
+    {
+      "name": "Biospecimen Collection",
+      "type": "PROCEDURE",
+      "description": "Undergo blood sample collection"
+    },
+    {
+      "name": "Computed Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo CT scan"
+    },
+    {
+      "name": "Magnetic Resonance Imaging",
+      "type": "PROCEDURE",
+      "description": "Undergo MRI"
+    },
+    {
+      "name": "Palbociclib",
+      "type": "DRUG",
+      "description": "Given PO"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have met applicable eligibility criteria in the Master MATCH Protocol EAY131/ NCI-2015-00054 prior to registration to treatment subprotocol\n* Patients must have CDK4 amplification or CDK6 amplification, or another aberration, as determined via the MATCH Master Protocol\n* Patients must have an electrocardiogram (ECG) within 8 weeks prior to treatment assignment and must have no clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g. complete left bundle branch block, third degree heart block)\n* Patients must not have breast cancer, mantle cell lymphoma, myeloma, or liposarcoma\n* Patients must not have known hypersensitivity to palbociclib or compounds of similar chemical or biologic composition\n* Patients with known or symptoms of left ventricular dysfunction will be excluded\n* Patients must not have received prior therapy with a CDK4 or CDK6 inhibitor (including but not limited to palbociclib, abemaciclib, or ribociclib)\n* Patients must not be using drugs or foods that are known potent CYP3A4 inhibitors or inducers, or are CYP3A substrates with narrow therapeutic indices",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "ECOG-ACRIN Cancer Research Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "timeFrame": "Tumor assessments occurred at baseline, then every 2 cycles for the first 26 cycles and every 3 cycles thereafter until disease progression, up to 3 years post registration",
+      "description": "ORR is defined as the percentage of patients whose tumors have a complete or partial response to treatment among analyzable patients. Objective response is defined consistent with Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. Details about how to define complete response and partial response can be found in the master protocol. 90% two-sided binomial exact confidence interval is calculated for ORR."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2017-03-22",
+  "completion_date": "2027-01-15",
+  "last_updated": "2026-03-24"
+}

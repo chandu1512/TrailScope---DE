@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT02549651",
+  "brief_title": "MEDI4736 Alone and in Combination With Tremelimumab or AZD9150 in Adult Subjects With Relapsed/Refractory DLBCL (D4190C00023)",
+  "official_title": "A Phase 1b Study to Evaluate the Safety and Efficacy of MEDI4736 as Monotherapy and in Combination With Tremelimumab or AZD9150 in Subjects With Relapsed or Refractory Diffuse Large B-cell Lymphoma.",
+  "brief_summary": "The purpose of this study is to evaluate the safety, tolerability, and efficacy of MEDI4736 (durvalumab) alone and in combination with either tremelimumab or AZD9150 in adult subjects with relapsed or refractory dIffuse large B-cell lymphoma.",
+  "detailed_description": "This is a multicenter, open-label, dose-escalation and dose-expansion study of MEDI4736 (durvalumab) as monotherapy or in combination with either tremelimumab or AZD9150. The objectives are to describe any dose-limiting toxicities, determine the maximum tolerated dose, and evaluate the safety, tolerability, efficacy, immunogenicity, pharmacokinetics, and pharmacodynamics of MEDI4736 as monotherapy or in combination with either tremelimumab or AZD9150 in adult subjects with relapsed or refractory diffuse large B-cell lymphoma.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 32,
+  "conditions": [
+    "Diffuse Large B-Cell Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "MEDI4736",
+      "type": "DRUG",
+      "description": "MEDI4736 is an anti-PD-L1 monoclonal antibody (MAb) administered via intravenous infusion"
+    },
+    {
+      "name": "tremelimumab",
+      "type": "DRUG",
+      "description": "Tremelimumab is an anti-CTLA4 monoclonal antibody (MAb) administered via intravenous infusion"
+    },
+    {
+      "name": "AZD9150",
+      "type": "DRUG",
+      "description": "AZD9150 is an antisense oligonucleotide (ASO) administered via intravenous infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age \u2265 18 years\n2. Subjects with histologically confirmed relapsed or refractory DLBCL who have received at least 1 prior rituximab containing chemotherapy regimen but no more than 5 prior lines of therapy\n3. Eastern Cooperative Group (ECOG) performance status of 0 or 1\n4. Measurable disease by International Working Group (IWG) response criteria for lymphoma\n5. Adequate organ and marrow function\n\nExclusion Criteria:\n\n1. Previous immune-mediated therapy\n2. Subjects with prior ASCT or allogenic HCT. Subjects ineligible for available curative options after failing ASCT and have met the hematologic criteria are eligible to participate in this study. Subjects with prior allogenic HCT will be excluded.\n3. Documented current central nervous system involvement\n\n3\\. Active or prior documented autoimmune or inflammatory disease within 3 years, with some exceptions 4. Concurrent or prior conventional or investigational anticancer therapy, within 28 days prior to the first dose of study medication(s)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of subjects reporting adverse events and number (percentage) of subjects reporting serious adverse events",
+      "timeFrame": "Screening through 90 days after the last dose of study medication",
+      "description": ""
+    },
+    {
+      "measure": "Number of subjects experiencing dose-limiting toxicities",
+      "timeFrame": "First dose of study medications through 28 days after the administration of MEDI4736 or MEDI4736 and tremelimumab, 35 days after administration of MEDI4736 and AZD9150",
+      "description": "Changes from baseline in laboratory parameters, vital signs, and ECGs"
+    }
+  ],
+  "sponsor": "MedImmune LLC",
+  "collaborators": [],
+  "start_date": "2016-07-13",
+  "completion_date": "2019-02-04",
+  "last_updated": "2019-02-26"
+}

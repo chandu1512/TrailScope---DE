@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT03711916",
+  "brief_title": "Post-Operative Outcomes of Low Thermal Dissection vs. Traditional Electrosurgery",
+  "official_title": "Pilot Study: Post-Operative Outcomes of Low Thermal Dissection vs. Traditional Electrosurgery for Mastectomy Breast Flap Creation With Immediate Breast Reconstruction",
+  "brief_summary": "Low thermal dissection devices have been introduced as a tool to improve surgical outcomes. PlasmaBlade, a low thermal dissection device, has shown to be associated with effective cutting, and significantly lower temperature than traditional electrosurgical dissection device. Thus, low thermal devices would improve flap perfusion by decreasing the thermal injury resulted by the dissection. Looking into the use of low thermal devices in cases of mastectomy and immediate breast reconstruction has not been documented. The aim of this study is to determine if there are clinical flap perfusion, surgical site drainage, and pain scores differences between mastectomy flaps created using low thermal dissection device and those done with the standard care of Bovie cautery in order to warrant a formal study.",
+  "detailed_description": "This is a single-blinded, randomized, controlled clinical trial comparing postoperative flap perfusion and surgical site drainage between patients randomized to breast flap creation by PlasmaBlade (low thermal dissection intervention) on one breast and by a Bovie cautery (Control) for the contralateral breast flap. Candidates will have elected to undergo bilateral post-mastectomy immediate breast reconstruction (IBR). Participants meeting inclusion criteria will be enrolled and baseline data collection completed prior to randomization and surgery.\n\nPatients and the plastic surgeon will be blinded in regards to intervention randomization. Only the oncology surgeon has knowledge of which device used for each breast flap. However, after the plastic surgeon makes the assessment of the flap, he/she will be unblinded in order to complete the reconstruction procedure using the same dissection device on the same side it was used for in the mastectomy procedure. Patient-specific surgical details will be recorded intraoperatively. Following the surgery, post-operative flap perfusion will be recorded using SPY imaging system. Surgical site drainage will be measured until drainage removal. Post-operative pain (Visual Analog Scale for Pain) and the occurrence of adverse events will be recorded up until discharge and 30-days postoperative follow up visit.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Breast Cancer",
+    "Mastectomy",
+    "Perfusion; Complications",
+    "Hemostasis"
+  ],
+  "interventions": [
+    {
+      "name": "PlasmaBlade 3.0S",
+      "type": "DEVICE",
+      "description": "PlasmaBlade (Medtronic) is approved by United States Food and Drug Administration (FDA) as a low thermal dissection device that has shown to be associated with effective cutting, and significantly lower temperature than traditional electrosurgical dissection devices."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Women aged 18-75 years.\n* Choose bilateral mastectomy followed by immediate breast reconstruction.\n* Have no inflammatory breast cancers.\n* Have not had radiotherapy before mastectomy.\n* Understand the study purpose, requirements, and risks.\n* Be able and willing to give informed consent.\n\nExclusion Criteria:\n\n* Active connective tissue disease.\n* History of, or plan to undergo irradiation of the breasts.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Bayview Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": ""
+    },
+    {
+      "facility": "Johns Hopkins Hospital Outpatient Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Perfusion",
+      "timeFrame": "Day of Surgery",
+      "description": "Plastic surgeon objectively assesses degree of perfusion with the SPY Perfusion Assessment system (intra-operative fluorescence imaging system). Plastic surgeon describes perfusion as Left better than Right, Right better than Left, or both sides equally perfused."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Medtronic"
+  ],
+  "start_date": "2017-03-17",
+  "completion_date": "2018-12-03",
+  "last_updated": "2019-06-17"
+}

@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT02163057",
+  "brief_title": "Study of HPV Specific Immunotherapy in Participants With HPV Associated Head and Neck Squamous Cell Carcinoma",
+  "official_title": "Prospective Study of HPV Specific Immunotherapy in Subjects With HPV Associated Head and Neck Squamous Cell Carcinoma (HNSCCa)",
+  "brief_summary": "This is a Phase I/IIa, open-label study to evaluate the safety, tolerability, and immunogenicity of INO-3112 DNA vaccine delivered by electroporation (EP) to participants with human papilloma virus (HPV) associated head and neck squamous cell cancer (HNSCC).",
+  "detailed_description": "This is a Phase I/IIa, open-label, study to evaluate the safety, tolerability, and immunogenicity of INO-3112 \\[6 mg of VGX-3100 (2 separate DNA plasmids respectively encoding E6 and E7 proteins of HPV 16 and HPV 18) and 1 mg of INO-9012 (DNA plasmid encoding human interleukin 12)\\] delivered by electroporation (EP) in up to 25 (twenty-five) participants with HPV positive head and neck cancer. The immunotherapy was studied in the following two groups of participants:\n\n1. Participants who received immunotherapy before and after definitive surgery (Cohort I)\n2. Participants who received immunotherapy at least 2 months after chemoradiation therapy (Cohort II).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 22,
+  "conditions": [
+    "Head and Neck Squamous Cell Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "INO-3112",
+      "type": "BIOLOGICAL",
+      "description": "1.1 mL of INO-3112 (VGX-3100 + INO-9012) delivered intramuscularly (IM) followed immediately by electroporation (EP) with CELLECTRA\u2122-5P device for a total of 4 doses of immunotherapy."
+    },
+    {
+      "name": "CELLECTRA\u2122-5P",
+      "type": "DEVICE",
+      "description": "CELLECTRA\u2122-5P device was used for EP following IM delivery of INO-3112 for a total of 4 doses of immunotherapy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Signed and dated written Ethics Committee approved informed consent.\n2. Age \u226518 years.\n3. Histologically confirmed HPV-positive (as assessed by p16 IHC or oncogenic HPV ISH or PCR) mucosal squamous cell head and neck cancer:\n\n   * For pre-surgical participants, p16 positivity must be confirmed prior to the first dose.\n   * For participants post-chemoradiation, HPV 16 and HPV 18 positivity must be confirmed prior to the first dose.\n4. Adequate bone marrow, hepatic, and renal function. ANC (Absolute Neutrophil Count) \u2265 1.5x109 cell/ml, platelets \u226575,000 cells/mm3, hemoglobin \u22659.0 g/dL, concentrations of total serum bilirubin within 1.5 x upper limit of normal (ULN), (Aspartate Aminotransferase) AST, (Alanine Aminotransferase) ALT within 2.5x institutional ULN, (Creatine Phosphokinase) CPK within 2.5 x ULN.\n5. ECOG (Eastern Cooperative Oncology Group) performance status of 0-1.\n\nExclusion Criteria:\n\n1. Anticipated concomitant immunosuppressive therapy (excluding non-systemic inhaled, topical skin and/or eye drop-containing corticosteroids).\n2. Any concurrent condition requiring the continued use of systemic steroids (\\>10 mg prednisone or equivalent per day) or the use of immunosuppressive agents. All other corticosteroids must be discontinued at least 4 weeks prior to Day 0 of treatment.\n3. Administration of any vaccine within 6 weeks of enrollment.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Treatment-Emergent Adverse Events (TEAEs) and Treatment-Emergent Serious Adverse Event (SAEs)",
+      "timeFrame": "Up to 6 months post last dose",
+      "description": "An adverse event (AE) is defined as any unfavorable and unintended change in the structure, function, or chemistry of the body, or worsening of a pre-existing condition, temporally associated with the use of a product whether or not considered related to the use of the product. TEAE is defined as any AE with onset after the administration of study medication through the end-of-study follow-up, or any event that was present at baseline but worsened in intensity or was subsequently considered treatment-related by the Investigator through the end of the study. Serious adverse event (SAE) is defined as an event that meets 1 of the following criteria: is fatal or life-threatening, results in persistent or significant disability or incapacity, constitutes a congenital anomaly or birth defect, is clinically meaningful or requires inpatient hospitalization or prolongation of existing hospitalization."
+    }
+  ],
+  "sponsor": "Inovio Pharmaceuticals",
+  "collaborators": [
+    "University of Pennsylvania"
+  ],
+  "start_date": "2014-08-13",
+  "completion_date": "2017-01-23",
+  "last_updated": "2021-01-04"
+}

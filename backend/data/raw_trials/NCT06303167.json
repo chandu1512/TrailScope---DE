@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT06303167",
+  "brief_title": "Testing AZD9291 as Potentially Targeted Treatment in Cancers With EGFR Genetic Changes (MATCH-Subprotocol E)",
+  "official_title": "MATCH Treatment Subprotocol E: Osimertinib (AZD9291) in Patients With Tumors Having EGFR T790M Mutations or Rare Activating Mutations of EGFR",
+  "brief_summary": "This phase II MATCH treatment trial evaluates the effectiveness of osimertinib (AZD9291) in treating patients with cancer that has certain genetic changes called EGFR mutations. Osimertinib is in a class of medications called kinase inhibitors. It works by blocking the action of mutant forms of the EGFR protein, which play a key role in tumor cell growth. Osimertinib may cause tumor cell death and inhibit tumor growth in EGFR-overexpressing tumor cells, thereby stopping or slowing the spread of tumor cells.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate the proportion of patients with objective response (OR) to targeted study agent(s) in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the proportion of patients alive and progression free at 6 months of treatment with targeted study agent in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nII. To evaluate time until death or disease progression. III. To identify potential predictive biomarkers beyond the genomic alteration by which treatment is assigned or resistance mechanisms using additional genomic, ribonucleic acid (RNA), protein and imaging-based assessment platforms.\n\nIV. To assess whether radiomic phenotypes obtained from pre-treatment imaging and changes from pre- through post-therapy imaging can predict objective response and progression free survival and to evaluate the association between pre-treatment radiomic phenotypes and targeted gene mutation patterns of tumor biopsy specimens.\n\nOUTLINE:\n\nPatients receive osimertinib (AZD9291) orally (PO) once daily (QD) on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo radiologic evaluation throughout the trial, echocardiography (ECHO) or multigated acquisition scan (MUGA) during screening, and biopsy and collection of blood samples on trial and at end of treatment.\n\nAfter completion of study treatment, patients are followed up every 3 months for 2 years and then every 6 months for 1 year.\n\nTHE MATCH SCREENING TRIAL:\n\nPlease see NCT02465060 for information on the MATCH Screening Protocol and applicable documents.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 19,
+  "conditions": [
+    "Advanced Lymphoma",
+    "Advanced Malignant Solid Neoplasm",
+    "Hematopoietic and Lymphoid Cell Neoplasm",
+    "Refractory Lymphoma",
+    "Refractory Malignant Solid Neoplasm",
+    "Refractory Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Biopsy Procedure",
+      "type": "PROCEDURE",
+      "description": "Undergo biopsy"
+    },
+    {
+      "name": "Biospecimen Collection",
+      "type": "PROCEDURE",
+      "description": "Undergo blood sample collection"
+    },
+    {
+      "name": "Echocardiography Test",
+      "type": "PROCEDURE",
+      "description": "Undergo ECHO"
+    },
+    {
+      "name": "Multigated Acquisition Scan",
+      "type": "PROCEDURE",
+      "description": "Undergo MUGA"
+    },
+    {
+      "name": "Osimertinib",
+      "type": "DRUG",
+      "description": "Given PO"
+    },
+    {
+      "name": "Radiologic Examination",
+      "type": "PROCEDURE",
+      "description": "Undergo radiologic evaluation"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have met applicable eligibility criteria in the Master MATCH Protocol EAY131/ NCI-2015-00054 prior to registration to treatment subprotocol\n* Patient must fulfill all eligibility criteria outlined in MATCH Master Protocol at the time of registration to treatment step (step 1, 3, 5, 7)\n* Patients must have either of the below, or another aberration, as determined via the MATCH Master Protocol:\n\n  * Any malignancy except non-small cell lung cancer (NSCLC) with EGFR T790M identified in their tumor, with or without an activating mutation OR\n  * Any malignancy harboring any of the following mutations: EGFR G719A, G719C, G719D, G719S EGFR L861Q, S786I or an EGFR exon 19 in frame insertion mutation\n* Patients must have an electrocardiogram (ECG) within 8 weeks prior to treatment assignment and must have no clinically important abnormalities in rhythm, conduction or morphology of resting ECG e.g. complete left bundle branch block, third degree heart block, and second-degree heart block\n* Patients must have an ECHO or a nuclear study (MUGA or first pass) within 4 weeks prior to registration and must not have a left ventricular ejection fraction (LVEF) \\< institutional lower limit of normal (LLN). If the LLN is not defined at a site, the LVEF must be \\> 50% for the patient to be eligible\n* Patients must not have known hypersensitivity to osimertinib (AZD9291) or compounds of similar chemical or biologic composition or any of the inactive excipients of the tablets\n* Patient must not have received osimertinib (AZD9291), WZ4002, CO-1686, HM61713, EGF816 or ASP8273 previously\n* Patients known to harbor germline EGFR T790M mutations are excluded from the study. Prospective testing for germline mutations is not required\n* Patients must not have a history of interstitial lung disease, idiopathic pulmonary fibrosis, organizing pneumonia (eg, bronchiolitis obliterans), drug-induced pneumonitis, idiopathic pneumonitis, radiation pneumonitis requiring steroids, or evidence of active pneumonitis on screening chest computerized tomography (CT) scan. History of radiation pneumonitis in the radiation field (fibrosis) is permitted\n* Patients must not currently be receiving treatment with potent CYP3A4 inducters or medications \"known to prolong\" the QT interval. Drugs that \"may possibly prolong\" the QT interval, are permitted if the patient has been stable on therapy for the period indicated for the specific medication\n* Patients must agree to not donate sperm from the start of protocol treatment until at least 4 months after the last dose of protocol treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "ECOG-ACRIN Cancer Research Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate",
+      "timeFrame": "Tumor assessments occurred at baseline, then every 2 cycles for the first 26 cycles and every 3 cycles thereafter until disease progression, up to 3 years post registration",
+      "description": "ORR is defined as the percentage of patients whose tumors have a complete or partial response to treatment among analyzable patients. Objective response is defined consistent with Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. Details about how to define complete response and partial response can be found in the master protocol. 90% two-sided binomial exact confidence interval is calculated for ORR."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2016-01-08",
+  "completion_date": "2027-01-15",
+  "last_updated": "2026-03-24"
+}

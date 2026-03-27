@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT06095505",
+  "brief_title": "A Study of Alisertib in Patients With Extensive Stage Small Cell Lung Cancer",
+  "official_title": "A Phase 2 Study of Alisertib in Patients With Extensive Stage Small Cell Lung Cancer",
+  "brief_summary": "PUMA-ALI-4201 is a Phase 2 study evaluating alisertib monotherapy in patients with pathologically-confirmed small cell lung cancer (SCLC) following progression on or after treatment with one platinum-based chemotherapy and anti-PD-L1 immunotherapy agent. Up to one additional systemic anti-cancer therapy for SCLC is allowed, for a total of up to two prior lines of therapy. This study is intended to identify the biomarker-defined subgroup(s) that may benefit most from alisertib treatment and to evaluate the efficacy, safety, and pharmacokinetics of alisertib.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 80,
+  "conditions": [
+    "Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Alisertib",
+      "type": "DRUG",
+      "description": "Alisertib enteric-coated tablets"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Aged \u226518 years at signing of informed consent\n* Pathologically confirmed SCLC\n* Prior treatment with one platinum-based chemotherapy and an anti-PD-L1 immunotherapy. Up to one additional systemic anti-cancer therapy for SCLC is allowed, for a total of up to two prior lines of therapy\n\nExclusion Criteria:\n\n* Prior treatment with an AURKA specific-targeted or pan-Aurora-targeted agent, including alisertib in any setting\n\nNote: There are additional inclusion and exclusion criteria. The study center will determine if you meet all of the criteria.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Greenebaum Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "WITHDRAWN"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective response rate (ORR) within biomarker-defined subgroup",
+      "timeFrame": "From date of first dose to first confirmed Complete or Partial Response, whichever came earlier, assessed up to 36 months",
+      "description": "Objective response rate is defined as the percentage of participants demonstrating a confirmed objective response during the study"
+    },
+    {
+      "measure": "Duration of response (DOR) within biomarker-defined subgroup",
+      "timeFrame": "From start date of response (after date of first dose) to first PD, assessed up to 36 months",
+      "description": "Duration of response is measured from the time at which measurement criteria are first met for CR or PR (whichever status is recorded first) until the first date of recurrence or progressive disease (PD) or death is objectively documented."
+    },
+    {
+      "measure": "Disease Control Rate (DCR) within biomarker-defined subgroup",
+      "timeFrame": "From date of first dose to first confirmed Complete or Partial Response, whichever came earlier, assessed up to 36 months",
+      "description": "Disease control rate is the proportion of patients who achieve overall tumor response (confirmed CR or PR) or SD lasting for at least 8 weeks from first dose of investigational product."
+    },
+    {
+      "measure": "Progression Free Survival (PFS) within biomarker-defined subgroup",
+      "timeFrame": "From date of first dose to date of recurrence, progression or death, assessed up to 36 months",
+      "description": "Progression Free Survival (PFS) is measured in months and based on the local tumor assessment. The time interval from the date of first dose until the first date on which recurrence, progression, or death due to any cause, is documented."
+    },
+    {
+      "measure": "Overall Survival (OS) within biomarker-defined subgroup",
+      "timeFrame": "From date of first dose to death, assessed up to 36 months",
+      "description": "Overall survival (OS) is defined as the time from date of first dose to death due to any cause, censored at the last date known alive on or prior to the data cutoff employed for the analysis, whichever was earlier."
+    }
+  ],
+  "sponsor": "Puma Biotechnology, Inc.",
+  "collaborators": [],
+  "start_date": "2024-02-08",
+  "completion_date": "2027-10-31",
+  "last_updated": "2026-02-12"
+}

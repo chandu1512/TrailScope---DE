@@ -1,0 +1,94 @@
+{
+  "nct_id": "NCT04987203",
+  "brief_title": "Study to Compare Tivozanib in Combination With Nivolumab to Tivozanib Monotherapy in Subjects With Renal Cell Carcinoma",
+  "official_title": "TiNivo-2: A Phase 3, Randomized, Controlled, Multicenter, Open-label Study to Compare Tivozanib in Combination With Nivolumab to Tivozanib Monotherapy in Subjects With Renal Cell Carcinoma Who Have Progressed Following One or Two Lines of Therapy Where One Line Has an Immune Checkpoint Inhibitor",
+  "brief_summary": "This study will be comparing tivozanib in combination with nivolumab to tivozanib alone in subjects with advanced Renal Cell Carcinoma (RCC) who have had 1 or 2 prior lines of therapy, one of which was an Immune Checkpoint Inhibitor (ICI).",
+  "detailed_description": "This will be an open-label, randomized, controlled, multicenter, multi-national, parallel-arm study. The study is designed to compare the progression free survival (PFS), overall survival (OS), Objective response rate (ORR), duration of response (DoR), and safety of tivozanib and the combination of tivozanib with nivolumab.\n\nApproximately 326 subjects with refractory advanced RCC at approximately 190 sites will be randomized in a 1:1 ratio to treatment with tivozanib plus nivolumab (163 subjects) or tivozanib (163 subjects). Subjects will be randomly assigned to a treatment.\n\nSubjects will receive 1.34 mg/day (monotherapy arm) or 0.89mg/day (combination arm) of tivozanib once daily (QD) for 3 weeks followed by 1 week off study drug. One cycle will be defined as 4 weeks: 3 weeks on treatment and 1 week off treatment. Subjects who receive nivolumab will be infused with 1 treatment of nivolumab at specified dose on specified days of each Cycle.\n\nSubjects with documented stable disease or an objective response may continue to receive both tivozanib and nivolumab therapy at the same dose and schedule until progression as long as the tolerability is acceptable. Nivolumab will be discontinued in all subjects after 2 years; Tivozanib may be continued after discontinuation of nivolumab until other withdrawal criteria are met. A Safety Follow-up Visit will be performed 30 days (\u00b1 7 days) after the last dose of study drug.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 343,
+  "conditions": [
+    "Renal Cell Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Tivozanib",
+      "type": "DRUG",
+      "description": "Tivozanib will be administered orally."
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Nivolumab will be administered via intravenous infusion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Radiographic disease progression during or following at least 6 weeks of treatment with ICI for locally advanced or metastatic RCC with a clear cell component either in first- or second-line treatment.\n* Subjects must have recovered from the adverse events of prior therapy to grade \u2264 1 or baseline.\n* Histologically or cytologically confirmed RCC with a clear cell component.\n* Measurable disease per RECIST criteria Version 1.1.\n* Eastern Cooperative Oncology Group performance status of 0 or 1.\n* All participants must follow protocol defined contraceptive measures.\n\nExclusion Criteria:\n\n* Subjects who received: a. A single agent tyrosine kinase inhibitor (TKI) in the first line setting followed by a single agent immune checkpoint inhibitor (ICI) in the second line setting; b. More than 2 prior lines of therapy in the advanced or metastatic setting.\n* History of life-threatening toxicity related to prior immune therapy.\n* Active autoimmune disease as well as those that required discontinuation of prior immuno-oncological (IO) therapy due to immune mediated AEs.\n* Uncontrolled hypertension.\n* More than 1 prior line of therapy with a checkpoint inhibitor in the metastatic setting.\n* Subjects on immune suppressive therapy for organ transplant or subjects with a history of genetic or acquired immune suppression disease such as human immunodeficiency virus (HIV) \\[Patients with HIV who have CD4+ T-cell counts \\>350 cells/\u00b5L, without a history of acquired immune deficiency syndrome (AIDS)-defining opportunistic infections, and are on established antiretroviral therapy which does not include a cytochrome P450 (CYP)3A4 inducer, for at least 4 weeks and have an HIV viral load less than 400 copies/mL, are eligible\\].\n* History of clinically significant interstitial lung disease or current non-infectious pneumonitis.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Medical Center-Greenebaum Cancer Ctr",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "John Hopkins Medicine - Hematology/oncology",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Maryland Oncology Hematology",
+      "city": "Clinton",
+      "state": "Maryland",
+      "zip": "20735",
+      "status": ""
+    },
+    {
+      "facility": "Memorial Sloan Kettering Cancer Center - Monmouth - Oncology",
+      "city": "Middletown",
+      "state": "New Jersey",
+      "zip": "07748-3052",
+      "status": ""
+    },
+    {
+      "facility": "Lehigh Valley Physician Group",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103-6218",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny General Hospital (AGH)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212-4756",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression free survival",
+      "timeFrame": "Until progressive disease [PD] (Approximately 30 months)",
+      "description": "Comparison of the PFS of tivozanib in combination with nivolumab to tivozanib in subjects with RCC who have progressed following 1 or 2 lines of therapy. PFS is defined as the time from randomization to first documentation of objective tumor progression (progressive disease \\[PD\\], radiological) according to Response Evaluation Criteria In Solid Tumors (RECIST), or death due to any reasons whichever comes first."
+    }
+  ],
+  "sponsor": "AVEO Pharmaceuticals, Inc.",
+  "collaborators": [
+    "Parexel",
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2021-09-09",
+  "completion_date": "2025-12-30",
+  "last_updated": "2025-08-20"
+}

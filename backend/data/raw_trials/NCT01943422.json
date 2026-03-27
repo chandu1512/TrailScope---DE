@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT01943422",
+  "brief_title": "Safety and Efficacy Study of Vemurafenib and High-dose Interferon Alfa-2b in Melanoma",
+  "official_title": "Dose-seeking and Efficacy Study of the Combination of the BRAF Inhibitor Vemurafenib and High-dose Interferon Alfa-2b for Therapy of Advanced Melanoma",
+  "brief_summary": "This is a dose-seeking and efficacy study of combined BRAF Inhibitor Vemurafenib and High-dose Interferon alfa-2b for therapy of advanced melanoma.",
+  "detailed_description": "* Dose-selection and dose-expansion study of combination therapy with high-dose interferon alfa-2b and vemurafenib.\n* Vemurafenib at standard dosing with a 2 week lead-in period to exploit potential immunomodulatory effects. Concurrent HDI following this (week 2 onwards) at standard induction (4 weeks) and maintenance (48 weeks) doses.\n* Modified Storer's \"up and down\" dose escalation schema using 3 fixed dose levels for HDI and a fixed sample size that allows efficient identification of recommended phase II dose.\n* 36-63 patients will be enrolled depending on toxicity parameters. oIn the dose-selection portion, 3 patients will be enrolled per dose level, starting from the lowest dose level. Enrollment will occur serially allowing for the observation of toxicity during the observation period.\n\noIterative enrollment of up to 3 subjects per cohort will be continued until a total of 30 evaluable subjects have been enrolled.\n\noThe dose level at which the RLT rate is the closest to 1/3 will be considered as RP2D.\n\noDuring the dose-expansion portion of the trial, depending on the number of patients treated at RP2D during the dose-selection portion, additional patients may be enrolled - the accrual target is 36 patients treated at RP2D.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 7,
+  "conditions": [
+    "Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "High-dose Interferon alfa-2b",
+      "type": "DRUG",
+      "description": "\u2022Vemurafenib at standard dosing with a 2 week lead-in period to identify potential effects. IFN\u03b1-2b following this (week 2 onwards) at standard induction (4 weeks) and maintenance (48 weeks) doses."
+    },
+    {
+      "name": "Vemurafenib",
+      "type": "DRUG",
+      "description": "Vemurafenib is a prescription medicine used to treat melanoma, that has spread to other parts of the body or cannot be removed by surgery, and that has a certain type of abnormal \"BRAF\" gene."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have a written informed consent.\n* 18 years of age.\n* Patients must have histologically confirmed recurrent stage III or stage IV melanoma (AJCC 7th edition classification).\n* BRAF V600E and V600K mutated\n* Cutaneous squamous cell carcinomas (SCC) lesions identified at baseline must be excised. Adequate wound healing is required prior to study entry.\n* Patients must have measurable disease as defined by the Response Evaluation Criteria in Solid Tumors v1.1.\n* Patients must have adequate hematologic, renal, and liver function:\n\n  * WBC \u2265 3,000/mm3\n  * ANC \u2265 1500\n  * Hb \u2265 9g/dL (women) or \u2265 11g/dL (men) (supportive transfusions will be allowed during induction and maintenance phases to maintain these levels)\n  * Platelets \u2265 100,000/mm3 (supportive transfusions will be allowed during induction and maintenance phases to maintain these levels)\n  * Serum Creatinine \u2264 1.5 x upper limit of normal (ULN)\n  * Serum Bilirubin \u2264 1.5 x ULN\n  * Serum AST/ALT \u2264 2.5 x ULN\n* EKG documenting normal intervals.\n* Fully recovered from any effects of major surgery, and be free of significant detectable infection.\n* ECOG performance status of 0 or 1.\n* Free of active brain metastases by contrast-enhanced CT/MRI scans within 4 weeks prior to starting the study drugs.\n* Female patients of child bearing potential must have a negative pregnancy test (within 7 days from the time of randomization).\n\nExclusion Criteria:\n\n* Serious illnesses, such as: cardiovascular disease (uncontrolled congestive heart failure, uncontrolled hypertension, cardiac ischemia, myocardial infarction, and severe cardiac arrhythmia), bleeding disorders, symptomatic autoimmune diseases, severe obstructive or restrictive pulmonary diseases, uncontrolled endocrine disorders (hypothyroidism, hyperthyroidism and diabetes mellitus), retinopathy, active systemic infections, and inflammatory bowel disorders. This includes known HIV or AIDS-related illness, or active HBV and HCV.\n* Prior therapy (except for adjuvant immunotherapy) with a BRAF and/or MEK and/or ERK inhibitors.\n* Refractory nausea, vomiting, small bowel resection or any other gastrointestinal ailment that would preclude study drug absorption.\n* Cardiac abnormalities\n\n  * Mean QTc interval \u2265 480 msec at screening.\n  * Recent ACS/AMI - defined as within 24 weeks prior to screening.\n  * Recent PCI/PTCA - defined as within 24 weeks prior to screening.\n  * Recent malignant cardiac arrhythmias - all except sinus arrhythmia within 24 weeks prior to screening.\n  * Symptomatic heart failure - NYHA Class \u2265 II symptoms.\n* Active infection or antibiotics within one-week prior to study, including unexplained fever Any significant psychiatric disease, medical intervention, or other condition, which in the opinion of the principal investigator, could prevent adequate informed consent or compromise participation in the clinical trial.\n* Systemic steroid or other immunosuppressive therapy within 4 weeks of starting the study.\n* Lactating females or pregnant females.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants with Adverse Events to determine Ph II dose",
+      "timeFrame": "12-24 months from study start",
+      "description": "At each dose level, the number of patients experiencing Adverse Events over their course of treatment will be characterized by type of Adverse Event and grade using NCI CTCAE (v4.0), and by time of onset in relation to the first day of therapy."
+    }
+  ],
+  "sponsor": "John Kirkwood",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2013-10",
+  "completion_date": "2016-12",
+  "last_updated": "2018-04-01"
+}

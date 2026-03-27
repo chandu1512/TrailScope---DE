@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT04150497",
+  "brief_title": "Phase 1/2 Study of UCART22 in Patients With Relapsed or Refractory CD22+ B-cell Acute Lymphoblastic Leukemia (BALLI-01)",
+  "official_title": "Open Label Dose-escalation and Dose-expansion Study to Evaluate the Safety, Expansion, Persistence and Clinical Activity of UCART22 (Allogeneic Engineered T-cells Expressing Anti-CD22 Chimeric Antigen Receptor) in Patients With Relapsed or refractoryCD22+ B-cell Acute Lymphoblastic Leukemia (B-ALL)",
+  "brief_summary": "This is a first-in-human, open-label, dose escalation and expansion study of UCART22 administered intravenously to patients with relapsed or refractory B-cell acute Lymphoblastic Leukemia (B-ALL). The purpose of this study is to evaluate the safety and clinical activity of UCART22 and determine the Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (RP2D)",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 52,
+  "conditions": [
+    "B-cell Acute Lymphoblastic Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "UCART22",
+      "type": "BIOLOGICAL",
+      "description": "Allogeneic engineered T-cells expressing anti-CD22 Chimeric Antigen Receptor given following a lymphodepleting regimen"
+    },
+    {
+      "name": "CLLS52",
+      "type": "BIOLOGICAL",
+      "description": "A monoclonal antibody that recognizes a CD52 antigen"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* B-ALL blast cells expressing CD22\n* Diagnosed with R/R B-ALL\n* Prior therapy must include at least one standard chemotherapy regimen and at least one salvage regimen\n\nExclusion Criteria:\n\n-Prior cellular therapy or investigational cellular or gene therapy within 90 days prior to enrollment",
+    "gender": "ALL",
+    "min_age": "15 Years",
+    "max_age": "50 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of AE/SAE/DLT [Safety and Tolerability]",
+      "timeFrame": "24 Months",
+      "description": "Incidence, nature, and severity of adverse events and serious adverse events (SAEs) throughout the study in relation to UCART22 and/or lymphodepletion"
+    },
+    {
+      "measure": "Dose escalation part: Occurrence of Dose Limiting Toxicities (DLTs)",
+      "timeFrame": "Up to D28 post initial UCART22 infusion",
+      "description": ""
+    }
+  ],
+  "sponsor": "Cellectis S.A.",
+  "collaborators": [],
+  "start_date": "2019-10-14",
+  "completion_date": "2026-06-30",
+  "last_updated": "2025-09-08"
+}

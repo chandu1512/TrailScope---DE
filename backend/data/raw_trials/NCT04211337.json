@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT04211337",
+  "brief_title": "A Study of Selpercatinib (LY3527723) in Participants With RET-Mutant Medullary Thyroid Cancer",
+  "official_title": "A Multicenter, Randomized, Open-label, Phase 3 Trial Comparing Selpercatinib to Physicians Choice of Cabozantinib or Vandetanib in Patients With Progressive, Advanced, Kinase Inhibitor Na\u00efve, RET-Mutant Medullary Thyroid Cancer (LIBRETTO-531)",
+  "brief_summary": "The reason for this study is to see if the study drug selpercatinib is safe and more effective compared to a standard treatment in participants with rearranged during transfection (RET)-mutant medullary thyroid cancer (MTC) that cannot be removed by surgery or has spread to other parts of the body. Participants who are assigned to the standard treatment and discontinue due to progressive disease have the option to potentially crossover to selpercatinib.",
+  "detailed_description": "Adaptive sample size re-estimation will be performed at interim analysis. The sample size could be increased from approximately 250 to 400 depending on the results of interim analysis.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 291,
+  "conditions": [
+    "Medullary Thyroid Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Selpercatinib",
+      "type": "DRUG",
+      "description": "Administered orally"
+    },
+    {
+      "name": "Cabozantinib",
+      "type": "DRUG",
+      "description": "Administered orally"
+    },
+    {
+      "name": "Vandetanib",
+      "type": "DRUG",
+      "description": "Administered orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "* At least 18 years of age (participants as young as 12 years of age will be allowed if permitted by local regulatory authorities).\n* Histologically or cytologically confirmed, unresectable, locally advanced and/or metastatic MTC and no prior history of treatment with kinase inhibitors for advanced/metastatic disease.\n* Radiographic progressive disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 at screening compared with a previous image taken within the prior 14 months as assessed by the BICR. Participants with measurable or non-measurable but evaluable disease are eligible; however, participants with non-measurable disease may not have disease limited to bone sites only.\n* A defined/acceptable RET gene alteration identified in a tumor, germline deoxyribonucleic acid (DNA) or blood sample.\n\n  * Tumor tissue in sufficient quantity to allow for retrospective central analysis of RET mutation status\n* Eastern Cooperative Oncology Group performance status score of 0 to 2.\n* Adequate hematologic, hepatic, and renal function and electrolytes.\n* Men and women of childbearing potential must agree to use a highly effective contraceptive method during treatment with study drug and for 4 months following the last dose of study drug.\n* Ability to swallow capsules.\n\nExclusion Criteria:\n\n* An additional validated oncogenic driver in MTC if known that could cause resistance to selpercatinib treatment. Examples include, but are not limited to RAS or BRAF gene mutations and NTRK gene fusions.\n* Symptomatic central nervous system (CNS) metastases, leptomeningeal carcinomatosis, or untreated spinal cord compression.\n* Clinically significant active cardiovascular disease or history of myocardial infarction within 6 months, history of Torsades de pointes, or prolongation of the QTcF \\>470 milliseconds on more than one electrocardiogram (ECG) during screening. Participants who are intended to receive vandetanib if randomized to the control arm are ineligible if QTcF is \\>450 milliseconds.\n* Active uncontrolled systemic bacterial, viral, or fungal infection or serious ongoing uncontrolled intercurrent illness.\n* Active hemorrhage or at significant risk for hemorrhage.\n* Other malignancy unless nonmelanoma skin cancer, carcinoma in situ or malignancy diagnosed \u22652 years previously and not currently active. Participants with multiple endocrine neoplasia type 2 (MEN2) associated pheochromocytoma may be eligible.",
+    "gender": "ALL",
+    "min_age": "12 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19114",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS) by Blinded Independent Central Review (BICR)",
+      "timeFrame": "Baseline to Progressive Disease or Death from Any Cause, Whichever Occurs First, Up to 39 Months",
+      "description": "PFS is defined as the time from randomization until the occurrence of documented disease progression by the BICR, per Response Evaluation Criteria in Solid Tumors (RECIST 1.1) criteria, or death from any cause in the absence of BICR-documented progressive disease.\n\nProgressive Disease (PD) was at least a 20% increase in the sum of the diameters of target lesions, with reference being the smallest sum and an absolute increase of at least 5 mm, or unequivocal progression of non-target lesions, or 1 or more new lesions."
+    }
+  ],
+  "sponsor": "Loxo Oncology, Inc.",
+  "collaborators": [
+    "Eli Lilly and Company"
+  ],
+  "start_date": "2020-02-11",
+  "completion_date": "2027-11",
+  "last_updated": "2026-03-02"
+}

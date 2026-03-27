@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT00733746",
+  "brief_title": "Gemcitabine and Erlotinib Before and After Surgery in Treating Patients With Pancreatic Cancer That Can Be Removed by Surgery",
+  "official_title": "A Phase II Study of Preoperative Gemcitabine and Erlotinib Plus Pancreatectomy and Postoperative Gemcitabine and Erlotinib for Patients With Operable Pancreatic Adenocarcinoma",
+  "brief_summary": "PURPOSE: This phase II trial is studying how well gemcitabine and erlotinib work when given before and after surgery in treating patients with pancreatic cancer that can be removed by surgery. Drugs used in chemotherapy, such as gemcitabine, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Erlotinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving gemcitabine and erlotinib before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed. Giving these drugs after surgery may kill any tumor cells that remain after surgery.",
+  "detailed_description": "This is a single arm, non-randomized phase II study. Eligible, fully registered patients will receive preoperative chemotherapy consisting of gemcitabine plus erlotinib. Preoperative chemotherapy will be followed by exploratory laparotomy and pancreaticoduodenectomy. Patients will then receive postoperative chemotherapy consisting of gemcitabine plus erlotinib. Up to 123 patients will be accrued to this study, with the expectation that 78 patients will remain fully eligible and evaluable for the primary endpoint. The primary and secondary objectives for the study are listed below.\n\nPrimary Objective:\n\nTo estimate the proportion of patients alive at two years from the date of registration\n\nSecondary Objectives:\n\n1. To determine the resection rate (defined as the fraction of patients who proceed to planned surgery with removal of primary tumor \\[R0/R1\\]) following induction treatment with gemcitabine plus erlotinib\n2. To estimate the time to disease progression/relapse\n3. To evaluate the rate of R0, R1, and R2 resections (defined as per the 6th edition of the AJCC Cancer Staging Manual) in patients treated with preoperative gemcitabine plus erlotinib chemotherapy\n4. To evaluate the toxicity profile of preoperative gemcitabine plus erlotinib and the feasibility of postoperative gemcitabine plus erlotinib\n5. To evaluate response rates to preoperative chemotherapy for patients treated with preoperative gemcitabine and erlotinib\n6. To identify molecular predictors of pancreatic cancer response to gemcitabine combined with erlotinib\n7. To identify genetic profiles of pancreatic adenocarcinoma that may be associated with response to neoadjuvant therapy\n\nAfter completion of postoperative chemotherapy treatment, patients are followed every 3 months for 2 years and then every 6 months for 2 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 123,
+  "conditions": [
+    "Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "erlotinib hydrochloride",
+      "type": "DRUG",
+      "description": "oral administration"
+    },
+    {
+      "name": "gemcitabine hydrochloride",
+      "type": "DRUG",
+      "description": "Intravenous administration"
+    },
+    {
+      "name": "therapeutic conventional surgery",
+      "type": "PROCEDURE",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Eligibility Criteria:\n\n1. Cytologic or histologic proof of adenocarcinoma of the pancreatic head or uncinate process.\n\n   NOTE: Patients with tumors of the pancreatic neck, body or tail are not eligible. Patients with evidence of neuroendocrine tumors, duodenal adenocarcinoma, or ampullary adenocarcinoma are not eligible.\n2. Localized, potentially resectable tumors as defined below. All patients must be staged with a chest X-ray or CT, and abdominal CT (contrast-enhanced, helical thin-cut) or MRI. Radiological resectability is defined by the following criteria on abdominal imaging:\n\n   * No evidence of tumor extension to the celiac axis, hepatic artery, or superior mesenteric artery\n   * No evidence of tumor encasement or occlusion of the superior mesenteric vein (SMV) or the SMV/portal vein confluence\n   * No evidence of visceral or peritoneal metastases\n\n   NOTE: Patients with borderline resectable or marginally resectable pancreatic cancer are not eligible. Patients must meet all objective imaging criteria outlined above.\n3. \u2265 18 years of age\n4. ECOG/Zubrod performance status of 0 or 1\n5. Baseline weight loss \u2264 15% of premorbid weight\n6. Patient must have adequate hematologic, renal, and hepatic function as defined by:\n\n   * WBC \u2265 2,000 cells/mm\u00b3\n   * ANC \u2265 1,500 cells/mm\u00b3\n   * Platelets \u2265 100,000 cells/mm\u00b3\n   * Serum bilirubin \u2264 2.5 mg/dL\n   * Serum creatinine \u2264 1.5 mg/dL or a calculated creatinine clearance of \u2265 50 ml/min (24 hour urine collection)\n   * ALT \\< 2.5 times upper limit of normal (ULN)\n   * AST \\< 2.5 times ULN\n   * Albumin \u2265 3.2 g/dl\n7. No history of the following:\n\n   * Prior EGFR targeted therapy or therapy for pancreatic cancer\n   * Active infection requiring intravenous antibiotics at the time of registration\n8. Non-pregnant and non-breast feeding. Female participants of child bearing potential must have a negative urine or serum pregnancy test prior to registration. Perimenopausal participants must be amenorrheic \u2265 12 months to be considered not of childbearing potential. All patients of reproductive potential must agree to use an effective method of birth control while receiving study therapy.\n9. No prior malignancy within 5 years of registration (Exceptions: non-melanoma skin cancer, in-situ cancers)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Alvin and Lois Lapidus Cancer Institute at Sinai Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21215",
+      "status": ""
+    },
+    {
+      "facility": "St. Agnes Hospital Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21229",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival at 2 Years",
+      "timeFrame": "At 2 years post-registration",
+      "description": "The primary endpoint of this trial is 2-year overall survival, which will be evaluated as the proportion of treatment successes. A treatment success is defined to be an evaluable patient who is alive at two years from the date of registration."
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "OSI Pharmaceuticals",
+    "Astellas Pharma Inc"
+  ],
+  "start_date": "2009-04",
+  "completion_date": "2019-06-15",
+  "last_updated": "2019-10-04"
+}

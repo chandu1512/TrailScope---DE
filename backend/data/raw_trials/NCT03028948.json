@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT03028948",
+  "brief_title": "Interactive Tailored Website to Promote Sun Protection and Skin Self-Check Behaviors in Patients With Melanoma",
+  "official_title": "Internet Intervention for Sun Protection and Skin Self-check Behaviors",
+  "brief_summary": "This clinical trial studies how well an interactive tailored website works in promoting sun protection and skin self-check behaviors in patients with stage 0-III melanoma. An internet-based program may help individuals to perform skin self-checks and engage in sun protection behaviors.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To evaluate the impact of the interactive tailored website (ITW) versus usual care on skin self-examination (SSE) and sun protection behaviors among individuals diagnosed with melanoma.\n\nSECONDARY OBJECTIVES:\n\nI. To examine mediators of the impact of the intervention. The effects of the intervention on SSE and sun protection behaviors will be mediated by melanoma knowledge, self-efficacy for SSE and sun protection behaviors, perceived benefits of SSE and sun protection behaviors, perceived barriers to SSE and sun protection behaviors, and perceived controllability of melanoma.\n\nTERTIARY OBJECTIVES:\n\nI. To examine moderators of the impact of the intervention. To evaluate whether ITW effects are moderated by the following factors: time since diagnosis, disease stage, age, sex, income, education, Internet experience, distress about melanoma, worry about recurrence, and evaluation and usage of the ITW.\n\nOUTLINE:\n\nPhase I: Patients review draft website content materials in a semi-structured format and provide feedback via open- and closed-ended questions for the development, testing, and finalization of ITW.\n\nPhase II: Patients are randomized into 1 of 2 arms.\n\nARM I: Patients access ITW and complete each module over 30-40 minutes.\n\nARM II: Patients receive usual care and are then offered ITW.\n\nAll patients in Phase II complete surveys over 20-40 minutes at 8, 24, and 48 weeks.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 485,
+  "conditions": [
+    "Stage 0 Skin Melanoma",
+    "Stage I Skin Melanoma",
+    "Stage IA Skin Melanoma",
+    "Stage IB Skin Melanoma",
+    "Stage II Skin Melanoma",
+    "Stage IIA Skin Melanoma",
+    "Stage IIB Skin Melanoma",
+    "Stage IIC Skin Melanoma",
+    "Stage III Skin Melanoma",
+    "Stage IIIA Skin Melanoma",
+    "Stage IIIB Skin Melanoma",
+    "Stage IIIC Skin Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Internet-Based Intervention",
+      "type": "OTHER",
+      "description": "Access ITW"
+    },
+    {
+      "name": "Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "Survey Administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Phase I: Diagnosis of primary pathologic stage 0-III cutaneous malignant melanoma\n* Phase I: From 3-36 months post-surgical treatment\n* Phase I: Access to the internet\n* Phase I: Able to speak and read English\n* Phase I: Able to provide informed consent\n* Phase II: Diagnosis of primary pathologic stage 0-III cutaneous malignant melanoma\n* Phase II: From 3-24 months post-surgical treatment\n* Phase II: Not adherent to thorough SSE (i.e., did not check every area of the body at least once during the past 2 months)\n* Phase II: Not adherent to sun protection recommendations (i.e., mean score \\< 4 \\[which corresponds to \"often\"\\] on a 5-point scale \\[from 1 = \"never\" to 5 = \"always\"\\] that assesses the frequency of engaging in four sun protection behaviors)\n* Phase II: Access to a computer connected to the internet\n* Phase II: Able to speak and read English\n* Phase II: Able to provide informed consent",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Sun Protection Behavior Index",
+      "timeFrame": "At 24 weeks",
+      "description": "Participants rated how often they engaged in four behaviors when outside on a sunny day: wearing sun screen with an Sun Protection Factor \u2265 30, wearing a long-sleeved shirt, wearing a wide-brimmed hat, and staying in the shade. Items were rated on a five-point Likert scale (1=never, 2= rarely, 3= sometimes, 4= often, 5=always). In this case, higher values are associated with more protection behaviors. Subscales were averaged to compute the total index score."
+    },
+    {
+      "measure": "Number of Participants That Performed a Thorough Skin Self-examination (SSE) in the Past 2 Months",
+      "timeFrame": "8 weeks",
+      "description": "Defined as thoroughly examining each area of the body during the most recent skin self-check in the last 2 months."
+    }
+  ],
+  "sponsor": "Rutgers, The State University of New Jersey",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "University of Virginia"
+  ],
+  "start_date": "2017-01-13",
+  "completion_date": "2020-08-29",
+  "last_updated": "2025-12-22"
+}

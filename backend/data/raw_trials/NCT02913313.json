@@ -1,0 +1,115 @@
+{
+  "nct_id": "NCT02913313",
+  "brief_title": "A Study of BMS-986207 Given Alone and in Combination With Nivolumab or With Nivolumab and Ipilimumab in Advanced Solid Tumors",
+  "official_title": "Phase 1/2a First-In-Human Study of BMS-986207 Monoclonal Antibody Alone and in Combination With Nivolumab or With Nivolumab and Ipilimumab in Advanced Solid Tumors",
+  "brief_summary": "The purpose of this study is to evaluate the safety and effectiveness of experimental medication BMS-986207 by itself, in combination with Nivolumab, and in combination with both nivolumab and ipilimumab in participants with solid cancers that are advanced or have spread.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 101,
+  "conditions": [
+    "Broad Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "BMS-986207",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Ipilimumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Must have pre-existing or prior programmed death-ligand 1 (PD-L1) immunohistochemistry (IHC) results within 3 months of enrollment from testing of tumor tissue; PD-L1 expression must be tumor cell positive \u2265 1% for a participant to be eligible for enrollment\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Measurable disease by computed tomography (CT) or magnetic resonance imaging (MRI) per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 criteria; radiographic tumor assessment performed within 28 days before randomization\n\nExclusion Criteria:\n\n* Primary central nervous system (CNS) disease, or tumors with CNS metastases as the only site of disease. Controlled brain metastases will be allowed to enroll\n* Other active malignancy requiring concurrent intervention\n* Uncontrolled or significant cardiovascular disease\n* Active, known, or suspected autoimmune disease\n* NSCLC without prior treatment in the advanced or metastatic setting (Part 2C)\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0001",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0012",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0002",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0009",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Adverse Events",
+      "timeFrame": "From first dose (Day 1) untill 100 days after last dose (Up to approximately 27 months)",
+      "description": "An Adverse Event (AE) is defined as any new untoward medical occurrence or worsening of a pre-existing medical condition in a clinical investigation participant administered study treatment and that does not necessarily have a causal relationship with this treatment. A Serious Adverse Event (SAE) is defined as any untoward medical occurrence that, at any dose results in death, is life-threatening, requires inpatient hospitalization or causes prolongation of existing hospitalization."
+    },
+    {
+      "measure": "Number of Participants Who Died",
+      "timeFrame": "From first dose (Day 1) untill 100 days after last dose (Up to approximately 27 months)",
+      "description": "Participants who died with any cause are considered in the analysis."
+    },
+    {
+      "measure": "Part 1A, 1B and 1C and 2A: Number of Participants With Dose Limiting Toxicities",
+      "timeFrame": "From first dose (Day 1) and up to 6 weeks",
+      "description": "Criteria for Dose-Limiting Toxicities (DLTs): Hepatic DLTs (excluding HCC): Grade (Gr) 4 elevations in AST, ALT, ALP, or total bilirubin. Gr 3 elevations in AST, ALT, or ALP \\>5 days, with symptoms, or bilirubin \\>2xULN without cholestasis. Gr 2 AST or ALT with symptomatic liver inflammation. AST or ALT \\>3xULN and bilirubin \\>2xULN without cholestasis. Hepatic DLTs for HCC: AST or ALT \\>10xULN for \\>2 weeks. AST or ALT \\>15xULN. Total bilirubin \\>8xULN (elevated at entry) or \\>5xULN (normal at entry). ALT \u226510xULN and bilirubin \u22652xULN or baseline, without other causes. Hematologic DLTs: Gr 4 neutropenia \u22657 days. Gr 4 thrombocytopenia. Gr 3 thrombocytopenia with bleeding or platelet transfusion. Febrile neutropenia. Gr 3 hemolysis requiring intervention. Gr 4 anemia not due to underlying disease. Dermatologic DLTs: Gr 4 rash. Gr 3 rash not improving to \u2264Gr 1 after 1-2 week delay. Other DLTs: Gr 2-4 eye issues, Gr 3-4 toxicities, excluding specific Gr 3 events like nausea, fever."
+    },
+    {
+      "measure": "Part 1A, 1B and 1C and 2A: Number of Participants With Grade 3/Grade 4 Laboratory Abnormalities",
+      "timeFrame": "From first dose (Day 1) till 100 days after last dose (Up to approximately 27 months)",
+      "description": "Blood samples were collected to assess the abnormalities in laboratory parameters. The laboratory parameters were graded by Common Terminology Criteria for Adverse Events (CTCAE). Grade 3=Severe; Grade 4=Life-threatening."
+    },
+    {
+      "measure": "Part 2C: Objective Response Rate (ORR)",
+      "timeFrame": "From first dose (Day 1) and up to 24 weeks",
+      "description": "ORR is defined as the percentage of participants with a confirmed Best overall response of Complete Response (CR) or Partial Response (PR) by RECIST v1.1.\n\nComplete Response (CR): Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\\\\\< 10 mm.\n\nPartial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters."
+    },
+    {
+      "measure": "Part 2C: Duration of Response (DOR)",
+      "timeFrame": "From first dose (Day 1) and up to 24 weeks",
+      "description": "DOR is defined for participants who have a confirmed CR or PR as the date from first documented CR or PR per RECIST v1.1 to the date of the documentation of disease progression or death due to any cause, whichever is earlier.\n\nComplete Response (CR): Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\\\\\< 10 mm.\n\nPartial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters."
+    },
+    {
+      "measure": "Part 2C: Progression Free Survival Rate at Week 24",
+      "timeFrame": "Week 24",
+      "description": "Progression Free Survival Rates at 24 weeks is defined as the percentage of participants who achieve PFS at 24 weeks. PFS for a participant is defined as the time from randomization date to the date of first objectively documented disease progression by investigator per response evaluation criteria in solid tumors (RECIST) v1.1 or death due to any cause, whichever occurs first. Based on Kaplan-Meier Estimates.\n\nProgressive Disease (PD): At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum during the study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "Ono Pharmaceutical Co. Ltd"
+  ],
+  "start_date": "2016-11-30",
+  "completion_date": "2024-01-25",
+  "last_updated": "2025-04-02"
+}

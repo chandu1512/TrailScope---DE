@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT06624085",
+  "brief_title": "A Study Evaluating the Safety and Efficacy of Glofitamab + Gemcitabine + Oxaliplatin in U.S. Patients With Relapsed or Refractory Diffuse Large B-Cell Lymphoma",
+  "official_title": "A Phase Ib Study Evaluating the Safety, Efficacy, Pharmacokinetics, and Pharmacodynamics of Glofitamab in Combination With Gemcitabine Plus Oxaliplatin in U.S. Patients With Relapsed or Refractory Diffuse Large B-Cell Lymphoma",
+  "brief_summary": "The purpose of the study is to evaluate glofitamab + gemcitabine + oxaliplatin in participants in the United States, including under-represented racial and ethnic populations, that have relapsed or refractory (R/R) diffuse large B-cell lymphoma (DLBCL).",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "Glofitamab",
+      "type": "DRUG",
+      "description": "Participants will receive IV glofitamab for up to 12 cycles (cycle length = 21 days)"
+    },
+    {
+      "name": "Tocilizumab",
+      "type": "DRUG",
+      "description": "Participants will receive IV tocilizumab as needed to manage cytokine release syndrome (CRS)"
+    },
+    {
+      "name": "Obinutuzumab",
+      "type": "DRUG",
+      "description": "Participants will receive IV obinutuzumab pretreatment"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Participants will receive IV gemcitabine for up to 8 cycles (cycle length = 21 days)"
+    },
+    {
+      "name": "Oxaliplatin",
+      "type": "DRUG",
+      "description": "Participants will receive IV oxaliplatin for up to 8 cycles (cycle length = 21 days)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed DLBCL, not otherwise specified (NOS)\n* Relapsed (disease that has recurred following a response that lasted \u2265 6 months after completion of the last line of therapy) or refractory ( disease that did not respond to or that progressed \\< 6 months after completion of the last line of therapy) disease\n* At least one prior line of systemic therapy\n* Participants who have failed only one prior line of therapy must not be a candidate for high-dose chemotherapy followed by autologous stem cell transplant (ASCT)\n* At least one bi-dimensionally measurable (\\> 1.5 cm) nodal lesion, or one bi-dimensionally measurable (\\> 1 cm) extranodal lesion, as measured on CT scan\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0, 1, or 2\n\nExclusion Criteria:\n\n* Prior enrollment in Study GO41944 (STARGLO; NCT04408638)\n* Participant has failed only one prior line of therapy and is a candidate for stem cell transplantation\n* History of transformation of indolent disease to DLBCL\n* High-grade B-cell lymphoma with MYC and BCL2 and/or BCL6 rearrangements, and high-grade B-cell lymphoma NOS, as defined by 2016 WHO guidelines\n* Primary mediastinal B-cell lymphoma\n* History of severe allergic or anaphylactic reactions to humanized or murine monoclonal antibodies (or recombinant antibody-related fusion proteins) or known sensitivity or allergy to murine products\n* Prior treatment with glofitamab or other bispecific antibodies targeting both CD20 and CD3\n* Prior treatment with gemcitabine or oxaliplatin\n* Peripheral neuropathy or paresthesia assessed to be Grade \\>/= 2 according to NCI CTCAE v5.0 at enrollment\n* Treatment with radiotherapy, chemotherapy, immunotherapy, immunosuppressive therapy, or any investigational agent for the purposes of treating cancer within 2 weeks prior to first study treatment\n* Treatment with monoclonal antibodies for the purposes of treating cancer within 4 weeks prior to first study treatment\n* Primary or secondary CNS lymphoma at the time of recruitment or history of CNS lymphoma\n* Prior CNS involvement that has been definitively treated and confirmed via MRI or cerebrospinal fluid analysis to be in complete remission is permissible\n* Current or history of CNS disease, such as stroke, epilepsy, CNS vasculitis, or neurodegenerative disease\n* History of other primary malignancy, with exceptions defined by the protocol\n* Significant or extensive cardiovascular disease, or significant pulmonary disease\n* Known active bacterial, viral, fungal, mycobacterial, parasitic, or other infection (exclusing fungal infections of nail beds) at study enrollment or any major episode of infection within 4 weeks prior to the first study treatment\n* Documented severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection within 6 months of first study treatment, or positive SARS-CoV-2 test within 7 days prior to enrollment\n* Suspected or latent tuberculosis\n* Positive test results for hepatitis B (HBV) or hepatitis C (HCV)\n* Known or suspected chronic active Epstein-Barr viral infection\n* Known or suspected history of hemophagocytic lymphohistiocytosis (HLH)\n* Known history of progressive multifocal leukoencephalopathy\n* Prior solid organ transplantation\n* Prior allogenic stem cell transplant\n* Active autoimmune disease requiring treatment\n* Prior treatment with systemic immunosuppressive medications within 4 weeks prior to first dose of study treatment\n* Ongoing systemic corticosteroid use which, in the opinion of the investigator, puts the patient at increased risk of steroid-related iatrogenic adrenal insufficiency\n* Recent major surgery (within 4 weeks before the first study treatment) other than for diagnosis\n* Clinically significant history of cirrhotic liver disease",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Walter Reed National Military Medical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20814",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of Adverse Events (AEs)",
+      "timeFrame": "Up to 3 years",
+      "description": ""
+    },
+    {
+      "measure": "Complete response (CR) rate",
+      "timeFrame": "Up to 3 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "Hoffmann-La Roche",
+  "collaborators": [],
+  "start_date": "2025-04-28",
+  "completion_date": "2030-03-31",
+  "last_updated": "2026-03-03"
+}

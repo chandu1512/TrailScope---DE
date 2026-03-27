@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT07276789",
+  "brief_title": "Efficacy and Safety of a Single Dose of LS301-IT for Fluorescence Intraoperative Molecular Imaging (IMI) for Patients Undergoing Lung Cancer Resection for Non Small Cell Lung Cancer",
+  "official_title": "A Phase 2, Open-Label, Multicenter Study to Investigate the Efficacy and Safety of a Single Dose of LS301-IT for Fluorescence Intraoperative Molecular Imaging (IMI) for Lung Cancer Resection",
+  "brief_summary": "The aim of this Phase 2 study is to investigate the efficacy and safety of a single dose of LS301-IT, a novel fluorescence imaging agent developed by Integro Theranostics (IT), administered by intravenous (IV) infusion in patients undergoing VATS (Video-Assisted Thoracoscopic Surgery) or RATS (Robotic-Assisted Thoracoscopic Surgery) resection of Stage I-II non-small cell lung cancer (NSCLC).",
+  "detailed_description": "The primary objective of the study is to determine the proportion of subjects that have at least one Clinically Significant Event (CSE) using fluorescence imaging, defined as either the localization of the primary tumor when white light has failed to identify the tumor, the identification of a synchronous or occult pulmonary tumor with fluorescence only, or the identification of an inadequate surgical margin after resection. Secondary objectives include the determination of the sensitivity and positive predictive value (PPV) of LS301 fluorescence imaging in the identification of tumor using histopathology as the gold standard, and the assessment of the safety and tolerability of LS301-IT. Exploratory objectives include the determination of the \"Clinical Impact Rate\" defined as the proportion of cases when the surgeon changes the scope of the procedure based on LS301 fluorescence imaging, the assessment of the dosing interval prior to surgery, and the standardization of imaging during surgery and surgeon assessment of fluorescence.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 35,
+  "conditions": [
+    "Non Small Cell Lung Cancer (NSCLC)"
+  ],
+  "interventions": [
+    {
+      "name": "LS301-IT 0.1 mg/kg",
+      "type": "DRUG",
+      "description": "Single dose of LS301-IT administed up to 4 days prior to surgery"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\n* Have a primary diagnosis, or a high clinical suspicion, for cancer in the lung based on CT, biopsy, or other imaging.\n* Are scheduled to undergo surgical thoracoscopy and resection of the lung.\n* If of childbearing potential, the patient must have a negative serum pregnancy test at screening, on Day 1 prior to LS301-IT administration, as well as using a medically acceptable form of contraception (eg, hormonal birth control, double-barrier method) or abstinence.\n* Ability to understand the requirements of the study\n\nExclusion Criteria:\n\n* Contraindications for surgery or any medical condition that in the opinion of the investigator could jeopardize the safety of the subject\n* History of any drug-related hypersensitivity or anaphylactic reactions, including those attributed to indocyanine green (ICG) or other contrast agents.\n* Patients with impaired renal function\n* History, or presence in the ECG at Screening, of any clinically significant abnormalities including cardiac conduction abnormalities\n* History of radiation therapy to the chest\n* Total bilirubin level \\>1.5 times upper limit\n* Aspartate aminotransferase (AST)/serum glutamic-oxaloacetic transaminase (SGOT) and alanine aminotransferase (ALT)/serum glutamic-pyruvic transaminase (SGPT) \\> 2.5 times the upper limit of normal (ULN)\n* Patient is pregnant or breast feeding",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Clinically Significant Events",
+      "timeFrame": "On the day of surgery",
+      "description": "To determine the proportion of subjects that have at least one CSE where a CSE is defined as one of 3 possible clinical events:\n\na. Identification of primary tumor in situ with fluorescence IMI after non-ID with white light b. Identification of synchronous or occult lung tumors with fluorescence IMI after non-ID with white light c. Identification of tumor margin of resected specimen ex vivo within 10 mm of staple line with fluorescence IMI (both \u22645 mm and \u226410 mm will be assessed)"
+    }
+  ],
+  "sponsor": "Integro Theranostics",
+  "collaborators": [],
+  "start_date": "2025-12-08",
+  "completion_date": "2026-09",
+  "last_updated": "2026-03-19"
+}

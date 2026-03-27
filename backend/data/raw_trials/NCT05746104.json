@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT05746104",
+  "brief_title": "Second Window Indocyanine Green for All Nervous System Tumors",
+  "official_title": "Intraoperative Molecular Imaging of Central Nervous System Tumors Using Same Day Second Window Imaging With Indocyanine Green (TumorGlow\u2122 - CNS)",
+  "brief_summary": "The study is being conducted to determine if a same-day, low-dose intravenous (into a vein) injection of indocyanine green (ICG) (FDA-approved dye) being detected by using an imaging system can be a useful tool in identifying and differentiating tumor tissue from normal tissues.",
+  "detailed_description": "",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 105,
+  "conditions": [
+    "Nervous System Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Administration of Indocyanine Green (ICG) and Visualization of Tumor",
+      "type": "DRUG",
+      "description": "A single dose of the study drug, ICG, of less than 2 mg/kg will be administered on the day of surgery. The visualization of second window ICG for tumor will be performed approximately one to four hours after administration, depending on how long it takes for the neurosurgeon to get through the skin/skull or lamina/dura to the tumor."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Adult patients 18 years of age and older\n2. Patients presenting with a nervous system tumor presumed to be resectable and at risk for local recurrence on pre-operative assessment\n3. Good operative candidates, as determined by the treating physician and multidisciplinary team\n4. Subjects capable of giving informed consent\n\nExclusion Criteria:\n\n1. Pregnant women, as determined by urinary or serum beta hCG within 48 hours of surgery\n2. Subjects with a history of iodide allergies\n3. Vulnerable patient populations\n4. Patients unable to participate in the consent process\n5. Patients with history of uncontrolled HTN (requiring ER admission or \u2265 3 BP medications)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pennsylvania Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Tumor NIR Signal Compared to Background Brain Normal Signal (SBR)",
+      "timeFrame": "Surgery",
+      "description": "SBR analysis will be stratified by histology, and the dosing and timing flowchart will be used to achieve optimal SBR."
+    },
+    {
+      "measure": "NIR Efficiency",
+      "timeFrame": "Surgery",
+      "description": "After examining the \"equivocal tissue\" with white light and NIR imaging, a per person success will be recorded, if least one additional specimen is resected using NIR. NIR will be considered efficacious, if significantly more than 10% of patients meet the success criteria. Each histology will be tested separately."
+    },
+    {
+      "measure": "NIR True Positive Rate",
+      "timeFrame": "Surgery",
+      "description": "Of the additionally resected specimens using NIR, we will find the true positive rate based on pathology. The entire sample will be evaluated jointly; then, each histology will be evaluated separately as there may be multiple specimens per patient surgery. NIR will be considered efficacious if the true positive rate is significantly greater than 50%."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2023-03-31",
+  "completion_date": "2027-02-15",
+  "last_updated": "2026-01-21"
+}

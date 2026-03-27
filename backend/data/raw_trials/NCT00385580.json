@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT00385580",
+  "brief_title": "Phase II Study of Dasatinib (BMS-354825) for Androgen-deprived Progressive Prostate Cancer",
+  "official_title": "Phase II Study of Dasatinib (BMS-354825) for Androgen-deprived Progressive Prostate Cancer",
+  "brief_summary": "The purpose of this study is to learn if men with metastatic prostate cancer and rising Prostate Specific Antigen (PSA), who have been surgically castrated or are undergoing androgen deprivation with Luteinizing Hormone Releasing Hormone (LHRH) treatment, respond to dasatinib. The safety of this treatment will also be studied.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 94,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "dasatinib",
+      "type": "DRUG",
+      "description": "Tablets, Oral, 100 mg or 70 mg, twice daily, treatment may continue until disease progression"
+    },
+    {
+      "name": "dasatinib",
+      "type": "DRUG",
+      "description": "Tablets, Oral, 100 mg, once daily (QD) treatment may continue until disease progression"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* males, 18 or older\n* proven advanced prostate cancer\n* documented metastatic disease\n* rising PSA levels\n* castrate levels of testosterone\n\nExclusion Criteria:\n\n* symptomatic CNS (brain or spinal cord) metastasis\n* medical condition which may increase the risk of toxicity\n* any prior or ongoing anti-cancer medical therapy or immunotherapy for prostate cancer other than primary androgen deprivation agents\n* unable to take oral medication",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Bunting Blaustein Cancer Research Building",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With a Response",
+      "timeFrame": "Within 2 weeks of first study drug administration, thereafter recorded every 4 weeks.",
+      "description": "Response = confirmed prostate specific antigen (PSA) response (decrease in PSA =\\>50% from baseline), confirmed improved bone scan (disappearance of =\\> 1 lesion, no new lesions, new pain not developing), confirmed complete response (CR: disappearance of all lesions) or confirmed partial response (PR: =\\>30% in sum of longest diameter \\[LD\\] of all lesions compared to baseline sum LD), stable disease (SD: neither sufficient increase for progressive disease \\[PD: =\\>20% increase in sum of LD of all target lesions\\] nor sufficient shrinkage for PR), based on Response Criteria in Solid Tumors \\[RECIST\\]."
+    },
+    {
+      "measure": "Percentage of Participants With a Response",
+      "timeFrame": "Within 2 weeks of first study drug administration, thereafter recorded every 4 weeks.",
+      "description": "Response = confirmed PSA response (decrease in PSA =\\>50% from baseline), confirmed improved bone scan (disappearance of =\\> 1 lesion, no new lesions, new pain not developing), confirmed CR (disappearance of all lesions) or confirmed PR (=\\>30% in sum of LD of all lesions compared to baseline sum LD), SD (neither sufficient increase for PD \\[=\\>20% increase in sum of LD of all target lesions\\] nor sufficient shrinkage for PR), based on RECIST."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2007-01",
+  "completion_date": "2010-10",
+  "last_updated": "2013-04-24"
+}

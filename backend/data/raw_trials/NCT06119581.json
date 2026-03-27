@@ -1,0 +1,117 @@
+{
+  "nct_id": "NCT06119581",
+  "brief_title": "A Study of First-Line Olomorasib (LY3537982) and Pembrolizumab With or Without Chemotherapy in Patients With Advanced KRAS G12C-Mutant Non-small Cell Lung Cancer",
+  "official_title": "SUNRAY-01, A Global Pivotal Study in Participants With KRAS G12C-Mutant, Locally Advanced or Metastatic Non-Small Cell Lung Cancer Comparing First-Line Treatment of LY3537982 and Pembrolizumab vs Placebo and Pembrolizumab in Those With PD-L1 Expression \u226550% or LY3537982 and Pembrolizumab, Pemetrexed, Platinum vs Placebo and Pembrolizumab, Pemetrexed, Platinum Regardless of PD-L1 Expression",
+  "brief_summary": "The purpose of this study is to assess if adding LY3537982 (olomorasib) in combination with standard of care anti-cancer drugs is more effective than standard of care in participants with untreated advanced NSCLC. NSCLC must have a change in a gene called KRAS G12C. Study participation, including follow-up, could last up to 3 years, depending on how you and your lung cancer are doing.",
+  "detailed_description": "Dose Optimization, Part A, and Part B are randomized. Safety Lead-In for Part B is single arm, non-randomized. Part C is non-randomized.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1264,
+  "conditions": [
+    "Carcinoma, Non-Small-Cell Lung",
+    "Neoplasm Metastasis"
+  ],
+  "interventions": [
+    {
+      "name": "LY3537982",
+      "type": "DRUG",
+      "description": "Administered orally."
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Administered IV."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Administered orally."
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Administered IV."
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Administered IV."
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": "Administered IV."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed NSCLC with Stage IIIB-IIIC or Stage IV disease, not suitable for curative intent radical surgery or radiation therapy.\n* Part B and Safety Lead-In Part B: the histology of the tumor must be predominantly non-squamous (in line with pemetrexed label).\n* Must have disease with evidence of KRAS G12C mutation.\n* Must have known programmed death-ligand 1 (PD-L1) expression\n\n  * Part A: Greater than or equal to (\u2265)50 percent (%).\n  * Part B: 0% to 100%.\n  * Part C: \\<50%.\n* Must have measurable disease per RECIST v1.1.\n* Must have an ECOG performance status of 0 or 1.\n* Estimated life expectancy \u226512 weeks.\n* Ability to swallow capsules.\n* Must have adequate laboratory parameters.\n* Contraceptive use should be consistent with local regulations for those participating in clinical studies.\n* Women of childbearing potential must\n\n  * Have a negative pregnancy test.\n  * Not be breastfeeding during treatment\n\nExclusion Criteria:\n\n* Have a documented additional validated targetable oncogenic driver mutation or alteration in genes such as epidermal growth factor receptor (EGFR), anaplastic lymphoma kinase (ALK), BRAF (V600E), human epidermal growth factor receptor 2 (HER2), MET (exon 14), ROS1, rearranged during transfection (RET), or neurotrophic tyrosine receptor kinase (NTRK)1/2/3.\n* Have had any of the following prior to randomization:\n\n  \\-- Prior systemic therapy (chemotherapy, immunotherapy, targeted therapy, or biological therapy) for advanced or metastatic NSCLC.\n\n  \\--- 1 cycle of standard-of-care treatment prior to study enrollment will be allowed for cases where immediate treatment is clinically indicated:\n* Have known active central nervous system metastases and/or carcinomatous meningitis.\n\nExclusion Criteria for Participants receiving Pemetrexed and Platinum (Part B and Safety Lead-In Part B)\n\n* Have predominantly squamous cell histology for NSCLC\n* Only for participants with mild to moderate renal insufficiency: Unable to avoid aspirin, ibuprofen, or other nonsteroidal anti-inflammatory drugs (NSAIDs) two days before (5 days for long acting NSAIDs), day of, and two days after administration of pemetrexed\n* Is unable or unwilling to take folic acid or vitamin B12 supplementation.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Bayview Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "USO - Maryland Oncology Hematology",
+      "city": "Columbia",
+      "state": "Maryland",
+      "zip": "21044",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "The Valley Hospital, Inc.",
+      "city": "Paramus",
+      "state": "New Jersey",
+      "zip": "07652",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "USO - Alliance Cancer Specialists, PC",
+      "city": "Horsham",
+      "state": "Pennsylvania",
+      "zip": "19044",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Thomas Jefferson University, Sidney Kimmel Cancer Center - Clinical Trials Office",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose Optimization and Safety Lead-In Part B: Number of Participants with a Treatment Emergent Adverse Event(s) (TEAE)",
+      "timeFrame": "Randomization to first documented progression of disease or death from any cause. (Estimated as approximately 1 year)",
+      "description": "Dose Optimization and Safety Lead-In Part B: Number of Participants with a TEAE"
+    },
+    {
+      "measure": "Part A and Part B: Progression-Free Survival (PFS)",
+      "timeFrame": "Randomization to first documented progression of disease or death from any cause. (Estimated as approximately 1 year)",
+      "description": "PFS per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 by blinded independent central review (BICR)"
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2023-12-21",
+  "completion_date": "2031-01",
+  "last_updated": "2026-03-20"
+}

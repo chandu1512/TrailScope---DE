@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT05406167",
+  "brief_title": "Prospective Data Registry and Quality of Life Assessment of Patients Undergoing Radiotherapy With the RefleXion Medical Radiotherapy System",
+  "official_title": "Prospective Data Registry and Quality of Life Assessment of PatientsUndergoing Radiotherapy With the RefleXion Medical Radiotherapy System (PREMIER Registry)",
+  "brief_summary": "The purpose of this prospective cohort study is to assess clinical and quality of life measures as well as to define the severity of adverse effects for the use of the RefleXion system to deliver intensity-modulated radiotherapy (IMRT), stereotactic body radiotherapy (SBRT), or SCINTIX Biology-guided radiotherapy (BgRT) in standard of care (SOC) use in the treatment of local,loco-regionally advanced, and oligometastatic malignancies. In addition, patient costs and charges will be analyzed to quantify the health economic impact of this modality. Workflow and quality of radiotherapy planning including a collection of dosimetric data will also be analyzed.",
+  "detailed_description": "This multi-center prospective registry is designed to assess the efficacy of IMRT, SBRT, and BgRT delivered via the RMRS. The study will seek to enroll approximately 750 patients initially and then remain open to further patients beyond at the discretion of the study sponsor and participating institutions. The number of IMRT, SBRT, and BgRT patients expected to enroll for the initial period is as follows:\n\n* N = 250 IMRT\n* N - 250 SBRT\n* N - 250 BgRT\n\nPatients diagnosed with local, locoregionally advanced, or metastatic malignancies will be treated with IMRT, SBRT, or BgRT using the RMRS, with total dose, fractionation, and concurrent systemic therapy delivered according to the direction of the radiation oncology care team. The target population is patients for whom standard radiotherapy is prescribed using IMRT, SBRT, and BgRT. Data will be stratified by common radiotherapy divisions as follows:\n\n* Central Nervous System (Brain, spinal cord, and vertebral column)\n* Head and Neck\n* Thoracic\n* Gastrointestinal\n* Gynecologic\n* Genitourinary\n* Lymphoma\n* Melanoma/Sarcoma/Extremity\n* Non-Spine Bone and Other An additional sub-stratum within each anatomic division will specify whether the treatment intent is for definitive treatment of the primary tumor (for early-stage or locally advanced disease), a definitive oligo/polymetastatic therapy, or a palliative therapy. Patients will be routinely assessed during their radiation course and thereafter for toxicity burden and HRQOL using the CTCAE v5, EORTC, and EuroQOL surveys. Patients will be assessed for 2 years following their therapy. Other long-term follow-ups will capture data including standard of care (per physician's discretion) laboratory evaluation, quality of life questionnaires, performance status, routine radiographic assessments, physical exams, etc. (see Appendix B. Schedule of Events).",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 500,
+  "conditions": [
+    "Cancer",
+    "Cancer Central Nervous System",
+    "Cancer Thoracic",
+    "Cancer, Gastrointestinal",
+    "Cancer Gynecologic",
+    "Cancer, Genito-Urinary",
+    "Cancers Lymphatic",
+    "Cancer Head and Neck"
+  ],
+  "interventions": [
+    {
+      "name": "Registry - Observational",
+      "type": "DEVICE",
+      "description": "Observation Registry for Medical Device"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Able to comprehend and be willing to sign an informed consent form (ICF).\n* Diagnosis of local, loco-regionally advanced, or metastatic malignancy for whom radiotherapy is indicated\n* Radiotherapy to be delivered on the RMRS X1 with IMRT, SBRT, or BgRT technique.\n* Absence of concurrent illness that deems radiotherapy a contraindication which will be determined by the treating radiation oncologist.\n* Female and male patients of child-bearing potential willing to take appropriate precautions to avoid pregnancy while being treated. Permitted methods in preventing pregnancy should be communicated to the patient and their understanding confirmed by the treating Physician.\n* For BgRT patients only: Deemed eligible for BgRT with FDG per BgRT planning session\n\nExclusion Criteria:\n\n* Pregnant or expecting to conceive during the study.\n* Has a known psychiatric or substance abuse disorder that would interfere with the participant's ability to cooperate with study requirements and follow-up visits.\n* Inability to maintain immobilization, supine position for planning and treatments.\n* For BgRT patients only: Known allergy to FDG",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15219",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Health Related Quality of Life (HRQOL) scores",
+      "timeFrame": "30 Days",
+      "description": "Evaluate patient-reported quality of life after IMRT, SBRT, or BgRT treatment delivered by the RefleXion system by assessing EORTC QLQ-C30.\n\nThe EORTC questionnaire has a scoring of 0 to 100 and is disease-specific. 0 is none/minimal symptoms and normal/good functional ability. 100 is increased/severe symptoms and decrease/poor functional ability."
+    },
+    {
+      "measure": "Health Related Quality of Life (HRQOL) scores",
+      "timeFrame": "90 Days",
+      "description": "Evaluate patient-reported quality of life after IMRT or SBRT treatment delivered by the RefleXion system by assessing EORTC QLQ-C30.\n\nThe EORTC questionnaire has a scoring of 0 to 100 and is disease-specific. 0 is none/minimal symptoms and normal/good functional ability. 100 is increased/severe symptoms and decrease/poor functional ability."
+    }
+  ],
+  "sponsor": "RefleXion Medical",
+  "collaborators": [],
+  "start_date": "2022-04-12",
+  "completion_date": "2026-04-25",
+  "last_updated": "2025-08-12"
+}

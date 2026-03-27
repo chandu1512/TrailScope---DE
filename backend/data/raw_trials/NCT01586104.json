@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT01586104",
+  "brief_title": "Intensity-Modulated Radiation Therapy in Treating Younger Patients With Lung Metastases",
+  "official_title": "Cardiac-Sparing Whole Lung IMRT in Children and Young Adults With Lung Metastases: A Feasibility Study",
+  "brief_summary": "This pilot clinical trial studies intensity-modulated radiation therapy (IMRT) in treating younger patients with lung metastases. Specialized radiation therapy that delivers a high dose of radiation directly to the tumor may kill more tumor cells and cause less damage to normal tissue.",
+  "detailed_description": "OBJECTIVES:\n\nI. To demonstrate the feasibility of delivering cardiac-sparing IMRT in a multi-institutional setting with central quality control for children and young adults with metastatic tumors in the lungs.\n\nII. To prospectively determine the dosimetric advantages of whole lung IMRT treatment over standard whole lung irradiation by comparing treatment plans and different organ dose-volume histograms such as lungs, heart, thyroid gland, liver etc. in all patients enrolled in this study.\n\nIII. To determine the short-term efficacy (lung-metastases free survival) and acute tolerance of whole lung IMRT at a minimum period of six months after IMRT.\n\nOUTLINE:\n\nPatients undergo cardiac-sparing whole lung IMRT.\n\nAfter completion of study treatment, patients are followed up for 1-5 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Adult Rhabdomyosarcoma",
+    "Lung Metastases",
+    "Metastatic Ewing Sarcoma",
+    "Previously Treated Childhood Rhabdomyosarcoma",
+    "Recurrent Adult Soft Tissue Sarcoma",
+    "Recurrent Childhood Rhabdomyosarcoma",
+    "Recurrent Wilms Tumor and Other Childhood Kidney Tumors",
+    "Stage IV Adult Soft Tissue Sarcoma",
+    "Stage IV Wilms Tumor",
+    "Stage V Wilms Tumor",
+    "Unspecified Adult Solid Tumor, Protocol Specific",
+    "Unspecified Childhood Solid Tumor, Protocol Specific"
+  ],
+  "interventions": [
+    {
+      "name": "intensity-modulated radiation therapy",
+      "type": "RADIATION",
+      "description": "Undergo cardiac-sparing whole lung IMRT"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients may have a Wilms tumor, Ewing Sarcoma, Rhabdomyosarcoma or any other metastatic pediatric malignancy; patients may have a single or multiple pulmonary metastases at the time of diagnosis or at the time of recurrence; a pulmonary metastasis may be defined as one pulmonary nodule \\>= 1 cm or more than one pulmonary nodules \\>= 0.5 cm; a biopsy of the nodules may be considered in case of doubt\n* The Karnofsky performance status must be \\>= 50 for patients \\> 16 years of age and the Lansky performance status must be \\>= 50 for patients =\\< 16 years of age\n* Patients must not have received prior radiation therapy to any part of the thorax\n* Adequate cardiac function defined as:\n* Shortening fraction of \\>= 27% by echocardiogram, or\n* Ejection fraction of \\>= 50% by radionuclide angiogram\n\n  * Female patients of childbearing age must have a negative pregnancy test\n  * Female patients who are lactating must agree to stop breast-feeding\n  * Sexually active patients of childbearing potential must agree to use effective contraception\n\nExclusion Criteria:\n\n* Patients enrolled on Children's Oncology Group protocols cannot be treated with whole lung IMRT on this study\n* Patients who have a prior history of radiation therapy to the thorax or adjacent regions cannot be entered on this protocol\n* Patient with Hodgkin's Lymphoma are not eligible for this study\n* Patients with mediastinal masses or other pulmonary masses requiring additional mediastinal or lung irradiation beyond the whole lung irradiation (WLI) doses stated in this protocol are ineligible for this study\n* Patients who may require concurrent or sequential irradiation to sites beyond the chest such as the neck, flank, abdomen or liver are eligible for this study",
+    "gender": "ALL",
+    "min_age": "1 Year",
+    "max_age": "29 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Pittsburgh of UPMC",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Feasibility of Delivering Cardiac-sparing IMRT With Central Quality Control in 20 Subjects",
+      "timeFrame": "All IMRT treatment plans were centrally reviewed within 1-2 days of receipt of the radiation therapy plan. The feasibility was determined as 'feasible' if deemed in accordance with protocol guidelines after central QARC review within 1-2 days of receipt.",
+      "description": "Feasibility is defined as an enrolled patient receiving the IMRT treatment as stipulated in the protocol. Feasibility of delivering whole lung IMRT will be demonstrated by obtaining central (Quality Assurance Review Center 'QARC') quality control approval of enrolled patient treatment plans according to the protocol guidelines for the 20 subjects enrolled onto the study. If an enrolled patient did not receive the IMRT treatment as stipulated in the protocol this subject then the treatment will be considered not feasible in this patient."
+    },
+    {
+      "measure": "Short-term Efficacy (Lung-metastases Free Survival, Overall Survival, Pulmonary Relapse, Deceased From Progressive Disease)",
+      "timeFrame": "From date of enrollment until the date of first documented progression, relapse or date of death from any cause up to an average of 3 years.",
+      "description": "Serial CT scans of the chest were examined to determine lung-metastasis free survival"
+    }
+  ],
+  "sponsor": "Ann & Robert H Lurie Children's Hospital of Chicago",
+  "collaborators": [
+    "Northwestern University",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2011-02",
+  "completion_date": "2016-06-02",
+  "last_updated": "2025-02-05"
+}

@@ -1,0 +1,96 @@
+{
+  "nct_id": "NCT03907852",
+  "brief_title": "Phase 1/2 Trial of Gavo-cel (TC-210) in Patients With Advanced Mesothelin-Expressing Cancer",
+  "official_title": "A Phase 1/2 Single Arm Open-Label Clinical Trial of Gavocabtagene Autoleucel (Gavo-cel) in Patients With Advanced Mesothelin-Expressing Cancer",
+  "brief_summary": "Gavocabtagene autoleucel (gavo-cel; TC-210) is a novel cell therapy that consists of autologous genetically engineered T cells expressing a single-domain antibody that recognizes human Mesothelin, fused to the CD3-epsilon subunit which, upon expression, is incorporated into the endogenous T cell receptor (TCR) complex.\n\nThis Phase 1/2 study aims to establish the recommended Phase 2 dose (RP2D) and subsequently evaluate the efficacy of gavo-cel, with and without immuno-oncology agents, in patients with advanced mesothelin-expressing cancers, with overall response rate and disease control rate as the primary Phase 2 endpoints.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 57,
+  "conditions": [
+    "Mesothelioma",
+    "Mesothelioma, Malignant",
+    "Mesothelioma; Pleura",
+    "Mesotheliomas Pleural",
+    "Mesothelioma Peritoneum",
+    "Cholangiocarcinoma",
+    "Cholangiocarcinoma Recurrent",
+    "Ovarian Cancer",
+    "Non Small Cell Lung Cancer",
+    "Non Small Cell Lung Cancer Metastatic",
+    "High Grade Ovarian Serous Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "gavo-cel",
+      "type": "BIOLOGICAL",
+      "description": "gavo-cel"
+    },
+    {
+      "name": "fludarabine",
+      "type": "DRUG",
+      "description": "lymphodepletion chemotherapy"
+    },
+    {
+      "name": "cyclophosphamide",
+      "type": "DRUG",
+      "description": "lymphodepletion chemotherapy"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "immuno-oncology agent"
+    },
+    {
+      "name": "Ipilimumab",
+      "type": "DRUG",
+      "description": "immuno-oncology agent"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patient is at least 18 years of age at the time the Informed Consent is signed.\n* Patient has a pathologically confirmed diagnosis of either Malignant Pleural/Peritoneal Mesothelioma (MPM), Serous Ovarian Adenocarcinoma, Cholangiocarcinoma, or Non-Small Cell Lung Cancer (NSCLC) at screening.\n* Patient's tumor has been pathologically reviewed by the central laboratory. For Serous Ovarian Adenocarcinoma, patients must have confirmed positive MSLN expression on \\>/= 30% of tumor cells that are 1+, 2+, and/or 3+ by immunohistochemistry (IHC). Ovarian patients will subsequently be stratified into two groups: high MSLN expression (\\>/= 50% of tumor cells that are 2+ and/or 3+) or low MSLN expression (\\>/= 30% of tumor cells that are 1+, 2+, and/or 3+ not meeting criteria for the high MSLN expression group). MPM patients must have MSLN expression of \\>/= 50% of tumor cells that are 2+ and/or 3+ by IHC. Cholangiocarcinoma and NSCLC patients must have MSLN expression of \\>/= 30% of tumor cells that are 1+, 2+, and/or 3+ by IHC.\n* Prior to gavo-cel infusion, patients must have received at least 1 systemic standard of care therapy for metastatic or unresectable disease, with the exception of Cholangiocarcinoma patients who may have elected not to pursue standard frontline therapy. Regardless of tumor type, patients must not exceed 5 prior lines of therapy (excluding bridging therapy and surgical procedures). More details provided in the clinical protocol.\n* Patient has an Eastern Cooperative Oncology Group performance status 0 or 1.\n* Patient has a left ventricular ejection fraction \\> 45% as measured by resting echocardiogram, with no clinically significant pericardial effusion.\n* Patient is fit for leukapheresis and has adequate venous access for the cell collection.\n* Patient must have adequate organ function as indicated by the laboratory values in the clinical protocol",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Cancer Institute",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20814",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1- Primary Objective",
+      "timeFrame": "DLTs within 28 days post-treatment",
+      "description": "Establish the recommended Phase 2 dose (RP2D) according to dose-limiting toxicity (DLT) of defined adverse events."
+    },
+    {
+      "measure": "Phase 2- Primary Objective",
+      "timeFrame": "ORR at 3 months; DCR based on ORR + SD lasting at least 8 weeks",
+      "description": "To evaluate the efficacy of autologous genetically modified T cells (gavo-cel), with or without immuno-oncology agents, in patients with MSLN-expressing unresectable, metastatic, or recurrent cancers as determined by overall response rate and disease control rate using RECIST v1.1 (or mesothelioma-specific RECIST criteria, if applicable)."
+    }
+  ],
+  "sponsor": "TCR2 Therapeutics",
+  "collaborators": [
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2019-04-15",
+  "completion_date": "2028-11-02",
+  "last_updated": "2025-08-20"
+}

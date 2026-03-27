@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT02098343",
+  "brief_title": "p53 Suppressor Activation in Recurrent High Grade Serous Ovarian Cancer, a Phase Ib/II Study of Systemic Carboplatin Combination Chemotherapy With or Without APR-246",
+  "official_title": "PiSARRO: p53 Suppressor Activation in Recurrent High Grade Serous Ovarian Cancer, a Phase Ib/II Study of Systemic Carboplatin Combination Chemotherapy With or Without APR-246",
+  "brief_summary": "The purpose of this study is to make a preliminary assessment of the efficacy of a combined APR-246 and carboplatin/PLD chemotherapy regimen, compared with carboplatin/PLD chemotherapy regimen alone, in patients with platinum sensitive recurrent high grade serous ovarian cancer (HGSOC) with mutated p53. In addition, the study aims to assess the safety profile of the combined APR-246 and carboplatin/PLD chemotherapy regimen compared with carboplatin/PLD chemotherapy regimen alone, to evaluate potential biomarkers, and to assess the biological activity in tumor and surrogate tissues. The trial will enroll up to a maximum of 400 patients.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 247,
+  "conditions": [
+    "Platinum Sensitive Recurrent High-grade Serous Ovarian Cancer With Mutated p53"
+  ],
+  "interventions": [
+    {
+      "name": "APR-246",
+      "type": "DRUG",
+      "description": "Intravenous infusion."
+    },
+    {
+      "name": "Carboplatin and Pegylated Liposomal Doxorubicin Hydrochloride (PLD)",
+      "type": "DRUG",
+      "description": "Intravenous infusion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Confirmed High Grade Serous Ovarian Cancer, and positive nuclear immunohistochemical (IHC) staining for p53\n* Disease Progression between 6-24 months after a first or second platinum based regimen\n* At least a single measurable lesion. Phase II patients only\n* Adequate organ function prior to registration\n* Toxicities from previous cancer therapies must have recovered to grade 1 (defined by Common Terminology Criteria for Adverse Events \\[CTCAE\\] 4.0) Chronic stable grade 2 peripheral neuropathy secondary to neurotoxicity from prior therapies may be considered on a case by case basis\n* ECOG performance status of 0 to 1\n\nExclusion Criteria:\n\n* Prior exposure to cumulative doses of doxorubicin \\>400 mg/m2 or epirubicin \\>720 mg/m2\n* History of allergic reactions to carboplatin, platinum containing compounds or mannitol and/or hypersensitivity to PLD or to any of the excipients\n* Unable to undergo imaging by either CT scan or MRI\n* Evidence of any other medical conditions (such as psychiatric illness, infectious diseases, neurological conditions, physical examination or laboratory findings) that may interfere with the planned treatment, affect patient compliance or place the patient at high risk from treatment related complications\n* Concurrent malignancy requiring therapy (excluding non-invasive carcinoma or carcinoma in situ)\n* Is taking concurrent (or within 4 week prior to registration) chemotherapy, immunotherapy, radiotherapy, or any ancillary therapy that is considered to be investigational (i.e., used for non-approved indications(s) and in the context of a research investigation). Supportive care measures are allowed",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center, Magee-Womens Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase Ib: Dose-limiting Toxicities (DLT) (See Description) of Combined APR-246 and Carboplatin/PLD Regimen",
+      "timeFrame": "Until the end of the first treatment cycle, i.e., Day 28",
+      "description": "DLT: Hematological and non-hematological toxicities according to grade/days stated in the protocol."
+    },
+    {
+      "measure": "Phase Ib and II: Progression Free Survival (PFS)",
+      "timeFrame": "Up to 24 months",
+      "description": "Phase Ib: Progression-free Survival is calculated from date of enrollment to the date of disease progression or death due to any cause, whichever occurs first. Symptomatic deterioration is not considered PD. For a patient without evidence of disease progression or death, Progression-free survival will be censored at the date of last evaluable tumor assessment. Patients with no evaluable tumor assessments will be censored at the date of first study drug administration.\n\nPhase II: Progression-free survival (PFS) based on Blinded Independent Central Review (BICR) is the primary endpoint and is defined as the number of days from the date of randomization to the date of objective disease progression or relapse (according to RECIST v1.1 only) or death due to any cause, whichever occurs first. If neither event occurs, PFS is censored at the date of the last evaluable tumor assessment. Symptomatic deterioration is not considered objective disease progression."
+    }
+  ],
+  "sponsor": "Aprea Therapeutics",
+  "collaborators": [],
+  "start_date": "2014-03",
+  "completion_date": "2019-04",
+  "last_updated": "2025-03-06"
+}

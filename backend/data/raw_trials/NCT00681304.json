@@ -1,0 +1,50 @@
+{
+  "nct_id": "NCT00681304",
+  "brief_title": "Ultrasound Based Localization of Lumpectomy Bed in Anatomical Coordinate System",
+  "official_title": "\"Ultrasound Based Localization of Lumpectomy Bed in Anatomical Coordinate System\" (J-0728)",
+  "brief_summary": "This is a pilot study. The main purposes for doing the study are to see if there is a relationship between lumpectomy volume and position as measured by USEI and by CT. This is not a study to see if the use of USEI is better than the current method of using CT for daily radiation therapy positioning.",
+  "detailed_description": "1\\. Abstract The feasibility, toxicity and efficacy of Partial Brest Irradiation (PBI) are currently being studied by major cooperative groups such as the NSABP, and RTOG as well as by several major academic institutions. PBI entails definitive radiation to the lumpectomy site while minimizing radiation to the remaining breast tissue. The success of PBI is dependent in no small part to proper target localization. In radiation therapy, to treat an internal structure, external landmarks must be used to calculate the position of the internal target. These external landmarks can easily change in a non-rigid structure (e.g. breast), which would nullify their use as a reference. To address this problem, there have been recent advances in the application of ultrasound (US) technology in target localization especially with respect to the prostate. Transcutaneous tracked US emerged as the most suitable non-invasive daily prostate localization tool. In this procedure an US probe is tracked and spatially registered with respect to the treatment machine, linear accelerator. Thus if one localizes the target anatomy in the US images, then the position of the target is automatically known with respect to the linear accelerator, so that the accelerator can be correctly aimed.\n\nUnfortunately, contemporary US imaging is not sufficiently sensitive to delineate the lumpectomy bed for PBI. We propose to supplant B-mode imaging with a novel US elasticity imaging (USEI) method to delineate the subtle and complex boundaries of the lumpectomy cavity. Our preliminary studies suggest that USEI may be superior to B-mode imaging (see statistical section and Ref. 6-7). However our work was only done in ex-vivo tissue models. In the literature, there are many studies showing the superior sensitivity and specificity of strain imaging compared to regular B-mode imaging7.\n\nThe benefit of developing a way to use ultrasound for target localization is clear. Identification of the target would no longer be dependent on unreliable external landmarks but now on direct internal information. As a consequence, targeting errors, most commonly associated with patient positioning, could be significantly reduced or practically eliminated. Thus, we propose to study the ability of USEI to detect and characterize the lumpectomy bed in-vivo using CT data as ground truth. We will pursue our work in two specific aims:\n\nAim 1: Describe the concordance between the lumpectomy bed's center-of-mass (COM) as determined by USEI and CT.\n\nAim 2: Describe the concordance between the lumpectomy bed volume as measured by USEI and CT.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Resected Breast Cancer",
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "ultrasound scan",
+      "type": "OTHER",
+      "description": "The only study procedure involved in this project is for subjects to undergo an ultrasound scan during their radiation therapy simulation. The ultrasound is done at this time, so it can be co-registered to the routine breast treatment planning CT scan."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Women with breast cancer, who are status post lumpectomy and are scheduled to have radiation therapy, will be eligible.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University School of Medicine",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Describe the concordance between the lumpectomy bed's center-of-mass (COM) as determined by USEI and CT",
+      "timeFrame": "2 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [],
+  "start_date": "2007-08",
+  "completion_date": "2012-07",
+  "last_updated": "2012-11-15"
+}

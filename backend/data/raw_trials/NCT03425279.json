@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT03425279",
+  "brief_title": "CAB-AXL-ADC Safety and Efficacy Study in Adult and Adolescent Patients With Sarcoma",
+  "official_title": "A Phase 1/2 Dose Escalation and Dose Expansion Study of Mecbotamab Vedotin (BA3011) Alone and in Combination With Nivolumab in Adult and Adolescent Patients 12 Years and Older With Advanced Solid Tumors",
+  "brief_summary": "The objective of this study is to assess the safety and efficacy of mecbotamab vedotin (BA3011) in solid tumors.",
+  "detailed_description": "This is a multi-center, open-label, Phase 1/2 study designed to evaluate the safety, tolerability, PK, immunogenicity, and antitumor activity of mecbotamab vedotin (BA3011), a conditionally active biologic (CAB) AXL-targeted antibody drug conjugate (CAB-AXL-ADC) in patients with advanced solid tumors.\n\nPhase 1 of this study will consist of a dose escalation phase (enrollment complete as of Oct 2019) and a dose expansion phase (enrollment complete as of Jan 2024).\n\nPhase 2 will consist of two parts. Part 1 is designed to evaluate mecbotamab vedotin alone and with nivolumab in patients with various types of advanced sarcomas (enrollment complete as of Jan 2024). Part 2 will evaluate the safety and efficacy of mecbotamab vedotin in patients with undifferentiated pleomorphic sarcoma (UPS) and myxofibrosarcoma (MFS).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 245,
+  "conditions": [
+    "Undifferentiated Pleomorphic Sarcoma",
+    "Myxofibrosarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "CAB-AXL-ADC",
+      "type": "BIOLOGICAL",
+      "description": "Conditionally active biologic anti-AXL antibody drug conjugate"
+    },
+    {
+      "name": "PD-1 inhibitor",
+      "type": "BIOLOGICAL",
+      "description": "PD-1 inhibitor"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have measurable disease.\n* Age \u2265 12 years (Phase 2)\n* Adequate renal function\n* Adequate liver function\n* Adequate hematological function\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Life expectancy of at least three months.\n\nExclusion Criteria:\n\n* Patients must not have clinically significant cardiac disease.\n* Patients must not have known non-controlled CNS metastasis.\n* Patients must not have a history of \u2265 Grade 3 allergic reactions to mAb therapy as well as known or suspected allergy or intolerance to any agent given during this study.\n* Patients must not have had major surgery within 4 weeks before first BA3011 administration.\n* Patients must not have had prior therapy with a conjugated or unconjugated auristatin derivative/vinca-binding site targeting payload.\n* Patients must not have known human immunodeficiency virus (HIV) infection, active hepatitis B and/or hepatitis C.\n* Patients must not be women who are pregnant or breast feeding.",
+    "gender": "ALL",
+    "min_age": "12 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Abramson Cancer Center at Pennsylvania Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19106",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1: Safety Profile",
+      "timeFrame": "Up to 24 months",
+      "description": "Assess dose limiting toxicity as defined in the protocol"
+    },
+    {
+      "measure": "Phase 1: Safety Profile",
+      "timeFrame": "Up to 24 months",
+      "description": "Assess maximum tolerated dose as defined in the protocol"
+    },
+    {
+      "measure": "Phase 1 and 2: Safety Profile",
+      "timeFrame": "Up to 24 months",
+      "description": "Frequency and severity of AEs and/or SAEs, and changes from baseline in laboratory parameters and vital signs"
+    },
+    {
+      "measure": "Phase 2: Confirmed overall response rate (ORR) per RECIST v1.1",
+      "timeFrame": "Up to 24 months",
+      "description": "Proportion of patients who achieve a confirmed CR or PR according to RECIST v1.1"
+    }
+  ],
+  "sponsor": "BioAtla, Inc.",
+  "collaborators": [],
+  "start_date": "2018-02-15",
+  "completion_date": "2025-01-08",
+  "last_updated": "2025-09-22"
+}

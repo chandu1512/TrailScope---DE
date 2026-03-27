@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT02912949",
+  "brief_title": "A Study of Zenocutuzumab (MCLA-128) in Patients With Solid Tumors Harboring an NRG1 Fusion (eNRGy)",
+  "official_title": "A Phase I/II Study of MCLA-128, a Full Length IgG1 Bispecific Antibody Targeting HER2 and HER3, in Patients With Solid Tumors (eNRGy)",
+  "brief_summary": "This is a Phase I/II, open-label, multi-center, multi-national, dose escalation, single agent study to assess the safety, tolerability, PK, PD, immunogenicity and anti-tumor activity of zenocutuzumab (MCLA-128) in patients with solid tumors harboring an NRG1 fusion (eNRGy)",
+  "detailed_description": "Study Design :\n\nThis open label (all participants know the identity of the study drug), multicenter (more than one study site), first-in-human study consisting of 2 parts. Part 1 is a dose escalation and Part 2 is a dose expansion cohort. Part 1 has been completed.\n\nPart 2 new patient populations examine:\n\n* Group F: Patients with NSCLC with documented NRG1 fusion\n* Group G: Patients with pancreatic adenocarcinoma with documented NRG1 fusion\n\nFor these new patient populations, Part 2 will further characterize the safety and tolerability of the selected dose level of zenocutuzumab (MCLA-128), as well as assessment of CBR, defined as the proportion of patients with a CR, PR or durable SD (SD for at least 24 weeks in duration). For the new patient populations, overall response rate (ORR) and duration of response (DOR) will be described.\n\nThe study consists of 3 periods: Screening period (up to 28 days prior to the first dose of study drug)\u037e Treatment period (treatment cycles of 28 days)\u037e and Follow Up period (through 30 days after the last dose and quarterly checks for survival data for up to 2 years). Participants safety will be monitored throughout the study.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 250,
+  "conditions": [
+    "Solid Tumours Harboring NRG1 Fusion",
+    "NSCLC Harboring NRG1 Fusion",
+    "Pancreatic Cancer Harboring NRG1 Fusion",
+    "NRG1 Fusion"
+  ],
+  "interventions": [
+    {
+      "name": "zenocutuzumab (MCLA-128)",
+      "type": "DRUG",
+      "description": "full length IgG1 bispecific antibody targeting HER2 and HER3"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* At least one measurable lesion according to RECIST v1.1 OR evaluable disease for a limited number of patients (up to 15) in Group H;\n* Performance status of ECOG 0 - 2;\n* Estimated life expectancy of at least 12 weeks;\n* Toxicities incurred as a result of previous anti-cancer therapy resolved to \u2264Grade 1;\n* Treatment with anti-cancer medication or investigational drugs within the following intervals before the first dose of MCLA-128:\n\n  1. more than 14 days or more than 5 half-lives prior to study entry, whichever is shorter.\n  2. more than 14 days for radiotherapy.\n* Recovery from major surgery or other complication to \u2264 Grade 2 or baseline ;\n* Absolute neutrophil count \u22651.5 x 109/L without colony stimulating factor support for at least 7 days prior to screening;\n* Platelets \u226575 x 109/L without transfusion support for at least 7 days prior to screening;\n* Hemoglobin \u22658 g/dL or \u22655 mmol/L;\n* Alanine aminotransferase (ALT), aspartate aminotransferase (AST) \u22643 x upper limit of normal (ULN) and total bilirubin \u22641.5 x ULN; in cases of metastatic liver involvement, ALT/AST \u22645 x ULN and total bilirubin \u22642 x ULN will be allowed; in cases of antecedents of Gilbert's syndrome when total bilirubin \u22643.0 x ULN or direct bilirubin \u22641.5 x ULN will be allowed;\n* Estimated glomerular filtration rate (GFR) of more than 30 mL/min\n* Able to provide a tumor biopsy sample (fresh strongly preferred or else archival);\n* Not pregnant or nursing\n* Fertile patients must use effective contraception during and for 6 month after completion of study therapy;\n* Patients must have received prior standard therapy appropriate for their tumor type and stage of disease, or in the opinion of the Investigator, would be unlikely to tolerate or derive clinically meaningful benefit from appropriate standard of care therapy or no satisfactory alternative treatment options are available;\n* Locally-advanced unresectable or metastatic solid tumor malignancy with documented NRG1 gene fusion, identified through molecular assays such as next generation sequencing-based assays \\[DNA or RNA\\], as routinely performed at CLIA or other similarly-certified laboratories.\n\nExclusion Criteria:\n\n* Pregnant or lactating;\n* Presence of an active uncontrolled infection or an unexplained fever;\n* Known hypersensitivity to any of the components of MCLA-128;\n* Known HIV, active Hepatitis B without receiving antiviral treatment, or Hepatitis C; patients treated for Hepatitis C and have undetectable viral loads are eligible\n* Known symptomatic or unstable brain metastases;\n* Patients with leptomeningeal metastases;\n* Presence of LVEF below 50% on the screening echocardiogram; or history or presence of any significant cardiovascular disease, including unstable angina or myocardial infarction within 12 months prior to screening, congestive heart failure (NYHA Class III or IV), or ventricular arrhythmia requiring medication;\n* Previous or concurrent malignancy (excluding non-basal cell carcinoma of skin or carcinoma in situ of the uterine cervix) unless the tumor was treated with curative intent more than 2 years prior to study entry;\n* Presence of any other medical or psychological condition deemed by the Investigator to be likely to interfere with a patient ability to sign informed consent, cooperate or participate in the study, or interfere with the interpretation of the results.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective overall response rate (ORR) as per local investigator's assessment",
+      "timeFrame": "36 months",
+      "description": "Evaluation of clinical benefit assessed by RECIST v1.1 determining objective overall response rate (ORR)"
+    },
+    {
+      "measure": "Duration of response per RECIST v1.1 as per local Investigator's assessment.",
+      "timeFrame": "36 Months",
+      "description": "To assess durability of anti-tumor activity of MCLA-128 in patients with NRG1 fusions as assessed locally"
+    }
+  ],
+  "sponsor": "Partner Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2015-01",
+  "completion_date": "2026-12-31",
+  "last_updated": "2025-04-25"
+}

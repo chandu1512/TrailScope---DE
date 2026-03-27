@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT02052648",
+  "brief_title": "Study of IDO Inhibitor and Temozolomide for Adult Patients With Primary Malignant Brain Tumors",
+  "official_title": "A Phase I/II Study of the Combination of Indoximod and Temozolomide for Adult Patients With Temozolomide-Refractory Primary Malignant Brain Tumors",
+  "brief_summary": "In this study, investigators will conduct a phase I/II trial in recurrent (temozolomide resistant) glioma patients. The overall goal of this study is to provide a foundation for future studies with indoximod tested in newly diagnosed glioblastoma patients with radiation and temozolomide, or in combination with vaccine therapies.",
+  "detailed_description": "The aim of this study is to identify the safety profile and the recommended dose for phase 2 study of the combination of indoximod (portion 1, phase 1b study). Investigators will then evaluate the tolerability and the preliminary activity in patients with recurrent GBM in three different situations:\n\n* Combination of indoximod and temozolomide (bevacizumab-naive patients)\n* Combination of indoximod and temozolomide in patients currently receiving or having received and failed bevacizumab.\n* Combination of indoximod and temozolomide with stereotactic radiation. Ancillary studies will be conducted to assess the correlation between intra-tumoral IDO expression or serum biomarkers (immune monitoring) and treatment efficacy.\n\nIf the current study shows an acceptable safety profile and suggests preliminary evidence of activity, this will provide the justification for subsequent randomized phase 2 studies in refractory glioblastoma multiforme (GBM).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 160,
+  "conditions": [
+    "Glioblastoma Multiforme",
+    "Glioma",
+    "Gliosarcoma",
+    "Malignant Brain Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Indoximod",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Temozolomide",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Stereotactic Radiation",
+      "type": "RADIATION",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically proven intracranial glioblastoma multiforme (WHO grade IV glioma) or gliosarcoma. In addition, the Phase 1b cohort will include patients with progressive WHO grade III glioma.\n* Patients will be eligible if the original histology was lower grade glioma and a subsequent diagnosis of glioblastoma or gliosarcoma is made.\n* Unequivocal radiographic evidence for tumor progression by MRI. It is understood that some patients may be resected prior to enrolling onto protocol\n* Patients must have completed a course of radiation therapy and at least 2 adjuvant cycles of temozolomide for the phase 2 component.\n* Patients enrolling onto Cohort 2b who have been taken off bevacizumab must have had at least a 28 day washout from any previous administration of bevacizumab. It is preferred that patients who fail bevacizumab prior to trial entry remain on bevacizumab in the trial.\n* Prior temozolomide is not required for the phase 1 component; prior radiation is required for the phase 1 arm.\n* Patients must be on a steroid dose less than or equal to 2 mg of dexamethasone daily (or equivalent), and this dose must not have increased for at least 14 days prior to obtaining the enrollment.\n* ECOG performance status \u22641 or Karnofsky \u226570%.\n* Age between 16\n* Must be 28 days from the administration of any investigational agent or prior cytotoxic therapy with the following exceptions:\n* Must be 14 days from administration of non-cytotoxic agents (e.g., bevacizumab (except COHORT 2b), interferon, tamoxifen, thalidomide, cis-retinoic acid, tyrosine kinase inhibitor, etc.).\n\nExclusion Criteria:\n\n* Prior invasive malignancy that is not low-grade glioma, high-grade glioma, glioblastoma, or gliosarcoma (except non-melanomatous skin cancer or carcinoma in situ of the cervix) unless the patient has been disease free and off therapy for that disease for a minimum of 3 years.\n* Patients on the phase 2 portion of the study may not have more than 2 prior regimens for recurrent disease for glioblastoma/gliosarcoma. Patients on the phase 1 portion of the study may not have had more than 3 prior regimens.\n* Systemic corticosteroid therapy \\> 2 mg of dexamethasone daily (or equivalent) at study enrollment.\n* Active or history of autoimmune disease",
+    "gender": "ALL",
+    "min_age": "16 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Frequency of Regimen-Limiting Toxicities (RLTs) in Phase 1 Subjects",
+      "timeFrame": "3 months",
+      "description": "Number of RLTs observed in each dose level."
+    },
+    {
+      "measure": "Phase 2: Number of Phase 1 Participants With Efficacy Outcomes",
+      "timeFrame": "6 months",
+      "description": "Six-month progression-free survival."
+    }
+  ],
+  "sponsor": "NewLink Genetics Corporation",
+  "collaborators": [],
+  "start_date": "2014-03",
+  "completion_date": "2019-06-20",
+  "last_updated": "2024-02-28"
+}

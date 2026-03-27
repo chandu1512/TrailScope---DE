@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT04867850",
+  "brief_title": "Effect of Behavioral Nudges on Serious Illness Conversation Documentation",
+  "official_title": "Effect of Behavioral Nudges to Clinicians, Patients, or Both on Serious Illness Conversation Documentation for Patients With Cancer",
+  "brief_summary": "The main purpose of this research study is to evaluate the effectiveness of \"nudges\" to clinicians, to patients, or to both in increasing Serious Illness Conversation (SIC) documentation; and to identify moderators of implementation effects on SIC documentation. The investigators will employ rapid-cycle approaches to optimize the framing of nudges to clinicians and patients prior to initiating the trial and mixed methods to explore contextual factors and mechanisms.\n\nThe investigators will conduct a four-arm pragmatic cluster randomize clinical trial to test the effectiveness of nudges to clinicians, nudges to patients, or nudges to both in increasing the frequency and timeliness of SIC documentation in cancer patients vs. usual care (UC). The investigators hypothesize that each of the implementation strategy arms will significantly increase SIC documentation compared to UC and that the combination of nudges to clinicians and to patients will be the most effective.",
+  "detailed_description": "Patients with cancer often experience physical and emotional distress, utilize unplanned acute care, and undergo medical interventions that are discordant with their wishes. Given the Covid-19 pandemic, these adverse outcomes are amplified, particularly for racial/ethnic minorities. Serious illness conversations (SICs) that elicit patients' values, goals, and care preferences, particularly early in the disease trajectory, are an evidence-based practice, improve patient mood and quality of life, and are recommended by national guidelines. Preliminary data suggests that SICs among patients with cancer are associated with improved quality of life, increased hospice utilization, and decreased acute care utilization. However, most patients with advanced cancer die without a documented SIC and there are well-documented health disparities in implementation for racial and ethnic minorities. Current strategies to promote SICs, including the multi-component strategies of the Serious Illness Conversation Program, focus primarily on clinician education and have marginally increased the timeliness and frequency of SICs and reduced patient anxiety and depression. While core elements of this program are transferable-such as its structured guide-clinical use remains low. For example, even after training, clinicians at Penn Medicine document SICs for fewer than 5% of patients with advanced cancer. There is critical need to develop, test, and disseminate strategies to improve the frequency of SICs.\n\nImplementation strategies informed by behavioral economics are ideally suited to address this problem, which is fundamentally one of clinician and patient behavior change. Clinician barriers to initiating SICs include optimism bias, or the belief that one's own patient is unlikely to experience a negative event; uncertainty about prognosis and appropriate timing; and fear that bringing up end-of-life issues may be distressing to patients. Patient barriers to SIC initiation include fear of discussing the end of life and beliefs that SICs are not appropriate until late in the course of cancer. While previous studies have tested financial incentives for SIC documentation, little research has evaluated behavioral economics-informed strategies to align both clinicians and patients towards earlier SICs.\n\nBy intentionally modifying the way choices are framed, behavioral nudges can lead to desirable changes in clinician behavior while preserving clinician choice. The investigators' preliminary work demonstrates the effectiveness of an implementation strategy focusing on a clinician nudge, consisting of performance feedback and targeted text messages identifying patients at high risk of mortality based on a validated machine learning prognostic algorithm. This strategy led to a threefold increase in SIC documentation for high-risk patients, equitably across racial/ethnic minority subgroups, and is now in routine use across Penn Medicine practice sites. However, clinicians still did not document SICs for over half of patients, illustrating the limitations of a clinician-directed implementation strategy alone.\n\nThis study will expand on these preliminary findings to evaluate the synergy between clinician- and patient-directed nudges to increase SIC documentation. The main purpose of this research study is to evaluate the effectiveness of nudges to clinicians, to patients, or to both in increasing Serious Illness Conversation (SIC) documentation; and to identify moderators of implementation effects on SIC documentation. The investigators will employ rapid-cycle approaches to optimize the framing of nudges to clinicians and patients prior to initiating the trial and mixed methods to explore contextual factors and mechanisms. The investigators will conduct a four-arm pragmatic cluster randomize clinical trial to test the effectiveness of nudges to clinicians, nudges to patients, or nudges to both in increasing the frequency and timeliness of SIC documentation in cancer patients vs. usual care (UC).\n\nRationale for clinician nudge using mortality prediction and peer comparison: Due to optimism bias, clinicians routinely overestimate the life expectancy of patients with advanced cancer and delay SICs until too late in the disease course. In part because of this, clinicians reinforce a social norm that early SICs are not part of routine oncology care. Providing an objective assessment of predicted mortality risk may help counteract optimism bias among clinicians and help them identify patients most likely to benefit from SICs. Moreover, that individuals desire to conform to an approved behavior (an injunctive norm) and the behavior of others (a descriptive norm) may contribute to low observed SIC rates, and may also afford an opportunity for intervention. The investigators expect that periodically reminding clinicians of their own performance on SIC documentation, while providing both an injunctive norm (citing national and institutional guidelines) and a descriptive social norm (displaying the behavior of their best performing peers), will lead clinicians to conform more closely to these norms, as has been shown in studies conducted in other contexts.\n\nRationale for patient nudge using priming: Priming is a type of nudge that frames information to activate one's self-efficacy and willingness to engage in behavior change. This type of nudge has not previously been evaluated as a tool to promote SICs for patients with cancer. The investigators will test the added impact of a patient nudge designed to prime patients and, in turn, their clinicians to having a SIC.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 4450,
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Usual Care",
+      "type": "OTHER",
+      "description": "Individual clinicians will receive an automated weekly email detailing a weekly roster of their upcoming repeat-patient visits (Index Visit) with patients at high risk of 6-month mortality as determined by a validated machine learning prognostic algorithm. Clinicians will receive a HIPAA compliant text message on the morning of the appointment reminding them to consider a serious illness conversation with patients on the list."
+    },
+    {
+      "name": "Clinician Nudge",
+      "type": "OTHER",
+      "description": "Clinicians will receive the usual care weekly email and text message described above under Usual Care. In addition, embedded in the weekly email, clinicians will receive performance feedback information detailing their documented SICs relative to those documented by peers."
+    },
+    {
+      "name": "Patient Nudge",
+      "type": "OTHER",
+      "description": "Ahead of the Index Visit, high risk patients as identified by the prognostic algorithm will receive a nudge via personal text message and email consisting of a normalizing message prompting patients with a personalized link to a short electronic questionnaire on SIC topics."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nClinician (M.D., P.A., or N.P.) participants must meet the following criteria:\n\n1\\. Provide care at least 1 clinic session per week for adult (age\\>18 years) patients with solid, hematologic, or gynecologic malignancies at a participating PennMedicine Implementation Lab site\n\nPatient participants must meet the following criteria:\n\n1. Receive care for a solid, hematologic, or gynecologic malignancy from an eligible provider at a participating PennMedicine Implementation Lab site\n2. Have at least one scheduled Return Patient Visit (either in person or via telemedicine) with an eligible PennMedicine provider during the study period\n\nExclusion Criteria:\n\nClinicians will be ineligible for \\*any\\* of the following reasons:\n\n1\\. Provide exclusively benign hematology, survivorship, and/or genetics care\n\nPatients will be ineligible for \\*any\\* of the following reasons:\n\n1. Previously documented SIC within 6 months\n2. Have a non-valid phone number",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center at University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of High Risk Patients With Documentation of a Serious Illness Conversation (SIC)",
+      "timeFrame": "Within 6 months of the Index Visit (baseline)",
+      "description": "Measured at the patient level as a binary outcome (yes/no) among high-risk patients based on date of documented note including the SIC template in the Advanced Care Planning (ACP) section of the electronic medical record by any provider\n\nOutcomes were measured for patients only."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2021-09-09",
+  "completion_date": "2022-09-09",
+  "last_updated": "2024-03-25"
+}

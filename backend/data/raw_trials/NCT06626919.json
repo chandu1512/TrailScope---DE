@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT06626919",
+  "brief_title": "A Phase 1 Study of Anitocabtagene Autoleucel for the Treatment of Subjects With Non-oncology Plasma Cell-related Diseases",
+  "official_title": "A Phase 1 Study of Anitocabtagene Autoleucel for the Treatment of Subjects With Non-oncology Plasma Cell-related Diseases",
+  "brief_summary": "A Phase 1 dose-escalation study designed to evaluate the safety, tolerability, and preliminary efficacy of anito-cel in subjects with generalized myasthenia gravis (GMG). Anitocabtagene autoleucel (anito-cel) is a BCMA-directed CAR-T cell therapy.",
+  "detailed_description": "This is a Phase 1 open-label, multi-center safety and dose-escalation study of anito-cel\\* in adult subjects with GMG (MGFA Grade 2 to 4a), in whom immunosuppressive therapy is clinically indicated in the judgement of the treating neurologist. The primary objective of this study is to assess the safety profile, including any DLT and identification of a MTD (if applicable), to support selection of the RP2D of anito-cel when administered to subjects with GMG.\n\nThe study will have the following sequential phases: screening, enrollment (leukapheresis), pretreatment with lymphodepletion (LD) chemotherapy, treatment with anito-cel and follow-up. Optional bridging therapy is allowed at investigator discretion while anito-cel is being manufactured.\n\nFollowing a single infusion of anito-cel both safety and efficacy data will be assessed. The DLTs will be assessed in the first 28 days following anito-cel administration, and safety data will be collected throughout the study.\n\n\\*Anitocabtagene autoleucel (anito-cel) drug product consists of autologous T cells that have been genetically modified ex vivo to express a D-domain Chimeric Antigen Receptor (CAR), followed by a cluster of differentiation 8 (CD8) hinge and transmembrane region that is fused to the intracellular signaling domains for 4-1BB and CD3\u03be, that specifically recognizes B-cell maturation antigen (BCMA). The active substance of anitocabtagene autoleucel is CAR+ CD3+ T cells that have undergone ex vivo T-cell activation, gene transfer by replication-deficient lentiviral vector, and expansion.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 30,
+  "conditions": [
+    "Muscular Diseases",
+    "Neuromuscular Manifestations",
+    "Autoimmune",
+    "Autoimmune Diseases",
+    "Autoimmune Diseases of the Nervous System",
+    "Myasthenia Gravis",
+    "Muscle Weakness"
+  ],
+  "interventions": [
+    {
+      "name": "anito-cel",
+      "type": "BIOLOGICAL",
+      "description": "Anitocabtagene autoleucel BCMA directed CAR T-cell therapy using a novel, synthetic binding domain, called a D-Domain"
+    },
+    {
+      "name": "Standard Lymphodepletion regimen",
+      "type": "DRUG",
+      "description": "Standard lymphodepletion regimen subject receive 5 days prior to CAR T infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subject must be 18 years of age or older\n* Must have MGFA clinical classification Grades 2-4A at time of screening\n* Subject must have clinically active disease and requiring ongoing therapy for GMG\n* MG-ADL score 6 and QMG score \\>10 at screening\n* GMG specific autoantibodies must be above the reference laboratory ULN\n\nExclusion Criteria:\n\n* Subject is pregnant or breastfeeding\n* Treatment with Anti-CD20 agents, calcineurin inhibitors, FcRN inhibitors, azathioprine, mycophenolate mofetil, methotrexate, or cyclophosphamide within the specified time frame prior to leukapheresis or prior to anito-cel infusion\n* Previous treatment with any gene therapy, chimeric antigen receptor therapy or T cell engager\n* Previous thymectomy within 6 months of screening\n* Major chronic illness that is not well managed at the time of study entry and in the opinion of the investigator",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Temple University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19140",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Assess safety profile, including any DLT and MTD (if applicable)",
+      "timeFrame": "24 months",
+      "description": "Type, incidence, and severity of treatment-emergent adverse events (TEAEs), including DLT(s) and laboratory abnormalities"
+    },
+    {
+      "measure": "Selection of RP2D",
+      "timeFrame": "24 months",
+      "description": "Evaluate the MTD and establish the RP2D"
+    }
+  ],
+  "sponsor": "Arcellx, Inc.",
+  "collaborators": [],
+  "start_date": "2025-04-30",
+  "completion_date": "2028-04",
+  "last_updated": "2026-02-24"
+}

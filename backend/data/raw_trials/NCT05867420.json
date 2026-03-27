@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT05867420",
+  "brief_title": "A Study of ASKG915 in Patients With Selected Advanced Solid Tumors.",
+  "official_title": "A Phase 1 Dose Escalation Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of ASKG915 in Patients With Selected Advanced Solid Tumors",
+  "brief_summary": "The study is a dose-escalation and dose-expansion study to evaluate the safety, tolerability, and pharmacokinetics of ASKG915 as a single agent or in combination with standard of care (SOC) in patients with selected types of advanced solid tumors.",
+  "detailed_description": "Monotherapy:\n\nA dose-escalation (Part A) and expansion (Part B) study of ASKG915 monotherapy was initiated to evaluate the safety, tolerability, pharmacokinetics (PK), and pharmacodynamics (PD) in patients with advanced solid tumors.\n\nCombination therapy:\n\nA dose-optimization (Part C) srudy of ASKG915 in combination with standard of care (SOC) in patients was conducted to evaluate the safety, tolerability, pharmacokinetics (PK), and pharmacodynamics (PD) in patients with selected types of advanced solid tumors.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 594,
+  "conditions": [
+    "Advanced Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "ASKG915",
+      "type": "BIOLOGICAL",
+      "description": "ASKG915 is administered intravenously at a scheduled dose. The drug was given once every 3 weeks or 4 weeks for a cycle."
+    },
+    {
+      "name": "Paclitaxel + Bevacizumab",
+      "type": "DRUG",
+      "description": "Paclitaxel is administered intravenously at a dose of 80 mg/m\u00b2, once weekly on a 21-day cycle.\n\nBevacizumab is administered intravenously at dose of 15mg/kg, once every 3 weeks on a 21-day cycle."
+    },
+    {
+      "name": "Fruquintinib",
+      "type": "DRUG",
+      "description": "The recommended dose of Fruquintinib is 5 mg orally once daily, with or without food for the first 21 days of each 28-day cycle."
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Docetaxel is administered intravenously at 75 mg/m\u00b2, once every 3 weeks on a 21-day cycle."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Histologically or cytologically confirmed advanced malignant tumor that is refractory to or intolerant of all standard therapy or for which no standard therapy is available.\n2. ECOG performance status of \u2264 2.\n3. Life expectancy of \u2265 3 months.\n4. The results of the laboratory tests must meet all criteria.\n\nExclusion Criteria:\n\n1. Patients have received antitumor therapy during the first 4 weeks before study drug use.\n2. Received a live attenuated vaccine within 4 weeks prior to C1D1.\n3. Known cerebral parenchymal metastasis or meningeal metastasis.\n4. History of serious cardiovascular or cerebrovascular diseases.\n5. Active or recurrent autoimmune diseases.\n6. History of ascites or pleural effusion requiring drainage.\n7. Pregnant or lactating or planning to become pregnant at any time during the study, including the Follow-up Period.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose limiting toxicities (DLTs)",
+      "timeFrame": "21days or 28 days",
+      "description": "To evaluate the safery of ASKG915 in subjects."
+    },
+    {
+      "measure": "Adverse events(AEs)",
+      "timeFrame": "From the first dose to 30 days after the last dose",
+      "description": "To evaluate the safery of ASKG915 in subjects."
+    }
+  ],
+  "sponsor": "AskGene Pharma, Inc.",
+  "collaborators": [
+    "Jiangsu Aosaikang Pharmaceutical Co., Ltd."
+  ],
+  "start_date": "2023-08-02",
+  "completion_date": "2028-06-30",
+  "last_updated": "2026-01-26"
+}

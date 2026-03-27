@@ -1,0 +1,92 @@
+{
+  "nct_id": "NCT00389155",
+  "brief_title": "First-Line Treatment of Advanced Bladder Cancer Randomized vs. Gemcitabine \u00b1 Vinflunine in Patients Ineligible to Receive Cisplatin-Based Therapy",
+  "official_title": "A Multicenter, Randomized Double-Blind Phase II/III Study in the First-Line Treatment of Advanced Transitional Cell Carcinoma (TCC) of the Urothelium Comparing Vinflunine/Gemcitabine to Placebo/Gemcitabine in Patients Who Are Ineligible to Receive Cisplatin-Based Therapy",
+  "brief_summary": "The purpose of this study is to test an investigational drug, vinflunine (BMS-710485), in combination with gemcitabine in patients with Transitional Cell Carcinoma who cannot be treated with cisplatin. This study will help to determine whether vinflunine in combination with gemcitabine will extend the time period until further growth of the tumor more than gemcitabine alone.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 34,
+  "conditions": [
+    "Bladder Cancer",
+    "Transitional Cell Carcinoma",
+    "Metastasis"
+  ],
+  "interventions": [
+    {
+      "name": "Vinflunine",
+      "type": "DRUG",
+      "description": "solution for injection, IV, vinflunine: 280/320 mg/m2 + gemcitabine: 1000 mg/m2, every 3 wks, variable duration"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "solution for injection, IV, placebo + gemcitabine, 1000 mg/m2, every 3 wks, variable duration"
+    },
+    {
+      "name": "Placebo",
+      "type": "OTHER",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of transitional cell carcinoma of the urothelium that is locally advanced or metastatic\n* Ineligible for cisplatin-based therapy because of at least one of the following two medical conditions:\n\n  * Calculated creatinine clearance \u226460 mL/min: OR\n  * New York Heart Association Classification Stage III-IV Congestive Heart Failure\n* Measurable disease documented by imaging with at least one uni-dimensional lesion\n* Adequate performance status (ECOG 0, 1, or 2)\n* Men and women \u226518 years of age\n\nExclusion Criteria:\n\n* Patients in whom radiation or surgery is indicated\n* Current neuropathy \u2265 CTCAE grade 3\n* Prior radiation to \u2265 30% of bone marrow\n* Inadequate renal function: serum creatinine clearance \u2264 20 mL/min\n* Prior allergy to any vinca alkaloid",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19718",
+      "status": ""
+    },
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center At Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "The Cancer Center At Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Abramson Cancer Center Of The",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Guthrie Foundation For Education And Research",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Median Progression-free Survival (PFS) as Defined by Response Evaluation Criteria in Solid Tumors (RECIST) Criteria in Participants With Advanced Transitional Cell Carcinoma (TCC) of the Urothelium",
+      "timeFrame": "Until tumor progression, unacceptable toxicity, withdrawal of patient consent, or discontinuation by investigator decision",
+      "description": "PFS survival is defined as the time between randomization and the date of progression or death, whichever occurs first, before or after treatment discontinuation. For those still on study and those who remain alive and have not progressed after treatment discontinuation, PFS will be censored on the date of the last tumor assessment."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2007-01",
+  "completion_date": "2008-01",
+  "last_updated": "2015-11-06"
+}

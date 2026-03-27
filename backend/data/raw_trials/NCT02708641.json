@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT02708641",
+  "brief_title": "A Phase II Study of Pembrolizumab as Post-Remission Treatment of Patients \u2265 60 With AML",
+  "official_title": "A Phase II Study of Pembrolizumab as Post-Remission Treatment of Patients \u2265 60 With Acute Myeloid Leukemia (AML) Who Are Not Transplantation Candidates",
+  "brief_summary": "This study evaluates the effect of pembrolizumab on the duration of remission in acute myeloid leukemia. Pembrolizumab is given after complete remission is obtained in those with AML at least 60 years old who are not candidates for allogeneic stem cell transplant. The primary purpose of this study is determine if the time to relapse can be extended. Additionally, the safety and tolerability of pembrolizumab will be closely monitored.",
+  "detailed_description": "Patients \\>60 years old with AML often have a dismal prognosis. Even though many of these patients are able to obtain a Complete Response to treatment, relapse occurs in the vast majority of patients. Transplants may reduce relapse rates in this population, but is only feasible in a minority of patients. AML's immunosuppressive microenvironment in general and PD-1/PD-L1 upregulation in particular appears to increase the risk of relapse. Importantly, PD-1 and its ligands are particularly increased after therapy compared to initial diagnosis. As such, PD-1 inhibition with pembrolizumab offers to limit leukemic cell immune escape, thereby allowing the patient's immune system to eradicate the submicroscopic residual disease and reducing relapse rates.\n\nTreatment for this study is 200 mg Q3W as an appropriate dose for the switch to fixed dosing is based on simulations performed using the population PK model of Pembrolizumab showing that the fixed dose of 200 mg every 3 weeks will provide exposures that 1) are optimally consistent with those obtained with the 2 mg/kg dose every 3 weeks, 2) will maintain individual patient exposures in the exposure range established in melanoma as associated with maximal efficacy response and 3) will maintain individual patients exposure in the exposure range established in melanoma that are well tolerated and safe.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 12,
+  "conditions": [
+    "Acute Myeloid Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "pembrolizumab",
+      "type": "DRUG",
+      "description": "200 mg IV given every three weeks"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* be willing and able to provide written informed consent for the trial\n* be \u2265 60 years of age on day of signing informed consent\n* have a newly diagnosed AML based on the World Health Organization (WHO) criteria, currently in first complete remission (CR) on a bone marrow biopsy performed within 4 weeks of treatment initiation\n* have received the last dose of induction or consolidation chemotherapy within 3 months of treatment initiation\n* not be eligible for or willing to proceed with allogeneic stem cell transplant or for whom allogeneic stem cell transplant is not considered standard of care\n* have a performance status of \u2264 1 on the Eastern Cooperative Oncology Group (ECOG) Performance Scale\n* demonstrate adequate organ function, with all screening labs performed within 10 days of treatment initiation\n* transfusion independent (no red blood cell or platelet transfusions in the preceding 2 weeks of screening)\n* negative urine and/or serum pregnancy test\n* subjects of reproductive potential must agree to use acceptable birth control method\n\nExclusion Criteria:\n\n* have a diagnosis of Acute Promyelocytic Leukemia (APL) as defined by the WHO\n* currently participating in or has participated in a study of an investigational agent or device within 4 weeks of treatment initiation\n* have a diagnosis of immunodeficiency or are receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to treatment initiation\n* have prior monoclonal antibody within 4 weeks prior to study Day 1 or have not recovered from adverse events due to agents administered more than 4 weeks earlier\n* have prior chemotherapy, targeted small molecule therapy, or radiation therapy within 2 weeks prior to study Day 1 have not recovered from adverse events due to previously administered agent(s)\n* have a known additional malignancy that is progressing or requires active treatment except for basal cell carcinoma of the skin, squamous cell carcinoma of the skin, or in situ cervical cancer that has undergone potentially curative therapy\n* have known active central nervous system (CNS) involvement\n* have an active autoimmune disease requiring systemic treatment within the past 3 months\n* has a history of (non-infectious) pneumonitis that required steroids or current pneumonitis\n* have an uncontrolled, life-threatening active infection\n* have a history or current evidence of condition, therapy, or laboratory abnormality that would preclude study participation in the opinion of the treating investigator\n* have known psychiatric or substance abuse disorders that would interfere with cooperation with the trial requirements\n* is pregnant or breastfeeding, or expecting to conceive or father children within the projected duration of the trial\n* have received prior therapy with any antibody targeting the T-cell co-stimulation or checkpoint pathways\n* have a known history of HIV\n* have known active Hepatitis B or Hepatitis C\n* have received a live vaccine within 30 days prior to treatment initiation",
+    "gender": "ALL",
+    "min_age": "60 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Time to Relapse (TTR)",
+      "timeFrame": "Up to 24 months",
+      "description": "Time to recurrence of AML, including only deaths related to recurrence. Relapse of AML is defined as patients reaching remission (bone marrow contains \\<5% blast cells, blood cell counts return to within normal limits, no signs disease) followed by a return of leukemia cells in the marrow and a decrease in normal blood cells."
+    },
+    {
+      "measure": "Worst Grade of Adverse Events Experienced (Unrelated to Relatedness to Study Therapy)",
+      "timeFrame": "Up to 24 months",
+      "description": "Worst Grade of AE experienced, regardless of relatedness to study therapy, per CTCAE v5.0."
+    },
+    {
+      "measure": "Worst Grade of Adverse Events Experienced (at Least Probably Related to Treatment)",
+      "timeFrame": "Up to 24 months",
+      "description": "Worst Grade of AE experienced, at least probably related to treatment, per CTCAE v5.0."
+    }
+  ],
+  "sponsor": "Michael Boyiadzis",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2016-10-04",
+  "completion_date": "2020-12",
+  "last_updated": "2021-07-16"
+}

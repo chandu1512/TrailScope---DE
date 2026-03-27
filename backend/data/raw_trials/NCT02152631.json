@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT02152631",
+  "brief_title": "A Study of Abemaciclib (LY2835219) in Participants With Previously Treated KRAS Mutated Lung Cancer",
+  "official_title": "JUNIPER: A Randomized Phase 3 Study of Abemaciclib Plus Best Supportive Care Versus Erlotinib Plus Best Supportive Care in Patients With Stage IV NSCLC With a Detectable KRAS Mutation Who Have Progressed After Platinum-Based Chemotherapy",
+  "brief_summary": "The main purpose of this study is to evaluate how safe and effective the study drug known as abemaciclib is in participants with lung cancer.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 453,
+  "conditions": [
+    "Non Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Abemaciclib",
+      "type": "DRUG",
+      "description": "Administered orally"
+    },
+    {
+      "name": "Erlotinib",
+      "type": "DRUG",
+      "description": "Administered orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have confirmed diagnosis of stage IV non-small cell lung cancer (NSCLC) according to the American Joint Committee on Cancer Staging Handbook.\n* Determined to have detectable mutations in codons 12 or 13 of the kirsten rat sarcoma (KRAS) oncogene by an investigational assay at the study central laboratory. A KRAS positive mutation result in codons 12 or 13 of the KRAS oncogene from tumor tissue per local laboratory will be permitted in no more than 10% of randomized participants.\n* Have progressed after platinum-based chemotherapy (with or without maintenance therapy) AND have received one additional therapy which may include an immune checkpoint inhibitor or other anti-cancer therapy for advanced and/or metastatic disease OR is judged by the physician as ineligible for further standard second-line chemotherapy. Participants who have progressed after platinum-based chemotherapy and an immune checkpoint inhibitor (immunotherapy) e.g. pembrolizumab or nivolumab alone or in combination with other agents are eligible.\n* Have measureable disease as defined by the Response Evaluation Criteria in Solid Tumors (RECIST 1.1).\n* Have a performance status (PS) of 0 to 1 on the Eastern Cooperative Oncology Group (ECOG) scale.\n* Have discontinued all previous therapies for cancer (including chemotherapy, radiotherapy, immunotherapy, and investigational therapy) for at least 21 days for myelosuppressive agents or 14 days for nonmyelosuppressive agents prior to receiving study drug.\n\nExclusion Criteria:\n\n* Have received treatment with a drug that has not received regulatory approval for any indication within 14 or 21 days of the initial dose of study drug for a nonmyelosuppressive or myelosuppressive agent, respectively.\n* Have a personal history of any of the following conditions: presyncope or syncope of either unexplained or cardiovascular etiology, ventricular arrhythmia (including but not limited to ventricular tachycardia and ventricular fibrillation), or sudden cardiac arrest.\n* Have the presence of unstable central nervous system (CNS) metastasis. History of CNS metastasis or stable CNS metastases is allowed (no longer requiring active therapy such as steroid medications). Participants with a history of CNS metastases must have a brain scan (for example, magnetic resonance imaging \\[MRI\\]) within 28 days of randomization to document stability, even if there have been no changes in symptoms.\n* Have previously completed or withdrawn from this study or any other study investigating a cyclin-dependent kinase 4 (CDK4) and cyclin-dependent kinase 6 (CDK6) inhibitors, or have received treatment with a prior CDK4 and CDK6 inhibitors.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Medical Oncology Hematology Consultants",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Walter Reed National Military Medical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20889",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "From Randomization Date to Date of Death from Any Cause (Up to 32 Months)",
+      "description": "OS defined as from randomization date to the date of death due to any cause. For each participant who is not known to have died as of the data-inclusion cutoff date for overall survival analysis, OS time was censored on the last date the participant is known to be alive."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2014-10-03",
+  "completion_date": "2026-12",
+  "last_updated": "2026-01-19"
+}

@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT00328614",
+  "brief_title": "Samarium-153 With Neoadjuvant Hormonal and Radiation Therapy for Locally Advanced Prostate Cancer",
+  "official_title": "A Phase I Pilot Study of Samarium-153 Combined With Neoadjuvant Hormonal Therapy and Radiation Therapy in Men With Locally Advanced Prostate Cancer",
+  "brief_summary": "The purpose of this study is to determine the safety and effectiveness of Samarium-153 when given in combination with hormonal and external beam radiation therapy in men with high risk prostate cancer.",
+  "detailed_description": "The likelihood of prostate cancer cells metastasizing to bone has an early and important influence on the natural history of prostate cancer. Bone-targeted therapy, when given sequentially with hormonal therapy (androgen suppression) and radiation therapy, prolongs the progression of the disease in clinically non-metastatic prostate cancer patients.\n\nThe use of Samarium-153 EDTMP in conjunction with hormonal therapy and external beam radiation therapy has never been previously evaluated in high risk clinically localized prostate cancer. Many patients with high-risk prostate cancer develop progressive disease within 2 years of therapy indicating that subclinical metastatic disease may be present at the time of initial diagnosis. In these high-risk patients, there may be a therapeutic benefit of combining hormonal therapy with external beam radiation therapy and Samarium-153 EDTMP to treat localized and subclinical bony disease, respectively.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 32,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Samarium-153",
+      "type": "DRUG",
+      "description": "Samarium-153 will be administered as a single dose after one month of hormonal therapy. The dose level of Samarium-153 may change to determine maximum tolerated dose (MTD)."
+    },
+    {
+      "name": "Total Androgen Suppression (TAS) with Bicalutamide",
+      "type": "DRUG",
+      "description": "Patients will receive 5 months of total androgen suppression (TAS) consisting of Zoladex and Casodex. Total androgen suppression will begin 3 months prior to initiation of irradiation."
+    },
+    {
+      "name": "Total androgen suppression (TAS) with Goserelin Acetate",
+      "type": "DRUG",
+      "description": "Patients will receive 5 months of total androgen suppression (TAS) consisting of Zoladex and Casodex. Total androgen suppression will begin 3 months prior to initiation of irradiation."
+    },
+    {
+      "name": "Radiation Therapy",
+      "type": "DEVICE",
+      "description": "Radiation therapy will begin 3 months following the initiation of hormone administration. Daily tumor doses will be given 5 days per week for 7-8 weeks."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* PSA 20-150 and Gleason score greater than or equal to 7 or clinical stage greater than or equal to T2, Gleason greater than or equal to 8, PSA less than or equal to 150\n* Pathologically positive lymph nodes\n* Pretreatment must be prior to study entry and prior to any hormonal therapy\n* Zubrod 0-1\n* Adequate hematologic function\n\nExclusion Criteria:\n\n* Patients with PSA equal to or greater than 150\n* Neuroendocrine features on histologic examination\n* Radiologic evidence of metastatic disease\n* Previous malignancy within last 5 years\n* Prior pelvic radiation therapy or orchiectomy",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum Tolerated Dose of Samarium-153",
+      "timeFrame": "5 months (1 month HT, administration of drug, 4 months HT and RT)",
+      "description": "To determine the maximum tolerated dose (MTD) of Samarium as adjuvant to combined hormonal therapy (HT) and external beam radiation therapy (RT).\n\nDose levels:\n\nDose I: 0.25 mCi/kg IV Dose II: 0.5 mCi/kg IV Dose III: 0.75 mCi/kg IV Dose IV: 1.0 mCi/kg IV Dose V: 1.5 mCi/kg IV Dose VI: 2.0 mCi/kg IV\n\nDose-limiting toxicity will be defined as Grade 3 hematologic toxicity per NCI Common Toxicity Criteria. The maximally tolerated dose (MTD) will then be the last dose studied or the previous dose, based on clinical judgment of the degree of toxicity seen at the last dose."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [
+    "Cytogen Corporation"
+  ],
+  "start_date": "2003-03",
+  "completion_date": "2011-06",
+  "last_updated": "2025-05-14"
+}

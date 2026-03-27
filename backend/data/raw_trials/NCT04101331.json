@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT04101331",
+  "brief_title": "Phase II Study to Assess AFM13 in Patients With R/R CD30-positive T-cell Lymphoma or Transformed Mycosis Fungoides",
+  "official_title": "A Phase II Open-label Multicenter Study to Assess the Efficacy and Safety of AFM13 in Patients With Relapsed or Refractory CD30-positive Peripheral T-cell Lymphoma or Transformed Mycosis Fungoides (REDIRECT)",
+  "brief_summary": "This is a phase II study to evaluate the antitumor activity and safety of AFM13 given as monotherapy in patients with CD30-positive T-cell lymphoma. The investigational medicinal product AFM13 is a tetravalent bispecific chimeric (anti-human CD30 x anti-human CD16A) recombinant antibody construct which is being developed to treat CD30-positive malignancies.\n\nPatients who suffer from peripheral T-cell lymphoma or transformed mycosis fungoides, whose tumor expresses the surface marker CD30, and who have relapsed after an earlier treatment or have refractory disease will be enrolled into this study if all of the study entry criteria are fulfilled. Dependent on their disease type and the magnitude of CD30 expression, study participants will be assigned to one of 3 study cohorts, each cohort receiving the same treatment of weekly AFM13 infusions (a 200mg dose per infusion).\n\nThe main goal of the study is to assess the efficacy of AFM13 treatment as judged by the rate of overall responses. Further goals are to assess the safety of AFM13 treatment, the immunogenicity of AFM13 (as measured by the potential formation of anti-AFM13 antibodies) and the concentration of AFM13 in the blood.\n\nApprox. 1 month after the last dose of AFM13 there will be a final study visit to assess the patients' health status after therapy, followed by quarterly phone contacts to check on their overall health status and long-term survival.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 108,
+  "conditions": [
+    "Peripheral T Cell Lymphoma",
+    "Transformed Mycosis Fungoides"
+  ],
+  "interventions": [
+    {
+      "name": "AFM13",
+      "type": "DRUG",
+      "description": "weekly intravenous infusions of 200mg"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Main Inclusion Criteria:\n\n* Histologically confirmed CD30-positive PTCL (most subtypes allowed) or TMF per the revised World Health Organization 2016 classification (Swerdlow, 2016) by central assessment.\n* Cohorts A and B (PTCL cohorts): measurable by the modified Lugano Classification (Cheson, 2014); measurable disease of \u22651.5 cm diameter by computed tomography (CT), assessed locally for eligibility. Note: fluorodeoxyglucose (FDG) avid disease by positron emission tomography (PET) recommended, if possible.\n* Cohort C (TMF cohort): measurable by the Olsen Criteria (Olsen, 2011) including at least 1 cutaneous lymphoma lesion \u22652 cm in diameter, assessed locally for eligibility.\n* Patients must have relapsed or refractory disease AND the following:\n* Cohorts A and B (PTCL): patients must have received at least 1 prior line of systemic therapy. For patients with systemic ALCL, patients must have failed or be intolerant to brentuximab vedotin \\[BV\\]; Adcetris\u00ae\n* Cohort C (TMF): patients must have received at least 1 prior line of systemic therapy; and have exhausted systemic therapies with regular approval for their disease\n\nMain Exclusion Criteria:\n\n* Patients with the following subtypes of lymphoma: T-cell prolymphocytic leukemia; T-cell large granular lymphocytic leukemia; Chronic lymphoproliferative disorder of NK cells; Aggressive NK-cell leukemia; Extranodal NK-/T-cell lymphoma; Indolent T-cell lymphoproliferative disorder of the GI tract:\n* Has had an allogenic tissue hematopoietic cell/solid organ transplant within the last 3 years. Note: Patients who have had a transplant \\>3 years ago are eligible as long as there are no signs/symptoms of graft versus host disease (GvHD).\n* Requirement for systemic immunosuppressive therapy, e.g. GvHD therapy, \\<12 weeks prior to the first dose of study drug.\n* Prior treatment with AFM13",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response Rate Assessed by Independent Review Committee Based on PET-CT",
+      "timeFrame": "Tumor assessment performed every 8 weeks for first 3 assessments, then every 12 weeks until documented disease progression (up to 28 months).",
+      "description": "Overall response by Positron Emission Tomography-Computed Tomography (PET-CT) as defined by achieving complete response and/or partial response assessed by an Independent Review Committee (IRC) utilizing the modified Lugano Classification Revised Staging System for malignant lymphoma (Cheson, 2014)."
+    }
+  ],
+  "sponsor": "Affimed GmbH",
+  "collaborators": [],
+  "start_date": "2019-11-13",
+  "completion_date": "2024-01-11",
+  "last_updated": "2024-11-04"
+}

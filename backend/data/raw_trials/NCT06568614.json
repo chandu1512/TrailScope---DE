@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT06568614",
+  "brief_title": "An Investigational Study of BG-89894 Tablets in Participants With Advanced Solid Tumors",
+  "official_title": "A Phase 1 Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Antitumor Activity of BG-89894 (SYH2039) Tablets in Patients With Advanced Solid Tumors",
+  "brief_summary": "This study is being done to learn more about a new drug called BG-89894 (previously known as SYH2039). Researchers want to see if the drug is safe, how well people can tolerate it, how it moves through the body, and whether it shows any early signs of helping to treat cancer. The information gathered may help guide how future studies are designed. The entire study is expected to last about four years. People who join the study may receive treatment for around six months and will be followed for about 12 months after their treatment ends. The study plans to enroll participants over a three-year period.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 140,
+  "conditions": [
+    "Advanced or Metastatic MTAP-deleted Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "BG-89894",
+      "type": "DRUG",
+      "description": "Administered orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Must sign a written informed consent and willing to comply with all study-related procedures and requirements.\n* Age \u226518 years (or the legal age of consent according to local regulations).\n* Histologically or cytologically confirmed diagnosis of advanced, metastatic, or unresectable solid tumors that have progressed on or after standard therapy, or for which no appropriate standard therapy is available.\n* Evidence of Methylthioadenosine phosphorylase (MTAP) homozygous deletion or loss of MTAP expression in tumor tissue.\n* Participants must be able to provide an archived tumor tissue sample or unstained fresh biopsy if there is no archival tissue at baseline.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 and evidence of adequate organ function and bone marrow reserve, as defined in the study protocol.\n\nKey Exclusion Criteria:\n\n* History of other malignancies or concurrent active malignancies within 3 years.\n* Prior treatment with methionine adenosyltransferase 2 alpha (MAT2A) inhibitors (e.g., AG-270, IDE397) or methylthioadenosine (MTA)-cooperative protein arginine methyltransferase 5 (PRMT5) inhibitors (e.g., AMG193).\n* Uncontrolled or active central nervous system (CNS) disease, including untreated or symptomatic brain metastases, spinal cord compression, or leptomeningeal carcinomatosis.\n* Active bleeding, history of major bleeding events within the past 6 months, or tumors associated with a high risk of vascular invasion.\n* Receipt of systemic anticancer therapy, radiation therapy, live vaccine, or major surgical procedures within protocol-specified washout periods.\n* Active or uncontrolled infections, including tuberculosis (TB), (COVID-19, known human immunodeficiency virus (HIV) infection, or uncontrolled hepatitis B virus (HBV) infection.\n\nNote: Additional eligibility criteria may apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer At Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1a: Number of Participants with Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+      "timeFrame": "From first dose of the study drug to 30 days after the last dose or initiation of a new anticancer therapy, whichever occurs first (approximately 18 months)",
+      "description": "Number of participants experiencing adverse events and serious adverse events as determined per Common Terminology Criteria for Adverse Events version 5.0 (CTCAE v5.0), including findings from physical examinations, electrocardiograms (ECGs), laboratory assessments, and that meet protocol-defined dose-limiting toxicity (DLT) criteria."
+    },
+    {
+      "measure": "Phase 1a: Maximum Tolerated Dose (MTD) or Maximum Administered Dose (MAD)",
+      "timeFrame": "Approximately 1 month",
+      "description": "MTD is defined as the highest dose evaluated for which estimated toxicity rate is the closest to the target toxicity rate. MAD is defined as the highest dose administered if MTD is not reached."
+    },
+    {
+      "measure": "Phase 1a: Recommended dose(s) for expansion (RDFE) of BG-89894",
+      "timeFrame": "Approximately 18 months",
+      "description": "RDFE is defined as dose level(s) recommended for expansion that will be determined based on the MTD or MAD, taking into consideration the longterm tolerability, pharmacokinetics, pharmacodynamics, preliminary antitumor activity, and any other relevant data, as available."
+    },
+    {
+      "measure": "Phase 1b: Recommended Phase 2 Dose (RP2D)",
+      "timeFrame": "Approximately 18 months",
+      "description": "R2PD is defined as the dose level recommended for phase 2 that will be determined based on safety, tolerability, pharmacokinetics, pharmacodynamics, preliminary antitumor activity, and other relevant data."
+    },
+    {
+      "measure": "Phase 1b: Overall Response Rate (ORR)",
+      "timeFrame": "Approximately 18 months",
+      "description": "ORR is defined as the percentage of participants who had confirmed complete response (CR) or partial response (PR) as assessed by the investigator per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1."
+    }
+  ],
+  "sponsor": "BeOne Medicines",
+  "collaborators": [],
+  "start_date": "2024-10-12",
+  "completion_date": "2028-12-30",
+  "last_updated": "2026-02-03"
+}

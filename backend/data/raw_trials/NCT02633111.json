@@ -1,0 +1,86 @@
+{
+  "nct_id": "NCT02633111",
+  "brief_title": "DNA Sequencing-Based Monitoring of Minimal Residual Disease to Predict Clinical Relapse in Aggressive B-cell Non-Hodgkin Lymphomas",
+  "official_title": "DNA Sequencing-Based Monitoring of Minimal Residual Disease to Predict Clinical Relapse in Aggressive B-cell Non-Hodgkin Lymphomas",
+  "brief_summary": "The purpose of this study is to determine whether a blood test can accurately detect whether if the participant's lymphoma has come back after completion of initial chemotherapy treatment for their aggressive B-cell Non-Hodgkin lymphoma. The purpose of the study is to see if MRD in blood samples can potentially replace CT scans after completion of chemotherapy in the future.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 501,
+  "conditions": [
+    "B-cell Non-Hodgkin Lymphoma",
+    "Aggressive"
+  ],
+  "interventions": [
+    {
+      "name": "collected at pre-treatment tumor biopsy",
+      "type": "OTHER",
+      "description": "to identify the tumor-specific clonotype"
+    },
+    {
+      "name": "Peripheral blood tests",
+      "type": "OTHER",
+      "description": "for MRD analysis at 3, 6, 9, 12, 15, 18, 21, and at relapse (+/- 1 month)."
+    },
+    {
+      "name": "PET/CT",
+      "type": "DEVICE",
+      "description": "at 3, 6, 9, 15, 18, 21 and at relapse(+/- 1 month)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 18 years of age at time of signing informed consent\n* Histology-confirmed aggressive B-cell Non-Hodgkin lymphoma\n\n  * De novo diffuse large B-cell lymphoma (including all subtypes such as primary mediastinal B-cell lymphoma and T-cell rich B-cell lymphoma). According to the 2008 WHO Classification of Hematopoietic and Lymphoid Tumors. These would include double or triple-hit diffuse large B-cell lymphomas with MYC/BCL2 and/or BCL6 gene rearrangements. These cases may be classified as high grade B-cell lymphomas according to the 2017 revision of the WHO Classification of Hematopoietic and Lymphoid Tumors.\n* Recipient of frontline multi-agent chemotherapy (for example, RCHOP, dose adjusted-REPOCH, RCHOP/RICE, RCHOP+investigational agent, etc). Eligible patients will have recently received (\u2264 4 months from end of treatment assessment), be actively receiving, or planned to receive frontline chemotherapy in near future (within 3 months of signing consent). A frontline therapy program can include different sequential phases of treatment, including high-dose therapy and autologous stem cell transplantation.\n* Required pre-treatment test specimen from bone marrow, blood, lymph node, or alternate site to identify tumor-specific clonotype.\n* Ability to adhere to the study visit schedule and all the protocol requirements, including surveillance imaging and MRD test specimen collection at specified time points.\n\nExclusion Criteria:\n\n* Patients receiving 2nd or greater line of therapy.\n* Stage I or II disease.\n* Primary mediastinal B-cell lymphoma.\n* Transformation from antecedent or coincident indolent B-cell Non-Hodgkin lymphoma.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Memorial Sloan Kettering Basking Ridge",
+      "city": "Basking Ridge",
+      "state": "New Jersey",
+      "zip": "07920",
+      "status": ""
+    },
+    {
+      "facility": "Memorial Sloan Kettering Monmouth",
+      "city": "Middletown",
+      "state": "New Jersey",
+      "zip": "07748",
+      "status": ""
+    },
+    {
+      "facility": "Memorial Sloan Kettering Bergen",
+      "city": "Montvale",
+      "state": "New Jersey",
+      "zip": "07645",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-4283",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "MRD assay to predict clinical relapse",
+      "timeFrame": "2 years",
+      "description": "using the Sequenta diagnostic tool prior to detection using the conventional means (clinical exams and scans) in DLBCL patients."
+    }
+  ],
+  "sponsor": "Memorial Sloan Kettering Cancer Center",
+  "collaborators": [
+    "Mayo Clinic",
+    "M.D. Anderson Cancer Center",
+    "University of Pennsylvania",
+    "University of Miami"
+  ],
+  "start_date": "2015-10",
+  "completion_date": "2026-10",
+  "last_updated": "2025-11-03"
+}

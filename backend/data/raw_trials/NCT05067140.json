@@ -1,0 +1,106 @@
+{
+  "nct_id": "NCT05067140",
+  "brief_title": "A Study of ARV-766 Given by Mouth in Men With Metastatic Prostate Cancer",
+  "official_title": "A Phase 1/2 Open-Label, Dose-Escalation and Cohort Expansion Clinical Trial to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of ARV-766 Monotherapy and in Combination With Abiraterone in Patients With Metastatic Prostate Cancer",
+  "brief_summary": "A Phase 1/2 study to evaluate the safety and efficacy of ARV-766 given by mouth alone or in combination with abiraterone in men with metastatic prostate cancer.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 152,
+  "conditions": [
+    "Prostate Cancer Metastatic"
+  ],
+  "interventions": [
+    {
+      "name": "ARV-766 Part A&B",
+      "type": "DRUG",
+      "description": "Part A: Daily oral dosages are determined by cohort review committee after initial starting dose cohort and each subsequent cohort completes 28 days of treatment.\n\nPart B: Oral tablet(s) once daily in 28 day cycles."
+    },
+    {
+      "name": "ARV-766 + Abiraterone Part C&D",
+      "type": "DRUG",
+      "description": "Part C: Daily oral combination dosages are determined by cohort review committee after initial starting dose cohort and each subsequent cohort completes 28 days of treatment.\n\nPart D: Combination administered once daily in 28 day cycles.\n\nParts C\\&D: Participants will also receive concomitant corticosteroid and ADT therapy of investigator choice/patient preference"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nPart A,B,C and D:\n\n* Histological, pathological, or cytological confirmed diagnosis of adenocarcinoma of the prostate.\n* Ongoing androgen deprivation therapy (ADT) with a gonadotropin releasing hormone analog or inhibitor, or orchiectomy (surgical or medical castration).\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n\nPart A:\n\n* Progression on at least 2 prior approved systemic therapies for metastatic prostate cancer (at least one must be a second-generation androgen inhibitor, e.g., abiraterone, enzalutamide, darolutamide, apalutamide).\n* Progressive mCRPC\n\nPart B:\n\n* Participants must have received at least one but no more than three prior second generation anti-androgen agents (e.g., enzalutamide or abiraterone).\n* Participants must have received no more than two prior chemotherapy regimens.\n* Progressive mCRPC\n\nPart C \\& D:\n\n\u2022 Metastatic castration resistant or sensitive prostate cancer with radiographic evidence of metastatic disease\n\nExclusion Criteria:\n\nPart A and B:\n\n* Known symptomatic brain metastases requiring steroids (above physiologic replacement doses).\n* Active inflammatory gastrointestinal disease, chronic diarrhea, known diverticular disease, or previous gastric resection or lap band surgery.\n* Radiation therapy within 4 weeks of first dose of study drug or prior irradiation to \\>25% of the bone marrow.\n* Receipt of an investigational drug(s) within 4 weeks prior to anticipated first dose\n* Systemic anti-cancer therapy within 2 weeks of first dose of study drug (except agents to maintain castrate status). For bicalutamide, mitomycin C, or nitrosoureas the exclusion period must be 6 weeks and for abiraterone 4 weeks.\n\nPart C and D\n\n\u2022 Prior treatment with a second generation NHA",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Clinical Trial Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Clinical Trial Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19144",
+      "status": ""
+    },
+    {
+      "facility": "Clinical Trial Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part A: Incidence of Dose Limiting Toxicities of ARV-766",
+      "timeFrame": "28 Days",
+      "description": "First Cycle Dose limiting toxicities characterized by type, frequency, severity (as graded by NCI CTCAE v 5.0), timing, seriousness, and relationship to study drug"
+    },
+    {
+      "measure": "Part A: Number of Patients with Adverse Events as a measure of safety and tolerability of ARV-766",
+      "timeFrame": "28 Days",
+      "description": "Adverse events as characterized by type, frequency, severity (as graded by NCI CTCAE v 5.0), timing, seriousness, and relationship to study drug."
+    },
+    {
+      "measure": "Part A: Incidence of laboratory abnormalities as a measure of safety and tolerability of ARV-766",
+      "timeFrame": "28 Days",
+      "description": "Laboratory abnormalities as characterized by type, frequency, severity (as graded by NCI CTCAE v 5.0), and timing."
+    },
+    {
+      "measure": "Part B: To evaluate the clinical anti-tumor activity of ARV-766 in patients with mCRPC",
+      "timeFrame": "12 Weeks",
+      "description": "Evaluate PSA in patients with mCRPC in both dose groups"
+    },
+    {
+      "measure": "Part C: Incidence of Dose Limiting Toxicities of ARV-766 / abiraterone combination",
+      "timeFrame": "28 Days",
+      "description": "First Cycle Dose limiting toxicities characterized by type, frequency, severity (as graded by NCI CTCAE v 5.0), timing, seriousness, and relationship to study drug"
+    },
+    {
+      "measure": "Part C: Incidence of laboratory abnormalities as a measure of safety and tolerability of ARV-766 / abiraterone combination",
+      "timeFrame": "28 Days",
+      "description": "Laboratory abnormalities as characterized by type, frequency, severity (as graded by NCI CTCAE v 5.0), and timing."
+    },
+    {
+      "measure": "Part C: Number of Patients with Adverse Events as a measure of safety and tolerability of ARV-766 / abiraterone combination",
+      "timeFrame": "28 Days",
+      "description": "Adverse events as characterized by type, frequency, severity (as graded by NCI CTCAE v 5.0), timing, seriousness, and relationship to study drug."
+    },
+    {
+      "measure": "Part D: To evaluate the clinical anti-tumor activity of ARV-766 / abiraterone combination in patients with NHA-na\u00efve mPC",
+      "timeFrame": "12 Weeks",
+      "description": "Evaluate PSA in patients with NHA-na\u00efve mPC"
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2021-09-02",
+  "completion_date": "2027-05-25",
+  "last_updated": "2025-03-13"
+}

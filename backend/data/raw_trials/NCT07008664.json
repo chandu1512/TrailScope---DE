@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT07008664",
+  "brief_title": "Signature Development and Validation Protocol for an Epigenetic Assay in Diagnosing Lung Cancer",
+  "official_title": "Signature Development and Validation Protocol for an Epigenetic Assay in Diagnosing Lung Cancer",
+  "brief_summary": "The purpose of this research study is to test a new process for diagnosing lung cancer by examining changes to your DNA that can be detected from a blood test. The information we learn by doing this study could potentially help people in the future.\n\nParticipants in this study will have blood samples collected, have their medical records reviewed by study personnel and fill out questionnaires at different time points during the study. Blood sample collection will occur during normal routine clinic visits. Participation in this study will last approximately 5 years.",
+  "detailed_description": "This clinical testing research study outlines the validation process for an epigenetic assay targeting host peripheral blood cell and the associated host DNA methylation signatures designed to diagnose lung cancer. The overall protocol process will involve three distinct stages representing three patient cohorts with up to 250 subjects per cohort across 5 populations of patients. Cohort one will act as signature development phase; cohort two will act as signature finalization phase; and cohort three will act as a validation cohort phase. Each cohort will include the following patient populations with up to 50 patients per population:\n\n1. Lung cancer; No chemotherapy. Surgical resection or stereotactic body radiation therapy (SBRT) only\n2. Lung cancer; With chemotherapy. All stages including remission\n3. At risk group (Lung cancer screening population)\n4. Control group with mixed comorbid disease EXCLUDING tobacco use of greater than 10 pack years (PY) or chronic obstructive pulmonary disease (COPD)\n5. Healthy controls with no comorbid disease",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 750,
+  "conditions": [
+    "Lung Cancer",
+    "Lung Cancer Screening",
+    "Healthy Volunteers (HV)",
+    "Unhealthy Volunteers"
+  ],
+  "interventions": [
+    {
+      "name": "Epigenetic Signature Assay",
+      "type": "OTHER",
+      "description": "Up to 15 ml of blood will be collected from each patient at various time points throughout their 5 years of participation. DNA extraction, bisulfite conversion and analysis of epigenetic markers through PCR or next-generation sequencing will be performed. An epigenetic signature assay will then be identified."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 18 years old or older\n* Patient at University of Maryland Baltimore Washington Medical Center\n* Willing and able to consent to study procedures listed in the protocol\n* Ability to speak and understand English\n\nExclusion Criteria:\n\n* Younger than 18 years old\n* Patient not cared for at University of Maryland Baltimore Washington Medical Center\n* Unable to consent to study procedures listed in the protocol\n* Unable to speak or understand English",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Baltimore Washington Medical Center",
+      "city": "Glen Burnie",
+      "state": "Maryland",
+      "zip": "21061",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Identification of tumor-associated host methylation signature",
+      "timeFrame": "5 years",
+      "description": "Genome-wide methylation profile of whole blood from lung cancer patients, pre-cancer patients, patients undergoing therapy, and control subjects."
+    },
+    {
+      "measure": "Technology development",
+      "timeFrame": "5 years",
+      "description": "The investigators will develop array-based assays using whole-blood samples, focused on disease-specific methylation sites to provide early diagnosis, prognosis, and therapeutic efficacy prediction."
+    },
+    {
+      "measure": "Technology validation",
+      "timeFrame": "1 year",
+      "description": "The investigators will validate identified blood-based circulating methylation signatures in patients with undiagnosed pulmonary nodules."
+    }
+  ],
+  "sponsor": "University of Maryland, Baltimore",
+  "collaborators": [
+    "EPOCH Epigenetics, Inc"
+  ],
+  "start_date": "2025-03-31",
+  "completion_date": "2032-04",
+  "last_updated": "2025-06-05"
+}

@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT06515613",
+  "brief_title": "A Phase 1 Study of CTIM-76 in Patients With Recurring Ovarian Cancer and Other Advanced Solid Tumors",
+  "official_title": "A Phase 1, First in Human Study of CTIM-76, a Claudin-6 (CLDN6)-Directed Bispecific Antibody, in Patients With Recurring Ovarian Cancer and Other Advanced Solid Tumors",
+  "brief_summary": "This is a Phase 1a/1b, open-label, dose escalation and expansion study to evaluate the safety and efficacy of CTIM-76 (study drug), a CLDN6-directed T cell-engaging bispecific antibody, in participants with platinum-refractory/resistant ovarian cancer (PRROC) and other advanced CLDN6-positive solid tumors (i.e., testicular and endometrial).",
+  "detailed_description": "The phase 1a Dose Escalation portion of the trial will enroll participants with PRROC, testicular, or endometrial cancer into one of approximately 9 dose escalation cohorts to assess safety, tolerability and to determine the recommended dose for expansion (RDE). CTIM-76 is to be administered once weekly (Q1W) for each cycle. A cycle is defined as 28 days. Participants will be dosed until documentation of disease progression, unacceptable toxicity, or participant/physician decision.\n\nThe phase 1b dose expansion phase will evaluate CTIM-76 in at least one indication at up to 2 doses and/or dosing schedules (n=20 response evaluable participants in each cohort ) in the dose expansion phase of the trial (Phase 1b) studying one of the following advanced solid tumor types: PROC, testicular, or endometrial. This is to enable dose- and exposure-response analyses. The expansion doses/dosing schedules for Phase 1b will be determined by Sponsor in conjunction with Safety Review Committee (SRC) based upon all available safety, pharmacokinetic (PK), pharmacodynamic (PD), biomarker and preliminary efficacy data from Phase 1a.\n\nThe selection of the RP2D will be based on the totality of data from Phase 1b.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 80,
+  "conditions": [
+    "Platinum-resistant Ovarian Cancer",
+    "Testicular Cancer",
+    "Endometrial Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "CTIM-76",
+      "type": "DRUG",
+      "description": "CLDN6 bispecific Antibody administered weekly (Day 1, 8, 15 and 22) of a 28-day treatment cycle until disease progression."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants with CLDN6 positive platinum resistant/refractory ovarian, advanced testicular or advanced endometrial cancer.\n* Participants with measurable disease per RECIST 1.1.\n* ECOG 0, 1, or 2 and life expectancy of \u2265 12 weeks.\n* Participants with adequate organ function.\n\nExclusion Criteria:\n\n* Evidence of central nervous system metastases, leptomeningeal disease or spinal cord compression.\n* Uncontrolled significant active infection or any medical or other condition that in opinion of the Investigator would preclude the participant's participation in the study.\n* Concurrent participation in another investigational clinical trial.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "John Theurer Cancer Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of Dose Limiting Toxicities (DLTs)",
+      "timeFrame": "From date of first dose of CTIM-76 until 28 days following the first dose",
+      "description": "Phase 1a will evaluate increasing doses of CTIM-76 based on the assessment of DLTs"
+    },
+    {
+      "measure": "Overall response rate (ORR)",
+      "timeFrame": "From date of first dose of CTIM-76 until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 24 months",
+      "description": "ORR will be based on the best overall response rate as assessed by Investigators according to RECIST v1.1"
+    }
+  ],
+  "sponsor": "Context Therapeutics Inc.",
+  "collaborators": [],
+  "start_date": "2024-07-10",
+  "completion_date": "2028-04-30",
+  "last_updated": "2026-02-18"
+}

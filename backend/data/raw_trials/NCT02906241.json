@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT02906241",
+  "brief_title": "PACCT: Partnering Around Cancer Clinical Trials",
+  "official_title": "PACCT: Partnering Around Cancer Clinical Trials",
+  "brief_summary": "This research has the overall goal of increasing rates at which African American and White men with prostate cancer make an informed decision to participate in a cancer clinical trial.",
+  "detailed_description": "This research utilizes two distinct research designs to evaluate two separate behavioral interventions.\n\nThe first is a between-subject randomized controlled trial to evaluate a patient-focused intervention. The intervention consists of a booklet designed to encourage patients to view themselves as part of the patient-physician team and to participate actively in clinical interactions by asking questions and stating concerns.\n\nThe second is a within-subject interrupted time series design to evaluate a physician-focused intervention. The intervention is an educational module and email reminders designed to encourage physicians to discuss trials with all eligible patients using patient-centered communication.In the patient-focused intervention, patients are randomized to an intervention or usual care group, and comparison of outcomes is made between groups.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 316,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Patients: Questions to Ask Your Doctor: A Workbook for Patient-Doctor Teams",
+      "type": "BEHAVIORAL",
+      "description": "This booklet encourages patients to view themselves as members of the patient-doctor team and to participate actively during clinical interactions by asking questions and stating concerns."
+    },
+    {
+      "name": "Physicians: Educational Module",
+      "type": "BEHAVIORAL",
+      "description": "Physicians will participate in an educational module and receive email prompts to encourage them to discuss trials with all patients who are eligible for a clinical trial, using patient-centered communication"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Physician participants\n\nInclusion criteria:\n\n* Treat patients with prostate cancer\n* Able to recruit patients to clinical trials\n\nExclusion criteria:\n\n* Do not treat patients with prostate cancer\n* Not able to recruit patients to clinical trials\n\nPatient Participants\n\nInclusion criteria:\n\n* Black, African American or White; Non-hispanic confirmed diagnosis of prostate Cancer\n* Seeing a participating physician for less than a year and expect to see this physician at least once in the coming year\n* Able to read and write English well enough to understand and sign consent forms and respond to questionnaires\n\nExclusion criteria:\n\n* Not black, African American or White; non Hispanic\n* No confirmed diagnosis of prostate cancer\n* Not seeing a participating physician or seeing a participating physician for \\> than one year\n* Not able to read and write English well enough to understand and sign consent forms and respond to questionnaires",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University/Sidney Kimmel Comprehensive Cancer",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Physician Offers of a Clinical Trial",
+      "timeFrame": "Day of clinical interaction; up to 2 years following enrollment",
+      "description": "Single item: Did the physician offer a trial?"
+    }
+  ],
+  "sponsor": "Susan Eggly",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2016-09-20",
+  "completion_date": "2021-07-17",
+  "last_updated": "2022-12-20"
+}

@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT04246177",
+  "brief_title": "Safety and Efficacy of Lenvatinib (E7080/MK-7902) With Pembrolizumab (MK-3475) in Combination With Transarterial Chemoembolization (TACE) in Participants With Incurable/Non-metastatic Hepatocellular Carcinoma (MK-7902-012/E7080-G000-318/LEAP-012)",
+  "official_title": "A Phase 3 Multicenter, Randomized, Double-blinded, Active-controlled, Clinical Study to Evaluate the Safety and Efficacy of Lenvatinib (E7080/MK-7902) With Pembrolizumab (MK-3475) in Combination With Transarterial Chemoembolization (TACE) Versus TACE in Participants With Incurable/Non-metastatic Hepatocellular Carcinoma (LEAP-012)",
+  "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of lenvatinib and pembrolizumab in combination with TACE versus TACE plus oral and intravenous (IV) placebos in participants with incurable, non-metastatic hepatocellular carcinoma (HCC). The primary hypotheses are that pembrolizumab plus lenvatinib in combination with TACE is superior to placebo plus TACE with respect to progression-free survival (PFS) and overall survival (OS).",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 480,
+  "conditions": [
+    "Carcinoma, Hepatocellular"
+  ],
+  "interventions": [
+    {
+      "name": "Lenvatinib",
+      "type": "DRUG",
+      "description": "Administered at a dose of 12 mg (for participants with screening body weight \u226560 kg) or 8 mg (for participants with screening body weight \\<60 kg) via oral capsules once a day during each 21-day cycle."
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "BIOLOGICAL",
+      "description": "Administered via IV infusion at a dose of 400 mg once every 6 weeks (Q6W)."
+    },
+    {
+      "name": "Oral Placebo",
+      "type": "DRUG",
+      "description": "Lenvatinib-matching placebo administered via oral capsules once a day during each 21-day cycle."
+    },
+    {
+      "name": "IV Placebo",
+      "type": "DRUG",
+      "description": "Pembrolizumab-matching placebo administered via IV infusion once every 6 weeks (Q6W)."
+    },
+    {
+      "name": "TACE",
+      "type": "PROCEDURE",
+      "description": "Conducted as a background procedure of chemotherapeutic and embolic agent(s)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Has a diagnosis of HCC confirmed by radiology, histology, or cytology\n* Has HCC localized to the liver and not amenable to curative treatment\n* Participants with Hepatitis C virus (HCV) are eligible if treatment was completed at least 1 month prior to starting study intervention\n* Participants with Hepatitis B virus (HBV) are eligible\n* Has adequately controlled blood pressure with or without antihypertensive medications\n* Has adequate organ function\n\nExclusion Criteria:\n\n* Is currently a candidate for liver transplantation\n* Has had gastric bleeding within the last 6 months\n* Has ascites that is not controlled with medication\n* Has significant cardiovascular impairment within 12 months of the first dose of study intervention such as congestive heart failure\n* Has a serious nonhealing wound, ulcer, or bone fracture\n* Has received locoregional therapy to existing liver lesions",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Hershey Medical Center ( Site 0766)",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033-0850",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS) per Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1.1)",
+      "timeFrame": "Up to ~43 months",
+      "description": "PFS is defined as the time from randomization to the first documented progressive disease or death due to any cause, whichever occurs first. Responses are according to RECIST 1.1 as assessed by blinded independent central review (BICR)."
+    },
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "Up to ~95 months",
+      "description": "OS is defined as the time from randomization to death due to any cause."
+    }
+  ],
+  "sponsor": "Merck Sharp & Dohme LLC",
+  "collaborators": [
+    "Eisai Inc."
+  ],
+  "start_date": "2020-05-22",
+  "completion_date": "2026-03-25",
+  "last_updated": "2025-12-16"
+}

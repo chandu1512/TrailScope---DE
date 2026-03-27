@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT02576509",
+  "brief_title": "An Investigational Immuno-therapy Study of Nivolumab Compared to Sorafenib as a First Treatment in Patients With Advanced Hepatocellular Carcinoma",
+  "official_title": "A Randomized, Multi-center Phase III Study of Nivolumab Versus Sorafenib as First-Line Treatment in Patients With Advanced Hepatocellular Carcinoma (CheckMate 459: CHECKpoint Pathway and nivoluMAb Clinical Trial Evaluation 459)",
+  "brief_summary": "The purpose of this study is to determine if nivolumab or sorafenib is more effective in the treatment of Advanced Hepatocellular Carcinoma.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 743,
+  "conditions": [
+    "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Specified Dose on Specified Days"
+    },
+    {
+      "name": "Sorafenib",
+      "type": "DRUG",
+      "description": "Specified Dose on Specified Days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed advanced hepatocellular carcinoma, not eligible for surgical and/or locoregional therapies; or progressive disease after surgical and /or locoregional therapies\n* Locoregional therapy for hepatocellular carcinoma (HCC) must be completed at least 4 weeks prior to the baseline scan\n* Child-Pugh Class A\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1\n\nExclusion Criteria:\n\n* Known fibrolamellar HCC, sarcomatoid HCC, or mixed cholangiocarcinoma and HCC\n* Prior liver transplant\n* Active, known, or suspected autoimmune disease\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0095",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0019",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "time from the date of randomization to the date of death due to any cause, assessed up to June 2019 (approximately 41 months)",
+      "description": "OS is defined as the time from the date of randomization to the date of death due to any cause in all randomized participants. Participants who are alive will be censored at the last known alive dates.\n\nBased on Kaplan-Meier Estimates."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "Ono Pharmaceutical Co. Ltd"
+  ],
+  "start_date": "2015-12-07",
+  "completion_date": "2024-02-07",
+  "last_updated": "2025-01-24"
+}

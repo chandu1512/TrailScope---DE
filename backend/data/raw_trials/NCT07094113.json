@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT07094113",
+  "brief_title": "AMG 410 Alone and in Combination With Other Agents in Participants With KRAS Altered Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase 1/1b Study Evaluating the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Efficacy of AMG 410 Alone and in Combination With Other Agents in Participants With KRAS Altered Advanced or Metastatic Solid Tumors",
+  "brief_summary": "The purpose of this first-in-human study is to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD), and preliminary efficacy of AMG 410 when administered alone or in combination with other agents in participants with advanced or metastatic solid tumors harboring KRAS alterations.\n\nThis is a dose-escalation study in which participants will be assigned to multiple dose levels (DLs) of AMG 410, either as monotherapy or in combination with other agents, followed by expansion cohorts. The goal is to determine the Maximum Tolerated Dose (MTD)-the highest dose with acceptable safety and manageable side effects-or the Recommended Phase 2 Dose (RP2D) of AMG 410 in adult participants with KRAS-altered advanced or metastatic solid tumors.",
+  "detailed_description": "This is a multicenter, multinational, open-label Phase 1/1b study designed to evaluate the safety, tolerability, PK, PD, and preliminary antitumor activity of AMG 410 in adult participants with advanced or metastatic solid tumors characterized by KRAS alterations.\n\nThe study will begin with a dose-escalation phase, during which AMG 410 will be administered orally, either as monotherapy or in combination with other agents. Dose escalation will follow a model-based approach to identify the MTD or RP2D.\n\nFollowing dose escalation, additional expansion cohorts may be enrolled at selected dose levels to further characterize the safety profile, PK/PD relationships, and preliminary efficacy in specific tumor types or molecular subgroups.\n\nParticipants will continue treatment until disease progression, unacceptable toxicity, withdrawal of consent, or other protocol-defined discontinuation criteria. The maximum duration of AMG 410 administration in this study is 3 years.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 434,
+  "conditions": [
+    "KRAS Altered Advanced or Metastatic Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "AMG 410",
+      "type": "DRUG",
+      "description": "Administered as an oral tablet."
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Administered as an intravenous (IV) infusion."
+    },
+    {
+      "name": "Panitumumab",
+      "type": "DRUG",
+      "description": "Administered as an IV infusion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age \u2265 18 years (or \\> legal age within the country if it is older than 18 years).\n2. Pathologically documented, locally-advanced or metastatic malignancy with any missense mutation in the KRAS gene or evidence of KRAS amplification using an analytically validated KRASWT amplification assay.\n3. Participants must have no standard of care treatment options or have actively refused such therapy.\n4. Able to swallow and retain per oral administered study treatment.\n5. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.\n6. Disease measurable as defined by Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1), as determined by the site investigator.\n7. Adequate organ function.\n8. Archival (formalin-fixed, paraffin-embedded \\[FFPE\\]) tumor tissue or block collected within 5 years before screening must be available. Participants without archived tumor tissue may undergo tumor biopsy before AMG 410 dosing (Day1).\n\nExclusion Criteria:\n\n1. Untreated symptomatic central nervous system or leptomeningeal metastases.\n2. Uncontrolled pleural effusion and/or ascites.\n3. History of other malignancy within the past 5 years.\n4. Active systemic infection or symptoms that indicate an acute and/or uncontrolled infection requiring IV antibiotics within 7days prior to the first dose of study treatment.\n5. History of arterial or venous thrombosis (eg, stroke, transient ischemic attack, pulmonary embolism, or deep vein thrombosis).\n6. Live and live-attenuated vaccines are prohibited within 28 days prior to the first dose of study treatment.\n7. History of solid organ transplant.\n8. Anti-tumor therapy (chemotherapy, antibody therapy, molecular targeted therapy, hormonal therapy, or investigational agent) within 28 days of first dose of study treatment.\n9. Presence or history of any of the following viral infections: HIV, Hepatitis C, Hepatitis B, and active severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).\n10. Toxicities from prior anti-tumor therapy (including radiotherapy) not having improved to at least Common Terminology Criteria for Adverse Events (CTCAE) version 5.0 grade 1.\n11. Therapeutic or palliative radiation therapy within 2 weeks of first dose of study treatment.\n12. Major surgery within 28 days of first dose of study treatment.\n13. History or evidence of any other clinically significant disorder, condition, or disease that, in the opinion of the investigator, would pose a risk to participant safety.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants with Dose Limiting Toxicities (DLTs)",
+      "timeFrame": "Up to 28 days",
+      "description": ""
+    },
+    {
+      "measure": "Number of Participants with Treatment Emergent Adverse Events (TEAEs)",
+      "timeFrame": "Up to approximately 3 years",
+      "description": "Clinically significant changes in safety assessments (vital signs, electrocardiograms \\[ECGs\\], and clinical laboratory tests) are to be reported as adverse events."
+    },
+    {
+      "measure": "Number of Participants with Serious Adverse Events (SAEs)",
+      "timeFrame": "Up to approximately 3 years",
+      "description": "Clinically significant changes in safety assessments (vital signs, ECGs, and clinical laboratory tests) are to be reported as adverse events."
+    }
+  ],
+  "sponsor": "Amgen",
+  "collaborators": [],
+  "start_date": "2025-07-31",
+  "completion_date": "2031-04-20",
+  "last_updated": "2026-02-11"
+}

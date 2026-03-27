@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT03743766",
+  "brief_title": "Nivolumab, BMS-936558 in Combination with Relatlimab, BMS-986016 in Patients with Metastatic Melanoma Na\u00efve to Prior Immunotherapy in the Metastatic Setting",
+  "official_title": "A Phase II Study of Anti-PD1 Monoclonal Antibody (Nivolumab, BMS-936558) Administered in Combination with Anti-LAG3 Monoclonal Antibody (Relatlimab, BMS-986016) in Patients with Metastatic Melanoma Na\u00efve to Prior Immunotherapy in the Metastatic Setting",
+  "brief_summary": "The main goal of this study is to evaluate the antitumor activity of relatlimab and nivolumab in combination in subjects with unresectable or metastatic melanoma who have not received prior treatment with immunotherapy.",
+  "detailed_description": "This study will evaluate the antitumor activity of anti-LAG3 monoclonal antibody relatlimab and the anti-PD1 monoclonal antibody nivolumab in combination in subjects with unresectable or metastatic melanoma who have not received prior treatment with immunotherapy. The trial is designed with a lead-in phase of 2 cycles (4 week) treatment of either nivolumab, relatlimab, or the combination of nivolumab/relatlimab, followed by a combination phase of nivolumab/relatlimab treatment in all subjects. This lead-in design with accompanying tumor biopsies and peripheral blood analyses will enable mechanistic analyses of the effect of LAG3 and PD1 blockade alone and in combination to enhance understanding of mechanisms of response and resistance. Duration of response, progression free survival, and safety will be assessed as secondary objectives.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 42,
+  "conditions": [
+    "Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Relatlimab",
+      "type": "DRUG",
+      "description": "Relatlimab (BMS-986016) - 10mg/mL formulation to be administered as an intravenous (IV) infusion at 160 mg IV."
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Nivolumab (BMS-936558) - 10-mg/mL formulation to be administered as an IV infusion at 480 mg IV."
+    },
+    {
+      "name": "Relatlimab + Nivolumab",
+      "type": "DRUG",
+      "description": "Combination (Relatlimab + Nivolumab) therapy will be administered by sequential infusion. Nivolumab administered at 480 mg IV followed by infusion of relatlimab at 160 mg IV."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n\u2022 Men or women 18 years of age or older meeting AJCC 8th edition criteria for unresectable stage IIIB, stage IIIC, stage IIID, or stage IV melanoma who have not received treatment with immunotherapy in the metastatic setting\n\nExclusion Criteria:\n\n* Known or suspected CNS metastases, with the following exceptions:\n\n  * Subjects with controlled brain metastases will be allowed to enroll. Controlled brain metastases are defined as no radiographic progression for at least 4 weeks following radiation and/or surgical treatment at the time of consent. Subjects must be off steroids for at least 2 weeks prior to randomization.\n  * Subjects with signs or symptoms of brain metastases are not eligible unless brain metastases are ruled out by computed tomography or magnetic resonance imaging.\n* Active autoimmune disease requiring treatment, with the exception of type 1 diabetes mellitus, vitiligo, resolved childhood asthma/atopy, controlled hyper/hypothyroidism, hypoadrenalism or hypopituitarism.\n* Prior systemic treatment in the metastatic setting, including anti-PD1, anti-PDL1, anti-PDL2, anti-CTLA-4 antibody, or any other antibody or drug specifically targeting T-cell costimulation or immune checkpoint pathways; or chemotherapy.\n* Prior adjuvant treatment with anti-PD1, anti-PDL1, and/or anti-LAG3 antibody. Note that prior adjuvant treatment with targeted therapy (e.g. BRAF/MEK inhibition), anti-CTLA4, or treatment not otherwise specified above would be permitted.\n* Ocular melanoma",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in LAG3 Expression",
+      "timeFrame": "At baseline and at 4 weeks",
+      "description": "LAG3 (cell surface molecule expressed on activated T cells) expression is either positive (present) or not detectable if absent after completion of lead-in phase."
+    },
+    {
+      "measure": "Change in PD1 expression",
+      "timeFrame": "At baseline and at 4 weeks",
+      "description": "PD1 (programmed cell death protein 1) expression is either positive (present) or not detectable if absent after completion of lead-in phase"
+    },
+    {
+      "measure": "Change in Tumor Size",
+      "timeFrame": "At baseline and at 4 weeks",
+      "description": "Tumor size will be assessed per Response Evaluation Criteria in Solid Tumors. Per RECIST 1.1, Tumour lesions: Must be accurately measured in at least one dimension (longest diameter in the plane of measurement is to be recorded) with a minimum size of:\n\n* 10 mm by CT scan (CT scan slice thickness no greater than 5 mm; see Appendix II on imaging guidance).\n* 10 mm caliper measurement by clinical exam (lesions which cannot be accurately measured with calipers should be recorded as non-measurable).\n* 20 mm by chest X-ray."
+    },
+    {
+      "measure": "Overall Response Rate (ORR)",
+      "timeFrame": "Beginning at 12 weeks post initial treatment, up to 4 years",
+      "description": "Number of participants experiencing Complete Response (CR) + Number of participants experiencing Partial Response (PR)/total patients assessed. Per RECIST v1.1, CR: Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\<10 mm. PR: At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. PD: At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. (Note: the appearance of one or more new lesions is also considered progression). SD: Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study."
+    }
+  ],
+  "sponsor": "John Kirkwood",
+  "collaborators": [
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2019-03-29",
+  "completion_date": "2024-07-03",
+  "last_updated": "2024-09-23"
+}

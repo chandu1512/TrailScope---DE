@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT06699615",
+  "brief_title": "Assessing Perceptions of ML Explanations by Medical Oncologists",
+  "official_title": "Survey of Medical Oncologists to Assess Trustworthiness of Various Approaches to AI Explainability for Prognostic Models",
+  "brief_summary": "The objective of this proposal is to conduct a vignette-based survey among practicing oncology clinicians who treat non-small cell lung cancer to assess the trustworthiness of explainable predictions from a neurosymbolic AI vs. State-of-the-art post-hoc explanatory algorithms, using simulated patient data.",
+  "detailed_description": "",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Oncology"
+  ],
+  "interventions": [
+    {
+      "name": "Once time de-identified Qualtrics survey",
+      "type": "OTHER",
+      "description": "Once time de-identified Qualtrics survey"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria \"Medical oncologist\" or \"Hematologist/Oncologist\" designation at Penn Treats lung cancer\n\nExclusion Criteria:\n\nNon-medical oncologists No email address or physical address listed Does not treat lung cancer",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19083",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Determine whether neurosymbolic AI explainability methods improve the trustworthiness of explanations from a prognostic model, relative to post-hoc explainers.",
+      "timeFrame": "3 months",
+      "description": "Oncologist will be invited to complete a vignette-based survey"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2024-12-02",
+  "completion_date": "2026-04-15",
+  "last_updated": "2025-07-16"
+}

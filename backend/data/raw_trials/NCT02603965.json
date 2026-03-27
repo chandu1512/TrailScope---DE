@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT02603965",
+  "brief_title": "Copper Cu 64 TP3805 PET in Detecting Cancer in Patients With Prostate Cancer Undergoing Surgery",
+  "official_title": "A Pilot Phase I Open Label Study of Cu-64-TP3805 PET Imaging for Detection of Prostate Cancer in Men Undergoing Radical Prostatectomy",
+  "brief_summary": "This pilot phase I trial studies copper Cu 64 TP3805 (Cu-64-TP3805) positron emission tomography (PET)/computed tomography (CT) in detecting cancer in patients with prostate cancer undergoing surgery to remove the entire prostate and some of the tissue around it (radical prostatectomy). Many patients with benign lesions must undergo biopsy to test the lesion. Cu-64-TP3805 is a radioactive substance that attaches to cancer cells but not normal cells. PET/CT uses a scanner to make detailed, computerized pictures of areas inside the body where the radioactive substance is lighting up. Using Cu-64-TP3805 PET/CT scans and comparing them with cancer tissue obtained from surgery may help doctors learn whether Cu-64-TP3805 PET/CT can accurately detect prostate lesions and determine whether they are cancerous or benign, which may minimize the need for prostate biopsies.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To assess the ability of Cu-64-TP3805 to detect prostate cancer (PC) within the prostate gland, as compared with whole mount step-sectioned surgical pathology of the prostate after radical prostatectomy.\n\nOUTLINE:\n\nPatients receive copper Cu 64 TP3805 intravenously (IV) and undergo PET/computed tomography (CT) at 30 minutes and 2 hours post-injection. Patients then undergo radical prostatectomy within 1 to 3 weeks after scans.\n\nAfter completion of study, patients are followed up at 24 hours.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 25,
+  "conditions": [
+    "Prostate Adenocarcinoma",
+    "Stage IIB Prostate Cancer",
+    "Stage III Prostate Cancer",
+    "Stage IV Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Copper Cu 64 TP3805",
+      "type": "RADIATION",
+      "description": "Given IV"
+    },
+    {
+      "name": "Positron Emission Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo Cu-64-TP3805 PET(Positron Emission Tomography)/CT"
+    },
+    {
+      "name": "Computed Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo Cu-64-TP3805 PET/CT (Computed Tomography)"
+    },
+    {
+      "name": "Radical Prostatectomy",
+      "type": "PROCEDURE",
+      "description": "Undergo radical prostatectomy"
+    },
+    {
+      "name": "Laboratory Biomarker Analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Ability to provide signed informed consent and willingness to comply with protocol requirements\n2. Biopsy confirmed presence of adenocarcinoma of the prostate gland\n3. Have intermediate or high-risk PC as defined by \\>= T2b disease, or Gleason score \\>= 7 or prostate-specific antigen (PSA) \\>= 10 ng/dL\n4. Scheduled to undergo radical prostatectomy with pelvic lymph node dissection (either open or robotic)\n5. Agree to use an acceptable form of birth control for a period of 7 days after the Cu-64-TP3805 injection\n\nExclusion Criteria:\n\n1. Participating would significantly delay the scheduled standard of care therapy\n2. Administered a radioisotope within 10 physical half-lives prior to study drug injection\n3. Have any medical condition or other circumstances that, in the opinion of the investigator, would significantly decrease obtaining reliable data, achieving study objectives or completing the study",
+    "gender": "MALE",
+    "min_age": "21 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Detection rate of Cu-64 PET imaging of PC",
+      "timeFrame": "Baseline (at time of surgery)",
+      "description": "The proportion of lesions detected with Cu-64 PET will be determined and compared with tumor maps derived from the whole mount step sectioned surgical pathology analysis of the radical prostatectomy specimen after surgery. 95% confidence intervals will be calculated. As a secondary analysis, a generalized estimating equations will be utilized to account for multiple lesions in an individual patient."
+    },
+    {
+      "measure": "Incidence of adverse events",
+      "timeFrame": "Up to 30 days post Cu-64-TP3805 injection procedure",
+      "description": ""
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [
+    "National Institutes of Health (NIH)"
+  ],
+  "start_date": "2013-08",
+  "completion_date": "2014-09",
+  "last_updated": "2025-05-01"
+}

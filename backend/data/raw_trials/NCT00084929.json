@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT00084929",
+  "brief_title": "The National CT Colonography Trial",
+  "official_title": "The National CT Colonography Trial: Multicenter Assessment of Accuracy for Detection of Large Adenomas and Cancers in a Healthy Screening Population",
+  "brief_summary": "RATIONALE: New diagnostic procedures such as computed tomographic colonography may improve the ability to detect colorectal cancer and may provide a less invasive method of detection.\n\nPURPOSE: This clinical trial is studying how well computed tomographic colonography works in screening healthy participants for colorectal cancer.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* Compare the sensitivity of computed tomographic colonography (CTC) vs colonoscopy for detecting significantly large lesions (\u2265 10 mm in diameter) in asymptomatic participants, in terms of specificity, area under the ROC curve, and predictive values for detecting clinically significant colorectal neoplasia.\n\nSecondary\n\n* Determine the interobserver variation in accuracy of interpreting CTC examinations of these participants, including any benefits of a primary 3-dimensional read and/or independent second interpretations.\n* Determine the effects of different colon preparations on the accuracy of CTC in these participants.\n* Compare participant acceptance and willingness to have a repeat examination by CTC vs colonoscopy.\n* Determine the accuracy of CTC in detecting flat lesions in the colon of these participants.\n\nOUTLINE: This is a multicenter study.\n\nParticipants receive an oral laxative, oral bisacodyl, and three doses of oral barium sulphate 24 hours before imaging. After cathartic cleansing, participants undergo computed tomographic colonography followed by colonoscopy.\n\nParticipants are followed up for approximately 4 weeks.\n\nPROJECTED ACCRUAL: A total of 2,607 participants will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 2600,
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "CT Colonography",
+      "type": "PROCEDURE",
+      "description": "CT colonography performed for comparison with colonoscopy results performed during the same screening assessment."
+    }
+  ],
+  "eligibility": {
+    "criteria": "1. Inclusion Criteria\n\n   * Male or female outpatients\n   * Aged 50 years or older\n   * Scheduled for screening colonoscopy\n   * Participant's signed informed consent\n2. Exclusion Criteria\n\n   * Symptoms of disease of the lower gastrointestinal tract, including\n\n     * Melanotic stools or/and hematochezia on more than one occasion in the previous six months\n     * Lower abdominal pain that would normally require a medical evaluation\n   * Inflammatory bowel disease and/or familial polyposis syndrome\n   * Serious medical conditions that would increase the risk associated with colonoscopy or are so severe that screening would have no benefit\n   * Pregnancy\n   * Previous colonoscopy within the past five years\n   * Anemia (hemoglobin less than 10 gm/dl)\n   * Positive fecal occult blood test (FOBT)",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Advanced Adenomas (>=10mm) as Determined by Colonoscopy (Per Patient)",
+      "timeFrame": "within 30 days",
+      "description": "Pathology results from Colonoscopy performed up to 30 days after a CTC examination were used as the reference standard (RS) for determining the existence of advanced adenomas.\n\nRS+: Colonoscopy found at least 1 Advanced adenomas \\>=10mm (as measured at pathology) RS-: No Advanced adenomas \\>=10mm found by colonoscopy (as measured at pathology)"
+    },
+    {
+      "measure": "Number of Participants With Advanced Adenomas (>=9mm) Detected by CT Colonoscopy (Per Patient)",
+      "timeFrame": "within 30 days",
+      "description": "Pathology results from Colonoscopy performed up to 30 days after a CTC examination were used as the reference standard (RS) for determining the existence of advanced adenomas.\n\nRS+: Colonoscopy found at least 1 Advanced adenomas \\>=9mm (as measured at pathology) RS-: No Advanced adenomas \\>=9mm found by colonoscopy (as measured at pathology)"
+    },
+    {
+      "measure": "Number of Participants With Advanced Adenomas (>=8mm) Detected by CT Colonoscopy (Per Patient)",
+      "timeFrame": "within 30 days",
+      "description": "Pathology results from Colonoscopy performed up to 30 days after a CTC examination were used as the reference standard (RS) for determining the existence of advanced adenomas.\n\nRS+: Colonoscopy found at least 1 Advanced adenomas \\>=8mm (as measured at pathology) RS-: No Advanced adenomas \\>=8mm found by colonoscopy (as measured at pathology)"
+    },
+    {
+      "measure": "Number of Participants With Advanced Adenomas (>=7mm) Detected by CT Colonoscopy (Per Patient)",
+      "timeFrame": "within 30 days",
+      "description": "Pathology results from Colonoscopy performed up to 30 days after a CTC examination were used as the reference standard (RS) for determining the existence of advanced adenomas.\n\nRS+: Colonoscopy found at least 1 Advanced adenomas \\>=7mm (as measured at pathology) RS-: No Advanced adenomas \\>=7mm found by colonoscopy (as measured at pathology)"
+    },
+    {
+      "measure": "Number of Participants With Advanced Adenomas (>=6mm) Detected by CT Colonoscopy (Per Patient)",
+      "timeFrame": "within 30 days",
+      "description": "Pathology results from Colonoscopy performed up to 30 days after a CTC examination were used as the reference standard (RS) for determining the existence of advanced adenomas.\n\nRS+: Colonoscopy found at least 1 Advanced adenomas \\>=6mm (as measured at pathology) RS-: No Advanced adenomas \\>=16mm found by colonoscopy (as measured at pathology)"
+    },
+    {
+      "measure": "Number of Participants With Advanced Adenomas (>=5mm) Detected by CT Colonoscopy (Per Patient)",
+      "timeFrame": "within 30 days",
+      "description": "Pathology results from Colonoscopy performed up to 30 days after a CTC examination were used as the reference standard (RS) for determining the existence of advanced adenomas.\n\nRS+: Colonoscopy found at least 1 Advanced adenomas \\>=5mm (as measured at pathology) RS-: No Advanced adenomas \\>=5mm found by colonoscopy (as measured at pathology)"
+    }
+  ],
+  "sponsor": "American College of Radiology Imaging Network",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2005-02",
+  "completion_date": "2010-05-13",
+  "last_updated": "2020-11-30"
+}

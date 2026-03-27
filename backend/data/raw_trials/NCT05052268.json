@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT05052268",
+  "brief_title": "XTX202 in Patients With Advanced Solid Tumors",
+  "official_title": "A First-in-Human, Multicenter, Phase 1/2, Open-Label Study of XTX202 in Patients With Advanced Solid Tumors",
+  "brief_summary": "A First-in-Human, Multicenter, Phase 1/2, Open-Label Study of XTX202 in Patients with Advanced Solid Tumors",
+  "detailed_description": "This is a first-in-human, Phase 1/2, multicenter, open-label study designed to evaluate the safety, tolerability, and efficacy of XTX202, an engineered IL-2 prodrug with its activity masked, as monotherapy in patients with advanced solid tumors.\n\nPhase 1 Part 1a will examine XTX202 monotherapy in an accelerated and standard 3+3 dose-escalation design. Based on the results of Part 1a, Part 1b will be initiated to further examine XTX202 in patients with select advanced solid tumors and to further characterize XTX202.\n\nBased on results of Phase 1 patients with select advanced solid tumors will be enrolled in Phase 2.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 95,
+  "conditions": [
+    "Advanced Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "XTX202",
+      "type": "DRUG",
+      "description": "XTX202 Monotherapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Disease Criteria\n\n   * Phase 1, Part 1a: Any histologically or cytologically confirmed solid tumor malignancy that is locally advanced or metastatic and has failed standard therapy, or standard therapy is not curative or available\n   * Phase 1, Part 1b: Histologically or cytologically confirmed solid tumor malignancy with one of the following tumor histologies: RCC of clear cell histology only, melanoma, squamous cell skin carcinoma, ovarian cancer, non-small cell lung cancer. Those patients who previously received immunotherapy must have derived benefit from this treatment. Additionally, patients with any of the above histologies in an advanced setting who plan to undergo debulking surgery or oligometastasectomy may be eligible to receive 2 cycles of XTX202 treatment in a \"window of opportunity\" subcohort\".\n   * Phase 2, Part 2a: Patients with metastatic RCC who have previously been treated with an anti-PD-1 and a TKI, per local and institutional SOC. Patients must have progressed on treatment with an anti-PD-1 mAb administered either as monotherapy or in combination with other therapies\n   * Phase 2, Part 2b: Patients with unresectable or metastatic melanoma who have previously been treated with at least 1 prior line of therapy in the recurrent or metastatic setting. Prior therapy must have included an anti-PD-1 alone or in combination per local and institutional standard of care, and patient must have progressed on checkpoint inhibitor therapy. Patients with BRAF V600-activating mutation must have previously received targeted therapy per local and institutional standard of care.\n2. ECOG performance status of 0 or 1\n3. Adequate organ function\n4. Part 1b only patients must be willing to provide fresh tumor biopsies before and after initiation of study treatment.\n\nExclusion Criteria:\n\n1. Received prior treatment with IL-2 therapy\n2. History of clinically significant pulmonary disease\n3. History of clinically significant cardiovascular disease\n4. Has a diagnosis of immunodeficiency\n5. Has an active autoimmune disease that has required systemic treatment in past 2 years, including the use of disease modifying agents, corticosteroids or immunosuppressive drugs\n6. Has an active infection requiring systemic therapy within 4 weeks prior to study treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Atlantic Health System/Morristown Medical Center",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers Cancer Institute of NJ",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center Pavilion",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of Dose Limiting Toxicities (DLTs) (Phase 1 Part 1A only)",
+      "timeFrame": "Cycle 1 day 1 up to just prior to the second dose of study drug at Cycle 2 day 1 (each cycle is 21 days)",
+      "description": ""
+    },
+    {
+      "measure": "Incidence of treatment-emergent adverse events (Phase 1 only)",
+      "timeFrame": "Up to 24 months",
+      "description": ""
+    },
+    {
+      "measure": "Incidence of changes in clinical laboratory values (Phase 1 only)",
+      "timeFrame": "Up to 24 months",
+      "description": ""
+    },
+    {
+      "measure": "Investigator-assessed objective response rate (ORR) per RECIST 1.1 (Phase 2 only)",
+      "timeFrame": "Up to 24 months",
+      "description": ""
+    }
+  ],
+  "sponsor": "Xilio Development, Inc.",
+  "collaborators": [],
+  "start_date": "2022-01-18",
+  "completion_date": "2025-03-25",
+  "last_updated": "2025-05-02"
+}

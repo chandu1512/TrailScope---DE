@@ -1,0 +1,43 @@
+{
+  "nct_id": "NCT05644808",
+  "brief_title": "MYLUNG Consortium Study Protocol 2",
+  "official_title": "Molecularly Informed Lung Cancer Treatment in a Community Cancer Network: A Pragmatic Prospective RWE Study (MYLUNG Consortium: Part 2)",
+  "brief_summary": "This pragmatic study looks to quantify the testing timeline, operational barriers, and outcomes of biomarker-guided therapy in a large, community-based, and largely unselected patient population with early stage and advanced stage, treatment-naive non-small cell lung cancer, whether squamous or non-squamous.",
+  "detailed_description": "Lung cancer remains the most lethal malignancy in men and women in the U.S. Providing high quality management of these patients in the community setting as compared to hospital or academic centers offers the opportunity to reduce cost without sacrificing clinical outcome and simultaneously improving patient convenience and value. Many patients diagnosed with late-stage cancers can benefit from advanced biomarker testing, yet not all eligible patients receive this type of diagnostic testing today.\n\nWithin advanced non-small-cell lung cancer (aNSCLC), there are many specific somatic mutations observed in select patient populations that have targeted highly effective and less toxic therapies. National guidelines have advocated for broad tumor molecular profiling as a part of the standard diagnostic evaluation for aNSCLC, with the goal of identifying driver mutations for which effective therapies or clinical trials are available.\n\nFurthermore, there is emerging evidence that molecular testing can impact treatment choices in earlier stages of lung cancer. However, adherence to genomic testing guidelines presents unique challenges to community oncologists. While most oncology clinical research has been conducted at well-established academic medical centers, over 85% of cancer patients are diagnosed and treated at local, community-based clinical practices. Barriers exist in the ability to order these tests efficiently, in a timely manner, and reimbursed accordingly. Furthermore, patient care can vary drastically based on community-associated disparities.\n\nThis pragmatic clinical trial will generate Real World Evidence (RWE) to validate efficacy of first treatment regimen in newly diagnosed patients with non-small cell lung cancer. The MYLUNG Program integrates three separate protocols: Protocol #1 will interrogate historical data from a large number of practices seeing lung cancer patients to evaluate biomarker testing, decision making patterns, the patient journey, and the tissue journey; Protocol #2 (current trial) will prospectively evaluate the patient journey in a limited number of index practices focused on testing; integration of testing results; and treatments. Interventional strategies to optimize these objectives will be developed and integrated into Protocol #3, which will evaluate the impact of these strategies on the patient journey as it relates to shared decision making.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1002,
+  "conditions": [
+    "Carcinoma, Non-Small-Cell Lung"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adult subjects (18 years and older) with newly diagnosed early stage, locally advanced or metastatic non-small cell lung cancer\n* Eligible for systemic therapy based on the treating provider's assessment\n* Subjects who developed locally advanced or metastatic disease after receiving adjuvant or neoadjuvant therapy are eligible if the adjuvant/neoadjuvant therapy was completed at least 12 months prior to the development of locally advanced or metastatic disease\n* Subjects may be enrolled within 30 days of initiation of systemic therapy\n* Signed informed consent\n\nExclusion Criteria:\n\n* Stage IA at the time of enrollment\n* Subjects with small cell lung cancer\n* Subjects with Unknown primary tumor origin",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Oncology Hematology, P.A.",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20904",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of Patients Who Do and Do Not Receive Biomarker Test Results Prior to Systemic Therapy or Death",
+      "timeFrame": "5 years from date of enrollment into study",
+      "description": "i. Comprehensive testing is defined as both PD-L1 testing to guide use of immunotherapies \\& testing for all genomic alterations for which we have FDA-approved therapies incl EGFR, ALK, ROS1, BRAF, NTRK, RET, KRAS \\& MET ii. Document whether patient receives single gene testing for actionable mutations compared to those who receive comprehensive testing. For patients who start systemic therapy prior to or without biomarker results, we will catalog reasons for not conducting testing incl:\n\n1. Clinical deterioration, clinical crisis\n2. Insufficient tissue\n3. Barriers to test ordering\n\n   1. Tissue: obtaining sample, tissue retrieval\n   2. Assay failure for 1 or more biomarkers: Quantity Not Sufficient (QNS), QA fail, test failure\n   3. Patient/provider attitudes \\& perceptions\n   4. Provider knowledge about testing options\n   5. Patient knowledge about biomarker testing\n   6. Payor Coverage: prior authorization denial, payor refusal\n   7. Financial barriers: uncovered costs, reimbursement"
+    }
+  ],
+  "sponsor": "US Oncology Research",
+  "collaborators": [],
+  "start_date": "2020-12-29",
+  "completion_date": "2027-12",
+  "last_updated": "2025-04-08"
+}

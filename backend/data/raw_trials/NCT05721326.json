@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT05721326",
+  "brief_title": "Sequential EHR Based Interventions to Increase Genetic Testing for Breast and Ovarian Cancer Predisposition",
+  "official_title": "Sequential EHR Based Interventions to Increase Genetic Testing for Breast and Ovarian Cancer Predisposition Across Diverse Patient Populations in Gynecology Practices at Penn Medicine",
+  "brief_summary": "The goal of this sequential study design is to increase genetic testing in those meeting national clinical guidelines. The main question it aims to answer is: which intervention is most effective in uptake of genetic testing for the target population? Participants will receive genetic testing and counseling that may initiate life-saving screenings.",
+  "detailed_description": "Germline genetic testing is recommended by the National Cancer Center Network (NCCN) for individuals with a personal history of ovarian cancer, young-onset (\\<50 years) breast cancer, and a family history of ovarian cancer or male breast cancer, among others. Recent publications demonstrate that the uptake of genetic testing is under-utilized, overall, and rates are consistently lower in minority populations. EHR-based algorithms will be used to identify patients of two Penn Medicine Ob/Gyn practices for whom genetic testing is recommended based on NCCN guidelines and to test pragmatic methods using messages delivered to patients or clinicians to encourage testing. The ACC Electronic Phenotyping Core developed the algorithms based on cancer registry data along with family history fields and this study will develop and test messages directed at patients and clinicians to encourage testing. The aims are:\n\n1. Identification of at-risk populations through electronic health record (EHR) searches followed by patient nudges (MPM and then Way To Health) to increase the uptake of genetic counseling referral and testing in patients at gynecology practices at Dickens Center and Penn Medicine Radnor.\n2. In patients who have not responded to patient nudges (Aim 1), test a provider nudge to increase the uptake of genetic counseling referral and testing in gynecology practices at Dickens Center and Penn Medicine Radnor (Aim 2).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1330,
+  "conditions": [
+    "Genetic Predisposition to Disease",
+    "Breast Cancer Female",
+    "Ovarian Cancer",
+    "Hereditary Breast and Ovarian Cancer",
+    "Hereditary Cancer Syndrome",
+    "Hereditary Diseases",
+    "Gene Mutation-Related Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Sequential EHR Communications",
+      "type": "OTHER",
+      "description": "The intervention includes 3 message types: an EHR message, followed by a text message, followed by physician nudge. Each subsequent type will be activated if the previous type does not yield a response."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients with serous ovarian cancer diagnosed more than two years prior to study contact\n2. Patients with breast cancer diagnosed at \\<50 years of age more than two years prior to study contact\n3. Patients with triple negative breast cancer diagnosed more than two years prior to study contact\n4. Unaffected individuals reporting a family history of ovarian cancer\n5. Unaffected individuals reporting a family history of male breast cancer\n6. Unaffected individuals reporting a family history of breast cancer \\<50 years\n\nExclusion Criteria:\n\n1\\. Patients who have previously received genetic counseling and/or testing",
+    "gender": "FEMALE",
+    "min_age": "25 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Genetic Counseling Appointments Completed Following MPM Delivery",
+      "timeFrame": "Within six months of MPM delivery",
+      "description": "Scheduling and completion of genetic counseling appointments will be monitored through EHR. MPM stands for MyPennMedicine message which will be sent directly to the patient through the medical record."
+    },
+    {
+      "measure": "Number of Genetic Counseling Appointments Completed Following Provider Nudge",
+      "timeFrame": "Within six months of provider nudge",
+      "description": "Scheduling and completion of genetic counseling appointments will be monitored through EHR. The provider nudge will be delivered as a Best Practice Alert (BPA) upon opening the patient's chart."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2023-05-01",
+  "completion_date": "2025-12-31",
+  "last_updated": "2026-01-12"
+}

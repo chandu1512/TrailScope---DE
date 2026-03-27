@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT05693649",
+  "brief_title": "Behavioral Economic Approaches for Population-Based Colorectal Cancer Screening",
+  "official_title": "Behavioral Economic Approaches for Population-Based Colorectal Cancer Screening",
+  "brief_summary": "This is a 3-year pragmatic, randomized clinical trial among average-risk patients at diverse primary care practices who are overdue for colorectal (CRC) screening. This project aims to evaluate the effect of a centralized program that includes direct outreach to patients and visit-based, clinician directed nudges facilitated by the electronic health record (EHR) with follow-up text messaging on the uptake of CRC screening. The primary outcome is CRC screening completion at 3 years. Patient and clinician factors impacting the experience and effectiveness of the intervention will be explored through surveys and qualitative interviews.",
+  "detailed_description": "Despite effective strategies for prevention, early detection, and treatment, colorectal cancer (CRC) remains the second leading cause of cancer death in the United States (US). While there have been considerable policy and system-level efforts to increase CRC screening rates, uptake remains well below national goals of 80% participation. Members of racial and ethnic minorities are even further behind. Approaches to increase population-based screening can consider \\[1\\] how screening is encouraged by targeting the clinicians who typically order or recommend the procedure or the patient who completes it; and \\[2\\] the kind of screening offered (e.g., colonoscopy or fecal immunochemical testing \\[FIT\\]). This project simultaneously tests interventions along both of these dimensions.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 20000,
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "No Direct Patient Outreach",
+      "type": "BEHAVIORAL",
+      "description": "Patient will not receive direct outreach prompting them to schedule and/or complete colorectal cancer screening."
+    },
+    {
+      "name": "Direct Patient Outreach: Colonoscopy Only",
+      "type": "BEHAVIORAL",
+      "description": "Patient will receive direct outreach including an order to schedule and complete colonoscopy."
+    },
+    {
+      "name": "Direct Patient Outreach: Sequential Choice",
+      "type": "BEHAVIORAL",
+      "description": "Patient will receive direct outreach including an order to schedule and complete colonoscopy then an at-home fecal immunochemical test (FIT) if colonoscopy is not completed."
+    },
+    {
+      "name": "Visit-Based Nudge/Text",
+      "type": "BEHAVIORAL",
+      "description": "Patient's clinician will receive an alert prompting them to discuss colorectal cancer screening with their patient upon visit. Patient will also receive a text message 3 days after visit reminding them to complete colorectal cancer screening."
+    },
+    {
+      "name": "No Nudge/Text",
+      "type": "BEHAVIORAL",
+      "description": "Patient's clinician will not receive an alert prompting them to discuss colorectal cancer screening with their patient upon visit. Patient will not receive a text message 3 days after visit reminding them to complete colorectal cancer screening."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients ages 50-72\n* Followed by Primary Care with a participating Penn Medicine PCP listed and at least one visit in the last 2 years\n* Not up to date on colorectal cancer screening per Health Maintenance (no colonoscopy in the last 10 years, stool testing in the last year, flexible sigmoidoscopy in the last 5 years, MT-sDNA in the last 3 years).\n\nExclusion Criteria:\n\n* Personal or significant family history of CRC, colonic polyps, hereditary nonpolyposis colorectal cancer syndrome, familial adenomatous polyposis syndrome, other gastrointestinal cancer, gastrointestinal bleeding, iron-deficiency anemia, or inflammatory bowel disease\n* History of total colectomy, dementia or metastatic cancer\n* Currently on hospice or receiving palliative care\n* Uninsured or self-pay patients\n* Currently scheduled for a colonoscopy or sigmoidoscopy\n* Active order for multitarget stool DNA testing (MT-sDNA)\n* History of paraplegia or quadriplegia\n* Elevated chance of mortality within 3 years according to mortality risk algorithm\n* Active order for Fecal Immunochemical Test (FIT) in the last 60 days\n* Positive stool test (FIT or MT-sDNA) result in the last 5 years",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "72 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn Medicine",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "CRC screening completion at 3 years",
+      "timeFrame": "3 years",
+      "description": "CRC screening completion at 3 years, which could be satisfied by any one of the following: colonoscopy completion at any time, negative FIT completed 2 times, or positive FIT followed by diagnostic colonoscopy within 1 year."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2023-06-07",
+  "completion_date": "2026-12-21",
+  "last_updated": "2025-09-04"
+}

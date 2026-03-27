@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT03884556",
+  "brief_title": "TTX-030 Single Agent and in Combination With Immunotherapy or Chemotherapy for Patients With Advanced Cancers",
+  "official_title": "Phase 1/1b Study of the Safety of TTX-030 as a Single Agent and in Combination With Pembrolizumab or Chemotherapy in Patients With Lymphoma or Solid Tumor Malignancies",
+  "brief_summary": "This is a phase 1/1b study of TTX-030, an antibody that inhibits CD39 enzymatic activity, leading to accumulation of pro-inflammatory adenosine triphosphate (ATP) and reduction of immunosuppressive adenosine, which may change the tumor microenvironment and promote anti-tumor immune response.\n\nThis trial will study the safety, tolerability, pharmacokinetics, and anti-tumor activity of TTX-030 as a single agent and in combination with an approved anti-PD-1 immunotherapy and standard chemotherapies.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 56,
+  "conditions": [
+    "Solid Tumor",
+    "Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "TTX-030",
+      "type": "DRUG",
+      "description": "Variable dose and schedule"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Dose and schedule per standard of care"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Dose and schedule per standard of care"
+    },
+    {
+      "name": "nab paclitaxel",
+      "type": "DRUG",
+      "description": "Dose and schedule per standard of care"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Abreviated Inclusion Criteria\n\n1. Advanced solid tumor malignancy or relapsed/refractory lymphoma, or\n\n   * eligible to receive single-agent pembrolizumab as standard of care, or\n   * eligible to receive single-agent docetaxel as standard of care, or\n   * advanced pancreatic adenocarcinoma and eligible to receive gemcitabine plus nab-paclitaxel as standard of care.\n2. Age 18 years or older, is willing and able to provide informed consent\n3. Evidence of measurable disease\n4. Life expectancy \\> 12 weeks and Eastern Cooperative Oncology Group (ECOG) performance status of 0-1\n\nAbbreviated Exclusion Criteria\n\n1. History of allergy or hypersensitivity to study treatment components. Patients with a history of severe hypersensitivity reaction to any monoclonal antibody.\n2. Use of investigational agent within 28 days prior to the first dose of study treatment and throughout the study\n3. Receiving high-dose systemic steroid therapy or any other form of immunosuppressive therapy\n4. History of severe autoimmune disease\n5. Uncontrolled intercurrent illness or other active malignancy requiring ongoing treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants Who Experienced Dose-Limiting Toxicities (DLTs)",
+      "timeFrame": "1 cycle (each cycle is 21-28 days)",
+      "description": "A DLT was defined as any clinically significant AE that occurred during Treatment Cycle 1 that the Investigator or Sponsor considered as possibly or likely related to TTX-030 as a single agent, or the combination of TTX-030 and other agent(s), and met the following criteria: NCI CTCAE Version 5.0 Grade 5 event, Grade 4 hematological or Grade\u22653 non-hematological toxicities, or Grade\u22653 irAEs. Laboratory abnormalities that were asymptomatic and deemed not clinically significant were not regarded as DLTs.\n\nDuring Dose Escalation, each dosing cohort was completed through the DLT observation window before escalation was allowed within its arm. In each Safety Lead-in cohort, all participants were closely monitored for the occurrence of DLTs."
+    },
+    {
+      "measure": "Objective Response Rate (ORR) - Arm 1 and Arm 2 Expansion Cohorts",
+      "timeFrame": "Through study completion, an average of 1 year",
+      "description": "Anti-tumor activity in subjects treated with TTX-030 as single agent or in combination with specified regimens"
+    }
+  ],
+  "sponsor": "Trishula Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2019-04-10",
+  "completion_date": "2023-09-29",
+  "last_updated": "2025-06-13"
+}

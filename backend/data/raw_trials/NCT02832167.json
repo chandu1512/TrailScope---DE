@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT02832167",
+  "brief_title": "An Open Label Investigational Immuno-therapy Trial of Nivolumab in Cancers That Are Advanced or Have Spread",
+  "official_title": "An Open Label Phase 2 Multi-cohort Trial of Nivolumab in Advanced or Metastatic Malignancies",
+  "brief_summary": "The purpose of this study is to determine whether nivolumab is an effective treatment for cancer that has advanced or has spread. Various tumor types may be eligible for enrollment.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 239,
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Diagnosed with advanced or metastatic malignancy\n* Received standard of care treatment for primary malignancy and standard of care treatment for relapsed cancer\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n\nExclusion Criteria:\n\n* Prior treatment with an antiPD1, antiPDL1, antiPDL2, antiCD137, or antiCTLA4 antibody, or any other antibody or drug specifically targeting Tcell co-stimulation or checkpoint pathways.\n* Subjects previously treated with investigational anticancer therapies less than 6 weeks prior to the first dose of Nivolumab\n* Subjects with an active, known, or suspected autoimmune disease\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Oncology Hematology P.A.",
+      "city": "Columbia",
+      "state": "Maryland",
+      "zip": "21044",
+      "status": ""
+    },
+    {
+      "facility": "Saint Barnabas Medical Cancer Center",
+      "city": "Livingston",
+      "state": "New Jersey",
+      "zip": "07039",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "timeFrame": "From first dose to the date of objectively documented progression (per tumor-specific response criteria) or the date of subsequent therapy, whichever occurs first (up to approximately 24 months)",
+      "description": "ORR is defined as the percentage of participants with a best overall response (BOR) of confirmed Complete Response (CR) or Partial Response (PR). Best overall response is defined as the best response designation, as determined by investigator, recorded in the specified timeframe, according to the RECIST 1.1 criteria."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2016-02-22",
+  "completion_date": "2021-06-24",
+  "last_updated": "2022-04-06"
+}

@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT01861002",
+  "brief_title": "A Phase I Study of 5-Azacytidine in Combination With Chemotherapy for Children With Relapsed or Refractory ALL or AML",
+  "official_title": "A Phase I Study of 5-Azacytidine in Combination With Chemotherapy for Children With Relapsed or Refractory ALL or AML",
+  "brief_summary": "This is a Phase I study with a conditional cohort expansion phase to evaluate the feasibility of, and to obtain preliminary efficacy data about, pretreatment with Azacytidine (AZA) for 5 days followed by fludarabine/cytarabine chemotherapy regimen in pediatric acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL) patients who are refractory to primary treatment or who relapsed.",
+  "detailed_description": "Growing evidence indicates that aberrant DNA hypermethylation is associated with leukemia development, drug resistance, and relapse. It has been shown that pretreating leukemia cells with AZA or decitabine could partially reverse the aberrant DNA methylation, restore the expression of tumor suppressor gene important for apoptosis, and sensitize cells to subsequent killing by cytotoxic agent. Since cytarabine and decitabine share the same mechanisms of resistance, we use AZA to test the novel epigenetic \"priming\" approach. This is a phase I clinical study with expansion phase, using hypomethylating agent, 5-azacytidine (AZA), in sequential with chemotherapy to evaluate whether epigenetic \"priming\" can reverse aberrant DNA methylation, overcome drug resistance, and increase response in relapsed/refractory AML.\n\nThe chemotherapy regimen to be used in this study is fludarabine and cytarabine. This regimen has substantial activity in leukemia and has been widely used in treating pediatric patients with relapsed/refractory AML and ALL in the past several decades. In BFM relapsed AML 2001/01 study, FLAG (fludarabine, cytarabine and G-CSF) chemotherapy regimen showed significant activity in AML with 4 year OS around 36%. Since the use of G-CSF in conjunction with fludarabine/cytarabine didn't improve the overall survival of patient in a randomized trial, only fludarabine and cytarabine will be used in this study to decrease the incidence of leukocytosis related complications. This regimen is very similar to the chemotherapy regimen proposed for the next relapsed AML trial within the Children's Oncology Group (COG). If this trial proves to be safe and active, it will provide the foundation and smooth transition to larger statistically powered nationwide phase II clinical trials by COG.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 15,
+  "conditions": [
+    "Lymphoblastic Leukemia, Acute, Childhood",
+    "Myelogenous Leukemia, Acute, Childhood"
+  ],
+  "interventions": [
+    {
+      "name": "Azacytidine",
+      "type": "DRUG",
+      "description": "Dose assigned at study entry (75 mg/m2/day). Given subcutaneously, once daily on days 1 to 5, for a total of 5 doses."
+    },
+    {
+      "name": "Fludarabine",
+      "type": "DRUG",
+      "description": "30 mg/m2/dose, intravenous infusion over 30 minutes, once daily, on days 6 to 10, total 5 doses"
+    },
+    {
+      "name": "Cytarabine",
+      "type": "DRUG",
+      "description": "2000 mg/m2/dose intravenous infusion over 3 hours, starting 4 hours after the beginning of fludarabine, once daily, on days 6 to 10, total 5 doses."
+    },
+    {
+      "name": "Intrathecal (IT) Cytarabine",
+      "type": "DRUG",
+      "description": "Intrathecally to AML patients on day 1 of course 1 and 2.\n\n* Omit on day 1 of course 1 if patient received IT therapy within 7 days prior to study enrollment\n* IT therapy may be given during the end of course 1 disease evaluation and repeated every 7 days\n* For patients with CNS disease, IT cytarabine can be given weekly until the CSF is clear. Two additional doses of IT cytarabine should be given weekly after the initial CSF clearing. It is permitted to change to intrathecal triple therapy (ITT) if persistent blasts are present in the CSF based on the treating physician's clinical judgment. Cytarabine dose defined by age:\n* 30 mg for patients age 1-1.99\n* 50 mg for patients age 2-2.99\n* 70 mg for patients \\>3 years of age\n\nITT Dosing:\n\nAge (yrs) - Dose Methotrexate (MTX), Hydrocortisone (HC), Cytarabine (ARAC):\n\n1. \\- 1.99 MTX: 8 mg, HC: 15 mg, ARAC: 30 mg\n2. \\- 2.99 MTX: 10 mg, HC: 25 mg, ARAC: 50 mg\n\n   * 3 - MTX: 12 mg, HC: 35 mg, ARAC: 70 mg"
+    },
+    {
+      "name": "Intrathecal Methotrexate (IT MTX)",
+      "type": "DRUG",
+      "description": "* Intrathecally to patients with ALL on day 1 of course 1 and 2.\n* Omit IT MTX on Day 1 of course 1 if patient received IT therapy within 7 days prior to study enrollment\n* IT therapy may be given during the end of course 1 disease evaluation and repeated every 7 days\n* For patients with CNS 2 or 3 disease, IT MTX can be given weekly until the CSF is clear. Two additional doses of IT MTX should be given weekly after the initial clearing of the CSF. It is permitted to change to ITT if persistent blasts are present in the CSF. Methotrexate dose defined by age\n* 8 mg for patients age 1-1.99\n* 10 mg for patients age 2-2.99\n* 12 mg for patients 3-8.99 years of age\n* 15 mg for patients \\>9 years of age\n\nTriple IT Therapy Dosing:\n\nAge (yrs): Dose Methotrexate (MTX), Hydrocortisone (HC), Cytarabine (ARAC):\n\n1. \\- 1.99 MTX: 8 mg, HC: 8 mg, ARAC: 16 mg\n2. \\- 2.99 MTX: 10 mg, HC: 10 mg, ARAC: 20 mg\n3. \\- 8.99 MTX: 12 mg, HC: 12 mg, ARAC: 24 mg\n\n   * 9 MTX: 15 mg, HC: 15 mg, ARAC: 30 mg"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nPatients must be \u2265 1 and \u2264 21 years of age.\n\nDiagnosis\n\n1. Patients with AML must have \u22655% blasts (by morphology) in the bone marrow.\n2. Patients with ALL must have an M2 or M3 marrow (\u22655% blasts by morphology).\n3. Patients may have disease in the central nervous system (CNS) or other sites of extramedullary disease. No cranial irradiation is allowed during the protocol therapy.\n4. Patients with secondary AML are eligible.\n5. Patients with Down syndrome and DNA fragility syndromes (such as Fanconi anemia, Bloom syndrome) are excluded.\n\nKarnofsky \\> 50% for patients \\> 16 years of age and Lansky \\> 50% for patients \u2264 16 years of age.\n\nPatients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study.\n\nMyelosuppressive chemotherapy - the eligibility criteria is different between phase I and expansion phase\n\n1. Phase I\n\n   * Any patient with AML in 1st or greater relapse, OR\n   * Any patient with ALL in 2nd or greater relapse, OR\n   * Patients with AML or ALL failed to go into remission after first or greater relapse, OR\n   * Patients with AML or ALL failed to go into remission from original diagnosis after two or more courses of induction attempts.\n2. Expansion phase - will be restricted to AML patients only\n3. Cytoreduction with hydroxyurea can be initiated and continued for up to 24 hours prior to the start of azacytidine. It is recommended to use hydroxyurea in patients with significant leukocytosis (WBC \\> 50,000/L) to control blast count before initiation of systemic protocol therapy.\n4. Patients who relapsed while they are receiving cytotoxic therapy (including AZA , decitabine, or vorinostat) At least 14 days must have elapsed since the completion of the cytotoxic therapy.\n\nHematopoietic stem cell transplant: Patients who have experienced their relapse after a stem cell transplant are eligible, provided they have no evidence of acute or chronic Graft-versus-Host Disease (GVHD) and are at least 90 days post-transplant at the time of enrollment.\n\nHematopoietic growth factors: It must have been at least 7 days since the completion of therapy with filgrastim or other growth factors at the time of enrollment. It must have been at least 14 days since the completion of therapy with pegfilgrastim (Neulasta\u00ae).\n\nBiologic (anti-neoplastic agent): At least 7 days after the last dose of a biologic agent. For agents that have known adverse events occurring beyond 7 days after administration, this period must be extended beyond the time during which adverse events are known to occur. The duration of this interval must be discussed with the study chair\n\nMonoclonal antibodies: At least 3 half-lives of the antibody must have elapsed after the last dose of monoclonal antibody. (i.e. Gemtuzumab = 36 days)\n\nImmunotherapy: At least 42 days after the completion of any type of immunotherapy, e.g. tumor vaccines.\n\nRadiation Therapy (XRT): Craniospinal XRT is prohibited during protocol therapy. No washout period is necessary for radiation given to non-CNS chloromas; \u2265 90 days must have elapsed if prior total body radiation or craniospinal radiation.\n\nRenal and hepatic function\n\nPatients must have adequate renal and hepatic functions as indicated by the following laboratory values:\n\n* Patient must have a calculated creatinine clearance or radioisotope glomerular filtration rate (GFR) greater than or equal to 70ml/min/1.73m2 OR a normal serum creatinine based on age/gender.\n* Direct bilirubin \\< 1.5 x upper limit of normal (ULN) for age or normal, AND alanine transaminase (ALT) \\< 5 x ULN for age.\n\nAdequate Cardiac Function Defined as: Shortening fraction greater than or equal to 27% by echocardiogram, OR ejection fraction greater than or equal to 50% by radionuclide angiogram (MUGA).\n\nReproductive Function\n\n* Female patients of childbearing potential must have a negative urine or serum pregnancy test confirmed within 2 weeks prior to enrollment.\n* Female patients with infants must agree not to breastfeed their infants while on this study.\n* Male and female patients of child-bearing potential must agree to use an effective method of contraception approved by the investigator during the study and for a minimum of 6 months after study treatment.\n\nPatients and/or their parents or legal guardians must be capable of understanding the investigational nature, potential risks and benefits of the study. All patients and/or their parents or legal guardians must sign a written informed consent.\n\nExclusion Criteria:\n\nPatients will be excluded if they have a known allergy to any of the drugs used in the study.\n\nPatients will be excluded if they have a systemic fungal, bacterial, viral or other infection that is exhibiting ongoing signs/symptoms related to the infection without improvement despite appropriate antibiotics or other treatment. The patient needs to be off pressors and have negative blood cultures for 48 hours.\n\nPatients will be excluded if there is a plan to administer non-protocol chemotherapy, radiation therapy, or immunotherapy during the study period.\n\nPatients will be excluded if they have significant concurrent disease, illness, psychiatric disorder or social issue that would compromise patient safety or compliance with the protocol treatment or procedures, interfere with consent, study participation, follow up, or interpretation of study results.\n\nPatients with Down syndrome and DNA fragility syndromes (such as Fanconi anemia, Bloom syndrome) are excluded.",
+    "gender": "ALL",
+    "min_age": "1 Year",
+    "max_age": "21 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants Who Experienced a Dose Limiting Toxicity (DLT)",
+      "timeFrame": "From Day 1 to Day 42 (Cycle 1)",
+      "description": "To evaluate the side effects of giving Azacytidine before and during chemotherapy using the standard drugs Fludarabine, Cytarabine, IT Cytarabine (AML patients) and IT methotrexate (ALL patients)"
+    }
+  ],
+  "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+  "collaborators": [
+    "Gateway for Cancer Research"
+  ],
+  "start_date": "2013-05-22",
+  "completion_date": "2014-07-28",
+  "last_updated": "2021-05-14"
+}

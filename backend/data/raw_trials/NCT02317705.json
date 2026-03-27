@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT02317705",
+  "brief_title": "Phase 2 Study of OTL38 for Intra-operative Imaging of Folate Receptor-alpha Positive Ovarian Cancer",
+  "official_title": "A Phase 2, Single Dose, Open-Label Study to Investigate the Safety and Efficacy of OTL38 Injection (OTL38) for Intra-operative Imaging of Folate Receptor-alpha Positive Ovarian Cancer",
+  "brief_summary": "This study is being done to:\n\n* test the safety of OTL38\n* see if OTL38 helps light up the cancer when viewed with the special camera system\n* test the safety of the special camera system for use along with OTL38 during surgery",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 48,
+  "conditions": [
+    "Ovarian Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "OTL38",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Near infrared camera imaging system",
+      "type": "DEVICE",
+      "description": "Near infrared camera imaging system"
+    },
+    {
+      "name": "Laparotomy",
+      "type": "PROCEDURE",
+      "description": "primary surgical cytoreduction, interval debulking, or recurrent ovarian cancer surgery"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Female patients 18 years of age and older\n2. Have a primary diagnosis, or at high clinical suspicion, of primary ovarian cancer (of epithelial type), planned for primary debulking or interval debulking surgery, and:\n\n   * Who are scheduled to undergo laparotomy for the debulking surgery OR\n   * Who are scheduled to undergo laparoscopy and pre-authorized to undergo laparotomy for the debulking surgery, if cancer is detected on the laparoscopy\n3. A negative serum pregnancy test at Screening followed by a negative urine pregnancy test on the day of surgery or day of admission for female patients of childbearing potential\n4. Female patients of childbearing potential or less than 2 years postmenopausal agree to use an acceptable form of contraception from the time of signing informed consent until 30 days after study completion\n5. Ability to understand the requirements of the study, provide written informed consent and authorization of use and disclosure of protected health information, and agree to abide by the study restrictions and to return for the required assessments\n\nExclusion Criteria:\n\n1. Previous exposure to OTL38\n2. Known FR alpha-negative ovarian cancer\n3. Planned surgical approach via laparoscopy or robotic surgery\n4. Any medical condition that in the opinion of the investigators could potentially jeopardize the safety of the patient\n5. History of anaphylactic reactions or severe allergies\n6. History of allergy to any of the components of OTL38, including folic acid\n7. Pregnancy, or positive pregnancy test\n8. Clinically significant abnormalities on electrocardiogram (ECG)\n9. Presence of any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule\n10. Impaired renal function defined as eGFR\\< 50 mL/min/1.73m2\n11. Impaired liver function defined as values \\> 3x the upper limit of normal (ULN) for alanine aminotransferase (ALT) or aspartate aminotransferase (AST), alkaline phosphatase (ALP), or total bilirubin.\n12. Known Stage IV ovarian cancer with Brain Metastases\n13. Received an investigational agent in another investigational drug or vaccine trial within 30 days prior to surgery\n14. Known sensitivity to fluorescent light",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Sensitivity of OTL38 in Detecting Folate Receptor-alpha Positive Ovarian Cancer During Surgery.",
+      "timeFrame": "Day of Surgery (Day 1)",
+      "description": "Sensitivity for the detection of folate receptor-alpha positive (FRAP) ovarian cancer lesions is defined as the ratio (multiplied by 100) of the number of FRAO ovarian cancer lesions confirmed by both fluorescent light and the pathology/ and immunohistochemistry lab (TP) over the number of FRAP ovarian cancer lesions confirmed by the pathology/ and immunohistochemistry lab (TP+FN). 95% lower one-sided confidence interval was used."
+    },
+    {
+      "measure": "Positive Predictive Value (PPV) of OTL38 in Detecting Folate Receptor-alpha Positive Ovarian Cancer During Surgery.",
+      "timeFrame": "Day of Surgery (Day 1)",
+      "description": "PPV for the detection of FRAP ovarian cancer lesions is defined as the ratio (multiplied by 100) of the number of FRAP ovarian cancer lesions confirmed by both fluorescent light and the pathology/ and immunohistochemistry lab (TP) over the number of FRAP ovarian cancer lesions confirmed by fluorescent light (TP + FP).\n\n95% lower one-sided confidence interval was used."
+    }
+  ],
+  "sponsor": "On Target Laboratories, LLC",
+  "collaborators": [
+    "SynteractHCR"
+  ],
+  "start_date": "2014-12",
+  "completion_date": "2015-11",
+  "last_updated": "2022-05-24"
+}

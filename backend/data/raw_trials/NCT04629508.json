@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT04629508",
+  "brief_title": "To Assess the Safety, Tolerability and Efficacy of Itacitinib Immediate Release Tablets in Participants With Primary or Secondary Myelofibrosis Who Have Received Prior Ruxolitinib and/or Fedratinib Monotherapy (LIMBER-213)",
+  "official_title": "A 2-Part, Phase 2, Open-Label Study of the Safety, Tolerability, and Efficacy of Itacitinib Immediate Release in Participants With Primary Myelofibrosis or Secondary Myelofibrosis (Post-Polycythemia Vera Myelofibrosis or Post-Essential Thrombocythemia Myelofibrosis) Who Have Received Prior Ruxolitinib and/or Fedratinib Monotherapy",
+  "brief_summary": "This is a 2-part study. In Part 1, participants will be dosed at 2 different dose levels in order to select the RP2D for Part 2 of the study.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 4,
+  "conditions": [
+    "Myelofibrosis",
+    "Polycythemia Vera",
+    "Thrombocythemia"
+  ],
+  "interventions": [
+    {
+      "name": "itacitinib",
+      "type": "DRUG",
+      "description": "itacitinb Immediate Release (IR) will be dosed orally twice a day"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Diagnosis of primary MF meeting the 2016 WHO criteria for overt PMF or secondary MF (PPV-MF or PET-MF) meeting the 2008 IWG-MRT criteria.\n* At least Intermediate 1 risk MF according to the DIPSS.\n* Prior treatment with ruxolitinib and/or fedratinib monotherapy\n* Currently receiving ruxolitinib or fedratinib monotherapy for PMF or secondary MF.\n* Splenomegaly defined as palpable spleen at least 5 cm below the left costal margin or volume \u2265 450 cm3 on imaging assessed during screening.\n* Allogeneic stem cell transplant not planned.\n* Platelet is greater than or equal to 50 \u00d7 109/L at screening.\n* Ability to comprehend and willingness to sign a written ICF for the study.\n* Willingness to avoid pregnancy or fathering children.\n\nExclusion Criteria:\n\n* Prior treatment with a JAK inhibitor other than ruxolitinib or fedratinib\n* Record of \u2265 10% myeloid blasts in the peripheral blood (on peripheral blood smear) or bone marrow prior to or at the time of screening\n* For participants on ruxolitinib or fedratinib, unable to be tapered from that treatment over the course of 14 days without corticosteroids, hydroxyurea, or other agents\n* Treatment with ruxolitinib, fedratinib or other MF-directed therapy (approved or investigational) within 2 weeks of Day 1\n* Prior splenectomy or splenic irradiation within 6 months before receiving the first dose of itacitinib\n* Unable or unwilling to undergo serial MRI or CT scans for spleen volume measurement\n* Unable or unwilling to complete MFSAF v4.0 diary on a daily basis during the study\n* ECOG performance status \u2265 3\n* Life expectancy less than 24 weeks\n* Not willing to receive RBC or platelet transfusions\n* Participants with laboratory values at screening outside of protocol defined ranges\n* Significant concurrent, uncontrolled medical condition\n* Participants with impaired cardiac function or clinically significant cardiac disease unless approved by medical monitor/sponsor\n* History or presence of an abnormal ECG that, in the investigator's opinion, is clinically meaningful\n* Chronic or current active infectious disease requiring systemic antibiotics, antifungal, or antiviral treatment.\n* Evidence of HBV or HCV infection or risk of reactivation\n* Known HIV infection.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rcca Md, Llc",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    },
+    {
+      "facility": "New Jersey Hematology Oncology Associates Llc",
+      "city": "Brick",
+      "state": "New Jersey",
+      "zip": "08724-3009",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1: Number of Participants With Any Treatment-emergent Adverse Event (TEAE)",
+      "timeFrame": "up to 724 days",
+      "description": "An adverse event was defined as any untoward medical occurrence associated with the use of a drug in humans, whether or not it was considered drug-related. An AE could therefore have been any unfavorable or unintended sign (including an abnormal laboratory finding), symptom, or disease (new or exacerbated) temporally associated with the use of study treatment. A TEAE was defined as an AE that was reported for the first time or the worsening of a pre-existing event after the first dose of study treatment."
+    },
+    {
+      "measure": "Part 1: Number of Participants With Any Grade 3 or Higher TEAE",
+      "timeFrame": "up to 724 days",
+      "description": "A TEAE was defined as an AE that was reported for the first time or the worsening of a pre-existing event after the first dose of study treatment. The severity of AEs was assessed using Common Terminology Criteria for Adverse Events (CTCAE) v5.0 Grades 1 through 5. The investigator made an assessment of intensity for each AE and SAE reported during the study and assigned it to 1 of the following categories: Grade 1: mild; asymptomatic or mild symptoms; clinical or diagnostic observations only; treatment not indicated. Grade 2: moderate; minimal, local, or noninvasive treatment indicated; limiting age-appropriate activities of daily living. Grade 3: severe or medically significant but not immediately life-threatening; hospitalization or prolongation of hospitalization indicated; disabling; limiting self-care activities of daily living. Grade 4: life-threatening consequences; urgent treatment indicated. Grade 5: fatal."
+    },
+    {
+      "measure": "Part 2: Splenic Response Rate (SRR) at Week 24",
+      "timeFrame": "Baseline; Week 24",
+      "description": "SRR was defined as the percentage of participants who had a reduction in spleen volume (by imaging) of at least 35% when compared with Baseline."
+    }
+  ],
+  "sponsor": "Incyte Corporation",
+  "collaborators": [],
+  "start_date": "2021-07-12",
+  "completion_date": "2023-08-24",
+  "last_updated": "2025-08-28"
+}

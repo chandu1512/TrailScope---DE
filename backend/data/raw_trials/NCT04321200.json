@@ -1,0 +1,158 @@
+{
+  "nct_id": "NCT04321200",
+  "brief_title": "PANDA Gym: Automated Assessment of Neurodevelopment in Infants at Risk for Motor Disability",
+  "official_title": "Automated Assessment of Neurodevelopment in Infants at Risk for Motor Disability",
+  "brief_summary": "Early childhood detection of motor delays or impairments provides the opportunity for early treatment which improves health outcomes. This study will use state of the art sensors combined with machine learning algorithms to develop objective, accurate, easy-to-use tools for the early scoring of deficits and lays the foundation for the early prediction of physical disability.",
+  "detailed_description": "For children with neurodevelopmental disabilities, early treatment in the first year of life improves long-term outcomes. However, the investigators are currently held back by inadequacies of available clinical tests to measure and predict impairment. Existing tests are hard to administer, require specialized training, and have limited long-term predictive value. There is a critical need to develop an objective, accurate, easy-to-use tool for the early prediction of long-term physical disability. The field of pediatrics and infant development would greatly benefit from a quantitative score that would correlate with existing clinical measures used today to detect movement impairments in very young infants. To realize a new generation of tests that will be easy to administer, the investigators will obtain large datasets of infants playing in an instrumented gym or simply being recorded while moving in a supine posture. Video and sensor data analyses will convert movement into feature vectors based on our knowledge of the problem domain. Our approach will use machine learning to relate these feature vectors to currently recommended clinical tests or other ground truth information. The power of this design is that algorithms can utilize many aspects of movement to produce the relevant scores.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1700,
+  "conditions": [
+    "Pediatric ALL",
+    "Infant Development",
+    "Neurodevelopmental Disorders"
+  ],
+  "interventions": [
+    {
+      "name": "PANDA Gym",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Infants will lie supine on a flat surface and will be placed in the PANDA gym where they either move by themselves or will interact with an instrumented toy. We will collect video, mat, and toy data from PANDA gym under two conditions: 1) infants playing supine without a toy and 2) infants reach, grasp and kick of the new PANDA toy. A test session will proceed as follows: The infant will be placed on his or her back at a predetermined position on the gym mat for the 2-minute no toy condition. Next, the toy will be given to the baby and adjusted for the infant to reach or kick. A caregiver will be seated at the head of the baby (out of a baby's sight) to provide comfort if needed. Testing will be done in NICU or at daycare or the rehabilitation robotics lab at University of Pennsylvania."
+    },
+    {
+      "name": "Mobile App",
+      "type": "OTHER",
+      "description": "The parent or legal guardian will be consented first via the virtual rounding mobile app. They will also be asked to fill out general surveys including, a demographic survey, and a case report form, and a user feedback survey that provides relevant information, on both the family's and infant's medical history and experience. (see the flow-chart for the app). Within the caregiver survey, we will request the pediatrician (or primary care physician) name. We believe that with the baby name, caregiver name, zip code, and physician name, we will be able to locate the physician if needed.\n\nParents or legal guardians or the research will be asked to collect video via the MOBILE app. They will be instructed to ensure that the infant lies supine in no more than one-layer of tight-fitting clothing (i.e. infant onesie) while calm and awake. In all cases, we will have video recordings of the baby. They will be asked to upload the video to the app."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Infants, male and female, between 0-6 months (Infants older than 6 months before initial enrollment will be excluded).\n\n* Infants with early brain injury (EBI):\n\n  * Hydrocephalus\n  * Hypoxic-ischemic encephalopathy (HIE)\n  * Periventricular leukomalacia (PVL)\n  * Intraventricular hemorrhage (IVH)\n  * Stroke\n* Healthy infants (controls):\n\n  o No history of early brain injury (EBI)\n* Infants without EBI/risk for future disability:\n\n  * Infants without known brain injuries, but with a history of preterm birth less than 32-week gestation with significant medical problems, difficulty eating, or who lack head control at 4 months of age or later will be classified as moderate risk.",
+    "gender": "ALL",
+    "min_age": "0 Months",
+    "max_age": "6 Months",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Childrens Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Prechtl's General Movements Assessment (GMA) score",
+      "timeFrame": "1 months",
+      "description": "The spontaneous movements of infants aged 1 to 5 months will be classified with the GMA. The GMA is a qualitative observational scale of infant movement. Normal infant movement is described as a writhing movement at earlier ages, characterized by small, circular and elegant movements, and fidgety movements at older ages."
+    },
+    {
+      "measure": "Prechtl's General Movements Assessment (GMA) score",
+      "timeFrame": "2 months",
+      "description": "The spontaneous movements of infants aged 1 to 5 months will be classified with the GMA. The GMA is a qualitative observational scale of infant movement. Normal infant movement is described as a writhing movement at earlier ages, characterized by small, circular and elegant movements, and fidgety movements at older ages."
+    },
+    {
+      "measure": "Prechtl's General Movements Assessment (GMA) score",
+      "timeFrame": "3 months",
+      "description": "The spontaneous movements of infants aged 1 to 5 months will be classified with the GMA. The GMA is a qualitative observational scale of infant movement. Normal infant movement is described as a writhing movement at earlier ages, characterized by small, circular and elegant movements, and fidgety movements at older ages."
+    },
+    {
+      "measure": "Prechtl's General Movements Assessment (GMA) score",
+      "timeFrame": "4 months",
+      "description": "The spontaneous movements of infants aged 1 to 5 months will be classified with the GMA. The GMA is a qualitative observational scale of infant movement. Normal infant movement is described as a writhing movement at earlier ages, characterized by small, circular and elegant movements, and fidgety movements at older ages."
+    },
+    {
+      "measure": "Prechtl's General Movements Assessment (GMA) score",
+      "timeFrame": "5 months",
+      "description": "The spontaneous movements of infants aged 1 to 5 months will be classified with the GMA. The GMA is a qualitative observational scale of infant movement. Normal infant movement is described as a writhing movement at earlier ages, characterized by small, circular and elegant movements, and fidgety movements at older ages."
+    },
+    {
+      "measure": "The Test of Infant Motor Performance (TIMP) score",
+      "timeFrame": "1 month",
+      "description": "The TIMP, a test of infant movement designed to be used at term age and up to 16 weeks after, will be used to assess infants between 0 and 4 months."
+    },
+    {
+      "measure": "The Test of Infant Motor Performance (TIMP) score",
+      "timeFrame": "2 months",
+      "description": "The TIMP, a test of infant movement designed to be used at term age and up to 16 weeks after, will be used to assess infants between 0 and 4 months."
+    },
+    {
+      "measure": "The Test of Infant Motor Performance (TIMP) score",
+      "timeFrame": "3 months",
+      "description": "The TIMP, a test of infant movement designed to be used at term age and up to 16 weeks after, will be used to assess infants between 0 and 4 months."
+    },
+    {
+      "measure": "The Test of Infant Motor Performance (TIMP) score",
+      "timeFrame": "4 months",
+      "description": "The TIMP, a test of infant movement designed to be used at term age and up to 16 weeks after, will be used to assess infants between 0 and 4 months."
+    },
+    {
+      "measure": "Alberta Infant Motor Scale (AIMS) score",
+      "timeFrame": "3 months",
+      "description": "The AIMS is a quick motor screen that will be administered with infants 3,6 months of age."
+    },
+    {
+      "measure": "Alberta Infant Motor Scale (AIMS) score",
+      "timeFrame": "4 months",
+      "description": "The AIMS is a quick motor screen that will be administered with infants 3,6 months of age."
+    },
+    {
+      "measure": "Alberta Infant Motor Scale (AIMS) score",
+      "timeFrame": "5 months",
+      "description": "The AIMS is a quick motor screen that will be administered with infants 3,6 months of age."
+    },
+    {
+      "measure": "Alberta Infant Motor Scale (AIMS) score",
+      "timeFrame": "6 months",
+      "description": "The AIMS is a quick motor screen that will be administered with infants 3,6 months of age."
+    },
+    {
+      "measure": "Hammersmith Infant Neurological Examination (HINE) score",
+      "timeFrame": "1 months",
+      "description": "The HINE, an examination of general infant neurological function and movement, will be administered with infants at all ages."
+    },
+    {
+      "measure": "Hammersmith Infant Neurological Examination (HINE) score",
+      "timeFrame": "2 months",
+      "description": "The HINE, an examination of general infant neurological function and movement, will be administered with infants at all ages."
+    },
+    {
+      "measure": "Hammersmith Infant Neurological Examination (HINE) score",
+      "timeFrame": "3 months",
+      "description": "The HINE, an examination of general infant neurological function and movement, will be administered with infants at all ages."
+    },
+    {
+      "measure": "Hammersmith Infant Neurological Examination (HINE) score",
+      "timeFrame": "4 months",
+      "description": "The HINE, an examination of general infant neurological function and movement, will be administered with infants at all ages."
+    },
+    {
+      "measure": "Hammersmith Infant Neurological Examination (HINE) score",
+      "timeFrame": "5 months",
+      "description": "The HINE, an examination of general infant neurological function and movement, will be administered with infants at all ages."
+    },
+    {
+      "measure": "Ability to predict The Hammersmith Infant Neurological Examination (HINE) score",
+      "timeFrame": "6 months",
+      "description": "The regression R-squared resulting from regression algorithm to predict the Test of Infant Motor Performance (TIMP)"
+    },
+    {
+      "measure": "Ability to predict The Test of Infant Motor Performance (TIMP) score",
+      "timeFrame": "6 months",
+      "description": "The regression R-squared resulting from regression algorithm to predict the Test of Infant Motor Performance (TIMP)"
+    },
+    {
+      "measure": "Ability to predict the Alberta Infant Motor Scale (AIMS) score",
+      "timeFrame": "6 months",
+      "description": "The regression R-squared resulting from a regression algorithm to predict the Alberta Infant Motor Scale (AIMS) score"
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [
+    "Children's Hospital of Philadelphia"
+  ],
+  "start_date": "2020-11-01",
+  "completion_date": "2026-07-01",
+  "last_updated": "2025-09-22"
+}

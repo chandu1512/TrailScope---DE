@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT00999713",
+  "brief_title": "CALIPSO: Calfactant for Acute Lung Injury in Pediatric Stem Cell Transplant and Oncology Patients",
+  "official_title": "A Phase 3 Trial of Calfactant for ALI in Pediatric Leukemia and HSCT Patients",
+  "brief_summary": "Acute lung injury (ALI) is a common, life-threatening complication among pediatric leukemia and lymphoma and hematopoietic stem cell transplant (HSCT) recipients. Although these children represent a relatively small and unique patient population, they account for the largest proportion of deaths of all pediatric diseases. The long-term goal of this project is to improve outcomes among these patients. Recently, the intratracheal administration of calfactant has resulted in decreased mortality among children with ALI including promising results among children with cancer and following HSCT. Consequently, the primary specific aim of this study is to assess the effect of calfactant on intensive care (PICU) survival among pediatric leukemia and lymphoma and HSCT patients with ALI. Secondary aims include assessment of the effect of calfactant on oxygenation and on the length of mechanical ventilation, PICU stay, and hospital stay. Calfactant therapy has been found to be of benefit in acute lung injury in the overall pediatric population by improving oxygenation and decreasing mortality. These findings, in conjunction with recent subgroup analysis in which calfactant therapy appeared to improve outcomes in immunocompromised children provide the rationale for assessing calfactant therapy in this patient population.\n\nFunding Source - FDA Office of Orphan Products Development (OOPD)",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 43,
+  "conditions": [
+    "Acute Lung Injury"
+  ],
+  "interventions": [
+    {
+      "name": "Calfactant",
+      "type": "DRUG",
+      "description": "Endotracheal calfactant, up to 3 doses if subject qualifies"
+    },
+    {
+      "name": "Air placebo",
+      "type": "OTHER",
+      "description": "Endotracheal air administration"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients must meet criteria for acute lung injury\n\n   * Intubated, mechanically ventilated, with respiratory failure secondary to diffuse, bilateral parenchymal lung disease (as judged by chest x-ray).\n   * Oxygenation index (OI) \\> 13, but \\< 37, for two consecutive blood gases which should be separated by at least one hour within 48 hours of the initiation of mechanical ventilation.\n   * Arterial catheter placement\n   * Parental informed consent\n2. Patients must have a diagnosis of leukemia/lymphoma undergoing active treatment or following HSCT for any indication. Leukemia/lymphoma will be defined according to the National Cancer Institute Surveillance Epidemiology and End Results Collaborative Staging Manual including those conditions defined as borderline such as myelodysplastic syndromes. All forms of HSCT will be eligible, allogeneic as well as autologous.\n\nExclusion Criteria:\n\n1. Clinical diagnosis of congestive heart failure and/or pulmonary capillary wedge pressure \\>15 mmHg, or uncorrected congenital heart disease.\n2. Glasgow Coma Score \\< 8 (prior to respiratory failure).\n3. Pre-existing limitations on care options, (Do Not Attempt Resuscitation Orders, etc).\n4. Patients with impending death from another disease.\n5. Patients moribund or with other organ failure at possible randomization:\n\n   * hypotension unresponsive to treatment (mean BP \\< 60 or \\< 5th % for age),\n   * persistent cardiac tachyarrhythmia \\>150/minute, or persistent bradyarrythmia \\< 50/minute, or age appropriate criteria for younger children,\n   * metabolic acidosis \\> - 10 milliequivalent (mEq)/L for more than 2 hours,\n   * persistent arterial oxygen desaturation, arterial partial pressure of oxygen (PaO2) \\< 50 or oxygen saturation (SaO2) saturation \\< 80%,\n   * hyperkalemia, serum K+ \\> 6.5 plus widening of QRS complex on EKG (QRS complex corresponds to the depolarization of the right and left ventricles of the heart).",
+    "gender": "ALL",
+    "min_age": "18 Months",
+    "max_age": "21 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "Penn State College of Medicine, Penn State Milton S. Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17078",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "All-cause Mortality at the Time of Pediatric Intensive Care Unit (PICU) Discharge",
+      "timeFrame": "Admission to PICU discharge, up to 120 days",
+      "description": "Overall mortality rate from admission to PICU discharge"
+    }
+  ],
+  "sponsor": "Milton S. Hershey Medical Center",
+  "collaborators": [],
+  "start_date": "2010-06",
+  "completion_date": "2015-10",
+  "last_updated": "2018-02-15"
+}

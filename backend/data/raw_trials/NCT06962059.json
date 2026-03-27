@@ -1,0 +1,55 @@
+{
+  "nct_id": "NCT06962059",
+  "brief_title": "Healthy Volunteers Study",
+  "official_title": "Vaginal Metabolome Healthy Volunteers Study",
+  "brief_summary": "The purpose of this study is to examine the role of the bacterial environments and metabolites in the early detection and prediction of ovarian cancer development. Vaginal swabs and stool samples will be collected from healthy volunteers, or those without a known ovarian cancer diagnosis or genetic ovarian cancer risk. These samples will be compared to samples from participants with increased cancer risk and ovarian cancer diagnoses.",
+  "detailed_description": "This study will examine the role of the microbiome and its metabolites in early detection and prediction of ovarian cancer development. It has been previously shown that the composition and function of the microbiome may play a role in the development and progression of several types of cancer. One proposed mechanism by which the microbiome may contribute to cancer development is through the production of certain metabolic byproducts. Such metabolites produced or modified by the microbiome have emerged as a prominent factor with potential local and systemic effects on the host, and were proposed to mediate the microbiome's contribution to cancer development. Microbial metabolites can promote cancer development by activating signaling pathways that promote cell growth and survival. In addition, the microbiota affects carcinogenesis through the release of carcinogenic molecules, such as genotoxins, and through the production of tumor-promoting metabolites. Furthermore, microbial metabolites have been studied as potential biomarkers for cancer, with some research suggesting that certain microbial metabolites may be able to distinguish between healthy individuals and those with cancer. The microbiome of the female reproductive tract is relatively understudied compared to the gut microbiome, but recent studies have shown that it is present and diverse in various parts of the reproductive tract such as the vagina, cervix, and fallopian tubes. however, a microbiome or metabolome signature predictive of ovarian cancer has not yet been established. Eligible individuals will be consented to provide a one-time, self-administered vaginal swab sample and stool sample. Clinical research assistants/coordinators, genetic counselors, and/or study physicians will consent patients and process and store the samples of consented participants. Participants will be provided a stool collection kit at the time of consent with instructions for providing the sample and sending it back to the laboratory.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Ovarian Cancer",
+    "Genetic Predisposition to Disease"
+  ],
+  "interventions": [
+    {
+      "name": "Self-Administered Sample Collection",
+      "type": "OTHER",
+      "description": "Participants will collect vaginal swabs and a stool sample."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* has ovaries\n\nExclusion Criteria:\n\n* genetic mutations which increase risk of ovarian cancer: BRCA1/2, BRIP1, PALB2, Lynch Syndrome (MLH1, MSH2/EPCAM, MSH6) and ATM\n* no genetic testing results or unknown genetic status\n* prior cancer diagnosis\n* prior cancer treatment\n* HRT use\n* Antibiotic use (1 month prior to providing sample)",
+    "gender": "FEMALE",
+    "min_age": "30 Years",
+    "max_age": "50 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Microbiome Involvement",
+      "timeFrame": "One-time sample donation of vaginal swabs collected at the time of the patient's appointment. A subsequent stool sample will be provided within a week of the vaginal swab.",
+      "description": "Investigate the involvement of the microbiome and associated metabolites in ovarian cancer."
+    },
+    {
+      "measure": "Predictive Model",
+      "timeFrame": "One-time sample donation of vaginal swabs collected at the time of the patient's appointment. A subsequent stool sample will be provided within a week of the vaginal swab.",
+      "description": "Generate a predictive model for ovarian cancer risk and progression. Healthy volunteers will provide a control group to compare to BRCA-carrier and affected cohorts consented through the CREP Biobank study in order to mechanistically understand the function of the identified metabolites in disease prevention, initiation, progression, and treatment response."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2025-04-21",
+  "completion_date": "2027-05-25",
+  "last_updated": "2026-02-03"
+}

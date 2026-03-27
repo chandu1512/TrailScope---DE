@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT02120287",
+  "brief_title": "Border Zone Stereotactic Radiosurgery With Bevacizumab in Patients With Glioblastoma Multiforme",
+  "official_title": "Multicenter Phase II Study of Border Zone Stereotactic Radiosurgery With Bevacizumab in Patients With Recurrent or Progressive Glioblastoma Multiforme",
+  "brief_summary": "This is a phase II study on the usage of stereotactic Gamma Knife radiosurgery as a boost to the tumor bed border zone in conjunction with the usage of bevacizumab.",
+  "detailed_description": "Glioblastoma Multiforme (GBM) is the most common primary brain tumor in adults. Unfortunately, despite aggressive surgery, radiation therapy (RT) and chemotherapy, the prognosis for this disease is poor. It is our hypothesis that GBM is a \"local\" disease wherein treatment failure is due to failure to eradicate tumor cells in the pathways along which the tumor eventually spreads (the \"border zone\").\n\nThe investigators hypothesize that treatment volume escalation will be successful at improving overall survival in patients with GBM when appropriate targeting and precision dose delivery is performed in a single treatment session. The 'border zone' of the tumor will be targeted for SRS (defined as a combination of the MRI volume of gadolinium enhancement plus up to 2 cm of the surrounding T2 volume). This represents the volume of tumor infiltrated white matter and is the route of GBM spread. Bevacizumab, a monoclonal antibody to vascular endothelial growth factor (VEGF), has been used with safety and clinical success with concomitant chemotherapy in solid tumors, including GBM.\n\nThe investigators further hypothesize that a combined approach of SRS with this VEGF inhibitor will be an effective strategy for GBM because bevacizumab will maximize the effects of radiation in the treated volume and potentially reduce radiation toxicity in the adjacent brain.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 16,
+  "conditions": [
+    "Glioblastoma Multiforme",
+    "Glioblastoma - Category"
+  ],
+  "interventions": [
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "Patients will receive bevacizumab (10 mg/kg) one day before and then at day 14 followed by10 mg/kg/day every 14 days until progression."
+    },
+    {
+      "name": "Magnetic Resonance Spectroscopy (MRS)",
+      "type": "PROCEDURE",
+      "description": "Subjects will have MRS prior to BZ-SRS."
+    },
+    {
+      "name": "Border Zone Stereotactic Radiosurgery (BZ-SRS)",
+      "type": "PROCEDURE",
+      "description": "The 'border zone' of the tumor will be targeted by SRS in a single session."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Histologically confirmed glioblastoma multiforme, WHO grade IV astrocytoma.\n2. Prior first-line treatment with surgery or biopsy followed by fractionated radiotherapy with concurrent temozolomide-containing chemotherapy is required for glioblastoma patients. Additional prior chemotherapy is allowed, without limitation on number of recurrences.\n3. An interval of at least 2 months since completion of fractionated radiotherapy.\n4. Age \\> 18 years\n5. Life expectancy of at least 12 weeks.\n6. Karnofsky Performance Status score (KPS) of \u2265 60\n7. Documented recurrent disease; Disease must be evaluable, but does not need to be measurable; the target site for SRS does not need to be located in a previously-irradiated area.\n8. All patients must have no restrictions to obtaining MRI with and without gadolinium contrast.\n9. Adequate bone marrow, hepatic and renal function ; BUN \\< 25 and Cr \\< 1.7\n10. Negative pregnancy test at the time of SRS in any patient who could be pregnant.\n11. Willingness to forego additional therapy until evidence of disease progression\n\nExclusion Criteria:\n\n1\\. General Medical Exclusions:\n\n1. Current, recent (within 4 weeks of the first infusion of this study), or planned participation in an experimental drug study.\n2. Active malignancy, other than superficial basal cell and superficial squamous (skin) cell, or carcinoma in situ of the cervix within last 3 years.\n3. Prior radiosurgery\n4. Prior intracavitary irradiation or Gliadel wafers.\n\n2\\. Disease-Specific Exclusions:\n\n1. Inability to comply with protocol or study procedures\n2. Prior treatment with bevacizumab.\n3. Inability to undergo MRI with and without contrast administration.\n\n3\\. Bevacizumab-Specific Exclusions:\n\n1. Inadequately controlled hypertension.\n2. Prior history of hypertensive crisis or hypertensive encephalopathy.\n3. New York Heart Association (NYHA) Grade II or greater congestive heart failure.\n4. History of myocardial infarction or unstable angina within 6 months prior to Day 1.\n5. History of stroke or transient ischemic attack within 6 months prior to Day 1.\n6. Significant vascular disease within 6 months prior to Day 1.\n7. History of hemoptysis within 1 month prior to Day 1.\n8. Evidence of bleeding diathesis or significant coagulopathy\n9. Major surgical procedure, open biopsy, or significant traumatic injury within 14 days prior to Day 1 or anticipation of need for major non -cranial surgical procedure during the course of the study.\n10. Core biopsy or other minor surgical procedure, excluding placement of a vascular access device, within 7 days prior to Day 1.\n11. History of abdominal fistula or gastrointestinal perforation within 6 months prior to Day 1.\n12. Serious, non-healing wound, active ulcer, or untreated bone fracture.\n13. Proteinuria\n14. Known hypersensitivity to any component of bevacizumab\n15. Pregnancy (positive pregnancy test) or lactation. Use of effective means of contraception (men and women) in subjects of child-bearing potential.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "Up to 2 years",
+      "description": "The number of months that a patient remains alive from the day first gamma knife surgery until the date of death or end of data collection for survival."
+    }
+  ],
+  "sponsor": "Ajay Niranjan",
+  "collaborators": [
+    "Genentech, Inc."
+  ],
+  "start_date": "2014-05",
+  "completion_date": "2018-03-31",
+  "last_updated": "2019-04-25"
+}

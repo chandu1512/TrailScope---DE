@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT06517901",
+  "brief_title": "Fusion or Cognitive Ultrasound-guided Biopsy to Detect Prostate Cancer",
+  "official_title": "MRI-targeted Fusion or Cognitive Ultrasound-guided Biopsy to Detect Prostate Cancer",
+  "brief_summary": "The MRI-targeted biopsy for prostate cancer detection can be performed using one of two techniques:\n\n1. Software-based fusion of MRI and ultrasound images (software fusion) or\n2. Visually estimated MRI-informed (cognitive fusion) technique\n\nTo date, there is a lack of adequately powered RCTs directly comparing the cognitive vs fusion targeted biopsy. This randomized study will directly compare the detection rates of clinically significant prostate cancer following either the cognitive or the fusion targeted prostate biopsy in men with suspicious lesions noted on multi-parametric MRI (mp-MRI) of prostate.",
+  "detailed_description": "For prostate cancer detection, pre-biopsy multi-parametric magnetic resonance imaging (mp-MRI) followed by MRI-targeted prostate biopsy is standard of care which is supported by the guidelines from the American Urological Association and the European Association of Urology. The MRI-targeted prostate biopsy is associated with a significant increase in the detection of clinically significant prostate cancer (csPCa) compared to the ultrasound guided biopsy. The MRI-targeted biopsy can be performed using one of two techniques including software-based fusion of MRI and ultrasound images (software fusion) or visually guided MRI-informed (cognitive fusion) technique.\n\nWith regards to the diagnostic performance in detecting csPCa, current literature does not demonstrate a clear advantage to one targeting technique over the other. A systematic review and meta-analysis (published in early 2024) by Falagario et al evaluated all of the comparative studies of the above-mentioned MRI-targeting techniques. Of the 20 studies included, six reported improved detection of csPCa with fusion technique, one reported an advantage to the cognitive technique, while thirteen reported no significant difference. Of note, the majority of the studies were retrospective, with high risk of bias, that lacked uniform definition of csPCa, and employed variable mp-MRI technique (1.5T vs 3T) and scoring system (Likert vs PIRADS). There were only three small, prospective, randomized studies (RCT) available in the systematic review of literature. One RCT reported the fusion technique to be superior while two demonstrated no difference in csPCa detection rates. There was no significant difference in the detection of csPCa between the targeting techniques, however, low quality of evidence and heterogeneity warranted well-designed prospective studies.\n\nOther studies, as well as personal experience, point to somewhat improved cancer detection the cognitive MRI-targeting approach, although the rates may be affected by patient selection related to lesion size and location.\n\nThus, the investigators are conducting an RCT to direct compare the csPCa detection rates following either the cognitive or the fusion targeted prostate biopsy in men with suspicious lesions noted on mp-MRI of prostate. The investigators hypothesize that the diagnostic accuracy MRI-targeted prostate biopsy using cognitive fusion technique is either similar to or not significantly inferior to the software fusion technique.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1306,
+  "conditions": [
+    "Prostate Cancer",
+    "Diagnosis"
+  ],
+  "interventions": [
+    {
+      "name": "Software fusion prostate biopsy",
+      "type": "PROCEDURE",
+      "description": "Software fusion biopsy: Each participant in this study arm will first undergo biopsy of the MRI-detected lesion using an image fusion platform such as UroNav or similar. Three biopsy cores will be taken per lesion, with a maximum of three lesions being sampled per participant. Then systematic samples will be taken from the remainder of the prostate as per standard protocol (10-12 cores)."
+    },
+    {
+      "name": "Cognitive fusion prostate biopsy",
+      "type": "PROCEDURE",
+      "description": "Cognitive fusion biopsy: Each participant in this study arm will first undergo biopsy of the MRI-detected lesion using visual estimation and/or measurements of lesion. Three biopsy cores will be taken per lesion, with a maximum of three lesions being sampled per participant. Then systematic samples will be taken from the remainder of the prostate as per standard protocol (10-12 cores)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Men undergoing prostate biopsy (either transrectal or transperineal) for suspected prostate cancer as part of their regular medical care\n* Must be eligible to undergo both prostate biopsy procedure (cognitive or fusion)\n* Men undergoing their first prostate biopsy procedure or with no previous prostate biopsy within 3 years\n* Pre-biopsy mp-MRI of prostate with one or more lesions classified as PIRADS 3-5\n* Largest dimension of any lesion on mp-MRI to be \u2264 2 cm\n* Prostate-specific antigen level \u2264 20 ng/mL and/or abnormal digital rectal examination\n\nExclusion Criteria:\n\n* mp-MRI detected lesions that are \\> 2 cm\n* History of prostate biopsy within 3 years\n* Previous diagnosis of prostate cancer\n* Contraindications to prostate biopsy (eg, fever, evidence of genito-urinary infection, excessive co-morbidities as per treating physician)",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pennsylvania State University",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17023",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Detection of clinically significant prostate cancer",
+      "timeFrame": "1 year",
+      "description": "Compare the overall detection of clinically significant prostate cancer following fusion vs cognitive MRI-targeted biopsy"
+    }
+  ],
+  "sponsor": "Albany Medical College",
+  "collaborators": [],
+  "start_date": "2025-04-18",
+  "completion_date": "2027-06-30",
+  "last_updated": "2025-09-30"
+}

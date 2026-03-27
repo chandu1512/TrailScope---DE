@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT04811560",
+  "brief_title": "A Phase 1/2 Study of Bleximenib in Participants With Acute Leukemia (cAMeLot-1)",
+  "official_title": "A Phase 1/2, First-in-Human Study of the Menin-KMT2A (MLL1) Inhibitor Bleximenib in Participants With Acute Leukemia (cAMeLot-1)",
+  "brief_summary": "The purpose of this study is to determine the recommended Phase 2 dose(s) (RP2D\\[s\\]) of bleximenib in phase 1 Part 1 (Dose Escalation) and to determine the safety and tolerability at RP2D in Phase 1 Part 2 (Dose expansion). The purpose of the Phase 2 part of the study is to evaluate the efficacy of bleximenib at the RP2D.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 400,
+  "conditions": [
+    "Acute Leukemias",
+    "Acute Myeloid Leukemia",
+    "Acute Lymphoblastic Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "Bleximenib",
+      "type": "DRUG",
+      "description": "Bleximenib is administered orally."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nPhase 1:\n\n* Age 2 years and above (pediatric cohort only), all other cohorts 18 years and above\n* Relapsed or refractory (R/R) acute leukemia and has exhausted, or is ineligible for, available therapeutic options\n* Acute leukemia harboring histone-lysine N-methyltransferase 2A (KMT2A), nucleophosmin 1 gene (NPM1) or nucleoporin 98 gene or nucleoporin 214 gene (NUP98 or NUP214) alterations\n\nPhase: 2\n\n* Participants greater than 18 years are eligible\n* Must have had an initial diagnosis of acute myeloid leukemia (AML) per the WHO 2022 classification criteria and have relapsed/refractory disease\n* AML harboring KMT2A-r (gene rearrangement/translocation) or NPM1 mutations only\n\nFor Both Phase 1 and 2:\n\n* Pretreatment clinical laboratory values meeting the following criteria: (a) Hematology: white blood cell (WBC) count less than or equal to (\\<=) 20\\*10\\^9/liter (L) and (b) renal function; For adult participants, estimated or measured glomerular filtration rate greater than equal (\\>=) 30 milliliter per minute (mL/min) per four variable MDRD equation. For pediatric participants an estimated or measured glomerular filtration rate \\>50 mL/min per the CKiD (Chronic Kidney Disease in Children) Schwartz formula\n* Eastern Cooperative Oncology Group (ECOG) performance status grade of 0, 1 or 2. Pediatric participants only: Performance status \\>=70 by Lansky scale (for participants less than \\[\\<\\]16 years of age) or \\>=70 Karnofsky scale (for participants \\>=16 years of age)\n* A female of childbearing potential must have a negative highly sensitive serum beta-human chorionic gonadotropin at screening and within 48 hours prior to the first dose of study treatment\n* Participant must agree to all protocol required contraception requirements and avoid sperm or egg donations or freezing for future reproductive use while on study and for 90 days (males) or 6 months (females) after the last dose of study treatment\n\nExclusion Criteria:\n\n* Acute promyelocytic leukemia, diagnosis of Down syndrome associated leukemia or juvenile myelomonocytic leukemia according to World Health Organization (WHO) 2016 criteria\n* Active central nervous system (CNS) disease\n* Prior solid organ transplantation\n* QTc according to Fridericia's formula (QTcF) for males \\>= 450 millisecond (msec) or for females \\>= 470 msec. Participants with a family history of Long QT syndrome are excluded\n* Exclusion criteria related to stem cell transplant: a. Received prior treatment with allogenic bone marrow or stem cell transplant \\<=3 months before the first dose of study treatment; b. Has evidence of graft versus host disease; c. Received donor lymphocyte infusion \\<=1 month before the first dose of study treatment; d. Requires immunosuppressant therapy (exception: daily doses \\<=10 milligrams (mg) prednisone or equivalent are allowed for adrenal replacement)\n* Prior cancer immunotherapy within 4 weeks prior to enrollment or blinatumomab within 2 weeks prior to enrollment. Additional prior cancer therapies must not be given within 4 weeks prior to enrollment or 5 half-lives of the agent (whichever is shorter)",
+    "gender": "ALL",
+    "min_age": "2 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1: Number of Participants with Adverse Events (AEs) as a Measure of Safety and Tolerability",
+      "timeFrame": "Up to 4 years and 9 months",
+      "description": "An AE is any untoward medical occurrence in a participant participating in a clinical study that does not necessarily have a causal relationship with the pharmaceutical/biological agent under study."
+    },
+    {
+      "measure": "Phase 1: Number of Participants with AEs by Severity",
+      "timeFrame": "Up to 4 years and 9 months",
+      "description": "Severity will be graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 5.0. Severity scale ranges from Grade 1 (Mild) to Grade 5 (Death). Grade 1= Mild, Grade 2= Moderate, Grade 3= Severe, Grade 4= Life-threatening and Grade 5= Death related to adverse event."
+    },
+    {
+      "measure": "Phase 1: Part 1: Percentage of Participants with Dose-Limiting Toxicity (DLT)",
+      "timeFrame": "Up to 28 days Cycle 1",
+      "description": "Percentage of participants with DLT will be assessed accordingly to national cancer institute common terminology criteria for adverse events (NCI-CTCAE) version 5."
+    },
+    {
+      "measure": "Phase 2: Rate of Complete Remission or Complete Remission with Partial Hematologic Recovery (CR/CRh)",
+      "timeFrame": "Up to 4 years and 9 months",
+      "description": "Rate of CR/CRh is defined as the percentage of participants achieving a CR or CRh at any time post-treatment."
+    }
+  ],
+  "sponsor": "Janssen Research & Development, LLC",
+  "collaborators": [],
+  "start_date": "2021-05-19",
+  "completion_date": "2028-05-26",
+  "last_updated": "2026-01-15"
+}

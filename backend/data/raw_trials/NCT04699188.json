@@ -1,0 +1,116 @@
+{
+  "nct_id": "NCT04699188",
+  "brief_title": "Study of JDQ443 in Patients With Advanced Solid Tumors Harboring the KRAS G12C Mutation",
+  "official_title": "A Phase Ib/II Open-label, Multi-center Dose Escalation Study of JDQ443 in Patients With Advanced Solid Tumors Harboring the KRAS G12C Mutation",
+  "brief_summary": "This is a phase Ib/II open label study. The escalation part will characterize the safety and tolerability of JDQ443 single agent and JDQ443 in combination with the other study treatments (TNO155 and tislelizumab) in advanced solid tumor patients. After the determination of the maximum tolerated dose / recommended dose for a particular treatment arm, dose expansion will assess the anti-tumor activity and further assess the safety, tolerability, and PK/PD of each regimen at the maximum tolerated dose / recommended dose or lower dose.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 344,
+  "conditions": [
+    "KRAS G12C Mutant Solid Tumors",
+    "Carcinoma, Non-Small-Cell Lung",
+    "Carcinoma, Colorectal",
+    "Cancer of Lung",
+    "Cancer of the Lung",
+    "Lung Cancer",
+    "Neoplasms, Lung",
+    "Neoplasms, Pulmonary",
+    "Pulmonary Cancer",
+    "Pulmonary Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "JDQ443",
+      "type": "DRUG",
+      "description": "KRAS G12C inhibitor"
+    },
+    {
+      "name": "TNO155",
+      "type": "DRUG",
+      "description": "SHP2 inhibitor"
+    },
+    {
+      "name": "tislelizumab",
+      "type": "BIOLOGICAL",
+      "description": "Anti PD1 antibody"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adult patients with advanced (metastatic or unresectable) KRAS G12C mutant solid tumors who have received standard of care or are intolerant or ineligible to approved therapies\n* ECOG Performance Status of 0 or 1\n* At least one measurable lesion as defined by RECIST 1.1\n* Prior treatment with a KRAS G12C inhibitor may be allowed for dose escalations of combinations and a subset of groups in dose expansion\n\nExclusion Criteria:\n\n* Tumors harboring driver mutations that have approved targeted therapies, with the exception of KRAS G12C mutations\n* Symptomatic brain metastases or known leptomeningeal disease. Patients with asymptomatic treated or untreated brain metastases may be eligible\n* Clinically significant cardiac disease or risk factors at screening\n* A medical condition that results in increased photosensitivity Other protocol-defined inclusion/exclusion criteria may apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose Escalation: Incidence and severity of dose limiting toxicities (DLTs) during the first cycle of monotherapy or combination treatment",
+      "timeFrame": "21 days",
+      "description": "A dose-limiting toxicity (DLT) is defined as an adverse event or abnormal laboratory value assessed as having a suspected relationship to study drug, and unrelated to disease, disease progression, inter-current illness, or concomitant medications that occurs within the first cycle of treatment"
+    },
+    {
+      "measure": "Dose Escalation: Incidence and severity of adverse events (AEs) and serious adverse events (SAEs)",
+      "timeFrame": "24 months",
+      "description": "All information obtained on AE will be displayed by treatment group. Summary tables will include only AEs that started/worsened during the cycles of treatment (treatment-emergent AEs)."
+    },
+    {
+      "measure": "Dose Escalation: Frequency of dose interruptions and reductions, by treatment",
+      "timeFrame": "24 months",
+      "description": "Tolerability of study drug will be assessed by summarizing the number of and reason for dose delays and dose reductions."
+    },
+    {
+      "measure": "Dose Escalation: Dose intensity by treatment",
+      "timeFrame": "24 months",
+      "description": "Dose intensity is defined as the ratio of actual cumulative dose received and actual duration of treatment."
+    },
+    {
+      "measure": "Dose Expansion: Overall response rate (ORR) per RECIST v1.1, by treatment",
+      "timeFrame": "24 months",
+      "description": "Overall response rate is defined as the proportion of patients with a BOR of CR or PR according to RECIST 1.1, and will be summarized along with the corresponding 95% exact binomial confidence interval (CI). Applies to all groups except the brain metastasis group."
+    },
+    {
+      "measure": "Dose expansion: Overall intracranial response rate (OIRR) per mRANO-BM",
+      "timeFrame": "24 months",
+      "description": "OIRR per mRANO-BM is defined as the proportion of participants with a best overall intracranial response (BOIR) of CR or PR according to mRANO-BM criteria, and will be summarized along with the corresponding 90% and 95% exact CI. Applies to brain metastasis group only."
+    },
+    {
+      "measure": "Dose expansion: Incidence and severity of AEs and SAEs",
+      "timeFrame": "24 months",
+      "description": "All information obtained on AE will be displayed by treatment group. Summary tables will include only AEs that started/worsened during the cycles of treatment (treatment-emergent AEs). Applies to JDQ443 dose randomization group only."
+    },
+    {
+      "measure": "Dose expansion: frequency of dose interruptions and reductions, by treatment",
+      "timeFrame": "24 months",
+      "description": "Tolerability of study drug will be assessed by summarizing the number of and reason for dose delays and dose reductions. Applies to JDQ443 dose randomization group only."
+    },
+    {
+      "measure": "Dose expansion: Dose intensity by treatment",
+      "timeFrame": "24 months",
+      "description": "Dose intensity is defined as the ratio of actual cumulative dose received and actual duration of treatment. Applies to JDQ443 dose randomization group only"
+    },
+    {
+      "measure": "Dose expansion: ORR per RECIST 1.1 of JDQ443 single agent in patients with non-small cell lung cancer (JDQ443 dose randomization group only)",
+      "timeFrame": "24 months",
+      "description": "Overall response rate is defined as the proportion of patients with BOR of CR or PR according to RECIST 1.1, and will be summarized along with the corresponding 95% exact binomial confidence interval (CI). Applies to JDQ443 dose randomization group only"
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2021-02-24",
+  "completion_date": "2027-01-25",
+  "last_updated": "2026-03-17"
+}

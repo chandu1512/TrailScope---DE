@@ -1,0 +1,87 @@
+{
+  "nct_id": "NCT03236857",
+  "brief_title": "A Study of the Safety and Pharmacokinetics of Venetoclax in Pediatric and Young Adult Patients With Relapsed or Refractory Malignancies",
+  "official_title": "A Phase 1 Study of the Safety and Pharmacokinetics of Venetoclax in Pediatric and Young Adult Patients With Relapsed or Refractory Malignancies",
+  "brief_summary": "An open-label, global, multi-center study to evaluate the safety and pharmacokinetics of venetoclax monotherapy, to determine the dose limiting toxicity (DLT) and the recommended Phase 2 dose (RPTD), and to assess the preliminary efficacy of venetoclax in pediatric and young adult participants with relapsed or refractory malignancies.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 143,
+  "conditions": [
+    "Malignancies",
+    "Acute Lymphoblastic Leukemia (ALL)",
+    "Acute Myeloid Leukemia (AML)",
+    "Non-Hodgkin's Lymphoma",
+    "Neuroblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "chemotherapy",
+      "type": "DRUG",
+      "description": "Dexamethasone and/or vincristine and/or pegasparaginase OR cytarabine and/or etoposide and/or pegasparaginase; tyrosine kinase inhibitor; cytarabine OR azacitidine OR decitabine; rituximab and/or dexamethasone and/or vincristine; cyclophosphamide and/or topotecan"
+    },
+    {
+      "name": "venetoclax",
+      "type": "DRUG",
+      "description": "Oral tablet for participants; Tablet for oral suspension (participants who cannot swallow a tablet)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants must have relapsed or refractory cancer.\n* Participants must have adequate hepatic and kidney function.\n* Participants less than or equal to 16 years of age must have performance status of Lansky greater than or equal to 50% and participants greater than 16 years of age must have performance status of Karnofsky greater than or equal to 50%.\n* Participants with solid tumors (with the exception of neuroblastoma) must have adequate bone marrow function in Part 1.\n* For the fifth cohort during Part 2 Cohort Expansion, participants with solid tumors must have evidence of BCL-2 expression (except participants with TCF3-HLF ALL).\n\nExclusion Criteria:\n\n* Participants with primary brain tumors or disease metastatic to the brain.\n* Participants who have central nervous system (CNS) disease with cranial involvement that requires radiation.\n* Participants who have received any of the following within the listed time frame, prior to the first dose of study drug\n\n  * Inotuzumab ozogamicin or gemtuzumab ozogamicin within 30 days\n  * Biologic agent (i.e., antibodies) for anti-neoplastic intent within 30 days or 5 half-lives whichever is shorter.\n  * CAR-T infusion or other cellular therapy within 30 days\n  * Anticancer therapy including chemotherapy, radiation therapy, targeted small molecule agents, investigational agents within 14 days or 5 half-lives, whichever is shorter (Exceptions: Ph+ALL participants on Tyrosine Kinase Inhibitor (TKI) at Screening may enroll and remain on TKI therapy to control disease and TCF3-HLF ALL participants are allowed to have received chemotherapy within 14 days or 5 half-lives, whichever is shorter).\n  * Steroid therapy for anti-neoplastic intent within 5 days (with the exception of TCF3-HLF ALL participants).\n  * Requires ongoing hydroxyurea (hydroxyurea permitted up to first dose)\n* Participants who are less than 100 days post-transplant, or greater than or equal to 100 days post-transplant with active graft versus host disease (GVHD), or are receiving immunosuppressant therapy within 7 days prior to first dose of study drug.\n* Participants who are less than 6 weeks post-131 I-metaiodobenzylguanidine (mIBG) therapy.\n* Participants who have received the following within 7 days prior to the first dose of study drug:\n\n  * Strong and moderate Cytochrome P450 3A (CYP3A) inhibitors (Part 1 Dose Determination);\n  * Strong and moderate CYP3A inducers (Part 1 Dose Determination and Part 2 Cohort Expansion).\n* Participants who have not recovered from clinically significant adverse effect(s)/toxicity(s) of the previous therapy (Exception: Chemotherapy induced side effects that are expected to return to baseline in TCF3-HLF ALL participants).\n* Participants who have active, uncontrolled infections.\n* Participants with malabsorption syndrome or any other condition that precludes enteral administration.\n\n  * Participants with recent positive test for SARS-CoV-2 (COVID-19) and no follow up test with negative result cannot be enrolled. Participants with contact to persons with COVID-19 and participants with signs and symptoms for COVID-19 infection must be tested before enrolling.",
+    "gender": "ALL",
+    "min_age": "0 Years",
+    "max_age": "25 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Philadelphia /ID# 163445",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants Experiencing Adverse Events",
+      "timeFrame": "Up to 9 months",
+      "description": "An adverse event (AE) is defined as any untoward medical occurrence in a patient or clinical investigation participant administered a pharmaceutical product which does not necessarily have a causal relationship with this treatment. The investigator assesses the relationship of each event to the use of study."
+    },
+    {
+      "measure": "Number of Participants With Dose Limiting Toxicities (DLT) of Venetoclax Monotherapy",
+      "timeFrame": "First 21 days venetoclax monotherapy",
+      "description": "A DLT is any Grade 3 or higher non-hematologic adverse event (AE) with exceptions outlined in the protocol."
+    },
+    {
+      "measure": "Recommended Phase 2 dose (RPTD) of Venetoclax",
+      "timeFrame": "First 21 days venetoclax monotherapy",
+      "description": "Venetoclax RPTD is the dose determined based on adverse event reporting and dose-limiting toxicity information from all participants."
+    },
+    {
+      "measure": "Cmax of Venetoclax",
+      "timeFrame": "Up to approximately 2 weeks",
+      "description": "Maximum plasma concentration (Cmax) of venetoclax."
+    },
+    {
+      "measure": "Tmax of venetoclax",
+      "timeFrame": "Up to approximately 2 weeks",
+      "description": "Time to maximum plasma concentration (Tmax) of venetoclax."
+    },
+    {
+      "measure": "AUC0-24 Post-Dose of Venetoclax",
+      "timeFrame": "Up to approximately 2 weeks",
+      "description": "Area under the plasma concentration-time curve from 0 to 24 hours (AUC24) post-dose of venetoclax."
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [
+    "Roche-Genentech"
+  ],
+  "start_date": "2017-11-08",
+  "completion_date": "2023-04-19",
+  "last_updated": "2023-05-19"
+}

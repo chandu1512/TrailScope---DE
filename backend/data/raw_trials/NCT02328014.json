@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT02328014",
+  "brief_title": "Acalabrutinib (ACP-196) in Combination With ACP-319, for Treatment of B-Cell Malignancies",
+  "official_title": "A Phase 1/2 Proof-of-Concept Study of the Combination of ACP-196 and ACP-319 in Subjects With B-cell Malignancies",
+  "brief_summary": "This study is evaluating the safety, pharmacokinetics (PK), pharmacodynamics (PD), and efficacy acalabrutinib and ACP 319 in B-cell malignancies.",
+  "detailed_description": "Part 1, Dose Escalation, is comprised of 3 dosing cohorts of 6 subjects each. Acalabrutinib dosing is fixed in all cohorts at 100 mg PO twice daily (BID). In addition to acalabrutinib, subjects in Cohort 1 will receive ACP-319, 25 mg BID; Cohort 2 will receive ACP-319, 50 mg BID: and Cohort 3 will receive ACP-319 100 mg BID. The maximum tolerated dose (MTD) of the study treatment combination will be determined by assessing dose-related toxicities (DLTs) for each cohort at the end of Cycle 1 prior to dose escalation. If there are greater than or equal to 2 DLTs in a cohort, dose escalation will not occur and the MTD will be the highest daily dose for which less than 33% of the subjects in that cohort experienced DLTs in Cycle 1.\n\nPart 2, Dose Expansion, includes 12 subjects per histology, dosing at the MTD for the combination of acalabrutinib and ACP-319 established in Part 1. Subjects will continue dosing until disease progression or unacceptable drug-related toxicity.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 40,
+  "conditions": [
+    "Non-Hodgkins Lymphoma",
+    "Multiple Myeloma",
+    "B-All"
+  ],
+  "interventions": [
+    {
+      "name": "Acalabrutinib",
+      "type": "DRUG",
+      "description": "Oral"
+    },
+    {
+      "name": "ACP-319",
+      "type": "DRUG",
+      "description": "Oral"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Main Inclusion Criteria:\n\n* Diagnosis of a b-cell malignancy as documented by medical records and with histology based on criteria established by the World Health Organization (WHO).\n* Eastern Cooperative Oncology Group (ECOG) performance status of \u2264 2.\n* Agreement to use contraception during the study and for 90 days after the last dose of study drugs if sexually active and able to bear or beget children.\n\nExclusion Criteria\n\n* A life-threatening illness, medical condition or organ system dysfunction which, in the investigator's opinion, could compromise the subject's safety, interfere with the absorption or metabolism of study drugs, or put the study outcomes at undue risk.\n* Central nervous system (CNS) involvement by lymphoma/leukemia\n* Any therapeutic antibody within 4 weeks of first dose of study drugs.\n* The time from the last dose of the most recent chemotherapy or experimental therapy to the first dose of study drugs is \\< 5 times the half-life of the previously administered agent(s).\n* ANC \\< 0.5 x 10\\^9/L or platelet count \\< 50 x 10\\^9/L unless due to disease involvement in the bone marrow.\n* Creatinine \\> 1.5 x institutional upper limit of normal (ULN); total bilirubin \\> 1.5 x ULN (unless due to Gilbert's disease); and aspartate aminotransferase (AST) or alanine aminotransferase (ALT) \\> 3.0 x ULN.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Best Response and Overall Response Rate",
+      "timeFrame": "from the start of the treatment to the last evaluable disease assessment, an average of 1 year",
+      "description": "Best response and overall response rate per the criteria investigator uses for each disease histology. Standardized response and progression criteria is based on established criteria for B-cell malignancies, including WM (Cheson 2014; Owen 2013; Hallek 2008; Blad\u00e9 1998; and Durie 2006)."
+    }
+  ],
+  "sponsor": "Acerta Pharma BV",
+  "collaborators": [
+    "AstraZeneca"
+  ],
+  "start_date": "2014-12-20",
+  "completion_date": "2025-10-30",
+  "last_updated": "2025-11-25"
+}

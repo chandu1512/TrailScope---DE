@@ -1,0 +1,100 @@
+{
+  "nct_id": "NCT07221357",
+  "brief_title": "A Study to Evaluate the Safety and Efficacy of Pumitamig in Combination With Chemotherapy Versus Bevacizumab in Combination With Chemotherapy in Participants With Previously Untreated, Unresectable, or Metastatic Colorectal Cancer",
+  "official_title": "ROSETTA CRC-203: A Blinded, Randomized Phase 2/3 Study of Pumitamig in Combination With Chemotherapy Versus Bevacizumab in Combination With Chemotherapy in Participants With Previously Untreated, Unresectable, or Metastatic Colorectal Cancer",
+  "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of pumitamig in combination with chemotherapy versus bevacizumab in combination with chemotherapy in participants with previously untreated, unresectable, or metastatic colorectal cancer",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 990,
+  "conditions": [
+    "Untreated, Unresectable, or Metastatic Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Pumitamig",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "FOLFOX",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "FOLFIRI",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "CAPOX",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\n* Participant must previously untreated, histologically confirmed recurrent or metastatic colorectal adenocarcinoma, not amenable to curative surgery.\n* Participant must have no known presence of mismatch repair deficient (dMMR) or microsatellite instability-high (MSI-H) colorectal cancer (CRC) per historical results (a validated test should be used).\n* Participant must have no known presence of the gene that encodes the protein B-Raf (BRAF) V600E mutation per local testing.\n* Participant must have measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.\n\nExclusion Criteria\n\n* Participant must not have any untreated known central nervous system (CNS) metastases including brain, leptomeningeal and/or spinal cord compression.\n* Participant must not have any prior malignancy active within the previous 2 years, except for locally curable cancers that have been apparently cured and considered to be of low risk of recurrence.\n* Participant must not have significant cardiovascular disease, such as myocardial infarction, unstable angina, arterial thrombosis or cerebrovascular accident within 6 months prior to randomization, uncontrolled hypertension (\u2265 160 systolic, \u2265 100 diastolic mm Hg) despite optimal medical management, or congenital long QT syndrome.\n* Participant must not have prior systemic treatment with an anti-PD-1, anti-programmed death (ligand)-1 (PD-L1), anti-PD-L2, CD137 agonists, or anti-cytotoxic T-lymphocyte associated protein 4 (CTLA-4) antibody, or any other antibody or drug specifically targeting T cell co-stimulation or checkpoint pathways or chemotherapy.\n* Other protocol-defined Inclusion/Exclusion criteria apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0262",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Maryland Oncology Hematology - Silver Spring",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20904",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Local Institution - 0348",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Local Institution - 0604",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response (OR) (confirmed complete response (CR) or partial response (PR)) by Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 per investigator assessment",
+      "timeFrame": "Up to 5 years",
+      "description": "Phase 2"
+    },
+    {
+      "measure": "Progression Free Survival (PFS) by RECIST v1.1 per blinded independent central review (BICR)",
+      "timeFrame": "Up to 5 years",
+      "description": "Phase 3"
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "BioNTech SE"
+  ],
+  "start_date": "2025-12-31",
+  "completion_date": "2034-03-11",
+  "last_updated": "2026-03-24"
+}

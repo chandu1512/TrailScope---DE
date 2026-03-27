@@ -1,0 +1,52 @@
+{
+  "nct_id": "NCT02225925",
+  "brief_title": "Intraoperative Dosimetry for Prostate Brachytherapy Using Fluoroscopy and Ultrasound",
+  "official_title": "Phase II Study of Dynamic Intraoperative Dosimetry for Prostate Brachytherapy Using Registered Fluoroscopy and Ultrasound",
+  "brief_summary": "The purpose of this study is to assess the performance of a system of intraoperative dynamic dosimetry during prostate seed implantation (brachytherapy) including its new elements, to evaluate and refine technical methods of using the system, as well as confirm its performance and accuracy.",
+  "detailed_description": "The use of brachytherapy or implantation of radioactive sources into the prostate for adenocarcinoma has advantages over external beam radiation in that a very high dose can be delivered to the tumor while limiting the doses to the surrounding normal tissue (i.e., bowel and bladder). It is established that outcomes after treatment with brachytherapy are related to the technical quality of source placement within the gland. Accurate placement of the radioactive sources with achievement of optimum dose distributions within the prostate is key to the success of brachytherapy with regard to both killing tumor as well as minimizing toxicity.\n\nDue to factors such as deformations of the prostate during needle insertion, needle deviation from intended path during insertion, prostatic edema from needle trauma, and relaxation of tissues as well as source migration after needle removal, the actual source positions upon completion of the procedure may fail to accurately match their intended placement, resulting in variations from the idealized dosimetric plan.\n\nOne way to overcome this complex problem is to have the capability of visualizing the sources once they are in the prostate and then continuously updating the dosimetric plan in real time. To this end, we have developed a mechanism whereby ultrasound and fluoroscopy are quantitatively integrated to allow for real-time visualization of source positions intraoperatively. A prior Phase I study performed by this group evaluated a prototype version of this mechanism, resulting in the successful treatment of 6 patients with true intraoperative dynamic dosimetry. Dosimetric outcomes within this cohort of patients was excellent, and the intraoperative doses predicted by the system more accurate than that predicted by the current standard method (ultrasound-based dosimetry).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 45,
+  "conditions": [
+    "Prostate Cancer",
+    "Adenocarcinoma of the Prostate"
+  ],
+  "interventions": [
+    {
+      "name": "Brachytherapy",
+      "type": "RADIATION",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed, localized adenocarcinoma of the prostate\n* Clinical stages T1b - T3a\n* The patient has decided to undergo brachytherapy (or brachytherapy plus external beam radiation) as a treatment modality for his prostate cancer\n* Karnofsky Performance Status \\> 60\n* Prostate volume by transrectal ultrasound (TRUS) \\< 55 cc\n* International Prostate symptom score (IPSS) 20 or less\n* Ability to have Magnetic resonance imaging as part of post-implant assessment\n* Signed study-specific consent form prior to registration\n\nExclusion Criteria:\n\n* Stage T3b or greater disease.\n* Prior history of pelvic radiation therapy\n* Significant obstructive symptoms (IPSS greater than 20)\n* Major medical or psychiatric illness which, in the investigator's opinion, would prevent completion of treatment and would interfere with follow up.\n* Implanted device or apparatus which obstruct visibility of the implanted sources on fluoroscopy\n* Metallic implants, claustrophobia not amenable to medication, or known contraindications to undergoing MR scanning",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The SKCCC at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Procedure Time",
+      "timeFrame": "at time of implantation procedure",
+      "description": "Additional procedure time with the registered ultrasound and fluoroscopy system (RUF) in the intra-operative setting for implantation procedure"
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [],
+  "start_date": "2014-10-01",
+  "completion_date": "2023-02-28",
+  "last_updated": "2023-03-09"
+}

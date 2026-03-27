@@ -1,0 +1,95 @@
+{
+  "nct_id": "NCT04067115",
+  "brief_title": "SARC037: A Phase I/II Study to Evaluate the Safety of Trabectedin in Combination With Irinotecan in Ewing Sarcoma Patients",
+  "official_title": "SARC037: A Phase I/II Study to Evaluate the Safety of Trabectedin Administered as a 1-Hour Infusion in Ewing Sarcoma Patients in Combination With Low Dose Irinotecan and 3'-Deoxy-3'-18F Fluorothymidine (18F-FLT) Imaging",
+  "brief_summary": "This study evaluates the trabectedin and irinotecan in the treatment of Ewings sarcoma, with a EWS-FLI1 mutation. Patients will also receive an infusion of 18F-FLT in combination with a Positron Emission Tomography (PET) scan to help evaluate the effect of treatment.",
+  "detailed_description": "Trabectedin and Irinotecan may inhibit the activity of this Ewing sarcoma mutation. Trabectedin may suppress the proliferation of the gene involved in DNA damage response. It blocks EWS-FLI1 by inactivating the fusion protein and silences the target genes.\n\nIrinotecan also suppresses the genes regulating the tumor cells, generating DNA damage. Together, these drugs work in combination to suppress the gene regulating the tumor cells. This combination may suppress the activity of the tumor regulating genes, disrupting the activity of the genes. The infusion of 18F-FLT in combination with a Positron Emission Tomography (PET) scan will demonstrate whether the target cells have been suppressed.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 37,
+  "conditions": [
+    "Ewing Sarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "Trabectedin 1 MG [Yondelis]",
+      "type": "DRUG",
+      "description": "Patients with Ewing sarcoma will be administered trabectedin intravenously. Cycles are 21 days."
+    },
+    {
+      "name": "Irinotecan",
+      "type": "DRUG",
+      "description": "Patients with Ewing sarcoma will be administered inirotecan intravenously. Cycles are 21 days."
+    },
+    {
+      "name": "tumor biopsy",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Tumor tissue samples will be collected collected at two timepoints. The first biopsy will be prior to treatment. If a biopsy is not possible archival tissue may be submitted. A second tumor biopsy will be taken fro consenting patients when possible after the first administration of Trabectedin to evaluate the effect on the tumor cells."
+    },
+    {
+      "name": "3'-Deoxy-3'-18F Fluorothymidine (18F-FLT) Imaging",
+      "type": "OTHER",
+      "description": "Some patients will receive PET scans with the use of 18F-FLT, a radioactive tracer, performed at the National Institute of Health."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* diagnosis of relapsed and refractory Ewing sarcoma with EWS-FLI1 fusion type for which there is no known therapy proving to prolong survival\n* measurable disease\n* ECOG Performance Status of 0-2 or Lansky of 50\n* adequate organ function\n* written, voluntary consent\n* willing to undergo tumor biopsy\n* negative hepatitis infection\n\nExclusion Criteria:\n\n* prior therapy with trabectedin or lurbinectedin\n* known history of hypersensitivity to irinotecan or topotecan or their excipients.\n* known brain metastases\n* known bleeding diathesis\n* pregnant or breastfeeding\n* currently receiving other investigational drugs or anticancer agents\n* clinically significant unrelated illness or uncontrolled infection\n* unable to comply with the safety monitoring requirements",
+    "gender": "ALL",
+    "min_age": "6 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Cancer Institute",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19105",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase I The recommended dose (RD) of trabectedin administered in combination with low dose irinotecan",
+      "timeFrame": "up to 36 months",
+      "description": "The recommended dose will be established by enrolling patients at the lowest dose and observing them for dose limiting toxicity. Dose limiting toxicity describes side effects of a drug or other treatment that are serious enough to prevent an increase in dose or level of that treatment. The maximum tolerated dose is the highest dose of a drug or treatment that does not cause unacceptable side effects. If 0 of the first 3 subjects experience DLT, the study will proceed to the next dose level. If 1 subject experiences a DLT, that dose level cohort will be expanded to 6 total subjects. If no additional subjects experience DLTs at that dose level cohort, the study will proceed to enroll the next dose level cohort.\n\nIf \u2265 2 of 6 subjects experience DLT, then that dose level is the recommended dose of trabectedin (RD). The study will proceed to the same process for the irinotecan escalation.\n\nIf 2 or all 3 subjects experience DLT, that dose level is the recommended dose of trabectedin (RD)."
+    },
+    {
+      "measure": "Phase I Tumor response rate",
+      "timeFrame": "up to 36 months",
+      "description": "The anti-tumor activity of the combination of trabectedin and low-dose irinotecan as measured by the tumor objective response rate (ORR) assessed by RECIST v1.1"
+    },
+    {
+      "measure": "Phase 2 To determine anti-tumor activity of the combination trabectedin and low-dose irinotecan",
+      "timeFrame": "up to 36 months",
+      "description": "Tumor objective response rate (ORR) assessed by RECIST v1.1."
+    }
+  ],
+  "sponsor": "Sarcoma Alliance for Research through Collaboration",
+  "collaborators": [
+    "Janssen Scientific Affairs, LLC",
+    "National Institutes of Health (NIH)",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2021-01-05",
+  "completion_date": "2025-04-24",
+  "last_updated": "2025-12-11"
+}

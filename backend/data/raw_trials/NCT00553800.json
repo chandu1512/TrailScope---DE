@@ -1,0 +1,101 @@
+{
+  "nct_id": "NCT00553800",
+  "brief_title": "Study of Bevacizumab and Erlotinib in Patients With Advanced Non-small Cell Lung Cancer",
+  "official_title": "Phase II Study of Bevacizumab and Erlotinib in Elderly Patients With Advanced Non-Small Lung Cancer",
+  "brief_summary": "This study will evaluate the combination of bevacizumab and erlotinib in elderly patients with advanced non-small cell lung cancer.",
+  "detailed_description": "There is no definite evidence of a superior therapy for advanced non-small cell lung cancer in elderly patients. With the exception of one known study, single agent erlotinib has not been studied exclusively in the elderly and the combination of erlotinib and bevacizumab has never been studied exclusively in the treatment naive elderly. This is an important population that needs less toxic therapies.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 32,
+  "conditions": [
+    "Carcinoma, Non-Small-Cell Lung"
+  ],
+  "interventions": [
+    {
+      "name": "bevacizumab",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Erlotinib",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Cytologically or histologic confirmed non-small cell lung cancer, stage IIIB or IV or recurrent after primary surgery or radiotherapy.\n* ECOG PS 0-1\n* 70 years of age or older\n* Must have measurable disease\n* ANC \\> 1500, platelets \\> 100,000\n* Total bilirubin \\</= 1.5, SGOT \\* SGPT \\< 5 x ULN\n* Able and willing to swallow and absorb oral medication\n* Able and willing to sign consent\n* Request archival diagnostic tissue for EGFR expression but not required\n\nExclusion Criteria:\n\n* Proteinuria as demonstrated by UPC ratio \\>/= 1.0\n* Prior treatment with an investigational or marketed inhibitor of the EGFR pathway or anti-angiogenesis agent (includes thalidomide)\n* Prior treatment for advanced stage disease, with the exception of surgery or radiation (no systemic)\n* History of gross hemoptysis within 1 month of enrollment unless treated with surgery or radiation\n* Evidence of bleeding diathesis or coagulopathy or other serious/acute internal bleeding within 6 months of enrollment.\n* Current, ongoing treatment with full dose warfarin or equivalent\n* Current(within 10 days)use of aspirin (\\> 325mg/day) or other NSAID with antiplatelet activity\n* History of hemorrhagic or thrombotic stoke, TIA, or other CNS bleeding w/in last 6 months. Clinically significant PVD\n* Known CNS disease except for treated brain mets.\n* Squamous cell histology\n* Blood pressure \\> 150/100 that cannot be ameliorated with standard anti-hypertensives\n* History of hypertensive crisis or hypertensive encephalopathy\n* NYHA grade II or \\> CHF\n* History of MI within 6 months of enrollment\n* Major surgery, open biopsy, significant trauma within 28 days of enrollment\n* Pregnancy, lactation\n* Abdominal or other fistula, abcess, perforation",
+    "gender": "ALL",
+    "min_age": "70 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "AtlantiCare Regional Medical Center",
+      "city": "Galloway",
+      "state": "New Jersey",
+      "zip": "08205",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Virtua Health Cancer Program at Memorial",
+      "city": "Mount Holly",
+      "state": "New Jersey",
+      "zip": "08060",
+      "status": ""
+    },
+    {
+      "facility": "Paoli Hospital",
+      "city": "Paoli",
+      "state": "Pennsylvania",
+      "zip": "19301",
+      "status": ""
+    },
+    {
+      "facility": "Abramson Cnacer Center, University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Pennsylvania Oncology Hematology Associates",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19106",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Grand View Hospital",
+      "city": "Sellersville",
+      "state": "Pennsylvania",
+      "zip": "18960",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "3 years",
+      "description": "Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions"
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [
+    "Genentech, Inc.",
+    "OSI Pharmaceuticals"
+  ],
+  "start_date": "2007-07-05",
+  "completion_date": "2011-06-01",
+  "last_updated": "2022-06-17"
+}

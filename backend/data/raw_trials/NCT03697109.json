@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT03697109",
+  "brief_title": "A Study of the Efficacy and Safety of Relacorilant in Patients With Endogenous Cushing Syndrome",
+  "official_title": "Glucocorticoid Receptor Antagonism in the Treatment of Cushing Syndrome (GRACE): A Phase 3, Double-Blind, Placebo-Controlled, Randomized-Withdrawal Study of the Efficacy and Safety of Relacorilant",
+  "brief_summary": "This is a Phase 3, double-blind, placebo-controlled, randomized-withdrawal study to assess the efficacy, safety and pharmacokinetics (PK) of relacorilant in patients with endogenous Cushing syndrome and concurrent type 2 diabetes mellitus/impaired glucose tolerance (DM/IGT) and/or uncontrolled hypertension (HTN).",
+  "detailed_description": "The primary outcome is the assessment of efficacy of relacorilant treatment based on sustained blood pressure control during the Randomized-withdrawal (RW) Phase, wherein patients who had achieved the blood pressure response criteria during the Open-label (OL) Phase are randomized to receive either relacorilant or placebo for 12 weeks.\n\nPatients in the OL Phase will dose-escalate in 100 mg increments to a maximum dose of 400 mg orally once daily. Patients will remain on OL treatment until Week 22 at which time they will be evaluated for the RW Phase based on predefined hyperglycemia and hypertension response criteria. Eligible patients will then be randomized to receive either relacorilant or placebo at a 1:1 ratio for 12 weeks. Patients who do not meet the criteria for the RW Phase will end treatment and may be eligible to roll over into an extension safety study. Patients who complete the RW Phase of the study may also be eligible to roll over into an extension study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 152,
+  "conditions": [
+    "Cushing Syndrome"
+  ],
+  "interventions": [
+    {
+      "name": "Relacorilant",
+      "type": "DRUG",
+      "description": "Relacorilant is supplied as 100 mg capsules for oral dosing."
+    },
+    {
+      "name": "Placebo",
+      "type": "OTHER",
+      "description": "Placebo matched to study drug"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Has a confirmed diagnosis of endogenous Cushing syndrome\n* Meets at least 1 of the following criteria:\n\n  * Has Type 2 diabetes mellitus\n  * Has impaired glucose tolerance\n  * Has hypertension.\n\nExclusion Criteria:\n\n* Has non-endogenous source of hypercortisolism\n* Has uncontrolled, clinically significant hypothyroidism or hyperthyroidism\n* Has poorly controlled hypertension\n* Has poorly controlled diabetes mellitus\n* Has severe renal insufficiency.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Site 45",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21205",
+      "status": ""
+    },
+    {
+      "facility": "Site 62",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "Site 19",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    },
+    {
+      "facility": "Site 71",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Patients With Loss of Response With Respect to Hypertension During the RW Phase.",
+      "timeFrame": "Week 22 (end of OL Phase) and Week 36 (Week 12 of RW Phase)",
+      "description": "Loss of response with respect to HTN was measured using 6 criteria: 1) an increase in SBP of at least 5 mm Hg, 2) an increase in DBP of at least 5 mm Hg, 3) an increase in SBP and/or DBP of at least 5 mm Hg, 4) use of HTN rescue medication, 5) treatment discontinuation, and 6) missing 24-hour ambulatory blood pressure monitoring (ABPM) measurement at the end of the RW Phase. Blood pressure was measured using ABPM. Use of rescue medication was defined as any increase, modification, or addition of antihypertensive medication due to worsening HTN. Treatment discontinuation reports the number of patients who discontinued study treatment in the RW Phase for any reason."
+    },
+    {
+      "measure": "Number of Patients With 1 or More Treatment-emergent Adverse Events (TEAEs) as Graded by CTCAE v5.0.",
+      "timeFrame": "OL Phase: Up to 22 weeks; RW Phase: up to 18 weeks after completion of the OL Phase",
+      "description": ""
+    }
+  ],
+  "sponsor": "Corcept Therapeutics",
+  "collaborators": [],
+  "start_date": "2018-11-15",
+  "completion_date": "2024-04-15",
+  "last_updated": "2025-06-26"
+}

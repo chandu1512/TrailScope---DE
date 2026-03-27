@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT03542773",
+  "brief_title": "Targeted Imaging of Glutamate Carboxypeptidase II With DCFPyL-PET",
+  "official_title": "Targeted Imaging of Glutamate Carboxypeptidase II With DCFPyL-PET",
+  "brief_summary": "To use 18F-DCFPyL imaging agent and PET/CT to detect none prostate cancer solid malignancies and schwannoma tumors.",
+  "detailed_description": "The purpose of this protocol is to extend our existing patient base from those with prostate cancer to those with any solid malignancy - as well as patients with schwannoma, a non-malignant solid tumor that also over-expresses GCP II. Using our first generation imaging agent, \\[18F\\]DCFBC, we have shown that we could detect GCP II in tissue specimens of patients with a variety of cancers, and vestibular schwannoma. We have also shown that GCP II may not only be present in the neovasculature of solid (non-prostate) tumors, but also reside within the tumor epithelium itself. We have shown that to be the case for melanoma, in particular. Our goal is to leverage the broad utility of our GCP II targeted imaging agents for managing other cancers. In addition to schwannoma, the cancers we intend to target include but will not be restricted to: head and neck cancer, salivary gland tumors, renal cell carcinoma, transitional cell carcinoma, colorectal cancer, gastric cancer, neuroendocrine cancer, glioblastoma, melanoma, pancreatic cancer, non-small cell lung cancer, soft tissue sarcoma, breast cancer, endometrial cancer, ovarian cancer, lymphoma and multiple myeloma.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 38,
+  "conditions": [
+    "Schwannomas",
+    "Malignant Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "18F-DCFPyL Injection",
+      "type": "DRUG",
+      "description": "18F-DCFPyL with whole body PET/CT scan"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Greater than or equal to 18 years of age\n2. Biopsy-proven cancer or Schwannoma diagnosis\n3. No contraindications to PET scanning to include pregnancy, etc. For females of childbearing potential, negative serum pregnancy test obtained within a 10-day period prior to PET study\n4. Patients or their legal representatives must have the ability to read, understand and provide written informed consent for the initiation of any study related procedures.\n\nExclusion Criteria:\n\n1. Administered a radioisotope within 5 physical half-lives prior to PET imaging\n2. In female subjects pregnancy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Determine feasibility of using 18F-DCFPyL to detect cancer",
+      "timeFrame": "24 months",
+      "description": "The primary objective of this project is to test the feasibility of 18F-DCFPyL to detect cancer. The visual assessment of suspected tumor will be considered positive if there is sustained radiotracer activity over expected soft tissue or blood pool physiologic activity levels and recorded as mild (above blood pool), moderate (above blood pool, but less than liver), or intense (at or above the liver). Feasibility will be determined based on number of positively recognized regions of interest."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2015-02-06",
+  "completion_date": "2022-05-01",
+  "last_updated": "2023-01-09"
+}

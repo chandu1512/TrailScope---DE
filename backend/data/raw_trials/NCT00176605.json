@@ -1,0 +1,101 @@
+{
+  "nct_id": "NCT00176605",
+  "brief_title": "Phase II Metronomic Dosing, Etoposide, Cyclophosphamide, D0 Prostate Cancer",
+  "official_title": "A Phase II Trial of Metronomic Dosing of Etoposide and Cyclophosphamide in Patients With Stage D0 Prostate Cancer.",
+  "brief_summary": "Based on data supporting the use of cyclophosphamide and etoposide both as single agents in combination and a Phase I study showing acceptable toxicity with a chronic dosing regimen, we propose a Phase II clinical trial. This protocol establishes a model that will test the hypothesis that the use of etoposide and cyclophosphamide early in the course of prostate cancer progression, when fewer tumor cells are present, will have greater anti-tumor activity. We plan to treat patients with stage D0 prostate cancer to assess toxicity and anti-tumor activity.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 15,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Etoposide",
+      "type": "DRUG",
+      "description": "50 mg per day of Etoposide orally for 21 consecutive days. Etoposide will be alternated with oral cyclophosphamide. The drug is administered at night just prior to bed. Week 1 of each cycle will begin with etoposide."
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "50 mg per day of cyclophosphamide orally for 21 consecutive days. Cyclophosphamide will be alternated with oral etoposide. The drug is taken 2 hours after breakfast. The patient will be asked to increase hydration throughout the day. Recommendation is at least 6, 8oz glasses of water or other non-caffeinated beverage. Week 4 of the each cycle will begin with cylcophosphamide. Chronic administration of cyclophosphamide at this dose has been well tolerated"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\n* Patients with histologically proven prostate cancer and tumors limited to the prostate (including seminal vesicle involvement, provided all visible disease was surgically removed) that have completed local therapy and have an rising PSA value, as defined in Section 5.1.5.\n* Prior androgen ablation therapy is allowed as long as the patient completed therapy at least 1 year prior to entry into this study. The patient must be fully recovered from such therapy and must not have demonstrated progression while on androgen ablation therapy.\n* Primary treatment to the prostate (surgery and/or radiation) must have been completed at least 3 months prior to entry into this study and the patient must be fully recovered from such therapy.\n* Patients must have a negative CT of the chest, abdomen and pelvis and bone scan. The scans must be completed within 4 weeks prior to the date of starting therapy.\n* PSA value for patients enrolled must be \\> 2 ng/ml with a doubling time of \u00a3 12 months. PSA value \\> 2 ng/ml must be documented by two measurements at least four weeks apart. The final PSA measurement before study entry must be obtained within one week prior to therapy. This will be considered the baseline PSA. (Note: The website http://www.mskcc.org/mskcc/html/10088.cfm may be used to access a prostate normogram calculator.)\n* The following lab values must be obtained within 4 weeks prior to therapy:\n* ANC \u22651500/mm\u00b3,\n* Hemoglobin \u2265 10 g/dl\n* Platelet count \u2265 100,000/mm\u00b3\n* Serum creatinine \u2264 1.5 mg/dL\n* Total bilirubin \u2264 1.5 mg/dL\n* Liver function tests (SGOT, SGPT) \u2264 1.5 times the upper limit of the institution's normal range.\n* Men \u2265 18 years of age.\n* An estimated life expectancy of at least 6 months.\n* ECOG performance status \u2264 2.\n* Able to give informed, written consent.\n* Men must consent to using effective contraception (barrier method- latex condom) while on treatment and for 4 weeks after discontinuation of treatment.\n\nExclusion Criteria\n\n* Patients with active infections or known infection with HIV (HIV testing will not be performed as part of this study).\n* Any coexisting medical condition including uncontrolled cardiac, hepatic, renal or psychiatric disease defined as \u00b3 Grade 3 (CTCAE Version 3).\n* Concurrent use of other investigational agent.\n* Patients that have previously received more than 2 months of therapy with any of the agents used in this study.\n* PSA value \\< 2 ng/ml.\n* Prior chemotherapy in the past 5 years.\n* Use of androgen ablation therapy within 1 year, or history of progression on androgen ablation therapy.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Central Jersey Oncology Center",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816",
+      "status": ""
+    },
+    {
+      "facility": "Robert Wood Johnson University Hospital/CINJ at Hamilton",
+      "city": "Hamilton",
+      "state": "New Jersey",
+      "zip": "08690",
+      "status": ""
+    },
+    {
+      "facility": "Morristown Memorial Hospital",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07962",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "Saint Peter's University Hospital",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "UMDNJ/Robert Wood Johnson Medical School",
+      "city": "Newark",
+      "state": "New Jersey",
+      "zip": "07103",
+      "status": ""
+    },
+    {
+      "facility": "Overlook Hospital",
+      "city": "Summit",
+      "state": "New Jersey",
+      "zip": "070901",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "PSA Response Rate",
+      "timeFrame": "5 years",
+      "description": "The PSA response rate is the percentage of patients who have a PSA response. A PSA response will be considered a PSA decline of at least 50% must be confirmed by a second PSA value four or more weeks later. The reference PSA for these declines should be a PSA measured within 2 weeks prior to the initiation of therapy. Patients may not demonstrate clinical or radiographic evidence of disease progression during this period."
+    }
+  ],
+  "sponsor": "Rutgers, The State University of New Jersey",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2005-05",
+  "completion_date": "2008-10",
+  "last_updated": "2014-04-18"
+}

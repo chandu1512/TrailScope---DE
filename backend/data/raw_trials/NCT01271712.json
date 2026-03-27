@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT01271712",
+  "brief_title": "Study of Regorafenib as a 3rd-line or Beyond Treatment for Gastrointestinal Stromal Tumors (GIST)",
+  "official_title": "A Randomized, Double-blind, Placebo-controlled Phase III Study of Regorafenib Plus Best Supportive Care Versus Placebo Plus Best Supportive Care for Subjects With Metastatic and/or Unresectable Gastrointestinal Stromal Tumors (GIST) Whose Disease Has Progressed Despite Prior Treatment With at Least Imatinib and Sunitinib",
+  "brief_summary": "A randomized, double-blind, placebo-controlled phase III study of regorafenib plus best supportive care versus placebo plus best supportive care for subjects with metastatic and/or unresectable gastrointestinal stromal tumors (GIST) whose disease has progressed despite prior treatment with at least imatinib and sunitinib.\n\nThe study is composed of 3 periods: A Screening Period, a Treatment Period, and a Survival Follow up Period.\n\nSubjects randomized to be treated with regorafenib will receive 160 mg po od for 3 weeks of every 4 week (28 day) cycle (ie, 3 weeks on/1 week off). In addition subjects will receive best supportive care which excludes any disease specific anti cancer therapy such as any kinase inhibitor, chemotherapy, radiation therapy, or surgery.\n\nTumor assessment will be every 4 weeks for the first 3 months, every 6 weeks for the next 3 months (through month 6), and every 8 weeks until the end of treatment, or more frequently if clinically indicated. Tumor assessments include CT or MRI and will be performed until tumor progression is seen in a central radiology review.\n\nSubjects receiving placebo who experience disease progression may be offered active treatment.\n\nSubjects who experience progression during regorafenib treatment may continue open label treatment.\n\nAll subjects will enter the Survival Follow-up Period upon discontinuation of randomized study treatment.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 199,
+  "conditions": [
+    "Gastrointestinal Stromal Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "Regorafenib (Stivarga, BAY73-4506)",
+      "type": "DRUG",
+      "description": "160 mg po once daily (od), 3 weeks on/1 week off. Route of administration: oral"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "once daily (od), 3 weeks on/1 week off. Route of administration: oral"
+    },
+    {
+      "name": "Best supportive care",
+      "type": "DRUG",
+      "description": "Best supportive care includes any method to preserve the comfort and dignity of the patients, and excludes any disease-specific anti-neoplastic therapy such as any kinase inhibitor, chemotherapy, radiation therapy, or surgical intervention."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male or female subjects 18 years of age.\n* Subjects with histologically confirmed metastatic and/or unresectable GIST.\n* At least imatinib and sunitinib as prior treatment regimens, with objective disease progression or intolerance to imatinib, as well as disease progression while on sunitinib therapy. Additionally, disease progression or intolerance to other systemic therapies, as well as investigational new agents, is allowed, except prior treatment with any other vascular endothelial growth factor receptor (VEGFR) inhibitor.\n* Subjects must have at least one measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1. A lesion in a previously irradiated area is eligible to be considered as measurable disease as long as there is objective evidence of progression of the lesion prior to study enrollment.\n\nEastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.\n\n* Adequate bone marrow, liver, and renal function as assessed by laboratory parameters.\n\nRecovery to NCI-CTCAE v4.0 Grade 0 or 1 level or recovery to baseline preceding the prior treatment from any previous drug/procedure-related toxicity (except alopecia and anemia).\n\nExclusion Criteria:\n\n* Major surgical procedure, open biopsy, or significant traumatic injury within 28 days before start of study medication.\n* Congestive heart failure New York Heart Association (NYHA) class 2.\n* Unstable angina (angina symptoms at rest, new-onset angina, ie, within the last 3 months) or myocardial infarction (MI) within the past 6 months before start of study medication.\n* Uncontrolled hypertension (systolic blood pressure 140 mmHg or diastolic pressure 90 mmHg despite optimal medical management).\n\nArterial thrombotic or embolic events such as cerebrovascular accident (including transient ischemic attacks), or pulmonary embolism within the 6 months before start of study drug or venous thrombotic events such as deep vein thrombosis within the 3 months before start of study drug.\n\n* Ongoing infection grade 2 National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.0.\n\nSymptomatic metastatic brain or meningeal tumors.\n\n* Subjects with evidence or history of bleeding diathesis. Any hemorrhage or bleeding event NCI-CTCAE version 4.0 grade 3 or higher within 4 weeks prior to the start of study drug.\n\nNon-healing wound, ulcer, or bone fracture.\n\n* Persistent proteinuria of NCI-CTCAE version 4.0 grade 3 or higher (3.5 g/24 hrs, measured by urine protein:creatinine ratio on a random urine sample).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival",
+      "timeFrame": "From randomization of the first subject until approximately 144 progression-free survival events had occurred (study duration approximately one year)",
+      "description": "Progression-free Survival (PFS) was defined as the time from date of randomization to radiological disease progression or death due to any cause, whichever occurs first. PFS was based on central radiological assessment using modified RECIST (Response Evaluation Criteria in Solid Tumors) v.1.1. Progression is defined as at least a 20% increase in the sum of diameters of target lesions taking as reference the smallest sum on study; or unequivocal progression of existing non-target lesions; or appearance of new lesions. Subjects without progression or death at the time of analysis were censored at their last date of tumor evaluation. Results are based on central evaluation."
+    }
+  ],
+  "sponsor": "Bayer",
+  "collaborators": [],
+  "start_date": "2011-01-04",
+  "completion_date": "2019-04-15",
+  "last_updated": "2021-01-27"
+}

@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT06856226",
+  "brief_title": "Natural History Study to Determine Drug Metabolism Phenotype and Appropriate Germline Source DNA in Patients Undergoing Allogeneic Hematopoietic Stem Cell Transplant",
+  "official_title": "Natural History Study to Determine Drug Metabolism Phenotype and Appropriate Germline Source DNA in Patients Undergoing Allogeneic Hematopoietic Stem Cell Transplant",
+  "brief_summary": "Background:\n\nAfter an allogeneic hematopoietic stem cell transplant (HSCT), the donor genome is found in the recipient s circulation and tissues.\n\nPost-HSCT recipients may receive a medication in which the dosing needs to be adjusted based on genetic variation.\n\nWhile genes in donor genome may influence dosing and administration of some agents, the majority of established gene-drug pairs in pharmacogenetics are related to expression of metabolic or transporting enzymes located in recipients tissues, often the liver.\n\nDetermining which genetic variants influence drug disposition in HSCT recipients is complicated by chimerism in samples that are routinely collected for determining genotype. However, chimerism in tissues is poorly studied in this patient population.\n\nObjectives:\n\nTo determine the most reliable host genomic source for pharmacogenetic testing in participants that have received allogeneic HSCT.\n\nEligibility:\n\nPeople ages 18 years and older who are enrolled on a clinical trial at the NIH Clinical Center under which they will donate or receive an allogeneic HSCT.\n\nDesign:\n\nDNA is collected prior to HSCT and for two years after HSCT.\n\nBlood will be collected and skin fibroblast cell lines will be established prior to HSCT to serve as a reference genome.\n\nBlood, buccal cells, skin, and hair will be monitored for the development of mixed chimerism via detection of short tandem repeats. Liver biopsies will be collected from participants undergoing hepatic surgery.\n\nPharmacoscan arrays will be conducted to determine which samples are useful for pharmacogenetic testing in participants who receive allogeneic HSCT.\n\nA probe drug cocktail will be administered pre- and post-HSCT to determine if transplantation alters the metabolic phenotype of liver enzymes.\n\n...",
+  "detailed_description": "Background:\n\n* After an allogeneic hematopoietic stem cell transplant (HSCT), the donor genome is found in the recipient fs circulation and tissues.\n* Post-HSCT recipients may receive a medication in which the dosing needs to be adjusted based on genetic variation.\n* While genes in donor genome may influence dosing and administration of some agents, the majority of established gene-drug pairs in pharmacogenetics are related to expression of metabolic or transporting enzymes located in recipients f tissues, often the liver.\n* Determining which genetic variants influence drug disposition in HSCT recipients is complicated by chimerism in samples that are routinely collected for determining genotype. However, chimerism in tissues is poorly studied in this patient population.\n\nPrimary Objective:\n\n-To determine the most reliable host genomic source for pharmacogenetic testing in participants that have received allogeneic HSCT.\n\nEligibility:\n\n* Age \\>=18 years\n* Must be enrolled on a clinical trial at the NIH Clinical Center under which they will donate or receive an allogeneic HSCT\n\nDesign:\n\n* DNA is collected prior to HSCT and for two years after HSCT.\n* Blood will be collected and skin fibroblast cell lines will be established prior to HSCT to serve as a reference genome.\n* Blood, buccal cells, skin, and hair will be monitored for the development of mixed chimerism. Liver biopsies will be collected from participants undergoing hepatic surgery.\n* Whole genome sequencing with Aldy analysis will be conducted to determine which samples are useful for pharmacogenetic testing in participants who receive allogeneic HSCT.\n* A probe drug cocktail will be administered pre- and post-HSCT to determine if transplantation alters the metabolic phenotype of liver enzymes.\n* Up to 88 participants will be enrolled.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 88,
+  "conditions": [
+    "Leukemia",
+    "Lymphoma",
+    "Hematologic Malignancy"
+  ],
+  "interventions": [
+    {
+      "name": "Arm 1",
+      "type": "OTHER",
+      "description": "Short tandem repeat (STR) analysis from genomic DNA extracted from biospecimens."
+    }
+  ],
+  "eligibility": {
+    "criteria": "* INCLUSION CRITERIA:\n* Age \\>=18 years\n* Participants must be enrolled on a clinical trial at the NIH Clinical Center (CC) under which they will donate or receive an allogeneic HSCT. The participant and their donor must enroll together to provide a complete set of samples for analysis.\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n* Donors are not allowed to enroll without a recipient\n* Prior allogeneic HSCT\n* History of psychiatric disorder which may compromise compliance with protocol requirements.\n* Pregnant and lactating individuals",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health Clinical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To determine the most reliable host genomic source for pharmacogenetic testing in participants that have received allogeneic hematopoietic stem cell transplant (HSCT)",
+      "timeFrame": "Pharmacoscan array will be performed within 1 month pre-BM donation in donors and within 1 month pre-HSCT and 12 months post-HSCT in recipients.",
+      "description": "Obtaining genotype for analysis of pharmacogene activity by understanding the degree chimerism in commonly utilized diagnostic samples."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2026-03-04",
+  "completion_date": "2028-12-01",
+  "last_updated": "2026-03-06"
+}

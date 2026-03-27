@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT07214779",
+  "brief_title": "Study to Evaluate INCB123667 Versus Investigator's Choice of Chemotherapy in Participants With Platinum-Resistant Ovarian Cancer With Cyclin E1 Overexpression",
+  "official_title": "A Phase 3, Randomized, Open-Label Study of INCB123667 Versus Investigator's Choice of Chemotherapy in Participants With Platinum-Resistant Ovarian Cancer With Cyclin E1 Overexpression",
+  "brief_summary": "The purpose of this study is to evaluate INCB123667 versus investigator's choice of chemotherapy in participants with platinum-resistant ovarian cancer with cyclin E1 overexpression.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 466,
+  "conditions": [
+    "Ovarian Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "INCB123667",
+      "type": "DRUG",
+      "description": "Oral; tablet"
+    },
+    {
+      "name": "Investigator's choice of chemotherapy",
+      "type": "DRUG",
+      "description": "The investigator will select the chemotherapy in accordance with the protocol-defined requirements. The possible choices as defined by the protocol:"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histological diagnosis of high-grade serous epithelial ovarian, fallopian tube, or primary peritoneal cancer.\n* Have platinum-resistant disease.\n\n  * Participants who have only had 1 line of platinum-based therapy must have received at least 4 cycles of platinum containing regimen.\n  * Participants who have received 2 to 4 lines of platinum-based therapy must have progressed on or within 6 months after the last dose of platinum.\n* Archival FFPE tumor tissue block or slides from a specimen no older than 5 years must be available. If not available, participant must be willing to undergo a pretreatment tumor biopsy.\n* Received at least 1 and no more than 4 prior lines of systemic therapy following the initial diagnosis, after which single-agent chemotherapy is considered an appropriate next therapeutic option.\n* Should have received prior treatment with bevacizumab unless there was a contraindication for its use.\n* Should have received prior treatment with mirvetuximab soravtansine if the tumor is positive for FR\u03b1, unless there is an exception for its use on medical grounds.\n* Measurable disease per RECIST v1.1.\n\nExclusion Criteria:\n\n* Have endometrioid, clear cell, mucinous, or sarcomatous histology, mixed tumors containing any of these histologies, or low-grade/borderline ovarian cancer.\n* Have primary platinum-refractory disease, defined as progression on or within 3 months after the last dose of first line platinum-containing therapy.\n* Clinically significant or uncontrolled cardiac disease within 6 months before the first dose of study treatment.\n* Known active CNS metastases and/or carcinomatous meningitis.\n* Known additional malignancy that is progressing or requires active treatment, or history of other malignancy within 3 years before the first dose of study treatment.\n* Clinically significant gastrointestinal abnormalities.\n\nOther protocol-defined Inclusion/Exclusion Criteria may apply.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Cancer Institute Cancer Services",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Wellspan Gynecologic Oncology",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS) by BICR",
+      "timeFrame": "Up to 2 years",
+      "description": "Defined as the time from the date of randomization until the earliest date of disease progression as determined by blinded independent central review (BICR) per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1, or death due to any cause, whichever occurs first."
+    },
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "Up to 2 years",
+      "description": "Defined as the time from the date of randomization until death due to any cause."
+    }
+  ],
+  "sponsor": "Incyte Corporation",
+  "collaborators": [
+    "ENGOT Foundation",
+    "GOG Foundation"
+  ],
+  "start_date": "2025-12-09",
+  "completion_date": "2029-05-14",
+  "last_updated": "2026-03-19"
+}

@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT01538628",
+  "brief_title": "SpaceOAR System Pivotal Study",
+  "official_title": "Evaluation of SpaceOAR\u2122 System When Used to Create Space Between the Rectum and Prostate in Men Undergoing IG-IMRT for Localized Stage T1-T2 Prostate Cancer: A Randomized, Multicenter, Parallel Arm Controlled Clinical Study",
+  "brief_summary": "Evaluate the safety of the SpaceOAR System when the hydrogel is injected between the rectum and prostate in men undergoing radiation therapy (IG-IMRT)",
+  "detailed_description": "The purpose of this study is to evaluate the safety of the SpaceOAR System when the hydrogel is injected between the rectum and prostate in men undergoing radiation therapy (IG-IMRT) and to evaluate whether use of the SpaceOAR hydrogel results in a reduction of radiation exposure to the anterior rectum.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 222,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "SpaceOAR System",
+      "type": "DEVICE",
+      "description": "Fiducial marker placement followed by randomization to treatment group, i.e., 10mL SpaceOAR hydrogel injection, or control group, i.e., no injection of SpaceOAR hydrogel."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subjects greater than 18 years old\n* Subjects must have pathologically confirmed invasive adenocarcinoma of the prostate and must be planning to undergo IMRT\n* Subjects must have clinical stage T1 or T2 as determined from a biopsy taken within 6 months of the baseline/screening visit with Gleason Score less than or equal to 7\n* Subjects Screening/Baseline laboratory testing must meet the following laboratory value criteria: PSA less than or equal to 20 ng/mL,hematocrit greater than 30%,serum creatinine less than 2.0 mg/dl, serum AST and ALT less than 2.5 times upper limit of institution normal, and serum bilirubin less than 2.0 mg/dl\n* Subject or authorized representative, has been informed of the nature of the study and has provided written informed consent, approved by the appropriate Institutional Review Board (IRB) of the respective clinical site\n\nExclusion Criteria:\n\n* Prostate greater than 80cc documented within 3 months preceding the Screening/Baseline visit\n* Subjects with extracapsular extension of the prostate cancer, with greater than 50% of the number of biopsy cores positive for cancer, metastatic disease, other ongoing cancers which will be treated during the study, or subjects for whom pelvic lymph node radiotherapy is planned\n* Subjects with any prior invasive malignancy (except non-melanomatous skin cancer) unless the subject has been disease free for a minimum of 5 years.\n* Subjects who are indicated for androgen deprivation therapy or who have been treated with androgen therapy within the prior 3 months.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University Department of Radiation Oncology and Molecular Radiation Sciences",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Chesapeake Urology Associates, Chesapeake Urology Research Associates (The Prostate Center)",
+      "city": "Owings Mills",
+      "state": "Maryland",
+      "zip": "21117",
+      "status": ""
+    },
+    {
+      "facility": "CentraState Medical Center",
+      "city": "Freehold",
+      "state": "New Jersey",
+      "zip": "07728",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Subjects Achieving a Reduction of 25% or Greater in Percent Volume of the Rectum Receiving at Least 70 Gy Measured From CT Scans Acquired Pre and Post SpaceOAR Hydrogel Injection",
+      "timeFrame": "3 months post index procedure",
+      "description": "Measurements calculated and documented by the Core Lab. Measurements performed with the Core Lab blinded to subject identification. Results based on the Core Lab computation are considered as primary."
+    },
+    {
+      "measure": "Percentage of Subjects Experiencing Grade 1 or Greater Rectal or Procedure Adverse Events Post Index Procedure",
+      "timeFrame": "6 months post index procedure",
+      "description": "The primary safety endpoint was the occurrence of Grade 1 or greater rectal adverse events or procedure adverse events in the 6 months following the Index Procedure. The numbers reflect the percent of subjects in each arm/group that experienced grade 1 or greater rectal or procedure adverse events post index procedure."
+    }
+  ],
+  "sponsor": "Boston Scientific Corporation",
+  "collaborators": [
+    "Augmenix, Inc."
+  ],
+  "start_date": "2012-01",
+  "completion_date": "2014-07",
+  "last_updated": "2021-02-25"
+}

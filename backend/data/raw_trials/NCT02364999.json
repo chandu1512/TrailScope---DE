@@ -1,0 +1,108 @@
+{
+  "nct_id": "NCT02364999",
+  "brief_title": "A Comparative Study Of PF-06439535 Plus Paclitaxel-Carboplatin And Bevacizumab Plus Paclitaxel-Carboplatin Patients With Advanced Non-Squamous NSCLC",
+  "official_title": "A PHASE 3 RANDOMIZED, DOUBLE-BLIND STUDY OF PF- 06439535 PLUS PACLITAXEL-CARBOPLATIN AND BEVACIZUMAB PLUS PACLITAXEL -CARBOPLATIN FOR THE FIRST-LINE TREATMENT OF PATIENTS WITH ADVANCED NON-SQUAMOUS NON-SMALL CELL LUNG CANCER.",
+  "brief_summary": "This is a multinational, double-blind, randomized, parallel-group Phase 3 clinical trial evaluating the efficacy and safety of bevacizumab-Pfizer plus paclitaxel and carboplatin versus bevacizumab-EU plus paclitaxel and carboplatin in first-line treatment for patients with advanced (unresectable, locally advanced, recurrent or metastatic) non-squamous NSCLC.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 719,
+  "conditions": [
+    "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Bevacizumab-Pfizer",
+      "type": "DRUG",
+      "description": "Bevacizumab-Pfizer: 15 mg/kg IV on Day 1 of a 21-day cycle for each of at least 4 and no more than six (6) 21-day cycles, followed by the assigned blinded bevacizumab monotherapy."
+    },
+    {
+      "name": "Bevacizumab-EU",
+      "type": "DRUG",
+      "description": "bevacizumab-EU: 15 mg/kg IV on Day 1 of a 21-day cycle for each of at least 4 and no more than six (6) 21-day cycles followed by the assigned blinded bevacizumab monotherapy."
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Paclitaxel 200 mg/m2 via IV infusions on Day 1 of a 21-day cycle for each of at least 4 and no more than six (6) 21-day cycles."
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "carboplatin AUC =6.0 via IV infusions on Day 1 of a 21-day cyclefor each of at least 4 and no more than six (6) 21-day cycles."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male and female patients age at least 18 years of age, or age of consent in the region.\n* Newly diagnosed Stage IIIB or IV non-small cell lung cancer (according to Revised International System for Staging Lung Cancer criteria of 2010) or recurrent non-small cell lung cancer (NSCLC).\n* Histologically or cytologically confirmed diagnosis of predominately non-squamous NSCLC.\n* Be eligible to receive study treatment of bevacizumab, paclitaxel, and carboplatin based on local standard of care, for the treatment of advanced or metastatic non-squamous NSCLC.\n\nExclusion Criteria:\n\n* Small cell lung cancer (SCLC) or combination SCLC and NSCLC. Squamous-cell tumors and mixed adenosquamous carcinomas of predominantly squamous nature.\n* Evidence of a tumor that compresses or invades major blood vessels or tumor cavitation that is likely to bleed.\n* Known sensitizing EGFR mutations (for example, deletion 19 or L858R) or EML4-ALK translocation positive mutations.\n* Prior systemic therapy for NSCLC; prior neoadjuvant or adjuvant therapy is allowed if surgical resection for primary disease was performed.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Meritus Center for Clinical Research",
+      "city": "Hagerstown",
+      "state": "Maryland",
+      "zip": "21742",
+      "status": ""
+    },
+    {
+      "facility": "Holy Cross Hospital Resource Center",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20902",
+      "status": ""
+    },
+    {
+      "facility": "Maryland Oncology & Hematology, PA",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20904",
+      "status": ""
+    },
+    {
+      "facility": "Holy Cross Hospital, Hospital Pharmacy",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20910",
+      "status": ""
+    },
+    {
+      "facility": "Holy Cross Hospital",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20910",
+      "status": ""
+    },
+    {
+      "facility": "Maryland Oncology & Hematology, PA",
+      "city": "Wheaton",
+      "state": "Maryland",
+      "zip": "20902",
+      "status": ""
+    },
+    {
+      "facility": "St. Joseph's Regional Medical Center",
+      "city": "Paterson",
+      "state": "New Jersey",
+      "zip": "07503",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR) by Week 19",
+      "timeFrame": "25 weeks",
+      "description": "ORR refers to percentage of participants who achieved complete response (CR) or partial response (PR) by Week 19 of the study in accordance with Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1 which was subsequently confirmed by Week 25. A participant achieved CR if both target and non-target lesions achieved CR, no new lesions; achieved PR if target lesions achieved CR or PR, non-target lesions were assessed as non-CR/non-PD (progressive disease), indeterminate or missing, and no new lesions. For target lesions, CR: complete disappearance of all target lesions except nodal disease (target nodes must decrease to normal size); PR: \\>= 30% decrease under baseline of the sum of diameters of all target measurable lesions. For non-target lesions, CR: disappearance of all non-target lesions and normalization of tumor marker levels and all lymph nodes must be normal in size; non-CR/non-PD: persistence of any non-target lesions and/or tumor marker level above the normal limits."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2015-04",
+  "completion_date": "2017-12",
+  "last_updated": "2019-01-18"
+}

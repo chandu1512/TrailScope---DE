@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT00045565",
+  "brief_title": "Arsenic Trioxide Plus Radiation Therapy in Treating Patients With Newly Diagnosed Malignant Glioma",
+  "official_title": "Phase I Study of Combined Radiotherapy and Arsenic Trioxide for the Treatment of Newly Diagnosed Malignant Glioma",
+  "brief_summary": "This phase I trial is studying the side effects and best dose of arsenic trioxide and radiation therapy in treating patients with newly diagnosed malignant glioma. Drugs such as arsenic trioxide may stop the growth of malignant glioma by stopping blood flow to the tumor. Radiation therapy uses high-energy x-rays to damage tumor cells. Combining arsenic trioxide with radiation therapy may kill more tumor cells.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine the maximum tolerated dose (MTD) of Arsenic Trioxide (ATO) when administered on a once a week schedule and a twice a week schedule in conjunction with radiation therapy to patients with newly diagnosed glioblastoma multiforme.\n\nII. To determine the toxicity of ATO when it is administered on a once a week schedule and a twice a week schedule in conjunction with radiation therapy in patients with newly diagnosed glioblastoma multiforme.\n\nSECONDARY OBJECTIVES:\n\nI. To determine the survival of patients with newly diagnosed glioblastoma multiforme receiving ATO when it is administered on a once a week schedule and a twice a week schedule in conjunction with radiation therapy.\n\nII. To evaluate the effect of ATO on tumor vasculature by using perfusion MRI. III. To describe the pharmacokinetics of ATO following weekly and twice weekly injection.\n\nOUTLINE: This is a nonrandomized, open-label, multicenter, dose-escalation study of arsenic trioxide. Patients are assigned to 1 of 2 treatment groups.\n\nGroup A: Patients receive arsenic trioxide IV over 2 hours once weekly for 6 weeks.\n\nGroup B: Patients receive arsenic trioxide at a lower dose IV over 2 hours twice weekly for 6 weeks.\n\nPatients in both groups also undergo radiotherapy once daily 5 days a week for 6 weeks.\n\nIn both groups, cohorts of 3-6 patients receive escalating doses of arsenic trioxide until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which at least 2 of 3 or 3 of 6 patients experience dose-limiting toxicity.\n\nPatients are followed weekly for 4 weeks and then every 2 months thereafter.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 30,
+  "conditions": [
+    "Adult Giant Cell Glioblastoma",
+    "Adult Glioblastoma",
+    "Adult Gliosarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "arsenic trioxide",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "radiation therapy",
+      "type": "RADIATION",
+      "description": "Undergo radiation therapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have histologically confirmed supratentorial grade IV astrocytoma (glioblastoma multiforme)\n* Patients must not have received prior radiation therapy, chemotherapy, immunotherapy or therapy with biologic agents (including immunotoxins, immunoconjugates, antisense, peptide receptor antagonists, interferons, interleukins, TIL, LAK or gene therapy), or hormonal therapy for their brain tumor; glucocorticoid therapy is allowed\n* Patients must have recovered from the immediate post-operative period and be maintained on a stable corticosteroid regimen (no increase for 5 days) prior to the start of treatment\n* Absolute neutrophil count 1500/mm\\^3\n* Platelets 100,000/mm\\^3\n* Creatinine =\\< 1.5 mg/dL\n* Total bilirubin \\< 2 mg/dl\n* Transaminases \\< 4 times above the upper limits of the institutional normal\n* Serum potassium \\> 3.0 and \\< 5.5mEq/l\n* Magnesium \\> 1.2 and \\< 2.5 mEq/l\n* Patients must give informed consent and understand the investigational nature of this study and its potential risks and benefits\n* Patients must not be pregnant or breast-feeding; all patients with the potential for pregnancy should be counseled and requested to follow acceptable birth control methods to avoid conception; patients who are pregnant or breast-feeding will be excluded because no information on this agent exists with regard to safety for a fetus or breast-feeding infant\n* Patients must have a Karnofsky performance status of \\>= 60%\n* No other serious concurrent infection or other medical illness should be present which would jeopardize the ability of the patient to receive the therapy outlined in this protocol with reasonable safety\n* Patients must have a mini mental score \\>= 15\n\nExclusion Criteria:\n\n* Patients with a prior malignancy; patients with curatively treated carcinoma in situ or basal cell carcinoma of the skin or patients who have been free of disease for \\>= five years are eligible for this study\n* Patients who are pregnant or breast-feeding; these patients are excluded because no information on this agent exists with regard to safety for a fetus or breast-feeding infant\n* Prior therapy (surgery excluded) for the brain tumor\n* Patients with second-degree heart block\n* Patients who are being treated with Amphotericin B\n* Patients who cannot undergo MRI are not eligible for this study\n* Patients who are currently taking drugs that are known to prolong the QT interval; in order to be eligible patients will need to be off these drugs for \\>= 5 days prior to starting treatment; patients may not resume these drugs for \\> 2 weeks after last ATO treatment; if QT prolongation continues after 5 days post drug discontinuation, the patient is not eligible for ATO treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "New Approaches to Brain Tumor Therapy Consortium",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-1000",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum tolerated dose of ATO in conjunction with radiotherapy and optimum ATO dose for radiosensitization determined by dose-limiting toxicities",
+      "timeFrame": "6 weeks",
+      "description": "Results of the safety evaluation will be tabulated and displayed by dose level."
+    },
+    {
+      "measure": "Proportion of patients with serious or life-threatening toxicities using the grading scale of Adverse Events Criteria",
+      "timeFrame": "Up to 6 years",
+      "description": "Results of the safety evaluation will be tabulated and displayed by dose level. The will be estimated along with 95% confidence intervals."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2002-10",
+  "completion_date": "",
+  "last_updated": "2013-04-08"
+}

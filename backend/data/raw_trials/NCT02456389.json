@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT02456389",
+  "brief_title": "Perioperative Risk Study",
+  "official_title": "A Randomized Controlled Trial of Perioperative Risk Stratification and Risk-based, Protocol-driven Management in Patients Undergoing Elective Major Cancer Surgery",
+  "brief_summary": "The primary objective of this trial is to determine if perioperative risk stratification and risk-based, protocol-driven management leads to a reduction in the rate of death or serious complications compared to standard perioperative management in patients undergoing elective major cancer surgery.",
+  "detailed_description": "Major cancer surgery is associated with significant rates of postoperative mortality and major morbidity. Postoperative morbidity adversely impacts healthcare utilization, healthcare costs, rates of discharge to home, quality of life, rates of receipt of postoperative anti-neoplastic therapy, disease-free survival, and overall survival. The investigators hypothesize that perioperative risk stratification and risk-based, protocol-driven management (compared to standard perioperative management) will lead to a reduction in 30-day post-operative mortality or major morbidity in patients undergoing major cancer surgery. This is based on our theory that preoperative/postoperative use of newly developed, perioperative risk-prediction tools will help identify patients at increased risk of postoperative death or serious complications that might benefit from risk-based, protocol-driven perioperative management, including escalating levels of care, escalating levels of monitoring, and escalating levels of hospitalist co-management. The set of assessments and interventions in the proposed study are conceptually similar to other \"bundled\" interventions which have recently been recently tested and demonstrated to reduce perioperative mortality and morbidity.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1456,
+  "conditions": [
+    "Tumors",
+    "Primary Neoplasm",
+    "Secondary Neoplasm",
+    "Surgery"
+  ],
+  "interventions": [
+    {
+      "name": "Preoperative risk stratification",
+      "type": "OTHER",
+      "description": "Preoperative risk-prediction tool based on patient demographics/co-morbidity and planned procedure"
+    },
+    {
+      "name": "Postoperative risk stratification",
+      "type": "OTHER",
+      "description": "Postoperative risk-prediction tool based on intraoperative variables"
+    },
+    {
+      "name": "Risk-based, escalating levels of care",
+      "type": "OTHER",
+      "description": "Postoperative observation in regular unit vs. telemetry unit vs. stepdown unit vs. ICU"
+    },
+    {
+      "name": "Risk-based, escalating levels of monitoring",
+      "type": "OTHER",
+      "description": "Varying frequencies of vital signs monitoring Varying use of telemetry, pulse oximetry, and early warning system"
+    },
+    {
+      "name": "Risk-based, escalating levels of co-management",
+      "type": "OTHER",
+      "description": "Varying use of Hospitalist co-management"
+    },
+    {
+      "name": "Standard postoperative care",
+      "type": "OTHER",
+      "description": "Routine postoperative care, as medically indicated"
+    }
+  ],
+  "eligibility": {
+    "criteria": "INCLUSION CRITERIA:\n\n1. Age \\> or = 18 years at diagnosis.\n2. Eastern Cooperative Oncology Group (ECOG) performance status 0, 1, 2, or 3.\n3. Probable (i.e., clinically suspicious) or histologically/cytologically confirmed, primary or recurrent, malignant neoplasm, malignant neuroendocrine tumor, or carcinoma in situ (any stage).\n4. Scheduled for curative or palliative major cancer surgery, including:\n\n   * Glossectomy\n   * Pharyngectomy\n   * Laryngectomy\n   * Neck dissection\n   * Esophagectomy\n   * Lung resection\n   * Gastrectomy\n   * Pancreatectomy\n   * Hepatectomy\n   * Colectomy\n   * Proctectomy\n   * Hysterectomy/Myomectomy\n   * Gynecologic reconstruction\n   * Prostatectomy\n   * Nephrectomy\n   * Cystectomy\n   * Breast reconstruction\n   * Flap reconstruction\n5. Scheduled for elective major cancer surgery at Fox Chase Cancer Center within 30 days after First Registration.\n6. Ability to understand and willingness to sign a written informed consent and Health Insurance Portability and Accountability Act (HIPAA) consent document\n7. Geographical accessibility and willingness to return to Fox Chase Cancer Center for all preoperative and postoperative study assessments.\n\nEXCLUSION CRITERIA:\n\n1. Clinical or tissue diagnosis of benign neuroendocrine tumor, benign neoplasm, neoplasm of uncertain behavior, or neoplasm of unspecified nature.\n2. Use of systemic chemotherapy and/or radiation therapy \\< 14 days prior to First Registration. Palliative radiation therapy is permitted for irradiating small areas of painful bony metastases that cannot be managed adequately using systemic or local analgesics\n3. Any condition that might interfere with the subject's participation in the study, compliance with study requirements, or in the evaluation of the study results.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Rate of death or serious complications (as defined by American College of Surgeons National Surgical Quality Improvement Program [ACS NSQIP])",
+      "timeFrame": "30-day postoperative period",
+      "description": ""
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [],
+  "start_date": "2014-08",
+  "completion_date": "2025-06",
+  "last_updated": "2025-04-03"
+}

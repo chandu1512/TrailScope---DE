@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT06638554",
+  "brief_title": "Integrating Telehealth to Advance Lung Cancer Screening",
+  "official_title": "Integrating Telehealth to Advance Lung Cancer Screening",
+  "brief_summary": "The goal of this pragmatic trial is to learn if telehealth strategies can increase shared decision-making (SDM) for lung cancer screening (LCS). It will also learn about the equity of these strategies by conducting non-inferiority analysis by race and sex. The main questions it aims to answer are:\n\n1. Does patient outreach using synchronous and asynchronous telehealth strategies increase completion of SDM visits for LCS?\n2. Is the effectiveness of these telehealth strategies similar by race and sex?\n\nThe study uses a Sequential Multiple Assignment Randomized Trial (SMART) design and includes two stages of interventions. The first stage of intervention includes direct patient outreach with an invitation to schedule either a 1) telehealth SDM visit or 2) telehealth or in-person SDM visit. Participants that do not respond to the first stage interventions receive a text message reminder encouraging SDM visit completion with or without digital care coordination.",
+  "detailed_description": "Annual lung cancer screening using low-dose computed tomography (LDCT) is associated with decreased lung cancer mortality but also with harms. As such, it is recommended, and required for reimbursement, that patients complete an shared decision-making visit (SDM) prior to screening to discuss potential risks and benefits in the context of patient values. Despite guidelines recommending screening and national insurance coverage of LDCT, uptake of SDM visits and subsequent LDCT is remarkably low. We aim to address these gaps by comparing the effectiveness of synchronous and asynchronous telehealth strategies on SDM visits and subsequent LDCT in a pragmatic trial using a Sequential Multiple Assignment Randomized Trial (SMART) design. The specific first stage strategies to be tested are: a) Active Choice Outreach (invitation to schedule a telehealth or in-person SDM visit) vs b) Telehealth Only Outreach (invitation to schedule a telehealth SDM visit). The specific second stage strategies (delivered only if participants do not respond to first stage interventions) are a) text message reminders encouraging SDM visit completion (low-touch) alone or b) in combination with phone-based digital care coordination (high-touch). We will also assess non-inferiority of strategies by race and sex to assess equity of effectiveness.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 6000,
+  "conditions": [
+    "Early Detection of Cancer",
+    "Telemedicine",
+    "Decision Making"
+  ],
+  "interventions": [
+    {
+      "name": "Active Choice",
+      "type": "BEHAVIORAL",
+      "description": "The participant will be send a letter inviting them to complete a SDM visit either in-person or via telehealth."
+    },
+    {
+      "name": "Telehealth Only",
+      "type": "BEHAVIORAL",
+      "description": "The participant will be send a letter inviting them to complete a SDM visit via telehealth only."
+    },
+    {
+      "name": "Low Touch Strategy",
+      "type": "BEHAVIORAL",
+      "description": "Patient will be sent asynchronous text messaging reminders encouraging SDM for LCS using framed messaging."
+    },
+    {
+      "name": "High Touch Strategy",
+      "type": "BEHAVIORAL",
+      "description": "Patient will be sent asynchronous text messaging reminders encouraging SDM for LCS using framed messaging in combination with synchronous telephone-based digital care coordination."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria:\n\nParticipants will be eligible if:\n\n1. are aged 50 to 80\n2. have a history of tobacco use indicated by either: Documented 20 pack-year or greater smoking history in their electronic health record (EHR); OR Self-report via structured survey\n3. currently smoke or formerly smoked cigarettes\n4. have no documented history of lung cancer\n5. have no documented history of lung cancer screening in the 24 months prior to study enrollment\n6. have completed at least one primary care visit at Penn Medicine in the 3 years prior to study enrollment.\n\nExclusion criteria:\n\nParticipants who do not meet inclusion criteria will not be eligible.",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Shared decision making (SDM) for lung cancer screening (LCS)",
+      "timeFrame": "90 days after randomization",
+      "description": "Completion of an SDM visit (in person or telehealth) defined as any completed encounter that has documented SDM for LCS as indicated by 1) procedure code (G0296 or equivalent), or documentation of SDM conversation related to LCS in associated progress notes."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "National Institutes of Health (NIH)",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2024-07-09",
+  "completion_date": "2027-01-31",
+  "last_updated": "2025-11-10"
+}

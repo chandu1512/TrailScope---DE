@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT06888921",
+  "brief_title": "A Clinical Trial to Evaluate the Safety and Efficacy of COM701 in Relapsed Platinum Sensitive Ovarian Cancer",
+  "official_title": "An Adaptive Clinical Platform Trial to Evaluate the Safety and Efficacy of COM701 as Monotherapy or Combination Therapy as Maintenance Therapy in Participants With Relapsed Platinum Sensitive Ovarian Cancer (PSOC)",
+  "brief_summary": "The goal of this clinical trial is to learn if the experimental antibody COM701 delays the progression of ovarian cancer in participants with Relapsed Platinum Sensitive Ovarian Cancer. It will also learn about the safety of COM701.\n\nThe main questions the trial aims to answer are:\n\n* Does COM701, when used as a maintenance treatment, stop or slow the progression of ovarian cancer?\n* Does COM701 delay the time to needing a new anti-cancer treatment?\n* What side effects do participants have when taking COM701?\n\nParticipants will:\n\n* Visit the clinic once every 3 weeks during which the study treatment will be administered intravenously\n* Undergo various tests and procedures to monitor general health throughout the trial including physical examinations, vital sign measurements (heart rate, blood pressure, breathing, and body temperature), weight measurements, electrocardiography (ECG), blood and urine tests and pregnancy tests if relevant.\n* Undergo various tests and procedures to assess disease response throughout the trial including tumor imaging by CT scans or MRI to assess the tumor, its location, and size, and the testing of a sample of tumor tissue (from a prior biopsy or a fresh biopsy if feasible, to evaluate tumor response to treatment and to measure levels of tumor markers,",
+  "detailed_description": "Trial CPG-01-201 is an adaptive-platform trial comprised of multiple sub-studies.\n\nSub-study 1 will be a parallel group, double-blind, randomized placebo-controlled trial in which participants will be randomized in a 1:2 ratio to either placebo (a look-alike substance that contains no drug) or COM701 treatment arms. This means that there is a 33% chance of being placed in the group getting placebo and a 67% chance of being placed in the group that will get the experimental COM701 antibody.\n\nSubsequent sub-studies will evaluate COM701 in combination with other anti-cancer drugs.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "Ovarian Cancer",
+    "Ovarian Cancer Recurrent"
+  ],
+  "interventions": [
+    {
+      "name": "COM701",
+      "type": "DRUG",
+      "description": "COM701 will be administered via intravenous (IV) infusion once every 3 weeks."
+    },
+    {
+      "name": "Normal Saline",
+      "type": "DRUG",
+      "description": "Saline will be administered via intravenous (IV) infusion once every 3 weeks"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Has relapsed platinum sensitive epithelial ovarian cancer, fallopian tube cancer or primary peritoneal cancer\n* Has completed at least 2 previous courses (i.e. lines) of platinum-containing therapy\n* For the last chemotherapy course prior to being randomized into the study, must have had a minimum of 4 cycles of a platinum containing regimen and achieved a partial or complete tumor response.\n* Has received prior maintenance therapy with bevacizumab or a PARP inhibitor if eligible and is not a candidate for, or has declined in writing, bevacizumab or PARP inhibitor therapy.\n* Have recovered from toxicities of prior chemotherapy or other therapy (to grade 1 or less, except for alopecia and neuropathy recovered to a \u2264grade 2).\n\nExclusion Criteria:\n\n* Has had 4 or more lines of cytotoxic chemotherapy in total\n* Is being treated with immunosuppressive doses of systemic medications, such as steroids within 2 weeks before study drug administration\n* Has had prior treatment with PD-1, PD-L1, anti-PVRIG, TIGIT or any other check point inhibitors\n* Presence of radiographic or biopsy proven liver metastases at the beginning or completion of current line of platinum-based chemotherapy.\n* Drainage of ascites during last 2 cycles of last chemotherapy or any time after completion of the last chemotherapy regimen.\n* Bowel obstruction in the 6 weeks prior to randomization.\n* Have known active central nervous system metastases and/or carcinomatous meningitis / leptomeningeal carcinomatosis.\n* Has active hepatitis B virus (HBV) or hepatitis C virus (HCV), or subjects with human immunodeficiency virus (HIV).\n* Has active and clinically relevant bacterial, fungal, or viral infection that is not controlled or requires systemic antibiotics, antifungals, or antivirals, respectively.\n* Has received a live viral vaccine within 30 days of planned start of study treatment or requiring a live vaccine during the study.\n* Has a history of severe allergic, anaphylactic, or other hypersensitivity reactions to a human or humanized monoclonal antibody (mAb) or allergy to any excipients in the investigational products.\n* Has any serious or unstable concomitant systemic disorder\n* Has any other condition that may increase the risk associated with study participation or may interfere with the interpretation of study results and, in the opinion of the investigator, would make the subject inappropriate for entry into the study.\n* Is currently participating in or have participated in a clinical study and received an investigational agent or used an investigational device within 4 weeks prior to the first dose of study treatment.\n* Is pregnant or breastfeeding or planning to become pregnant during the period of the study.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Magee- Womens Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To evaluate the effect of COM701 as a single agent on progression free survival when administered as a maintenance regimen in participants with relapsed PSOC",
+      "timeFrame": "From the date of randomization until the date of disease progression, or date of death from any cause whichever occurs first, assessed up to 2 years",
+      "description": "Progression free survival in COM701-treated participants compared to placebo-treated participants"
+    }
+  ],
+  "sponsor": "Compugen Ltd",
+  "collaborators": [],
+  "start_date": "2025-07-21",
+  "completion_date": "2027-03",
+  "last_updated": "2026-02-26"
+}

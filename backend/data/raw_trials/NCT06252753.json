@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT06252753",
+  "brief_title": "Observational Study Protocol: LIVER-R",
+  "official_title": "An Observational Multi Center Study to Evaluate Real World Treatment Outcomes of Durvalumab Based Regimens in Hepatobiliary Cancers",
+  "brief_summary": "Given the number of anticipated durvalumab-based treatment launches in the hepatobiliary cancer space over the next 3 years, there is a need to capture contemporary real-world data across these indications. LIVER-R is a multicountry, multicenter, observational study of patients with a confirmed diagnosis of hepatobiliary cancer treated with a durvalumab-based regimen as part of routine clinical practice or early access program (EAP). The study design will include primary and secondary data collection. The primary objective of this study is to evaluate the effectiveness of durvalumab-based regimens in real-world settings as measured by real-world overall survival. Other endpoints include demographics, clinical characteristics, clinically significant events of interest, treatment patterns, concomitant medications, and other real-world clinical endpoints (such as duration of treatment, progression-free survival, time to treatment progression, time to next treatment, recurrence-free survival, and time to treatment recurrence).",
+  "detailed_description": "LIVER-R is a real-world, multi-country, multi-centre study aiming to enroll approximately 2500 pts with unresectable hepatocellular carcinoma (uHCC; n=1135) or advanced biliary tract cancers (aBTCs; n=1355) across 22 countries from North and South America, Europe, the Middle East and the Asia-Pacific region. The study design will include primary and secondary data collection. Primary data will be collected in real-time during the patient's routine visit. Secondary data will be collected from the patient's medical record at enrollment and at prespecified study time points (6-month intervals). The study population includes adult patients whose physician has previously made the decision to treat them with a durvalumab-based regimen for hepatobiliary cancer as part of routine clinical practice or patients receiving treatment through EAP. The study will include a baseline period of up to 5 years before the index date (initiation of a Durvalumab-based regimen) and a follow-up period to the earliest of death, loss to follow-up, withdrawal, or end of study for a maximum follow-up of 2 years for patients with aBTCs or 3 years for patients with uHCC. This is a descriptive, noncomparative study. No formal hypotheses are to be tested. All descriptive analyses will be conducted separately for each primary hepatobiliary cancer indication. Kaplan Meier estimates will be produced for time-to-event outcomes.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 4490,
+  "conditions": [
+    "Hepatobiliary Cancers"
+  ],
+  "interventions": [
+    {
+      "name": "Durvalumab-based combination therapies in observational study setting",
+      "type": "OTHER",
+      "description": "Data on patients who initiated durvalumab-based regimens, including STRIDE (Single Tremelimumab Regular Interval Durvalumab), will be collected)."
+    },
+    {
+      "name": "Durvalumab-based combination therapies in observational study setting",
+      "type": "OTHER",
+      "description": "Data on patients who initiated durvalumab-based regimens, including durvalumab + chemotherapy combinations (e.g., Durvalumab + GemCis etc.) will be collected."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age \u226518 years and a lawful adult in the country at the index date\n2. Confirmed presence of malignancy of primary hepatobiliary cancer (i.e., uHCC or aBTC) by the treating physician\n3. Type of hepatobiliary cancer indication is approved to be treated (i.e., positive phase 3 clinical trial read out for HIMALAYA or TOPAZ 1) with a durvalumab based regimen in the respective country or was administered as part of an EAP\n4. Informed consent was obtained as per country level regulations on or after the index date\n\nExclusion Criteria:\n\n1. Currently/was participating or plans to participate in any clinical trial for investigational treatment for hepatobiliary cancers on or after the diagnosis date until the index date\n2. Received other systemic therapies for hepatobiliary cancer indication on or after diagnosis date through the index date (e.g., uHCC or aBTC patient who received a systemic treatment for unresectable HCC or advanced BTC, respectively, prior to initiating durvalumab based regimen)\n3. Received a liver transplant during the baseline period",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19141",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Real-world overall survival (rwOS)",
+      "timeFrame": "rwOS will be assessed as OS rates at 6, 12, 24 months (both aBTC and uHCC), and 36 months (uHCC), median OS for a maximum follow-up of 2 and 3 years for aBTC and uHCC, respectively.",
+      "description": "rwOS will be calculated as the time from the index date to date of death, by any cause."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [
+    "ICON plc"
+  ],
+  "start_date": "2023-03-16",
+  "completion_date": "2030-12-30",
+  "last_updated": "2025-12-19"
+}

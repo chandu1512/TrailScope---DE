@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT02670525",
+  "brief_title": "Matched Targeted Therapy For High-Risk Leukemias and Myelodysplastic Syndrome",
+  "official_title": "Matched Targeted Therapy (MTT) Recommendation for Patients With Recurrent, Refractory, or High Risk Leukemias and Myelodysplastic Syndrome",
+  "brief_summary": "This research study is seeking to gain new knowledge about Recurrent, Refractory, or High Risk Leukemias in children and young adults.\n\nThis study is evaluating the use of specialized testing called leukemia profiling. Once the profiling is performed, the results are evaluated by an expert panel of physicians, scientists and pharmacists. This may result in a recommendation for a specific cancer therapy or a clinical trial called matched targeted therapy (MTT). The results of the leukemia profiling and, if applicable, the MTT recommendation will be communicated to the participant's primary oncologist.",
+  "detailed_description": "Our tissues and organs are made up of cells. Cancer occurs when the molecules that normally control cell growth are damaged. The damage results in unchecked cell growth which causes a tumor, a collection of cancer cells. The damage is referred to as an alteration. There are different types of cancer-causing alterations. Genes are the part of cells that contain the instructions which tell our cells how to make the right proteins to grow and work. Genes are composed of Deoxyribonucleic Acid (DNA) letters that spell out these instructions.\n\nBy participating in this study, the participant's leukemia cells will be tested for cancer causing alterations. This testing is called leukemia profiling. The leukemia profiling will be performed using bone marrow or blood that has already been obtained during a clinical test. Alternately, the profiling may be done on leukemia cells that are planned to be obtained as part of routine clinical care.\n\nThis study will determine whether it is possible to use profiling results to determine a matched targeted therapy for patients with leukemia. It will describe the range of mutations found in patients with leukemia with this type of profiling, and describe the clinical outcomes of patients who receive a matched targeted therapy.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 338,
+  "conditions": [
+    "Recurrent, Refractory, or High Risk Leukemias",
+    "Matched Targeted Therapy"
+  ],
+  "interventions": [
+    {
+      "name": "Leukemia Profiling",
+      "type": "GENETIC",
+      "description": "Genetic profiling of leukemia cells will be performed and analyzed by an expert panel. Matched targeted therapy recommendation based on profiling results will be made if available. The recommendation, if available, will be communicated to the primary oncologist."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Birth to \u2264 30 years at study entry\n* Diagnosis: Patients will be enrolled in one of the two cohorts based on diagnosis:\n\nCohort 1: Relapsed/refractory leukemia\n\n* Acute lymphoblastic leukemia (ALL), first or greater relapse\n* Acute myeloid leukemia (AML), first or greater relapse\n* Leukemia refractory to induction chemotherapy\n* Other recurrent leukemia\n* Myelodysplastic syndrome (MDS), first or greater relapse, or refractory to initial therapy\n\nCohort 2: New diagnosis\n\n* Acute myeloid leukemia (AML), new diagnosis\n* New diagnosis infant mixed-lineage leukemia (MLL)-rearranged ALL or low hypodiploid (\\<40 chromosomes) ALL\n* Rare leukemia- e.g., juvenile myelomonocytic leukemia (JMML), leukemia of ambiguous lineage\n* Secondary leukemia\n* Myelodysplastic syndrome (MDS) not eligible for stem cell transplant\n\nPathologic Criteria\n\n* Histologic confirmation of leukemia at the time of diagnosis or recurrence\n\nSpecimen Samples\n\n* Sufficient leukemia specimen available for profiling from diagnosis or recurrence OR bone marrow aspirate/blood draw/pheresis/other fresh sample of patient leukemia cells planned for clinical care anticipated to allow collection of minimum specimen for testing.\n\nExclusion Criteria:\n\n* Insufficient leukemia specimen available for profiling from diagnosis or recurrence; or bone marrow evaluation/blood draw/other leukemia cell sample NOT planned to be obtained for clinical care; or peripheral blast percentage \\<20% AND clinical blood draw not planned.",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "30 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19404",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Rate of Patients With Actionable Alterations",
+      "timeFrame": "Actionable alteration was identified based on a combination of fluorescence in situ hybridization (FISH)/cytogenetics and sequencing. Average time to full results was 2 weeks.",
+      "description": "An actionable alteration was defined as a cancer-associated genomic event for which there was a targeted drug available. Actionable genetic alterations were identified by a combination of standard-of-care cytogenetics/fluorescence in situ hybridization (FISH) and sequencing performed as part of the study. This study is considered feasible if at least 13% of participants analyzed have profile data and identifiable actionable alterations. A 90% exact binomial confidence interval is presented for the rate of patients with actionable alterations to compare the observed rate against 13%."
+    }
+  ],
+  "sponsor": "Dana-Farber Cancer Institute",
+  "collaborators": [],
+  "start_date": "2016-08-17",
+  "completion_date": "2028-01-31",
+  "last_updated": "2025-12-17"
+}

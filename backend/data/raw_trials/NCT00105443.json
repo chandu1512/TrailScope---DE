@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT00105443",
+  "brief_title": "A Phase III Study of Sorafenib in Patients With Advanced Hepatocellular Carcinoma",
+  "official_title": "A Phase III Randomized, Placebo-controlled Study of Sorafenib in Patients With Advanced Hepatocellular Carcinoma",
+  "brief_summary": "The purpose of the study is: Find out if patients receiving sorafenib will live longer. Find out if sorafenib has any effect on patient reported outcomes. Find out if sorafenib prevents the growth of or shrinks liver tumors and/or their metastases. Determine the pharmacokinetics (PK) in patients with liver cancer.",
+  "detailed_description": "The following abbreviations were used in the Adverse Event section:\n\n* international normalized ratio (inr)\n* Common Terminology Criteria for Adverse Events (ctcae)\n* Not Otherwise Specified (nos)\n* Gastrointestinal (gi)\n* Central nervous system (cns)\n* Absolute Neutrophil Count (anc)\n* Alanine aminotransferase (ALT)\n* Aspartate aminotransferase (AST)\n* Creatine phosphokinase (cpk)\n* Gammaglutamyltransferase (ggt)\n* Genitourinary (gu)\n* Atrioventricular (av)",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 602,
+  "conditions": [
+    "Carcinoma, Hepatocellular"
+  ],
+  "interventions": [
+    {
+      "name": "Sorafenib (Nexavar, BAY43-9006)",
+      "type": "DRUG",
+      "description": "Sorafenib 400 mg was administered orally at a dose of 400 mg (2 x 200 mg tablets) twice daily (bid); 2 dose reductions to predefined levels of 400 mg once daily (OD) and 400 mg every other day were permitted for adverse events related to study treatment."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Sorafenib-matching placebo tablets were orally administered twice daily (bid)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Ages eligible for study: 18 years and above, Genders eligible for study: both\n* Patients who have a life expectancy of at least 12 weeks\n* Patients with histologically or cytologically documented Hepatocellular Carcinoma (HCC)\n* Patients must have at least one tumor lesion that meets both of the following criteria: (1) Accurately measured in at least one dimension according to RECIST (Response Evaluation Criteria in Solid Tumors) (2) Not previously treated with local therapy\n* Patients who have an ECOG (Eastern Cooperative Oncology Group) PS (Performance Status) of 0, 1, or 2\n\nExclusion Criteria:\n\n* Previous or concurrent cancer that is distinct in primary site or histology from HCC, EXCEPT cervical carcinoma in situ, treated basal cell carcinoma, superficial bladder tumors (Ta \\[Noninvasive papillary carcinoma\\], Tis \\[Carcinoma in situ: \"flat tumor\"\\] \\& T1 \\[Tumor invades subepithelial connective tissue\\]). Any cancer curatively treated \\> 3 years prior to entry is permitted\n* Renal failure requiring hemo- or peritoneal dialysis\n* History of cardiac disease\n* Active clinically serious infections\n* Known history of human immunodeficiency virus (HIV) infection\n* Known central nervous system tumors including metastatic brain disease\n* Patients with clinically significant gastrointestinal bleeding within 30 days prior to study entry",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19140",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "from randomization to death due to any cause until an average 7.2 months later up to the data cut-off date approximately 19 months after start of enrollment",
+      "description": "Overall Survival was defined as the time from date of starting treatment to death due to any cause. Subjects still alive at the time of analysis were censored at their last date of last contact."
+    },
+    {
+      "measure": "Time to Symptomatic Progression (TTSP)",
+      "timeFrame": "from randomization to the first documented symptomatic progression until an average 4.8 months later up to the data cut-off date approximately 19 months after start of enrollment",
+      "description": "TTSP was defined as the time from randomization to the first documented symptomatic progression."
+    }
+  ],
+  "sponsor": "Bayer",
+  "collaborators": [],
+  "start_date": "2005-03",
+  "completion_date": "2008-11",
+  "last_updated": "2014-10-24"
+}

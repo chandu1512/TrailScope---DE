@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT02153151",
+  "brief_title": "Measuring Biomarker Response to AMP-514 in Blood Samples From Patients With Solid Tumors Undergoing Radiotherapy",
+  "official_title": "A Pilot Study to Evaluate the In-vitro Effect of AMP-514, a PD-1 Inhibitor, on Peripheral Blood T Cell Proliferation and Cytokine Production From Patients With Solid Malignancies Treated With Radiotherapy (RT)",
+  "brief_summary": "This pilot research trial studies the response in blood cells to AMP-514, a drug shown to increase immune response (capacity to fight against infections and cancer) against cancer in patients with solid tumors undergoing radiotherapy. Measuring changes in biomarkers may help doctors decide if AMP-514 should be combined with radiotherapy and when is the best time to combine the drug with radiation.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To evaluate the in-vitro effect of AMP-514, a programmed cell death 1 (PD-1) inhibitor, on peripheral blood T cell proliferation and cytokine production from patients with solid malignancies, treated with radiotherapy (RT).\n\nOUTLINE:\n\nPatients undergo blood sample collection at baseline, during the second week of RT, at the end of RT, and at 1 month after the end of RT.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 21,
+  "conditions": [
+    "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "interventions": [
+    {
+      "name": "Cytology specimen",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "Laboratory biomarker analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients 18 years of age or older\n2. Histological diagnosis of any solid malignancies and candidates to be treated with RT (with or without chemotherapy). Patients who have synchronous primary solid malignancies are eligible. When the risks associated with the diagnostic procedure are very high, due to different clinical reasons (e.g., severe chronic obstructive lung disease \\[COPD\\] when a CT-guided biopsy is associated with a very high risk of pneumothorax), and a biopsy is not feasible, then the patient may be enrolled to the study as per PI judgment.\n3. ECOG performance status score of 0-3.\n4. Life expectancy of 3 months or longer.\n5. Patients able to provide a written informed consent prior to study entry.\n\nExclusion Criteria:\n\n1. Patients with contraindication to RT.\n2. Major surgery within 1 month of starting the study treatment.\n3. Prior chemotherapy or radiotherapy for their solid malignancies.\n4. Known human immunodeficiency virus (HIV) infection or acquired immunodeficiency syndrome (AIDS)-related illness or other active infection.\n5. Active infection with hepatitis B or hepatitis C (blood testing is not required for purpose of eligibility).\n6. Patients are excluded if they have a history of any other malignancy from which the patient has been disease-free for less than 2 years, with the exception of adequately treated basal or squamous cell carcinoma of skin, superficial bladder cancer or carcinoma in situ of cervix, AJCC (version 7.0) stage 0 or I breast cancer, AJCC (version 7.0) stage I, or II prostate cancer.\n7. Patients are excluded if they have a history of autoimmune disease, as follows: Patients with a history of inflammatory bowel disease are excluded from this study as are patients with a history of symptomatic disease (e.g., rheumatoid arthritis, systemic progressive sclerosis \\[scleroderma\\], Systemic Lupus Erythematosus, autoimmune vasculitis \\[e.g., Wegener's Granulomatosis\\]). Patients with motor neuropathy considered of autoimmune origin (e.g., Guillain-Barre Syndrome and Myasthenia Gravis) are excluded. Patients with a history of autoimmune thyroiditis are eligible if their current thyroid disorder is treated and stable with replacement or other medical therapy.\n8. Other severe acute or chronic medical or psychiatric condition that may increase the risk associated with study participation and in the judgment of the investigator would make the subject inappropriate for entry into this study.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in peripheral blood T cell proliferation (stimulation) and cytokine production in vitro",
+      "timeFrame": "Baseline to up to 1 month after the end of RT",
+      "description": "Mixed effects linear regression used to model each marker. Markers measured under treated and control conditions at 4 time points. Saturated fixed effects model including fixed effects for treatment condition, evaluation time \\& condition by time interaction used. Repeated measures covariance structure that accounts for correlation between treated \\& control samples at each time \\& correlation among repeated samples from the 4 measurement periods assumed. Overall effect of treatment as well as time-specific estimates of treatment effect estimated along with appropriate 95% confidence intervals."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [
+    "MedImmune LLC"
+  ],
+  "start_date": "2013-11-11",
+  "completion_date": "2016-07-14",
+  "last_updated": "2025-05-01"
+}

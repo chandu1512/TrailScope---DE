@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT03490539",
+  "brief_title": "Disease-Modifying Treatments for Myasthenia Gravis",
+  "official_title": "Prospective Multicenter Observational Cohort Study of Comparative Effectiveness of Disease-modifying Treatments for Myasthenia Gravis",
+  "brief_summary": "This study is designed to address the evidence gaps in a real-world setting and help patients with MG choose treatments that are best suited to them. It is a prospective, multicenter observational cohort study of comparative effectiveness of MG treatments, with a patient-centered primary outcome measure, to guide clinicians, patients and payers regarding the choice of treatment options for this chronic and serious disease.\n\nPrimary: To compare the effectiveness of azathioprine (AZT) and mycophenolate mofetil (MMF).\n\nSecondary: To compare the outcomes in patients receiving an adequate dose and duration of AZT or MMF over the 2-3 year study period, vs. patients not receiving adequate doses and duration of these agents",
+  "detailed_description": "Design \\& procedures - This is an observational study in the real world clinical setting to evaluate immunosuppressive treatment (IS) of myasthenia gravis (MG). Patients with acquired autoimmune MG \u2265 18 years of age who are not on IS agents, and have not been on corticosteroids for at least 30 days will be enrolled at 20 sites in the US and Canada. These patients will be treated according to the physician's judgment and patient preferences as in routine clinical practice. Patients will be followed prospectively, with the frequency of clinical visits and laboratory monitoring determined by the treating physician, which may differ among patients. Standard outcome measures measuring efficacy and adverse effects that are used in clinical practice will be collected, with emphasis on patient reported outcomes. Informed consent will be obtained using an approved consent form. Patient identifiable / clinical information from the medical record, including the study outcome measures will be uploaded to a centralized REDCap database. The investigators plan to recruit 220 patients, adjusting for a 10% drop out rate, with a final sample of 200 patients for analysis.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 167,
+  "conditions": [
+    "Neurological Disorder",
+    "Autoimmune Diseases"
+  ],
+  "interventions": [
+    {
+      "name": "Mycophenolate Mofetil",
+      "type": "DRUG",
+      "description": "oral tablets"
+    },
+    {
+      "name": "Azathioprine",
+      "type": "DRUG",
+      "description": "oral tablet"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nParticipants eligible for inclusion in this study must fulfill all of the following criteria:\n\n1. Age \u2265 18 years of age\n2. Acquired autoimmune MG, with weakness and confirmed by one or more of the following:\n\n   1. Elevated AChR or MuSK antibodies\n   2. Unequivocal response to cholinesterase inhibitors\n   3. Abnormal RNS or increased jitter (without nerve or muscle disease sufficient to produce a decrement or increased jitter)\n3. Patients seen initially at the participating center after January 1, 2017.\n4. Patients on pyridostigmine at the first evaluation at the participating center (\"baseline visit\") may be included if pyridostigmine was started \u22643 months before the baseline visit.\n5. Patients who received corticosteroids \\>90 days prior to baseline visit for a non-MG indication may be included. (Patients who have received corticosteroids for a non-MG indication between 31 and 90 days before baseline visit will be evaluated by the primary investigators on a case by case basis to determine if the extent and dose of corticosteroid could have impacted the course of MG or symptoms of MG.)\n\nExclusion Criteria:\n\nPatients fulfilling any of the following criteria are not eligible for inclusion in this study. No additional exclusions may be applied by the investigator, in order to ensure that the study population will be representative of all eligible participants.\n\n1. Patients with non-autoimmune MG (congenital myasthenic syndromes, drug-induced MG)\n2. Patients on immunosuppressive agents at the baseline visit.\n3. Patients who have previously received steroids for the treatment of MG.\n4. Patients with steroid use for a non-MG indication \\< 30 days prior to the baseline visit.\n5. Patients with previous thymectomy, IVIg or plasma exchange, or treatment with a non-steroidal immunosuppressive agent (azathioprine, mycophenolate mofetil cyclosporine, methotrexate, cyclophosphamide, tacrolimus, rituximab, or any investigational immunosuppressive agent). Patients who have outcomes measured within 24 hours after initiation of IVIg or PLEX are acceptable.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in Patient-Reported Myasthenia Gravis Quality of Life, 15, revised ( MG-QOL15r)",
+      "timeFrame": "Baseline, 24-36 months",
+      "description": "Measures MG symptoms, physical, social and emotional functioning related to MG, with 15 items, 3 response option, 0-2 for each item, Total score range 0-30, higher scores indicating worse function"
+    },
+    {
+      "measure": "Change in composite outcome of clinical improvement and adverse effects",
+      "timeFrame": "Baseline, 24-36 months",
+      "description": "measured by a composite of clinical improvement and adverse effects of treatments. Clinical improvement: achievement of MGFA Post-Intervention Status (PIS) Minimal Manifestation Status (MM) or better, defined below.\n\nAdverse effects end point: no more than Grade 1 CTCAE (Common Terminology Criteria for Adverse Events) medication side-effects, defined below.\n\nMGFA PIS- MM: the patient has no symptoms or functional limitations from MG but has some weakness on examination of some muscles\n\nCTCAE: list of adverse event (AE) terms commonly encountered in oncology but is useful to monitor the side effects of any intervention Each AE term is defined and graded on a 1 to 5 scale indicating the severity of the AE, 1 representing the mildest side effect and 5 representing death Grade 1 CTCAE side-effects: \"asymptomatic or only mild symptoms; intervention not indicated\""
+    }
+  ],
+  "sponsor": "Duke University",
+  "collaborators": [
+    "Beth Israel Deaconess Medical Center",
+    "Patient-Centered Outcomes Research Institute"
+  ],
+  "start_date": "2018-05-07",
+  "completion_date": "2021-01-31",
+  "last_updated": "2021-02-02"
+}

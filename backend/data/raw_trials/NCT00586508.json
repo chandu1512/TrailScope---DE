@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT00586508",
+  "brief_title": "Trial of Enzastaurin and Bevacizumab in Participants With Recurrent Malignant Gliomas",
+  "official_title": "A Phase II Trial of Enzastaurin in Combination With Bevacizumab in Adults With Recurrent Malignant Gliomas",
+  "brief_summary": "The purpose of this study is to evaluate both enzastaurin and bevacizumab in the treatment of recurrent malignant gliomas.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 81,
+  "conditions": [
+    "Recurrent Glioblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "enzastaurin",
+      "type": "DRUG",
+      "description": "1125 milligrams (mg) loading dose then 500 or 875 mg, orally, daily, 4-week cycles with participants evaluated after each cycle. The dose difference is for participants who are on enzyme-inducing antiepileptic drugs (EIAED) versus non-enzyme inducing antiepileptic drugs (NEIAED)."
+    },
+    {
+      "name": "bevacizumab",
+      "type": "DRUG",
+      "description": "10 milligrams per kilogram (mg/kg), intravenously (IV), every 2 weeks, participants are evaluated after each cycle (4-week cycles)."
+    },
+    {
+      "name": "Enzyme-inducing antiepileptic drugs (EIAED)",
+      "type": "DRUG",
+      "description": "Administered orally"
+    },
+    {
+      "name": "Non-enzyme inducing antiepileptic drugs (NEIAED)",
+      "type": "DRUG",
+      "description": "Administered orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participant must be at least 18 years old\n* Participant must have been diagnosed with a recurrent brain tumor by magnetic resonance imaging (MRI) scan\n* Participant must be willing to practice adequate contraception\n* Participant must be able to swallow the enzastaurin tablets whole and receive bevacizumab intravenously\n* Participant must agree to use the study drug only as instructed by your study doctor and staff.\n\nExclusion Criteria:\n\n* Women who are pregnant or breastfeeding\n* Participants who have significant heart, liver, kidney, or psychiatric disease\n* Participants who have an active infection\n* Participants who have any recent bleeding in the brain\n* Participants who are taking any anti-coagulation or anti-platelet medication \\[including aspirin, non-steroidal anti-inflammatories, Cyclooxygenase-2 (COX-2) inhibitors\\]",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival at 6 Months (PFS-6)",
+      "timeFrame": "Registration to 6 months",
+      "description": "Data presented are the percentage of participants without progressive disease (PD) or death from any cause 6 months after registration. PD was a 25% increase in the sum of products of all measurable lesions (or 2 largest lesions if too numerous) over the smallest sum observed (over baseline if no decrease) or clear worsening of any evaluable disease, or appearance of any new lesion/site, or failure to return for evaluation due to death or deteriorating condition (unless clearly unrelated to this cancer)."
+    },
+    {
+      "measure": "Time to Progressive Disease (PD)",
+      "timeFrame": "Registration to PD, death or date of last contact up to 66.56 months",
+      "description": "Defined as the time from registration to PD, death or date of last contact. PD was a 25% increase in the sum of products of all measurable lesions (or 2 largest lesions if too numerous) over the smallest sum observed (over baseline if no decrease) or clear worsening of any evaluable disease, or appearance of any new lesion/site, or failure to return for evaluation due to death or deteriorating condition (unless clearly unrelated to this cancer). Participants who had no PD or death at the time of the data inclusion cutoff, time to PD was censored at their last tumor assessment prior to the cutoff date."
+    },
+    {
+      "measure": "Number of Participants With Adverse Events (AEs) or Deaths (Safety)",
+      "timeFrame": "Registration to study completion up to 67.56 months",
+      "description": "Data presented are the number of participants who experienced serious adverse events (SAEs), other non-serious AEs and deaths during the study including the 30-day follow-up. A summary of SAEs and other non-serious AEs, regardless of causality, is located in the Reported Adverse Event module."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [
+    "Genentech, Inc."
+  ],
+  "start_date": "2007-11",
+  "completion_date": "2013-10",
+  "last_updated": "2020-09-23"
+}

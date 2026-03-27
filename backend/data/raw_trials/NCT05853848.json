@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT05853848",
+  "brief_title": "Mammogram Mail- and Phone-based Interventions",
+  "official_title": "Randomized Comparison of Mail- and Phone-based Interventions Promoting Mammogram Screening",
+  "brief_summary": "The project aims to evaluate four different versions and modalities of interventions encouraging mammogram screening among all eligible women due or overdue for screening. The evaluation will compare among the following forms of outreach to help determine whether (a) live calls are more effective at increasing mammogram screening than other forms of outreach and (b) each form of outreach is more effective than no outreach: (1) a postcard, (2) a letter, (3) an auto-dialer phone message, and (4) a live call from a care gaps team. The interventions will be rolled out over many months, allowing for comparisons of effectiveness against those who have not yet been contacted.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 14386,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Postcard",
+      "type": "BEHAVIORAL",
+      "description": "Postcard with phone number to call for help scheduling a mammogram."
+    },
+    {
+      "name": "Letter",
+      "type": "BEHAVIORAL",
+      "description": "Letter with phone number to call for help scheduling a mammogram."
+    },
+    {
+      "name": "Auto-dialer",
+      "type": "BEHAVIORAL",
+      "description": "Auto-dialer with option to press button for help scheduling a mammogram."
+    },
+    {
+      "name": "Live call",
+      "type": "BEHAVIORAL",
+      "description": "Live call offering help scheduling a mammogram."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Female Geisinger Health Plan members between ages 52 and 74 as of December 31, 2023\n* Overdue for annual mammogram\n* Continuously enrolled with the Geisinger Health Plan as of October 1, 2021\n* Can be contacted via both phone and mail\n\nExclusion Criteria:\n\n* Geisinger Health Plan members on a do-not-contact list\n* Had a mammogram as of October 1, 2021\n* In hospice, using hospice services, or receiving palliative care as of January 1, 2023\n* Medicare members 66 years of age or above at time of outreach, who are institutionalized or have both frailty and advanced illness\n* Had a bilateral mastectomy at any time",
+    "gender": "FEMALE",
+    "min_age": "51 Years",
+    "max_age": "74 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Geisinger",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Mammogram completed",
+      "timeFrame": "In the 180 days following the patient's intervention send date",
+      "description": "Record of completed mammogram (yes/no), for comparing postcards, letters, and auto-dialer messages with live calls"
+    },
+    {
+      "measure": "Mammogram completed",
+      "timeFrame": "In the 120 days following the patient's intervention send date",
+      "description": "Record of completed mammogram (yes/no), for comparing postcards, letters, auto-dialer messages, and live calls with controls"
+    }
+  ],
+  "sponsor": "Geisinger Clinic",
+  "collaborators": [],
+  "start_date": "2023-05-10",
+  "completion_date": "2024-07-31",
+  "last_updated": "2024-10-09"
+}

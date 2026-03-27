@@ -1,0 +1,90 @@
+{
+  "nct_id": "NCT05836324",
+  "brief_title": "A Study to Evaluate the Safety of INCA33890 in Participants With Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase 1, Open-Label, Multicenter Study of INCA33890 in Participants With Advanced or Metastatic Solid Tumors",
+  "brief_summary": "To evaluate the safety, tolerability, and DLTs and determine the MTD and/or RDE(s) of INCA33890 in participants with select advanced or metastatic solid tumors.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 408,
+  "conditions": [
+    "Solid Tumors",
+    "Advanced Solid Tumors",
+    "Metastatic Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "INCA33890",
+      "type": "DRUG",
+      "description": "INCA33890 will be administered at protocol defined dose."
+    },
+    {
+      "name": "bevacizumab",
+      "type": "DRUG",
+      "description": "Bevacizumab will be administered at protocol defined dose."
+    },
+    {
+      "name": "FOLFIRI",
+      "type": "DRUG",
+      "description": "FOLFIRI will be administered at protocol defined dose."
+    },
+    {
+      "name": "FOLFOX",
+      "type": "DRUG",
+      "description": "FOLFOX will be administered at protocol defined dose."
+    },
+    {
+      "name": "Cetuximab",
+      "type": "DRUG",
+      "description": "Cetuximab will be administered at protocol defined dose."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* \u226518 years old\n* Histologically or cytologically confirmed advanced or metastatic malignancies as defined in the protocol.\n* Part 1: Participants must have experienced disease progression after treatment with, be intolerant to, or be ineligible for, or refused available therapies, including anti-PD-(L)1 or anti-CTLA4 therapy if applicable, that are known to confer clinical benefit. Part 2: depending on cohort, participants may have received or not prior treatment for the malignancy under study.\n* ECOG performance status score of 0 or 1.\n* Willingness to undergo pre- and on-treatment tumor biopsy (core or excisional). Biopsies are mandatory depending on the cohorts.\n* Presence of measurable disease according to RECIST v1.1.\n\nExclusion Criteria:\n\n* Any known additional malignancy that is progressing or requires active treatment, or history of other malignancy within 2 years.\n* Not recovered to \u2264 Grade 1 or baseline from residual toxicities of prior therapy.\n* Has active autoimmune disease requiring systemic immunosuppression with corticosteroids.\n* Brain or CNS metastases untreated or that have progressed.\n* History of organ transplant, including allogeneic stem cell transplantation.\n* History of clinically significant or uncontrolled cardiac disease.\n* Active HBV, active HCV, or HIV positive.\n* Is on chronic systemic steroids (\\> 10 mg/day of prednisone or equivalent).\n* Chronic or current active infectious disease requiring systemic antibiotics, antifungal, or antiviral treatment\n* Participants that have been initiated on or had modifications in anticoagulation therapies within the last 3 months prior to first dose of treatment.\n* Significant concurrent, uncontrolled medical condition, eg:\n\n  * Cardiovascular: Participants with known vasculitis, aneurisms, and other vascular malformations of clinical significance or history of myocarditis.\n  * Gastrointestinal: Any bowel obstruction within 60 days prior to C1D1.\n* Participants with adequate laboratory values within the protocol defined ranges.\n\nOther protocol-defined Inclusion/Exclusion Criteria may apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose Limiting Toxicities (DLTs)",
+      "timeFrame": "Up to 28 days",
+      "description": ""
+    },
+    {
+      "measure": "Treatment Emerging Adverse Events (TEAEs)",
+      "timeFrame": "Up to 2 years",
+      "description": ""
+    },
+    {
+      "measure": "TEAEs leading to dose modification or discontinuation",
+      "timeFrame": "Up to 2 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "Incyte Corporation",
+  "collaborators": [],
+  "start_date": "2023-07-24",
+  "completion_date": "2027-01-13",
+  "last_updated": "2025-12-11"
+}

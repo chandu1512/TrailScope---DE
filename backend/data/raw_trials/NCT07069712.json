@@ -1,0 +1,90 @@
+{
+  "nct_id": "NCT07069712",
+  "brief_title": "A Study of Novel Agents or Combinations as Perioperative Treatment in Participants With Locally Advanced Resectable Gastroesophageal Adenocarcinoma",
+  "official_title": "A Master Protocol of an Open-Label, Multi-Drug, Multi-Center, Phase II Platform Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Preliminary Anti-tumor Activity of Novel Agents or Combinations as Perioperative Treatment in Participants With Locally Advanced Resectable Gastroesophageal Adenocarcinoma (GEMINI-PeriOp GC)",
+  "brief_summary": "GEMINI-PeriOp GC study will assess the safety, tolerability, pharmacokinetics (PK) and preliminary anti-tumor activity of novel agents or novel combinations as perioperative treatment in participants with locally advanced resectable gastric, gastroesophageal junction (GEJ), or esophageal adenocarcinoma who have not received previous treatment for the disease.",
+  "detailed_description": "This Phase II, open-label, multi-drug, multi-center platform study consists of individual sub-studies, each allows the assessment of multiple novel agents or novel combinations.\n\nParticipants will be assigned across 3 sub-studies, to have sufficient evaluable participants of the confirmed recommended dose by Safety Review Committee (SRC) for study intervention in each corresponding sub-study.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 100,
+  "conditions": [
+    "Gastroesophageal Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "AZD0901",
+      "type": "DRUG",
+      "description": "AZD0901 will be administered as an IV infusion."
+    },
+    {
+      "name": "Rilvegostomig",
+      "type": "DRUG",
+      "description": "Rilvegostomig will be administered as an IV infusion."
+    },
+    {
+      "name": "Trastuzumab Deruxtecan (T-DXd)",
+      "type": "DRUG",
+      "description": "T-DXd will be administered as an IV infusion."
+    },
+    {
+      "name": "Capecitabine",
+      "type": "DRUG",
+      "description": "Capecitabine (Fluoropyrimidine) will be administered orally as chemotherapy standard of care."
+    },
+    {
+      "name": "5-Fluorouracil (5-FU)",
+      "type": "DRUG",
+      "description": "5-FU (Fluoropyrimidine) will be administered as an IV infusion as chemotherapy standard of care."
+    },
+    {
+      "name": "FLOT Chemotherapy",
+      "type": "DRUG",
+      "description": "FLOT (5-FU, leucovorin, oxaliplatin, and docetaxel) Chemotherapy will be administered as an IV infusion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically documented gastric, GEJ, or esophageal adenocarcinoma with resectable disease\n* Participants who are CLDN18.2-positive and HER2-negative in Sub-study 1 or HER2-positive in Sub-study 2; no specific requirements for Sub-study 3\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Adequate organ and bone marrow function\n* Body weight \\> 35 kg\n\nExclusion Criteria:\n\n* Participants had any prior anti-cancer treatment or surgery for the current gastric, GEJ, or esophageal cancer.\n* Active or prior documented autoimmune or inflammatory disorders requiring systemic treatment with steroids or other immunosuppressive treatment\n* Central nervous system (CNS) pathology\n* Uncontrolled infections\n* Participants with history of (non-infectious) interstitial lung disease (ILD)/pneumonitis, current ILD/pneumonitis, or suspected ILD/pneumonitis\n* History of another primary malignancy\n* Participants with any known or suspicious distant metastasis\n* Uncontrolled hepatitis B and/or chronic or active hepatitis B\n* Current or prior use of immunosuppressive medication within 14 days before the first dose of study intervention",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of participants with adverse events (AEs) and serious adverse events (SAEs)",
+      "timeFrame": "Until sub-study completion, up to 38 months",
+      "description": "To assess the safety and tolerability of perioperative treatment."
+    },
+    {
+      "measure": "Percentage of participants with pathological complete response (pCR)",
+      "timeFrame": "Until sub-study completion, up to 38 months",
+      "description": "pCR is defined as no viable cancer cells, including lymph nodes after complete evaluation in the resected gastric, GEJ, or esophageal cancer specimen and all sampled regional lymph nodes following neoadjuvant treatment."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [
+    "Parexel"
+  ],
+  "start_date": "2025-07-17",
+  "completion_date": "2028-09-06",
+  "last_updated": "2026-03-09"
+}

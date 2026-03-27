@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT00001277",
+  "brief_title": "Studies of Elevated Parathyroid Activity",
+  "official_title": "Studies of Hyperparathyroidism and Related Disorders",
+  "brief_summary": "Observational Phase: Patients whose parathyroid activity is elevated above normal are referred to as having hyperparathyroidism. This study will help researchers better understand the causes of hyperparathyroidism and to evaluate and improve methods for diagnosis and treatment. Patients diagnosed with or suspected of having hyperparathyroidism will be selected to participate. In addition, patients with related conditions, such as parathyroid tumors, will also be selected.\n\nSubjects will be asked to provide blood and urine for testing to confirm their condition. They will then be surgically treated by removal of the parathyroid gland(s) (parathyroidectomy). Subjects with parathyroid tumors will undergo several diagnostic tests to determine the exact location of the tumor as well as the tumor's activity. The tests may include; ultrasounds, nuclear scanning, CT scans, MRI, and specialized blood testing.\n\nSometimes parathyroidectomy leads to hypoparathyroidism. Options for treating the patients after the surgical procedure will also be addressed. Calcium and Vitamin D supplements are typically the mainstay of post parathyroidectomy therapy. Other potential treatments include transplanting the parathyroid gland(s) to other areas of the body.\n\nClinical Trial: An imaging substudy was added to this protocol in 2018. Patients with multiple endocrine neoplasia type 1 (MEN1) will have 68Gallium-Dotatate Positron Emission Tomography (PET) - Computed Tomography (CT), 18F-DOPA PET/CT, MRI, and CT scans and the number of lesions detected by each of these types of scans will be compared.",
+  "detailed_description": "Observational: Patients with confirmed or suspected primary hyperparathyroidism or complications therefrom (such as postoperative hypoparathyroidism) will be admitted for diagnosis and treatment. The principal diagnostic components are calcium in serum and urine, parathyroid hormone in serum, and mutation tests on germline or tumor DNA. Patients with moderate to severe primary hyperparathyroidism will be treated. Treatment will be mainly by parathyroidectomy. Other options are medications or no intervention. Patients with a hyperparathyroid syndrome may be managed for their extraparathyroid features. Preoperative testing to localize parathyroid neoplasm(s) will be used usually and with more extended methods in cases with prior neck surgery. Preoperative tumor localization tests will be selected according to clinical indications from the following: ultrasound, technetium-thallium scan, computerized tomography, magnetic resonance imaging, fine needle aspiration for parathyroid hormone assay, selective arteriogram, selective venous catheterization for parathyroid hormone assay. Options for management of postoperative hypocalcemia include calcium, vitamin D analogs, parathyroid autografts and synthetic parathyroid hormone. Research specimens may consist of blood or tumors.\n\nClinical Trial: An imaging substudy was added to this protocol in 2018. Patients with MEN1 will have 68Ga-Dotatate PET/CT, 18F-DOPA PET/CT, MRI, and CT scans and the number of lesions detected by each of these types of scans will be compared.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1553,
+  "conditions": [
+    "Hyperparathyroidism",
+    "Hypercalcemia",
+    "Parathyroid Neoplasm",
+    "Multiple Endocrine Neoplasia",
+    "MEN1"
+  ],
+  "interventions": [
+    {
+      "name": "68Ga-Dotatate",
+      "type": "DRUG",
+      "description": "68Ga-Dotatate PET/CT will be administered prior to a PET/CT scan to detect known and occult primary and metastatic bronchial, gastrointestinal and pancreatic neuroendocrine tumors."
+    },
+    {
+      "name": "18F-DOPA",
+      "type": "DRUG",
+      "description": "18F-DOPA PET/CT will be administered prior to a whole-body scan to detect known and occult primary and metastatic bronchial, gastrointestinal and pancreatic neuroendocrine tumors."
+    }
+  ],
+  "eligibility": {
+    "criteria": "INCLUSION CRITERIA:\n\n* Patients who have genetically confirmed MEN1 or clinical criteria of MEN1.\n* For females: Negative urine pregnancy test OR post-menopausal for at least 2 years OR patient has had a hysterectomy\n\nEXCLUSION CRITERIA:\n\n* Serious underlying medical conditions that restrict diagnostic testing or therapy such as renal failure or congestive cardiac failure\n* Patients unable or unwilling to give informed consent\n* Pregnant or lactating women: Pregnant women are excluded from this study because the effects of 68Ga-DOTATATE in pregnancy are not known. Because there is an unknown but potential risk for adverse events in nursing infants secondary to administration of 68Ga-DOTATATE in the mother, women who are breastfeeding are also excluded from this study\n* Patients that have recognized concurrent active infection\n* Patients with known hypersensitivity to carbidopa, or who are concurrently taking a nonselective monoamine oxidase (MAO) inhibitor..",
+    "gender": "ALL",
+    "min_age": "2 Months",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health Clinical Center, 9000 Rockville Pike",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Type of Hyperparathyroidism",
+      "timeFrame": "First year",
+      "description": "The purpose of this study is to understand the causes of primary hyperparathyroidism, to evaluate and improve methods for diagnosis and treatment, and to provide insight into the mechanisms of normal parathyroid function. Hereditary causes of primary hyperparathyroidism will be characterized. Patients were categorized as follows:\n\n1. MEN1: Diagnosed by demonstration of a germline variant in MEN1 gene or one of the following: a) two of three primary MEN1 manifestations b) one primary MEN1 manifestation with a family member with MEN1.\n2. Other familial: Non-MEN1 patients who had a positive family history of hyperparathyroidism suspicious for underlying germline predisposition syndrome.\n3. Sporadic: Patients who did not have a positive family history of hyperparathyroidism.\n4. Unknown: No data to help categorize the patients in any of the above categories."
+    },
+    {
+      "measure": "Organs With Identified Lesions",
+      "timeFrame": "Days 1-6",
+      "description": "For each organ, agreement between 68Ga-DOTATATE and 18F-DOPA"
+    },
+    {
+      "measure": "Number of Lesions Identified",
+      "timeFrame": "Days 1-6",
+      "description": "The total number of lesions identified by each imaging modality"
+    }
+  ],
+  "sponsor": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+  "collaborators": [],
+  "start_date": "1993-12-15",
+  "completion_date": "2020-12-23",
+  "last_updated": "2022-05-12"
+}

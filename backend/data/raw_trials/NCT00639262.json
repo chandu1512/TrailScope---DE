@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT00639262",
+  "brief_title": "Combination of Sorafenib and Radiation for Brain Metastases and Primary Brain Tumors",
+  "official_title": "Phase I Study of the Combination of Sorafenib and Radiation Therapy -/+ Temozolomide for the Treatment of Patients With Brain Metastases and Primary Brain Tumors",
+  "brief_summary": "Sorafenib\u2122 has the potential to inhibit tumor growth, tumor angiogenesis , and enhance radiation response. This study will test the combination of Sorafenib\u2122 and radiation therapy with or without temozolomide to determine tolerance of the combined treatments. Defining safe dosing of Sorafenib\u2122 in this combination therapy will be achieved.",
+  "detailed_description": "The current standard of care for patients with brain metastatic malignancies is to receive radiation therapy alone, while the standard of care for patients with high grade primary brain malignancies, astrocytomas, is to receive to receive concurrent temozolomide with radiation therapy. In this phase I study, based on the range of efficacy of kinase inhibitors and its ability to cross the blood-brain barrier we will conduct two parallel studies. The first is to combine sorafenib and radiation therapy for the treatment of patients with brain metastases and the second is to combine sorafenib with temozolomide for primary brain tumors.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 35,
+  "conditions": [
+    "Brain Metastases",
+    "Primary Brain Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "Sorafenib",
+      "type": "DRUG",
+      "description": "Sorafenib 200mg twice daily during XRT and 30 days after. (Sorafenib will be escalated for both cohorts to determine maximum tolerated dose)"
+    },
+    {
+      "name": "Temozolomide",
+      "type": "DRUG",
+      "description": "For Cohort 2 - Gliomas only."
+    },
+    {
+      "name": "Radiotherapy",
+      "type": "RADIATION",
+      "description": "Radiation Therapy (XRT)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients requiring a minimum 2-week course of radiation therapy\n2. Age \\> or = 18\n3. All tumors of the central nervous system, or metastasis to the central nervous system.\n4. Measurable disease preferred but not required for eligibility\n5. Histologically or cytologically documented evidence of malignancy (for infratentorial and supratentorial glioma patients only).\n6. Radiographic evidence of brain metastasis\n7. ECOG performance status of 0 or 1\n8. Life expectancy of \\> or = 3 months\n\nExclusion Criteria:\n\n1. Patients receiving chemotherapy or other investigational drugs must be discontinued 14 days prior to enrollment.\n2. Cardiac disease: Congestive heart failure \\> class II NYHA. Patients must not have unstable angina (anginal symptoms at rest) or new onset angina (began within the last 3 months) or myocardial infarction within the past 6 months.\n3. Cardiac ventricular arrhythmias requiring anti-arrhythmic therapy.\n4. Uncontrolled hypertension defined as systolic blood pressure \\> 150 mmHg or diastolic pressure \\> 90 mmHg, despite optimal medical management.\n5. Known human immunodeficiency virus (HIV) infection or chronic Hepatitis B or C.\n6. Active clinically serious infection \\> CTCAE Grade 2",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum Tolerated Dose of Sorafenib",
+      "timeFrame": "30 days post-treatment",
+      "description": "To determine the maximum tolerated dose (MTD) and a recommended phase II dose (RP2D) of Sorafenib and radiotherapy -/+ temozolomide patients with malignancies of the brain."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [
+    "Bayer"
+  ],
+  "start_date": "2008-03",
+  "completion_date": "2012-09",
+  "last_updated": "2025-05-01"
+}

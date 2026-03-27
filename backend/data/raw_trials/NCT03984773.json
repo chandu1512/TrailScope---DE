@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT03984773",
+  "brief_title": "Machine-Generated Mortality Estimates and Nudges to Promote Advance Care Planning Discussion Among Cancer Patients",
+  "official_title": "A Stepped-Wedge Cluster Randomized Trial Using Machine-Generated Mortality Estimates and Behavioral Nudges to Promote Advance Care Planning Discussion Among Cancer Patients",
+  "brief_summary": "This study will use a stepped-wedge cluster randomized trial to evaluate the effect of a health system initiative using machine learning algorithms and behavioral nudges to prompt oncologists to have serious illness conversations with patients at high-risk of short-term mortality.",
+  "detailed_description": "Patients with cancer often undergo costly therapy and acute care utilization that is discordant with their wishes, particularly at the end of life. Early serious illness conversations (SIC) improve goal-concordant care, and accurate prognostication is critical to inform the timing and content of these discussions. This study will use a stepped-wedge, cluster randomized trial to evaluate the effect of a health system initiative using machine learning algorithms and behavioral nudges to prompt oncologists to have serious illness conversations with patients at high-risk of short-term mortality. Oncology practices will be randomly assigned in sequential four-week blocks to receive the intervention.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 78,
+  "conditions": [
+    "Oncology"
+  ],
+  "interventions": [
+    {
+      "name": "Nudge",
+      "type": "BEHAVIORAL",
+      "description": "Oncology practices will be randomly assigned to receive an intervention, in which individual clinicians will receive a weekly audit email detailing how many serious illness conversations (SIC) they have had compared to the recommended level, and a link to a list of their patients scheduled in clinic next week at high risk of short-term mortality as identified by a mortality prediction algorithm. Clinicians will have the chance to review the opt-out list and pre-commit to a serious illness conversation with appropriate patients. Clinicians will receive nudge on the day of the patient visit via text message reminding them of their pre-commitment to conduct a serious illness conversation."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Care for adults with cancer at the following clinics at Perelman Center for Advanced Medicine\n\n  * Breast Oncology\n  * Gastrointestinal Oncology\n  * Genitourinary Oncology\n  * Lymphoma\n  * Melanoma and Central Nervous System Oncology\n  * Myeloma\n  * Thoracic / Head and Neck Oncology\n* Care for adults with cancer at the Pennsylvania Hospital Oncology clinic\n\nExclusion Criteria:\n\n* Providers who care for only patients with benign hematologic disorders\n* Providers who see only genetic consults\n* Providers who see less than 12 high-risk patients in either the pre- or post- intervention periods\n* Visits for patients with lung cancer who are enrolled in an ongoing palliative care clinical trial that may lead to more SICs\n* Patient visits that are for oncology genetics consults (such patients may still be included if they see their primary oncologist during the trial)\n* Providers who have not undergone serious illness conversation program training (SIC)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn Medicine",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in the proportion of patients with a documented serious illness conversation (SIC)",
+      "timeFrame": "16 weeks",
+      "description": "The change in the proportion of patients that have an outpatient oncology visit with documentation of a serious illness conversation (SIC)"
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [],
+  "start_date": "2019-07-15",
+  "completion_date": "2020-04-19",
+  "last_updated": "2020-04-23"
+}

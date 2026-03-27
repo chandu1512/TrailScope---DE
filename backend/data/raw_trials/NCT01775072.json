@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT01775072",
+  "brief_title": "Genomic Profiling in Cancer Patients",
+  "official_title": "Genomic Profiling in Cancer Patients",
+  "brief_summary": "The purpose of this study is to determine whether certain genes in cancer may be abnormal. When a gene is abnormal this is called a mutation. Most mutations in cancer cells are not inherited (passed down from parents) but happen after birth in the cancer itself. Most cancers have many mutations. Some of these mutations are important for the cancer cells to survive while others are not. The goal of this study is test cancer for certain mutations using leftover tumor tissue from a previous surgery or biopsy. Participants will also be asked to provide a tube of blood cheek (also known as a buccal) swab, or a saliva sample that contains normal genes for comparison.\n\nThe purpose of Part B of this study is to:\n\nUnderstand how genetic changes in tumor effect the chance of responding to experimental cancer treatment. Understand how the genes in the tumor change overtime in response to targeted cancer treatment.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "Solid Tumors",
+    "Hematologic Cancers"
+  ],
+  "interventions": [
+    {
+      "name": "molecular profiling of tumors",
+      "type": "GENETIC",
+      "description": "Part A is the molecular profiling of tumors. No new tumor biopsies will be performed in the context of Part A. If a pt does have a surgery or tumor biopsy , leftover tissue (or an additional core) from this procedure may be used for molecular profiling. Clinical Assay(s): This testing will be performed in the CLIA-certified Molecular Diagnostics Service laboratory. Research Assay(s): This protocol will also be used as a platform to pilot the use of investigational \"next-generation\" profiling technologies .including whole exome sequencing, whole genome sequencing RNA sequencing cell-free tumor DNA/RNA sequencing, proteomics, \\& others. To confirm the findings obtained on these assays using an orthogonal assay, additional sequencing such as Sanger,Sequenom, MiSeq or IMPACT testing may be utilized in either the CLIA or non-CLIA setting Part B: DTC Cohort Pts successfully registered to Part B of this study will be eligible for minimal risk collection \\& research biopsies."
+    },
+    {
+      "name": "Clinical Germline Analysis",
+      "type": "GENETIC",
+      "description": "Part C: Clinical Germline Analysis Participants who have donated a matched normal peripheral blood sample for comparison to somatic sequence will be offered the opportunity to have that germline DNA sample analyzed for the presence of deleterious or likely deleterious mutations in genes on the MSK-IMPACT panel that are known to be linked to inherited susceptibility or that are included on consensus lists of genes that should undergo secondary analysis (e.g. the \"ACMG list\").\n\nPart D: Germline Profiling for Individuals at Elevated Cancer Risk"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nPart A:\n\n* Patients with a history of cancer or patients without a documented cancer history undergoing a surgical procedure, endoscopy, biopsy, or liquid biopsy (for example cell free DNA testing) to confirm or exclude a cancer diagnosis, or\n* Any participant having a test or procedure that has the potential to provide a specimen that can be banked for future research purposes, or\n* Any participant who has already had a diagnostic or therapeutic procedure that has yielded tissue, blood or other bodily fluids presently in the archive but who has not yet been approached to participate is also eligible.\n\nPart B:\n\n* Patients must be successfully registered to Part A of MSKCC IRB# 12-245\n* Prior written approval for patient consent obtained from the Principal/Co-Principal Investigator of MSKCC IRB # 12-245.\n\nPart C:\n\n* Patient must be receiving ongoing care at MSK or a CHERPn/ Alliance/Affiliate site or have previously consulted with an MSK physician.\n* Patient must have successfully consented to Part A of this study.\n\nPart D:\n\n* Patients with no personal cancer history at increased risk for cancer development due to family history, molecular cancer marker, know carrier status of a gene associated with increased cancer risk or prior/ongoing environmental exposures or lifestyle factors.\n\nExclusion Criteria:\n\nAll Parts:\n\n* Unwilling or unable to provide informed consent.\n\nPart C:\n\n* All patients consenting to Part A are eligible to consent to 12-245, Part C. Most patients will be eligible to receive clinical germline testing with return of results to the patient/health care providers. However, several exclusion criteria apply and are outlined below\n\n  1. Solid tumor patients: Secondary germline analysis using BAM files generated for MSK-IMPACT testing is not an option for patients with solid tumors and an acute or chronic hematologic neoplasm that would preclude the use of blood or saliva as a source of germline DNA. Such patient may be eligible for primary germline testing using a non-blood source of germline DNA as per standard clinical guidelines. Solid tumor patients who have had an allogenic bone marrow/stem cell transplant will only be considered eligible for germline testing under Part C if a sample adequate for germline testing had previously been collected prior to allogenic bone marrow/stem cell transplant.\n  2. Hematologic cancer patients: For patients with a hematopoietic neoplasm, germline testing may be an option under Part C using nail clippings or another non-blood source of DNA as per standard clinical practice. For patients who have had an allogenic bone marrow/stem cell transplant, clinical germline testing will only be considered under Part C if a sample adequate for germline testing had previously been collected prior to Allogenic bone marrow/stem cell transplant.\n\nPart D\n\n* Exclusion criteria are same as those for Part C outlined above.",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Memorial Sloan Kettering Basking Ridge",
+      "city": "Basking Ridge",
+      "state": "New Jersey",
+      "zip": "07920",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Memorial Sloan Kettering Monmouth",
+      "city": "Middletown",
+      "state": "New Jersey",
+      "zip": "07748",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Memorial Sloan Kettering Bergen",
+      "city": "Montvale",
+      "state": "New Jersey",
+      "zip": "07645",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Lehigh Valley Health Network",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "frequency of \"actionable\" oncogenic mutations",
+      "timeFrame": "1 year",
+      "description": "\"Actionable\" mutations will be defined as either 1) a mutation shown to predict for sensitivity or resistance to a drug FDA approved for use in another cancer indication or 2) a mutation which predicts for sensitivity or resistance in preclinical models to an investigational class of drugs."
+    }
+  ],
+  "sponsor": "Memorial Sloan Kettering Cancer Center",
+  "collaborators": [],
+  "start_date": "2013-01",
+  "completion_date": "2027-01",
+  "last_updated": "2026-02-09"
+}

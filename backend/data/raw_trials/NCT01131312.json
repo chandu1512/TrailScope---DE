@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT01131312",
+  "brief_title": "Randomized Clinical Trial on Clinical Management of ASCUS and LSIL (ALTS)",
+  "official_title": "Randomized Clinical Trial on Clinical Management of ASCUS and LSIL (ALTS)",
+  "brief_summary": "Approximately 65 million Pap smears are performed each year in the United States. The vast majority of results are negative (no abnormality identified) but about 5 percent to 8 percent are reported as abnormal. Most low-grade changes regress spontaneously; only a minority of such lesions would progress to a cancer precursor without treatment. However, there is no way to determine morphologically which patients are at risk or progression. Therefore, both high- and low-grade lesions were often managed with colposcopy and directed biopsy.\n\nEpidemiologic, virologic and molecular studies have clearly demonstrated that human papillomavirus (HPV) is the central cause of cervical cancer. The motivation for the Atypical squamous cells of undetermined significance (ASCUS)- Low grade squamous intraepithelial lesion (LSIL) Triage Study (ALTS) trial was to use the information we have gained about the role of HPV to design better treatment and prevention strategies to reduce the burden of cervical cancer and its precursors.\n\nALTS consisted of three management strategies: (1) immediate colposcopy of all women; (2) repeat cytology with colposcopy only if the results show a high grade lesion; and (3) HPV testing and repeat cytology in combination, with referral to colposcopy if either the HPV test is positive or the cytology shows a high grade lesion. Four Clinical Centers University of Alabama, Birmingham Alabama (AL); Magee-Womens Hospital, Pittsburgh Pennsylvania (PA); University of Oklahoma, Oklahoma City OK; and University of Washington, Seattle Washington (WA) enrolled approximately 5,000 women with recent diagnosis of ASCUS or LSIL. Participants were followed at six month intervals for a total of 2 years.\n\nThe ALTS database and ALTS specimens continue to be a valuable research resource in studies of cervical cancer precursors, screening tests, visual assessment of the cervix and investigation of biomarkers.",
+  "detailed_description": "Approximately 65 million Pap smears are performed each year in the United States. The vast majority of results are negative (no abnormality identified) but about 5 percent to 8 percent are reported as abnormal. Most low-grade changes regress spontaneously; only a minority of such lesions would progress to a cancer precursor without treatment. However, there is no way to determine morphologically which patients are at risk of progression. Therefore, both high- and low-grade lesions were often managed with colposcopy and directed biopsy. It was anticipated that determining alternative management strategies would yield important potential benefits including fewer medical complications from over treatment, reduced patient anxiety associated with referral for cytologic abnormalities, as well as cost savings.\n\nEpidemiologic, virologic and molecular studies have clearly demonstrated that human papillomavirus (HPV) is the central cause of cervical cancer. The motivation for the ALTS trial was to use the information we have gained about the role of HPV to design better treatment and prevention strategies to reduce the burden of cervical cancer and its precursors.\n\nALTS consisted of three management strategies: (1) immediate colposcopy of all women; (2) repeat cytology with colposcopy only if the results show a high grade lesion; and (3) HPV testing and repeat cytology in combination, with referral to colposcopy if either the HPV test is positive or the cytology shows a high grade lesion. Four Clinical Centers University of Alabama, Birmingham AL; Magee-Womens Hospital, Pittsburgh PA; University of Oklahoma, Oklahoma City OK; and University of Washington, Seattle WA - enrolled approximately 5,000 women with recent diagnosis of ASCUS or LSIL. Participants were followed at six month intervals for a total of 2 years. The main results from ALTS showed that for women with ASCUS cytology, HPV triage was at least as safe as universal immediate colposcopy in the detection of high-grade lesion and would allow approximately half of women to return to routine follow up without additional procedures (colposcopy). No efficient triage strategy was identified for women with LSIL cytology.\n\nThe ALTS database and ALTS specimens continue to be a valuable research resource in studies of cervical cancer precursors, screening tests, visual assessment of the cervix and investigation of biomarkers.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 5060,
+  "conditions": [
+    "Cervical Intraepithelial Neoplasia"
+  ],
+  "interventions": [
+    {
+      "name": "Thinprep",
+      "type": "DEVICE",
+      "description": "Pap test"
+    },
+    {
+      "name": "Hybrid capture 2",
+      "type": "DEVICE",
+      "description": "Human Papillomavirus (HPV) Deoxyribonucleic Acid (DNA) Test"
+    },
+    {
+      "name": "Colposcopy",
+      "type": "PROCEDURE",
+      "description": "Procedure performed by a healthcare practitioner to examine the cervix, vagina, and vulva."
+    }
+  ],
+  "eligibility": {
+    "criteria": "* Inclusion Criteria:\n\n  * Diagnosis of atypical squamous cells of undetermined significance (ASCUS) or low-grade squamous intraepithelial lesion (LSIL)\n  * 18 years or older\n  * Able to give informed consent with reasonable likelihood of follow-up\n\nExclusion Criteria:\n\n* Previous Hysterectomy\n* History of excisional or ablative treatment of cervix, such as laser treatment, radiation therapy, cauterization (burning), freezing or surgery such as cone biopsy or loop electrosurgical excision procedure (LEEP).\n* Already known to be pregnant\n* Already known to be human immunodeficiency virus (HIV) positive (HIV may negatively affect the clinical history of human papillomavirus (HPV), making triage less appropriate.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Magee Womens Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Cervical Intraepithelial Neoplasia III (CIN III)",
+      "timeFrame": "up to 2 years",
+      "description": "A cervical exam, pap test, human papilloma virus (HPV) deoxyribonucleic acid (DNA) test, and/or colposcopy was performed to detect whether or not a participant had CINIII. CINIII is defined as moderate or severe dysplasia or abnormal cells located on the cervix that can lead to cancer."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2008-02-20",
+  "completion_date": "2009-02-05",
+  "last_updated": "2018-10-22"
+}

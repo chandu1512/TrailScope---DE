@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT02248805",
+  "brief_title": "Phase 1 Study of MGD007 in Relapsed/Refractory Metastatic Colorectal Carcinoma",
+  "official_title": "A Phase 1, First-in-Human, Open Label, Dose Escalation Study of MGD007, A Humanized gpA33 x CD3 DART\u00ae Protein in Patients With Relapsed/Refractory Metastatic Colorectal Carcinoma",
+  "brief_summary": "The primary goal of this Phase 1 study is to characterize the safety and tolerability of MGD007 and establish the maximum tolerated dose (MTD) and schedule of MGD007 administered to patients with metastatic colorectal carcinoma. Pharmacokinetics, pharmacodynamics, and the anti-tumor activity of MGD007 will also be assessed.",
+  "detailed_description": "This is an open-label, multi-center, Phase 1 dose-escalation study to define a MTD, describe preliminarily safety, and to assess PK, immunogenicity, and potential anti-tumor activity of MGD007 in patients with relapsed or refractory metastatic colorectal cancer.\n\nIn the initial phase of the study, two dose schedules will be assessed in dose escalation, once weekly and once every three weeks administration of single agent MGD007. Following the establishment of an MTD, additional patients will enroll in four separate dose expansion cohorts to further optimize the dose and schedule of MGD007 administration.\n\nIn all segments of the study, patients who benefit from MGD007 treatment and continue to meet eligibility may continue treatment in Cycles 2 and beyond.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 95,
+  "conditions": [
+    "Colorectal Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "MGD007",
+      "type": "DRUG",
+      "description": "MGD007 is a gpA33 x CD3 bi-specific antibody-based molecular construct referred to as a DART molecule. MGD007 will be administered as a single agent."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* For the dose escalation cohorts, histologically-proven metastatic colorectal adenocarcinoma that is refractory to 2 prior standard treatment regimens or standard treatment was declined.\n* For the dose expansion cohorts, histologically-proven metastatic colorectal adenocarcinoma that is refractory to 1 prior standard treatment regimen or standard therapy was declined.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Life expectancy of at least 12 weeks\n* Measurable disease\n* Intolerance to at least 2 prior standard therapy regimens\n* Acceptable laboratory parameters\n* Adult (\u226518 years old)\n\nExclusion Criteria:\n\n* Known brain metastasis\n* Any prior history of or suspected current autoimmune disorders (with the exception of vitiligo, resolved childhood atopic dermatitis, prior Grave's disease)\n* Prior history of allogeneic bone marrow, stem-cell, or solid organ transplantation\n* Prior treatment with checkpoint inhibitors and other immunotherapy treatments, including anti-LAG-3, anti-PD-1, anti-PD-L1 or anti-CTLA-4 antibodies, if less than 5 half lives before study drug administration\n* Prior history of Grade 3 or greater drug-related diarrhea/colitis during treatment with checkpoint inhibitors or other immunotherapy treatments.\n* Treatment with any local or systemic anti-neoplastic therapy or any other investigational agent in the 4 weeks prior to study drug administration\n* Require, at the time of study entry, treatment with steroids \\> 10 mg/day of oral prednisone (or equivalent), except topical use, steroid inhaler, nasal spray or ophthalmic solution\n* History of clinically significant cardiovascular disease, gastrointestinal disorder, or significant pulmonary compromise.\n* Second primary malignancy that has not been in remission for greater than 3 years, with the exception of non-melanoma skin cancer, cervical carcinoma in situ,or squamous intraepithelial lesion on PAP smear, localized prostate cancer (Gleason score \\<6), or resected melanoma in situ.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21205",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Characterize dose limiting toxicity and establish a maximum tolerated dose and schedule",
+      "timeFrame": "Cycle 1 of a 6 week cycle",
+      "description": "Safety is based on evaluation of adverse events (AEs) and serious adverse events (SAEs) from the time of study drug administration through the End of Study visit. The MTD will be defined separately for both the weekly and every three week schedules of MGD007 administration, and will be determined as the highest dose level at which the incidence of DLT is \\< 33% during the first cycle of MGD007 treatment."
+    }
+  ],
+  "sponsor": "MacroGenics",
+  "collaborators": [],
+  "start_date": "2014-10",
+  "completion_date": "2018-07-02",
+  "last_updated": "2022-02-04"
+}

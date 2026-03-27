@@ -1,0 +1,98 @@
+{
+  "nct_id": "NCT00062010",
+  "brief_title": "Interferon Alfa, Isotretinoin, and Paclitaxel in Treating Patients With Recurrent Small Cell Lung Cancer",
+  "official_title": "Interferon Alpha (NSC# 377523) Plus 13-Cis-Retinoic Acid Modulation Of BCL-2 Plus Paclitaxel For Recurrent Small Cell Lung Cancer",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as paclitaxel, work in different ways to stop tumor cells from dividing so they stop growing or die. Some tumors become resistant to chemotherapy drugs. Giving interferon alfa and isotretinoin together with paclitaxel may reduce resistance to the drug and allow the tumor cells to be killed.\n\nPURPOSE: This phase II trial is studying how well giving interferon alfa and isotretinoin together with paclitaxel works in treating patients with recurrent small cell lung cancer.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the frequency and duration of response in patients with recurrent small cell lung cancer treated with interferon alfa, isotretinoin, and paclitaxel.\n* Determine the toxic effects of this regimen in these patients.\n* Determine the duration of survival in patients treated with this regimen.\n* Correlate the levels of bcl-2 in peripheral blood monocytes with response and survival in patients treated with this regimen.\n\nOUTLINE: This is a multicenter study.\n\nPatients receive interferon alfa subcutaneously and oral isotretinoin on days 1 and 2 and paclitaxel IV over 1 hour on day 2 of weeks 1-6. Courses repeat every 8 weeks in the absence of disease progression or unacceptable toxicity.\n\nPatients are followed every 3 months for 2 years and then every 6 months for 1 year.\n\nPROJECTED ACCRUAL: A total of 37-83 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 37,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "interferon alpha",
+      "type": "BIOLOGICAL",
+      "description": "Interferon alpha given subcutaneously, 6 million units per square meter of body surface area on days 1 and 2 of each week for 6 weeks, followed by 2 weeks of rest. Given until disease progression or unacceptable toxicity."
+    },
+    {
+      "name": "13-cis-retinoic acid",
+      "type": "DRUG",
+      "description": "13-cis-retinoic acid given at 1 mg/kg of body weight by mouth on days 1 and 2 of each week for 6 weeks, followed by 2 weeks of rest. Given until disease progression or unacceptable toxicity."
+    },
+    {
+      "name": "paclitaxel",
+      "type": "DRUG",
+      "description": "paclitaxel administered intravenously with premedication at 75 mg/m2 of body surface area on day 2 of each week for 6 weeks, followed by 2 weeks of rest. Given until disease progression or unacceptable toxicity."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\n* Histologically or cytologically confirmed recurrent small cell lung cancer (SCLC) with clinically confirmed measurable disease\n* Age 18 and over\n* ECOG Performance status 0-3\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n* Bilirubin no greater than 1.5 mg/dL\n* AST no greater than 2 times upper limit of normal (ULN)\n* Creatinine no greater than 1.5 mg/dL\n* Triglycerides no greater than 1.5 times ULN\n* Patients must have had prior chemotherapy treatment for SCLC, and toxicities must have resolved to less than or equal to grade 1\n* Women of childbearing potential and sexually active males are strongly encouraged to use an accepted and effective method of contraception.\n\nExclusion Criteria\n\n* History of another neoplasm other than SCLC except for non-metastatic, non-melanoma skin cancers, carcinoma in situ of the cervix, or cancer cured by surgery or small field radiotherapy at least 5 years before registration\n* Pregnant or nursing, with a negative pregnancy test within 2 weeks prior to registration\n* Severe depression requiring medication\n* Use of the following drugs within 4 weeks prior to registration: carbamazepine, ethanol, tetracycline, doxycycline, minocycline, topical acne products containing Retin-A, vitamin A, cisplatin, ketoconazole, phenytoin or other antiepileptic drugs\n* Use of GM-CSF or G-CSF within 4 weeks prior to registration\n* Prior paclitaxel or interferon therapy\n* Radiation therapy within 60 days prior to registration\n* Chemotherapy within 60 days prior to registration",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hunterdon Regional Cancer Center at Hunterdon Medical Center",
+      "city": "Flemington",
+      "state": "New Jersey",
+      "zip": "08822",
+      "status": ""
+    },
+    {
+      "facility": "CCOP - Northern New Jersey",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Bryn Mawr Hospital",
+      "city": "Bryn Mawr",
+      "state": "Pennsylvania",
+      "zip": "19010",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Center of Paoli Memorial Hospital",
+      "city": "Paoli",
+      "state": "Pennsylvania",
+      "zip": "19301-1792",
+      "status": ""
+    },
+    {
+      "facility": "CCOP - MainLine Health",
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "zip": "19096",
+      "status": ""
+    },
+    {
+      "facility": "Lankenau Cancer Center at Lankenau Hospital",
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "zip": "19096",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Response by RECIST Criteria (v 1.0)",
+      "timeFrame": "Assessed every 6 weeks",
+      "description": "Number of eligible, treated participants in each response category by RECIST criteria"
+    }
+  ],
+  "sponsor": "Eastern Cooperative Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2004-05-26",
+  "completion_date": "2012-08",
+  "last_updated": "2023-06-21"
+}

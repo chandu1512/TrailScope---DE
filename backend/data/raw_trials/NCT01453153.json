@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT01453153",
+  "brief_title": "Study of Gemcitabine + PEGPH20 vs Gemcitabine Alone in Stage IV Previously Untreated Pancreatic Cancer",
+  "official_title": "A Phase 1b/2 Multicenter, International, Randomized, Double Blind, Placebo-Controlled, Study of Gemcitabine Combined With PEGPH20 Compared to Gemcitabine Combined With Placebo in Patients With Stage IV Previously Untreated Pancreatic Cancer",
+  "brief_summary": "Phase 1B: Open label (all patients receive PEGPH20+gemcitabine), dose escalation, safety and tolerability study to determine the safe dose of PEGPH20 to use in combination with gemcitabine in Stage IV previously untreated pancreatic cancer patients.\n\nPhase 2: Randomized, double blind study to compare the effect of overall survival of gemcitabine plus PEGPH20 vs gemcitabine plus placebo in Stage IV previously untreated pancreatic cancer patients.",
+  "detailed_description": "PEGPH20 is a PEGylated version of human recombinant PH20 hyaluronidase that, in preclinical studies, has been shown to remove HA from the extracellular matrix surrounding tumor cells by depolymerizing this substrate. 87% of pancreatic ductal adenocarcinomas (PDA) overexpress HA. PDA tumor tissue may be especially sensitive to the HA-degradation properties of PEGPH20 and thus more responsive to the cytotoxic effects of a given dose of gemcitabine. Modifying the extracellular environment to increase the penetration and efficacy of anti-cancer agents represents a novel approach to treating pancreatic cancer and may provide important therapeutic outcomes in patients with Stage IV Previously Untreated Pancreatic Cancer.\n\nThis Phase 1B/2 study will assess safety, tolerability, treatment effect, and various PK/PD endpoints.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 28,
+  "conditions": [
+    "Stage IV Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "1000 mg/m2 given IV one time a week (Cycle 1: 7 weeks on treatment, 1 week off treatment; Cycle 2+: 3 Weeks on treatment, 1 week off treatment)"
+    },
+    {
+      "name": "PEGPH20",
+      "type": "DRUG",
+      "description": "(Cycle 1: 7 weeks on treatment/1 week off treatment; Cycle 2+: 3 Weeks on treatment/1 week off treatment). Doses start at 1.0 mcg/kg and modified until recommended Phase 2 dose is determined. Treatment continues until occurrence of significant treatment-related toxicity, progressive disease, or discontinuation criteria are met"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "(Cycle 1: 7 weeks on treatment/1 week off treatment; Cycle 2+: 3 Weeks on treatment/1 week off treatment)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Patients with histologically confirmed Stage IV adenocarcinoma of the pancrease previously untreated for metastatic disease\n* One or more metastatic tumors measurable on CT scan per RECIST 1.1 criteria\n* Life expectancy of at least 3 months\n* Signed, written IRB/EC-approved informed consent\n* A negative serum pregnancy test, if female\n\nKey Exclusion Criteria:\n\n* Known brain metastasis\n* New York Heart Association Class III or IV cardiac disease, myocardial infarction within the past 12 months\n* Active, uncontrolled bacterial, viral, or fungal infection requiring systemic therapy\n* Known allergy to hyaluronidase\n* Women currently pregnant or breast feeding",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UMDNJ - New Jersey Medical School",
+      "city": "Newark",
+      "state": "New Jersey",
+      "zip": "07103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With a Dose-limiting Toxicity (DLT)",
+      "timeFrame": "first 4 weeks of Cycle 1",
+      "description": "The safety and tolerability profile of PEGPH20 used in combination with gemcitabine was assessed by measuring the number of participants with a DLT during the dose-escalation phase of the study. A DLT was defined as any treatment-emergent National Cancer Institute (NCI) Common Terminology Criteria for Adverse Event (CTCAE), Version 4.0, Grade 3 or greater event occurring within the first 4 weeks of treatment that was considered related to PEGPH20. Any PEGPH20 treatment-related AE that resulted in a drug interruption or reduction might have been considered a DLT at the Investigator's or Sponsor's discretion. Hypersensitivity/infusion reactions related to PEGPH20 dosing were not considered DLTs."
+    },
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D)",
+      "timeFrame": "first 4 weeks of Cycle 1",
+      "description": "The safety and tolerability profile of PEGPH20 used in combination with gemcitabine was assessed by determining the RP2D, the highest dose level at which no more than 1 of 6 evaluable participants experienced a DLT in the first 4 weeks of treatment (considered a safe dose). The RP2D was determined based on review of safety and pharmacokinetic (PK) data from participants enrolled during the dose-escalation phase of the study."
+    }
+  ],
+  "sponsor": "Halozyme Therapeutics",
+  "collaborators": [],
+  "start_date": "2011-09",
+  "completion_date": "2015-05",
+  "last_updated": "2018-10-29"
+}

@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT03822351",
+  "brief_title": "Durvalumab Alone or in Combination With Novel Agents in Subjects With NSCLC",
+  "official_title": "A Phase 2 Open-label, Multicenter, Randomized, Multidrug Platform Study of Durvalumab (MEDI4736) Alone or in Combination With Novel Agents in Subjects With Locally Advanced, Unresectable (Stage III) Non-small Cell Lung Cancer (COAST)",
+  "brief_summary": "The purpose of this study is to compare the clinical activity of durvalumab alone vs durvalumab in combination with novel agents. The overall study goal is early identification of novel durvalumab combinations that are more active than durvalumab alone in the treatment of patients with unresectable, Stage III NSCLC who have not progressed after cCRT.",
+  "detailed_description": "Study D9108C00001 (COAST) is a Phase 2, open-label, multicenter, randomized multidrug platform study assessing the efficacy and safety of durvalumab alone vs durvalumab in combination with novel agents in subjects with locally advanced, unresectable, Stage III non-small cell lung cancer (NSCLC).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 189,
+  "conditions": [
+    "Stage III Non-small Cell Lung Cancer",
+    "Unresectable"
+  ],
+  "interventions": [
+    {
+      "name": "Durvalumab + Oleclumab",
+      "type": "DRUG",
+      "description": "Durvalumab + Oleclumab"
+    },
+    {
+      "name": "Durvalumab",
+      "type": "DRUG",
+      "description": "Durvalumab"
+    },
+    {
+      "name": "Durvalumab + Monalizumab",
+      "type": "DRUG",
+      "description": "Durvalumab + Monalizumab"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Main Inclusion Criteria:\n\n1. Written informed consent and any locally required authorization obtained from the subject prior to performing any protocol-related procedures, including screening evaluation\n2. Age 18 years or older\n3. Body weight \u2265 35 kg\n4. Subjects must have histologically or cytologically documented NSCLC who present with locally advanced, unresectable, Stage III disease\n5. Subjects must have completed, without progressing, definitive cCRT within 42 days prior to being randomized into the study\n6. Provision of tumor tissue sample, when available, from original diagnosis obtained before initiation of chemoradiotherapy\n7. Life expectancy \u2265 12 weeks\n8. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1\n9. Subjects must have at least one previously irradiated tumor lesion that can be measured by RECIST v1.1\n\nMain Exclusion Criteria:\n\n1. Mixed small cell and non-small cell lung cancer histology\n2. Current or prior use of immunosuppressive medication within 14 days before the first dose of study drug\n3. Prior exposure to any anti-PD1, anti-PD-L1, or anti-CTLA4 antibody for treatment of NSCLC\n4. Subjects with history of \u2265 Grade 2 pneumonitis from prior chemoradiation therapy\n5. Subjects with a history of venous thrombosis within the past 3 months\n6. Subjects with history of myocardial infarction, transient ischemic attack, or stroke in the past 6 months\n7. Congestive heart failure\n8. Active or prior documented autoimmune or inflammatory disorders\n9. History of active primary immunodeficiency\n10. Active infection including tuberculosis, hepatitis B, hepatitis C, or human immunodeficiency virus (HIV)\n11. History of allogenic organ transplantation\n12. QTcF interval \u2265 470 ms\n13. History of another primary malignancy\n14. Concurrent enrollment in another clinical study \\[concurrent enrollment in an observational (non-interventional) clinical study or during the follow-up period of an interventional study is permitted\\]\n15. Females who are pregnant, lactating, or intend to become pregnant during their participation in the study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Rosedale",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Gettysburg",
+      "state": "Pennsylvania",
+      "zip": "17325",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17601",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response (OR) Rate as a Measure of Antitumor Activity of Durvalumab Alone vs Durvalumab in Combination With Novel Agents",
+      "timeFrame": "ORR at 16 weeks after randomization is the timing for radiologic assessment of the primary endpoint",
+      "description": "ORR was defined as the percentage of participants with at least one visit response of Complete Response (CR) or Partial Response (PR) per RECIST 1.1 for target lesions: CR: Disappearance of all target lesions; PR: \\>=30% decrease in the sum of the longest diameter of target lesions; OR = CR + PR."
+    }
+  ],
+  "sponsor": "MedImmune LLC",
+  "collaborators": [],
+  "start_date": "2018-12-19",
+  "completion_date": "2023-07-18",
+  "last_updated": "2024-10-04"
+}

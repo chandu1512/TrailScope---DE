@@ -1,0 +1,157 @@
+{
+  "nct_id": "NCT06611540",
+  "brief_title": "Self-collection for HPV Testing to Improve Cervical Cancer Prevention (SHIP) Trial (LMI-001-A-S03)",
+  "official_title": "NCI Cervical Cancer 'Last Mile' Initiative 'Self-Collection for HPV Testing to Improve Cervical Cancer Prevention' (SHIP) Trial LMI-001-A-S03",
+  "brief_summary": "This clinical trial evaluates the use of self-collected vaginal samples for human papillomavirus (HPV) testing in patients referred for a colposcopy and/or cervical excisional procedures to improve cervical cancer prevention. HPV is a common virus which usually causes infections that last only a few months, but sometimes can last longer. HPV is known to cause a variety of cancers including cervical cancer. Even though there are ways to detect cervical cancer, many individuals are not diagnosed. Over half of all new cervical cancer cases are among those who have either never been screened or who are not screened enough. The low screening numbers show more testing needs to be done. Without appropriate screening and care, preventable precancer may turn into cancer. A new way to detect cervical cancer is to have individuals collect their own sample for HPV testing to know their risk for cervical cancer. This may give individuals more flexibility and comfort having the ability to collect samples themselves, compared to a doctor performing a speculum examination and collecting the samples in a clinic. Information gathered from this study compares clinical accuracy of HPV testing on self-collected vaginal samples versus cervical samples collected by clinician.\n\nThe Self-collection for HPV Testing to Improve Cervical Cancer Prevention (SHIP) Trial is part of the National Cancer Institute (NCI)'s Cervical Cancer 'Last Mile' Initiative, a public private partnership that seeks to increase access to cervical cancer screening. The SHIP Trial focuses on developing clinical evidence to inform the US Food and Drug Administration (FDA)'s regulatory reviews of self-collection approaches as alternative sample collection approaches for cervical cancer screening. Several industry partner-specific self-collection device and assay combinations will be non-competitively and independently evaluated with a similar study design framework to inform pre-approval and/or post-approval regulatory requirements.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To evaluate clinical accuracy (including clinical sensitivity, clinical specificity, false positive rate, and false negative rate) for the detection of cervical precancer/cancer and agreement/concordance (including positive percent agreement and negative percent agreement) on self-collected (SC) versus clinician-collected (CC) samples for the following HPV genotype detections and groupings: by the Roche cobas HPV tests:\n\nIa. Any high-risk (HR) HPV genotype; Ib. HPV16; Ic. HPV 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 66 and 68 (combined).\n\nEXPLORATORY OBJECTIVE:\n\nI. To evaluate human factors affecting usability, acceptability, and preferences for self-collection.\n\nOUTLINE:\n\nPatients undergo self-collection of a vaginal sample and then undergo clinician-collection of a cervical test sample. Patients then undergo standard of care (SOC) colposcopy with cervical biopsy/endocervical curettage and/or cervical excisional procedures as clinically indicated.\n\nAfter completion of study intervention (one-time), laboratory results available within 90 days are collected for purposes of study outcomes.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 500,
+  "conditions": [
+    "Cervical Carcinoma",
+    "Human Papillomavirus Infection"
+  ],
+  "interventions": [
+    {
+      "name": "Biospecimen Collection",
+      "type": "PROCEDURE",
+      "description": "Undergo collection of a cervical sample by clinician"
+    },
+    {
+      "name": "Cervical Biopsy",
+      "type": "PROCEDURE",
+      "description": "Undergo cervical biopsy"
+    },
+    {
+      "name": "Colposcopy",
+      "type": "PROCEDURE",
+      "description": "Undergo colposcopy"
+    },
+    {
+      "name": "Electronic Health Record Review",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "Endocervical Curettage",
+      "type": "PROCEDURE",
+      "description": "Undergo endocervical curettage"
+    },
+    {
+      "name": "Excision",
+      "type": "PROCEDURE",
+      "description": "Undergo cervical excisional procedure"
+    },
+    {
+      "name": "HPV Self-Collection",
+      "type": "PROCEDURE",
+      "description": "Undertake self-collection of vaginal sample"
+    },
+    {
+      "name": "Human Papillomavirus Test",
+      "type": "PROCEDURE",
+      "description": "Undergo HPV testing of self-collected vaginal samples and cervical samples"
+    },
+    {
+      "name": "Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Willingness and ability to provide a documented informed consent.\n* Is 25 years or older.\n* Has an intact cervix.\n* Has had a referral for colposcopy and/or cervical excisional procedure in which routine cervical cancer screening has included HPV testing (HPV primary screening, co-testing, or atypical squamous cells of undetermined significance \\[ASC-US\\] cytology triage) or abnormal cytology performed within the past 12 months preceding the referral visit.\n* Willing and able to undergo colposcopy, and if clinically indicated for SOC purposes, a biopsy, endocervical curettage, and/or a cervical excisional procedure, as applicable.\n\nExclusion Criteria:\n\n* Is pregnant when presenting for the referral visit or gave birth within the past 3 months.\n* Has a known history of excisional or ablative therapy to the cervix (e.g., loop electrosurgical excision procedure \\[LEEP\\], cone biopsy, cervical laser surgery, cryotherapy, thermal ablation) in the last 12 months prior to the referral visit.\n* Has had a complete or partial hysterectomy, either supracervical or involving removal of the cervix, via self-report or confirmation via medical records.\n* Known medical conditions that, in the opinion of the investigator, preclude study participation.\n* Previous participation in the SHIP Trial. Participation is defined as completing the self-collection.\n* Is experiencing unusual bleeding or pelvic pain.",
+    "gender": "FEMALE",
+    "min_age": "25 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania/Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Clinical sensitivity for self-collected (SC) samples",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the probability of a positive SC sample given cervical intraepithelial neoplasia (CIN)2+. Will report point estimate and 95% confidence intervals (CIs)."
+    },
+    {
+      "measure": "Clinical sensitivity for clinician-collected (CC) samples",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the probability of a positive CC sample given CIN2+. Will report point estimate and 95% CIs."
+    },
+    {
+      "measure": "Clinical specificity for SC samples",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the probability of a negative SC sample given \\< CIN2. Will report point estimate and 95% CIs."
+    },
+    {
+      "measure": "Clinical specificity for CC samples",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the probability of a negative CC sample given \\< CIN2. Will report point estimate and 95% CIs."
+    },
+    {
+      "measure": "False positive rate (FPR) for SC samples",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the probability of a positive SC sample given \\< CIN2. Will report point estimate and 95% CIs."
+    },
+    {
+      "measure": "FPR for CC samples",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the probability of a positive CC sample given \\< CIN2. Will report point estimate and 95% CIs."
+    },
+    {
+      "measure": "False negative rate (FNR) for SC samples",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the probability of a negative SC sample given CIN2+. Will report point estimate and 95% CIs."
+    },
+    {
+      "measure": "FNR for CC samples",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the probability of a negative CC sample given CIN2+. Will report point estimate and 95% CIs."
+    },
+    {
+      "measure": "Sensitivity ratio for SC versus CC samples",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the sensitivity of SC divided by the sensitivity of CC. Will report point estimate and 95% CIs."
+    },
+    {
+      "measure": "Specificity ratio for SC versus CC samples",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the specificity of SC divided by the specificity of CC. Will report point estimate and 95% CIs."
+    },
+    {
+      "measure": "False positive (FP) ratio for SC versus CC samples",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the FPR of SC divided by the FPR of CC. Will report point estimate and 95% CIs."
+    },
+    {
+      "measure": "False negative (FN) ratio for SC versus CC samples",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the FNR of SC divided by the FBR of CC. Will report point estimate and 95% CIs."
+    },
+    {
+      "measure": "Positive percent agreement",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the probability of positive on SC given positive on CC, expressed as a percent. Will report point estimate and 95% CIs."
+    },
+    {
+      "measure": "Negative percent agreement",
+      "timeFrame": "One-time, up to 90 days",
+      "description": "Will be defined as the probability of negative on SC given negative on CC, expressed as a percent. Will report point estimate and 95% CIs."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2024-09-11",
+  "completion_date": "2026-12-31",
+  "last_updated": "2025-12-27"
+}

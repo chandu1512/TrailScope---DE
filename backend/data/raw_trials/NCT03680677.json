@@ -1,0 +1,60 @@
+{
+  "nct_id": "NCT03680677",
+  "brief_title": "Frailty Phenotype Assessments to Optimize Treatment Strategies for Older Patients With Hematologic Malignancies",
+  "official_title": "Prospective Analysis of Frailty Phenotype Assessments to Optimize Treatment Strategies for Older Patients With Hematologic Malignancies",
+  "brief_summary": "The purpose of this research study is to determine if frailty assessments can be used to predict how well patients aged 60 years and older will do after chemotherapy, CAR T-cell therapy, or allogeneic stem cell transplant.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Leukemia, Acute",
+    "MDS"
+  ],
+  "interventions": [
+    {
+      "name": "Bone Marrow or Peripheral Blood Graft (BMT)",
+      "type": "PROCEDURE",
+      "description": "Patient receives bone marrow or peripheral blood graft (BMT) on or off protocol."
+    },
+    {
+      "name": "Cancer-directed Therapy or Best Supportive Care",
+      "type": "OTHER",
+      "description": "Cancer-directed therapy with intensive regimens (\"7+3,\" Vyxeos, clofarabine, or similar), clinical trial, hypomethylating agent (azacitidine or decitabine), hypomethylating agent combinations (i.e. with venetoclax, sorafenib, enasidenib, ivosidenib, midostaurin, gilteritinib, or other targeted agent), targeted agents alone (i.e. enasidenib, ivosidenib, gilteritinib, midostaurin, etc.), or supportive care."
+    },
+    {
+      "name": "Frailty Assessment",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Frailty is the vulnerability of older adults to adverse health outcomes in response to illness and iatrogenic stressors."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Eligibility Criteria Arm A:\n\n* Age 60 years or older.\n* New diagnosis of Acute Leukemia or MDS, or suspected diagnosis.\n* Able to consent to the study.\n\nEligibility Criteria Arm B:\n\n* Age 60 years or older with a hematologic malignancy.\n* Plan to undergo an allogeneic blood or marrow transplantation or CAR T-cell therapy.\n* Able to consent to the study.",
+    "gender": "ALL",
+    "min_age": "60 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Non-Relapse Mortality (NRM) in Frail, Pre-Frail, and Non-Frail patients",
+      "timeFrame": "1-month",
+      "description": "NRM will be defined as death without evidence of disease progression or relapse."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2018-09-21",
+  "completion_date": "2026-11",
+  "last_updated": "2025-07-29"
+}

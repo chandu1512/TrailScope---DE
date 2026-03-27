@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT00308516",
+  "brief_title": "5-Fluorouracil, Bevacizumab, and Radiation Followed by Modified FOLFOX6 and Bevacizumab in Stage II/III Rectal Cancer",
+  "official_title": "A Phase II Study of 5-Fluorouracil, Bevacizumab (Avastin), and Radiation in the Preoperative or Adjuvant Treatment of Patients With Stage II / III Rectal Cancer",
+  "brief_summary": "This phase II trial will investigate the combination of adjuvant 5-fluorouracil, radiation, and bevacizumab in patients with stage II and III rectal cancer, followed by FOLFOX6 and bevacizumab. Fluorouracil (FU) has proven to be an effective and safe regimen in the treatment of stage II and III rectal cancer. Recent evidence has proven fluorouracil/leucovorin (FL) in combination with bevacizumab is superior to FL alone and when combined with irinotecan is superior to (irinotecan plus fluorouracil/leucovorin (IFL) alone. This trial will be one of the first clinical trials to evaluate a combination of targeted therapy, radiation, and chemotherapy in the adjuvant treatment of a common solid tumor.",
+  "detailed_description": "All eligible patients will receive combined modality treatment initially. Systemic treatment will begin 4-6 weeks after completion of the Combined Modality portion and will complete 4 cycles of a 4 week regimen. Patients with no evidence of disease following systemic therapy may continue single agent bevacizumab for up to one year. After all treatment is completed, patients will be re-evaluated with imaging to establish a new baseline. Patients will be re-evaluated thereafter for up to a total of 5 years.\n\nCombined Modality Treatment:\n\n* bevacizumab 5mg/kg IV infusion days 1, 15, and 29\n* fluorouracil 225mg/m2 IV continuous infusion days 1-42\n* radiation 1.8 Gy/day or 28 fractions weeks 1-6\n\nSystemic Treatment:\n\n* 5-fluorouracil 400 mg/m2 bolus\n* 5-fluorouracil 2400 mg/m2 over 46 hours days 1 and 15\n* leucovorin 350 mg prior to FU on days 1 and 15\n* oxaliplatin 85 mg/m2 days 1 and 15\n* bevacizumab 5 mg/kg days 1 and 15",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 66,
+  "conditions": [
+    "Rectal Cancer",
+    "Cancer of the Rectum",
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "5-Fluorouracil",
+      "type": "DRUG",
+      "description": "Combined Modality Treatment:\n\nfluorouracil 225mg/m2 IV continuous infusion days 1-42\n\nSystemic Treatment:\n\n5-fluorouracil 400 mg/m2 bolus 5-fluorouracil 2400 mg/m2 over 46 hours days 1 and 15"
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "Combined Modality Treatment:\n\nbevacizumab 5mg/kg IV infusion days 1, 15, and 29\n\nSystemic Treatment:\n\nbevacizumab 5 mg/kg days 1 and 15"
+    },
+    {
+      "name": "Radiation Therapy",
+      "type": "PROCEDURE",
+      "description": "radiation 1.8 Gy/day or 28 fractions weeks 1-6"
+    },
+    {
+      "name": "Oxaliplatin",
+      "type": "DRUG",
+      "description": "Systemic Treatment:\n\noxaliplatin 85 mg/m2 days 1 and 15"
+    },
+    {
+      "name": "Leucovorin",
+      "type": "DRUG",
+      "description": "Systemic Treatment:\n\nleucovorin 350 mg prior to FU on days 1 and 15"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed Stage I or II rectal cancer\n* Patients must be candidates for preoperative or adjuvant chemoradiation.\n* Patients enrolling in the adjuvant chemoradiation cohort must have undergone surgical resection of the primary rectal tumor between 28 and 56 days (i.e., 4-8 weeks) prior to study treatment.\n* ECOG performance status 0-1\n* Adequate bone marrow, liver, and kidney function\n* At least 18 years of age\n* Able to give written informed consent\n\nExclusion Criteria:\n\n* Treatment with prior chemotherapy or radiation for rectal cancer\n* History of myocardial infarction\n* Uncontrolled hypertension, unstable angina, congestive heart failure, serious cardiac arrhythmia requiring medication or peripheral vascular disease\n* History of stroke within 6 months\n* History of abdominal fistula, gastrointestinal perforation, or intrabdominal abscess within 6 months\n* Symptomatic sensory or peripheral neuropathy\n* Prior treatment with anti-angiogenic agents\n* Prior malignancy in the past 5 years\n* Active infections or serious underlying medical condition\n* Major surgery less than 28 days prior\n* Women who are pregnant or lactating\n* Thrombolytic therapy within 10 days of starting bevacizumab\n* PEG tube, G-tube, or external biliary stents\n* Proteinuria\n* Non healing wound, ulcer or fracture\n* History of bleeding diathesis or coagulopathy\n* Hemoptysis\n* Participation in another experimental trial within 28 days\n* Uncontrolled anticoagulant therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Consultants in Medical Oncology and Hematology",
+      "city": "Drexel Hill",
+      "state": "Pennsylvania",
+      "zip": "19026",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Disease-Free Survival (DFS), The Proportion of Patients Predicted to be Alive Without Evidence of Disease Recurrence 24 Months After Completion of Protocol Treatment",
+      "timeFrame": "24 months",
+      "description": "The Proportion of Patients Predicted to be Alive Without Evidence of Disease Recurrence 24 Months After Completion of Protocol Treatment"
+    }
+  ],
+  "sponsor": "SCRI Development Innovations, LLC",
+  "collaborators": [
+    "Genentech, Inc."
+  ],
+  "start_date": "2006-03",
+  "completion_date": "2012-02",
+  "last_updated": "2021-11-11"
+}

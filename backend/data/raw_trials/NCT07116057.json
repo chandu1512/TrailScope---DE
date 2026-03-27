@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT07116057",
+  "brief_title": "MOv19-BBz CAR T Cells in FRa+ Cancers",
+  "official_title": "Phase I Clinical Trial of Autologous Folate Receptor-Alpha Redirected T Cells in Patients With FRa+ Cancers",
+  "brief_summary": "This is a Phase I open-label clinical trial to assess the safety, feasibility, and preliminary efficacy of intrapleural administration of MOv19-BBz CAR T cells in patients with FRa+ cancers. This study will be initiated in patients with metastatic or recurrent non-small cell lung cancer (NSCLC) only. Subjects will receive a single dose of MOv19-BBz CAR T cells via intrapleural infusion following lymphodepleting chemotherapy. Subjects without an existing intra-pleural catheter will have a temporary pleural catheter placed for the study. Subjects may initiate treatment with commercial checkpoint inhibitors per routine care beginning at least 28 days after receiving MOv19-BBz CAR T cells.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 10,
+  "conditions": [
+    "Metastatic Non Small Cell Lung Cancer",
+    "Recurrent Lung Non-Small Cell Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "MOv19-BBz CAR T cells",
+      "type": "BIOLOGICAL",
+      "description": "Autologous T cells engineered to express an extracellular single chain variable fragment (scFv) with FRa specificity."
+    },
+    {
+      "name": "Cyclophosphamide/Fludarabine",
+      "type": "DRUG",
+      "description": "Cytotoxic chemotherapy agents used for lymphodepletion prior to MOv19-BBz CAR T cell administration."
+    },
+    {
+      "name": "FRa Expression Testing",
+      "type": "DEVICE",
+      "description": "Laboratory Developed Test used to determine subject eligibility"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Signed informed consent form\n2. Documentation of tumor FRa expression by IHC at the Hospital of the University of Pennsylvania (\u2265 10% of tumor cells). Subjects must have archived tumor tissue available.\n3. Disease-specific criteria:\n\n   a. NSCLC Patients: i. Metastatic or recurrent lung adenocarcinoma with cytologically or pathologically confirmed malignant pleural effusion.\n\n   ii. Failure of at least one prior line of standard of care therapy for advanced stage disease.\n4. Patients must have evidence of active disease as defined by RECIST 1.1 criteria\n5. Patients with asymptomatic CNS metastases that have been treated (and are off steroids for the treatment of CNS disease) are allowed. They must meet the following criteria\n\n   1. No concurrent treatment for the CNS disease\n   2. No progression of CNS metastasis on MRI at screening\n   3. No evidence of leptomeningeal disease or cord compression\n6. Adequate organ function de\ufb01ned as:\n\n   1. Serum creatinine \u2264 1.5 mg/dl or creatinine clearance \u2265 30 cc/min; Patient must not be on dialysis\n   2. ALT/AST \u2264 3x upper limit of normal range\n   3. Serum total bilirubin \u2264 1.5 mg/dl, unless the subject has Gilbert's syndrome (if so, serum total bilirubin must be \u2264 3.0 mg/dl)\n   4. Must have a minimum level of pulmonary reserve de\ufb01ned as \\< Grade 1 dyspnea and pulse oxygen \\> 92% on room air\n   5. Left Ventricle Ejection Fraction (LVEF) \u2265 40% con\ufb01rmed by ECHO or MUGA\n7. Male or female age \u2265 18 years\n8. Eastern Cooperative Oncology Group (ECOG) Performance Status that is either 0 or 1\n9. Subjects must be a possible clinical candidate for standard of care treatment with a commercial checkpoint inhibitor, as per physician-investigator assessment.\n\nExclusion Criteria:\n\n1. Any clinically signi\ufb01cant pleural e\ufb00usion that cannot be drained with standard approaches.\n2. Patients with signi\ufb01cant lung disease as follows:\n\n   1. Patients with radiographic evidence of greater than lobar lymphangitic pulmonary involvement, greater than lobar bronchial wall thickening suggestive of peribronchial lymphatic disease extension, and/or evidence of extensive bilateral parenchymal metastatic burden.Note: \"Greater than lobar\" = \"in more than 1 lobe\".\n   2. Patients with radiographic and/or clinical evidence of active radiation pneumonitis.\n   3. Patients with radiographic evidence of underlying interstitial lung disease, including evidence of unresolved drug toxicity from any agent (e.g. chemotherapy, targeted agents, amiodarone, nitrofurantoin, etc.).\n   4. Patients with radiographic evidence of signi\ufb01cant pleural effusion that is not readily amenable to minimally invasive drainage.\n3. Active hepatitis B or hepatitis C infection\n4. Any other active, uncontrolled infection\n5. Class III/IV cardiovascular disability according to the New York Heart Association Classi\ufb01cation\n6. Active invasive cancer, other than the proposed cancer included in this protocol, within 2 years prior to eligibility confirmation by a physician-investigator. \\[Note: non-invasive cancers treated with curative intent (e.g., non-melanoma skin cancer) may still be eligible\\].\n7. Dependence on systemic steroids or immunosuppressant medications.\n8. Pregnant or nursing (lactating) patients. Participants of reproductive potential must agree to use acceptable birth control methods\n9. Active autoimmune disease requiring systemic immunosuppressive treatment equivalent to \u2265 10mg of prednisone daily. Patients with autoimmune neurologic diseases (such as MS) will be excluded.\n10. History of allergy or hypersensitivity to study product excipients (human serum albumin, DMSO, and Dextran 40)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of adverse events as assessed by CTCAE V5.0",
+      "timeFrame": "Up to 15 years post-MOv19-BBz CAR T cell administration",
+      "description": "Type, frequency, severity, and attribution of adverse events."
+    },
+    {
+      "measure": "Occurrence of treatment-limiting toxicities (TLTs)",
+      "timeFrame": "28 days post-MOv19-BBz CAR T cell administration",
+      "description": "Unacceptable toxicity as defined by the protocol."
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2025-10-07",
+  "completion_date": "2040-10",
+  "last_updated": "2025-10-08"
+}

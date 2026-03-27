@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT05315700",
+  "brief_title": "Study of ORIC-114 in Patients With Advanced Solid Tumors Harboring an EGFR or HER2 Alteration",
+  "official_title": "An Open-Label, Phase 1/2 Study of ORIC-114 as a Single Agent or in Combination With Chemotherapy, in Patients With Advanced Solid Tumors Harboring an EGFR or HER2 Alteration",
+  "brief_summary": "The purpose of this study is to establish the recommended Phase 2 dose (RP2D) and/or maximum tolerated dose (MTD), safety, pharmacokinetics (PK), pharmacodynamics (PD), and antitumor activity of ORIC-114 as a Single Agent or in Combination with Chemotherapy when administered to patients with advanced solid tumors harboring an EGFR or HER2 alteration.",
+  "detailed_description": "ORIC-114 is a brain penetrant, selective, orally bioavailable, irreversible small molecule inhibitor designed to target EGFR and HER2 alterations, making it a promising therapeutic candidate for development in patients whose tumors harbor these alterations, including those with CNS metastases.\n\nThis is a first-in-human, open-label, single arm, multicenter, dose escalation study of ORIC-114 as a single agent (Part I), followed by dose optimization (Part II) to establish the recommended phase 2 dose (RP2D) and antitumor activity of ORIC-114 in patients with advanced solid tumors harboring an EGFR or HER2 alteration who have exhausted available treatment options. After the optimal RP2D has been determined, Phase 2 will be initiated via protocol amendment to add one or more expansion cohorts of patients with specific tumor types, treatment history, and/or expression of a specific biomarker to evaluate the antitumor activity of ORIC-114.\n\nAfter completion of Part I dose escalation, Part III, a dose escalation study of ORIC-114 in combination with chemotherapy (carboplatin-pemetrexed) may be initiated to establish the RP2D and/or MTD and antitumor activity for the combination (US sites only).",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 350,
+  "conditions": [
+    "Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "ORIC-114",
+      "type": "DRUG",
+      "description": "ORIC-114 oral daily"
+    },
+    {
+      "name": "Chemotherapy drug",
+      "type": "DRUG",
+      "description": "21 days for up to 4 cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed locally advanced or metastatic solid tumor with a documented EGFR or HER2 exon 20 insertion mutation or atypical EGFR mutation as determined by any nucleic acid-based diagnostic testing method, or HER2 amplification/overexpression as determined by an immunohistochemistry (IHC) or an in situ hybridization (ISH) test\n\n  1. Part I Dose Escalation (CLOSED) Any solid tumor with\n\n     * EGFR exon 20 insertion mutation\n     * HER2 exon 20 insertion mutation\n     * Atypical EGFR mutations (NSCLC only) (Appendix 8)\n     * HER2 amplification or overexpression (HER2+)\n     * Previously received and progressed on or after available standard therapies and for whom additional standard therapy is considered unsuitable or intolerable\n  2. Part I Extension (ONGOING)\n\n     * Cohort IA: Patients with HER2+ breast cancer previously received and progressed on or after available standard therapies and for whom additional standard therapy is considered unsuitable or intolerable\n     * Cohort IB: NSCLC patients with EGFR exon 20 insertion mutation previously treated with chemotherapy and amivantamab\n     * Cohort IC: Treatment-na\u00efve NSCLC patients with EGFR exon 20 insertion mutation\n     * Cohort ID: Treatment-na\u00efve NSCLC patients with EGFR atypical mutations\n  3. Part II Dose Optimization (ONGOING): NSCLC patients with\n\n     * Cohort IIA: EGFR exon 20 insertion mutation, patients must have received platinum-based chemotherapy or other chemotherapy regimen if platinum- based chemotherapy was contraindicated. Additionally, patients must be na\u00efve to an EGFR exon 20 targeted agent, ie, must have declined or be ineligible for all available exon 20 targeted therapies with proven benefit\n     * Cohort IIB: HER2 exon 20 insertion mutation, patients must have received platinum-based chemotherapy or other chemotherapy regimen if platinum- based chemotherapy was contraindicated. Additionally, patients must be na\u00efve to a HER2 exon 20 targeted TKI\n     * Cohort IIC: Atypical EGFR mutation, patients may have received a prior EGFR TKI\n* Agreement and ability to undergo pretreatment biopsy\n* Measurable disease according to RECIST 1.1\n* CNS involvement, which is either previously treated and controlled, or untreated and asymptomatic\n* ECOG performance status of 0 or 1\n* Adequate organ function\n\nExclusion Criteria:\n\n* Known EGFR T790M mutation\n* Leptomeningeal disease and spinal cord compression\n\n  \\-- Except if LMD has been reported radiographically on baseline MRI, but is not suspected clinically by the Investigator; the subject must be free of neurological symptoms of LMD\n* History of class III or IV congestive heart failure or severe non-ischemic cardiomyopathy, unstable or poorly controlled angina, myocardial infarction, or ventricular arrhythmia within the previous 6 months\n* Past medical history of interstitial lung disease (ILD), drug induced ILD, radiation pneumonitis which required steroid treatment, or any evidence of clinically active ILD\n* Known, symptomatic human immunodeficiency virus (HIV) infection\n* Known active infection requiring treatment or history of hepatitis B virus (HBV) or hepatitis C virus (HCV). Patients positive for HBsAg but normal HBV DNA level are allowed.\n* Active gastrointestinal disease (eg, Crohn's disease, ulcerative colitis, or short gut syndrome) or other malabsorption syndromes\n* Any other concurrent serious uncontrolled medical, psychological, or addictive conditions",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D)",
+      "timeFrame": "12 months",
+      "description": "RP2D as determined by interval 3+3 dose escalation design"
+    },
+    {
+      "measure": "Maximum plasma concentration (Cmax)",
+      "timeFrame": "28 Days",
+      "description": "PK of ORIC-114"
+    },
+    {
+      "measure": "Time of maximum observed concentration (Tmax)",
+      "timeFrame": "28 Days",
+      "description": "PK of ORIC-114"
+    },
+    {
+      "measure": "Area under the curve (AUC)",
+      "timeFrame": "28 Days",
+      "description": "PK of ORIC-114"
+    },
+    {
+      "measure": "Apparent plasma terminal elimination half-life (t1/2)",
+      "timeFrame": "28 Days",
+      "description": "PK of ORIC-114"
+    }
+  ],
+  "sponsor": "ORIC Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2022-03-10",
+  "completion_date": "2027-09",
+  "last_updated": "2025-07-31"
+}

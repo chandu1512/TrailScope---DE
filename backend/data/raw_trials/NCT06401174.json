@@ -1,0 +1,123 @@
+{
+  "nct_id": "NCT06401174",
+  "brief_title": "Patient Navigation for Colorectal Cancer Screening",
+  "official_title": "Bridging the Gap: Delivering Equitable Colorectal Cancer Screening",
+  "brief_summary": "Patient navigation is an evidence-based strategy to increase screening rates among racial and ethnic minorities, but there is a gap in understanding the multi-level influences on implementation of such programs across primary care practices. The investigators will conduct a stepped-wedge, randomized trial to roll out patient navigation and patient and provider reminders across 15 clinics (3 clinics per step, 5 six-month steps). Implementation strategies will include assessing for readiness, audit and feedback, building a community coalition, engaging consumers, modifying referral tracking, and training and educating clinical stakeholders. The research team will use the electronic health record data with consideration for the Observational Medical Outcomes Partnership (OMOP) Common Data Model, additional patient-reported data, and study tracking logs to measure reach, effectiveness, adoption, implementation, and will use qualitative measures and site observations to document contextual factors, including examination of discrimination in patient experiences and provider referral patterns that may influence intervention delivery or colorectal cancer screening completion.",
+  "detailed_description": "Colorectal cancer (CRC) screening is recommended by the United States Preventative Services Task Force for adults age 45-75. Patient navigation is an evidence-based strategy to increase screening rates among racial and ethnic minorities. While patient navigation is an evidence-based approach to improve screening, there is a gap in understanding the multi-level influences on implementation of such programs across primary care practices, particularly using a health-equity focused, stakeholder-centered approach. Guided by the Practical, Robust Implementation and Sustainability Model (PRISM) and core health and racial equity principles, the investigative team aims to increase reach of patient navigation and show effectiveness through improvement in the percentage of Black and Hispanic patients completing CRC screening. Investigators will also utilize longitudinal tracking of implementation strategies to better track implementation or intervention adaptations navigation delivery in order to inform future scale up. The research team will conduct a stepped-wedged, randomized trial to roll out patient navigation and patient and provider reminders across 15 clinics (3 clinics per step, 5 six-month steps). Implementation strategies will include assessing for readiness, audit and feedback, building a community coalition, engaging consumers, modifying referral tracking, and training and educating clinical stakeholders. Researchers will use the electronic health record data with consideration for the Observational Medical Outcomes Partnership (OMOP) Common Data Model, additional patient-reported data, and study tracking logs to measure reach, effectiveness, adoption, implementation, and will use qualitative measures and site observations to document contextual factors, including examination of discrimination in patient experiences and provider referral patterns that may influence intervention delivery or CRC screening completion.",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1800,
+  "conditions": [
+    "Colorectal Cancer Screening"
+  ],
+  "interventions": [
+    {
+      "name": "Delivery of patient navigation",
+      "type": "BEHAVIORAL",
+      "description": "Clinics will receive educational materials and access a referral order for patient navigation. Iterative strategies will be used to increase CRC screening"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age 45-75\n* Due for colorectal cancer screening\n* Identify as Black or Hispanic/Latino\n* Attend primary care visit at one of the 15 selected clinics within the step time -period\n\nExclusion Criteria:\n\n\\-",
+    "gender": "ALL",
+    "min_age": "45 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Honeygo",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21128",
+      "status": ""
+    },
+    {
+      "facility": "MedStar Adult Medicine at Union Memorial",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21218",
+      "status": ""
+    },
+    {
+      "facility": "Harbor Hospital Primary Care Federal Hill",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21230",
+      "status": ""
+    },
+    {
+      "facility": "Franklin Square",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Primary Care at Franklin Square",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Charlotte Hall",
+      "city": "Charlotte Hall",
+      "state": "Maryland",
+      "zip": "20622",
+      "status": ""
+    },
+    {
+      "facility": "Internal Medicine Clinton",
+      "city": "Clinton",
+      "state": "Maryland",
+      "zip": "20735",
+      "status": ""
+    },
+    {
+      "facility": "Family Medicine",
+      "city": "Gaithersburg",
+      "state": "Maryland",
+      "zip": "20878",
+      "status": ""
+    },
+    {
+      "facility": "Internal Medicine Hyattsville",
+      "city": "Hyattsville",
+      "state": "Maryland",
+      "zip": "20782",
+      "status": ""
+    },
+    {
+      "facility": "Family Medicine",
+      "city": "Olney",
+      "state": "Maryland",
+      "zip": "20832",
+      "status": ""
+    },
+    {
+      "facility": "Olney Prof Park",
+      "city": "Olney",
+      "state": "Maryland",
+      "zip": "20832",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Colorectal cancer screening completion",
+      "timeFrame": "12 months",
+      "description": "Completion of any USPSTF approved screening test"
+    }
+  ],
+  "sponsor": "Medstar Health Research Institute",
+  "collaborators": [
+    "National Committee for Quality Assurance"
+  ],
+  "start_date": "2024-06-01",
+  "completion_date": "2028-07-30",
+  "last_updated": "2025-10-20"
+}

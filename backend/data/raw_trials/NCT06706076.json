@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT06706076",
+  "brief_title": "A Study of BH-30643 in Subjects With Locally Advanced or Metastatic NSCLC Harboring EGFR and/or HER2 Mutations",
+  "official_title": "A Phase 1/2 Open-Label, Multicenter, First-in-Human Study of the Safety, Tolerability, Pharmacokinetics, and Antitumor Activity of BH-30643 in Adult Subjects With Locally Advanced or Metastatic NSCLC Harboring EGFR and/or HER2 Mutations (SOLARA)",
+  "brief_summary": "This Phase1/2, open label, multicenter study will assess the safety, tolerability, pharmacokinetics (PK), pharmacodynamics and preliminary anti-tumor activity of BH-30643 in patients with NSCLC having EGFR and/or HER2 mutations.\n\nPhase 1 will determine the recommended Phase 2 dose (RP2D) and, if applicable, the maximum tolerated dose (MTD) of BH-30643.\n\nPhase 2 will further evaluate the antitumor efficacy and safety in specified cohorts determined by EGFR/HER2 mutation subtypes and/or treatment history at the RP2D, as well as the population PK.",
+  "detailed_description": "BH-30643 is a novel, orally available, non-covalent, macrocyclic, mutant selective OMNI-EGFR inhibitor that targets a broad diversity of mutations in the EGFR kinase domain. These include EGFR classical mutations (e.g., ex19del and L858R) as well as less common (atypical) mutations (including G719X, S768I, L861Q, E709X, and beyond). BH-30643 also overcomes a variety of mutations which can cause resistance to previously approved EGFR TKIs (including both C797S and T790M). BH-30643 was designed to be selective over wildtype EGFR and HER2.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 266,
+  "conditions": [
+    "NSCLC (Advanced Non-small Cell Lung Cancer)"
+  ],
+  "interventions": [
+    {
+      "name": "BH-30643",
+      "type": "DRUG",
+      "description": "BH-30643 will be provided as either 10 mg or 40 mg capsules. Subjects will take BH-30643 orally depending on their dose level assignment."
+    },
+    {
+      "name": "BH-30643",
+      "type": "DRUG",
+      "description": "BH-30643 will be provided as either 10 mg or 40 mg capsules. Subjects will take BH-30643 orally depending on their dose level assignment."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* \u2265 18 years or legal adult.\n* Pathologically confirmed diagnosis of locally advanced or metastatic NSCLC with EGFR (classical, atypical, exon20 insertion) or HER2 mutations in the kinase domain of exons 18, 19, 20, or 21. EGFR mutations include activating and acquired EGFR resistance mutations that might form compound mutations.\n* Had received standard therapies.\n* Has at least 1 measurable target extracranial lesion according to RECIST v1.1.\n* Eastern Cooperative Oncology Group Performance Status \u2264 1.\n* Has a life expectancy of \u2265 3 months.\n* Has adequate hematologic, hepatic, and renal function. \\*The above are a summary; other Inclusion Criteria details may apply.\n\nExclusion Criteria:\n\n* History of any concurrent malignancy within the previous 2 years.\n* Known other oncogenic driver alterations (eg, moderate or high MET amplification) or histological transformation (eg, to small cell carcinoma, etc.).\n* Unresolved toxicities from prior therapies.\n* Any significant and uncontrolled medical condition, such as infection.\n* History of interstitial lung disease from any cause\n* Clinically significant cardiovascular event within 6 months or significant history of major organ.\n* Actively receiving investigational therapy(ies) in another clinical study. \\*The above are a summary; other Exclusion Criteria details may apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University, Sidney Kimmel Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose-limiting toxicities (DLTs) (Phase 1, Dose Escalation)",
+      "timeFrame": "Within the first 21 days of the first dose of BH-30643.",
+      "description": "Assess dose-limiting toxicities (DLTs) as defined in the study protocol."
+    },
+    {
+      "measure": "Recommended Phase 2 dose (RP2D) (Phase 1, Dose Expansion/Optimization)",
+      "timeFrame": "Within 21 days of last participant dosed during Dose Expansion/Optimization.",
+      "description": "Determine the RP2D for Phase 2."
+    },
+    {
+      "measure": "Objective Response Rate (ORR) (Phase 2)",
+      "timeFrame": "Approximately 3 years after the first participant dosed.",
+      "description": "Determine ORR as assessed by Blinded Independent Central Review (BICR)."
+    }
+  ],
+  "sponsor": "BlossomHill Therapeutics",
+  "collaborators": [],
+  "start_date": "2025-01-09",
+  "completion_date": "2029-07-31",
+  "last_updated": "2026-02-05"
+}

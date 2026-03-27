@@ -1,0 +1,105 @@
+{
+  "nct_id": "NCT05098132",
+  "brief_title": "Study of STK-012 Alone and With Other Treatments in Patients With Advanced Lung Cancer and Other Cancers",
+  "official_title": "A Phase 1/2 Study to Evaluate STK-012 as a Single Agent and in Combination Therapy in Subjects With Front-line Advanced NSCLC and Other Selected Indications",
+  "brief_summary": "This is a phase 1/2, multicenter, open-label study. The phase 1 portion is a dose escalation and expansion study of STK-012 as monotherapy and in combination therapy in patients with selected advanced solid tumors. The phase 2 portion is a randomized study of STK-012 in combination with standard of care (SoC) pembrolizumab, pemetrexed, and carboplatin versus SoC, in patients with first line, PD-L1 negative, non-squamous, non-small cell lung cancer.",
+  "detailed_description": "Phase 1 \\[closed to enrollment\\]: The phase 1a portion is a dose escalation study to evaluate STK-012 as monotherapy and in combination therapy in patients with selected solid tumors. The phase 1b portion is a dose expansion study to evaluate STK-012 as monotherapy and in combination therapy at the candidate recommended phase 2 dose (RP2D) in selected solid tumor types.\n\nPhase 2 \\[open to enrollment\\]: The phase 2 portion is a randomized, open label study to evaluate STK-012 at two dose levels in combination with standard of care (SoC) pembrolizumab, pemetrexed and carboplatin, versus SoC, in patients with first line, PD-L1 negative, non-squamous, non-small cell lung cancer.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 364,
+  "conditions": [
+    "Advanced Solid Tumor",
+    "Non Small Cell Lung Cancer",
+    "Untreated Advanced NSCLC",
+    "1st Line NSCLC"
+  ],
+  "interventions": [
+    {
+      "name": "STK-012",
+      "type": "DRUG",
+      "description": "Engineered Interleukin-2 (IL-2) selective for antigen activated T cells"
+    },
+    {
+      "name": "pembrolizumab",
+      "type": "DRUG",
+      "description": "anti-PD-1 monoclonal antibody"
+    },
+    {
+      "name": "pemetrexed",
+      "type": "DRUG",
+      "description": "chemotherapy"
+    },
+    {
+      "name": "carboplatin",
+      "type": "DRUG",
+      "description": "chemotherapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Selected Inclusion Criteria:\n\n1. Phase 1 \\[closed to enrollment\\]\n2. Phase 2 \\[open to enrollment\\]:\n\n   * Diagnosis of non-small cell lung cancer (NSCLC).\n   * Stage IV or Stage IIIB/IIIC and not a candidate for definitive treatment.\n   * Non-squamous (NSQ) cell histology.\n   * No prior systemic therapy for advanced/metastatic NSQ NSCLC.\n   * Tumor is PD-L1 negative (TPS \\<1%) by local testing.\n   * No known actionable EGFR, ALK, ROS1, or other actionable genomic aberrations for which there is a local standard of care available as front line therapy.\n\nSelected Exclusion Criteria:\n\n1. Phase 1 \\[closed to enrollment\\]\n2. Phase 2 \\[open to enrollment\\]:\n\n   * Prior immune checkpoint inhibitor (anti-PD\\[L\\]1 and/or anti-CTLA-4) treatment\n   * Tumor with small cell, neuroendocrine, or sarcomatoid components.\n   * Received radiotherapy \u2264 7 days of the first dose of study treatment.\n   * Known untreated central nervous system metastases\n   * Any history of carcinomatous meningitis",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "ACTIVE_NOT_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1a: Treatment emergent adverse events (TEAEs)",
+      "timeFrame": "From 1st dose of study treatment through 90 days after last dose",
+      "description": "Incidence of TEAEs in participants with select advanced solid tumors"
+    },
+    {
+      "measure": "Phase 1a: Serious adverse events (SAEs)",
+      "timeFrame": "From 1st dose of study treatment through 90 days after last dose",
+      "description": "Incidence of SAEs in participants with select advanced solid tumors"
+    },
+    {
+      "measure": "Phase 1a: Dose limiting toxicities (DLTs)",
+      "timeFrame": "Cycle 1, Days 1 through 21",
+      "description": "Incidence of DLTs in participants with select advanced solid tumors"
+    },
+    {
+      "measure": "Phase 1a: Deaths",
+      "timeFrame": "From 1st dose of study treatment until death, up to 4 years",
+      "description": "Incidence of death in participants with select advanced solid tumors"
+    },
+    {
+      "measure": "Phase 1b: TEAEs at the RP2D",
+      "timeFrame": "From 1st dose of study treatment through 90 days after last dose",
+      "description": "Incidence of TEAEs at the recommended phase 2 dose (RP2D) in participants with select advanced solid tumors"
+    },
+    {
+      "measure": "Phase 1b: SAEs at the RP2D",
+      "timeFrame": "From 1st dose of study treatment through 90 days after last dose",
+      "description": "Incidence of SAEs at the RP2D in participants with select advanced solid tumors"
+    },
+    {
+      "measure": "Phase 1b: Deaths at the RP2D",
+      "timeFrame": "From 1st dose of study treatment until death, up to 4 years",
+      "description": "Incidence of death at the RP2D in participants with select advanced solid tumors"
+    },
+    {
+      "measure": "Phase 2: Overall response rate (ORR) in Arm A versus Arm C",
+      "timeFrame": "From randomization until disease progression or death, or the last evaluable assessment in the absence of progression, up to 4 years",
+      "description": "To compare the ORR in 1L PD-L1 negative NSQ NSCLC subjects treated with STK-012 2.25 mg + SoC vs. SoC (Arms A vs. C). ORR is the proportion of subjects with confirmed complete response (CR) or confirmed partial response (PR) per BICR."
+    }
+  ],
+  "sponsor": "Synthekine",
+  "collaborators": [],
+  "start_date": "2022-01-25",
+  "completion_date": "2029-01",
+  "last_updated": "2026-03-17"
+}

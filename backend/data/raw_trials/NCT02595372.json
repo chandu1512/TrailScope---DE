@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT02595372",
+  "brief_title": "Inhibiting Fatty Acid Synthase to Improve Efficacy of Neoadjuvant Chemotherapy",
+  "official_title": "Inhibiting Fatty Acid Synthase to Improve Efficacy of Neoadjuvant Chemotherapy",
+  "brief_summary": "In preliminary laboratory science studies, the investigators show that proton pump inhibitors (PPIs) effectively inhibit human fatty acid synthase (FASN) and breast cancer cell survival. A preliminary retrospective study shows that PPI usage in breast cancer patients during chemotherapy significantly improved overall survival. The impact was most striking in patients with triple negative breast cancer (TNBC). Thus, PPIs may be repositioned as safe and effective breast cancer drugs to enhance the effect of chemotherapy.\n\nMany of the hurdles that slow progress from target, to lead compound, to investigational agent, to standard therapy are not barriers for the PPIs. The PPIs are FDA-approved, chronically used, and well tolerated so the investigators can move quickly from the laboratory to a proof of concept clinical trial. Incorporating the PPIs into standard care will require more than the investigators propose here, but the investigators have already plotted the additional steps needed to truly impact patient care. If successful, the data gathered in this proposal will lend support to and guide development of a definitive randomized trial.",
+  "detailed_description": "Primary Objective\n\n\u2022 Estimate the rate of pathologic complete response (pCR) in patients with triple negative breast cancer and FASN expression treated with standard neoadjuvant chemotherapy (NAC) in combination with high dose omeprazole.\n\nSecondary Objectives\n\n* Quantify the number of patients with newly diagnosed TNBC with tumors that express FASN.\n* Estimate the rate of pCR in patients with triple negative breast cancer (irrespective of FASN status) treated with standard NAC in combination with high dose omeprazole.\n* Describe the safety of incorporating high dose omeprazole with standard NAC.\n* Estimate the biologic activity of high dose omeprazole in modulating FASN expression and activity.\n\nThis is a single arm Phase II study. Patients should begin therapy within 7 working days of study entry. Patients will be treated with omeprazole 80 mg orally twice a day (BID) beginning 4-7 days prior to chemotherapy and continuing until surgery. After the brief period of omeprazole monotherapy, patients will begin standard neoadjuvant chemotherapy with doxorubicin (60 mg/m2) and cyclophosphamide (600 mg/m2) for 4 cycles followed by paclitaxel (80 mg/m2) weekly x 12. Doxorubicin and cyclophosphamide (AC) may be administered on a classical every 3 week or dose dense every 2 week (with growth factor support) schedule at the treating physician's discretion. Routine incorporation of carboplatin is not recommended, however use of carboplatin (AUC 6 on week 1, 4, 7, and 10) with paclitaxel is allowed at the treating investigator's discretion. Chemotherapy will be adjusted based on toxicity according to standard treatment guidelines. Patients with overt disease progression during AC should move immediately to paclitaxel therapy. Patients with disease progression during paclitaxel should proceed immediately to surgery.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 42,
+  "conditions": [
+    "Cancer of the Breast"
+  ],
+  "interventions": [
+    {
+      "name": "Omeprazole",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\n1. Newly diagnosed triple negative breast cancer (TNBC) clinical stage Ic, II, or III\n\n   * ER and PR \\< 10%\n   * HER2 negative based on one of the following:\n\n     * IHC 0 or 1+\n     * IHC 2+ and FISH negative\n     * IHC 2+ and FISH equivocal and no indication for HER2 targeted therapy based on the treating investigators discretion (i.e., HER2: CEP17 ratio \\< 2.0 or HER2 total copy number \\<6)\n2. Planned neoadjuvant treatment with anthracycline and taxane containing chemotherapy\n3. \u2265 18 years old at the time of informed consent\n4. ECOG Performance Status 0-1\n5. Ability to provide written informed consent and HIPAA authorization\n6. Women of childbearing potential definition must have a negative pregnancy test within 14 days of registration. All women (regardless of sexual orientation, having undergone a tubal ligation, or remaining celibate by choice) are considered to have childbearing potential unless they meet one of the following criteria:\n\n   * Prior hysterectomy or bilateral oophorectomy;\n   * Has not had menses at any time in the preceding 24 consecutive months\n7. Adequate organ function for anthracycline and taxane based therapy\n\n   * LVEF \\> LLN based on cardiac ECHO or MUGA\n   * Hgb \\> 8.5\n   * ANC \\> 1,000\n   * Platelets \\> 100,000\n   * Creatinine \\< 1.5\n   * T. bili \\< 1.3\n   * AST \\< 2.5 x ULN\n\nExclusion Criteria\n\n1. Use of prescription PPIs within 12 months prior to study entry \\[Dexlansoprazole (Dexilant), Pantoprazole (Protonix), Rabeprazole (Aciphex), Esomeprazole (Nexium), Lansoprazole (Prevacid), Omeprazole (Prilosec, Zegerid)\\]\n2. Use of OTC PPIs within 6 months prior to study entry \\[Esomeprazole (Nexium), Lansoprazole (Prevacid), Omeprazole (Prilosec, Zegerid)\\]\n3. Use of Orlistat or any other known FASN inhibitor within 6 months prior to study entry\n4. Nursing mothers are excluded\n5. Known hypersensitivity to any component of the formulation or substituted benzimidazoles\n6. Prior osteoporotic fracture",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Franklin Square Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Patients With Pathological Complete Response (pCR) in Patients Who Have Fatty Acid Synthase (FASN) Expression",
+      "timeFrame": "Up to 6 months",
+      "description": "pCR is defined as no invasive disease in the breast of axilla at the time of definitive surgery. A patient is considered to have FASN expression if the positivity was \\>= 15% at the baseline or after 4-7 days of Omeprazole monotherapy. FASN expression is evaluated using immunohistochemistry in core biopsy samples. The percent of patients with FASN expression that have pCR will be calculated with an exact 95% confidence interval."
+    }
+  ],
+  "sponsor": "Kathy Miller",
+  "collaborators": [],
+  "start_date": "2015-11-12",
+  "completion_date": "2021-03-01",
+  "last_updated": "2021-12-13"
+}

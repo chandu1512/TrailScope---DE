@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT01466686",
+  "brief_title": "Low Dose Radiation Therapy for Glioblastoma Multiforme",
+  "official_title": "A Phase II Trial of Low Dose Fractionated Radiation Therapy as a Chemo-Potentiator of Salvage Temozolomide for Recurrent Anaplastic Astrocytoma and Glioblastoma Multiforme",
+  "brief_summary": "To evaluate the safety and effectiveness of low dose rate radiation therapy plus temozolomide. This will be in patients with High Grade Glioma (to only include Anaplastic Astrocytoma or Glioblastoma Multiforme) who have previously been treated with surgery followed by radiation surgical resection followed by adjuvant radiation therapy plus temozolomide.",
+  "detailed_description": "In vitro and in vivo studies have suggested that low dose fractionated radiation therapy (LDFRT) may be used to potentiate full dose chemotherapy, decreasing the development of resistance found with standard doses of radiation and chemotherapy. This is a nonrandomized, open label, single institution phase II trial with a safety run-in to evaluate the safety and efficacy of LDFRT plus temozolomide in patients with High Grade Glioma (to only include Anaplastic Astrocytoma or Glioblastoma Multiforme) previously treated with surgical resection followed by adjuvant radiation therapy plus temozolomide. The primary objective of the phase II study is to estimate response rate in patients treated with twice daily fractions of low dose radiation plus temozolomide chemotherapy.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 31,
+  "conditions": [
+    "High Grade Glioma"
+  ],
+  "interventions": [
+    {
+      "name": "Low Dose Fractionated Radiation Therapy (LDFRT)",
+      "type": "RADIATION",
+      "description": "All patients will receive 0.5 Gy of radiation therapy twice daily. This study will include a safety run-in component. If \\> 33% of patients in the initial cohort of 6 experience grade 3 or greater hematologic toxicity according to the NCI Common Toxicity Criteria version 4, then a dose reduction will occur following the schedule listed below."
+    },
+    {
+      "name": "Temozolomide",
+      "type": "DRUG",
+      "description": "All patients will receive temozolomide (150 to 200 mg per square meter for 5 days during each 28 day cycle) for a total of 1 year or until the time of disease progression."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have recurrent GBM (Glioblastoma Multiforme)or Anaplastic Astrocytoma.\n* The diagnosis of GBM or Anaplastic Astrocytoma.\n* Patients must have been previously treated with surgical resection (any extent okay) and adjuvant radiation therapy plus temozolomide.\n* Patients must be at least 12 months from completion of radiation therapy\n* At least 2 months from completion of temozolomide (to be consistent with the the \"rechallenge\" group from Perry et al. JCO 2010).\n* Age \\>18 years\n* ECOG performance status \\<2 (Karnofsky \\>60%, see appendix A).\n* There must be measurable disease on MRI.\n* Patients must have normal organ and marrow function as defined below:\n* Women must not be pregnant\n* Ability to understand and the willingness to sign a written informed consent document\n* Temozolomide re-treatment is planned by the treating neuro-oncologist.\n* The most recent brain tumor pathology obtained for the patient must be glioblastoma.\n\nExclusion Criteria:\n\n* Must be able to receive an MRI\n* Patients may not be receiving any other investigational cancer treatment agents at the time of enrollment.\n* Patients may not have previously failed treatment with salvage temozolomide.\n* Patients may not have previously failed treatment with a VEGF inhibitor.\n* Patients may not have previously been treated with \\>1 course of radiotherapy.\n* Patients may not have previously been treated with radiosurgery to the brain.\n* Uncontrolled intercurrent illness\n* Pregnant and breastfeeding women are excluded. Women of child-bearing potential who are unwilling or unable to use and acceptable method of birth control to avoid pregnancy for the entire study period and up to 12 weeks after the study are excluded. Male subjects must also agree to use effective contraception for the same period as above.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Suburban Hospital",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20814",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Response Rate",
+      "timeFrame": "3, 6 and 12 month follow-up after therapy has been completed",
+      "description": "To estimate the response rate to salvage temozolomide plus LDFRT."
+    },
+    {
+      "measure": "Overall Survival Rate",
+      "timeFrame": "up to 12 months after completion of temozolomide (48 weeks of treatment)",
+      "description": "Overall survival rate is calculated as the median number of months that patients were alive for the cohort"
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [],
+  "start_date": "2012-09",
+  "completion_date": "2022-12",
+  "last_updated": "2023-06-14"
+}

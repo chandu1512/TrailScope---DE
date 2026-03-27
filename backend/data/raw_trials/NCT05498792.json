@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT05498792",
+  "brief_title": "Study of CBL0137 in Combination With Ipilimumab and Nivolumab Therapy in Melanoma",
+  "official_title": "MEL-212: A Phase I Proof-of-Concept Study of CBL0137 (Curaxin) Combined With Ipilimumab and Nivolumab Therapy in Locally Advanced or Metastatic Melanoma",
+  "brief_summary": "Phase I, open label, dose-escalation, and safety study designed to assess the safety and biologic activity of the investigational agent CBL0137 in combination with standard of care drugs, ipilimumab and nivolumab in sequential cohorts of adult patients with locally advanced and metastatic melanoma who are candidates for immune checkpoint blockade and have tumors accessible for serial biopsies.",
+  "detailed_description": "The primary objectives will be Initial assessment of safety and tolerability of the combination of CBL0137 with Nivolumab and Ipilimumab.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "EARLY_PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 12,
+  "conditions": [
+    "Locally Advanced or Metastatic Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "CBL0137",
+      "type": "DRUG",
+      "description": "Patient will be enrolled at 3 dose levels of CBL 0137, dose level -1 (320 mg/m\u00b2), dose level 1 (400 mg/m\u00b2), dose level 2 (540 mg/m\u00b2)"
+    },
+    {
+      "name": "Ipilimumab",
+      "type": "DRUG",
+      "description": "Patient will be on Ipilimumab (1 mg/kg)"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Patient will be on Nivolumab (3 mg/kg)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients must have:\n\n   1. Pathologically proven stage III melanoma with one or more macroscopic lymph node metastases (measurable according to RECIST v. 1.1) amenable to biopsy and/or surgery OR:\n   2. Patients considered to have stage III or stage IV disease amenable to serial biopsies as determined by the treating physician. Note: patients with in-transit metastasis may be eligible after surgical consultation if not surgical candidates.\n   3. Patients must have disease amenable to and must be willing to undergo protocol-directed repeat biopsies and blood draws.\n2. Age \\> 18 years\n3. ECOG performance status 0 or 1\n4. Patients must have normal organ and marrow function\n\nExclusion Criteria:\n\n1. Patients may not be receiving any other investigational agents\n2. Patients with a known active autoimmune disease\n3. Prior treatment with CTLA-4 or PD1/PD-L1 pathway targeted systemic treatment\n4. Concurrent medical condition requiring the use of immunosuppressive medications, or immunosuppressive doses of systemic corticosteroids\n5. Patients with ongoing diarrhea (\\> 4 bowel movements/day) unresolved despite medical and best supportive care in the two weeks preceding therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Initial assessment of safety and tolerability of the combination of CBL0137 with Nivolumab and Ipilimumab.",
+      "timeFrame": "28 days",
+      "description": "The primary endpoint will be safety/tolerability of the combination of CBL0137 with ipilimumab and nivolumab. Patients will be treated as part of assigned dose level in planned 3+ 3 design with 3 possible dose levels and assessed for Dose limiting toxicities ( DLTs)"
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [
+    "Incuron"
+  ],
+  "start_date": "2022-11-30",
+  "completion_date": "2026-09-02",
+  "last_updated": "2025-04-03"
+}

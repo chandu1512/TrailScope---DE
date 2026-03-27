@@ -1,0 +1,87 @@
+{
+  "nct_id": "NCT06778863",
+  "brief_title": "A Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+  "official_title": "GUARDIAN-101: A Phase 1 Dose Escalation and Expansion Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+  "brief_summary": "Phase 1 dose escalation and expansion study of CLSP-1025, a first-in-class HLA-A\\*02:01 specific T cell engager (TCE) targeting solid tumors that harbor the p53 R175H mutation.",
+  "detailed_description": "This Phase 1, open-label, multicenter study is designed to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD), and preliminary clinical activity of CLSP-1025 when administered to HLA-A\\*02:01-positive adult patients with advanced solid tumors that harbor the p53 R175H mutation. The study will be conducted in 2 parts: Part A Monotherapy Dose Escalation to determine the recommended dose(s) for expansion (RDE\\[s\\]) and Part B Monotherapy Expansion to explore the preliminary antitumor activity as well as further characterize the safety, tolerability, PK, and PD of CLSP-1025 at the RDE(s).",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 90,
+  "conditions": [
+    "Advanced Solid Tumor",
+    "Unresectable Solid Tumor",
+    "Metastatic Solid Tumor",
+    "Colorectal Adenocarcinoma",
+    "Pancreatic Adenocarcinoma",
+    "Lung Cancer",
+    "Ovarian Cancer",
+    "Breast Cancer",
+    "Head and Neck Squamous Cell Carcinoma",
+    "Prostate Cancer",
+    "Bladder Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "CLSP-1025",
+      "type": "DRUG",
+      "description": "CLSP-1025 will be administered by IV infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Patients must be at least 18 years of age at the time of signing the informed consent.\n* Patients must be willing and able to provide written informed consent\n* Patients must have locally advanced or metastatic solid tumors that have progressed after standard of care therapy or for which no standard therapy exists\n* Tumors must harbor a TP53 R175H variant mutation confirmed by an accredited laboratory-based test\n* Patients must be HLA-A\\*02:01 positive by central assay\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1 at the time of enrollment\n* Adequate hematological, renal and hepatic function\n* Per Investigator judgement, patient is willing and able to complete study visits and/or procedures per the protocol and comply with study requirements for study participation\n\nKey Exclusion Criteria:\n\n* Patients with Li-Fraumeni syndrome or other known germline p53 R175H mutation\n* Patients who have received other p53 R175H-directed therapies\n* Patients who have not fully recovered from adverse events due to previous anticancer therapies\n* Patients with active infection requiring systemic antimicrobial therapy\n* Any other primary malignancy within the 2 years prior to enrollment (except for non- melanoma skin cancer, carcinoma in situ (eg, cervix, bladder, breast) or prostate cancer in remission.\n* Known active central nervous system metastases and/or carcinomatous meningitis",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins - Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Thomas Jefferson University, Sidney Kimmel Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part A: Determine the maximum tolerated dose (MTD) and/or the recommended dose(s) for expansion (RDE[s])",
+      "timeFrame": "28 days after infusion",
+      "description": "Rate of dose-limiting toxicities (DLTs) after infusion of CLSP-1025"
+    },
+    {
+      "measure": "Part B: Evaluate the Objective response rate (ORR) of CLSP-1025 as a monotherapy in HLA-selected patients with advanced solid tumors that express the p53 R175H mutation",
+      "timeFrame": "Up to 24 months after infusion",
+      "description": "Objective response rate (ORR) per RECIST V1.1 determined by Investigator assessment"
+    }
+  ],
+  "sponsor": "Clasp Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2025-02-28",
+  "completion_date": "2028-06",
+  "last_updated": "2026-02-12"
+}

@@ -1,0 +1,94 @@
+{
+  "nct_id": "NCT02489318",
+  "brief_title": "A Study of Apalutamide (JNJ-56021927, ARN-509) Plus Androgen Deprivation Therapy (ADT) Versus ADT in Participants With mHSPC",
+  "official_title": "A Phase 3 Randomized, Placebo-controlled, Double-blind Study of Apalutamide Plus Androgen Deprivation Therapy (ADT) Versus ADT in Subjects With Metastatic Hormone-sensitive Prostate Cancer (mHSPC)",
+  "brief_summary": "The purpose of this study is to determine if the addition of apalutamide to ADT provides superior efficacy in improving radiographic progression-free survival (rPFS) or overall survival (OS) for participants with mHSPC.",
+  "detailed_description": "This is a randomized (study medication assigned to participants by chance), double-blind (neither the researchers nor the participants know what treatment the participant is receiving), placebo-controlled, multinational, multicenter study of apalutamide in participants with mHSPC. The study consists of 4 Phases: Screening Phase (up to 28 days before randomization), Treatment Phase (28 day treatment cycles until disease progression or the occurrence of unacceptable treatment related toxicity), an End of Treatment Phase (until 30 days after the last dose of study drug), and then a Survival Follow up Phase. In the event of a positive study result and notification of unblinding at either of the interim analyses or at the final analysis, participants in the treatment Phase will have the opportunity to enroll in an Open-label Extension Phase, which will allow participants to receive active drug (apalutamide) for approximately 3 years. Participants who are receiving apalutamide in the Open-label Extension Phase may continue receiving apalutamide in the Long-term Extension (LTE) Phase if they will continue to derive benefit from treatment (based on investigator assessment). Participants' safety will be monitored throughout the study.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1052,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Apalutamide",
+      "type": "DRUG",
+      "description": "Participants will receive apalutamide 240 mg (4 x 60 mg) tablets orally once daily in each 28 day treatment cycles."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Participants will receive Placebo orally once daily in each 28 day treatment cycles."
+    },
+    {
+      "name": "Androgen Deprivation Therapy (ADT)",
+      "type": "DRUG",
+      "description": "All participants will receive and remain on a stable regimen of ADT (gonadotropin releasing hormone analog \\[GnRHa\\] or surgical castration). The choice of the GnRHa (agonist or antagonist) will be at discretion of the Investigator. Dosing (dose and frequency of administration) will be consistent with the prescribing information."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Diagnosis of prostate adenocarcinoma as confirmed by the investigator\n* Metastatic disease documented by greater than or equal to (\\>=) 1 bone lesions on 99mTc bone scan. Participants with a single bone lesion must have confirmation of bone metastasis by computed tomography (CT) or magnetic resonance imaging (MRI)\n* Eastern Cooperative Oncology Group Performance Status (ECOG PS) grade of 0 or 1\n* Participants who received docetaxel treatment must meet the following criteria: a) Received a maximum of 6 cycles of docetaxel therapy for mHSPC; b) Received the last dose of docetaxel \\<=2 months prior to randomization; c) Maintained a response to docetaxel of stable disease or better, by investigator assessment of imaging and PSA, prior to randomization\n* Other allowed prior treatment for mHSPC: a) Maximum of 1 course of radiation or surgical intervention; radiation therapy for metastatic lesions must be completed prior to randomization; b) Less than or equal to (\\<=) 6 months of ADT prior to randomization\n* Allowed prior treatments for localized prostate cancer (all treatments must have been completed \\>= 1 year prior to randomization) a) \\<= 3 years total of ADT; b) All other forms of prior therapies including radiation therapy, prostatectomy,lymph node dissection, and systemic therapies\n\nExclusion Criteria:\n\n* Pathological finding consistent with small cell, ductal or neuroendocrine carcinoma of the prostate\n* Known brain metastases\n* Lymph nodes as only sites of metastases\n* Visceral (ie, liver or lung) metastases as only sites of metastases\n* Other prior malignancy less than or equal to 5 years prior to randomization with the exception of squamous or basal cell skin carcinoma or non-invasive superficial bladder cancer\n* Prior treatment with other next generation anti-androgens or other CYP17 inhibitors, immunotherapy or radiopharmaceutical agents for prostate cancer\n* History of seizures or medications known to lower seizure threshold",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Bala-Cynwyd",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Bryn Mawr",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Radiographic Progression-free Survival (rPFS)",
+      "timeFrame": "Up to 35 months",
+      "description": "rPFS as assessed by the investigator was defined as the duration from the date of randomization to the date of first documentation of radiographic progressive disease or death due to any cause, whichever occurred first. Radiographic progressive disease was defined as progression of soft tissue lesions measured by computed tomography (CT) or magnetic resonance imaging (MRI) as defined by modified Response evaluation criteria in solid tumors (RECIST) 1.1."
+    },
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "Up to 57 months",
+      "description": "OS was defined as the time from date of randomization to date of death from any cause."
+    }
+  ],
+  "sponsor": "Aragon Pharmaceuticals, Inc.",
+  "collaborators": [],
+  "start_date": "2015-11-27",
+  "completion_date": "2027-12-31",
+  "last_updated": "2026-03-18"
+}

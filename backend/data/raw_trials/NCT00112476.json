@@ -1,0 +1,60 @@
+{
+  "nct_id": "NCT00112476",
+  "brief_title": "Temsirolimus and Bryostatin 1 in Treating Patients With Unresectable or Metastatic Solid Tumors",
+  "official_title": "A Phase I Study of Intravenous CCI-779 in Combination With Bryostatin-1 in Solid Tumors (10038414)",
+  "brief_summary": "This phase I trial is studying the side effects and best dose of temsirolimus when given together with bryostatin 1 in treating patients with unresectable or metastatic solid tumors. Drugs used in chemotherapy, such as temsirolimus and bryostatin 1, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. Determine the maximum tolerated dose and recommended phase II dose of temsirolimus when given together with bryostatin 1 in patients with unresectable or metastatic solid tumors.\n\nII. Determine the dose-limiting toxic effects of this regimen in these patients.\n\nSECONDARY OBJECTIVES:\n\nI. Correlate the extent and duration of inhibition of p70\\^S6kinase phosphorylation in peripheral blood mononuclear cells with tumor growth or reduction in these patients.\n\nII. Correlate the phosphorylation total and phospho-AKT and total and phospho ribosomal S6 protein (indicators of mTOR activation) with antitumor effects of this regimen in these patients.\n\nIII. Correlate tumor expression of phospho-ERK1 and -ERK2 with antitumor effects of this regimen in these patients.\n\nIV. Determine the pharmacokinetics of this regimen in these patients.\n\nOUTLINE: This is a dose-escalation study of temsirolimus.\n\nPatients receive bryostatin 1 IV over 1 hour on days 1, 8, 15, and 22 and temsirolimus IV over 30 minutes once on days 8, 15, and 22 during course 1. On subsequent courses patients receive bryostatin 1 and temsirolimus once on days 1, 8, and 15. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.\n\nCohorts of 3-6 patients receive escalating doses of temsirolimus until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 24,
+  "conditions": [
+    "Recurrent Melanoma",
+    "Recurrent Renal Cell Cancer",
+    "Stage IV Melanoma",
+    "Stage IV Renal Cell Cancer",
+    "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "interventions": [
+    {
+      "name": "bryostatin 1",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "temsirolimus",
+      "type": "DRUG",
+      "description": "Given IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed solid tumor, including melanoma or renal cell carcinoma\n\n  * Metastatic or unresectable disease\n\n    * Must have evidence of residual, recurrent, or metastatic disease by radiography\n* Measurable disease\n\n  * At least 1 unidimensionally measurable lesion \u2265 20 mm by conventional techniques (CT scan, MRI, or x-ray) OR \u2265 10 mm by spiral CT scan\n  * Must show clear evidence of disease progression within the lesion if the only site of measurable disease is within a previously irradiated volume\n* Standard curative or palliative measures do not exist OR are no longer effective\n* No history of or known brain metastases\n* Performance status - ECOG 0-1\n* At least 3 months\n* WBC \u2265 3,000/mm\\^3\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* AST and ALT \u2264 2.5 times upper limit of normal (ULN)\n* Bilirubin normal\n* Creatinine \u2264 1.5 times ULN\n* Creatinine clearance \u2265 50 mL/min\n* No symptomatic congestive heart failure\n* No unstable angina pectoris\n* No cardiac arrhythmia\n* Fasting cholesterol \u2264 350 mg/dL\\*\n* Triglycerides \u2264 400 mg/dL\\*\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile female patients must use effective contraception for \u2265 1 month before, during, and for \u2265 3 months after completion of study treatment (during and for \u2265 3 months after completion of study treatment for male patients)\n* No history of allergic reaction attributed to compounds of similar chemical or biological composition to study drugs\n* No ongoing or active bacterial or viral infection\n* No psychiatric illness or social situation that would preclude study compliance\n* No dementia or altered mental status that would preclude giving informed consent\n* No other uncontrolled illnesses\n* More than 3 weeks since prior immunotherapy\n* Prior biological therapy (e.g., interferon or interleukin 2, vaccine, antibody-based and tyrosine kinase inhibitors) allowed\n* No concurrent prophylactic hematopoietic colony-stimulating factors except for epoetin alfa\n* No prior cytotoxic chemotherapy\n* No prior bryostatin 1, temsirolimus, everolimus, or AP23573 for this malignancy\n* More than 3 weeks since prior chemotherapy (6 weeks for nitrosoureas or mitomycin)\n* No concurrent steroids except for topical or inhaled use\n* No other concurrent experimental agents\n* No prior radiotherapy to \\> 25% of bone marrow\n* More than 3 weeks since prior radiotherapy\n* More than 3 weeks since prior major surgery, including nephrectomy\n\n  * Minor surgical procedures allowed\n* Recovered from prior therapy\n* More than 3 weeks since prior other anticancer investigational agents\n* Concurrent CYP3A4 inducers or inhibitors allowed provided patient has been on a stable dose for \u2265 1 week before study entry\n* No concurrent combination antiretroviral therapy for HIV-positive patients\n* No other concurrent antineoplastic agents or therapies",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "MTD of CCI-779 and Bryostatin-1 administered in combination, graded according to NCI Common Toxicity Criteria, Version 3.0",
+      "timeFrame": "28 days",
+      "description": "A dose-limiting toxicity is defined as a toxicity that is \\>= grade 3 and drug-related."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2005-03",
+  "completion_date": "",
+  "last_updated": "2013-05-01"
+}

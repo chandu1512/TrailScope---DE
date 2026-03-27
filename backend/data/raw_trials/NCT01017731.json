@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT01017731",
+  "brief_title": "Study of Ramucirumab (IMC-1121B) Therapy and Corrected QT (QTc) Interval Changes",
+  "official_title": "A Study to Evaluate the Relationship Between Ramucirumab (IMC-1121B) Therapy and Corrected QT (QTc) Interval Changes in Patients With Advanced Cancer",
+  "brief_summary": "The purpose of this study is to determine if Ramucirumab (IMC-1121B) causes prolongation of the QT/QTc interval in participants with advanced cancer.",
+  "detailed_description": "The primary purpose of this study is to determine if treatment with ramucirumab causes prolongation of the QTc/QT interval in participants with advanced cancer, to assess the safety and tolerability of ramucirumab therapy, and to evaluate the pharmacokinetic (PK) characteristics of ramucirumab",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 68,
+  "conditions": [
+    "Cancer",
+    "Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "IMC-1121B",
+      "type": "BIOLOGICAL",
+      "description": "IMC-1121B (Ramucirumab) 10 mg/kg intravenously (IV) over 60 minutes, once every 3 weeks for minimum of 9 weeks."
+    },
+    {
+      "name": "Moxifloxacin",
+      "type": "DRUG",
+      "description": "Administered orally"
+    },
+    {
+      "name": "Diphenhydramine",
+      "type": "DRUG",
+      "description": "Administered IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* The participant has histologically documented advanced or metastatic malignant cancer of solid tumor origin which has not responded to standard therapy or for which no standard therapy is available\n* The participant has resolution of adverse events from prior anticancer therapies\n* Performance status of 0 to 2\n* The participant is \u2265 18 years of age\n* The participant is able to provide informed written consent and is amenable to compliance with protocol schedules and testing\n* The participant has adequate liver, kidney, blood, and blood clotting functions as defined in trial entrance criteria\n* The participant agrees to use adequate contraception during the study period and for 8 weeks after the last dose of study treatment\n\nExclusion Criteria:\n\n* The participant had anticancer therapy within 14 days (6 weeks for nitrosoureas or mitomycin C) prior to entering the study\n* The participant had therapeutic radiotherapy within 14 days prior to entering the study\n* The participant has ongoing side effects \u2265 Grade 2 due to prior anticancer therapy\n* The participant has brain or leptomeningeal metastases\n* The participant has a history of uncontrolled or severe cardiac disease\n* The participant has a history of severe congestive heart failure (CHF)\n* The participant has a known history of arterial thrombotic events\n* The participant has a known history of significant peripheral arterial disease (PAD)\n* The participant has an implantable pacemaker or automatic implantable cardioverter defibrillator (AICD)\n* The participant has a history of risk factors for ventricular tachycardia or Torsades de pointes (TdP) \\[for example, family history (parents or siblings) of long QT syndrome\\], history of fainting, unexplained loss of consciousness, or convulsions\n* The participant has a systolic blood pressure (SBP) of \\> 150 millimeters of mercury (mmHg) or \\< 90 mmHg or a diastolic blood pressure (DBP) of \\< 45 or \\> 95 mmHg. (Participants with a history of hypertension who are receiving antihypertensive therapy are permitted on study provided blood pressure is within the parameters detailed above)\n* The participant has a heart rate \\< 50 beats per minute (bpm) or \\> 100 bpm at rest\n* The participant has a clinically relevant abnormality on the ECG, preventing an accurate measurement of the QT interval\n* The participant is using a medication that is known to prolong the ECG QT interval\n* The participant has a known allergy to any of the treatment components including fluoroquinolone antibiotics\n* The participant has received an investigational new drug or device within 14 days prior to enrollment into this study (excluding placement of an intravenous access device)\n* The participant has undergone major surgery within 28 days prior to enrollment\n* The participant has known human immunodeficiency virus (HIV) infection\n* The participant, if female, is pregnant or lactating\n* The participant is receiving chronic daily treatment with aspirin \\[\\> 325 milligrams per day (mg/day)\\]\n* The participant has a concurrent active malignancy other than adequately treated nonmelanomatous skin cancer, other noninvasive carcinoma, or in situ neoplasm\n* The participant has psychological, familial, sociological, or geographical conditions which do not permit adequate study follow-up, compliance with the protocol, or signature of Informed Consent",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "ImClone Investigational Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change From Baseline to Cycle 3 in QT/Corrected QT (QTc) Interval Prolongation in Participants",
+      "timeFrame": "Baseline, Cycle 3 (1 cycle=21 days)",
+      "description": "All electrocardiogram (ECG) tests were performed in triplicate prior to ramucirumab treatment. QT is the interval between the Q and T waves and QTc is the QT corrected for heart rate using Fridericia's formula: QTc = QT/RR\\^0.33 where RR is the interval between 2 R waves. Each participant's mean QT/QTc value was calculated for each ECG test during Cycle 3 and compared to his/her mean pretreatment QT/QTc value. The greatest change from baseline during Cycle 3 was reported. QTc prolongation is defined as a QTc exceeding 10 milliseconds (msec) with a lower 90% confidence interval (CI) exceeding 5 msec at any postdose time points per the International Conference on Harmonization (ICH) E14 guidelines for non-thorough QT studies (ICH 2005; ICH 2008). Least squares (LS) mean was calculated using a linear mixed model for repeated measures (MMRM) and adjusted for serum concentration."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2009-11",
+  "completion_date": "2014-05",
+  "last_updated": "2015-05-15"
+}

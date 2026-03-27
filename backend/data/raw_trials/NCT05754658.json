@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT05754658",
+  "brief_title": "African Cancer Genome: GMD",
+  "official_title": "African Cancer Genome Cohort to Promote Health Equity Among Patients of African Ancestry: Characterization of Genetic and Molecular Drivers",
+  "brief_summary": "The goal of this study is to develop a comprehensive characterization of genetic and molecular drivers of breast and prostate cancer in individuals of African ancestry. The study is conducted by the African Caribbean Cancer Consortium (AC3) and involves the recruitment of patients from nine international AC3 research sites in the Bahamas, Barbados, Benin, Burkina Faso, Haiti, Jamaica, Kenya, Namibia, and Trinidad and Tobago, and the US. The main questions are to: molecularly characterize genomic changes in the African Cancer genomes of the breast and prostate and identify the effects of social determinants of health and lifestyle factors on mutational landscape. Black individuals that have been diagnosed with pathologically confirmed prostate or breast cancer will be included. Detailed social determinants of health survey, blood and archived FFPE tissues will be collected. (Tier 1) All patient tissues will be subject to IHC for receptor status (ER, AR, PR Her2/neu). All patients with available germline DNA from blood will receive genetic screening using a Commercial gene panel testing. (Tier 2) Patient samples with a negative genetic screening will be subject to whole exome sequencing or banked for later RNA or methylation sequencing.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1500,
+  "conditions": [
+    "Breast Cancer",
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Standard of Care",
+      "type": "OTHER",
+      "description": "Drugs routinely administered for breast cancer per local standard."
+    },
+    {
+      "name": "Standard of Care",
+      "type": "OTHER",
+      "description": "Drugs routinely administered for prostate cancer per local standard."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male or female patients, 18-85 years of age, diagnosed with a pathologically confirmed cancer at any stage at diagnosis. Participant can have a history of a previous cancer we will control for previous history of cancer diagnosis in our analysis.\n\nExclusion Criteria:\n\n* Patients age \\<18 year, incarcerated patients, and patients whose medical decisions are made by proxy will be excluded.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "85 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Immunohistochemistry",
+      "timeFrame": "Year 1-2",
+      "description": "ER, PR, Her2 and AR status in breast and prostate tissues"
+    },
+    {
+      "measure": "Germline Mutations",
+      "timeFrame": "Year 1-2",
+      "description": "Hereditary mutations in germline DND from breast and prostate"
+    },
+    {
+      "measure": "Mutational Landscape",
+      "timeFrame": "Year 2",
+      "description": "tumor mutation burden in breast and prostate tissues"
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [
+    "University of Miami Sylvester Comprehensive Cancer Center",
+    "Pfizer",
+    "The University of The West Indies, Mona, Jamaica",
+    "Kenya Medical Research Institute",
+    "University of Nairobi, Kenya",
+    "University of Abomey Calavi, Benin",
+    "Innovating Health International, Haiti",
+    "Institut de Recherche en Sciences de la Sante, Burkina Faso",
+    "The University of the West Indies at Cave Hill, Barbados",
+    "The University of The West Indies School of Clinical Medicine and Research, The Bahamas",
+    "Ministry of Health and Social Services, Namibia",
+    "Morgan State University",
+    "University of Alabama, Tuscaloosa"
+  ],
+  "start_date": "2022-11-28",
+  "completion_date": "2025-12-31",
+  "last_updated": "2025-10-01"
+}

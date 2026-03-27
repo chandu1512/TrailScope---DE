@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT00005840",
+  "brief_title": "Combination Chemotherapy Plus Radiation Therapy in Treating Patients With Stage III or Stage IV Endometrial Cancer",
+  "official_title": "Phase I Trial of the Treatment of Advanced Endometrial Cancer With Concurrent Weekly Paclitaxel and Cisplatin and Whole Abdominal Radiation Therapy",
+  "brief_summary": "This phase I trial is studying the side effects and best dose of combination chemotherapy when given with radiation therapy in treating patients with stage III or stage IV endometrial cancer. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor cells.",
+  "detailed_description": "OBJECTIVES:\n\nI. Determine the safety and maximum tolerated doses of paclitaxel and cisplatin when administered with radiotherapy in patients with stage III or IV endometrial cancer.\n\nII. Assess the time to disease progression and overall survival of patients treated with this regimen.\n\nOUTLINE: This is a dose-escalation study of paclitaxel and cisplatin.\n\nPatients receive paclitaxel IV over 1 hour and cisplatin IV on days 1, 8, 15, 22, 29, and 36. Patients also undergo whole abdominal radiotherapy for 5 consecutive days weekly for 6 weeks.\n\nCohorts of 3-6 patients receive escalating doses of paclitaxel and cisplatin until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity. Once the MTD is determined, additional patients are treated at that dose level.\n\nPatients are followed every 3 months for 2 years, every 6 months for 3 years, and then annually thereafter.\n\nPROJECTED ACCRUAL: A total of 3-48 patients will be accrued for part I and 14-20 patients will be accrued for part II of this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 35,
+  "conditions": [
+    "Endometrial Clear Cell Adenocarcinoma",
+    "Endometrial Serous Adenocarcinoma",
+    "Stage III Uterine Corpus Cancer",
+    "Stage IV Uterine Corpus Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Radiation Therapy",
+      "type": "RADIATION",
+      "description": "Undergo whole abdominal radiation therapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed surgical stage III or IV endometrial cancer\n* Any stage clear or serous papillary endometrial cancer\n* Positive para-aortic lymph nodes allowed\n* Tumor must be surgically reduced to 2 cm or less within 8 weeks of study\n\n  * Must have had hysterectomy and bilateral salpingo-oophorectomy\n* No recurrent disease\n* No metastases to lung or liver parenchyma or inguinal or scalene lymph nodes\n* Performance status - GOG 0-2\n* Absolute neutrophil count greater than 2,000/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n* Bilirubin no greater than 1.5 times upper limit of normal (ULN)\n* SGOT no greater than 3 times ULN\n* Creatinine no greater than 1.5 times ULN\n* No other prior or concurrent malignancy in the past 5 years except non-melanoma skin cancer\n* No prior chemotherapy\n* No prior radiotherapy\n* See Disease Characteristics\n* No more than 8 weeks since prior surgery\n* No prior anticancer therapy that would preclude study",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Gynecologic Oncology Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Acute toxicity for identification of MTD, using the 21 major categories of the Cancer Therapy Evaluation Program Common Toxicity Criteria (CTEP CTC) v2.0",
+      "timeFrame": "Up to 30 days post-radiotherapy",
+      "description": "Calculated using a 90% conditional likelihood-based confidence bound."
+    },
+    {
+      "measure": "Chronic toxicity based on the NCI CTC Radiation Therapy Oncology Group (RTOG)/European Organization for Research and Treatment of Cancer (EORTC) late radiation morbidity scoring scheme",
+      "timeFrame": "Up to 6 months post-radiotherapy",
+      "description": ""
+    }
+  ],
+  "sponsor": "Gynecologic Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2000-07",
+  "completion_date": "",
+  "last_updated": "2014-12-29"
+}

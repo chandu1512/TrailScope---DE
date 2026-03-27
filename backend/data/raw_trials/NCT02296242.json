@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT02296242",
+  "brief_title": "Phase 1/2 Study of the ERK1/2 Inhibitor BVD-523 in Patients With Acute Myelogenous Leukemia or Myelodysplastic Syndromes",
+  "official_title": "Phase 1/2 Dose-Escalation, Safety, Clinical Activity, Pharmacokinetic and Pharmacodynamic Study of the ERK1/2 Inhibitor BVD-523 in Patients With Acute Myelogenous Leukemia or Myelodysplastic Syndromes",
+  "brief_summary": "This study is being performed to assess the safety, tolerability, and preliminary clinical effects of BVD-523 given orally, twice daily for 21-day cycles, in patients with Acute Myelogenous Leukemia (AML) or Myelodysplastic Syndrome (MDS).",
+  "detailed_description": "The study is being performed to assess the safety and tolerability of BVD-523 given orally, twice daily for 21-day cycles.\n\nPart 1 of the study will establish dose limiting toxicities (DLT), maximum tolerated dose (MTD), and the recommended Phase 2 dose (RP2D).\n\nIn Part 2 of the study, additional patients with particular tumor types and/or cancers harboring specific genetic mutations will be recruited for treatment at the Recommended Phase 2 Dose (RP2D). Patients may also be assessed pharmacodynamic measures in healthy or malignant tissues, using biomarker assays for phosphorylation, cytotoxic or cytostatic measures.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 53,
+  "conditions": [
+    "Acute Myelogenous Leukemia",
+    "Myelodysplastic Syndrome"
+  ],
+  "interventions": [
+    {
+      "name": "BVD-523",
+      "type": "DRUG",
+      "description": "Oral, multiple escalating doses, twice daily, for 21 days in each treatment cycle"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have either of the following diagnoses:\n\n  1. Morphologically confirmed acute myeloid leukemia (AML), except acute promyelocytic leukemia (APL), including leukemia secondary to prior therapy or antecedent hematologic disorder (e.g., MDS or myeloproliferative disorders), who have failed to achieve CR or who have relapsed after prior therapy and are not candidates for potentially curative therapy\n  2. Intermediate-2 or High-grade risk MDS (including chronic myelomonocytic leukemia (CMML))\n* Have received at least one prior therapy. Patients who are over age 65 and have not received therapy for AML are also eligible, if they are not candidates for induction chemotherapy\n* ECOG performance status of 0 to 2\n* Predicted life expectancy of \u2265 3 months\n* Adequate liver, renal and cardiac function\n\nFor Group 1 in Part 2 of the Study ONLY:\n\n\u2022 Positive for RAS mutation at a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory prior to study entry\n\nExclusion Criteria:\n\n* Concomitant malignancies except carcinoma in situ, basal or squamous cell skin carcinoma; low grade prostate cancer treated with prostatectomy more than 10 years ago; early stage melanoma treated with complete surgical excision more than 5 years ago; carcinoma in situ of cervix treated with cone procedure more than 8 years ago\n* Gastrointestinal condition which could impair absorption of study medication\n* Uncontrolled or severe intercurrent medical condition\n* Patients with rapidly increasing peripheral blood blast counts\n* Known uncontrolled central nervous system involvement\n* Any cancer-directed therapy within 28 days or 5 half-lives, whichever is shorter\n* Any concurrent or prior use of an investigational drug (including MEK inhibitors) within previous 28 days or 5 half-lives, whichever is shorter\n* Received chemotherapy regimens with delayed toxicity within the last four weeks (six weeks for prior nitrosourea or mitomycin C). Received chemotherapy regimens given continuously or on a weekly basis with limited potential for delayed toxicity within the last two weeks.\n* Ongoing anticoagulant therapy that cannot be held if necessary to permit bone marrow sampling.\n* Major surgery within 4 weeks prior to first dose\n* Pregnant or breast-feeding women\n* Any evidence of serious active infections\n* Any important medical illness or abnormal laboratory finding that would increase the risk of participating in this study\n* A history or current evidence/risk of retinal vein occlusion or central serous retinopathy\n* Concurrent therapy with drugs known to be strong inhibitors of CYP1A2, CYP2D6, and CYP3A4, or strong inducers of CYP3A4",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Perelman Center for Advanced Medicine",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Patients With Dose Limiting Toxicities",
+      "timeFrame": "In the first 21 days of treatment",
+      "description": "DLT defined using CTCAE v.4.03. All toxicities were considered to be related to BVD523 if not definitively explained by underlying disease, intercurrent illness, or con meds."
+    },
+    {
+      "measure": "Steady-state Plasma Concentration of BVD-523 and Selected Metabolites Over 12 Hours",
+      "timeFrame": "Samples will be collected on or about Day 22 of the protocol",
+      "description": "The PK population consisted of patients who received at least one dose of BVD-523 and had evaluable PK data in plasma."
+    }
+  ],
+  "sponsor": "BioMed Valley Discoveries, Inc",
+  "collaborators": [],
+  "start_date": "2014-11",
+  "completion_date": "2017-06-15",
+  "last_updated": "2019-01-09"
+}

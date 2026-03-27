@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT04114825",
+  "brief_title": "Study of RV001V in Biochemical Failure Following Curatively Intended Therapy For Localized Prostate Cancer",
+  "official_title": "A Phase 2, Double-Blind, Placebo Controlled Study of RV001V in Men With Biochemical Failure Following Curatively Intended Therapy For Localized Prostate Cancer (BRaVac)",
+  "brief_summary": "This Phase II trial will enroll approximately 180 adult male patients with an earlier histologic diagnosis of prostatic adenocarcinoma and a biochemical recurrence (BCR) within 3 years of radical prostatectomy (RP) or definitive RT and no distant metastasis or locoregional recurrence. The trial is a randomized placebo-controlled double-blind study of a peptide cancer vaccine (RV001V).",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 180,
+  "conditions": [
+    "Prostate Cancer Recurrent"
+  ],
+  "interventions": [
+    {
+      "name": "RV001V",
+      "type": "BIOLOGICAL",
+      "description": "RV001V consists of the peptide RV001 and the adjuvant Montanide ISA 51. RV001 Vaccine 0.1 mg/mL (RV001V)."
+    },
+    {
+      "name": "Placebo",
+      "type": "OTHER",
+      "description": "Placebo consist of the vaccine vehicle and the adjuvant Montanide ISA 51. Placebo"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Main Inclusion Criteria:\n\n* Biochemical recurrence (BCR) within 3 years of radical prostatectomy (RP) or definitive RT and no distant metastasis by standard CT imaging and bone scintigraphy, or locoregional recurrence (including lymph nodes) assessed by CT or multi-parametric magnetic resonance imaging (MRI) and confirmed with negative biopsy in case of prior RT.\n* In case of BCR after RP all the following criteria should apply: a. PSA \u22650.2 ng/mL, b. PSA Doubling Time (PSADT) \\>3 months and \\<12 months\n* In case of BCR after RT all the following criteria should apply: a. PSA \\>nadir + 2 ng/mL, b. PSADT \\>3 months and \\<12 months\n* ECOG performance status \u22642.\n* Laboratory values obtained \u226430 days prior to first vaccination: Hemoglobin \u22655.6 mmol/L; Absolute granulocyte count \u22651.5 x 109 /L, Platelets \u2265100 x 109 /L., Total bilirubin \u22641.5 x upper limit of normal (ULN).\n* Creatinine \u22641.5 x ULN.\n* Alanine aminotransferase (ALT), aspartate aminotransferase (AST) and alkaline phosphatase (ALP) \u22642.5 x ULN.\n\nMain Exclusion Criteria:\n\n* Patients who are receiving androgen-deprivation therapy or considered a candidate for immediate anti-androgen deprivation therapy (ADT) as judged by the investigator.\n* Patients who have received prior ADT are not eligible with the exception of those that received ADT \u226436 months in duration and \u22659 months before randomization and administered only in the neoadjuvant/adjuvant setting.\n* Patient is planned for salvage therapy with RT or radical prostatectomy.\n* Castrate level of serum testosterone \\<50 ng/dL at screening.\n* PSA \\>10 ng/mL",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Chesapeake Urology Research Associates",
+      "city": "Towson",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Time to PSA progression",
+      "timeFrame": "Up to 3 years",
+      "description": "Time to PSA progression is defined as the time from randomization to doubling of PSA from the baseline value. The time to doubling will be estimated from a log-linear regression of PSA values."
+    }
+  ],
+  "sponsor": "RhoVac APS",
+  "collaborators": [],
+  "start_date": "2019-11-19",
+  "completion_date": "2022-11",
+  "last_updated": "2021-09-27"
+}

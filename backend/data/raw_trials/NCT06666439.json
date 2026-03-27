@@ -1,0 +1,49 @@
+{
+  "nct_id": "NCT06666439",
+  "brief_title": "Longitudinal Tumor Burden Quantification Using Circulating Tumor DNA in Metastatic Lobular Breast Cancer",
+  "official_title": "LBC-Monitor: Liquid Biopsy Guided Tailoring of Therapy in Metastatic Lobular Breast Cancer (mILC): A Pilot Study of Longitudinal Tumor Burden Quantification Using Circulating Tumor DNA",
+  "brief_summary": "The goal of this study is to characterize early dynamic changes in ctDNA, which can aid in tailoring early therapy in patients with metastatic Invasive lobular carcinoma (ILC). Response assessment using ctDNA analysis could not only aid in de-escalation but also escalation strategies.",
+  "detailed_description": "Invasive lobular carcinoma (ILC) is the most common special histologic subtype of breast cancer (BC), comprising 10-15% of all invasive BCs and representing approximately 26,000-40,000 new cases annually in the United States. ILC has distinct morphological and biological features as well as clinical behavior compared to Invasive Ductal Carcinoma/breast carcinoma of no special type (NST). Given that most lobular breast cancers are ER+, in current clinical practice, newly diagnosed metastatic ILC (mILC) - either recurrent or de novo metastatic disease - is generally treated with sequential endocrine therapies (ET) until the tumor becomes endocrine resistant. ILC often presents as non-measurable disease on imaging, and it is often difficult to determine treatment response accurately using conventional imaging techniques. Therefore, novel ways of monitoring disease response are urgently needed. Analysis of circulating tumor DNA (ctDNA) offers an alternative, minimally invasive approach for monitoring treatment response, and can also identify molecular alterations that may predict resistance to endocrine therapies. Understanding early ctDNA dynamics during endocrine therapy is essential for future prospective clinical trials with adaptive molecularly driven designs. LBC-Monitor aims to define the optimal early timepoint of molecular response by ctDNA and the dynamics of these early changes as patients with mILC begin first line therapy with an antiestrogen agent such as an aromatase inhibitor or fulvestrant.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Metastatic Invasive Lobular Carcinoma (mILC)"
+  ],
+  "interventions": [
+    {
+      "name": "circulating tumor DNA (ctDNA)",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Signatera is based on a custom-designed multiplex polymerase chain reaction (mPCR) assay for each patient, targeting up to 16 mutations found in the patient's tumor during whole exome sequencing (WES) to create a unique tumor mutation signature."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Signed informed consent\n2. Patients must have histologically or cytologically confirmed invasive lobular breast cancer that is ER+ (\\> 1% staining) and HER2-negative as per ASCO/CAP guidelines with radiographical or clinical evidence of metastatic disease\n\n   1. Lobular histology as assessed on either tissue collected from a metastatic lesion or from the patient's primary breast tumor (in case of recurrent metastatic disease)\n   2. Patients with mixed ductal/lobular (NST/ILC) tumors are eligible to participate (with the ultimate goal to evaluate 20 patients with pure ILC)\n   3. Patients must have tumor tissue available for whole exome sequencing for Signatera assay design\n3. Prior therapies:\n\n   1. Patients must not have received any therapy in the metastatic setting\n   2. Patients could have received adjuvant therapy as indicated for their primary breast cancer\n4. Age \u2265 18 years\n5. Patients may be pre- or post-menopausal.\n\nExclusion Criteria:\n\n1. Stage I-III breast cancer\n2. Lack of lobular histology on tumor tissue biopsy\n3. Other active cancer (previously treated cancer with no current evidence of disease is allowed)\n4. ctDNA assay development is unattainable due to insufficient tumor tissue or sequencing failure",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Magee Women's Hospital of UPMC",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in ctDNA",
+      "timeFrame": "Baseline, at 4 weeks, at 8 weeks, at 12 weeks",
+      "description": "Change in circulating tumor DNA (ctDNA) is measured by MTM/ml in patients receiving first line endocrine therapy (an aromatase inhibitor or fulvestrant) for metastatic lobular breast cancer."
+    }
+  ],
+  "sponsor": "Julia Foldi",
+  "collaborators": [],
+  "start_date": "2024-12-12",
+  "completion_date": "2029-10-31",
+  "last_updated": "2026-01-16"
+}

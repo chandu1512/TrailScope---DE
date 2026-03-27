@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT06955468",
+  "brief_title": "Evaluating a Bidirectional Priming Intervention for Goals-of-care Communication in Oncology",
+  "official_title": "Development of a Bidirectional Priming Intervention for Goals-of-care Communication in Oncology",
+  "brief_summary": "This pilot study will evaluate whether an intervention aimed at hospitalized patients with advanced lung and gastrointestinal cancers can help facilitate goals-of-care (GOC) communication with their oncologists after discharge.\n\nWhile GOC communication is a recommended component of routine oncology care, many patients with solid cancers do not have the opportunity to talk with their oncologist about their goals and end-of-life preferences. Prior research has shown that a systematic method of prompting GOC communication with at-risk patients would address a key barrier to timely GOC communication and ensure that patients receive care that is in line with their personal preferences.\n\nThis trial will enroll 80 participants, who will be randomized 1:1 to either an intervention or a control group. Participants in the intervention group will complete a short survey regarding their goals, preferences, and disease understanding. Survey responses will be shared with each participant's outpatient oncology team. Oncologists will subsequently receive a nudge in the electronic medical record reminding them of key survey responses and encouraging them to discuss them at the patient's first clinic visit after hospital discharge.\n\nThe primary feasibility outcome is intervention completion rate and the primary clinical outcome is GOC documentation within 30 days of discharge in the intervention group compared to the control group.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 40,
+  "conditions": [
+    "Lung Cancers",
+    "Gastrointestinal Cancers"
+  ],
+  "interventions": [
+    {
+      "name": "Priming Survey",
+      "type": "BEHAVIORAL",
+      "description": "13-item priming survey assessing patients' goals, treatment preferences, and disease understanding."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Unplanned admission to the HUP Solid Oncology service;\n2. Underlying diagnosis of advanced lung or GI cancer, defined as metastatic or locally advanced disease;\n3. Anticipated discharge within the next 72h; and\n4. Primary oncologist is based at HUP; or\n5. Family member/caregiver of a patient meeting the above 4 criteria.\n\nExclusion Criteria:\n\n1\\. Unable to complete survey in English.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Intervention Completion Rate",
+      "timeFrame": "From enrollment to 30 days after hospital discharge",
+      "description": "The primary feasibility outcome is intervention completion rate, defined as successful completion of the survey, response sharing, and electronic medical record nudge for all participants assigned to the intervention arm."
+    },
+    {
+      "measure": "GOC Documentation",
+      "timeFrame": "From enrollment to 30 days after hospital discharge",
+      "description": "The presence of outpatient goals-of-care documentation in the electronic medical record within 30 days of hospital discharge as determined by manual review."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "Conquer Cancer Foundation"
+  ],
+  "start_date": "2025-07-21",
+  "completion_date": "2026-03-01",
+  "last_updated": "2026-03-03"
+}

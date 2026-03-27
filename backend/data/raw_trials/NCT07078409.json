@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT07078409",
+  "brief_title": "Clinician Nudge to Referral of Adnexal Masses to Gynecologic Oncology",
+  "official_title": "Clinician Nudge to Referral of Adnexal Masses to Gynecologic Oncology",
+  "brief_summary": "The goal of this study is to test the effectiveness of clinician nudges on referrals to gynecologic oncology in patients with suspected ovarian cancer.\n\nThe primary outcome will be whether or not patients were referred to gynecologic oncology within 14 days of their abnormal imaging results. Secondary and exploratory outcomes are whether the gynecologic visit occurred within 60 days of abnormal imaging and the time from abnormal imaging results to gynecologic oncology visit.",
+  "detailed_description": "",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 240,
+  "conditions": [
+    "Ovarian Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nudge",
+      "type": "BEHAVIORAL",
+      "description": "When the clinician who ordered the imaging that led to randomization receives the test results, a pre-checked referral order to gynecologic oncology for surgical evaluation will appear in the EHR alongside a brief educational explanation. This will constitute the opt-out default referral order (Figure 3). Clinicians will have the option to unclick the referral to opt out and will be asked to indicate the reason from a pre-populated list of choices; if they do not opt out, the referral to gynecologic oncology will proceed. Imaging findings and referral will be communicated to the patient in keeping with the clinician's usual practice. In keeping with routine practice, referred patients will be contacted by gynecologic oncology's new patient coordinators within 72 hours and offered an appointment within 2 weeks at their preferred location."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Eligible clinicians include physicians, physician assistants, and nurse practitioners with eligible patient encounters at sites included in the trial during the study.\n* Eligible patient encounters are defined as an emergency room visit, inpatient hospitalization, or outpatient visit during the study period where the patient had associated imaging with suspected ovarian cancer (O-RADS 4 or 5 lesion), identified with the EHR-based tool described above.\n\nExclusion Criteria:\n\n* Known diagnosis of ovarian cancer.\n* Imaging ordered by gynecologic oncologist.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19140",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Referral Rate",
+      "timeFrame": "Up to one year",
+      "description": "Binary indicator of whether the patient was referred to gynecologic oncology within 14 days of abnormal imaging results."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2025-07-14",
+  "completion_date": "2027-07-07",
+  "last_updated": "2025-07-18"
+}

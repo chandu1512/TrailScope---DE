@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT04146038",
+  "brief_title": "Salsalate, Venetoclax, and Decitabine or Azacitidine for the Treatment of Acute Myeloid Leukemia or Advanced Myelodysplasia/Myeloproliferative Disease",
+  "official_title": "Salsalate + Venetoclax/Decitabine for Patients With Acute Myelogenous Leukemia or Advanced Myelodysplasia/Myeloproliferative Disease",
+  "brief_summary": "This phase II trial studies the side effects of salsalate when added to venetoclax and decitabine or azacitidine in treating patients with acute myeloid leukemia or myelodysplasia/myeloproliferative disease that has spread to other places in the body (advanced). Drugs used in chemotherapy, such as salsalate, venetoclax, decitabine, and azacitidine work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. Determine the tolerability of the addition of standard dose salsalate to the standard treatment combination of venetoclax + hypomethylating agent (HMA) (decitabine or azacitidine \\[5-azacytidine\\]).\n\nSECONDARY OBJECTIVES:\n\nI. Determine the remission rate and, when feasible, perform exploratory studies of:\n\nIa. Patterns of mutation clearance. Ib. Distribution of cells with low and high reactive oxygen species (ROS) content at various points during therapy.\n\nOUTLINE:\n\nCYCLE 1: Patients receive salsalate orally (PO) twice daily (BID) until completion of cycle 1. 24-48 hours later or concurrent with salsalate, patients begin to receive decitabine intravenously (IV) for 10 days or azacitidine IV for 7 days. Starting 24 hour after salsalate, patients also receive venetoclax PO continuously until completion of cycle 1.\n\nCYCLE 2: Patients receive decitabine IV for 5 days or azacitidine IV for 7 days, salsalate PO BID, and venetoclax PO continuously.\n\nCycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 5,
+  "conditions": [
+    "Acute Myeloid Leukemia",
+    "Chronic Myelomonocytic Leukemia",
+    "Myeloblasts 10 Percent or More of Bone Marrow Nucleated Cells",
+    "Myelodysplastic Syndrome",
+    "Myeloproliferative Neoplasm",
+    "Recurrent Acute Myeloid Leukemia",
+    "Refractory Acute Myeloid Leukemia",
+    "Secondary Acute Myeloid Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "Azacitidine",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Decitabine",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Salsalate",
+      "type": "DRUG",
+      "description": "Given PO"
+    },
+    {
+      "name": "Venetoclax",
+      "type": "DRUG",
+      "description": "Given PO"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically proven acute myelogenous leukemia (AML) or advanced myeloid malignancy \\[myelodysplasia; chronic myelomonocytic leukemia (CMML); or chronic myeloproliferative disease (MPD) each with \\>= 10% myeloblasts in blood or bone marrow\\]\n* For patients with de novo AML: must not be a candidate for standard induction therapy based upon age, co-morbidities, patient choice, high risk features known to have poor outcomes with standard induction therapy (ELN high risk disease by cytogenetics, deoxyribonucleic acid \\[DNA\\] mutation profile or TP53 mutation)\n* Patients with advanced myelodysplastic syndrome (MDS), secondary AML, relapsed/refractory AML, prior hypomethylating agent are eligible\n* Patients must give informed consent\n* Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2\n* Total bilirubin \\< 2 x upper limit of normal (ULN)\n* Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) \\< 2.5 X institutional ULN\n* Creatinine \\< 2 mg/dL\n\nExclusion Criteria:\n\n* White blood cell (WBC) uncontrolled (\\> 15,000/uL) despite hydroxyurea or cytarabine x 3 days. Known central nervous system (CNS) AML\n* Serious concomitant systemic disorders (including active infections) that would compromise the safety of the patient or compromise the patient?s ability to complete the study, at the discretion of the investigator. Pregnant patients are excluded\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to Salsalate or other agents used in the study. Examples include aspirin\n* The effects of venetoclax and decitabine or 5-azacytidine on the developing human fetus at the recommended therapeutic dose are unknown. For this reason and because therapeutic agents used in this trial are known to be teratogenic, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation and for 24 weeks after. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately\n* Patients with immune deficiency are at increased risk of lethal infections when treated with marrow-suppressive therapy, therefore, known human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded from the study because of possible pharmacokinetic interactions with treatment medications or other agents administered during the study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants Experiencing Adverse Events Incidence With of Salicylate + Venetoclax + Decitabine",
+      "timeFrame": "During the first 2 cycles, 56 days total",
+      "description": "Study drug associated adverse events during therapy"
+    }
+  ],
+  "sponsor": "Rutgers, The State University of New Jersey",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2020-10-26",
+  "completion_date": "2022-10-25",
+  "last_updated": "2023-04-28"
+}

@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT05797831",
+  "brief_title": "Study of Navtemadlin as Maintenance Therapy in TP53WT Advanced or Recurrent Endometrial Cancer",
+  "official_title": "A Phase 2/3 Study of Navtemadlin as Maintenance Therapy in Subjects With TP53WT Advanced or Recurrent Endometrial Cancer Who Responded to Chemotherapy",
+  "brief_summary": "This study evaluates navtemadlin as maintenance treatment for patients with advanced or recurrent endometrial cancer (EC) who have achieved complete response or partial response on chemotherapy.\n\nThe study will be conducted in 2 parts. Part 1 will evaluate safety and efficacy of two different doses of navtemadlin alongside an observational control arm to determine the Phase 3 navtemadlin dose. Part 2 will evaluate the efficacy and safety of navtemadlin Phase 3 dose compared to placebo.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 268,
+  "conditions": [
+    "Endometrial Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Navtemadlin",
+      "type": "DRUG",
+      "description": "Navtemadlin is an experimental MDM2 anticancer drug taken by mouth"
+    },
+    {
+      "name": "Navtemadlin Placebo",
+      "type": "DRUG",
+      "description": "Navtemadlin placebo is a placebo that is the same in appearance to navtemadlin drug taken by mouth"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* ECOG 0-1\n* Histologically or cytologically confirmed diagnosis of endometrial cancer documented as TP53WT\n* Subjects with advanced or recurrent disease must have completed a single line of up to 6 cycles of taxane-platinum based chemo and achieved a CR or PR per RECIST V1.1\n* Adequate hematologic, hepatic and renal function (within 14 days)\n\nExclusion Criteria:\n\n* Has any sarcomas or small-cell carcinomas with neuroendocrine differentiation\n* Prior immune therapy, cytokine therapy, or any investigational therapy (within 28 days)\n* Indwelling surgical drains\n* Grade 2 or higher QTc prolongation\n* History of major organ transplant\n* History of bleeding diathesis; major hemorrhage or intracranial hemorrhage (within 24 weeks)",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Oncology Hematology, P.A.",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20904",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1: To determine the navtemadlin Phase 3 dose",
+      "timeFrame": "12 months",
+      "description": "Safety review committee (SRC) will determine the navtemadlin Phase 3 dose for Part 2 based on safety data from Part 1"
+    },
+    {
+      "measure": "Part 2: To compare progression-free (PFS) survival by independent review committee (IRC) between navtemadlin and placebo",
+      "timeFrame": "50 months",
+      "description": "PFS defined as the time from randomization to disease progression by IRC or death, whichever occurs first"
+    }
+  ],
+  "sponsor": "Kartos Therapeutics, Inc.",
+  "collaborators": [
+    "European Network of Gynaecological Oncological Trial Groups (ENGOT)",
+    "GOG Foundation"
+  ],
+  "start_date": "2023-07-17",
+  "completion_date": "2027-07",
+  "last_updated": "2024-04-30"
+}

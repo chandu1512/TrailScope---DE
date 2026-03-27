@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT02132845",
+  "brief_title": "Next Generation Sequence Target-Directed Therapy in Treating Patients With Cancer",
+  "official_title": "A Prospective Randomized Trial Comparing the Effectiveness of Physician Discretion Guided Therapy Versus Physician Discretion Guided Plus Next-Generation Sequence Directed Therapy",
+  "brief_summary": "This randomized clinical trial studies how well next generation sequence target-directed therapy works in treating patients with cancer. Next generation sequencing is a test that screens for mutations to cancer related genes. Target-directed therapy is a type of treatment that uses drugs or other substances to identify and attack specific types of cancer cells that may have less harm to normal cells. Next generation sequencing may help identify these specific types of cancer cells.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. Overall (composite) response rate (ORR).\n\nSECONDARY OBJECTIVES:\n\nI. 4-month progression free survival (PFS). II. Mutation rate. III. Adverse event rate/severity. IV. Overall survival.\n\nTERTIARY OBJECTIVES:\n\nI. Targeted agent rate. II. Available protocol rate. III. Protocol enrollment rate. IV. Disease site influence.\n\nOUTLINE: Patients are randomized to 1 of 2 treatment arms.\n\nARM A: Patients undergo collection of tissue and blood samples for analysis via next generation sequencing. Patients receive standard of care therapy based on the discretion of the treating physician.\n\nARM B: Patients undergo collection of tissue and blood samples for analysis via next generation sequencing. Based on the results of the next generation sequencing, patients receive target-directed therapy.\n\nAfter completion of study treatment, patients are followed up every 3 months for 2 years, every 6 months for 2 years, and then annually thereafter.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 30,
+  "conditions": [
+    "Malignant Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "cytology specimen collection procedure",
+      "type": "OTHER",
+      "description": "Undergo collection of tissue and blood samples"
+    },
+    {
+      "name": "targeted therapy",
+      "type": "DRUG",
+      "description": "Receive target-directed therapy"
+    },
+    {
+      "name": "therapeutic procedure",
+      "type": "PROCEDURE",
+      "description": "Receive standard of care therapy"
+    },
+    {
+      "name": "laboratory biomarker analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed cancer\n* Patients must have evaluable disease; measureable disease is not required; however, if measurable disease is present, it is defined as at least one lesion that can be accurately measured in at least one dimension in accordance with Response Evaluation Criteria in Solid Tumors (RECIST) criteria version (v.) 1.1; furthermore, if only evaluable disease is present, a relevant tumor marker (per investigator discretion) must be \\>= 2 times upper limit of normal (ULN) at baseline, and can be used as a response indicator\n* Patients must be considered good candidates for a phase 1 trial and the treating physician must intend to enroll the patient on a phase 1 clinical protocol, if possible; patients are not required to have progressed on their last line of therapy prior to enrollment\n\n  * Other clinical trials are also acceptable; for example, an applicable phase 2 or phase 3 trial may exist for which the patient would be eligible and for which available information (inclusive of next generation sequencing \\[NGS\\]) would be relevant to such enrollment; regardless, the pertinent point is that it is the intent of the physician to use NGS data, to the degree possible, to select appropriate therapy, when selecting patients for this trial\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2\n* Absolute neutrophil count \\> 1,000/mcL\n* Platelets \\> 80,000/mcL\n* Total bilirubin =\\< 1.5 times ULN and stable X 1 month\n* Aspartate aminotransferase (AST)/alanine aminotransferase (ALT) (serum glutamic oxaloacetic transaminase \\[SGOT\\]/serum glutamate pyruvate transaminase \\[SGPT\\]) \\< 3 times ULN (if liver metastasis is present then =\\< 5 X ULN)\n* Serum creatinine =\\< 1.5 X ULN and stable X 1 month OR creatinine clearance \\>= 60 Ml/min/1.73 m\\^2\n* Estimated life expectancy of \\>= 3 months\n* Ability to understand and willingness to sign a written informed consent and Health Insurance Portability and Accountability Act (HIPAA) authorization\n\nExclusion Criteria:\n\n* Patients with more than one type of active malignancy; an active malignancy is defined as one that is being treated with therapeutic intent and for which survival may be impacted, within 3 years of enrollment\n* Patients with known active brain metastases; patients with a history of treated brain metastasis are eligible if the patient is off systemic steroids and there are no clinical indications of central nervous system (CNS) progression for a least 1 month; patients with glioblastoma multiforme are eligible if the above criteria are otherwise met; note: many clinical trials do not allow enrollment of such patients; if the physician, in good conscience, feels that applicable protocols for their patient do exist, enrollment onto this trial is acceptable, assuming other eligibility criteria are met\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Known human immunodeficiency virus (HIV)-positive patients on combination antiretroviral therapy\n* Pregnancy or breastfeeding",
+    "gender": "ALL",
+    "min_age": "19 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall (composite) response rate",
+      "timeFrame": "Up to 2 years",
+      "description": "The overall (composite) response rate will be defined by tumor response rate according to RECIST 1.1 or by tumor marker response for patients without measurable disease defined by RECIST 1.1. Tumor marker response will be quantified as a 50% reduction in the marker of interest, when compared to baseline, without any radiographic evidence of progressive disease."
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2016-03-17",
+  "completion_date": "2018-05-10",
+  "last_updated": "2021-02-03"
+}

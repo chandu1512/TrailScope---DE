@@ -1,0 +1,104 @@
+{
+  "nct_id": "NCT05552222",
+  "brief_title": "A Study of Teclistamab in Combination With Daratumumab and Lenalidomide (Tec-DR) and Talquetamab in Combination With Daratumumab and Lenalidomide (Tal-DR) in Participants With Newly Diagnosed Multiple Myeloma",
+  "official_title": "A Phase 3 Randomized Study Comparing Teclistamab in Combination With Daratumumab SC and Lenalidomide (Tec-DR) and Talquetamab in Combination With Daratumumab SC and Lenalidomide (Tal-DR) Versus Daratumumab SC, Lenalidomide, and Dexamethasone (DRd) in Participants With Newly Diagnosed Multiple Myeloma Who Are Either Ineligible or Not Intended for Autologous Stem Cell Transplant as Initial Therapy",
+  "brief_summary": "The purpose of this study is to compare the efficacy of teclistamab in combination with daratumumab and lenalidomide (Tec-DR) and talquetamab in combination with daratumumab and lenalidomide (Tal-DR) versus daratumumab, lenalidomide, dexamethasone (DRd).",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1590,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Teclistamab",
+      "type": "DRUG",
+      "description": "Teclistamab will be administered as SC injection."
+    },
+    {
+      "name": "Daratumumab",
+      "type": "DRUG",
+      "description": "Daratumumab will be administered as SC injection."
+    },
+    {
+      "name": "Lenalidomide",
+      "type": "DRUG",
+      "description": "Lenalidomide will be administered orally."
+    },
+    {
+      "name": "Dexamethasone",
+      "type": "DRUG",
+      "description": "Dexamethasone will be administered either orally or intravenously (IV)."
+    },
+    {
+      "name": "Talquetamab",
+      "type": "DRUG",
+      "description": "Talquetamab will be administered as SC injection."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have a diagnosis of multiple myeloma according to the International Myeloma Working Group (IMWG) diagnostic criteria\n* Be newly diagnosed and not considered a candidate for high-dose chemotherapy with autologous stem cell transplant (ASCT) due to: ineligible due to advanced age OR; ineligible due to the presence of comorbid condition(s) likely to have a negative impact on tolerability of high-dose chemotherapy with ASCT OR; deferral of high-dose chemotherapy with ASCT as initial treatment\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status score of 0 to 2\n* A participant must agree not to be pregnant, breastfeeding, or planning to become pregnant while enrolled in this study or within 6 months after the last dose of study treatment\n* A participant must agree not to plan to father a child while enrolled in this study or within 100 days after the last dose of study treatment\n\nExclusion Criteria:\n\n* Received any prior therapy for multiple myeloma or smoldering myeloma other than a short course of corticosteroids (not to exceed total of 160 milligrams \\[mg\\] dexamethasone or equivalent). In addition, received a cumulative dose of systemic corticosteroids equivalent to greater than or equals to (\\>=) 20 mg of dexamethasone within 14 days before randomization\n* Had plasmapheresis within 28 days of randomization\n* Had a stroke, transient ischemic attack, or seizure within 6 months prior to randomization\n* Known allergies, hypersensitivity, or intolerance to teclistamab or talquetamab excipients\n* Known contraindications to the use of daratumumab or lenalidomide per local prescribing information\n* Myeloma Frailty Index of \\>=2 with the exception of participants who have a score of 2 based on age alone",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "ChristianaCare Helen F Graham Cancer Center and Research Institute",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Johns Hopkins University School of Medicine JHUSOM",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Center for Cancer and Blood Disorders",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Astera Cancer Care",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Allegheny Health Network",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "From randomization to the date of disease progression or death (Up to 09 years)",
+      "description": "PFS is defined as the duration from the date of randomization to either progressive disease or death, whichever comes first. Disease progression will be determined according to the International Myeloma Working Group (IMWG) response criteria."
+    },
+    {
+      "measure": "12-Month Minimal Residual Disease (MRD)-Negative Complete Response (CR)",
+      "timeFrame": "At Month 12",
+      "description": "12-month MRD-negative CR is defined as participants who achieve MRD-negative status at 12 months, as determined by next-generation sequencing (NGS) with sensitivity of 10\\^-5, prior to progressive disease or subsequent anti-myeloma therapy and who also achieve CR or better, according to IMWG criteria."
+    }
+  ],
+  "sponsor": "Janssen Research & Development, LLC",
+  "collaborators": [],
+  "start_date": "2022-10-25",
+  "completion_date": "2033-10-28",
+  "last_updated": "2026-03-11"
+}

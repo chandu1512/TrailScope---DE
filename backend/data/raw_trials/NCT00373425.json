@@ -1,0 +1,96 @@
+{
+  "nct_id": "NCT00373425",
+  "brief_title": "A Study of Erlotinib (Tarceva) After Surgery With or Without Adjuvant Chemotherapy in Non-Small Cell Lung Carcinoma (NSCLC) Patients Who Have Epidermal Growth Factor Receptor (EGFR) Positive Tumors",
+  "official_title": "A Multi-center, Randomized, Double-blind, Placebo-controlled, Phase 3 Study of Single-agent Tarceva\u00ae (Erlotinib) Following Complete Tumor Resection With or Without Adjuvant Chemotherapy in Patients With Stage IB-IIIA Non-small Cell Lung Carcinoma Who Have EGFR-positive Tumors",
+  "brief_summary": "This is a study to evaluate the effectiveness of erlotinib compared with a placebo sugar pill following complete surgical removal of the tumor with or without chemotherapy after surgery in Stage IB-IIIA NSCLC patients.",
+  "detailed_description": "After the initiation of the study, the sponsor became aware of an error in the drug dispensing module of the interactive voice response such that most patients who were randomized prior to 07 November 2007 were dispensed the incorrect study drug at least once. Since the integrity of the data from these patients was seriously compromised, these patients were considered unevaluable for the protocol-specified analyses. These participants are referred to as the breached protocol cohort (BPC) and those still on study treatment at the time of the breach were offered the option of receiving open-label erlotinib for up to 2 years (including posttreatment and long-term follow-up assessments), not receiving open-label erlotinib but remaining in the study for posttreatment and long-term follow-up assessment, or withdrawing consent from treatment and further assessments. Participants who had discontinued study treatment prior to the breach were not offered open-label erlotinib and remained in long-term follow-up. Data from the BPC participants were analyzed separately and were not included in the assessments of primary or secondary endpoints in the randomized cohort and were not considered part of the primary analyses.The sample size for the randomized cohort was not changed due to the BPC and the data from RC and BPC were analyzed separately.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1252,
+  "conditions": [
+    "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Erlotinib",
+      "type": "DRUG",
+      "description": "150 mg tablet"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Placebo tablet"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Primary tissue from patient's surgery must be epidermal growth factor receptor (EGFR)-positive by certain tests\n* Patients may have up to 4 cycles of chemotherapy after surgery\n* Complete removal of the tumor by surgery\n* Able to start drug under the following timelines:\n\n  * 6 months from the day of surgery for patients who get chemotherapy\n  * 3 months from the day of surgery for those who do not get chemotherapy\n* Confirmed diagnosis of Stage IB-IIIA NSCLC\n* Patients must be accessible for follow-up visits\n\nExclusion Criteria:\n\n* History of prior radiotherapy for NSCLC either before or after surgery\n* History of heart disease or uncontrolled heart arrhythmias within the previous year\n* History of poorly controlled gastrointestinal (GI) disorders that could affect the absorption of study drug\n* History of other cancer except certain skin or cervical cancers, patients who have had other cancer are eligible if they have remained disease free for at least 5 years\n* Patients who have received chemotherapy for NSCLC before surgery\n* Tumors with mixed histology of NSCLC and Small Cell Lung Cancer (SCLC). Patients with carcinoid tumors are not eligible.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Greater Baltimore Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "St. Joseph Medical Center's Cancer Institute",
+      "city": "Towson",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Care Associates - Medical Oncology",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": ""
+    },
+    {
+      "facility": "The Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny General Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Disease Free Survival (DFS)",
+      "timeFrame": "Every 3 months during active phase and every 6 months during long term follow-up up to 5 years and yearly thereafter until the data cut-off date of 08 April 2013 (maximum time on follow-up was 64 months).",
+      "description": "DFS is the time from the date of randomization until the first day non-small cell lung cancer (NSCLC) relapse is documented by radiological exam and/or biopsy, or until death in the absence of relapse. After randomization, NSCLC relapse was based on radiological evidence or biopsy, as determined by the investigator. Participants without a DFS event were censored on the last adequate radiological assessment date."
+    },
+    {
+      "measure": "Disease Free Survival (DFS)",
+      "timeFrame": "Every 3 months during active phase and every 6 months during long term follow-up up to 5 years and yearly thereafter until the data cutoff date of 11 June 2014 (maximum time on follow-up was 78 months).",
+      "description": "DFS is the time from the date of randomization until the first day that non-small cell lung cancer (NSCLC) relapse is documented by radiological exam and/or biopsy, or until death in the absence of relapse. After randomization, NSCLC relapse was based on radiological evidence or biopsy, as determined by the investigator. Participants without a DFS event were censored on the last adequate radiological assessment date."
+    }
+  ],
+  "sponsor": "OSI Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2006-09",
+  "completion_date": "2014-06",
+  "last_updated": "2015-09-01"
+}

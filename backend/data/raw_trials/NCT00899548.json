@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT00899548",
+  "brief_title": "DNA in Predicting Response After Systemic Therapy in Women With Metastatic Breast Cancer",
+  "official_title": "DNA Methylation in Serum as a Predictive Marker of Progression and Survival Following Systemic Therapy in Patients With Metastatic Breast Cancer",
+  "brief_summary": "RATIONALE: Studying samples of blood from patients with cancer and from healthy participants in the laboratory may help doctors learn more about changes that may occur in DNA and identify biomarkers related to cancer. It may also help doctors predict how well patients will respond to systemic therapy.\n\nPURPOSE: This laboratory study is looking at DNA in predicting response after systemic therapy in women with metastatic breast cancer.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* Identify a panel of methylated gene markers in serum from women with metastatic breast cancer that is significantly different from that observed in healthy participants.\n* Assess changes in a panel of methylated gene markers from baseline, after 3-4 weeks, and after 9-12 weeks of systemic therapy in patients with metastatic breast cancer.\n* Determine the potential effects of common exposures (i.e., alcohol, smoking, medications, and dietary factors) on patterns of serum methylation in patients with metastatic breast cancer and in healthy participants.\n* Develop a predictive model using DNA methylation profiles in serum that predicts clinical outcome for an individual patient with metastatic disease.\n\nSecondary\n\n* Correlate circulating tumor cells (CTCs) with clinical outcome in patients with metastatic breast cancer.\n* Correlate CTCs with serum methylation in these patients.\n* Determine if the addition of CTCs to serum methylation results in an improved predictive model.\n\nOUTLINE: This is a prospective, multicenter study.\n\nPatients and healthy participants fill out health assessment questionnaires at baseline, week 3-4, and week 9-12.\n\nPatients undergo blood collection for methylated marker analysis at baseline, weeks 3-4, and weeks 9-12 and circulating tumor cell levels at baseline and weeks 3-4. Healthy participants undergo blood collection for methylated marker analysis at baseline. An additional cohort of healthy participants undergo follow-up blood collection \u2265 1 week after baseline.\n\nDNA methylation is measured by quantitative multiplex methylation-specific polymerase chain reaction (QM-MSP) assay.\n\nAfter completion of study procedures, patients are followed every 3-4 months.\n\nPROJECTED ACCRUAL: A total of 150 patients and 150 healthy participants will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 182,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "DNA methylation analysis",
+      "type": "GENETIC",
+      "description": "laboratory analysis"
+    },
+    {
+      "name": "microarray analysis",
+      "type": "GENETIC",
+      "description": "laboratory analysis"
+    },
+    {
+      "name": "polymerase chain reaction",
+      "type": "GENETIC",
+      "description": "laboratory analysis"
+    },
+    {
+      "name": "laboratory biomarker analysis",
+      "type": "OTHER",
+      "description": "laboratory analysis"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Meets 1 of the following criteria:\n\n  * Histologically and/or cytologically confirmed stage IV adenocarcinoma of the breast (patient)\n  * No diagnosis of an abnormal breast biopsy (including atypical ductal or lobular hyperplasia), or new diagnosis of breast cancer or breast cancer recurrence within the past five years (healthy participant)\n* Evidence of disease progression AND initiating a new systemic treatment regimen with trastuzumab (Herceptin\u00ae), chemotherapy, endocrine therapy, or investigational agent(s) (patient)\n\n  * Treatment may be given as a single agent or in combination\n* Measurable or evaluable disease (patient)\n\n  * Measurable disease is defined as \u2265 1 measurable lesion identified by RECIST criteria\n  * Patients with evaluable disease only must have \u2265 1 tumor marker (e.g., carcinoembryonic antigen, CA 27-29, or CA 15-3) above normal level\n* Treated brain metastases (surgery or radiation therapy) allowed provided patient has evidence of disease stability or presence of other site(s) of measurable or evaluable disease (patient)\n\n  * No leptomeningeal disease\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n* ECOG performance status 0-2\n* No known cancer within the past 5 years other than basal cell or squamous cell carcinoma of the skin and/or adequately treated cervical cancer (healthy participant)\n* Not pregnant or nursing\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Prior therapy in the preoperative, adjuvant, and/or metastatic setting allowed\n\n  * Any number of prior regimens in any setting allowed\n* No prior radiation therapy to the only site of disease unless there is evidence of post-radiation disease progression\n* No selective estrogen receptor modulator or aromatase inhibitor for breast cancer prevention or therapy within the past 12 months (healthy participant)\n* Prior or concurrent use of raloxifene for osteopenia or osteoporosis therapy allowed (healthy participant)\n* Concurrent participation in another clinical trial, including one involving an investigational agent(s), allowed",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival in Patients With a High vs. Low Cumulative Methylation Index (CMI) Value",
+      "timeFrame": "from week 4 to up to 87 months",
+      "description": ""
+    },
+    {
+      "measure": "Changes in Methylated Gene Markers as Measured by Cumulative Methylation Index",
+      "timeFrame": "baseline, week 4",
+      "description": "log change in cumulative methylation index (CMI) from baseline to week 4. Individual gene methylation (M) is calculated as a methylation index (MI) where MI = (methylated copies)/(number of methylated genes + gene standard copies) \\* 100. The MI of each sample was averaged across duplicates. The cumulative methylation index (CMI) is the sum of the MI for all genes. The log change from based line to week 4 could increase or decrease. CMI was evaluated as a continuous marker for change from baseline."
+    },
+    {
+      "measure": "Effects of Common Exposures (i.e., Alcohol, Smoking, Medications, and Dietary Factors) on Patterns of Serum Methylation",
+      "timeFrame": "9-12 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Creation of a Predictive Model of DNA Methylation Profiles",
+      "timeFrame": "9-12 weeks",
+      "description": ""
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2007-01",
+  "completion_date": "2016-10",
+  "last_updated": "2019-07-25"
+}

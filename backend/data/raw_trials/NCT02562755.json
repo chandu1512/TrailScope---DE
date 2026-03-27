@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT02562755",
+  "brief_title": "Hepatocellular Carcinoma Study Comparing Vaccinia Virus Based Immunotherapy Plus Sorafenib vs Sorafenib Alone",
+  "official_title": "A Phase 3 Randomized, Open-Label Study Comparing Pexa Vec (Vaccinia GM CSF / Thymidine Kinase-Deactivated Virus) Followed by Sorafenib Versus Sorafenib in Patients With Advanced Hepatocellular Carcinoma (HCC) Without Prior Systemic Therapy",
+  "brief_summary": "This is a randomized Phase 3 study to determine whether treatment with vaccinia virus based immunotherapy (Pexa-Vec) followed by sorafenib increases survival compared to treatment with sorafenib in patients with advanced hepatocellular carcinoma who have not received prior systemic therapy.",
+  "detailed_description": "This is a multi-center, randomized, open-label, Phase 3 study comparing Pexa Vec followed by sorafenib versus sorafenib in patients with advanced HCC without prior systemic therapy.\n\nA total of 459 patients were randomly assigned to 2 treatment arms- 234 patients in the Pexa-Vec followed by sorafenib treatment group and 225 patients in the sorafenib only treatment group.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 459,
+  "conditions": [
+    "Hepatocellular Carcinoma (HCC)"
+  ],
+  "interventions": [
+    {
+      "name": "Pexastimogene Devacirepvec (Pexa Vec)",
+      "type": "BIOLOGICAL",
+      "description": "Pexa-Vec is a vaccinia virus based oncolytic immunotherapy designed to stimulate the immune system following infection and replication within tumor cells."
+    },
+    {
+      "name": "Sorafenib",
+      "type": "DRUG",
+      "description": "Sorafenib belongs to the pharmacotherapeutic group of antineoplastic agents, protein kinase inhibitors, ATC code: L01XE05.\n\nSorafenib is a multi-kinase inhibitor which has demonstrated both anti-proliferative and anti-angiogenic properties in vitro and in vivo.\n\nSorafenib is approved for the treatment of advanced HCC and is the Standard Of Care for this disease."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histological/cytological diagnosis of primary HCC\n* Advanced stage HCC (Barcelona Clinic Liver Cancer \\[BCLC\\] Stage C or B per American Association for the Study of Liver Disease \\[AASLD\\] guidelines)\n* At least one measurable viable tumor in the liver, \u22651 cm longest diameter (LD), using a dynamic imaging technique (arterial phase of triphasic computerized tomography \\[CT\\] scan, or dynamic contrast-enhanced magnetic resonance imaging \\[MRI\\]), and injectable under imaging-guidance (CT and/or ultrasound)\n* Child-Pugh Class A\n* Performance status 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) scale\n* Adequate hematological, hepatic, and renal function:\n* Additional inclusion criteria exist\n\nExclusion Criteria:\n\n* Histological diagnosis of cholangiocarcinoma, hepatocholangiocarcinoma, fibrolamellar carcinoma and hepatoblastoma\n* Symptomatic cardiovascular disease, including but not limited to significant coronary artery disease (e.g., requiring angioplasty or stenting) or congestive heart failure within the preceding 12 months\n* Current or past history of cardiovascular disease (e.g.. past history of myocardial infarction, ischemic cardiomyopathy) unless cardiology consultation and clearance has been obtained for study participation\n* History of moderate or severe ascites, bleeding esophageal varices, hepatic encephalopathy or pleural effusions related to liver insufficiency within 6 months of screening\n* Bulky disease patients - tumors encompassing \\>50% of the liver volume and / or inferior vena cava invasion\n* Known significant immunodeficiency due to underlying illness (e.g., HIV/AIDS) and/or immune-suppressive medication including high-dose corticosteroids\n* Ongoing severe inflammatory skin condition (as determined by the Investigator) requiring medical treatment\n* History of severe eczema (as determined by the Investigator) requiring medical treatment\n* Additional exclusion criteria exist",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Mercy Medical Center, Inc.",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21202",
+      "status": ""
+    },
+    {
+      "facility": "Morristown Medical Center",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    },
+    {
+      "facility": "St. Joseph's Hospital",
+      "city": "Paterson",
+      "state": "New Jersey",
+      "zip": "07503",
+      "status": ""
+    },
+    {
+      "facility": "Hospital of The University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response Rate (ORR)",
+      "timeFrame": "From date of randomization to the date of first documented radiographic tumor progression up to 53 months",
+      "description": "Percentage of participants who showed overall response during their participation in the study. Per Modified Response Evaluation Criteria In Solid Tumors Criteria (mRECIST) and assessed by tri-phasic contrast enhanced CT: Complete Response (CR), Disappearance of intratumoral enhancing area; Partial Response (PR), \\>=30% decrease in the sum of the diameters of enhancing area; Overall Response (OR) = CR + PR."
+    }
+  ],
+  "sponsor": "SillaJen, Inc.",
+  "collaborators": [],
+  "start_date": "2015-10",
+  "completion_date": "2020-07",
+  "last_updated": "2020-12-11"
+}

@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT06084884",
+  "brief_title": "A Phase I/II Study to Evaluate AZD5851 in GPC3+ Advanced/Recurrent Hepatocellular Carcinoma",
+  "official_title": "A Phase I/II Open-Label Study to Evaluate the Safety, Cellular Kinetics and Efficacy of AZD5851, a Chimeric Antigen Receptor T-Cell (CAR-T) Therapy Directed Against GPC3 in Adult Participants With Advanced/Recurrent Hepatocellular Carcinoma: ATHENA",
+  "brief_summary": "A Phase I/II study to evaluate AZD5851 in patients with GPC3+ advanced/recurrent hepatocellular carcinoma.",
+  "detailed_description": "This first-time in human, single-arm, open-label multicentre Phase I/II study will evaluate the safety, tolerability, antitumour activity, cellular kinetics, pharmacodynamics, and immunogenicity of AZD5851 in adult participants with GPC3+ advanced/recurrent HCC, where at least one line of prior therapy has failed/or was intolerable, or participant/investigator decision.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 94,
+  "conditions": [
+    "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "AZD5851",
+      "type": "BIOLOGICAL",
+      "description": "Subjects will undergo leukapheresis to isolate peripheral blood mononuclear cells (PBMCs) to produce AZD5851.\n\nDuring AZD5851 production, subjects may receive bridging therapy for disease control. Upon successful generation of AZD5851 product, subjects will receive treatment with AZD5851 therapy.\n\nStudy treatment will include lymphodepleting chemotherapy followed by one dose of AZD5851 administered by intravenous (IV) infusion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Participant must be 18 years or older and has voluntarily agreed to participate by giving written informed consent.\n2. Participants with confirmed advanced/recurrent or metastatic and/or unresectable HCC based on histopathological findings\n3. Completed or were unable to tolerate at least one prior line of standard systemic therapy for HCC and/or participant/investigator decision.\n4. GPC3-positive tumour as determined by a central laboratory using an analytically validated IHC assay\n5. Barcelona Clinic Liver Cancer Stage B (if not amenable to local treatment/surgery) or C prior to apheresis\n6. Child-Pugh score: Grade A\n7. Participants with HBV and HCV undergoing management of these infections per institutional practice.\n\nExclusion Criteria:\n\n1. Active or prior documented gastrointestinal (GI) variceal bleed or history of upper GI bleeding, ulcers, or esophageal varices with bleeding within 12 months\n2. History of liver transplantation or on waiting list\n3. Current clinically significant ascites\n4. Main portal vein thrombus, or tumor thrombus invasion of mesenteric vein / inferior vena cava\n5. Uncontrolled intercurrent illness\n6. Active Infections\n7. Positive serology for HIV\n8. History of hepatic encephalopathy within 12 months prior to treatment allocation\n9. History of chronic or recurrent (within the last year) severe autoimmune or immune mediated disease requiring steroids or other immune-suppressive treatments.\n10. Prior treatment with any CAR-T therapy directed at any target or any therapy that is targeted to GPC3.\n11. Receipt of the last dose of anticancer therapy (chemotherapy, immunotherapy, endocrine therapy, targeted therapy, biologic therapy, tumour embolisation, or monoclonal antibodies, investigational product) within 5 half-lives or \u2264 21 days (whichever is shortest).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15237",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "1. Incidence of participants with dose-limiting toxicities (DLTs), adverse events (AEs), including adverse events of special interest (AESI) and serious adverse events (SAEs). Determination of the recommended dose of AZD5851 for expansion phase",
+      "timeFrame": "Through study completion, an average of 2 years",
+      "description": "Determine if treatment with AZD5851 is safe and tolerable through assessment of DLTs, AEs, SAEs and changes from baseline in vital signs, ECGs, and laboratory parameters"
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2023-12-14",
+  "completion_date": "2027-12-13",
+  "last_updated": "2026-03-06"
+}

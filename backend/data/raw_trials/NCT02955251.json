@@ -1,0 +1,86 @@
+{
+  "nct_id": "NCT02955251",
+  "brief_title": "A Study of ABBV-428, an Immunotherapy, in Subjects With Advanced Solid Tumors",
+  "official_title": "A Multi-Center, Phase 1, Open-Label, Dose-Escalation Study of ABBV-428, an Immunotherapy in Subjects With Advanced Solid Tumors",
+  "brief_summary": "This is an open-label, Phase I, dose-escalation study to determine the recommended Phase 2 dose (RPTD), maximum tolerated dose (MTD), and evaluate the safety and pharmacokinetic (PK) profile of ABBV-428 when administered as monotherapy or in combination with nivolumab in participants with advanced solid tumors.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 61,
+  "conditions": [
+    "Advanced Solid Tumors Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "ABBV-428",
+      "type": "DRUG",
+      "description": "ABBV-428 will be administered by intravenous infusion in 28-day dosing cycles on Day 1 and Day 15."
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Nivolumab will be administered by intravenous infusion according to approved dose and dosing schedules."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants must have an advanced solid tumor that has progressed on standard therapies known to provide clinical benefit or the participants are intolerant to such therapies.\n* Participants have adequate bone marrow, renal, hepatic and coagulation function.\n* For all dose expansion arms, participants must have measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1\n* Participants in combination therapy cohorts must have an advanced solid tumor where the use of nivolumab is standard therapy.\n\nExclusion Criteria:\n\n* Active or prior documented autoimmune disease in the last 2 years. Participants with childhood atopy or asthma, vitiligo, alopecia, Hashimoto syndrome, Grave's disease, or psoriasis not requiring systemic treatment (within the past 2 years) are not excluded.\n* Current or prior use of immunosuppressive medication within 14 days prior to the first dose (with certain exceptions).\n* History of primary immunodeficiency, bone marrow transplantation, chronic lymphocytic leukemia, solid organ transplantation, or previous clinical diagnosis of tuberculosis.\n* Confirmed positive test results for human immunodeficiency virus (HIV), or participants with chronic or active hepatitis B or C. Participants who have a history of hepatitis B or C who have undetectable HBV DNA or HCV RNA after anti-viral therapy may be enrolled.\n* Prior grade greater than or equal to 3 immune-mediated neurotoxicity or pneumonitis (or any other unresolved or symptomatic adverse event in the last 3 months) while receiving immunotherapy.\n* Male participants who are considering fathering a child or donating sperm during the study or for at least 3 or 5 months (for monotherapy and combination therapy participants, respectively) after the last dose of study drug.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center /ID# 170665",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of participants with adverse events",
+      "timeFrame": "First dose of study drug through at least 100 days after end of treatment; up to 2 years after last participants first dose",
+      "description": ""
+    },
+    {
+      "measure": "Recommended Phase 2 Dose (RPTD) of ABBV-428 when administered as monotherapy or in combination with nivolumab",
+      "timeFrame": "1 day of study drug administration within the 28-day cycle at the designated cohort dose",
+      "description": "If a maximum tolerated dose (MTD) is reached, the RPTD of ABBV-428 will not be a dose higher than the defined MTD, and will be selected based on the type(s) and occurrence(s) of dose limiting toxicities which occur in addition to the MTD. If a MTD is not reached, then the RPTD will be defined based on the safety and pharmacokinetic data."
+    },
+    {
+      "measure": "Area under the serum concentration-time curve (AUC) of ABBV-428",
+      "timeFrame": "Up to 30 days after a 24-month treatment period",
+      "description": ""
+    },
+    {
+      "measure": "Terminal half-life (t1/2) of ABBV-428",
+      "timeFrame": "Up to 30 days after a 24-month treatment period",
+      "description": ""
+    },
+    {
+      "measure": "Maximum observed serum concentration (Cmax) of ABBV-428",
+      "timeFrame": "Up to 30 days after a 24-month treatment period",
+      "description": ""
+    },
+    {
+      "measure": "Maximum tolerated dose (MTD) of ABBV-428 when administered as monotherapy or in combination with nivolumab",
+      "timeFrame": "Up to 2 years",
+      "description": "The highest dose level at which less than 2 of 6 participants or less than 33% of (if cohort is expanded beyond 6) participants experience a dose limiting toxicity."
+    },
+    {
+      "measure": "Time to Cmax (Tmax) of ABBV-428",
+      "timeFrame": "Up to 30 days after a 24-month treatment period",
+      "description": ""
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [],
+  "start_date": "2016-11-18",
+  "completion_date": "2019-10-29",
+  "last_updated": "2020-07-17"
+}

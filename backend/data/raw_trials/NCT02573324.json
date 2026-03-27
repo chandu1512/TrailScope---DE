@@ -1,0 +1,132 @@
+{
+  "nct_id": "NCT02573324",
+  "brief_title": "A Study of ABT-414 in Participants With Newly Diagnosed Glioblastoma (GBM) With Epidermal Growth Factor Receptor (EGFR) Amplification",
+  "official_title": "A Randomized, Placebo Controlled Phase 3 Study of ABT-414 With Concurrent Chemoradiation and Adjuvant Temozolomide in Subjects With Newly Diagnosed Glioblastoma (GBM) With Epidermal Growth Factor Receptor (EGFR) Amplification (Intellance1)",
+  "brief_summary": "This study seeks to determine whether the addition of ABT-414 to concomitant radiotherapy and temozolomide (TMZ) followed by combination of ABT-414 with adjuvant TMZ prolongs overall survival (OS) among participants with newly diagnosed glioblastoma (GBM) with epidermal growth factor receptor (EGFR) amplification.\n\nIn addition, there is a Phase 1, open-label, multicenter sub-study to assess the pharmacokinetics, safety and tolerability of ABT-414 in participants with newly diagnosed EGFR-amplified GBM who have mild or moderate hepatic impairment.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 691,
+  "conditions": [
+    "Glioblastoma",
+    "Gliosarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "Temozolomide",
+      "type": "DRUG",
+      "description": "Oral Capsule"
+    },
+    {
+      "name": "Depatuxizumab mafodotin",
+      "type": "DRUG",
+      "description": "Intravenous (IV) Infusion"
+    },
+    {
+      "name": "Radiation",
+      "type": "RADIATION",
+      "description": ""
+    },
+    {
+      "name": "Placebo for ABT-414",
+      "type": "DRUG",
+      "description": "IV Infusion (IV)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Must have a clinical diagnosis of glioblastoma (GBM).\n* Must have a confirmed epidermal growth factor receptor amplification in tumor tissue.\n* Must have a Karnofsky Performance Status (KPS) \\>= 70 at assessment \\<= 14 days prior to randomization (N/A to the sub-study).\n* Must have recovered from effects of surgery, postoperative infection and other complications of surgery.\n* Must have adequate bone marrow, renal, and hepatic function (For the sub-study, the participant must have adequate bone marrow and renal function and have mild-to-moderate hepatic impairment).\n\nExclusion Criteria:\n\n* Multifocal, recurrent or metastatic GBM or gliomatosis cerebri (For the sub-study, the participant can have multifocal GBM and glimatosis cerebri but can't have recurrent or metastatic GBM).\n* Prior chemo therapy or radiosensitizer for head and neck cancer.\n* Prior radiotherapy to the head or neck in overlap of radiation fields.\n* Prior therapy for glioblastoma or other invasive malignancy.\n* Prior, concomitant or planned treatment with Novo Tumor Treatment Fields (Novo-TTF), EGFR-targeted therapy, bevacizumab, Gliadel wafers or other intratumoral or intracavity anti-neoplastic therapy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Christiana Care Health Service /ID# 144127",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "MD Anderson Cancer Center at Cooper - Camden /ID# 145891",
+      "city": "Camden",
+      "state": "New Jersey",
+      "zip": "08103",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey /ID# 148190",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "St. Luke's Hospital /ID# 148191",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18017",
+      "status": ""
+    },
+    {
+      "facility": "Penn State University and Milton S. Hershey Medical Center /ID# 147525",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania /ID# 157623",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-5502",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University /ID# 144191",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107-4414",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center /ID# 145893",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny General Hospital /ID# 144126",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania Medical Center - Shadyside /ID# 144159",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "Overall median duration of follow-up was 15.5 months (range: 0.1, 35.6).",
+      "description": "Time to OS is defined as the number of days from the date of randomization to the date of death due to any cause."
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [
+    "Radiation Therapy Oncology Group"
+  ],
+  "start_date": "2015-01-04",
+  "completion_date": "2022-04-04",
+  "last_updated": "2023-05-08"
+}

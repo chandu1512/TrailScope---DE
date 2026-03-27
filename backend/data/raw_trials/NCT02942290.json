@@ -1,0 +1,120 @@
+{
+  "nct_id": "NCT02942290",
+  "brief_title": "A Study Evaluating Venetoclax in Combination With Azacitidine in Participants With Treatment-Na\u00efve Higher-Risk Myelodysplastic Syndromes (MDS)",
+  "official_title": "A Phase 1b Dose Escalation Study Evaluating the Safety and Pharmacokinetics of Venetoclax in Combination With Azacitidine in Subjects With Treatment-Na\u00efve Higher-Risk Myelodysplastic Syndromes (MDS)",
+  "brief_summary": "This is a Phase 1b, open-label, non-randomized, multicenter, dose-finding study evaluating venetoclax in combination with azacitidine in participants with treatment-na\u00efve higher-risk MDS comprising a dose-escalation portion and a safety expansion portion.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 129,
+  "conditions": [
+    "Myelodysplastic Syndromes (MDS)"
+  ],
+  "interventions": [
+    {
+      "name": "Azacitidine",
+      "type": "DRUG",
+      "description": "Powder for injection; taken subcutaneously (SC) or intravenous (IV); Administered on Days 1-7 of 28 days cycle or Days 1-5 of Week 1 \\& Days 1-2 of Week 2 of 28 day cycle."
+    },
+    {
+      "name": "Venetoclax",
+      "type": "DRUG",
+      "description": "Oral; Tablet"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participant must have documented diagnosis of untreated de novo MDS with:\n\n  * International Prognostic Scoring System (IPSS) risk categories Int-2 or High (minimum IPSS overall score of 1.5) OR Revised IPSS (IPSS-R) categories intermediate, high or very high (score of \\> 3) and\n  * Presence of less than 20% bone marrow blasts per bone marrow biopsy/aspirate.\n* Eastern Cooperative Oncology Group (ECOG) performance score of less than or equal to 2.\n\nExclusion Criteria:\n\n* Participant has received prior therapy for MDS. (Prior supportive care in form of transfusions or growth factors, etc., is not considered prior therapy).\n* Participant has received prior therapy with a BCL-2 Homology 3 (BH3) mimetic.\n* Participant has a diagnosis other than previously untreated de novo MDS (as defined in the protocol) including:\n\n  * MDS with IPSS risk categories Low or Int-1 (overall IPSS score \\< 1.5)\n  * Therapy-related MDS (t-MDS).\n  * MDS evolving from a pre-existing myeloproliferative neoplasm (MPN).\n  * MDS/MPN including chronic myelomonocytic leukemia (CMML), atypical chronic myeloid leukemia (CML), juvenile myelomonocytic leukemia (JMML) and unclassifiable MDS/MPN.\n* Participant has received allogeneic Hematopoietic Stem Cell Transplantation (HSCT) or solid organ transplantation.\n* Participant has received a live attenuated vaccine within 4 weeks prior to the first dose of study drug.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland, Baltimore /ID# 153669",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh MC /ID# 153662",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15260",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "AUCt for Azacitidine",
+      "timeFrame": "Up to 32 days",
+      "description": "Area under the plasma concentration-time curve (AUC) from 0 to the time of the last measurable concentration (AUCt) for azacitidine."
+    },
+    {
+      "measure": "Cmax of venetoclax",
+      "timeFrame": "Up to 32 days",
+      "description": "Maximum plasma concentration (Cmax) of venetoclax."
+    },
+    {
+      "measure": "AUCt for venetoclax",
+      "timeFrame": "Up to 32 days",
+      "description": "Area under the plasma concentration-time curve (AUC) from 0 to the time of the last measurable concentration (AUCt) for venetoclax."
+    },
+    {
+      "measure": "Tmax of venetoclax",
+      "timeFrame": "Up to 32 days",
+      "description": "Time to Cmax (peak time, Tmax) of venetoclax."
+    },
+    {
+      "measure": "AUC[0 to infinity] for azacitidine",
+      "timeFrame": "Up to 32 days",
+      "description": "Area under the plasma concentration-time curve from Time 0 to infinite time."
+    },
+    {
+      "measure": "Recommended Phase 2 dose (RPTD) and dosing schedule of venetoclax in combination with azacitidine",
+      "timeFrame": "Measured from Day 1 until Day 28 per dose level.",
+      "description": "The RPTD of venetoclax \\[co-administered venetoclax and azacitidine\\] will be determined during the dose escalation phase of the study. RPTD will be determined using available safety and pharmacokinetics data \\[upon completion of the dose escalation phase\\]."
+    },
+    {
+      "measure": "Half-life (t[1/2]) for azacitidine",
+      "timeFrame": "Up to 32 days",
+      "description": "Terminal elimination half-life (t\\[1/2\\]) for azacitidine."
+    },
+    {
+      "measure": "Cmax for azacitidine",
+      "timeFrame": "Up to 32 days",
+      "description": "Maximum plasma concentration (Cmax) of azacitidine."
+    },
+    {
+      "measure": "AUC[0-24] for venetoclax",
+      "timeFrame": "Up to 32 days",
+      "description": "AUC over a 24-hour dose interval (AUC\\[0-24\\]) for venetoclax."
+    },
+    {
+      "measure": "Clearance (CL) for azacitidine",
+      "timeFrame": "Up to 32 days",
+      "description": "Clearance is defined as the volume of plasma cleared of the drug per unit time."
+    },
+    {
+      "measure": "Tmax for azacitidine",
+      "timeFrame": "Up to 32 days",
+      "description": "Time to Cmax (peak time, Tmax) of azacitidine."
+    },
+    {
+      "measure": "Complete Remission (CR) Rate",
+      "timeFrame": "Measured from Cycle 1 Day 1 as long as the participant continues to benefit, or until the occurrence of unacceptable toxicity, death, exercise of investigator discretion, or withdrawal of consent, and for an anticipated maximum duration of 24 months.",
+      "description": "Complete remission rate will be defined as the proportion of participants who achieved a complete response per the International Working Group (IWG) 2006 criteria for Myelodysplastic Syndromes (MDS)."
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [
+    "Genentech, Inc."
+  ],
+  "start_date": "2017-01-12",
+  "completion_date": "2027-01",
+  "last_updated": "2025-08-01"
+}

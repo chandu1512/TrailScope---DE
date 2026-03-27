@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT05168423",
+  "brief_title": "CART-EGFR-IL13Ra2 in EGFR Amplified Recurrent GBM",
+  "official_title": "Phase 1, Open-label Study Evaluating the Safety and Feasibility of CART-EGFR-IL13Ra2 Cells in Patients With EGFR-Amplified Recurrent Glioblastoma",
+  "brief_summary": "This is an open-label phase 1 study to assess the safety and feasibility of autologous T cells co-expressing two CARs targeting the cryptic EGFR epitope 806 and IL13Ra2 (referred to as \"CART-EGFR-IL13Ra2 cells\") in patients with EGFR-amplified glioblastoma, IDH-wildtype that has recurred following prior radiotherapy. This study will take place in two parts: an initial dose escalation phase followed by a dose exploration phase. In the dose expansion phase, the maximum tolerated dose (MTD) of CART-EGFR-IL13Ra2 cells will be determined using a standard 3+3 design. Once the MTD has been determined, the dose exploration phase will allow for further identification of a recommended dose for expansion (RDE) as well as the safety and feasibility of alternative dosing schedules.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 67,
+  "conditions": [
+    "Glioblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "CART-EGFR-IL13Ra2 Cells",
+      "type": "DRUG",
+      "description": "autologous T cells transduced with a bicistronic lentiviral vector containing a murine scFv targeting EGFR and a humanized scFv targeting IL13Ra2"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Signed, written informed consent\n2. Male or female age \u2265 18 years\n3. Patients with glioblastoma, IDH-wildtype (as defined by WHO 2021 Classification of CNS Tumors) that has recurred following prior radiotherapy. For patients with tumors harboring methylation of the MGMT promoter, at least 12 weeks must have elapsed since completion of first-line radiotherapy.\n4. Tumor tissue positive for wild-type EGFR amplification by NeoGenomics Laboratories. Archival tumor from patient's initial surgery at time of original diagnosis or recently collected tumor from time of recurrence are acceptable.\n5. Surgical tumor resection for disease control/management or tumor biopsy to confirm tumor recurrence is clinically indicated in the opinion of the physician-investigator.\n6. Adequate organ function defined as:\n\n   1. Serum creatinine \u2264 1.5 x ULN or estimated creatinine clearance \u2265 30 ml/min and not on dialysis.\n   2. ALT/AST \u2264 3 x upper limit of normal range and total bilirubin \u2264 2.0 mg/dl, except for patients in whom hyperbilirubinemia is attributed to Gilbert's syndrome (\u2264 3.0 mg/dl).\n   3. Left Ventricular Ejection Fraction (LVEF) \u2265 45% confirmed by ECHO/MUGA\n   4. Must have a minimum level of pulmonary reserve defined as \u2264 Grade 1 dyspnea and pulse oxygen \\> 92% on room air\n7. Karnofsky Performance Status \u2265 60%.\n8. Subjects of reproductive potential must agree to use acceptable birth control methods.\n\nExclusion Criteria:\n\n1. Active hepatitis B or hepatitis C infection.\n2. Any other active, uncontrolled infection.\n3. Class III/IV cardiovascular disability according to the New York Heart Association Classification.\n4. Tumors primarily localized to the brain stem or spinal cord.\n5. Severe, active co-morbidity in the opinion of the physician-investigator that would preclude participation in this study.\n6. Receipt of bevacizumab within 3 months prior to physician-investigator confirmation of eligibility.\n7. Active autoimmune disease requiring systemic immunosuppressive treatment equivalent to \u2265 10 mg daily of prednisone. Patients with autoimmune neurological diseases (such as MS or Parkinson's) will be excluded.\n8. Patients who are pregnant or nursing (lactating).\n9. History of allergy or hypersensitivity to study product excipients (human serum albumin, DMSO, and Dextran 40).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Subjects with treatment related adverse events using NCI Common Terminology Criteria for Adverse Events (CTCAE) V5.0",
+      "timeFrame": "Up to 15 years following CART-EGFR-IL13Ra2 administration",
+      "description": "Type, frequency, severity, and attribution of adverse events"
+    },
+    {
+      "measure": "Number of subjects with dose-limiting toxicities (DLTs)",
+      "timeFrame": "28 days following initial treatment with CART-EGFR-IL13Ra2 cells",
+      "description": "Dose Escalation Phase only; Unacceptable toxicity as defined by the protocol"
+    },
+    {
+      "measure": "Determination of maximum tolerated dose (MTD).",
+      "timeFrame": "28 days following initial treatment with CART-EGFR-IL13Ra2 cellsnths",
+      "description": "Dose Escalation Phase only: The maximum tolerated dose (MTD) is defined as the highest dose explored at which 0 or 1 DLT occurs in 6 evaluable subjects."
+    },
+    {
+      "measure": "Determine the recommended dose for expansion (RDE).",
+      "timeFrame": "Up to 12 months following initial treatment with CART-EGFR-IL13Ra2 cells",
+      "description": ""
+    },
+    {
+      "measure": "Proportion of eligible subjects who receive all planned doses of CART-EGFR-IL13Ra2 cells.",
+      "timeFrame": "28 days following initial treatment with CART-EGFR-IL13Ra2 cells",
+      "description": "Cohort 4 only"
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [
+    "Kite Pharma (a Gilead Company)"
+  ],
+  "start_date": "2023-02-24",
+  "completion_date": "2039-12-19",
+  "last_updated": "2025-09-26"
+}

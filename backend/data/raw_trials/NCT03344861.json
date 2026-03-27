@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT03344861",
+  "brief_title": "Safety of PDT-Photofrin\u00ae Prior to Lung Surgery",
+  "official_title": "A Multicenter, Prospective, Open-label, Non-randomized Single-arm Clinical Study of the Safety and Tissue Response to Photodynamic Therapy Using Porfimer Sodium for Injection as Treatment for Solid Lung Tumor Prior to Surgical Resection",
+  "brief_summary": "This research study is being conducted to assess the safety of PDT in subjects with peripherally located malignant tumors in lung parenchyma prior to surgical resection. It will involve up to 10 sites in USA. Participation will last 4 months.",
+  "detailed_description": "Lung cancer accounts for almost one-third of cancer deaths. Cancer screening strategies have the potential to achieve a 20% reduction in death rates. Newly developed bronchoscopic technologies (such as navigational bronchoscopy) have been shown to enable physicians to safely reach lesions in peripheral regions of the lung and obtain diagnosis. This new technology may now potentially offer bronchoscopic therapeutic interventions, such as photodynamic therapy, to tumors that were previously unreachable due to their peripheral anatomic location.\n\nPhotodynamic therapy (PDT) uses a combination of a photosensitizing drug (a drug that is activated by light), called porfimer sodium (Photofrin\u00ae), and a light from a laser that emits no heat. This technique works to allow the medical doctor to specifically target and destroy abnormal or cancer cells while limiting damage to surrounding healthy tissue. The activation of the drug is done by lightning the abnormal area using a fiber optic device (very fine fiber \\[like a fishing line\\] that permits light transmission) inserted into a flexible tube with a light, called bronchoscope for the lung. The light activates the porfimer sodium concentrated in the abnormal tissue, leading to its destruction.\n\nThe purpose of this study is to assess the safety of using photodynamic therapy prior to surgical resection of tumors located in the periphery of the lung.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 10,
+  "conditions": [
+    "Lung Cancer",
+    "Lung Cancer Metastatic"
+  ],
+  "interventions": [
+    {
+      "name": "Porfimer Sodium",
+      "type": "DRUG",
+      "description": "Porfimer sodium (Photofrin\u00ae) will be injected intravenously at a dose of 2 mg/kg."
+    },
+    {
+      "name": "Fiber optic",
+      "type": "DEVICE",
+      "description": "After injection of porfimer sodium (Photofrin\u00ae), a flexible bronchoscopy with navigation guidance will be performed to confirm the location and the size of the lesion with the use of radial probe endobronchial ultrasonography (REBUS). An optical fiber diffuser length matching the tumor length will be placed in the lesion or adjacent to the lesion under fluoroscopy guidance. After the placement of the optical fiber, the laser light will be applied at a dose of 200 J/cm of diffuser length."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male or female aged 18-79\n* Diagnosed with primary or metastatic tumor \\< 5 cm located in peripheral lung that can be completely resectable\n* Candidate for surgical resection\n* Candidate for bronchoscopy\n* Tumor is accessible for unrestricted illumination of PDT\n* Subject is deemed likely to survive for at least 3 months\n* Non-menopausal/non-sterile female subject of childbearing potential has negative B-HCG (Human chorionic gonadotropin) at time of study entry\n* Non-menopausal/non-sterile female subject of childbearing potential uses medically acceptable form of birth control\n* Subject is able and willing to provide written informed consent to participate in the study, which must comply with ICH (International Council for Harmonisation) guidelines \\& local requirements\n\nExclusion Criteria:\n\n* Diagnosis of small cell lung cancer or carcinoid tumors\n* Primary or metastatic lung tumor located in central lung or near vertebral body\n* Tumor invades a major blood vessel\n* Presence of concurrent non-solid malignancy\n* Tumor previously treated with radiation therapy\n* Chemotherapy in the last four weeks\n* Tumor treated with PDT within the last 3 months\n* Abnormal blood results\n* Subject with porphyria or hypersensitivity to Photofrin\n* Coexisting ophthalmic disease likely to required slit-lamp exam within next 90 days\n* Acute or chronic medical or psychological illness as judged clinical significant to PI to preclude bronchoscopy procedures\n* female who is breast-feeding or intends to breast-feed during study\n* subject who participated in another study within last 30 days or intends to participate in another study during this study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "79 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Dubois Medical Center",
+      "city": "DuBois",
+      "state": "Pennsylvania",
+      "zip": "15801",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety: Number of Participants With at Least One Adverse Event",
+      "timeFrame": "108 days (to 3 months post surgery)",
+      "description": "Safety evaluation will include incidence of all adverse events, including serious and non-serious. The count of how many subjects experienced at least one adverse event."
+    },
+    {
+      "measure": "Safety: Physical Examination Summaries of Non-normal Findings for Each Subject",
+      "timeFrame": "108 days (to 3 months post surgery)",
+      "description": "Safety evaluation will include the physical examinations summary of non-normal findings for each subject."
+    },
+    {
+      "measure": "Safety: Vital Sign Summary of Abnormal Findings for Each Subject",
+      "timeFrame": "108 days (to 3 months post surgery)",
+      "description": "Safety evaluation will include vital sign summary for each subject. Only abnormal counts are included."
+    },
+    {
+      "measure": "Safety: Laboratory Tests Summaries of Abnormal Findings for Each Subject",
+      "timeFrame": "108 days (to 3 months post surgery)",
+      "description": "Safety evaluation will include laboratory tests summarized for each subject with any abnormal lab results considered an AE (adverse event) to be listed."
+    },
+    {
+      "measure": "Safety: Skin Photosensitivity Events Summaries of Abnormal Findings for Each Subject",
+      "timeFrame": "108 days (to 3 months post surgery)",
+      "description": "Safety evaluation will include incidence of skin photosensitivity summarized for each subject."
+    }
+  ],
+  "sponsor": "Concordia Laboratories Inc.",
+  "collaborators": [],
+  "start_date": "2017-08-14",
+  "completion_date": "2019-03-22",
+  "last_updated": "2019-12-30"
+}

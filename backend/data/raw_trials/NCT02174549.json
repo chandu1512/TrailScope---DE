@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT02174549",
+  "brief_title": "Dose-defining Study of Tirapazamine Combined With Embolization in Liver Cancer",
+  "official_title": "Phase I Dose-Escalating Study of Combining Intravenous Tirapazamine and Transarterial Embolization (TAE) in Liver Cancer",
+  "brief_summary": "This phase 1 study is to determine the optimal dose and tolerability of a hypoxia-activating agent, tirapazamine, when it is combined with embolization in liver cancer. Liver cancer patients who are Child-Pugh score A, suitable for embolization with tumor no more than 4 nodules are eligible. Tirapazamine will be given by intra-arterial injection before embolization. Treatment effect is evaluated by MRI based on mRECIST criteria. Repeat treatment is necessary only if disease progression. Dose escalation cohort has been completed. Expansion cohort is open for metastatic liver dominant neuroendocrine tumor.",
+  "detailed_description": "The study is a 3+3 design for dose escalation. Each cohort will have 3-6 patients based on tolerability. Patients will receive escalated doses of tirapazamine until maximally tolerated dose. Embolization is performed per standard practice using Lipiodol and Gelfoam under X-ray guidance. Once a suitable dose is determined, an expansion cohort of 15 patients will be treated with the recommended phase 2 dose to determine preliminary efficacy. Expansion cohorts include (1) hepatocellular carcinoma, (2) metastatic solid tumors with liver metastasis, and (3) neuroendocrine tumor. Adverse events are evaluated by CTCAE vs. 5.0 and efficacy is evaluated by MRI using modified RECIST criteria and RECIST criteria.\n\nThe dose escalation part has been completed. Only the third cohort or neuroendocrine tumor remains active for future patient enrollment.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 25,
+  "conditions": [
+    "Hepatocellular Carcinoma",
+    "Gastrointestinal Cancer Metastatic",
+    "Neuroendocrine Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "Tirapazamine",
+      "type": "DRUG",
+      "description": "Intra-arterial injection into the tumor feeding artery"
+    },
+    {
+      "name": "Conventional Transarterial Embolization (TAE)",
+      "type": "PROCEDURE",
+      "description": "Lipiodol and Gelfoam used to embolize tumor vessels and induce tumor hypoxia"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients with well-differentiated NET and liver-dominant metastatic disease with intrahepatic disease progression, regardless of primary tumor origin or tumor functional status. Patients may have extrahepatic lesions as long as the majority of the disease burden is intrahepatic.\n2. No limitation in hepatic lesion tumor size or number but the total volume of liver tumors cannot exceed 50% of the liver volume.\n3. Patients are allowed to have prior US Food and Drug Administration (FDA)-approved treatments, including systemic therapies, surgery, ablation, or transarterial therapies for the metastatic NET.\n4. Age 20 or higher, ECOG functional status 0-1, and with no known major cardiac, pulmonary, or renal dysfunction.\n5. Are candidates for TAE or TACE and without portal vein occlusion per treating interventional radiologists.\n6. ANC no less than 1000 /\u03bcL. Hemoglobin \u2265 9 gm/dL. Platelets no less than 50,000 /\u03bcL. Creatinine no more than 2.0 mg/dL. AST, ALT no more than 5X upper limit of normal. Bilirubin no more than 2.5 mg/dl. PT prolongation \u2264 4 sec above upper limit of normal.\n7. Woman of child-bearing potential (WOCBP) should use highly effective contraception during trial participation and for 6 months after the last dose of tirapazamine and men who are partners with WOCBP should use highly effective contraception, including barrier contraception, during trial participation and for 3 months after the last dose of tirapazamine.",
+    "gender": "ALL",
+    "min_age": "20 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response rate (ORR) by RECIST",
+      "timeFrame": "2 years",
+      "description": "Overall Response Rate by RECIST criteria"
+    }
+  ],
+  "sponsor": "Teclison Ltd.",
+  "collaborators": [],
+  "start_date": "2014-09",
+  "completion_date": "2025-12-31",
+  "last_updated": "2024-11-19"
+}

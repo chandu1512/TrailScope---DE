@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT06906341",
+  "brief_title": "Relacorilant in Combination With Different Treatment Regimens in Patients With Gynecological Cancers",
+  "official_title": "An Open-label, Global, Multi-Arm Study to Evaluate the Efficacy and Safety of Relacorilant in Combination With Different Treatment Regimens in Patients With Gynecological Cancers (BELLA)",
+  "brief_summary": "This is a Phase 2, open-label, global, multi-arm study to evaluate efficacy and safety of relacorilant in combination with other treatments in patients with gynecological cancers.",
+  "detailed_description": "This study is designed with the goal to add additional arms as new treatments become available. All arms will follow an independent and parallel design.\n\nFor Arms A and B, study treatment will comprise relacorilant combined with nab-paclitaxel, and bevacizumab and will begin on Cycle 1 Day 1 (C1D1). Each patient will receive relacorilant 150 mg administered orally under fed conditions, once daily for 3 consecutive days on the day before, the day of, and the day after nab-paclitaxel infusion (in Cycle 1 relacorilant is only given on 2 consecutive days, starting on C1D1), in combination with nab-paclitaxel (80 mg/m\\^2 intravenously \\[IV\\]) administered on Days 1, 8, and 15 of each 28-day cycle. Bevacizumab (10 mg/kg IV once every 2 weeks \\[Q2W\\]) will be administered on Days 1 and 15 of each 28-day cycle. Study treatment for Arm C will be similar to Arm A but does not include bevacizumab. Patients will receive treatment until they reach a protocol-defined event of progressive disease (PD), experience an unmanageable toxicity, or until other treatment discontinuation criteria are met.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 270,
+  "conditions": [
+    "Ovarian Cancer",
+    "Fallopian Tube Cancer",
+    "Peritoneal Neoplasms",
+    "Endometrial Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Relacorilant 150 mg once daily (QD)",
+      "type": "DRUG",
+      "description": "Relacorilant is administered under fed conditions as capsules for oral dosing on the day before, the day of, and the day after nab-paclitaxel infusion."
+    },
+    {
+      "name": "Nab-paclitaxel 80 mg/m^2",
+      "type": "DRUG",
+      "description": "Nab-paclitaxel is administered as IV infusion on Days 1, 8, and 15 of each 28-day cycle."
+    },
+    {
+      "name": "Bevacizumab 10 mg/kg",
+      "type": "DRUG",
+      "description": "Bevacizumab is administered as IV infusion on Days 1 and 15."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nArms A and B\n\n* Histologic diagnosis of epithelial ovarian, primary peritoneal, or fallopian-tube carcinoma\n* Arm A Only: Platinum-resistant disease\n* Arm B Only: Platinum-sensitive disease who had progression while receiving treatment with a poly(ADP-ribose) polymerase (PARP) inhibitor\n* Life expectancy of \u22653 months\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Able to swallow and retain oral medication\n* 1 to 3 lines of prior systemic anticancer therapy\n* Adequate organ function\n* Negative pregnancy test for patients of childbearing potential\n\nArm C\n\n* Stage III or IV, recurrent, or metastatic endometrial cancer\n* Life expectancy of \u22653 months\n* ECOG performance status of 0 or 1\n* Able to swallow and retain oral medication\n* Prior treatment with a platinum agent and an approved anti-Programmed Cell Death Ligand 1 (PD\\[L\\]1) antibody\n* 1 to 2 lines of prior systemic anticancer therapy for endometrial cancer\n* Must consent to provide an available formalin-fixed paraffin-embedded (FFPE) tumor tissue block or recently cut sections\n* Adequate organ function\n* Negative pregnancy test for patients of childbearing potential\n\nExclusion Criteria:\n\nArm A and B\n\n* Arm A Only: Has progressed while receiving weekly paclitaxel or nab-paclitaxel\n* Prior enrollment in a clinical trial of relacorilant\n* Prior anticancer therapy related toxicities not resolved to grade \u22641\n* Any surgery within 4 weeks prior to enrollment\n* Wide-field radiation to more than 25% of marrow-bearing areas\n* Medical conditions requiring chronic or frequent treatment with corticosteroids\n* Concurrent treatment with mifepristone or other glucocorticoid receptor modulators\n* Peripheral neuropathy from any cause \\>Grade 1\n* Hypertension: \u2265150 mm Hg systolic or \u2265100 mm Hg diastolic\n* Uncontrolled condition(s) which, may confound the results of the trial or interfere with the patient's safety or participation\n* Bowel obstruction \u226412 weeks prior to study entry\n* Ascites or pleural effusions requiring therapeutic paracentesis\n* Untreated or symptomatic central nervous system metastases\n* History of other malignancy within 3 years prior to enrollment\n* Has received a live vaccine within 30 days prior to the study start date\n\nArm C\n\n* Has progressed while receiving weekly paclitaxel or nab-paclitaxel\n* Prior enrollment in a clinical trial of relacorilant\n* Prior anticancer therapy related toxicities not resolved to grade \u22641\n* Any surgery within 4 weeks prior to enrollment\n* Wide-field radiation to more than 25% of marrow-bearing areas\n* Medical conditions requiring chronic or frequent treatment with corticosteroids\n* Concurrent treatment with mifepristone or other glucocorticoid receptor modulators\n* Peripheral neuropathy from any cause \\>Grade 1\n* Uncontrolled condition(s) which, may confound the results of the trial or interfere with the patient's safety or participation\n* Bowel obstruction \u226412 weeks prior to study entry\n* Ascites or pleural effusions requiring therapeutic paracentesis\n* History of other malignancy within 3 years prior to enrollment\n* Has received a live vaccine within 30 days prior to the study start date\n* Patients with central nervous system metastases are not eligible, unless they have completed local therapy and have discontinued the use of corticosteroids for this indication for at least 4 weeks before starting treatment in this study.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "127",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS)",
+      "timeFrame": "Date of first dose until PD or death, up to 18 months",
+      "description": "To evaluate PFS as the time from enrollment until first documented progressive disease (PD) by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 as determined by the Investigator, or death due to any cause, whichever occurs first."
+    }
+  ],
+  "sponsor": "Corcept Therapeutics",
+  "collaborators": [],
+  "start_date": "2025-04-11",
+  "completion_date": "2026-12",
+  "last_updated": "2025-10-20"
+}

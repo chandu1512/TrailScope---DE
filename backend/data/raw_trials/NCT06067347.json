@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT06067347",
+  "brief_title": "A Global Study of the PETAL Consortium",
+  "official_title": "Integration of Machine Learning and Genomics to Predict Outcomes for Newly Diagnosed, Relapsed and Refractory Mature T-cell and NK/T-cell Lymphomas: a Global Study of the PETAL Consortium",
+  "brief_summary": "The goal of this observational study is to correlate molecular alterations with outcomes including overall survival (OS), progression-free survival (PFS), response rates for patients with a new diagnosis, primary refractory or relapse, of mature T-cell and NK-cell neoplasms (TNKL). We hypothesize that machine learning can be leveraged to uncover distinct genetic vulnerabilities that underlie treatment response and resistance for patients with TNKL, thus moving towards personalized treatment solutions.",
+  "detailed_description": "This study is a prospective, longitudinal observational study of patients with newly diagnosed or relapsed/refractory T-cell and NK-cell neoplasms, conducted across multiple participating institutions globally. Patients will be enrolled during their initial visit as new patients and will be followed for up to four years through the course of their clinical management. Data for routine demographics, baseline clinical features, including pathology, molecular information related to the tumor, radiology, treatment characteristics and quality of life (QoL) associated with their lymphoma care will be collected over the course of 4 years by clinical research teams at every participating institution. The de-identified data will be securely shared through a password protected REDCap with other participating institutions under data usage agreements of the consortium. Next generation sequencing (NGS) including but not limited to whole exome sequencing and bulk RNA-sequencing will be performed on archived lymphoma specimens, mononuclear cells, cfDNA and saliva (when feasible) for a comprehensive molecular characterization of the tumor. Molecular data will be analyzed in correlation with patient outcomes. Advanced deep learning algorithms will be applied to predict responses and survival across lymphoma subtypes, heterogeneous clinical scenarios and various potential therapeutic approaches that the patient has not been exposed to.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1200,
+  "conditions": [
+    "T-Cell and NK-Cell Neoplasm"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Untreated, relapsed, or refractory histologically confirmed mature T-cell or NK-cell neoplasm.\n* All subtypes of PTCL are eligible except for T-cell large granular lymphocytic leukemia, cutaneous T-cell lymphoma such as but not limited to mycosis fungoides and transformation, S\u00e9zary syndrome, and primary cutaneous CD30+ disorders.\n\nExclusion Criteria:\n\n* Precursor T/NK neoplasms, T-cell large granular lymphocytic leukemia, cutaneous T-cell lymphoma such as but not limited to mycosis fungoides and transformation, S\u00e9zary syndrome, and primary cutaneous CD30+ disorders.\n* Adults who are unable to consent, individuals who are not yet adults such as infants, children and teenagers, pregnant women, and prisoners.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "Up to 4 Years",
+      "description": "Difference in overall survival (OS) in subjects with primary refractory versus relapsed mature T-cell and NK-cell neoplasms at the completion of 4 years."
+    },
+    {
+      "measure": "Progression-free Survival",
+      "timeFrame": "Up to 4 Years",
+      "description": "Difference in progression-free survival (PFS) in subjects with primary refractory versus relapsed mature T-cell and NK-cell neoplasms at the completion of 4 years."
+    },
+    {
+      "measure": "Duration of Response",
+      "timeFrame": "Up to 4 Years",
+      "description": "Difference in duration of response in subjects with mature T-cell and NK-cell neoplasms treated with cytotoxic chemotherapy versus prespecified non-chemotherapeutic choice at the completion of 4 years."
+    },
+    {
+      "measure": "Time to progression",
+      "timeFrame": "Up to 4 Years",
+      "description": "Difference in time to progression in subjects with mature T-cell and NK-cell neoplasms treated with cytotoxic chemotherapy versus prespecified non-chemotherapeutic choice at the completion of 4 years."
+    },
+    {
+      "measure": "Number of subjects proceeding to stem cell transplantation",
+      "timeFrame": "Up to 4 Years",
+      "description": "Difference in number of subjects bridged to stem cell transplantation (allogeneic or autologous) with mature T-cell and NK-cell neoplasms treated with cytotoxic chemotherapy versus prespecified non-chemotherapeutic choice at the completion of 4 years."
+    },
+    {
+      "measure": "Association of tumor specific somatic variants with treatment response",
+      "timeFrame": "Up to 4 Years",
+      "description": "Determine whether tumor specific somatic variants identified at the time of diagnosis predicts response to treatment in subjects with mature T-cell and NK-cell neoplasms at the completion of 4 years in at least 50% of the patients."
+    }
+  ],
+  "sponsor": "Massachusetts General Hospital",
+  "collaborators": [],
+  "start_date": "2024-01-05",
+  "completion_date": "2028-01",
+  "last_updated": "2026-02-03"
+}

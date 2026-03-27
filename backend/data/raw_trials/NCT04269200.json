@@ -1,0 +1,93 @@
+{
+  "nct_id": "NCT04269200",
+  "brief_title": "Durvalumab With or Without Olaparib as Maintenance Therapy After First-Line Treatment of Advanced and Recurrent Endometrial Cancer",
+  "official_title": "A Randomised, Multicentre, Double-blind, Placebo-controlled, Phase III Study of First-line Carboplatin and Paclitaxel in Combination With Durvalumab, Followed by Maintenance Durvalumab With or Without Olaparib in Patients With Newly Diagnosed Advanced or Recurrent Endometrial Cancer (DUO-E)",
+  "brief_summary": "A study to assess the efficacy and safety of durvalumab in combination with platinum-based chemotherapy (paclitaxel + carboplatin) followed by maintenance durvalumab with or without olaparib for patients with newly diagnosed advanced or recurrent endometrial cancer.",
+  "detailed_description": "This Phase III study will assess the efficacy and safety of durvalumab in combination with platinum-based chemotherapy (paclitaxel + carboplatin) followed by maintenance durvalumab with or without olaparib for patients with newly diagnosed advanced or recurrent endometrial cancer.\n\nTarget patient population: Adult female patients with histologically confirmed diagnosis of epithelial endometrial carcinoma (excluding sarcomas): newly diagnosed Stage III, newly diagnosed Stage IV, or recurrent endometrial cancer",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 805,
+  "conditions": [
+    "Endometrial Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "olaparib",
+      "type": "DRUG",
+      "description": "Olaparib tablets"
+    },
+    {
+      "name": "durvalumab",
+      "type": "BIOLOGICAL",
+      "description": "Durvalumab by intravenous infusion"
+    },
+    {
+      "name": "durvalumab placebo",
+      "type": "DRUG",
+      "description": "Matching placebo for intravenous infusion"
+    },
+    {
+      "name": "olaparib placebo",
+      "type": "DRUG",
+      "description": "Placebo tablets to match olaparib"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Standard of care chemotherapy"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Standard of care chemotherapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age \u226518 years at the time of screening and female.\n* Histologically confirmed diagnosis of epithelial endometrial carcinoma. All histologies, including carcinosarcomas, will be allowed. Sarcomas will not be allowed.\n* Patient must have endometrial cancer in one of the following categories:\n\n  1. Newly diagnosed Stage III disease (measurable disease per RECIST 1.1 following surgery or diagnostic biopsy),\n  2. Newly diagnosed Stage IV disease (with or without disease following surgery or diagnostic biopsy)\n  3. Recurrence of disease (measurable or non-measurable disease per RECIST 1.1) where the potential for cure by surgery alone or in combination is poor.\n* Na\u00efve to first line systemic anti-cancer treatment. For patients with recurrent disease only, prior systemic anti-cancer treatment is allowed only if it was administered in the adjuvant setting and there is at least 12 months from date of last dose of systemic anti-cancer treatment administered to date of subsequent relapse\n* FPPE tumor sample must be available for MMR evaluation.\n* Has Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 within 7 days of starting study treatment.\n\nExclusion Criteria:\n\n* History of leptomeningeal carcinomatosis.\n* Brain metastases or spinal cord compression.\n* Prior treatment with PARP inhibitors.\n* Any prior exposure to immune-mediated therapy, including (but not limited to) other anti CTLA-4, anti-PD-1, anti-PD-L1, or anti-programmed-cell-death ligand 2 (anti-PD-L2) antibodies, excluding therapeutic anticancer vaccines.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "150 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Camden",
+      "state": "New Jersey",
+      "zip": "08103",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Paramus",
+      "state": "New Jersey",
+      "zip": "07652",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS) According to RECIST 1.1, Based on Investigator Assessments",
+      "timeFrame": "At baseline, every 9 weeks (wks) up to 18 wks, then every 12 wks until objective radiological disease progression. Assessed until 12 Apr 2023 DCO (08 Jul 2024 DCO for China cohort), up to 50 months",
+      "description": "To demonstrate the efficacy of durvalumab in combination with platinum-based chemotherapy (paclitaxel and carboplatin) followed by maintenance durvalumab or durvalumab with olaparib when compared to platinum-based chemotherapy by assessment of PFS (using investigator assessment according to Response Evaluation Criteria in Solid Tumours version 1.1 \\[RECIST 1.1\\]) in patients with newly diagnosed advanced or recurrent endometrial cancer"
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [
+    "The Gynecologic Oncology Group (GOG) Foundation Inc",
+    "The European Network for Gynaecological Oncological Trial groups (ENGOT)"
+  ],
+  "start_date": "2020-05-05",
+  "completion_date": "2027-04-01",
+  "last_updated": "2025-12-08"
+}

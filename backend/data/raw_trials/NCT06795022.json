@@ -1,0 +1,84 @@
+{
+  "nct_id": "NCT06795022",
+  "brief_title": "First in Human Study to Evaluate AZD9793 in Participants With Advanced or Metastatic Solid Tumours",
+  "official_title": "A Modular Phase I/II Open-label Dose Escalation and Dose Expansion Study to Evaluate the Safety, Pharmacokinetics, Pharmacodynamics, and Efficacy of AZD9793, a T Cell-engaging Antibody Targeting Glypican-3 (GPC3) in Adult Participants With Advanced or Metastatic Solid Tumours (RHEA-1)",
+  "brief_summary": "This research is designed to determine if experimental treatment with AZD9793, a T cell-engaging antibody that targets GPC3, is safe, tolerable and has anti-cancer activity in patients with advanced or metastatic solid tumours which are GPC3+.",
+  "detailed_description": "This is a first-time in human, modular Phase I/II, open-label multicentre study of AZD9793 monotherapy administered intravenously (Module 1), or AZD9793 monotherapy administered subcutaneously (Module 2) in patients with advanced or metastatic solid tumours. Each module contains dose-escalation (Part A) and dose-expansion (Part B).",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 304,
+  "conditions": [
+    "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "AZD9793 Intravenous (IV) monotherapy",
+      "type": "DRUG",
+      "description": "T cell-engaging antibody that targets GPC3 on tumour cells"
+    },
+    {
+      "name": "AZD9793 Subcutaneous (SC) monotherapy)",
+      "type": "DRUG",
+      "description": "T cell-engaging antibody that targets GPC3 on tumour cells"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Age \u2265 18 at the time of signing the informed consent.\n* GPC3 positive tumour as determined by a central laboratory using an analytically validated IHC assay.\n* Must have at least one measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST) v1.1\n* Eastern Cooperative Oncology Group Performance status (ECOG PS): 0-1 at screening.\n* Predicted life expectancy of \u2265 12 weeks.\n* Adequate organ and bone marrow function measured within 28 days prior to first dose as defined by the protocol.\n* Contraceptive use by men or women should be consistent with local regulations, as defined by the protocol.\n* Confirmed advanced recurrent and/or metastatic and/or unresectable HCC, which is histopathologically proven based on the criteria established by the World Health Organization.\n* Barcelona Clinic Liver Cancer (BCLC) stage B (that is not eligible for locoregional therapy) or stage C.\n* Child-Pugh Score class A.\n* Previous therapy:\n\nPart A: Patients who have received at least one prior line of standard systemic therapy for HCC as per National Comprehensive Cancer Network or other local scientific guidelines and for which a clinical study is the best option for next treatment based on prior response and/or tolerability and/or patient/investigator decision.\n\nPart B: Patients must not have received more than one prior line of systemic therapy in the advanced recurrent and/or metastatic setting.\n\nKey Exclusion Criteria:\n\n* Unresolved toxicity from prior anticancer therapy, including imAEs, of Common Terminology Criteria for Adverse Events (CTCAE) Grade \u2265 2 except for vitiligo, peripheral neuropathy related to prior anti-cancer therapy, alopecia, endocrine disorders that are controlled with replacement hormone therapy and asymptomatic laboratory abnormalities.\n* Prior to enrolment, participation in another clinical study with an investigational product administered in the last 21 days or 5 half-lives whichever is shorter.\n* CAR-T cell therapy within the last 6 months prior to enrolment on this study.\n* Known allergy or hypersensitivity to AZD9793 or any of the excipients of the product as outlined in the IB.\n* Requires chronic immunosuppressive therapy (including steroids \\> 10 mg prednisone/day or equivalent).\n* Prior treatment with any therapy that is targeted to GPC3.\n* Received radiation within 14 days prior to first dose of study treatment; palliative radiation to reduce the risk of tumour lysis syndrome (TLS) or CRS/neurotoxicity in participants with bulky disease is permitted.\n* Undergone a major surgical procedure within 14 days prior to first dose of study treatment days to allow adequate healing\n* Experienced unacceptable cytokine release syndrome (CRS) or Immune Effector Cell Associated Neurotoxicity (ICANS) following prior T cell engagers (TCE) or chimeric antigen receptor T (CAR-T) cell therapy.\n* Previous history of hemophagocytic lymphohistiocytosis (HLH) / macrophage activation syndrome (MAS).\n* Active or prior documented autoimmune or inflammatory disorders within 3 years of start of treatment.\n* Cardiac conditions as defined by the protocol.\n* History of thromboembolic event within the past 3 months prior to the scheduled first dose of study intervention.\n* Central nervous system (CNS) metastases or CNS pathology, as defined by the protocol, within 3 months prior to consent.\n* Infectious disease including active human immunodeficiency virus (HIV), and uncontrolled active systemic fungal, bacterial or other infection.\n* Known fibrolamellar HCC, sarcomatoid HCC, or combined hepatocellular malignant cholangiocarcinoma.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Research Site",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "The number of patients with adverse events",
+      "timeFrame": "From first dose of study drug up to 30 days post last dose and prior to start of subsequent anticancer therapy",
+      "description": "Number of patients with adverse events by system organ class and preferred term"
+    },
+    {
+      "measure": "The number of patients with serious adverse events",
+      "timeFrame": "From first dose of study drug up to 30 days post last dose and prior to start of subsequent anticancer therapy",
+      "description": "Number of patients with serious adverse events by system organ class and preferred term"
+    },
+    {
+      "measure": "The number of patients with adverse events of special interest",
+      "timeFrame": "From first dose of study drug up to 30 days post last dose and prior to start of subsequent anticancer therapy",
+      "description": "Number of patients with adverse events of special interest by system organ class and preferred term"
+    },
+    {
+      "measure": "The number of patients with dose-limiting toxicity (DLT), as defined in the protocol.",
+      "timeFrame": "From date of first dose of study drug until the end of Cycle 1 (up to 28 days)",
+      "description": "Number of patients with at least 1 DLT. A DLT is a toxicity as defined in the protocol that occurs from the first dose of study drug up to and including the planned end of Cycle 1 (the DLT assessment period) that is assessed as unrelated to the disease or disease-related processes under investigation."
+    },
+    {
+      "measure": "Objective Response Rate (ORR) [Dose expansion only]",
+      "timeFrame": "From first dose of study drug to progressive disease or the last evaluable assessment in the absence of disease progression whichever comes first (up to approximately 2 years)",
+      "description": "The percentage of patients with a confirmed investigator assessed complete or partial response according to response criteria in solid tumours (RECIST 1.1). Dose expansion only."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2025-03-27",
+  "completion_date": "2028-07-25",
+  "last_updated": "2025-11-28"
+}

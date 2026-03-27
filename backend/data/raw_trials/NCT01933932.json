@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT01933932",
+  "brief_title": "Assess Efficacy & Safety of Selumetinib in Combination With Docetaxel in Patients Receiving 2nd Line Treatment for v-Ki-ras2 Kirsten Rat Sarcoma Viral Oncogene Homolog (KRAS) Positive NSCLC",
+  "official_title": "A Phase III, Double-Blind, Randomised, Placebo-Controlled Study to Assess the Efficacy and Safety of Selumetinib (AZD6244; ARRY-142886) (Hyd-Sulfate) in Combination With Docetaxel, in Patients Receiving Second Line Treatment for KRAS Mutation-Positive Locally Advanced or Metastatic Non Small Cell Lung Cancer (Stage IIIB - IV) (SELECT 1)",
+  "brief_summary": "The purpose of this study is to assess the efficacy of selumetinib in combination with docetaxel (75mg/m2) vs placebo in combination with docetaxel (75mg/m2) in patients with locally advance or metastatic NSCLCs that harbor mutations of KRAS. This study will also assess the PK, safety, patient reported outcomes (PRO) and tolerability profile of the selumetinib/docetaxel combination, compared to placebo in combination with docetaxel",
+  "detailed_description": "A Phase III, Double-Blind, Randomised, Placebo-Controlled Study to Assess the Efficacy and Safety of Selumetinib (AZD6244; ARRY-142886) (Hyd-Sulfate) in Combination with Docetaxel, in Patients receiving second line treatment for KRAS Mutation-Positive Locally Advanced or Metastatic Non Small Cell Lung Cancer (Stage IIIB - IV) (SELECT-1)",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 510,
+  "conditions": [
+    "Locally Advanced or Metastatic Non Small Cell Lung Cancer Stage IIIb - IV"
+  ],
+  "interventions": [
+    {
+      "name": "Selumetinib",
+      "type": "DRUG",
+      "description": "Three 25 mg selumetinib capsules (Hyd-Sulfate) be administered orally, twice daily, (total dose 75 mg dose bd) on an uninterrupted schedule."
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Docetaxel 75 mg/m2 will be administered intravenously on day 1 of each 21 day cycle."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Three placebo capsules will be administered orally uninterrupted twice daily in combination with docetaxel 75 mg/m2 intravenously administered on day 1 of each 21 day cycle."
+    },
+    {
+      "name": "Pegylated G-CSF",
+      "type": "DRUG",
+      "description": "All patients will receive pegylated Granulocyte Colony Stimulating Factor (G-CSF) at least 24 hours after administration of every docetaxel dose and not within 14 days prior to the next docetaxel administration."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Provision of signed, written and dated informed consent prior to any study specific procedures\n* Male or female, aged 18 years or older\n* Histological or cytological confirmation of locally advanced or metastatic NSCLC (IIIB-IV)\n* KRAS mutation positive tumour sample as determined by the designated testing laboratory\n* Failure of 1st line anti-cancer therapy due to radiological documentation of disease progression in advanced disease or subsequent relapse of disease following 1st line therapy\n\nExclusion Criteria:\n\n* Mixed small cell and non-small cell lung cancer histology.\n* Received \\>1 prior anti-cancer drug regimen for advanced or metastatic NSCLC. Patients who develop disease progression while on switch maintenance therapy (maintenance using an agent not in the first-line regimen) will not be eligible.\n* Receiving or have received systemic anti-cancer therapy within 30 days prior to starting study treatment\n* Other concomitant anti-cancer therapy agents excepts steroids\n* Prior treatment with a Mitogen-Activated protein Kinase (MEK) inhibitor or any docetaxel-containing regimen (prior treatment with paclitaxel is acceptable).\n* Last radiation therapy within 4 weeks prior starting study treatment, or limited field of radiation for palliation within 7 days of the first dose of study treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS)",
+      "timeFrame": "Measured at baseline until the date of first documented objective disease progression. Estimated final completion : approximately 3 years after first subject in (FSI)",
+      "description": "Progression free survival is defined as the time from randomisation until the date of objective disease progression (RECIST 1.1) or death (by any cause in the absence of progression)"
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2013-09-25",
+  "completion_date": "2025-12-31",
+  "last_updated": "2025-11-12"
+}

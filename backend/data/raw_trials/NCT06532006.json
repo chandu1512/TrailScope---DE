@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT06532006",
+  "brief_title": "A Phase \u2162 Clinical Study of HLX22 in Combination With Trastuzumab and Chemotherapy for the Treatment of Gastroesophageal Junction and Gastric Cancer",
+  "official_title": "A Randomized, Double-blinded, Multicenter, Phase \u2162 Clinical Study of HLX22 (Recombinant Humanized Anti-HER2 Monoclonal Antibody Injection) in Combination With Trastuzumab and Chemotherapy (XELOX) Versus Trastuzumab and Chemotherapy (XELOX) With or Without Pembrolizumab for the First Line Treatment of Locally Advanced or Metastatic Gastroesophageal Junction and Gastric Cancer",
+  "brief_summary": "This is a double-blind, randomized, multiregion, comparative phase \u2162 clinical study designed to evaluate the efficacy and safety of HLX22 in combination with trastuzumab and chemotherapy as first-line treatment in patients with HER2-positive locally advanced/metastatic adenocarcinoma of the gastric and/or gastroesophageal junction (G/GEJ).Eligible subjects will be randomized to the two groups based on a 1:1 ratio. Enrolled subjects shall be treated with the study drug until the loss of clinical benefit, death, intolerable toxicity, withdrawal of informed consent, or other reasons specified by the protocol (whichever occurs first).",
+  "detailed_description": "In experimental group: HLX22 (15 mg/kg) + trastuzumab + chemotherapy (XELOX) \u00b1 placebo (for pembrolizumab), once every 3 weeks (Q3W).\n\nIn control group: Placebo (for HLX22) + trastuzumab + chemotherapy (XELOX) \u00b1 pembrolizumab, Q3W.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 550,
+  "conditions": [
+    "Gastroesophageal-junction Cancer",
+    "Monoclonal Antibody",
+    "Gastric Cancer",
+    "HER2-positive Gastric Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "HLX22",
+      "type": "DRUG",
+      "description": "HLX22 15mg/kg Q3w"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Pembrolizumab 200mg q3w"
+    },
+    {
+      "name": "Trastuzumab",
+      "type": "DRUG",
+      "description": "Trastuzumab 8 mg/kg loading dose and then 6 mg/kg maintenance thereafter ,Q3W"
+    },
+    {
+      "name": "Oxaliplatin",
+      "type": "DRUG",
+      "description": "Oxaliplatin 130 mg/m2 ,Q3W"
+    },
+    {
+      "name": "Capecitabine",
+      "type": "DRUG",
+      "description": "Capecitabine 1000 mg/m2 bid on Days 1-14 ,Q3W"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Male/female who are at least 18 years of age on the day of signing the informed consent.\n2. With histologically or cytologically confirmed diagnosis of previously untreated, locally advanced unresectable or metastatic HER2-positive gastric or gastroesophageal junction adenocarcinoma.\n3. Had measurable disease as assessed by IRRC according to the RECIST v1.1, the target lesion must not be a bone metastatic lesion only.\n4. HER2-positive tumor defined as either IHC 3+ or IHC 2+ in combination with ISH+ or FISH, as assessed by a central laboratory on a primary or metastatic tumor.\n5. ECOG PS within 7 days before randomization: 0-1.\n6. Expected survival \u2265 6 months.\n7. Had adequate organ function\n\nExclusion Criteria:\n\n1. Patients with other malignant tumors within 2 years before the randomization.\n2. Evidence of disease progression within 6 months (before randomization) after completion of prior neoadjuvant or adjuvant chemotherapy (or both) or radiotherapy for gastric adenocarcinoma or gastroesophageal junction adenocarcinoma.\n3. Previous treatment with any HER2-target therapy.\n4. Active gastrointestinal bleeding\n5. Presence of central nervous system (CNS) metastases.\n6. Left ventricular ejection fraction (LVEF) \\< 55%.\n7. Subjects who had known history of severe allergy to any monoclonal antibody or any component of study treatment.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Guthrie Medical Group, PC and Robert Packer Hospital (Guthrie Cancer Center - Sayre)",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS)per RECIST 1.1 assessed by IRRC(Independent Radiology Review Committee)",
+      "timeFrame": "Up to 5 years",
+      "description": "PFS is defined as the time from randomization to the first documented disease progression per RECIST 1.1 or death due to any cause, whichever occurs first. PFS will be determined for each treatment arm"
+    },
+    {
+      "measure": "Overall Survival \uff08OS\uff09",
+      "timeFrame": "Up to 5 years",
+      "description": "OS is defined as the time from randomization to death due to any cause. OS will be determined for each treatment arm."
+    }
+  ],
+  "sponsor": "Shanghai Henlius Biotech",
+  "collaborators": [
+    "Henlius USA"
+  ],
+  "start_date": "2024-11-22",
+  "completion_date": "2028-09-01",
+  "last_updated": "2026-02-24"
+}

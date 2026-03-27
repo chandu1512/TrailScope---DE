@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT03589651",
+  "brief_title": "INCMGA00012 in Combination With Other Therapies in Patients With Advanced Solid Tumors",
+  "official_title": "A Phase 1b Study of INCMGA00012 in Combination With Other Therapies in Patients With Advanced Solid Tumors",
+  "brief_summary": "The purpose of this study is to determine the safety, preliminary evidence of clinical activity, and recommended Phase 2 dose (RP2D) of INCMGA00012 in combination with other agents that may improve the therapeutic efficacy of anti-PD-1 monotherapy.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 83,
+  "conditions": [
+    "Unresectable or Metastatic Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "Retifanlimab",
+      "type": "DRUG",
+      "description": "Part 1: INCMGA00012 at the protocol-defined starting dose administered intravenously every 4 weeks, with dose escalation to determine the maximum tolerated dose.\n\nPart 2: INCMGA00012 at the recommended dose from Part 1."
+    },
+    {
+      "name": "Epacadostat",
+      "type": "DRUG",
+      "description": "Part 1: Epacadostat at the protocol-defined starting dose administered orally twice daily, with dose escalation to determine the maximum tolerated dose.\n\nPart 2: Epacadostat at the recommended dose from Part 1."
+    },
+    {
+      "name": "INCB050465",
+      "type": "DRUG",
+      "description": "Part 1: INCB050465 at the protocol-defined starting dose administered orally once daily, with dose escalation to determine the maximum tolerated dose. Part 2: INCB050465 at the recommended dose from Part 1."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically proven, locally advanced unresectable or metastatic solid tumors for whom no approved therapy with demonstrated clinical benefit is available or participants who are intolerant to or have declined standard therapy\n* Measurable or nonmeasurable tumor lesions per RECIST v 1.1.\n* Willing to provide fresh or archival tumor tissue for correlative studies.\n* Eastern Cooperative Oncology Group performance status 0 to 1.\n* Willingness to avoid pregnancy or fathering children based on protocol-defined criteria.\n\nExclusion Criteria:\n\n* Receipt of anticancer therapy within 21 days of the first administration of study treatment, with the exception of localized radiotherapy.\n* Toxicity of prior therapy that has not recovered to \u2264 Grade 1 or baseline (with the exception of alopecia and anemia not requiring transfusional support).\n* Laboratory values outside the protocol-defined range at screening.\n* Active autoimmune disease requiring systemic immunosuppression in excess of physiologic maintenance doses of corticosteroids.\n* Known hypersensitivity to any of the study drugs, excipients, or another monoclonal antibody which cannot be controlled with standard measures (eg, antihistamines and corticosteroids).\n* Evidence of interstitial lung disease or active, noninfectious pneumonitis.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutgers Cancer Institute of Nj",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Upmc Cancercenter",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of treatment-emergent adverse events",
+      "timeFrame": "Up to approximately 30 months",
+      "description": "Defined as any adverse event either reported for the first time or worsening of a pre-existing event after first dose of study drug."
+    }
+  ],
+  "sponsor": "Incyte Corporation",
+  "collaborators": [],
+  "start_date": "2018-08-17",
+  "completion_date": "2022-11-21",
+  "last_updated": "2023-02-17"
+}

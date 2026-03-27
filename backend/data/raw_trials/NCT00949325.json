@@ -1,0 +1,60 @@
+{
+  "nct_id": "NCT00949325",
+  "brief_title": "Safety and Efficacy Study of Torisel and Liposomal Doxorubicin for Patients With Recurrent Sarcoma",
+  "official_title": "Phase I/II Trial of Torisel and Liposomal Doxorubicin in Patients With Advanced Soft Tissue and Bone Sarcomas",
+  "brief_summary": "The purpose of this study is to identify a safe dosing regimen for the combination of Torisel and liposomal doxorubicin in patients with recurrent sarcoma. A secondary purpose of the study is to determine how effective this combination is for the treatment of recurrent sarcoma.",
+  "detailed_description": "The effectiveness of treatments for recurrent sarcomas is quite limited. One hypothesis to explain the refractory nature of recurrent sarcomas is the existence of chemotherapy-resistant sarcoma stem cells.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 24,
+  "conditions": [
+    "Sarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "temsirolimus plus liposomal doxorubicin",
+      "type": "DRUG",
+      "description": "Patients were treated with temsirolimus (Torisel) weekly by IV and with liposomal doxorubicin (Doxil) (standard dose) by IV once every 28 days. Cohorts of patients receive sequentially increasing dose of temsirolimus until dose limiting toxicity (DLT) occurred and the maximally tolerated dose (MTD) was identified. The MTD dose was the standard dose of temsirolimus used for the remainder of the study. Dose modifications were based on protocol parameters for toxicities."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed sarcoma that is recurrent or refractory to conventional treatment\n* Measurable disease by RECIST criteria\n* ECOG (Eastern Cooperative Oncology Group) performance status \\< 2 (or Lansky/Karnofsky \\> 60% for children)\n* Life expectancy greater than 3 months\n* Adequate organ function\n* absolute neutrophil count at least 1,500\n* platelets at least 100,000\n* bilirubin less than 1.5 x upper limit of normal\n* AST (aspartate aminotransferase) and ALT(alanine aminotransferase) less than 2.5 x upper limit of normal\n* creatinine less than 1.5 x upper limit of normal OR creatinine clearance at least 60 ml/min/1.73 m2\n* fasting serum cholesterol less than 350\n* fasting serum triglycerides less than 400\n* PT (prothrombin) or INR (international normalized ratio) less than 1.3 x upper limit of normal\n* normal urinalysis\n* Ability to understand and sign the informed consent document\n\nExclusion Criteria:\n\n* Prior chemotherapy or radiotherapy within 3 weeks of entering the study (6 weeks for nitrosoureas or mitomycin C)\n* Prior treatment with a tyrosine kinase inhibitor within 10 days of entering the study\n* History of pulmonary hypertension or pneumonitis\n* Patients may not be receiving other investigational agents\n* Prior therapy with rapamycin, rapamycin analogues, or tacrolimus\n* Uncontrolled brain metastases\n* History of grade 3 or 4 hypersensitivity to macrolide antibiotics\n* Concurrent treatment with immunosuppressive agents other than a stable (for more than 2 weeks) dose of corticosteroids\n* Uncontrolled intercurrent illness\n* Pregnancy or breast feeding\n* HIV-positive patients on combination antiretroviral therapy\n* Grade 3 or 4 proteinuria",
+    "gender": "ALL",
+    "min_age": "1 Year",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1: Incidence of Dose Limiting Toxicities",
+      "timeFrame": "End of second 28-day cycle",
+      "description": "Dose limiting toxicities in each dose cohort."
+    },
+    {
+      "measure": "Part 2: Median Overall Survival of Subjects Who Were Treated at the Temsirolimus MTD, 20 mg/m^2",
+      "timeFrame": "up to 5 years",
+      "description": "Number of days from day 1 of treatment until date of death from any cause."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Comprehensive Cancer Network",
+    "Wyeth is now a wholly owned subsidiary of Pfizer"
+  ],
+  "start_date": "2009-09",
+  "completion_date": "2012-09",
+  "last_updated": "2019-03-08"
+}

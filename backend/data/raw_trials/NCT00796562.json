@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT00796562",
+  "brief_title": "Safety Study of Bone Marrow Transplant Using Mismatched Tissue Followed by Chemotherapy",
+  "official_title": "A Phase II Trial of Myeloablative Conditioning and Transplantation of Partially HLA-mismatched Bone Marrow for Patients With Hematologic Malignancies",
+  "brief_summary": "The purpose of this study is to see if giving high dose chemotherapy and total body irradiation before and repeating high dose chemotherapy after a bone marrow transplant could reduce the incidence of graft rejection and disease for patients with blood cancers",
+  "detailed_description": "Allogeneic blood or marrow transplantation (alloBMT), following either marrow-ablative or nonmyeloablative conditioning, is a potentially curative treatment for a variety of hematologic malignancies and non-malignant hematologic disorders. Of all the potential sources of allografts, transplantation of stem cells from a human leukocyte antigen (HLA)-matched sibling has generally produced the best overall outcomes, i.e. overall and progression-free survival. Unfortunately, only about a third of candidates for alloBMT have HLA-matched siblings.\n\nFor patients who lack HLA-matched siblings, there are three alternative sources of stem cells for alloBMT: 1) volunteer unrelated donors; 2) umbilical cord blood; and 3) partially HLA-mismatched, or haploidentical, related donors. Since any patient shares exactly one HLA haplotype with each biological parent or child and half of siblings, an eligible haploidentical donor can be identified rapidly in nearly all cases. However, haploidentical BMT has been associated with significant risks of graft rejection and severe GVHD, which are manifestations of excessive alloreactivity by host and donor T cells, respectively.\n\nThe risk of severe GVHD may be reduced in intensively conditioned recipients of grafts that have been rigorously depleted of mature T cells or selectively depleted of alloreactive T cells, but the risks of serious infection and death from prolonged immune compromise in these patients remains high. Cyclophosphamide(Cy) is a highly immunosuppressive antineoplastic agent that has an established role in conditioning for alloBMT.\n\nTypically, the drug is administered prior to transplantation to prevent graft rejection by suppressing the host immune system. However, pre-transplantation conditioning with Cy increases the risk of GVHD following allogeneic T cell infusion in mouse models. In contrast, administration of a properly timed, high dose of Cy after BMT inhibits both graft rejection and GVHD.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 107,
+  "conditions": [
+    "MDS",
+    "Leukemias",
+    "Lymphomas"
+  ],
+  "interventions": [
+    {
+      "name": "Busulfan",
+      "type": "DRUG",
+      "description": "Participant will receive Busulfan injections, 4 times a day for 4 days with dilantin prophylaxis (in patients 10 years of age or older). Busulfan levels in the blood will be measured and dose adjusted, if needed."
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Patient will receive Cy by IV once a day for 2 days."
+    },
+    {
+      "name": "Total body irradiation",
+      "type": "RADIATION",
+      "description": "Patients will receive TBI once a day for 4 days."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Acute lymphocytic leukemia in high risk CR1\n* Acute myeloid leukemia in CR1\n* Therapy-related AML\n* RAEB with \\>5% and \\<20% bone marrow blasts\n* Chronic myelogenous leukemia beyond 1st chronic phase; Patients cannot be in blast crisis\n* CMMoL\n* JMML\n* Chemotherapy-resistant Hodgkins Lymphoma or intermediate or high grade Non-Hodgkins lymphoma (Less than a PR after standard or salvage chemotherapy)\n* Mantle cell lymphoma: chemotherapy refractory (Less than a PR after standard or salvage chemotherapy) or patients beyond CR1 with chemosensitive disease\n* Follicular Lymphoma, Grade 3\n* Transformed indolent lymphomas\n\nExclusion Criteria:\n\n* Poor cardiac function: left ventricular ejection fraction \\<45% as determined by MUGA or ECHO. For pediatric patients LVEF \\<45% or a shortening fraction below normal limits for age.\n* Poor pulmonary function: FEV1 and FVC \\<50% predicted for patients who have not received thoracic or mantle irradiation. For patients who have received thoracic or mantle irradiation, FEV1 and FVC \\<70% predicted or DLCO \\< 50 of predicted. For children unable to perform PFTs because of developmental stage pulse oximetry \\< 85% on RA\n* Poor liver function: bilirubin \\>2 mg/dl (not due to hemolysis, Gilbert's or primary malignancy)\n* Poor renal function: Creatinine \\>2.0mg/dl or creatinine clearance\n* HIV-positive\n* Positive leukocytotoxic crossmatch\n* Women of childbearing potential who currently are pregnant or who are not practicing adequate contraception\n* Uncontrolled viral, bacterial, or fungal infections Patients with symptoms consistent with RSV, influenza A, B, or parainfluenza at the time of enrollment will be assayed for the above viruses and if positive are not eligible for the trial until they are no longer symptomatic (patients may have continued assay positivity for a period of time post resolution of symptoms secondary to the nature of the assay.\n* Indolent lymphomas (Follicular Grade 1 and 2, marginal zone, chronic lymphocytic leukemia, small lymphocytic lymphoma, MALT)",
+    "gender": "ALL",
+    "min_age": "6 Months",
+    "max_age": "65 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Engraftment as Measured by Donor Chimerism",
+      "timeFrame": "Day 60",
+      "description": "Percentage of participants who achieved donor chimerism \\>=95%."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Otsuka Pharmaceutical Co., Ltd.",
+    "National Center for Research Resources (NCRR)"
+  ],
+  "start_date": "2008-12",
+  "completion_date": "2016-11",
+  "last_updated": "2019-03-13"
+}

@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT06191679",
+  "brief_title": "Decision Aid for Education and Support About Cancer Treatment",
+  "official_title": "Decision Aid for Education and Support About Cancer Treatment",
+  "brief_summary": "The goals of this clinical trial are to evaluate DECIDES, a web-based decision support application that provides education about cancer and cancer treatment and provides support to encourage adolescent and young adult (AYA) patients, their caregivers, and oncology health care providers to make informed decisions about cancer treatment together.\n\nThe main questions this study aims to answer are:\n\n* Is DECIDES acceptable, usable, and feasible for AYA, caregivers, and oncology health care providers?\n* Is DECIDES helpful for AYA, caregivers, and oncology health care providers that are making cancer treatment decisions together?\n\nAYA and caregiver participants will complete a questionnaire and be randomly assigned to participate in one of three groups: (1) Usual Care, (2) DECIDES, or (3) DECIDES+. Participants in 'Usual Care' will continue to have access to their oncology health care team for questions related to cancer and cancer treatment, as per usual standard of care. Participants in both 'DECIDES' and 'DECIDES+' groups will receive access to DECIDES, and those in 'DECIDES+' will receive additional live, coach-assisted support. After 8 weeks, AYA and caregivers will complete a follow-up questionnaire and those in the 'DECIDES' and 'DECIDES+' groups will complete a semi-structured qualitative interview. Oncology clinicians of participating AYA will be invited to participate in a semi-structured qualitative interview. Researchers will compare groups to see if AYA and caregivers that receive access to DECIDES (with an informational handout vs. coach-assisted support) report more positive decision-making processes compared to those that receive standard of care.",
+  "detailed_description": "DECIDES is a developmentally appropriate, engaging, and interactive web-based decision support application that has been designed to address health literacy and includes:\n\n* Education on cancer and cancer treatments, including clinical trials\n* An exercise to identify perceived barriers and benefits to treatment options\n* An exercise to clarify personal goals for treatment that align with life goals\n* Resources to support communication with the oncology health care team",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 117,
+  "conditions": [
+    "Cancer",
+    "Childhood Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Decision Aid for Education and Support about Cancer Treatment (DECIDES Intervention)",
+      "type": "BEHAVIORAL",
+      "description": "DECIDES is a developmentally appropriate, engaging, and interactive web-based decision support intervention for AYA diagnosed with cancer (and their caregivers) that includes components written for low health literacy. Components include:\n\n* Education on cancer and cancer treatments, including clinical trials\n* An exercise to identify perceived barriers and benefits to treatment options\n* An exercise to clarify personal goals for treatment that align with life goals\n* Resources to support communication with the oncology health care team"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Adolescent and Young Adults (AYA)\n\n1. INCLUSION CRITERIA:\n\n   * Ages 15-24 years old\n   * Newly diagnosed or relapsed with leukemia/lymphoma, solid tumor, or brain tumor within 6 weeks of enrollment\n   * Ability to read and speak English\n   * If \\<18 Years Old: Parental/guardian permission to participate (informed consent)\n2. EXCLUSION CRITERIA:\n\n   * Inability to read or speak English\n   * Pre-existing cognitive deficits (based on provider assessment) that result in impaired reading or decision-making capacity\n   * AYA is a ward of the state or any other agency, institution, or entity\n   * If \\<18 Years Old: No Parental/Guardian permission to participate (informed consent)\n\nCaregivers\n\n1. INCLUSION CRITERIA:\n\n   * Parent or Legal Guardian of a participating AYA\n   * Ability to read and speak English\n2. EXCLUSION CRITERIA:\n\n   * Foster parent or child advocate (i.e., caregiver is not biological parent or legal guardian)\n   * Inability to read or speak English\n\nOncology Clinicians\n\n1. INCLUSION CRITERIA:\n\n   * Oncology clinician involved in decision-making about cancer treatment with enrolled AYA patients and caregiver(s)\n   * Ability to read and speak English\n2. EXCLUSION CRITERIA:\n\n   * Oncology clinician that is not involved in decision-making about cancer treatment with enrolled AYA patients and caregiver(s)\n   * Inability to read or speak English",
+    "gender": "ALL",
+    "min_age": "15 Years",
+    "max_age": "24 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Acceptability of Decision Aid",
+      "timeFrame": "8 weeks post-randomization",
+      "description": "This is a 12-item study-team developed measure used to obtain acceptability ratings from AYA and caregivers (that completed participation in DECIDES or DECIDES+). This measure is based on The Ottawa Hospital's measure of acceptability regarding comprehension of components of a decision aid, its length, pace, amount of information, balance in presentation of information about options, and overall suitability for decision-making. Items are rated on a 5-point Likert scale (1=strongly disagree to 5=strongly agree). The average across 12 items is calculated to produce a total score that ranges from 1-5. Higher scores reflect greater acceptability. Two items related to the DECIDES Coach are not answered by participants in DECIDES who did not have access to a coach."
+    },
+    {
+      "measure": "Usability of Decision Aid",
+      "timeFrame": "8 weeks post-randomization",
+      "description": "This is a 10-item scale collected from AYA and caregivers (that completed participation in DECIDES or DECIDES + coach) and oncology health care providers to measure perceptions of DECIDES usability. Items are rated on a 5-point Likert scale (1=strongly disagree to 5=strongly agree) and summed to produce a total score that ranges from 0 to 100. Scores are normalized to produce a percentile ranking. A score \\>80.3 reflects letter grade \"A\" (adjective rating \"excellent\"); 68-80.3 reflects letter grade \"B\" (adjective rating \"good\"), 68 reflects letter grade \"C\" (adjective rating \"OK\"); 51-67 reflects letter grade \"D\" (adjective rating \"poor\"); and \\<51 reflects letter grade \"F\" (adjective rating \"awful\")."
+    }
+  ],
+  "sponsor": "Children's Hospital of Philadelphia",
+  "collaborators": [],
+  "start_date": "2020-07-08",
+  "completion_date": "2023-04-13",
+  "last_updated": "2024-11-14"
+}

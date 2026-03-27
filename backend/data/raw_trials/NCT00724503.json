@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT00724503",
+  "brief_title": "FOLFOX Plus SIR-SPHERES MICROSPHERES Versus FOLFOX Alone in Patients With Liver Mets From Primary Colorectal Cancer",
+  "official_title": "Randomised Comparative Study Of Folfox6m Plus Sir-Spheres\u00ae Microspheres Versus Folfox6m Alone As First Line Treatment In Patients With Nonresectable Liver Metastases From Primary Colorectal Carcinoma",
+  "brief_summary": "This study is a randomized multi-center trial that will assess the effect of adding Selective Internal Radiation Therapy (SIRT), using SIR-Spheres microspheres\u00ae, to a standard chemotherapy regimen of FOLFOX as first line therapy in patients with non-resectable liver metastases from primary colorectal adenocarcinoma.\n\nTreatment with the biologic agent bevacizumab, if part of the standard of care at participating institutions, is allowed within this study at the discretion of the treating Investigator.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 530,
+  "conditions": [
+    "Colorectal Cancer",
+    "Colorectal Carcinoma",
+    "Liver Metastases"
+  ],
+  "interventions": [
+    {
+      "name": "SIR-Spheres yttrium-90 microspheres",
+      "type": "DEVICE",
+      "description": "SIR-Spheres microspheres (yttrium-90 \\[Y-90\\] labelled resin microspheres), hepatic artery injection administered on Day 3 or 4 of cycle 1.\n\nmFOLFOX6 administered on Day 1 and at the start of each cycle every 14 days: 85 or 60 mg/m2 oxaliplatin by 2-hour intravenous (IV) infusion + 200 mg/m2 leucovorin by 2-hour IV infusion + 400 mg/m2 5-fluorouracil (5-FU) by IV bolus + 2.4 g/m2 5-FU by 46-hour continuous IV infusion.\n\nTreatment with the biologic agent bevacizumab, if part of standard practice at the participating institution, was permitted at the discretion of the treating Investigator.\n\nIn the event that leucovorin was not available, use of levofolinic acid (the active S enantiomer) was acceptable at half the dose of the racemic leucovorin i.e. 100 mg/m2."
+    },
+    {
+      "name": "Systemic chemotherapy (FOLFOX)",
+      "type": "DRUG",
+      "description": "mFOLFOX6 administered on Day 1 and at the start of each cycle every 14 days: 85 or 60 mg/m2 oxaliplatin by 2-hour intravenous (IV) infusion + 200 mg/m2 leucovorin by 2-hour IV infusion + 400 mg/m2 5-fluorouracil (5-FU) by IV bolus + 2.4 g/m2 5-FU by 46-hour continuous IV infusion.\n\nTreatment with the biologic agent bevacizumab, if part of standard practice at the participating institution, was permitted at the discretion of the treating Investigator.\n\nIn the event that leucovorin was not available, use of levofolinic acid (the active S enantiomer) was acceptable at half the dose of the racemic leucovorin i.e. 100 mg/m2."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Unequivocal and measurable CT evidence of liver metastases which are not treatable by surgical resection or local ablation.\n* Limited extra-hepatic metastases in the lung and/or lymph nodes are permitted (Lung: 5 lesions total, \\< 1 cm, or 1 single lesion of up to 1.7 cm; Lymph nodules in one single anatomic area (pelvis, abdomen or chest): any number, \\< 2 cm).\n* Suitable for either treatment regimen.\n* Prior chemotherapy for metastatic colorectal cancer is not allowed.\n* WHO performance status 0-1.\n* Adequate hematological, renal and hepatic function.\n* Age 18 years or older.\n* Willing and able to provide written informed consent.\n* Life expectancy of at least 3 months without any active treatment.\n\nExclusion Criteria\n\n* Evidence of ascites, cirrhosis, portal hypertension, main portal or venous tumor involvement or thrombosis as determined by clinical or radiologic assessment.\n* Previous radiotherapy delivered to the upper abdomen.\n* Non-malignant disease that would render the patient unsuitable for treatment according to the protocol.\n* Peripheral neuropathy \\> grade 1 (NCI-CTC).\n* Dose limiting toxicity with previous adjuvant 5-FU or oxaliplatin chemotherapy.\n* Prior non-adjuvant chemotherapy for any malignancy. Adjuvant chemotherapy for colorectal cancer is not an exclusion criteria provided that it was completed more than 6 months before entry into the study.\n* Pregnant or breast-feeding.\n* Other active malignancy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Holy Name Hospital",
+      "city": "Teaneck",
+      "state": "New Jersey",
+      "zip": "07666",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS) at Any Site",
+      "timeFrame": "From date of randomization until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 60 months",
+      "description": "PFS defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as an increase in the sum of the longest diameters of \u2265 20% and an absolute increase in the sum of the longest diameters of \u2265 5 mm, or the appearance of a new lesion."
+    }
+  ],
+  "sponsor": "Sirtex Medical",
+  "collaborators": [],
+  "start_date": "2006-08",
+  "completion_date": "2015-05",
+  "last_updated": "2019-03-01"
+}

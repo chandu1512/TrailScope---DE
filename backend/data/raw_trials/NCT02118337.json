@@ -1,0 +1,91 @@
+{
+  "nct_id": "NCT02118337",
+  "brief_title": "A Phase 1/2, Open-label Study to Evaluate the Safety and Antitumor Activity of MEDI0680 (AMP-514) in Combination With Durvalumab Versus Nivolumab Monotherapy in Participants With Select Advanced Malignancies",
+  "official_title": "A Phase 1/2, Open-label Study to Evaluate the Safety and Antitumor Activity of MEDI0680 (AMP-514) in Combination With Durvalumab Versus Nivolumab Monotherapy in Subjects With Select Advanced Malignancies",
+  "brief_summary": "To evaluate the Safety and Antitumor Activity of MEDI0680 (AMP-514) in Combination with Durvalumab versus Nivolumab Monotherapy in Participants with Select Advanced Malignancies.",
+  "detailed_description": "This is a multicenter, open-label, Phase 1/2 study to evaluate the safety, tolerability, PK, immunogenicity, and antitumor activity of MEDI0680 in combination with durvalumab or nivolumab monotherapy in adult immunotherapy-na\u00efve participants with selected advanced malignancies.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 97,
+  "conditions": [
+    "Select Advanced Malignancies",
+    "Kidney Cancer",
+    "Clear Cell Renal Cell Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "MEDI0680",
+      "type": "BIOLOGICAL",
+      "description": "Participants will receive IV infusion of MEDI0680 0.1 or 0.5 or 2.5 or 10 or 20 mg/kg Q2W in dose-escalation phase and 20 mg/kg Q2W in dose-expansion phase."
+    },
+    {
+      "name": "Durvalumab",
+      "type": "BIOLOGICAL",
+      "description": "Participants will receive IV infusion of durvalumab 3 and 10 mg Q2W in dose-escalation phase and 750 mg Q2W in dose-expansion phase."
+    },
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Participants will receive IV infusion of nivolumab 240 mg Q2W in dose-expansion phase."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Must be 18 years or older\n* Eastern Cooperative Oncology Group performance status of 0-1\n* Adequate organ function\n* At least 1 prior line of therapy\n\nExclusion Criteria:\n\n* Concurrent enrollment in another clinical study, unless in follow-up period or it is an observational study\n* Concurrent chemotherapy, immunotherapy, biologic, or hormonal therapy for cancer treatment\n* Prior treatment with immunotherapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033-0850",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Treatment-emergent Adverse Events (TEAEs) and Treatment-emergent Serious Adverse Events (TESAEs) in Dose-escalation Phase",
+      "timeFrame": "Day 1 through 90 days post end of treatment (approximately 5 years 10 months)",
+      "description": "An adverse event (AE) is any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. An SAE is an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. The TEAEs are defined as events present at baseline that worsened in intensity after administration of study drug or events absent at baseline that emerged after administration of study drug."
+    },
+    {
+      "measure": "Number of Participants With Abnormal Clinical Laboratory Parameters Reported as TEAEs in Dose-escalation Phase",
+      "timeFrame": "Day 1 through 90 days post end of treatment (approximately 5 years 10 months)",
+      "description": "Number of participants in dose-escalation phase with abnormal clinical laboratory parameters reported as TEAEs are reported. Abnormal clinical laboratory parameters are defined as any abnormal finding during analysis of serum chemistry, hematology, coagulation, and urine."
+    },
+    {
+      "measure": "Number of Participants With Abnormal Vital Signs and Physical Examinations Reported as TEAES in Dose-escalation Phase",
+      "timeFrame": "Day 1 through 90 days post end of treatment (approximately 5 years 10 months)",
+      "description": "Number of participants in dose-escalation phase with abnormal vital signs reported as TEAEs are reported. Abnormal vital signs is defined as any abnormal finding in the vital sign parameters (blood pressure, heart rate, body temperature, and respiratory rate). Abnormal physical examination findings are defined as any abnormal finding in the following body systems: head and neck, respiratory, cardiovascular, gastrointestinal, urogenital, musculoskeletal, neurological, psychiatric, dermatological, hematologic/lymphatic, and endocrine systems, and weight."
+    },
+    {
+      "measure": "Number of Participants With Abnormal Electrocardiograms (ECGs) Reported as TEAEs in Dose-escalation Phase",
+      "timeFrame": "Day 1 through 90 days post end of treatment (approximately 5 years 10 months)",
+      "description": "Number of participants in dose-escalation phase with abnormal ECG parameters reported as TEAEs are reported."
+    },
+    {
+      "measure": "Objective Response Rate (ORR) Based on Investigator-assessed Response Using Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1) in Dose-expansion Phase",
+      "timeFrame": "From baseline (Day -42 to Day -1) through disease progression or end of treatment (approximately 5 years 10 months)",
+      "description": "The ORR is defined as best overall response of confirmed complete response (CR) or confirmed partial response (PR) based on RECIST v1.1. The CR is defined as disappearance of all target and non-target lesions and no new lesions. The PR is defined as \\>= 30% decrease in the sum of diameters of target lesions (compared to baseline) and no new non-target lesion. A confirmed CR or PR is defined as 2 CRs or 2 PRs that were separated by at least 4 weeks with no evidence of progression in-between."
+    }
+  ],
+  "sponsor": "MedImmune LLC",
+  "collaborators": [],
+  "start_date": "2014-05-19",
+  "completion_date": "2020-03-17",
+  "last_updated": "2021-05-06"
+}

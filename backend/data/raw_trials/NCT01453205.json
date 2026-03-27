@@ -1,0 +1,90 @@
+{
+  "nct_id": "NCT01453205",
+  "brief_title": "A Phase 2, Multicenter, Randomized, Open-label Study of MEDI-551 in Adults With Relapsed or Refractory Diffuse Large B-Cell Lymphoma (DLBCL)",
+  "official_title": "A Phase 2 Randomized Open-label Study of MEDI-551 in Adults With Relapsed or Refractory DLBCL",
+  "brief_summary": "The overall purpose of the study is to determine if MEDI-551, when used in combination with salvage chemotherapy, Ifosfamide-carboplatin-etoposide (ICE) or Dexamethasone-cytarabine (DHAP) in patients with relapsed or refractory DLBCL who are eligible for Autologous Stem Cell Transplant (ASCT), has superior efficacy compared to rituximab in the same population.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 187,
+  "conditions": [
+    "Diffuse Large B-Cell Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "MEDI-551 2 mg/kg",
+      "type": "DRUG",
+      "description": "MEDI-551 at the assigned dose will be administered via Intravenous (IV) infusion. Subjects will receive 3 cycles of M-ICE or M-DHAP unless CR is achieved at the end of Cycle 2, disease progression is noted at the end of Cycle 2, or a significant/serious drug related toxicity occurs (as per the opinion of the investigator)."
+    },
+    {
+      "name": "Rituximab",
+      "type": "DRUG",
+      "description": "Rituximab at 375 mg/m2 will be administered via IV infusion 2 days before the start of Cycle 1 and on Day 1 of each cycle. The infusion time for rituximab will be 50 400 mg/hr, depending on subject's tolerance. Subjects will receive 3 cycles of Rituximab with Ice (R ICE) or Rituximab with DHAP (R-DHAP) unless CR is achieved at the end of Cycle 2, disease progression is noted at the end of Cycle 2, or a significant/serious drug related toxicity occurs (as per the opinion of the investigator)."
+    },
+    {
+      "name": "ICE",
+      "type": "DRUG",
+      "description": "ICE will be administered via IV infusion as follows: ifosfamide 5 g/m2 continuously for 24 hours with mesna on Days 2 and 3; carboplatin AUC=5 mg/mL x min \\[800 mg maximum) on Day 2; etoposide 100 mg/m2 on Days 1, 2, and 3) in 21-day cycles."
+    },
+    {
+      "name": "DHAP",
+      "type": "DRUG",
+      "description": "DHAP will be administered via IV infusion as follows: dexamethasone 40 mg on Days 1, 2, 3, and 4; cisplatin 100 mg/m2 continuously for 24 hours on Day 1 of dosing cycle; cytarabine 2 g/m2 in 3-hour infusion repeated after 12 hours (2 doses) on Day 2 in 21-day cycles."
+    },
+    {
+      "name": "Autologous Stem Cell Transplant (ASCT)",
+      "type": "PROCEDURE",
+      "description": "Subjects who achieve CR or PR will undergo stem cell harvest and autologous stem cell transplantation (ASCT) following standard institutional protocols."
+    },
+    {
+      "name": "MEDI-551 4 mg/kg",
+      "type": "DRUG",
+      "description": "MEDI-551 at the assigned dose will be administered via Intravenous (IV) infusion. Subjects will receive 3 cycles of M-ICE or M-DHAP unless CR is achieved at the end of Cycle 2, disease progression is noted at the end of Cycle 2, or a significant/serious drug related toxicity occurs (as per the opinion of the investigator)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed aggressive B-cell DLBCL, including FL transforming to DLBCL \\& Grade III FL\n* Relapsed from or refractory to at least one treatment containing rituximab or another anti-CD20 based immunotherapy combined with anthracycline- or anthracenedione-based chemotherapy\n* Eligible for ASCT\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2\n* Life expectancy of \u2265 12 weeks\n* Adequate hematological function\n\nExclusion Criteria:\n\n* Any chemotherapy, radiotherapy, immunotherapy, biologic, investigational or hormonal therapy for treatment of lymphoma within 28 days prior to treatment\n* Previous cancer therapy for DLBCL other than anthracycline- or anthracenedione based chemoimmunotherapy, monotherapy rituximab prior to first line therapy and/or as a maintenance therapy, or limited field radiotherapy\n* Prior autologous or allogeneic SCT\n* New York Heart Association \u2265 Class II congestive heart failure; Clinically significant abnormality on ECG\n* History of other invasive malignancy within 5 years except for localized/in situ, carcinomas such as cervical carcinoma in situ.\n* Evidence of active infection\n* Documented current central nervous system involvement by leukemia or lymphoma",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21215",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "timeFrame": "From treatment administration (Day 1) to 90 days after the end of study treatment (up to approximately 36 months from the randomization of last participant)",
+      "description": "Objective Response Rate is defined as the proportion of participants with a best response of complete response (CR) or partial response (PR) according to the International Working Group criteria. CR is defined as disappearance of all evidence of disease. PR is defined as 50 percent (%) decrease in the sum of the product of the perpendicular diameters (SPD) of up to 6 largest dominant nodal masses and greater than or equal to (\\>=) 50% decrease in SPD of spleen/liver nodules."
+    }
+  ],
+  "sponsor": "MedImmune LLC",
+  "collaborators": [],
+  "start_date": "2012-02-27",
+  "completion_date": "2016-07-11",
+  "last_updated": "2018-02-08"
+}

@@ -1,0 +1,119 @@
+{
+  "nct_id": "NCT05208047",
+  "brief_title": "(Peak) A Phase 3 Randomized Trial of CGT9486+Sunitinib vs. Sunitinib in Subjects With Gastrointestinal Stromal Tumors",
+  "official_title": "A Phase 3 Randomized, Open-Label, Multicenter Clinical Study of CGT9486+Sunitinib vs. Sunitinib in Subjects With Locally Advanced, Unresectable, or Metastatic Gastrointestinal Stromal Tumors",
+  "brief_summary": "This is a Phase 3, open-label, international, multicenter study of CGT9486 in combination with sunitinib. This is a multi-part study that will enroll approximately 442 patients. Part 1 consists of two evaluations: 1) confirming the dose of an updated formulation of CGT9486 to be used in subsequent parts in approximately 20 patients who have received at least one prior line of therapy for GIST and 2) evaluating the potential for drug-drug interactions between CGT9486 and sunitinib in approximately 18 patients who have received at least two prior tyrosine kinase inhibitors (TKIs) for GISTs. The second part of the study will enroll approximately 388 patients who are intolerant to, or who failed prior treatment with imatinib only and will compare the efficacy of CGT9486 plus sunitinib to sunitinib alone with patients being randomized in a 1:1 manner. Additionally, a drug-drug interactions substudy will investigate the potential for CGT9486 to be a CYP3A4 inducer in approximately 16 patients who have received at least one prior line of therapy for GIST.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 442,
+  "conditions": [
+    "Advanced Gastrointestinal Stromal Tumors",
+    "Metastatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "CGT9486 plus sunitinib",
+      "type": "DRUG",
+      "description": "Participants will receive both CGT9486 and sunitinib orally until study stopping rules are met."
+    },
+    {
+      "name": "CGT9486",
+      "type": "DRUG",
+      "description": "Participants will receive CGT9486 until steady state then both CGT9486 and sunitinib orally until study stopping rules are met."
+    },
+    {
+      "name": "Sunitinib",
+      "type": "DRUG",
+      "description": "Participants will receive sunitinib until steady state then both sunitinib and CGT9486 orally until study stopping rules are met."
+    },
+    {
+      "name": "Sunitinib",
+      "type": "DRUG",
+      "description": "Participants will receive sunitinib orally until study stopping rules are met."
+    },
+    {
+      "name": "Midazolam",
+      "type": "DRUG",
+      "description": "Participants will receive a single-dose of midazolam on Day 1 and Day 16"
+    },
+    {
+      "name": "CGT9486 plus sunitinib",
+      "type": "DRUG",
+      "description": "Patients will receive CGT9486 orally starting on Day 2 and sunitinib starting on Day 16 until study stopping rules are met."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n1. Histologically confirmed locally advanced, metastatic, and/or unresectable GIST. Molecular pathology report must be available for Part 2; if molecular pathology report is unavailable or inadequate, an archival or fresh tumor tissue sample will be required to evaluate mutational status prior to randomization.\n2. Documented disease progression on or intolerance to imatinib\n3. Subjects must have received the following treatment:\n\n   DDI Substudy/Part 1a: Treatment with \u22651 prior lines of therapy for GIST Part 1b: Treatment with \u22652 prior TKI for GISTs Part 2: Prior treatment with imatinib only\n4. Have at least 1 measurable lesion according to mRECIST v1.1 (Part1a, Part 1b, Part 2)\n5. ECOG - 0 to 2\n6. Have clinically acceptable local laboratory screening results (clinical chemistry and hematology) within certain limits\n\nKey Exclusion Criteria:\n\n1. Known PDGFR driving mutations or known succinate dehydrogenase deficiency\n2. Clinically significant cardiac disease\n3. Major surgeries (eg, abdominal laparotomy) within 4 weeks of the first dose of study drug\n4. Gastrointestinal abnormalities including, but not limited to, significant nausea and vomiting, malabsorption, external biliary shunt, or significant bowel resection that would preclude adequate absorption\n5. Any active bleeding excluding hemorrhoidal or gum bleeding\n6. Seropositive for HIV 1 or 2, or positive for hepatitis B surface antigen or hepatitis C virus (HCV) antibody.\n7. Active, uncontrolled, systemic bacterial, fungal, or viral infections at Screening\n8. Received strong CYP3A4 inhibitors or inducers\n9. Received sunitinib within 3 weeks (Part 1a, Part 1b, DDI Substudy)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center - Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1a - pharmacokinetics - Cmax",
+      "timeFrame": "16 days",
+      "description": "Maximum plasma concentration (Cmax)"
+    },
+    {
+      "measure": "Part 1a - pharmacokinetics - AUC",
+      "timeFrame": "16 days",
+      "description": "Area under the plasma concentration-time curve (AUC)"
+    },
+    {
+      "measure": "Part 1b - pharmacokinetics - Cmax",
+      "timeFrame": "14 days",
+      "description": "Maximum plasma concentration (Cmax)"
+    },
+    {
+      "measure": "Part 1b - pharmacokinetics - AUC",
+      "timeFrame": "14 days",
+      "description": "Area under the plasma concentration-time curve (AUC)"
+    },
+    {
+      "measure": "Part 1b - pharmacokinetics - Tmax",
+      "timeFrame": "14 days",
+      "description": "Time to maximum observed plasma concentration (Tmax)"
+    },
+    {
+      "measure": "Part 2 - Progression Free Survival (PFS)",
+      "timeFrame": "Approximately 48 months",
+      "description": "Time from first dose to documented disease progression or death due to any cause, whichever occurs first"
+    },
+    {
+      "measure": "DDI Substudy - pharmacokinetics - AUC",
+      "timeFrame": "16 days",
+      "description": "Area under the plasma concentration-time curve (AUC)"
+    },
+    {
+      "measure": "DDI Substudy - pharmacokinetics - Cmax",
+      "timeFrame": "14 days",
+      "description": "Maximum plasma concentration (Cmax)"
+    }
+  ],
+  "sponsor": "Cogent Biosciences, Inc.",
+  "collaborators": [],
+  "start_date": "2022-04-14",
+  "completion_date": "2026-09",
+  "last_updated": "2026-02-02"
+}

@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT03872206",
+  "brief_title": "Study of HPN536 in Patients With Advanced Cancers Associated With Mesothelin Expression",
+  "official_title": "A Phase 1/2a Open-label, Multicenter, Dose Escalation and Dose Expansion Study of the Safety, Tolerability, and Pharmacokinetics of HPN536 in Patients With Advanced Cancers Associated With Mesothelin Expression Who Have Failed Standard Available Therapy",
+  "brief_summary": "An open-label, Phase 1/2a study of HPN536 as monotherapy to assess the safety, tolerability and PK in patients with advanced cancers associated with mesothelin expression.(Phase 2 portion of the study was not conducted.)",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 95,
+  "conditions": [
+    "Advanced Cancers Associated With Mesothelin Expression"
+  ],
+  "interventions": [
+    {
+      "name": "HPN536 Fixed IV 6 to 560 ng/kg",
+      "type": "BIOLOGICAL",
+      "description": "Fixed dose IV cohorts at doses from 6 to 560 ng/kg"
+    },
+    {
+      "name": "HPN536 1 Prime Step IV 600-1200 ng/kg Target",
+      "type": "BIOLOGICAL",
+      "description": "Step-dosing IV cohorts who received a single Prime Dose followed by the Target Dose (200/600 ng/kg, 200/1200 ng/kg, and 500/900 ng/kg)"
+    },
+    {
+      "name": "2 Prime Step IV 900-14000 ng/kg Target",
+      "type": "BIOLOGICAL",
+      "description": "Step-dosing IV cohorts who received 2 Prime Doses followed by the Target Dose (200/600/900 ng/kg and 200/600/1200 ng/kg; 500/900/1200 ng/kg, 500/900/1800 ng/kg, 500/900/3600 ng/kg, 500/900/7200 ng/kg, and 500/900/14400 ng/kg)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "1. One of the following progressive advanced or metastatic cancers:\n\n   1. Epithelial ovarian, fallopian tube, or primary peritoneal cancer that is platinum refractory or platinum resistant\n   2. Pancreatic adenocarcinoma that is locally advanced, and now with progressive disease on or after front-line treatment\n   3. Malignant mesothelioma with epithelioid histology, pleural or peritoneal\n2. For Part 2 only - Measurable disease according to RECIST v1.1 for patients with epithelial ovarian, fallopian tube, or primary peritoneal cancer, pancreatic adenocarcinoma, and peritoneal mesothelioma, and mRECIST v1.1 for patients with pleural mesothelioma\n3. Available archival tissue sample, or fresh biopsy tissue sample must be obtained prior to enrollment. For Part 2 only- a fresh biopsy tissue sample is required.\n4. Adequate bone marrow function, including:\n\n   1. Absolute neutrophil count (ANC) \u22651500/mm3 or \u22651.5 x 109/L\n   2. Platelets \u2265100,000/mm3 or \u2265100 x 109/L\n   3. Hemoglobin (Hgb) \u22659 g/dL\n5. Adequate renal function, including estimated creatinine clearance \u226530 mL/min\n6. Adequate liver function, including:\n\n   1. Total serum bilirubin \u22641.5 x upper limit of normal (ULN) unless the patient has documented Gilbert syndrome in which case the maximum total serum bilirubin should be \\<5 mg/dL\n   2. Aspartate and alanine transaminase (AST and ALT) \u22642.5 x ULN or AST/ALT \u22645 x ULN for patients with liver metastases\n7. Serum albumin \u226530 mg/mL\n\nKey Exclusion Criteria:\n\n1. Brain metastases unless previously treated. Patients with previously treated brain metastases may participate provided they are clinically stable for at least 4 weeks prior to study entry, and have no evidence of new or enlarging brain metastases\n2. Evidence of retroperitoneal fibrosis, mesothelial surface (pleura, pericardium, peritoneum) thickening of \u22654 mm; significant or increasing pleural/pericardial effusions, ascites or pericarditis at baseline deemed unrelated to the underlying malignancy based on computed tomography (CT), magnetic resonance imaging (MRI), or echocardiogram (ECHO); or prior history of pleurodesis, retroperitoneal fibrosis or mediastinal fibrosis.\n3. Previous Grade 3/4 infusion or hypersensitivity reaction (not immunotoxicity) to treatment with another monoclonal antibody.\n4. For patients with tumor types other than pleural mesothelioma: Ascites requiring \\>1 paracentesis for therapeutic purposes (i.e., not for diagnosis) within 1 month prior to Cycle 1 Day 1.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Assessment of Adverse Events by CTCAE 5.0 of HPN536",
+      "timeFrame": "3 years",
+      "description": "Assess safety and tolerability at increasing dose levels of HPN536 in successive cohorts of patients with of patients with epithelial ovarian cancer, fallopian tube cancer, primary peritoneal cancer, pancreatic adenocarcinoma, or mesothelioma (pleural and primary peritoneal) by adverse events (CTCAE v5.0)"
+    },
+    {
+      "measure": "Determine MTD/RP2D",
+      "timeFrame": "2 years",
+      "description": "Estimate the maximum tolerated dose (MTD) or select the recommended Phase 2 dose (RP2D)"
+    },
+    {
+      "measure": "Efficacy of HPN536 at the recommended Phase 2 dose: overall response rate (ORR)",
+      "timeFrame": "1 year",
+      "description": "Evaluate overall response rate (ORR) as assessed by RECIST"
+    }
+  ],
+  "sponsor": "Harpoon Therapeutics, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
+  "collaborators": [],
+  "start_date": "2019-04-16",
+  "completion_date": "2023-01-04",
+  "last_updated": "2024-06-05"
+}

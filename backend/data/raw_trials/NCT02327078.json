@@ -1,0 +1,103 @@
+{
+  "nct_id": "NCT02327078",
+  "brief_title": "A Study of the Safety, Tolerability, and Efficacy of Epacadostat Administered in Combination With Nivolumab in Select Advanced Cancers (ECHO-204)",
+  "official_title": "A Phase 1/2 Study of the Safety, Tolerability, and Efficacy of Epacadostat Administered in Combination With Nivolumab in Select Advanced Cancers (ECHO-204)",
+  "brief_summary": "This is a Phase 1/2, open label study. Phase 1 consists of 2 parts. Part 1 is a dose-escalation assessment of the safety and tolerability of epacadostat administered with nivolumab in subjects with select advanced solid tumors and lymphomas. Part 2 will evaluate the safety and tolerability of epacadostat in combination with nivolumab and chemotherapy in subjects with squamous cell carcinoma of head and neck (SCCHN) and non-small cell lung cancer (NSCLC).\n\nPhase 2 will include expansion cohorts in 7 tumor types, including melanoma, NSCLC, SCCHN, colorectal cancer, ovarian cancer, glioblastoma and diffuse large B-cell lymphoma (DLBCL).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 307,
+  "conditions": [
+    "B-cell Malignancies",
+    "Colorectal Cancer (CRC)",
+    "Head and Neck Cancer",
+    "Lung Cancer",
+    "Lymphoma",
+    "Melanoma",
+    "Ovarian Cancer",
+    "Glioblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "specified dose and dosing schedule"
+    },
+    {
+      "name": "Epacadostat",
+      "type": "DRUG",
+      "description": "oral twice daily continuous at the protocol-defined dose"
+    },
+    {
+      "name": "Chemotherapy",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male or female subjects, age 18 years or older\n* Subjects with histologically or cytologically confirmed NSCLC, MEL (including I/O relapsed MEL or I/O refractory MEL), CRC, SCCHN, ovarian cancer, recurrent B cell NHL or HL, or glioblastoma\n* Presence of measurable disease by RECIST v1.1 for solid tumors or Cheson criteria for B cell NHL (including DLBCL) or HL. For subjects with glioblastoma, presence of measurable disease is not required.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 to 1\n* Fresh baseline tumor biopsies (defined as a biopsy specimen taken since completion of the most recent prior chemotherapy regimen) are required for all cohorts except glioblastoma\n\nExclusion Criteria:\n\n* Laboratory and medical history parameters not within Protocol-defined range\n* Currently pregnant or breastfeeding\n* Subjects who have received prior immune checkpoint inhibitors or an IDO inhibitor (except select Phase 2 cohorts evaluating I/O relapsed or I/O refractory MEL). Subjects who have received experimental vaccines or other immune therapies should be discussed with the medical monitor to confirm eligibility\n* Untreated central nervous system (CNS) metastases or CNS metastases that have progressed\n* Subjects with any active or inactive autoimmune process\n* Evidence of interstitial lung disease or active, noninfectious pneumonitis\n* Subjects with any active or inactive autoimmune process\n* Ocular MEL",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh School of Medicine",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1, Part 1: Number of Participants With Dose Limiting Toxicities (DLTs)",
+      "timeFrame": "Day 42",
+      "description": "A DLT was defined as occurrence of any treatment-emergent adverse event (TEAE) in Phase 1 Parts 1 and 2. DLT included all TEAE of specified grades such as 1) Hematologic toxicities - any Grade 4 thrombocytopenia or neutropenia, anemia, febrile neutropenia, \u2265 Grade 3 hemolysis, thrombocytopenia and 2) Nonhematologic toxicities - Grade 4 AE, nausea, vomiting, or diarrhea, electrolyte abnormality, \u2265 Grade 3 aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin elevation, Grade 2 AST/ALT with symptomatic liver inflammation, AST or ALT \\> 3 \u00d7 upper limit of normal (ULN) and concurrent total bilirubin \\> 2 \u00d7 ULN without initial findings of cholestasis, and any other \u2265 Grade 3 toxicity. A TEAE is any AE either reported for the first time or worsening of a pre-existing event after first dose of study drug and up to 100 days after last dose of study drug."
+    },
+    {
+      "measure": "Phase 1, Part 2: Number of Participants With Dose Limiting Toxicities (DLTs)",
+      "timeFrame": "Day 42",
+      "description": "A DLT was defined as occurrence of any treatment-emergent adverse event (TEAE) in Phase 1 Parts 1 and 2. DLT included all TEAE of specified grades such as 1) Hematologic toxicities - any Grade 4 thrombocytopenia or neutropenia, anemia, febrile neutropenia, \u2265 Grade 3 hemolysis, thrombocytopenia and 2) Nonhematologic toxicities - Grade 4 AE, nausea, vomiting, or diarrhea, electrolyte abnormality, \u2265 Grade 3 aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin elevation, Grade 2 AST/ALT with symptomatic liver inflammation, AST or ALT \\> 3 \u00d7 upper limit of normal (ULN) and concurrent total bilirubin \\> 2 \u00d7 ULN without initial findings of cholestasis, and any other \u2265 Grade 3 toxicity. A TEAE is any AE either reported for the first time or worsening of a pre-existing event after first dose of study drug and up to 100 days after last dose of study drug."
+    },
+    {
+      "measure": "Phase 1, Parts 1 and 2: Number of Participants With At Least One Treatment-Emergent Adverse Event (TEAE)",
+      "timeFrame": "up to approximately 39 months",
+      "description": "An Adverse Event (AE) is defined as any untoward medical occurrence in a clinical investigation participant administered a drug; it does not necessarily have to have a causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (e.g., a clinically significant abnormal laboratory finding), symptom, or disease temporally associated with the use of a drug, whether or not it is considered related to the drug. A TEAE is any AE either reported for the first time or worsening of a pre-existing event after first dose of study drug and up to 100 days after last dose of study drug."
+    },
+    {
+      "measure": "Phase 2: Objective Response Rate (ORR) in Participants With Select Solid Tumors Per Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1 for Participants With Solid Tumors and Per Cheson Criteria for Participants With DLBCL",
+      "timeFrame": "From first dose up end of the study (up to approximately 6 years)",
+      "description": "ORR was defined as the percentage of participants having a complete response (CR) or partial response (PR) as determined by investigator assessment of radiographic disease per RECIST v1.1. CR per RECIST v 1.1 was defined as disappearance of all target lesions. PR per RECIST v 1.1 was defined as At least a 30% decrease in the sum of diameters (SOD) of target lesions, taking as reference the Baseline sum diameters. Data is reported as per dose received by the participants with a particular cancer type. CR per Cheson criteria was defined as complete disappearance of all detectable clinical evidence of disease and disease-related symptoms. PR per Cheson criteria was defined as at least a 50% decrease in sum of the product of the diameters (SPD) of up to 6 of the largest dominant nodes or nodal masses."
+    },
+    {
+      "measure": "Phase 2: Progression Free Survival (PFS)",
+      "timeFrame": "From first dose up end of the study (up to approximately 6 years)",
+      "description": "PFS is defined as the time from randomization to the first documented progressive disease per RECIST v1.1 or death due to any cause, whichever occurs first."
+    },
+    {
+      "measure": "Phase 2: Overall Survival (OS) Rate of Proportion With Glioblastoma",
+      "timeFrame": "Month 9",
+      "description": "OS rate is defined as the proportion of participants alive 9 months after the start of treatment."
+    }
+  ],
+  "sponsor": "Incyte Corporation",
+  "collaborators": [
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2014-11-26",
+  "completion_date": "2020-06-16",
+  "last_updated": "2025-08-12"
+}

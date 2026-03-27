@@ -1,0 +1,60 @@
+{
+  "nct_id": "NCT03825510",
+  "brief_title": "Immunotherapy SBRT Sensitization of the Programmed Death-1 (PD-1) Effect",
+  "official_title": "A Prospective Trail of Immunotherapy and Stereotactic Body Radiotherapy (SBRT) for the Treatment of Metastatic Lung Cancer: SBRT Sensitization of the Programmed Death-1 (PD-1) Effect",
+  "brief_summary": "The purpose of this study is to determine efficacy, safety of Stereotactic Body Radiotherapy (SBRT) in combination with immunotherapy in participants with metastatic non-small cell lung cancer (NSCLC) who are eligible for an immunotherapy agent.",
+  "detailed_description": "Blockade of the PD-1/PD-L1 T-cell checkpoint pathway is an effective and well tolerated approach to stimulating the immune response which is a critical option in the treatment of metastatic NSCLC. However, progression free survival (PFS) is increased by only 2-4 months and median overall survival (OS) by 3-9 months.\n\nThere is compelling evidence that PFS is increased up to 3 fold and OS by 2 fold in patients receiving a course of radiation therapy while on immunotherapy. Radiotherapy is known to induce immunogenic tumor cell death and upregulation of dendritic cells and antigen presentation leading to activation of cytotoxic T-Cells. Dramatic T-cell activation has been demonstrated where tumor regression occurs outside the radiation treatment field in a phenomenon termed the abscopal effect and is associated with high dose radiation delivered via SBRT.\n\nAs such, SBRT activation of T-cells could be complementary to immunotherapy and enhance T-cell mediated killing via PD-L1 blockade which could lead to lasting and durable tumor response with improved progression free survival and overall survival.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 3,
+  "conditions": [
+    "Metastatic Nonsmall Cell Lung Cancer",
+    "Non Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Stereotactic Body Radiotherapy",
+      "type": "RADIATION",
+      "description": "All patients in this trial will be treated with fractionated Stereotactic body radiation therapy.\n\nSBRT will be delivered to \\<=3 sites in 3-5 fractions followed by administration of the specified immunotherapy agent (Nivolumab or Pembrolizumab). This approach will take advantage of the transient increase in antigen availability, increased antigen presentation and upregulation of PD-1 by tumor cells following ablative radiation therapy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed Stage IV NSCLC according to the 7th AJCC staging manual.\n* Eligible for an immunotherapy agent. Patients who progress after drug therapy (3 months) for ALK, EGFR or ROS mutation positive lung cancer are eligible.\n* At least 2 lesions that are safely amenable to SBRT. ECOG \\<=2.\n* At least 1 measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria for response assessment or at least 1 lesion with FDG avidity and CT correlate that can be monitored for PET-CT response by SUV Max increase or decrease.\n* Normal Hepatic and renal function.\n* Bone marrow reserve:\n\n  1. ANC \u2265 1.5 x 109/L\n  2. Hemoglobin \u22659.0 g/dL\n  3. Platelet count \u226575 x 109/L\n* Ability to comply with follow-up visits and evaluations, treatment planning and studies and other study related procedures and visits.\n* Ability to sign informed consent.\n\nExclusion Criteria:\n\n* Patients with active CNS metastases\n* Active, known or suspected auto-immune disease.\n* Patients with medical conditions that require systemic immunosuppression.\n* Patients with a history of interstitial lung disease.\n* Prior treatment with immune checkpoint inhibitors/immonotherapy.\n* Other active malignancy requiring intervention.\n* Prior lung radiation, with the only metastatic targets in the lungs.\n* Unresolved toxicity from prior chemotherapy or anti-cancer treatment.\n* Current or prior enrollment in clinical trial with an investigational drug within 4 weeks.\n* Pregnancy or positive pregnancy test.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Philadelphia CyberKnife",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19083",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "24 months",
+      "description": "Determine overall survival in patients receiving SBRT and immunotherapy as compared to landmark trials of patients receiving immunotherapy alone (Checkmate 057, Keynote 024)"
+    },
+    {
+      "measure": "Acute Toxicity: Radiation pnuemonitis measured using NCI CTCAE version 4.0",
+      "timeFrame": "0-15 weeks",
+      "description": "Determine excess/unexpected toxicity that cannot be attributed to routine radiation therapy or immunotherapy side effects."
+    }
+  ],
+  "sponsor": "Crozer-Keystone Health System",
+  "collaborators": [
+    "Saint Peters University Hospital",
+    "Community Medical Center, Toms River, NJ"
+  ],
+  "start_date": "2017-04-28",
+  "completion_date": "2022-03-08",
+  "last_updated": "2023-03-03"
+}

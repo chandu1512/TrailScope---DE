@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT02752074",
+  "brief_title": "A Phase 3 Study of Pembrolizumab + Epacadostat or Placebo in Subjects With Unresectable or Metastatic Melanoma (Keynote-252 / ECHO-301)",
+  "official_title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled Study of Pembrolizumab (MK-3475) in Combination With Epacadostat or Placebo in Subjects With Unresectable or Metastatic Melanoma (Keynote-252 / ECHO-301)",
+  "brief_summary": "The purpose of the study is to assess the efficacy, safety, and tolerability when combining pembrolizumab with epacadostat or placebo in participants with unresectable or metastatic melanoma",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 706,
+  "conditions": [
+    "Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "pembrolizumab + epacadostat",
+      "type": "DRUG",
+      "description": "* Pembrolizumab will be administered intravenously every 3 weeks starting at Day 1 (Week 1)\n* Epacadostat will be administered orally daily starting at Day 1 (Week 1)"
+    },
+    {
+      "name": "pembrolizumab + placebo",
+      "type": "DRUG",
+      "description": "* Pembrolizumab will be administered intravenously every 3 weeks starting at Day 1 (Week 1)\n* Placebo will be administered orally daily starting at Day 1 (Week 1)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have histologically or cytologically confirmed melanoma\n* Have unresectable Stage III or Stage IV melanoma, as per AJCC staging system not amenable to local therapy\n* A minimum of 1 measurable lesion by CT or MRI\n* Provide a baseline tumor biopsy\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1\n\nExclusion Criteria:\n\n* Has received prior systemic treatment for unresectable or metastatic melanoma (except BRAF directed therapy)\n* Has received prior therapy with an anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or IDO1 inhibitor or any other antibody or drug specifically targeting checkpoint pathways other than anti-CTLA-4 which is permitted in the adjuvant setting\n* Has received prior adjuvant therapy, monoclonal antibody or an investigational agent or device within 4 weeks or 5 half-lives (whichever is longer)\n* Has an active infection requiring systemic therapy\n* Has known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)\n* Has known history of or is positive for Hepatitis B or Hepatitis C\n* Is pregnant or breastfeeding or expecting to conceive or father children within the projected duration of the study, starting with the screening visit through 120 days after the last dose of study treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Lutherville",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival",
+      "timeFrame": "Assessed every 9 weeks for duration of study participation which is estimated to be 24 months",
+      "description": "Progression-free survival, defined as the time from date of randomization until the earliest date of disease progression, as determined by independent central review of objective radiographic disease assessments per RECIST 1.1, or death from any cause, whichever comes first."
+    },
+    {
+      "measure": "Overall Survival (OS) Rate at 6 Months",
+      "timeFrame": "Assessed every 9 weeks of study participation which is estimated to be 24 months. The OS rate at Month 6 was calculated.",
+      "description": "Defined as time from date of randomization to date of death due to any cause. OS was calculated using product-limit (Kaplan-Meier) method for censored data."
+    }
+  ],
+  "sponsor": "Incyte Corporation",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2016-06-21",
+  "completion_date": "2019-08-16",
+  "last_updated": "2025-08-21"
+}

@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT04172675",
+  "brief_title": "A Study of Erdafitinib Versus Investigator Choice of Intravesical Chemotherapy in Participants Who Received Bacillus Calmette-Gu\u00e9rin (BCG) and Recurred With High Risk Non-Muscle-Invasive Bladder Cancer (NMIBC)",
+  "official_title": "A Randomized Phase 2 Study of Erdafitinib Versus Investigator Choice of Intravesical Chemotherapy in Subjects Who Received Bacillus Calmette-Gu\u00e9rin (BCG) and Recurred With High Risk Non-Muscle-Invasive Bladder Cancer (NMIBC) and FGFR Mutations or Fusions",
+  "brief_summary": "The purpose of this study is to evaluate recurrence-free survival (RFS) in participants treated with erdafitinib vs Investigator's Choice, for participants with high-risk non-muscle-invasive bladder cancer (NMIBC) who harbor fibroblast growth factor receptor (FGFR) mutations or fusions, and who recurred after bacillus calmette-guerin (BCG) therapy.",
+  "detailed_description": "This study enrolls participants with high risk NMIBC and FGFR mutations or fusions. Erdafitinib is an oral pan-fibroblast growth factor receptor (FGFR) 1-4 inhibitor with demonstrated clinical activity in participants with solid tumors, including urothelial carcinoma, with alterations in the FGFR pathway. In Cohort 1, participants will be randomized to erdafitinib or to Investigators Choice (intravesical gemcitabine or intravesical mitomycin C \\[MMC\\] or hyperthermic MMC). The study consists of screening period, treatment phase, follow-up phase, and long-term extension phase.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 107,
+  "conditions": [
+    "Urinary Bladder Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Erdafitinib",
+      "type": "DRUG",
+      "description": "Participants will receive erdafitinib orally beginning on Cycle 1 Day 1 until 2 years of treatment have been completed, disease recurrence, intolerable toxicity, withdrawal of consent, a decision by the investigator to discontinue treatment, or study termination, whichever occurs first. Each cycle is of 28 days."
+    },
+    {
+      "name": "Investigator Choice (Gemcitabine)",
+      "type": "DRUG",
+      "description": "Investigator's Choice treatment will be given once weekly for at least 4 doses of induction followed by monthly maintenance for at least 6 months."
+    },
+    {
+      "name": "Investigator Choice (Mitomycin C)",
+      "type": "DRUG",
+      "description": "Investigator's Choice treatment will be given once weekly for at least 4 doses of induction followed by monthly maintenance for at least 6 months."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed, recurrent, non-muscle-invasive urothelial carcinoma of the bladder. Variant pathology are allowed\n* Tumor with specified fibroblast growth factor receptor (FGFR) mutations or fusions\n* Bacillus Calmette- Guerin (BCG)-unresponsive after adequate BCG therapy or BCG experienced participants\n* Refuses or is not eligible for cystectomy (Cohort 1 and Cohort 2 only)\n* Eastern Cooperative Oncology Group (ECOG) performance status Grade 0-1\n* Must sign an informed consent form (ICF) (or their legally acceptable representative must sign) indicating that he or she understands the purpose of, and procedures required for, the study and is willing to participate in the study\n* A woman of childbearing potential must have a negative pregnancy test (beta-human chorionic gonadotropin \\[beta-hCG\\]) (urine or serum) within 7 days before randomization (Cohort 1) or the first dose of study drug (Cohort 2 and Cohort 3)\n* Adequate bone marrow, liver, and renal function as specified in the protocol\n\nExclusion Criteria:\n\n* Histologically confirmed, muscle-invasive (T2 or higher stage) urothelial carcinoma of the bladder\n* Histopathology demonstrating any small cell component, pure adenocarcinoma, pure squamous cell carcinoma, or pure squamous CIS of the bladder\n* Prior treatment with an FGFR inhibitor\n* Active malignancies other than the disease being treated under study. The only allowed exceptions are: (a) skin cancer treated within the last 24 months that is considered completely cured (b) adequately treated lobular carcinoma in situ (LCIS) and ductal CIS (c) history of localized breast cancer and receiving antihormonal agents, or history of localized prostate cancer (N0M0) and receiving androgen deprivation therapy\n* Current central serous retinopathy or retinal pigment epithelial detachment of any grade",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "MidLantic Urology",
+      "city": "Bala-Cynwyd",
+      "state": "Pennsylvania",
+      "zip": "19004",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center - Cancer Centers",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cohort 1: Recurrence-Free Survival (RFS)",
+      "timeFrame": "From randomization (Cycle 1 Day 1, pre-dose) up to 48.2 months",
+      "description": "RFS was defined as the time from the date of randomization until the date of the reappearance of high-risk disease (high-grade Ta, T1 or carcinoma in situ \\[CIS\\]), or death, whichever was reported first. Recurrence was assessed using cystoscopy, bladder mapping, urine cytology, and computed tomography (CT)/ magnetic resonance imaging (MRI) urogram. Participants who were recurrence-free and alive or had unknown status were censored at the last tumor assessment. The Kaplan-Meier method was used to estimate the distribution of overall RFS for each treatment group."
+    }
+  ],
+  "sponsor": "Janssen Research & Development, LLC",
+  "collaborators": [],
+  "start_date": "2020-02-28",
+  "completion_date": "2025-02-27",
+  "last_updated": "2026-02-12"
+}

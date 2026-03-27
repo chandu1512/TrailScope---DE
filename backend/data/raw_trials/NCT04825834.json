@@ -1,0 +1,107 @@
+{
+  "nct_id": "NCT04825834",
+  "brief_title": "DNA Evaluation of Fragments for Early Interception - Lung Cancer Training Study (DELFI-L101 Study)",
+  "official_title": "DNA Evaluation of Fragments for Early Interception - Lung Cancer Training Study (DELFI-L101 Study)",
+  "brief_summary": "The primary objective of this study, DELFI-L101, is to train and test classifiers for lung cancer detection using the DELFI assay and other biomarker and clinical features.",
+  "detailed_description": "Subjects will be enrolled into the DELFI-L101 study after informed consent and eligibility is confirmed. At enrollment, subjects will have blood specimens collected (\\~40 mL) and 12 months post-enrollment their medical records will be reviewed.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 2992,
+  "conditions": [
+    "Lung Cancer",
+    "Head and Neck Cancer",
+    "Esophageal Cancer",
+    "Bladder Cancer",
+    "Kidney Cancer",
+    "Stomach Cancer",
+    "Colorectal Cancer",
+    "Pancreas Cancer",
+    "Liver Cancer",
+    "Skin Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Blood Sample Collection",
+      "type": "OTHER",
+      "description": "Subjects enrolled in the DELFI-L101 will have blood specimens collected (\\~40 mL) at enrollment."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nAll Participants:\n\n1. Ability to understand and provide written informed consent\n2. Age \u2265 50 years\n3. Current or Former Smoker\n4. \u2265 20 pack-years (pack years = number of packs per day X number of years smoked)\n\n   Inclusion Group 1: High Risk Patients that meet criteria 5 and 6 below:\n5. Prior thoracic imaging with computed tomography (CT) within 12 months of enrollment (CT imaging for lung cancer screening for participants meeting inclusion criteria 6a and 6b; or CT imaging for lung cancer screening or diagnostic CT for participants meeting inclusion criteria 6c)\n\n   OR Planned thoracic imaging (CT) as part of standard of care within 6 weeks of enrollment (CT imaging for lung cancer screening for participants meeting inclusion criteria 6a and 6b; or CT imaging for lung cancer screening or diagnostic CT for participants meeting inclusion criteria 6c)\n\n   AND\n6. Meet one of the criteria below:\n\n   1. No suspected or confirmed lung cancer diagnosis OR\n   2. Suspected of lung cancer OR\n   3. Confirmed, untreated lung cancer\n\n   Inclusion Group 2: High Risk Patients that meet the following criteria:\n7. Pathologic confirmed, invasive non-lung cancer diagnosis, originating from the esophagus (upper), colon or rectum, pancreas, stomach (including lower esophagus), head and neck, skin (excluding cutaneous basal cell and squamous cell carcinoma) kidney, or liver, with no prior systemic therapy, definitive therapy, radiation, or surgical resection.\n\nOR Clinically confirmed invasive non-lung cancer diagnosis originating from the pancreas, kidney, or liver, based on imaging and clinical judgment with planned treatment and no prior systemic therapy, definitive therapy, radiation, or surgical resection.\n\nOR Clinically (based on imaging and clinical judgment) or pathologically confirmed non-invasive or invasive bladder cancer with planned treatment and no prior systemic therapy, definitive therapy, radiation or surgical resection.\n\nExclusion Criteria:\n\nAll Participants:\n\n1. Prior systemic therapy, definitive therapy, radiation, or surgical resection for cancer within one year prior to enrollment (with the exception of organ biopsies or surgery for non-melanoma skin cancer)\n2. Any history of hematologic malignancies or myelodysplasia\n3. Any history of organ tissue transplantation\n4. Any history of blood product transfusion\n5. Current pregnancy\n6. Any condition that in the opinion of the Investigator should preclude the participant's participation in the study\n7. Prior systemic therapy, definitive therapy, radiation, or surgical resection for the enrollment cancer diagnosis (with the exception of organ biopsies or surgery for non-melanoma skin cancer are not exclusionary)\n8. Enrollment in any DELFI sponsored study",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Holy Name Pulmonary Associates",
+      "city": "Englewood",
+      "state": "New Jersey",
+      "zip": "07631",
+      "status": ""
+    },
+    {
+      "facility": "Atlantic Digestive Health Institute",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    },
+    {
+      "facility": "Oncology Hematology Specialists",
+      "city": "Mountain Lakes",
+      "state": "New Jersey",
+      "zip": "07046",
+      "status": ""
+    },
+    {
+      "facility": "MedCorps Asthma and Pulmonary Specialists - Sewell",
+      "city": "Sewell",
+      "state": "New Jersey",
+      "zip": "08080",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny Health Network",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    },
+    {
+      "facility": "Respiratory Specialists, Ltd.",
+      "city": "Wyomissing",
+      "state": "Pennsylvania",
+      "zip": "19610",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Care Associates of York",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Accuracy of lung cancer detection measured by sensitivity, specificity, and the AUC of the ROC.",
+      "timeFrame": "Approximately 12 months",
+      "description": ""
+    }
+  ],
+  "sponsor": "Delfi Diagnostics Inc.",
+  "collaborators": [],
+  "start_date": "2021-03-22",
+  "completion_date": "2025-07-15",
+  "last_updated": "2025-08-05"
+}

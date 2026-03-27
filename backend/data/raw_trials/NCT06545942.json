@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT06545942",
+  "brief_title": "Study of Orally Administered MOMA-313 in Participants With Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase 1 Study of MOMA-313 Given as Monotherapy or in Combination With a PARP Inhibitor in Participants With Advanced or Metastatic Solid Tumors",
+  "brief_summary": "This Phase 1, multi-center, open-label, dose escalation and dose optimization study is designed to assess the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PDx), and preliminary clinical activity of MOMA-313 administered orally as a single agent or combination therapy in patients with homologous recombinant deficient solid tumors.",
+  "detailed_description": "MOMA-313 is a novel therapeutic agent designed to target homologous recombination (HR)-deficient cancers by inhibiting DNA polymerase theta. MOMA-313 is being developed as a single-agent and in combination with a poly (adenosine diphosphate ribose) polymerase (PARP) inhibitor in patients with HR-deficient advanced (including locally), relapsed or metastatic solid tumors.\n\nThis phase 1, first-in-human, open-label study of MOMA-313 is primarily intended to evaluate the safety and tolerability of MOMA-313 when administered orally as a single agent (Treatment Arm 1) or in combination with olaparib (Treatment Arm 2). Each treatment arm of the study includes a dose-escalation phase followed by a dose-optimization phase. In the dose-escalation phase of each treatment arm, successive cohorts of patients will receive increasing oral doses of MOMA-313 as a single agent or in combination with olaparib to determine the presumptive optimal biologic dose(s) (OBD) in this population. The dose-optimization phase of each arm will enroll additional patients to support the confirmation of the OBD.\n\nThe data from this study conducted in patients with HR-deficient advanced (including locally), relapsed or metastatic solid tumors, including safety, tolerability, PK/PDx findings, and antitumor activity, will form the basis for subsequent clinical development of MOMA-313 as a single-agent and in combination with olaparib.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 220,
+  "conditions": [
+    "Advanced Solid Tumor",
+    "Metastatic Solid Tumor",
+    "Prostate Cancer",
+    "Pancreas Cancer",
+    "Breast Cancer",
+    "Ovarian Cancer",
+    "Homologous Recombination Deficiency"
+  ],
+  "interventions": [
+    {
+      "name": "MOMA-313",
+      "type": "DRUG",
+      "description": "MOMA-313 administered orally"
+    },
+    {
+      "name": "Olaparib",
+      "type": "DRUG",
+      "description": "Olaparib administered orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n1. Age \u2265 18 years\n2. Have histologically confirmed disease for each treatment arm as follows:\n\n   1. Treatment Arm 1 (MOMA-313 Monotherapy)\n\n      \\- Advanced (including locally), relapsed or metastatic solid tumors that are not eligible for curative therapy, with any HR-deficient alteration.\n   2. Treatment Arm 2 (MOMA-313 in Combination with Olaparib):\n\n      * Dose escalation: Advanced (including locally), relapsed or metastatic solid tumors that are not eligible for curative therapy, for which a PARP inhibitor is indicated, with select HR-deficient mutations. Patients may be PARP inhibitor naive or exposed.\n      * Dose optimization: Advanced (including locally), relapsed or metastatic CRPC or pancreatic ductal adenocarcinoma (PDAC) with select HR-deficient mutations. Patients must be PARP inhibitor naive.\n3. Have at least 1 lesion at baseline (measurable or non-measurable) suitable for repeat imaging evaluation by RECIST and/or PCWG-3\n4. ECOG PS \u2264 2\n5. Fully recovered from clinically relevant effects of prior therapy, radiotherapy, and/or surgery \\*\\*hormonal therapy allowed. Palliative radiotherapy allowed.\n6. Adequate organ function per local labs\n7. Comply with contraception requirements\n8. Written informed consent must be obtained according to local guidelines\n\nKey Exclusion Criteria:\n\n1. Active prior or concurrent malignancy (some exceptions allowed)\n2. Clinically relevant cardiovascular disease\n3. Known CNS metastasis associated with progressive neurological symptoms (stable doses of corticosteroids allowed)\n4. Known active infection\n5. Prior polymerase theta inhibitor exposure\n6. Known allergy, hypersensitivity, and/or intolerance to MOMA-313\n7. Olaparib exposed patients with known hypersensitivity to PARP inhibitors (for patients considered for olaparib only)\n8. Impaired GI function that may impact absorption.\n9. Patient is pregnant or breastfeeding.\n10. Known to be HIV positive, unless all of the following criteria are met:\n\n    1. Undetectable viral load or CD4+ count \u2265300 cells/\u03bcL\n    2. Receiving highly active antiretroviral therapy\n    3. No AIDS-related illness within the past 12 months\n11. Active liver disease (some exceptions are allowed)\n12. Prior or ongoing condition, therapy, or laboratory abnormality that, in the investigator's opinion, may affect safety of the patient, confound the results of the study, and/or interfere with the patients participation in the study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Investigative Site #109",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of participants with AEs, dose-limiting toxicities (DLTs), serious AEs (SAEs), and/or AEs leading to discontinuation",
+      "timeFrame": "From screening until treatment discontinuation (up to 35 months)",
+      "description": "To assess the safety and tolerability of MOMA-313 given as a single-agent or in combination with olaparib"
+    }
+  ],
+  "sponsor": "MOMA Therapeutics",
+  "collaborators": [],
+  "start_date": "2024-08-13",
+  "completion_date": "2027-11-30",
+  "last_updated": "2025-12-16"
+}

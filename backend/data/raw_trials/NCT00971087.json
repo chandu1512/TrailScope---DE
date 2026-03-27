@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT00971087",
+  "brief_title": "Multicenter Hologic Tomosynthesis Study",
+  "official_title": "A Multicenter, Controlled Clinical Trial to Evaluate the Hologic Tomosynthesis Mammography",
+  "brief_summary": "The purpose of this image acquisition study is to compare, in a Reader Study, the performance of Tomosynthesis (3D) to (2D FFDM) conventional images in an enriched retrospective reader study. Synthetic 2D images, generated from the tomosynthesis image, will be available to the readers to provide an over view of the anatomy similar to a scout view in CT imaging and to determine whether the 3-D images with the synthesized 2D overview are non-inferior to the 2-D images alone as determined by receiver operating characteristic (ROC) area under the curve.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 3521,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Hologic Selenia Dimensions Digital Breast Tomosynthesis System",
+      "type": "DEVICE",
+      "description": "Subjects are exposed to the same number of investigational images collected on the investigational device (Selenia Dimensions Full Field Digital Mammography System). Subject enrollment occurs at the time subjects are being imaged for their standard of care mammographic work up (either screening mammogram or scheduled biopsy). All subjects undergoing a biopsy procedure will be imaged on the investigational device prior to their procedure."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Female\n* Any ethnic origin\n* No contraindication of routine bilateral mammography\n\nExclusion Criteria:\n\n* Any contraindications to mammographic screening, including but not limited to:\n* Significant existing breast trauma\n* Pregnancy\n* Lactating\n* Previous surgical biopsy\n* Previous breast cancer\n* Placement of an internal breast marker\n* Breast implants\n* Unable to understand and execute written informed consent\n* Breasts are too large to be imaged on the 24 cm by 29 cm detector with a single exposure",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "110 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Albert Einstein Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19141",
+      "status": ""
+    },
+    {
+      "facility": "Magee Women's Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "York - Women's Imaging at Apple Hill",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To Demonstrate Non-inferior ROC Performance as Measured by the Area Under the Curve When Comparing 3-Ds Plus 3-D Images to the 2-D Images.",
+      "timeFrame": "At time of exam",
+      "description": "ROC performance as measured by the area under the curve when comparing 3-Ds plus 3-D images to the 2-D images."
+    }
+  ],
+  "sponsor": "Hologic, Inc.",
+  "collaborators": [],
+  "start_date": "2009-09",
+  "completion_date": "2012-04",
+  "last_updated": "2025-02-05"
+}

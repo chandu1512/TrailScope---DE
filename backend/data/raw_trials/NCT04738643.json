@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT04738643",
+  "brief_title": "Improving Tobacco Treatment Rates for Cancer Patients Who Smoke",
+  "official_title": "Improving Tobacco Treatment Rates for Cancer Patients Who Smoke",
+  "brief_summary": "The research objective is to identify a simple, pragmatic, innovative way of enhancing Tobacco Use Treatment (TUT) rates within oncology. To investigate this possibility, the investigators propose methods that will allow them to: 1) evaluate the impact of standing orders to initiate a varenicline management protocol within outpatient cancer treatment workflow, 2) assess the potential for an EHR-based intervention to affect patient TUT behaviors, and 3) identify important facilitators and barriers that impact effectiveness of the intervention.\n\nThe investigators will assess whether including a standing order for prescription and management of varenicline (TUT Service+VM) within the workflow for cancer patients identified as current smokers will significantly increase TUT engagement rates compared to current standard of care (TUT Service alone). The investigators hypothesize that observed treatment engagement rates will be higher among clinicians exposed to TUT Service+VM than observed in clinicians exposed to TUT Service alone.",
+  "detailed_description": "To reduce all-cause and cancer-specific mortality, the 2014 Surgeon General's Report emphasized the importance of effective tobacco use treatment (TUT) in cancer care. Unfortunately, up to 50% of cancer patients who smoke prior to their diagnosis continue to do so after diagnosis and treatment. This observation has lead the National Comprehensive Cancer Network, the American Society of Clinical Oncology, and the American Association for Cancer Research to call for implementation strategies integrating TUT directly within oncology care. At this time, many cancer centers and oncology practices fall short of providing consistent, high-quality TUT; only half of cancer centers report that they identify tobacco use among patients, and very few use systematic mechanisms to encourage TUT services.\n\nIn response, the National Cancer Institute (NCI) funded the Cancer Center Cessation Initiative (C3I) in 2017 with support from the NCI Cancer Moonshot Program. C3I's aim is to help build and sustain TUT infrastructure across the nation's cancer centers, ensuring that cancer patients are systematically screened for tobacco use and provided with evidence-based smoking cessation treatment. Abramson Cancer Center's work implementing the C3I tobacco use treatment service (TUT Service) has significantly improved rates of TUT within oncology practice, however the investigators have identified a number of important social-motivational obstacles to reaching the target of universal TUT. For instance, it is known that simple changes to treatment choice architecture in the electronic health record (EHR), i.e. utilizing an \"opt-out\" rather than \"opt-in\" structure, increases TUT Service engagement in a manner similar to other contexts of cancer care. Unfortunately, there remains unacceptable variation in clinician engagement rates. One significant reason for this variation is the individual clinician's perceptions of treatment effectiveness.( A strategy used elsewhere involved utilizing opt-out orders aimed at maximizing the use of varenicline, i.e. \"Varenicline Management\" (VM). VM resulted in increased clinician utilization and patient cessation within a relatively controlled environment of hospital-based cardiac and pulmonary care. However, it is unknown whether this type of intervention is generalizable to the complex, challenging environment of outpatient oncology.\n\nThe goal of this study is to determine if the default for a varenicline order increases clinician referral to TUTS and/or the treatment of tobacco use. At this point, many clinicians are turning the referral order off and patients are not receiving treatment for tobacco use. A default to prescribe treatment may help override barriers to both.\n\nInsights gained from this project form the basis of subsequent clinical trials assessing efficacy of novel implementation approaches improving uptake of evidence-based tobacco use treatment. This study is significant because the model for promoting physician behavior change is simple and pragmatic, yet has the potential to significantly impact cancer patient survival and morbidity. The study builds on previous observations made through NCI and C.U.R.E. investments, expanding the understanding of novel pharmacologic approaches to tobacco cessation.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 685,
+  "conditions": [
+    "Cancer",
+    "Tobacco Use",
+    "Smoking",
+    "Nicotine Dependence"
+  ],
+  "interventions": [
+    {
+      "name": "Tobacco Use Treatment Service and Varenicline Management",
+      "type": "OTHER",
+      "description": "The VM intervention builds upon the established TUT Service process. In addition to connecting the patient to TUT Service via electronic referral, it activates a medication management protocol that: 1) actively confirms no evidence of renal failure or pregnancy with oncology provider, 2) automates a referral to prescribing providers within the TUT Service team, prompting a call-back to patient within 24 hours, 3) provides written AVS instructions to contact TUT Service for initiation instructions and clinic appointment, and 4) pends a varenicline prescription to the medication list, ready for reconciliation by TUT Service prescribing clinicians. The protocol formalizes standard management principles for varenicline, including follow-up evaluation, pre-quit period duration, and side effect amelioration."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Currently in active practice within Medical and Radiation Oncology divisions of ACC,\n2. Prescribing authority in Pennsylvania (i.e. physician, nurse practitioner, physician assistant),\n3. Nonsmoker,\n4. Has cared for at least one patient with tobacco use disorder in the 30 days prior to recruitment,\n5. English speaking, and\n6. Willing to provide informed consent to participate.\n\nExclusion Criteria:\n\n1. Unwillingness to prescribe varenicline, or\n2. Unwillingness to assign varenicline management to TUT Service providers.",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn Presbyterian Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Intervention Ordering Rate",
+      "timeFrame": "Up to 30 days after Initial Visit",
+      "description": "Defined as the number of patients for whom any inpatient tobacco use treatment order is signed by a participating clinician, divided by the total number of patients in each arm for whom an order was pended and the alert fired"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "University of Pennsylvania"
+  ],
+  "start_date": "2022-06-28",
+  "completion_date": "2024-01-24",
+  "last_updated": "2025-05-06"
+}

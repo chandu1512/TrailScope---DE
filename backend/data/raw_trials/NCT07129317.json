@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT07129317",
+  "brief_title": "Pediatric Radiation Therapy Registry",
+  "official_title": "Pediatric Radiation Therapy Registry",
+  "brief_summary": "The Johns Hopkins Pediatric Radiation Oncology Program is creating a registry that will capture the full 3D radiation dosimetry delivered to its pediatric patients to manage the quality of care provided, as well as to examine the long-term outcomes and toxicity of each patient. The registry will capture baseline clinical data, disease, toxicity, and quality of life outcomes. The goal is to include all pediatric patients undergoing proton therapy and photon therapy to enable future comparisons of treatment outcomes.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 5000,
+  "conditions": [
+    "Sarcoma",
+    "Pediatric Brain Tumors"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Treatment with either proton or photon radiation therapy.\n\nExclusion Criteria:\n\n* Greater than 26 years old",
+    "gender": "ALL",
+    "min_age": "0 Years",
+    "max_age": "26 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "Approximately 10 years",
+      "description": "Measured from date of diagnosis until death, obtained from medical record notes"
+    },
+    {
+      "measure": "Toxicity due to Radiation Therapy as assessed by number of patients with adverse events",
+      "timeFrame": "Approximately 10 years",
+      "description": "The number of patients that experience adverse events, obtained from medical record notes"
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Clark Charitable Foundation Inc."
+  ],
+  "start_date": "2025-10-31",
+  "completion_date": "2040-09",
+  "last_updated": "2025-11-04"
+}

@@ -1,0 +1,129 @@
+{
+  "nct_id": "NCT00020943",
+  "brief_title": "Chemotherapy and Rituximab With Peripheral Stem Cell Transplantation in Treating Patients With Mantle Cell Lymphoma",
+  "official_title": "A Phase II Study Of Intensive Induction Chemotherapy Followed By Autologous Stem Cell Transplantation Plus Immunotherapy For Mantle Cell Lymphoma",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Monoclonal antibodies such as rituximab can locate tumor cells and either kill them or deliver tumor-killing substances to them without harming normal cells. Peripheral stem cell transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill more cancer cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combining chemotherapy and rituximab with peripheral stem cell transplantation in treating patients who have mantle cell lymphoma.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the two-year progression-free survival of patients with mantle cell lymphoma treated with intensive chemotherapy and rituximab with autologous peripheral blood stem cell (PBSC) transplantation.\n* Determine the complete and partial response rates of patients treated with this regimen.\n* Determine the disease-free and overall survival of patients treated with this regimen.\n* Determine the autologous immune reconstitution in patients treated with this regimen.\n* Determine the feasibility of this regimen in this patient population.\n* Determine whether treatment with rituximab during autologous PBSC transplantation reduces the amount of contaminating lymphoma in the autologous PBSC product.\n\nOUTLINE: This is a multicenter study.\n\nPatients receive induction therapy comprising rituximab IV over 4-6 hours on day 1; methotrexate IV over 4 hours on day 2; cyclophosphamide IV over 2 hours, doxorubicin IV, and vincristine IV on day 3; and oral prednisone on days 3-7. Patients also receive leucovorin calcium IV every 6 hours beginning on day 3 and continuing until blood levels of methotrexate are safe. Filgrastim (G-CSF) is administered subcutaneously (SC) beginning on day 4 and continuing until blood counts recover.\n\nInduction therapy repeats every 21-28 days for 2 courses in the absence of disease progression or unacceptable toxicity. Rituximab may be omitted during course 1 if circulating mantle cells are excessive. Patients may receive a third course if more than 15% persistent bone marrow involvement is documented.\n\nPatients with stable or responding disease begin consolidation therapy 29 days after the start of the final course of induction therapy. Patients receive cytarabine IV over 2 hours twice daily and etoposide IV over 96 hours on days 1-4. Patients also receive rituximab IV over 4-6 hours on days 5 or 6 and 12 or 13 and G-CSF SC beginning on day 14 and continuing until leukapheresis is complete. Patients undergo leukapheresis beginning between days 22-25 and continuing until adequate CD34 cells are collected.\n\nBeginning 4 weeks after recovery from consolidation therapy, patients receive high-dose therapy comprising carmustine IV over 2 hours on day -6, etoposide IV over 4 hours on day -4, and cyclophosphamide IV over 2 hours on day -2. Patients undergo autologous peripheral blood stem cell (PBSC) transplantation on day 0. Patients receive G-CSF SC beginning on day 6 and continuing until blood counts recover.\n\nAfter blood counts recover and more than 35 days after autologous PBSC transplantation, patients receive rituximab IV over 4-6 hours weekly for 2 weeks.\n\nPatients are followed every 3 months for 2 years, every 6 months for 3 years, and then annually for up to 10 years.\n\nPROJECTED ACCRUAL: At least 45 patients will be accrued for this study within 2 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 79,
+  "conditions": [
+    "Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "filgrastim",
+      "type": "BIOLOGICAL",
+      "description": "5 ug/kg subQ daily day 4 until ANC \\>10,000 (or ANC\\> 5000 2X)Tx 1, 2, 4 10 ug/kg subQ daily day 14 until completion of PBSC collection Tx 3"
+    },
+    {
+      "name": "rituximab",
+      "type": "BIOLOGICAL",
+      "description": "375 mg/sq m IV infusion at , or = 400 mg/hr day 1 Tx 1, 2, days 5 \\& 12 Tx 3, and weekly for 2 doses Tx 5"
+    },
+    {
+      "name": "carmustine",
+      "type": "DRUG",
+      "description": "15 mg/kg IV infusion over 2 hours Day 6, Tx 4"
+    },
+    {
+      "name": "cyclophosphamide",
+      "type": "DRUG",
+      "description": "2000 mg/sq m IV infusion over 2 hours Day 3, Tx 1 \\& 2 100 mg/kg IV infusion over 2 hours Day 2, Tx 4"
+    },
+    {
+      "name": "cytarabine",
+      "type": "DRUG",
+      "description": "2000 mg/sq m IV infusion BID over 2 hours x 8 doses Days 1-4, Tx 3"
+    },
+    {
+      "name": "doxorubicin hydrochloride",
+      "type": "DRUG",
+      "description": "50 mg/sq m IVP Day 3, Tx 1\\& 2"
+    },
+    {
+      "name": "etoposide",
+      "type": "DRUG",
+      "description": "40 mg/kg total dose continuous IV infusion over 96 hours Days 1-4, Tx 3"
+    },
+    {
+      "name": "leucovorin calcium",
+      "type": "DRUG",
+      "description": "50 mg/sq m IV infusion q 6 hours x 3 doses after MTX, then 10 mg/sq m IV/PO q 6 hrs until MTX levels \\<0.05 uM, Tx 1 \\& 2"
+    },
+    {
+      "name": "methotrexate",
+      "type": "DRUG",
+      "description": "300 mg/sq m IV infusion over 4 hrs Day 2 Tx 1 \\& 2"
+    },
+    {
+      "name": "prednisone",
+      "type": "DRUG",
+      "description": "100 mg/sq m PO Days 3-7, Tx 1 \\& 2"
+    },
+    {
+      "name": "vincristine sulfate",
+      "type": "DRUG",
+      "description": "1.4 mg/sq m IVP Day 3, Tx 1 \\& 2"
+    },
+    {
+      "name": "peripheral blood stem cell transplantation",
+      "type": "PROCEDURE",
+      "description": "Stem cells collected during Tx 3 will be transfused follwing chemotx in Tx 4"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed mantle cell lymphoma\n* Presenting with at least one of the following:\n\n  * Coexpression of CD20 (or CD19) and CD5 and a lack of CD23 expression by immunophenotyping\n  * Positive for cyclin D1 by immunostaining\n  * Presence of t(11,14) by cytogenetic analysis\n  * Molecular evidence of bcl-1/IgH rearrangement\n* Stage I-IV disease\n\n  * Stage III or IV if nodular histology mantle cell lymphoma present\n  * Any stage for other mantle cell histologies\n  * No mantle zone histology\n* No active CNS disease\n\n  * No symptomatic meningeal lymphoma\n  * No known CNS parenchymal lymphoma\n  * Lumbar puncture showing mantle cell lymphoma allowed\n* Bidimensionally measurable disease greater than 1 cm\n\n  * Nonmeasurable disease includes the following:\n\n    * Bone lesions\n    * Leptomeningeal disease\n    * Ascites\n    * Pleural/pericardial effusion\n    * Inflammatory breast disease\n    * Lymphangitis cutis/pulmonis\n    * Abdominal masses not confirmed and followed by imaging techniques\n    * Cystic lesions\n    * Lesions in a previously irradiated area\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 to 69\n\nPerformance status:\n\n* Not specified\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Hepatitis B surface antigen and hepatitis C antibody positive patients must meet all of the following criteria:\n\n  * Bilirubin no greater than 2 times upper limit of normal (ULN)\n  * AST no greater than 3 times ULN\n  * Liver biopsy shows no greater than grade 2 fibrosis and no cirrhosis\n\nRenal:\n\n* Creatinine no greater than 2.0 mg/dL\n\nCardiovascular:\n\n* LVEF at least 45% by MUGA or echocardiogram\n\nOther:\n\n* No known hypersensitivity to murine products\n* HIV negative\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No more than 1 prior dose of rituximab\n\nChemotherapy:\n\n* No more than 1 prior cycle of chemotherapy\n* At least 3 weeks since prior chemotherapy\n* No other concurrent chemotherapeutic agents\n\nEndocrine therapy:\n\n* No chronic use of oral corticosteroids for ongoing medical condition\n* No concurrent hormonal therapy except for non-lymphoma-related conditions (e.g., insulin for diabetes)\n* Other concurrent corticosteroids for adrenal failure, diffuse alveolar hemorrhage, carmustine pneumonitis, or as an anti-emetic allowed\n\nRadiotherapy:\n\n* No prior radiotherapy for mantle cell lymphoma\n* Concurrent palliative radiotherapy allowed\n* Concurrent cranial radiotherapy for asymptomatic meningeal lymphoma allowed\n\nSurgery:\n\n* At least 2 weeks since prior major surgery",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "69 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "CCOP - Christiana Care Health Services",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Greenebaum Cancer Center at University of Maryland Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Cooper University Hospital",
+      "city": "Camden",
+      "state": "New Jersey",
+      "zip": "08103",
+      "status": ""
+    },
+    {
+      "facility": "Western Pennsylvania Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival",
+      "timeFrame": "2 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2001-06",
+  "completion_date": "2009-09",
+  "last_updated": "2016-07-15"
+}

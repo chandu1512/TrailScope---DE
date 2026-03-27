@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT05905276",
+  "brief_title": "Enhanced Recovery After Surgery (ERAS) for Ambulatory TURBT",
+  "official_title": "ERAS for Ambulatory TURBT: Enhancing Bladder Cancer Care (EMBRACE) Randomized Controlled Trial Protocol",
+  "brief_summary": "This is a single-center, randomized-controlled trial to investigate the effectiveness of an ERAS protocol compared to usual care in patients with bladder cancer undergoing ambulatory TURBT. The ERAS protocol is comprised of pre, intra and postoperative components designed to optimize each phase of perioperative care.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 100,
+  "conditions": [
+    "Bladder Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "ERAS Protocol",
+      "type": "OTHER",
+      "description": "The ERAS protocol for ambulatory TURBT has been designed based on patient and provider input, a needs assessment of 150 patients in the hours after TURBT, a review of the literature, and experience with other ambulatory ERAS protocols already implemented at Johns Hopkins Hospital. The ERAS protocol for ambulatory TURBT aims to optimize care delivered in the pre, intra and postoperative settings."
+    },
+    {
+      "name": "Standard of Care",
+      "type": "OTHER",
+      "description": "Patients in the usual care arm of the EMBRACE trial will experience the present-day care pathway of ambulatory TURBT at Johns Hopkins Hospital."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients with suspected or known bladder cancer\n* Age \\>= 18 years\n* Undergoing initial or repeat TURBT\n* Ambulatory TURBT with same day discharge home planned\n\nExclusion Criteria:\n\n* Undergoing a planned concomitant procedure\n* Inability to consent for themselves\n* Unable to complete telephone-based follow up after discharge home\n* Undergoing active treatment for muscle-invasive bladder cancer",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in quality of recovery as assessed by Quality-of-Recovery 15 Scores (QoR-15)",
+      "timeFrame": "Measured at enrollment through study completion, an average of 7 days.",
+      "description": "The QoR-15 score is a validated 15-item questionnaire that assesses quality of recovery in five dimensions: pain, physical comfort, functional autonomy, emotions, and psychological support. Each item is scored 0 to 10 with higher scores representing superior quality of recovery. The QoR-15 score is patient-reported outcome measure and has been extensively used to evaluate ERAS for both inpatient and ambulatory surgeries. It is a shorter and more patient-friendly version of the QoR-40 with equivalent psychometric properties."
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [],
+  "start_date": "2023-12-03",
+  "completion_date": "2024-10-01",
+  "last_updated": "2024-10-02"
+}

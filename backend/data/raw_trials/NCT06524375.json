@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT06524375",
+  "brief_title": "A Study to Evaluate the Effect of Venetoclax on Participants Receiving a Covalent Bruton's Tyrosine Kinase Inhibitor (cBTKi) for First-line Chronic Lymphocytic Leukemia (1L CLL) to Achieve Deep Durable Remissions to Allow Off-treatment Period",
+  "official_title": "Phase II, Open-label, Prospective Single-arm, Multi-center Clinical Trial to Evaluate if Adding Venetoclax to Patients on Covalent BTKi For 1L CLL Can Achieve Deep Durable Remissions (by UMRD 10^-4) to Allow Off-treatment Period",
+  "brief_summary": "The main purpose of the study is to evaluate if adding venetoclax to participants receiving cBTKi for the 1L CLL can achieve deep durable remissions of undetectable measurable residual disease \\[uMRD \\< or 10\\^-4 in peripheral blood (PB)\\] by end of combination treatment (EOCT) to allow off-treatment period.\n\nThe acronym BRAVE stands for Btki Responders to Achieve deep remission (or off-treatment periods) with VEnetoclax.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 118,
+  "conditions": [
+    "Chronic Lymphocytic Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "Venetoclax",
+      "type": "DRUG",
+      "description": "Venetoclax tablets will be administered as per the schedule specified in the arm."
+    },
+    {
+      "name": "cBTKi Monotherapy",
+      "type": "DRUG",
+      "description": "Commercially available cBTKi (ibrutinib or acalabrutinib, or zanubrutinib) will be administered in accordance with its prescribing label."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Diagnosed with CLL and currently receiving a stable dose of cBTKi (i.e., ibrutinib, acalabrutinib, or zanubrutinib) for at least 6 months for 1L treatment with a response of at least a PR per iwCLL criteria\n2. Eastern Cooperative Oncology Group (ECOG) performance score of less than or equal to (\\</=) 2\n3. Adequate renal and liver function\n\nExclusion Criteria:\n\n1. Prior B-cell lymphoma (Bcl-2) inhibitor therapy\n2. Anti-cluster of differentiation 20 (CD20) therapy within the month prior to screening\n3. Progressive or stable disease on cBTKi\n4. Transformation of CLL to aggressive non-Hodgkin lymphoma (NHL) (Richter's transformation or pro-lymphocytic leukemia)\n5. History of cardiomyopathy\n6. Hypersensitivity to venetoclax or to any of the excipients (e.g., trehalose)\n7. Clinically significant cardiovascular disease\n8. Active bleeding or history of bleeding diathesis\n9. Pregnant women and nursing mothers\n10. Uncontrolled autoimmune hemolytic anemia or immune thrombocytopenia",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "American Oncology Partners of Maryland, PA",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817-1915",
+      "status": ""
+    },
+    {
+      "facility": "Astera Cancer Care East Brunswick",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816-4096",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "uMRD4 Rate at EOCT",
+      "timeFrame": "Cycle 12 Day 28 (Cycle length= 28 Days)",
+      "description": "uMRD4 will be assessed using next generation sequencing (NGS) (sensitivity 10\\^-4) from PB."
+    }
+  ],
+  "sponsor": "Genentech, Inc.",
+  "collaborators": [],
+  "start_date": "2024-08-09",
+  "completion_date": "2030-01-31",
+  "last_updated": "2026-02-23"
+}

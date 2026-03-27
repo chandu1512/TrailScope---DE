@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT06831071",
+  "brief_title": "Evaluation of Hypoxia in Primary Melanoma",
+  "official_title": "Prospective Evaluation of Hypoxia in Primary Melanoma",
+  "brief_summary": "When controlling for tumor present in the Sentinel lymph node (SLN), intranodal hypoxia, as measured by Carbonic Anhydrase IX (CAIX IHC), is associated with worse PFS. This suggests that melanoma tumors may be utilizing deregulated metabolism as a means of propagating themselves to the next station of metastasis. This study aims to prospectively validate previous findings. Patients who are to undergo WLE and SLNB per standard of care (SOC) will be evaluable. It is hypothesized that SLN(s) with increased hypoxia, as measured by pimonidazole staining, will be associated with worse Progression-free Survival (PFS).",
+  "detailed_description": "This study aims to prospectively validate previous findings. Having found that deregulated tumor cell metabolism and resultant intra-tumoral hypoxia (ITH) are linked to clinical outcomes in patients with advanced stage melanoma, it was next sought to understand whether hypoxia, utilized as a surrogate of dysregulated metabolism, has significance in patients with earlier stage melanoma. This was done by utilizing banked samples from melanoma patients. Patients with early-stage melanoma who had undergone wide local excision (WLE) and sentinel lymph node biopsy (SLNB) were eligible, involving fifty patients who had a positive SLN, and 50 patients who had a negative SLN. Utilizing novel Vectra panels developed by the Najjar lab, intra-nodal hypoxia was evaluated, as measured by carbonic anhydrase IX (CAIX), it was fund that when controlling for tumor present in the SLN, intranodal hypoxia as measured by CAIX IHC is associated with worse PFS. This suggests that tumors may be utilizing deregulated metabolism as a means of propagating themselves to the next station of metastasis.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Pimonidazole",
+      "type": "DRUG",
+      "description": "Drug: Pimonidazole Pimonidazole is not used with therapeutic intent, and has a non-hazardous designation. It has been widely used for in vivo evaluation of intratumor hypoxia, and patients will take PO pimonidazole before the scheduled biopsy. Patients receive an oral dose of pimonidazole, a safe chemical tracer up to 24 hours prior to biopsy. Pimonidazole allows for true hypoxia staining; pimonidazole binds hypoxic proteins covalently, creating an antigen that facilitates the imaging, flow cytometry, and scRNA-seq experiments proposed. Pimonidazole has been previously used in patients and is safe and well tolerated, without anticipated adverse events."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Must be willing and able to provide written informed consent for the study.\n2. Must have histologically confirmed melanoma for which a Sentinel Lymph Node Biopsy (SLNB) is indicated per the treating physician.\n3. Cutaneous or mucosal melanoma is permitted.\n4. Female patients of childbearing potential must have a negative urine or serum pregnancy test within 7 days from the time of pimonidazole administration.\n\n   1. Female subjects of childbearing potential must not be pregnant or breastfeeding. Female subjects will be considered of non-reproductive potential if they:\n\n      1. are postmenopausal (defined as at least 12 months with no menses without an alternative medical cause; in women \\< 45 years of age a high follicle stimulating hormone (FSH) level in the postmenopausal range may be used to confirm a post-menopausal state in women not using hormonal contraception or hormonal replacement therapy. In the absence of 12 months of amenorrhea, a single FSH measurement is insufficient.\n      2. have had a hysterectomy and/or bilateral oophorectomy, bilateral salpingectomy or bilateral tubal ligation/occlusion, at least 6 weeks prior to screening.\n      3. have a congenital or acquired condition that prevents childbearing.\n   2. Female and male subjects of reproductive potential must agree to avoid becoming pregnant or impregnating a partner, respectively, while receiving study drug and 1 week after the dose of study drug for females and 2 weeks for males by complying with one of the following:\n\n      1. practice abstinence from heterosexual activity\n      2. use (or have their partner use) acceptable contraception during heterosexual activity.\n5. Adequate hematologic function: white blood cells (WBC) \u2265 2,500/\u03bcL, platelet count \u2265 100,000/\u03bcL, hemoglobin \u2265 8.0 g/dL\n6. Adequate renal function: serum creatinine \u2264 2.0 mg/dL\n7. Adequate hepatic function: serum alkaline phosphatase, bilirubin, and ALT \u2264 twice the institutional upper limit of normal\n\nExclusion Criteria:\n\n1. Subjects with known chronic immunosuppression (such as biologic agents like infliximab, mycophenolate, methotrexate, prednisone \\> 20 mg daily).\n2. Severe septicemia or severe infection in the 4 weeks prior to study entry.\n3. History of previous neuropathy from chemotherapy or other causes not related to cancer.\n4. Pregnant subjects or breastfeeding subjects. (Note: A pregnancy test will be administered within 7 days prior to the administration of pimonidazole to female subjects of childbearing potential enrolled in the study.)\n5. Subjects with (ECOG) Performance scale of 4 - subjects unable to perform self-care.\n6. Subjects who have received an investigational new drug 6 half-lives or two weeks prior to enrollment in this study, whichever is shorter.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Tumor Hypoxia",
+      "timeFrame": "Day of surgery",
+      "description": "Hypoxia (decreased oxygen levels) in the primary tumor in patients with primary melanoma as measured by hypoxyprobe staining in primary tumor through CODEX imaging."
+    },
+    {
+      "measure": "Progression Free Survival",
+      "timeFrame": "Up to 5 years (from date of surgery)",
+      "description": "Median number of months from time of surgery to regression, progression or death, whichever occurs first. Progression is defined as observable disease upon visual evaluation of surgical (anatomical) site."
+    },
+    {
+      "measure": "Sentinel Lymph Node Hypoxia",
+      "timeFrame": "Day of surgery",
+      "description": "Hypoxia (decreased oxygen levels) in the sentinel lymph node (SLN) in patients with primary melanoma as measured by hypoxyprobe staining in primary tumor through CODEX imaging."
+    }
+  ],
+  "sponsor": "Yana Najjar",
+  "collaborators": [
+    "Hypoxyprobe"
+  ],
+  "start_date": "2025-04-09",
+  "completion_date": "2027-03-31",
+  "last_updated": "2025-05-05"
+}

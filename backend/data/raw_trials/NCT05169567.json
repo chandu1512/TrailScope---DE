@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT05169567",
+  "brief_title": "Abemaciclib (LY2835219) Plus Fulvestrant Compared to Placebo Plus Fulvestrant in Previously Treated Breast Cancer",
+  "official_title": "postMONARCH: A Randomized, Double Blind, Placebo-Controlled, Phase 3 Study to Compare the Efficacy of Abemaciclib Plus Fulvestrant to Placebo Plus Fulvestrant in Participants With HR+, HER2-, Advanced or Metastatic Breast Cancer Following Progression on a CDK4 & 6 Inhibitor and Endocrine Therapy",
+  "brief_summary": "This study will evaluate the effect of adding abemaciclib to fulvestrant for the treatment of hormone receptor-positive (HR+), human epidermal growth factor receptor 2-negative (HER2-) breast cancer that progressed or recurred after previous treatment with a type of drug known as a CDK4/6 inhibitor and endocrine therapy. Participation could last up to 5 years, depending on how you and your tumor respond.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 368,
+  "conditions": [
+    "Breast Neoplasm",
+    "Neoplasm Metastasis"
+  ],
+  "interventions": [
+    {
+      "name": "Abemaciclib",
+      "type": "DRUG",
+      "description": "Administered orally."
+    },
+    {
+      "name": "Fulvestrant",
+      "type": "DRUG",
+      "description": "Administered IM."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Administered orally."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have a diagnosis of HR+, HER2- locally advanced or metastatic breast cancer\n* Have radiologic evidence of disease progression or recurrence either\n\n  * On treatment with a CDK4/6 inhibitor with aromatase inhibitor (AI) as initial therapy for advanced disease, or\n  * On/after treatment with a CDK4/6 inhibitor plus endocrine therapy (ET) administered as adjuvant therapy for early stage breast cancer\n* Must be deemed appropriate for treatment with ET\n* If female, have a postmenopausal status by natural or surgical means or by ovarian function suppression\n* Have Response Evaluable Criteria in Solid Tumors (RECIST) evaluable disease (measurable disease and/or nonmeasurable disease)\n* Have a performance status of 0 or 1 on the Eastern Cooperative Oncology Group scale (Oken et al. 1982)\n* Have adequate renal, hematologic, and hepatic organ function\n* Must be able to swallow capsules/tablets\n\nExclusion Criteria:\n\n* Have visceral crisis, lymphangitic spread, or leptomeningeal carcinomatosis\n* Have symptomatic or untreated central nervous system metastasis\n* Have received any systemic therapy between disease recurrence/progression and study screening\n* Have received more than 1 line of therapy for advanced or metastatic disease.\n* Have received prior chemotherapy for metastatic breast cancer (MBC)\n* Have received prior treatment with fulvestrant, any investigational estrogen receptor (ER)-directed therapy (including selective ER degraders \\[SERDs\\] and non-SERDs), any phosphatidylinositol 3-kinase (PI3K)-, mammalian target of rapamycin (mTOR)-, or protein kinase B (AKT)-inhibitor",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Mfsmc-Hjwci",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Maryland Oncology Hematology, P.A. - Clinton",
+      "city": "Clinton",
+      "state": "Maryland",
+      "zip": "20735",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS)",
+      "timeFrame": "Randomization to the date of first documented progression of disease or death from any cause (Up to 21 Months)",
+      "description": "PFS defined as the time from the date of randomization to the first evidence of disease progression as defined by response evaluation criteria in solid tumors (RECIST) v1.1 or death from any cause. Progressive Disease (PD) was at least a 20% increase in the sum of the diameters of target lesions, with reference being the smallest sum on study and an absolute increase of at least 5 mm, or unequivocal progression of non-target lesions, or 1 or more new lesions. If a participant does not have a complete baseline disease assessment, then the PFS time was censored at the date of randomization, regardless of whether or not objectively determined disease progression or death has been observed for the participant. If a participant was not known to have died or have objective progression as of the data inclusion cutoff date for the analysis, the PFS time was censored at the last adequate tumor assessment date."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2022-03-11",
+  "completion_date": "2027-12",
+  "last_updated": "2025-12-24"
+}

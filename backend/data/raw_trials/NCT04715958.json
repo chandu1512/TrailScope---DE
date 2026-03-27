@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT04715958",
+  "brief_title": "Prediction of Neoadjuvant Chemotherapy Response Using Contrast-Enhanced Ultrasound in Patients With Locally Advanced Breast Cancer",
+  "official_title": "Monitoring Neoadjuvant Chemotherapy of Breast Cancer Using 3D Subharmonic Aided Pressure Estimation",
+  "brief_summary": "This phase II/III trial studies if contrast-enhanced ultrasounds using a contrast dye, perflutren lipid microspheres (Definity), can predict the response to chemotherapy by estimating the pressure in the cancer in patients with breast cancer that has spread to nearby tissues and lymph nodes (locally advanced). The efficacy of cancer therapy is affected by the pressure in the cancer. Definity is a contrast dye used to create better images during ultrasounds. The purpose of this trial is to determine if a special kind of ultrasound, called contrast-enhanced ultrasound, an experimental imaging test, can detect pressures in cancer to determine the response to neoadjuvant chemotherapy in patients with breast cancer.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To apply and evaluate a novel biomarker from 3-dimensional subharmonic aided pressure estimation (3D SHAPE) to predict neoadjuvant chemotherapy (NAC) response in patients with breast cancer.\n\nSECONDARY OBJECTIVE:\n\nI. To assess whether the accuracy of 3D SHAPE for predicting locally advanced breast cancer (LABC) NAC response varies with breast cancer subtype.\n\nOUTLINE:\n\nPatients undergo contrast-enhanced ultrasound (CEUS) and receive perflutren lipid microspheres intravenously (IV) over 10-15 minutes before NAC, after 10% of NAC, and after 30% of NAC. Patients also undergo unenhanced baseline ultrasound imaging before NAC, after 10% of NAC, after 30% of NAC, and after 100% of NAC.\n\nAfter completion of study, patients are followed up at the completion of NAC.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "Anatomic Stage III Breast Cancer AJCC v8",
+    "Locally Advanced Breast Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Contrast-Enhanced Ultrasound",
+      "type": "PROCEDURE",
+      "description": "Undergo CEUS"
+    },
+    {
+      "name": "Perflutren Lipid Microspheres",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Ultrasound",
+      "type": "PROCEDURE",
+      "description": "Undergo unenhanced baseline ultrasound"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Provide signed and dated informed consent form\n* Willing to comply with all study procedures and be available for the duration of the study\n* At least 21 years old\n* Be diagnosed with breast cancer (T1 or greater LABC, any N and M0)\n* Be scheduled for neoadjuvant chemotherapy\n* Be medically stable\n* Be conscious and able to comply with study procedures\n* If a female of child-bearing potential, must have a negative urine pregnancy test\n\nExclusion Criteria:\n\n* Males\n* Females who are pregnant or nursing\n* Patients with other primary cancers requiring systemic treatment\n* Patients with any distal metastatic disease\n* Patients undergoing neoadjuvant endocrine therapy\n* Patients who are medically unstable, patients who are seriously or terminally ill, and patients whose clinical course is unpredictable. For example:\n\n  * Patients on life support or in a critical care unit;\n  * Patients with unstable occlusive disease (e.g., crescendo angina);\n  * Patients with clinically unstable cardiac arrhythmias, such as recurrent ventricular tachycardia;\n  * Patients with uncontrolled congestive heart failure (New York Heart Association \\[NYHA\\] Class IV);\n  * Patients with recent cerebral hemorrhage;\n  * Patients who have undergone surgery within 24 hours prior to the study sonographic examination\n* Patients with known hypersensitivity or allergy to any component of Definity\n* Patients with unstable cardiopulmonary conditions or respiratory distress syndrome\n* Patients with uncontrollable emphysema, pulmonary vasculitis, pulmonary hypertension or a history of pulmonary emboli",
+    "gender": "FEMALE",
+    "min_age": "21 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Calculation of tumor volume changes with neoadjuvant chemotherapy (NAC)",
+      "timeFrame": "Up to study completion (48 months)",
+      "description": "3-dimensional (3D) tumor measurements over the three ultrasound exams will be recorded for each subject to calculate tumor volume changes with NAC. The tumor volume change during the therapy will be compared to imaging (magnetic resonance imaging or ultrasound) and pathologic response as well as to the corresponding 3D subharmonic aided pressure estimation (SHAPE) results."
+    },
+    {
+      "measure": "Prediction of the patients' clinical and pathological response",
+      "timeFrame": "Up to study completion (48 months)",
+      "description": "The SHAPE results from three time points (i.e. before, 10% completion, and 30% completion of NAC) will be modeled for predicting the patients' clinical response as well as pathological response using longitudinal logistic regression with adjustment for correlated observations over time by generalized linear mixed effects or generalized estimating equations (GEE) modeling."
+    },
+    {
+      "measure": "The ability of the SHAPE method to distinguish responders from non-responders",
+      "timeFrame": "Up to study completion (48 months)",
+      "description": "Will also be compared using receiver operating characteristic analysis to develop thresholds for decision-making based on balancing sensitivity and specificity."
+    }
+  ],
+  "sponsor": "Kibo Nam",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2020-12-07",
+  "completion_date": "2026-05-31",
+  "last_updated": "2026-02-12"
+}

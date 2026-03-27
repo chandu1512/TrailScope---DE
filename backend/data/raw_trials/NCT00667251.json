@@ -1,0 +1,96 @@
+{
+  "nct_id": "NCT00667251",
+  "brief_title": "Chemotherapy and Lapatinib or Trastuzumab in Treating Women With HER2/Neu-Positive Metastatic Breast Cancer",
+  "official_title": "A Randomized, Open-Label, Phase III Study of Taxane Based Chemotherapy With Lapatinib or Trastuzumab as First-Line Therapy for Women With HER2/Neu Positive Metastatic Breast Cancer",
+  "brief_summary": "This was a multi-center, multinational, randomized, open-label, Phase III study comparing combination taxane-based chemotherapy plus lapatinib to combination taxane-based chemotherapy plus trastuzumab in women with documented evidence of human epidermal growth factor receptor 2 (HER2) positive metastatic breast cancer (MBC) (by local or central laboratory testing) who had received no prior chemotherapy or HER2 targeted therapy in the metastatic setting.",
+  "detailed_description": "Subjects were stratified by\n\n* Prior (neo) adjuvant HER2/neu targeted therapy (yes, no)\n* Prior (neo) adjuvant taxane chemotherapy (yes, no)\n* Planned taxane treatment (once weekly paclitaxel versus docetaxel once every 3 weeks)\n* Liver metastasis (yes, no)\n\nSubjects were randomized 1:1 to the following treatments to a planned sample size of approximately 600 subjects (to achieve 536 centrally confirmed HER2 positive subjects):\n\n* Taxane based chemotherapy plus lapatinib for 24 weeks followed by single agent lapatinib\n* Taxane based chemotherapy plus trastuzumab for 24 weeks followed by single agent trastuzumab\n\nThe choice of taxane (once weekly paclitaxel versus docetaxel once every 3 weeks) was at the discretion of the treating physician and was specified at the time of subject randomization.\n\nA protocol-specified interim analysis was conducted on 27-Apr-2012, following which the participants in the Lapatinib plus taxane based chemotherapy arm could cross over to Taxane based chemotherapy plus Trastuzumab.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 652,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "trastuzumab",
+      "type": "BIOLOGICAL",
+      "description": "IV q weekly (loading dose 4mg/kg; subsequent doses 2mg/kg) or IV q 3 weekly (loading dose 8mg/kg, subsequent doses 6mg/kg)."
+    },
+    {
+      "name": "docetaxel",
+      "type": "DRUG",
+      "description": "75mg/m2 IV q 3 weekly, day 1 of a 3 week cycle for 8 cycles plus G-CSF (when given together with lapatinib)."
+    },
+    {
+      "name": "lapatinib ditosylate",
+      "type": "DRUG",
+      "description": "1250 mg once daily (while given with taxane). 1500mg once daily (when given alone after taxane completion)."
+    },
+    {
+      "name": "paclitaxel",
+      "type": "DRUG",
+      "description": "80mg/m2 IV q weekly days 1, 8 and 15 of a 4-week cycle for 6 cycles."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key inclusion criteria:\n\n* Histologically confirmed adenocarcinoma of the breast.\n* MBC (stage IV) at primary diagnosis or at relapse after curative intent therapy.\n* Local or central laboratory confirmed HER2/neu overexpressing and/or amplified disease in the invasive component of the primary or metastatic lesion as defined by:\n\n  1. 3+ over expression by immunohistochemistry (IHC) (\\>30% of invasive tumour cells);\n  2. 2+ or 3+ (in 30% or less neoplastic cells) overexpression by IHC analysis AND fluorescence or chromogenic in situ hybridization (FISH/CISH) test demonstrating HER2/neu gene amplification;\n  3. HER2/neu gene amplification by FISH/CISH \\[\\>6 HER2/neu gene copies per nucleus, or a FISH/CISH ratio (HER2 gene copies to chromosome 17 signals) of \\>=2.2\\]\n* Subjects must have had evidence of metastatic disease, but measurable disease was not mandatory. To be considered evaluable for overall response rate (CR and PR), subjects must have had at least 1 measurable lesion as follows:\n\n  1. X-ray, physical exam \\>=20 mm.\n  2. Conventional computed tomography (CT) scan, magnetic resonance imaging (MRI) \\>=20 mm.\n  3. Spiral CT scan \\>=10 mm.\n\nKey exclusion criteria:\n\n* Subjects with a history of other malignancies, except: adequately treated ductal carcinoma in-situ or lobular carcinoma in-situ, adequately treated non-melanoma skin cancer, curatively treated in-situ cancer of the cervix, or other solid tumor (non-breast) curatively treated with no evidence of disease for \\>=5 years.\n* Subjects who had received prior chemotherapy, immunotherapy, biologic therapy or HER2/neu targeted therapy for recurrent or MBC.\n* Subjects receiving ongoing anti-cancer treatment or other investigational anti-cancer agents for breast cancer or subjects who had used an investigational drug within 30 days or 5 half-lives (if known), whichever was longer, preceding the date of randomization.\n* Subjects with: CNS metastases (including leptomeningeal involvement), serious cardiac illness, peripheral neuropathy grade 2 or greater, subjects with gastrointestinal tract disease, subjects receiving CYP3A4 inhibitors or inducers, and subjects with history of allergic or hypersensitivity reactions to any study drug or their excipients.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Novartis Investigative Site",
+      "city": "Towson",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Novartis Investigative Site",
+      "city": "Wheaton",
+      "state": "Maryland",
+      "zip": "20902",
+      "status": ""
+    },
+    {
+      "facility": "Novartis Investigative Site",
+      "city": "Denville",
+      "state": "New Jersey",
+      "zip": "07834",
+      "status": ""
+    },
+    {
+      "facility": "Novartis Investigative Site",
+      "city": "Parsippany",
+      "state": "New Jersey",
+      "zip": "07054",
+      "status": ""
+    },
+    {
+      "facility": "Novartis Investigative Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212-4772",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS) at the Time of Primary Results",
+      "timeFrame": "From date of randomization until date of progression or date of death from any cause, whichever comes first, assessed up to approximately 39 months",
+      "description": "Progression-free survival (PFS) is the time from randomization to the earliest date of RECIST 1.0 assessment of disease progression (with radiological evidence), death from any cause, or censoring. Disease progression was assessed by the Investigator and defined by RECIST v1.0 as a 20% increase in the sum of the longest diameter of target lesions, a measurable increase in a non-target lesion, or the appearance of new lesions."
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [
+    "NCIC Clinical Trials Group"
+  ],
+  "start_date": "2008-10-07",
+  "completion_date": "2022-07-27",
+  "last_updated": "2025-03-04"
+}

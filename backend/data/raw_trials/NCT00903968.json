@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT00903968",
+  "brief_title": "Combination Plerixafor (AMD3100)and Bortezomib in Relapsed or Relapsed/Refractory Multiple Myeloma",
+  "official_title": "Phase I/II Trial of Combination Plerixafor (AMD3100) and Bortezomib in Relapsed or Relapsed/Refractory Multiple Myeloma",
+  "brief_summary": "The purpose of this research study is to determine the safety of plerixafor and bortezomib, and the highest dose that can be given to people safely. Plerixafor appears to stop myeloma cells from attaching to bone marrow and has been used in other phase I studies for mobilization of stem cells for patients with myeloma and lymphoma. We have shown that the combination of plerixafor and bortezomib is very effective in killing myeloma cells in the laboratory more than the effect of each drug alone.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 58,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Plerixafor",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "bortezomib",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Dexamethasone",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Must have received prior 1-5 therapies for their myeloma and have relapsed or refractory multiple myeloma. Prior therapy with bortezomib is allowed as long as they were not refractory to bortezomib\n* Monoclonal protein serum of 1gm/dL or greater or monoclonal light chain in the urine protein electrophoresis of 200 mg/24 hours or greater, or measurable light chains by free light chain assay of 10 mg/dL or greater, or measurable plasmacytoma\n* ECOG Performance Status 0, 1, or 2\n* Laboratory values as outlined in the protocol\n\nExclusion Criteria:\n\n* Uncontrolled infection\n* Cytotoxic chemotherapy \\< 3 weeks, or biologic or targeted novel therapy \\< 2 weeks, or corticosteroids \\< 2 weeks prior to registration. Patients may be receiving chronic corticosteroids if they are being given for disorders other than myeloma\n* Pregnant women\n* Nursing women\n* Men or women of child-bearing potential who are unwilling to employ adequate contraception\n* Other concurrent chemotherapy, immunotherapy, radiotherapy, or any ancillary therapy considered investigational\n* Known to be HIV positive\n* Radiation therapy \\< 2 weeks prior to registration",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Cancer Treatment Centers of America (Eastern Regional Medical Center)",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19124",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Plerixafor Maximum Tolerated Dose (MTD) [Phase I]",
+      "timeFrame": "Participants were assessed every 3 weeks while on study; The observation period for MTD evaluation was the first 21 days of treatment.",
+      "description": "The MTD plerixafor in combination with bortezomib is determined by the number of patients who experience a dose limiting toxicity (DLT). See subsequent primary outcome measure for the DLT definition. The MTD is defined as highest dose level at which fewer than one-third of patients experience a DLT. The MTD was reached at dose level 5B. The maximum tolerated dose of plerixafor was given on days 1, 2, 3, 6, 10, 13 of 21 each cycle."
+    },
+    {
+      "measure": "Bortezomib Maximum Tolerated Dose (MTD) [Phase I]",
+      "timeFrame": "Participants were assessed every 3 weeks while on study; The observation period for MTD evaluation was the first 21 days of treatment.",
+      "description": "The MTD plerixafor in combination with bortezomib is determined by the number of patients who experience a dose limiting toxicity (DLT). See subsequent primary outcome measure for the DLT definition. The MTD is defined as highest dose level at which fewer than one-third of patients experience a DLT. The MTD was reached at dose level 5B. The maximum tolerated dose of bortezomib was given on days 3, 6, 10, 13 of 21 each cycle."
+    },
+    {
+      "measure": "Number of Participants With Dose Limiting Toxicity (DLT) [Phase I]",
+      "timeFrame": "Participants were assessed every 3 weeks while on study; The observation period for MTD evaluation was the first 21 days of treatment.",
+      "description": "A DLT was defined as (a) grade 3 or greater non-hematologic toxicity, considered by the investigator to be related to plerixafor or bortezomib, with the exception of nausea, vomiting or diarrhea unless receiving maximal medical therapy, (b) grade 4 hematologic toxicity defined as: thrombocytopenia with platelets \\<10,000 on more than one occasion within first cycle despite transfusion. Grade 4 neutropenia must occur for more than 5 days and/or result in neutropenic fever with elevated temperature (defined as \\> 101 degrees F). (c) inability to receive Day 1 dose for Cycle 2 due to toxicity. All adverse events were graded according to the CTEP Common Toxicity Criteria (CTCAE v.3.0)."
+    },
+    {
+      "measure": "Response Rate of Plerixafor, Bortezomib, and Dexamethasone in Relapsed or Relapsed/ Refractory Multiple Myeloma (ORR) [Phase I and Phase II]",
+      "timeFrame": "Disease was assessed for response every cycle on treatment. The maximum number of cycles received was 25.",
+      "description": "Overall response was established based on International Myeloma Working Group (IMWG) criteria with 6 potential categories: Complete Response (CR) which is a complete disappearance of monoclonal paraprotein based on negative immunofixation on the serum M-component and urine M-component and no evidence of myeloma in bone marrow, Very Good Partial Response (VGPR) defined as serum and urine M-component detectable by immunofixation but not on electrophoresis or \u226590% reduction in serum M-component plus urine M-component \\<100 mg per 24 hours, Partial Response (PR) \u226550% reduction in serum M-component or \u226590% reduction urine M-component or urine M-component \\<200 mg per 24 hours, Minimal Response (MR) \u226525% reduction in serum or urine M-component, Stable Disease (SD) defined as failure to meet any response criteria, and Progressive Disease (PD) \u2265 25% increase from lowest value reported in serum M-component (absolute \u22650.5 g/dL) and/or urine M-component (absolute \u2265200 mg/24 hours)."
+    }
+  ],
+  "sponsor": "Dana-Farber Cancer Institute",
+  "collaborators": [
+    "Brigham and Women's Hospital",
+    "Genzyme, a Sanofi Company",
+    "Millennium Pharmaceuticals, Inc."
+  ],
+  "start_date": "2009-06-01",
+  "completion_date": "2016-10",
+  "last_updated": "2020-05-19"
+}

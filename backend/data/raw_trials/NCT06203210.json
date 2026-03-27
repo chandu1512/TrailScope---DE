@@ -1,0 +1,94 @@
+{
+  "nct_id": "NCT06203210",
+  "brief_title": "A Study of Ifinatamab Deruxtecan Versus Treatment of Physician's Choice in Subjects With Relapsed Small Cell Lung Cancer",
+  "official_title": "A Phase 3, Multicenter, Randomized, Open-label Study of Ifinatamab Deruxtecan (I-DXd), a B7-H3 Antibody Drug Conjugate (ADC), Versus Treatment of Physician's Choice (TPC) in Subjects With Relapsed Small Cell Lung Cancer (SCLC) (IDeate-Lung02)",
+  "brief_summary": "This study was designed to compare the efficacy and safety of I-DXd with treatment of physician's choice in participants with relapsed small cell lung cancer (SCLC).",
+  "detailed_description": "The primary objective of this study is to assess whether treatment with I-DXd improves objective response rate (ORR) and prolongs overall survival (OS) compared with treatment of physician's choice among participants with relapsed SCLC.\n\nThe secondary objectives of the study are to further evaluate the efficacy/safety of I-DXd, health economics and outcome research measures (including patient reported outcomes), immunogenicity of I-DXd, B7-H3 protein expression, and characterize the pharmacokinetics of I-DXd.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 540,
+  "conditions": [
+    "Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Ifinatamab deruxtecan",
+      "type": "DRUG",
+      "description": "12 mg/kg intravenous dose on Day 1 of each 21-day cycle"
+    },
+    {
+      "name": "Topotecan",
+      "type": "DRUG",
+      "description": "Topotecan will be administered per local SoC."
+    },
+    {
+      "name": "Amrubicin",
+      "type": "DRUG",
+      "description": "Amrubicin will be administered per local SoC."
+    },
+    {
+      "name": "Lurbinectedin",
+      "type": "DRUG",
+      "description": "Lurbinectedin will be administered per local SoC"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\nParticipants must meet all the following criteria to be eligible for randomization into the study:\n\n1. Sign and date the informed consent form prior to the start of any study-specific qualification procedures.\n2. Adults \u226518 years or the minimum legal adult age (whichever is greater) at the time the informed consent form is signed.\n3. Has histologically or cytologically documented extensive-stage small cell lung cancer (ES-SCLC).\n4. The participant must provide adequate baseline tumor samples with sufficient quantity and quality of tumor tissue content.\n5. Has received prior therapy with only one prior platinum-based line as systemic therapy for SCLC with at least 2 cycles of therapy and a chemotherapy free-interval of \u226530 days.\n6. Has at least 1 measurable lesion according to RECIST v1.1 as assessed by the investigator.\n7. Has documentation of radiological disease progression on or after the most recent systemic therapy.\n8. Has ECOG PS of \u22641 within 7 days prior to Cycle 1 Day 1 (C1D1).\n9. Has no evidence of brain or leptomeningeal disease (spinal cord or central nervous system \\[CNS\\] metastases) based on history and physical examination. Subjects must require no treatment with steroids or anticonvulsants and have a stable neurologic status for at least 2 weeks prior to the first dose of study drug.\n\nExclusion Criteria\n\nParticipants who meet any of the following criteria will be disqualified from entering the study:\n\n1. Has received prior treatment with orlotamab, enoblituzumab, or other B7 homologue 3 (B7-H3) targeted agents, including I-DXd.\n2. Prior discontinuation of an antibody drug conjugate (ADC) that consists of an exatecan derivative (eg, trastuzumab deruxtecan) due to treatment-related toxicities.\n3. Has received any of the comparators used in this study or any topoisomerase I inhibitor.\n4. Has inadequate washout period before randomization as specified in the protocol.\n5. Has any of the following conditions within the past 6 months: cerebrovascular accident, transient ischemic attack, or another arterial thromboembolic event.\n6. Has uncontrolled or significant cardiovascular disease.\n7. Has clinically significant corneal disease.\n8. Has any history of ILD/pneumonitis irrespective of steroid use, or current ILD, or suspected ILD, or ILD that cannot be ruled out by imaging at Screening. Participants may be eligible if they had history of radiation pneumonitis that did not require steroids.\n\n   Examples of suspected ILD/pneumonitis by imaging include the presence of lung parenchymal fibrosis, such as combined pulmonary fibrosis and emphysema (CPFE) and any radiographic features consistent with ILA, including but not limited to, extensive ground glass opacities, reticular opacities, traction bronchiectasis, and honeycombing.\n9. Has clinically severe pulmonary compromise resulting from intercurrent pulmonary illnesses, including, but not limited to, any underlying pulmonary disorder and potential pulmonary involvement caused by any autoimmune, connective tissue, or inflammatory disorders, prior pneumonectomy, or requirement for supplemental oxygen.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Greenebaum Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "John Hopkins School of Medicine",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Astera Cancer Care",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Meridian Health Systems",
+      "city": "Neptune City",
+      "state": "New Jersey",
+      "zip": "07753",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Objective Response Rate Assessed by Blinded Independent Central Review",
+      "timeFrame": "Baseline up until documented progressive disease, death, lost to follow-up, or withdrawal by the participant, up to approximately 5 years",
+      "description": "Confirmed objective response rate (ORR) is defined as the sum of the complete response (CR) rate and partial response (PR) rate based on BICR by Response Evaluation Criteria In Solid Tumors (RECIST) v1.1."
+    },
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "From the date of randomization to the date of death due to any cause, up to approximately 5 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "Daiichi Sankyo",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2024-05-21",
+  "completion_date": "2029-02-22",
+  "last_updated": "2026-02-27"
+}

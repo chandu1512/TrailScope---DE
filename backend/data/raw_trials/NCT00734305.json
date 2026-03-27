@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT00734305",
+  "brief_title": "Phase I Safety Study of the Drug MM-121 in Patients With Advanced Solid Tumors Resisting Ordinary Treatment",
+  "official_title": "A Phase I and Pharmocologic Study of MM-121 in Patients With Refractory Advanced Solid Tumors",
+  "brief_summary": "This study was a Phase 1 and pharmacologic open-labeled dose-escalation trial using a \"3+3\" design to determine maximum tolerated dose/recommended Phase 2 dose.",
+  "detailed_description": "Successive cohorts of three or more patients were treated at escalating doses until a maximum tolerated dose/recommended phase 2 dose was identified. The study initially explored a dosing schedule every 7-days, which may have been modified to longer intervals under certain circumstances but did not expand to more than weekly. When the maximum tolerated dose/recommended Phase 2 dose was identified, an Expansion Cohort was enrolled at that dose to further characterize safety and to explore pharmacodynamic endpoints. There were 3 sites that participated.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 44,
+  "conditions": [
+    "Advanced Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "MM-121",
+      "type": "DRUG",
+      "description": "Dose escalation Frequency - once weekly"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed advanced solid tumors that have recurred or progressed following standard therapy, or that have not responded to standard therapy, or for which there is no standard therapy, or who are not candidates for standard therapy\n* Patients must be \\> 18 years of age\n* Patients or their legal representatives must be able to understand and sign an informed consent form\n* Patients must have evaluable or measurable tumor(s)\n\n  * Patients must be recovered from the effects of any prior surgery, radiotherapy or other antineoplastic therapy. Up to CTCAE Grade 1 is acceptable for patients with known peripheral neuropathy.\n  * Women of childbearing potential as well as fertile men and their partners must agree to abstain from sexual intercourse or to use an effective form of contraception during the study and for 90 days following the last dose of MM-121 (an effective form of contraception is an oral contraceptive or a double barrier method)\n\nIn addition, patients to be enrolled the Expansion Cohort must have/be:\n\n* Advanced/metastatic breast cancer with histological/cytological documentation of ER-, PR-, Her2/neu non-over-expressing breast cancer (triple negative breast cancer); OR,\n* Patients must have advanced/metastatic breast cancer with histologically or cytologically confirmed ER+ and/or PR+, Her2/neu non-over-expxressing OR,\n* Patients must have advanced/metastatic histological confirmation of epithelial ovarian cancer, fallopian tube cancer or primary peritoneal cancer; OR,\n* Additional tumor types such as metastatic colorectal, advanced non small cell lung cancer, and others may be considered on a per-patient basis\n* Tumor tissue amenable to biopsy\n* Platelet counts, partial thromboplastin time (PTT) and international normalized ratio (INR) within normal limits.\n* Willing to undergo tumor biopsy twice (once before and once after treatment with MM-121)\n* Blocks of archived formalin-fixed, paraffin-embedded, unstained tumor tissue available for submission. Patients with no available archived tumor tissue available must receive Sponsor approval prior to enrollment.\n\nExclusion Criteria:\n\n* Patients for whom potentially curative antineoplastic therapy is available\n* Patients who are pregnant or lactating\n* Patients with an active infection or with an unexplained fever \\> 38.5\u00b0C during screening visits or on the first scheduled day of dosing. (At the discretion of the investigator, patients with tumor fever may be enrolled.)\n* Patients with untreated and/or symptomatic CNS malignancies (primary or metastatic); patients with CNS metastases who have undergone surgery or radiotherapy, whose disease is stable, and who have been on a stable dose of corticosteroids for at least 2 weeks prior to the first scheduled day of dosing will be eligible for the trial\n* NYHA Class III or IV congestive heart failure or LVEF \\< 55%\n* Known HIV, hepatitis B or C (active, previously treated or both)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate and Duration",
+      "timeFrame": "Time from first dose to date of progression, with a median of 7.1 weeks",
+      "description": "To determine the number of patients reporting an objective response using RECIST v 1.1 where a Partial Response is defined as a \\>20% decrease in tumor burden from baseline and a Complete Response is defined as complete disappearance of tumor burden from baseline. Duration of response is defined as the length of time in weeks from observation of response until progression.\n\nNOTE: because no patients experienced an objective response as shown below, duration of response is not presented. No duration of response could be measured."
+    },
+    {
+      "measure": "Determine the Maximum Tolerated Dose Dependent on Reports of Dose-limiting Toxicities",
+      "timeFrame": "From date of first dose to 30 days after termination, the longest 47 weeks",
+      "description": "Using a 3+3 dose escalation model, the maximum tolerated dose was determined by assessing dose-limiting toxicities in each cohort from cohort 1-6. Cohort 1 began at 3.2 mg/kg IV QW and the dose escalated in separate cohorts from 6 mg/kg IV QW, 10 mg/kg IV QW, 15 mg/kg IV QW, 20 mg/kg IV QW, to the highest scheduled testing dose at 40 mg/kg one-time loading dose on cycle 1, week 1 followed by 20 mg/kg IV QW maintenance doses. If 3 patients were treated and passed the observation window, escalation to the next cohort was initiated. If a DLT was reported, 3-4 additional patients were enrolled and observed. If a DLT was observed in the expanded cohort, this dose was considered to be the maximum tolerated dose. The maximum tolerated dose was defined at the cohort in which two dose-limiting toxicities were observed, or as the highest target dose tested in the absence of DLTs. The determined MTD was considered the Recommended Phase 2 Dose and was used to open the expansion cohort."
+    }
+  ],
+  "sponsor": "Merrimack Pharmaceuticals",
+  "collaborators": [
+    "Sanofi"
+  ],
+  "start_date": "2008-07",
+  "completion_date": "2013-09",
+  "last_updated": "2016-08-30"
+}

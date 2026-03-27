@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT00548093",
+  "brief_title": "PF-00299804 As A Single Agent, In Patients With Advanced Non-Small Cell Lung Cancer Who Have Failed Chemotherapy And Erlotinib",
+  "official_title": "A PHASE 2, OPEN-LABEL, TWO ARM TRIAL TO EVALUATE THE EFFICACY OF PF-00299804 IN PATIENTS WITH ADVANCED NSCLC AFTER FAILURE OF AT LEAST ONE PRIOR CHEMOTHERAPY REGIMEN AND FAILURE OF PRIOR TREATMENT WITH ERLOTINIB",
+  "brief_summary": "To assess the antitumor efficacy measured by the objective response rate of oral PF-00299804 taken daily, as single agent in patients with advanced NSCLC who failed at least one chemotherapy + erlotinib.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 66,
+  "conditions": [
+    "Carcinoma, Non Small Cell Lung"
+  ],
+  "interventions": [
+    {
+      "name": "PF-00299804",
+      "type": "DRUG",
+      "description": "PF-00299804 orally at 45 mg daily, on continuous schedule"
+    },
+    {
+      "name": "PF-00299804",
+      "type": "DRUG",
+      "description": "PF-00299804 orally at 45 mg daily, on continuous schedule"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Advanced Non-Small Cell Lung Cancer (NSCLC)\n* Prior treatment with and failure of at least one regimen of chemotherapy and erlotinib.\n* Prior treatment with no more than two chemotherapy regimens, including adjuvant or combined modality treatment.\n* Measurable disease .\n* Eastern Cooperative Oncology Group (ECOG) Performance status 0-2\n* Tissue available for KRAS/ EGFR testing\n* Creatinine clearance \\> 40 cc/min or serum creat \\< 1.5 x ULN\n\nExclusion Criteria:\n\n* Chemotherapy\n* Radiotherapy\n* Biological or investigational agents within 4 weeks of baseline disease assessment.\n* Patients who lack of tolerance of erlotinib therapy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "CCR, National Cancer Institute",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Best Overall Response (BOR) in Participants With Adenocarcinoma Histology",
+      "timeFrame": "Baseline, end of every even-numbered cycle up to end of treatment (Day 936)",
+      "description": "BOR:best response recorded from treatment start until disease progression as per Response Evaluation Criteria in Solid Tumors (RECIST). Complete Response: disappearance of all lesions. Partial Response (PR):greater than or equal to (\\>=)30% decrease in sum of longest diameters (SLDs) of target lesions (TLs) taking as reference baseline SLD. Progressive disease (PD):\\>=20% increase in SLD of TLs taking as reference smallest SLD since treatment start, or appearance of \\>=1 new lesion. Stable disease:neither shrinkage for PR nor increase for PD taking as reference smallest SLD since treatment start."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2008-04-29",
+  "completion_date": "2012-06-11",
+  "last_updated": "2019-05-20"
+}

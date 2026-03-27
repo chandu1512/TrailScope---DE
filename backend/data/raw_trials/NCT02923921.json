@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT02923921",
+  "brief_title": "Study of Pegilodecakin (LY3500518) With FOLFOX Compared to FOLFOX Alone Second-line Tx in Participants With Metastatic Pancreatic Cancer",
+  "official_title": "Randomized Study of AM0010 in Combination With FOLFOX Compared to FOLFOX Alone as Second-line Tx in Pts With Metastatic Pancreatic Cancer That Has Progressed During or Following a First-Line Gemcitabine Containing Regimen",
+  "brief_summary": "To compare the efficacy of pegilodecakin in combination with FOLFOX versus FOLFOX alone in participants with metastatic pancreatic cancer as measured by overall survival.",
+  "detailed_description": "This is an open-label, multi-center, randomized, Phase 3 study designed to compare the efficacy and safety of pegilodecakin in combination with FOLFOX versus FOLFOX alone in participants with metastatic adenocarcinoma of the pancreas who have progressed on one prior gemcitabine containing regimen.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 567,
+  "conditions": [
+    "Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Pegilodecakin",
+      "type": "BIOLOGICAL",
+      "description": "Pegilodecakin plus FOLFOX"
+    },
+    {
+      "name": "FOLFOX",
+      "type": "DRUG",
+      "description": "FOLFOX Alone"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. The presence of metastatic pancreatic adenocarcinoma\n2. Measurable disease per RECIST v.1.1\n3. Participant must have documented tumor progression during or following a gemcitabine containing regimen to treat metastatic disease as established by CT or MRI scan\n4. Eastern Cooperative Oncology Group Performance Status of 0 - 1\n5. Participant must have completed prior chemotherapy at least 2 weeks (washout period) prior to randomization and recovered from toxicity to Grade 1 or baseline\n6. Participants must not have received previous radiation therapy or investigational therapy for the treatment of advanced metastatic disease.\n7. Participants having received cytotoxic doses of gemcitabine or any other chemotherapy in the adjuvant setting are not eligible for this study\n8. No peripheral neuropathy\n9. No known history of dihydropyrimidine dehydrogenase deficiency\n\nExclusion Criteria:\n\n1. Diagnosis of pancreatic islet neoplasm, acinar cell carcinoma, non- adenocarcinoma (i.e., lymphoma, sarcoma), adenocarcinoma originating from the biliary tree, or cystadenocarcinoma\n2. Participant on Coumadin and not willing to change to LMWH or oral Factor II or Xa inhibitor with half-life of less than 24 hours.\n3. Participant has received prior treatment with pegilodecakin or fluoropyrimidine/platinum containing regimen\n4. Participants who were intolerant of a gemcitabine containing regimen.\n5. History of positivity for human immunodeficiency virus\n6. Chronic active or active viral hepatitis A, B, or C infection\n7. Clinically significant bleeding within two weeks prior to randomization (e.g., gastrointestinal (GI) bleeding, intracranial hemorrhage)\n8. Pregnant or lactating women\n9. Participants with a history of immune-mediated neurological disorders such as multiple sclerosis, Guillain-Barr\u00e9 or inflammatory CNS/PNS disorders\n10. Clinically significant ascites defined as requiring \u2265 1 paracentesis every 2- weeks\n11. Major surgery, defined as any surgical procedure that involves general anesthesia and a significant incision (i.e., larger than what is required for placement of central venous access, percutaneous feeding tube, or biopsy),within 28 days prior to randomization or anticipated surgery during the study period\n12. Prior history of receiving immune modulators including, but not limited to, anti-CTLA4, anti-PD1, anti-PD-L1",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Summit Medical Group",
+      "city": "Summit",
+      "state": "New Jersey",
+      "zip": "07902",
+      "status": ""
+    },
+    {
+      "facility": "Gettysburg Cancer Center",
+      "city": "Gettysburg",
+      "state": "Pennsylvania",
+      "zip": "17325",
+      "status": ""
+    },
+    {
+      "facility": "Eastern Regional Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19124",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232-1305",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "Randomization to date of death from any cause (Up To 30 Months)",
+      "description": "Overall survival is defined as the time from date of randomization to the date of death (due to any cause). For participants whose last known status is alive at the data cutoff date for the analysis, time will be censored as the last contact date prior to the data cutoff date."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [
+    "ARMO BioSciences"
+  ],
+  "start_date": "2017-03-01",
+  "completion_date": "2020-03-05",
+  "last_updated": "2020-09-24"
+}

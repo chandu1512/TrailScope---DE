@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT02710240",
+  "brief_title": "Indocyanine Green for Central Nervous System Tumors",
+  "official_title": "A Pilot/Feasibility Study of Intraoperative Image-Guided Surgery of CNS Tumors With Indocyanine Green and MR Spectroscopic Imaging",
+  "brief_summary": "This study is a single center, open-label, two-part study to assess image guided surgery of intramolecular imaging in nervous system tumors. Subjects with a diagnosis of a resectable nervous system tumor who are at risk of recurrence are included. The primary goal is to observe what tissues fluoresce in the OR, and then to identify if that tissue is cancerous/tumor or normal when the histopathology is performed.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 336,
+  "conditions": [
+    "Suspected Central Nervous System Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "Indocyanine Green (ICG)",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Intraoperative near-infrared (NIR)",
+      "type": "RADIATION",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nAdult patients 18 years of age and older Patients presenting with a CNS tumor presumed to be resectable and are at risk for local recurrence on pre-operative assessment Good operative candidate as determined by the treating physician and multidisciplinary team Subject capable of giving informed consent and participating in the process of consent\n\nExclusion Criteria:\n\nPregnant women as determined by urinary or serum beta hCG within 72 hours of surgery Subjects with a history of iodide allergies Vulnerable patient populations Patients unable to participate in the consent process (children and neonates) Patients with non-MRI compatible implanted metallic foreign bodies Patients who due to severe claustrophobia cannot tolerate MRI scanning Patients with a known allergy or hypersensitivity to MRI contrast agents including gadolinium",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Sensitivity (SBR)",
+      "timeFrame": "72 hours",
+      "description": "sensitivity of delayed, high dose indocyanine green (second window ICG), as measured by the signal-to-background ratio (SBR)"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2015-06-10",
+  "completion_date": "2020-04-02",
+  "last_updated": "2021-09-30"
+}

@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT02184195",
+  "brief_title": "Olaparib in gBRCA Mutated Pancreatic Cancer Whose Disease Has Not Progressed on First Line Platinum-Based Chemotherapy",
+  "official_title": "A Phase III, Randomised, Double Blind, Placebo Controlled, Multicentre Study of Maintenance Olaparib Monotherapy in Patients With gBRCA Mutated Metastatic Pancreatic Cancer Whose Disease Has Not Progressed on First Line Platinum Based Chemotherapy",
+  "brief_summary": "A Phase III, Randomised, Double Blind, Placebo Controlled, Multicentre Study of Maintenance Olaparib Monotherapy in Patients with gBRCA Mutated Metastatic Pancreatic Cancer whose Disease Has Not Progressed on First Line Platinum Based Chemotherapy",
+  "detailed_description": "Approximately 145 patients will be randomised using an Interactive Voice Response System /Interactive Web Response System (IVR/IWR system) in a 3:2 ratio (Olaparib:placebo) to the treatments as specified below:\n\n* Olaparib tablets p.o. 300 mg twice daily\n* Matching placebo tablets p.o. twice daily Eligible patients will be those patients with pancreas cancer previously treated for metastatic disease who have not progressed following completion of at least 16 weeks (can be more) of first line platinum-based chemotherapy. All patients must have a known deleterious or suspected deleterious germline BRCA mutation to be randomised; this may have been determined prior to enrolment into the study or may be assessed as part of the enrolment procedure for the study (via centrally provided MyriadIntegrated BRAC.\n\nPatients will be randomised within 6 weeks after their last dose of chemotherapy (last dose is the day of the last infusion) and treatment started as soon as possible but no less than 4 and no more than 8 weeks of the last chemotherapy dose. At the time of starting protocol treatment, all previous chemotherapy treatment should be discontinued.\n\nFollowing randomisation, patients will attend clinic visits weekly for the first 4 weeks of treatment (Days 8, 15, 22 and 29). Patients will then attend clinic visits every 4 weeks whilst on study treatment. Patients should continue to receive study treatment until objective radiological disease progression as per RECIST as assessed by the investigator and as long as in the investigator's opinion they are benefiting from treatment and they do not meet any other discontinuation criteria.\n\nOnce a patient has progressed the patient will be followed for second progression (PFS2) every 8 weeks and then survival until the final analysis.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 154,
+  "conditions": [
+    "Germline BRCA1/2 Mutations and",
+    "Metastatic Adenocarcinoma of the Pancreas"
+  ],
+  "interventions": [
+    {
+      "name": "Olaparib",
+      "type": "DRUG",
+      "description": "Tablet -100mg"
+    },
+    {
+      "name": "Olaparib",
+      "type": "DRUG",
+      "description": "Tablet-150mg"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Match Olaparib 100mg placebo"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Match Olaparib 150mg placebo"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria\n\n* Histologically or cytologically confirmed pancreas adenocarcinoma receiving initial chemotherapy for metastatic disease and without evidence of disease progression on treatment\n* Patients with measurable disease and/or non-measurable or no evidence of disease assessed at baseline by CT (or MRI where CT is contraindicated) will be entered in this study.\n* Documented mutation in gBRCA1 or gBRCA2 that is predicted to be deleterious or suspected deleterious\n* Patients are on treatment with a first line platinum-based (cisplatin, carboplatin or oxaliplatin) regimen for metastatic pancreas cancer, have received a minimum of 16 weeks of continuous platinum treatment and have no evidence of progression based on investigator's opinion.\n* Patients who have received platinum as potentially curative treatment for a prior cancer (eg ovarian cancer) or as adjuvant/neoadjuvant treatment for pancreas cancer are eligible provided at least 12 months have elapsed between the last dose of platinum-based treatment and initiation of the platinum-based chemotherapy for metastatic pancreas cancer.\n\nMajor Exclusion Criteria:\n\n* gBRCA1 and/or gBRCA2 mutations that are considered to be non detrimental (eg, \"Variants of uncertain clinical significance\" or \"Variant of unknown significance\" or \"Variant, favour polymorphism\" or \"benign polymorphism\" etc.)\n* Progression of tumour between start of first line platinum based chemotherapy for metastatic pancreas cancer and randomisation.\n* Cytotoxic chemotherapy or non-hormonal targeted therapy within 28 days of Cycle\n\n  1 Day 1 is not permitted.\n* Exposure to an investigational product within 30 days or 5 half lives (whichever is longer) prior to randomisation\n* Any previous treatment with a PARP inhibitor, including Olaparib",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS) by Blinded Independent Central Review (BICR) Using Modified Response Evaluation Criteria in Solid Tumours. This Study Used Modified RECIST Version (v) 1.1 (RECIST v1.1)",
+      "timeFrame": "Up to 4 years",
+      "description": "To determine the efficacy of olaparib maintenance monotherapy compared to placebo by PFS. The PFS was defined as the time from randomisation until the date of objective radiological disease progression according to modified RECIST v1.1 or death (by any cause in the absence of disease progression) regardless of whether the patient withdrew from randomized therapy or received another anticancer therapy prior to disease progression."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [
+    "Myriad Genetic Laboratories, Inc.",
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2014-12-16",
+  "completion_date": "2023-01-27",
+  "last_updated": "2023-08-18"
+}

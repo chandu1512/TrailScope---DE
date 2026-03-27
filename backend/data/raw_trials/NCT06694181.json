@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT06694181",
+  "brief_title": "Safe and Explainable AI",
+  "official_title": "SAFE AND EXPLAINABLE AI-ENABLED DECISION MAKING FOR PERSONALIZED CLINICAL DECISION SUPPORT",
+  "brief_summary": "While current AI technology is suitable for automating some repetitive clinical tasks, technical challenges remain in solving critical and gainful problems in the domains of patient and disease management. The proposed research seeks to address issues in medical AI, such as integrating medical knowledge effectively, making AI recommendations explainable to clinicians, and establishing safety guarantees.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 300000,
+  "conditions": [
+    "Artifical Inteligence",
+    "Cardiology",
+    "Breast Cancer",
+    "Sepsis"
+  ],
+  "interventions": [
+    {
+      "name": "AI-PERSONALIZED CLINICAL DECISION SUPPORT",
+      "type": "OTHER",
+      "description": "AI-ENABLED DECISION MAKING FOR PERSONALIZED CLINICAL DECISION SUPPORT"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nCardiology 18 years of age and older, admitted to any of the Penn Medicine hospitals from 2017 to the present. Sepsis 18 years of age at the time of presentation to an emergency department or admission to any Penn Medicine hospital from July 1, 2017, onward will be eligible as this represents the population at risk for acquiring sepsis Oncology 18 years of age and older with a diagnosis of invasive breast cancer (Stage 1-4) in the Penn Cancer registry\n\nExclusion Criteria All prediction models will exclude patients under the age of 18 from their patient data sets.\n\nCardiology Patients whose primary admission diagnosis was cardiac arrest Sepsis Those with pre-existing limitations on life-sustaining therapy will be excluded because their eligibility for sepsis definitions, care received, and outcomes, may be significantly and variably affected by pre-existing limitations on care. Oncology There are no other exclusions.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Neurosymbolic Learning Algorithms",
+      "timeFrame": "Prototype and develop new learning algorithms; 18 months. Benchmark and evaluate the learning algorithms; 24 months. Publish research results; 24 months",
+      "description": "Develop and evaluate novel algorithms for training neurosymbolic models. We will develop data- and compute-efficient algorithms for end-to-end training of neurosymbolic models. This task will reduce the burden on clinician experts to provide fine-grained labels on voluminous EHR data."
+    },
+    {
+      "measure": "Explanation Methods",
+      "timeFrame": "Prototype and develop new explanation algorithms; 18 months. Derive certified guarantees for explanations; 18 months. Benchmark and evaluate the explanation algorithms; 24 months. Extend certificates to new properties and tasks; 30 months. Publ",
+      "description": "We will develop new explainable AI techniques that come with verifiable guarantees. These guarantees will enable trust and transparency in AI at a fundamental level."
+    },
+    {
+      "measure": "Methods for Safety Guarantees",
+      "timeFrame": "Prototype and develop new rule learning algorithms; 30 months. Scale rule learning algorithms to larger data settings; 36 months. Incorporate new primitives to express complex rules; 36 months. Implement rule learning algorithms on baseline tasks",
+      "description": "We will develop new algorithms that can scalably extract complex logical rules governing safety within the data that have statistical guarantees. These techniques will be rooted in statistical analysis and assist users in identifying out of distribution data and detecting anomalies."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2025-11-29",
+  "completion_date": "2028-11",
+  "last_updated": "2026-02-23"
+}

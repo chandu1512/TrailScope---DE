@@ -1,0 +1,131 @@
+{
+  "nct_id": "NCT00003700",
+  "brief_title": "Combination Chemotherapy in Treating Patients With Untreated Acute Lymphoblastic Leukemia",
+  "official_title": "Phase II Study in Adults With Untreated Acute Lymphoblastic Leukemia Testing Increased Doses of Daunorubicin During Induction, and Cytarabine During Consolidation, Followed by High-Dose Methotrexate and Intrathecal Methotrexate in Place of Cranial Irradiation",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining more than one drug may kill more cancer cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combination chemotherapy in treating patients who have untreated acute lymphoblastic leukemia.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the complete response rate and toxicity of escalating doses of daunorubicin in patients under 60 years old with untreated acute lymphoblastic leukemia (ALL).\n* Determine the complete response rate and toxicity of a constant dose of daunorubicin in patients at least 60 years old with untreated ALL.\n* Determine the toxicity of high dose cytarabine during postremission therapy in these patients.\n* Determine the CNS relapse rate of ALL when prophylactic intrathecal methotrexate and high-dose intravenous chemotherapy replace cranial irradiation.\n\nOUTLINE:\n\n* Course I: Patients are assigned to 1 of 2 induction treatment groups based on age.\n\n  * Group 1 (under age 60): Patients receive cyclophosphamide IV over 15-30 minutes on day 1, escalating doses of daunorubicin IV over 5-10 minutes on days 1-3, vincristine IV on days 1, 8, 15, and 22, oral prednisone on days 1-21, asparaginase intramuscularly on days 5, 8, 11, 15, 18, and 22, and filgrastim (G-CSF) subcutaneously (SC) beginning on day 4 and continuing for at least 7 days and then until blood counts recover.\n  * Group 2 (age 60 and over): Patients receive vincristine, asparaginase, cyclophosphamide, and G-CSF as in group 1, fixed dose daunorubicin IV over 5-10 minutes on days 1-3, and oral prednisone on days 1-7.\n\nPatients are then evaluated for bone marrow cellularity on day 29. Those with M0, M1, or M2 cellularity proceed to course II. Patients with M3 cellularity may proceed to course II or be removed from study.\n\n* Course II (early intensification): Patients receive intrathecal methotrexate and cyclophosphamide IV over 15-30 minutes on day 1, cytarabine IV over 3 hours on days 1-3, and G-CSF SC beginning on day 4.\n\nBone marrow is again examined on day 29. Patients with M0 or M1 cellularity after course I and no sign of relapse after course II proceed to course III. Patients with M2 or M3 cellularity after course I must have M0 or M1 cellularity after course II to proceed to course III. Patients with M2 or M3 cellularity after course II are removed from study.\n\n* Course III: Patients receive intrathecal methotrexate, vincristine IV, and methotrexate IV over 3 hours on days 1, 8, and 15 and oral methotrexate every 6 hours for 4 doses beginning 6 hours after starting methotrexate IV on days 1, 2, 8, 9, 15, and 16. Patients receive leucovorin calcium IV 6 hours after the last oral methotrexate dose on days 2, 9, and 16 and oral leucovorin calcium beginning 12 hours after leucovorin calcium IV for at least 4 doses on days 3, 4, 10, 11, 17, and 18.\n\nPatients must be off leucovorin calcium for a minimum of 3 days before beginning days 8 and 15 of treatment. Patients who maintain M0 or M1 cellularity on day 29 of course III continue therapy. Those with M2 or M3 cellularity after course III are removed from the study.\n\n* Course IV (Late intensification): Repeat course I.\n* Course V (Late intensification): Repeat course II.\n* Course VI (CNS intensification): Repeat course III.\n* Course VII (Prolonged maintenance): Patients receive oral mercaptopurine daily, vincristine IV once every 4 weeks, oral prednisone on days 1-5, and oral methotrexate on days 1, 8, 15, and 22. Courses repeat every 4 weeks for up to 18 months.\n\nPatients with testicular disease receive gonadal radiotherapy anytime after course I. Chemotherapy is not halted during radiotherapy.\n\nPatients are followed every 3 months for 1 year, every 6 months for 2 years, and then annually for 10 years.\n\nPROJECTED ACCRUAL: A total of 140 patients will be accrued for this study within 15 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 163,
+  "conditions": [
+    "Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "G-CSF",
+      "type": "BIOLOGICAL",
+      "description": "Courses I, II, IV, V: 5 ug/kg/d subQ injection Day 4 until ANC \\> 5,000 uL after nadir: 7 day minimum for Courses I \\& IV"
+    },
+    {
+      "name": "asparaginase",
+      "type": "DRUG",
+      "description": "6000 U/sq m subQ or IM injection 2X/wk for 6 doses starting on Day 5: Courses I \\& IV"
+    },
+    {
+      "name": "cyclophosphamide",
+      "type": "DRUG",
+      "description": "1200 mg/sq m IV infusion over 15-30 min Day 1 Courses I \\& IV (pts \\< 60y/o) 1000 mg/sq m IV infusion over 15-30 min Day 1 Courses II \\& V"
+    },
+    {
+      "name": "cytarabine",
+      "type": "DRUG",
+      "description": "2000 mg/sq m IV infusion over 3 hrs Days 1,2, \\& 3: Courses II \\& V"
+    },
+    {
+      "name": "daunorubicin hydrochloride",
+      "type": "DRUG",
+      "description": "80mg/sq m (pts\\<60y/o)OR 60mg/sq m (pts =/\\>60y/o) IV infusion over 5-10 min Days 1,2,\\& 3: Courses I \\& IV"
+    },
+    {
+      "name": "leucovorin calcium",
+      "type": "DRUG",
+      "description": "Courses III \\& VI:\n\n25mg/sq m IV infusion Days 2, 9, and 16 5mg/sq m PO q 6 hr for 8 doses or until serum MTX \\<0.05 uM after ea IV dose"
+    },
+    {
+      "name": "mercaptopurine",
+      "type": "DRUG",
+      "description": "60mg/sq m/d PO every day Course VII"
+    },
+    {
+      "name": "methotrexate",
+      "type": "DRUG",
+      "description": "15mg intrathecal Day 1 Courses II \\& V 1000mg/sq m IV infusion over 3 hrs Days 1, 8, \\& 15 and 25mg/sq m PO q 6hr x 4 doses after ea IV dose: Courses III \\& VI."
+    },
+    {
+      "name": "prednisone",
+      "type": "DRUG",
+      "description": "60mg/sq m/day PO Days 1-21 (pts\\<60y/o) OR Days 1-7 (pts \\>/= 60y/o) Courses I \\& IV and Days 1-5 of ea 4 cycle in Course VII"
+    },
+    {
+      "name": "vincristine sulfate",
+      "type": "DRUG",
+      "description": "2 mg total IV infusion Days 1,8,15,\\& 22 Courses I \\& IV and Days 1, 8, \\& 15 Courses III \\& VI, and Day 1 of ea 4 wk cycle in Course VII"
+    },
+    {
+      "name": "Allopurinol",
+      "type": "DRUG",
+      "description": "300mg PO q day Days 1-14 Course I"
+    }
+  ],
+  "eligibility": {
+    "criteria": "1. Any other serious illnesses which would limit survival to \\<2 years, or psychiatric condition which would prevent compliance with treatment or informed consent.\n2. Uncontrolled or severe cardiovascular disease.\n3. History of pancreatitis or overt coagulopathy (prior cerebrovascular accident or hemorrhage, transient ischemic attack or deep venous thrombosis).\n4. Elevations in bilirubin, creatinine, or amylase that may suggest impaired hepatic, renal, or pancreatic function must be considered as potentially serious obstacles for safe tolerance of the therapy prescribed in this protocol.\n5. Prior use of the agents administered in this protocol for other non-malignant disease may reduce the likelihood of beneficial outcome, and should also be considered prior to enrolling patients.\n6. Treatment under this protocol would expose an unborn child to significant risks.\n\n   Women and men of reproductive potential should agree to use an effective means of birth control.\n7. Unequivocal histologic diagnosis of Acute Lymphoblastic leukemia (ALL), FAB L1-or L2 or Acute Undifferentiated Leukemia (AUL).\n8. Age \u2265 15 years\n9. Prior Treatment: No prior treatment for leukemia, with three permissible exceptions:\n\n   i. emergency leukapheresis; ii. emergency treatment for hyperleukocytosis with hydroxyurea; iii. cranial RT for CNS leukostasis (one dose only).",
+    "gender": "ALL",
+    "min_age": "15 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "CCOP - Christiana Care Health Services",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19899",
+      "status": ""
+    },
+    {
+      "facility": "Marlene & Stewart Greenebaum Cancer Center, University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Cooper Cancer Institute",
+      "city": "Camden",
+      "state": "New Jersey",
+      "zip": "08103",
+      "status": ""
+    },
+    {
+      "facility": "St. Barnabas Medical Center",
+      "city": "Livingston",
+      "state": "New Jersey",
+      "zip": "07039",
+      "status": ""
+    },
+    {
+      "facility": "St. Joseph's Hospital and Medical Center",
+      "city": "Paterson",
+      "state": "New Jersey",
+      "zip": "07503",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Complete Response",
+      "timeFrame": "6 months post treatment",
+      "description": ""
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "1999-01",
+  "completion_date": "2010-01",
+  "last_updated": "2016-07-01"
+}

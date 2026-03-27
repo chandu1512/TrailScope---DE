@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT01967810",
+  "brief_title": "ANG1005 in Patients With Recurrent High-Grade Glioma",
+  "official_title": "A Phase II, Open-Label, Multi-Center Study of ANG1005 in Patients With Recurrent High-Grade Glioma",
+  "brief_summary": "This is a Phase 2 study to see if an investigational drug, ANG1005, can shrink tumor cells in patients with high-grade glioma. Another purpose of this study is to assess the efficacy, safety, tolerability, and pharmacokinetics (PK) of ANG1005 in patients.",
+  "detailed_description": "See above.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 73,
+  "conditions": [
+    "Glioma",
+    "Glioblastoma",
+    "Brain Tumor, Recurrent"
+  ],
+  "interventions": [
+    {
+      "name": "ANG1005",
+      "type": "DRUG",
+      "description": "ANG1005 at a starting dose of 650 mg/m\\^2 or 600 mg/m\\^2 by intravenous infusion once every 3 weeks"
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "For participants enrolled in the bevacizumab-refractory recurrent GBM arm (Arm 2), treatments with bevacizumab may be continued and administered every 2 or 3 weeks at the Investigator's discretion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. \u2265 18 years old\n2. GBM and GBM variants, WHO Grade III anaplastic glioma diagnosis confirmed\n3. Radiologically confirmed recurrent and bi-dimensionally measurable disease per Response Assessment in Neuro-Oncology (RANO) criteria\n4. Neurologically stable\n5. For bevacizumab-refractory patients, radiologic demonstration of tumor progression during bevacizumab therapy\n6. Karnofsky performance status (KPS) \u2265 80\n7. Expected survival of at least 3 months\n\nExclusion Criteria:\n\n1. More than three relapses\n2. Previous ANG1005/GRN1005 treatment\n3. Radiotherapy within 3 months.\n4. Therapy with bevacizumab within 4 weeks prior to Day 1 of treatment for recurrent WHO grade III anaplastic glioma patients (Arm 3)\n5. Evidence of significant intracranial hemorrhage\n6. Previous taxane treatment\n7. Prior therapy with bevacizumab for bevacizumab-na\u00efve patients (Arm 1)\n8. NCI Common Toxicity Criteria for Adverse Effects (CTCAE) v4.0 Grade \u2265 2 neuropathy\n9. Inadequate bone marrow reserve\n10. Any evidence of severe or uncontrolled diseases\n11. Participants with the presence of an infection including abscess or fistulae, or known infection with hepatitis C or B or HIV\n12. Known severe hypersensitivity or allergy to paclitaxel or any of its components",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15323",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR) (Arms 1 and 3)",
+      "timeFrame": "Upon enrollment through end of study period (1 year after last patient is enrolled)",
+      "description": "To determine the radiologic ORR in bevacizumab-na\u00efve recurrent Glioblastoma multiforme (GBM) patients (Arm 1)and in recurrent anaplastic glioma World Health Organization (WHO) Grade III patients (Arm 3)"
+    },
+    {
+      "measure": "PFS3 (Arm 2)",
+      "timeFrame": "Upon enrollment through end of study period (1 year after last patient is enrolled)",
+      "description": "To determine the progression-free survival at 3 months (PFS3) in bevacizumab-refractory recurrent GBM patients (Arm 2)"
+    }
+  ],
+  "sponsor": "Angiochem Inc",
+  "collaborators": [],
+  "start_date": "2013-10",
+  "completion_date": "2017-09",
+  "last_updated": "2020-02-19"
+}

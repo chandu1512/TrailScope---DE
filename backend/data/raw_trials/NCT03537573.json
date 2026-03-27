@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT03537573",
+  "brief_title": "Provider-Targeted Behavioral Interventions to Prevent Unsafe Opioid Prescribing for Acute Pain in Primary Care",
+  "official_title": "Provider-Targeted Behavioral Interventions to Prevent Unsafe Opioid Prescribing for Acute Non-Cancer Pain in Primary Care",
+  "brief_summary": "The investigators will assess whether behavioral science-based interventions can \"nudge\" providers towards more evidence-based care for patients with acute non-cancer pain.\n\nAim 1) Among opioid na\u00efve primary care patients with acute non-cancer pain, compare the effect of the provider-targeted behavioral interventions (opioid justification and provider comparison), individually and in combination, on initial opioid prescription, initial use of non-opioid management, and patient-reported pain and function.\n\nAim 2) Compare the effect of the 2 provider-targeted behavioral interventions, individually and in combination, on unsafe opioid prescribing and transition to chronic opioid therapy.\n\nAim 3) Assess provider satisfaction and experience with the provider-targeted behavioral interventions.\n\nHypotheses:\n\nAim 1, H1a: Compared with the guideline (usual care) alone, the addition of the opioid justification and provider comparison behavioral interventions will be associated with a decreased proportion of opioid prescription and increased proportion of non-opioid management at the initial outpatient visit for acute non-cancer pain.\n\nAim 1, H1b: Compared with usual care (guideline) alone, the addition of the opioid justification and provider comparison behavioral interventions will be associated with no difference in patient-reported pain, function, and satisfaction at 1, 6, and 12 months.\n\nAim 2, H2: Compared with the usual care (guideline), the addition of opioid justification and provider comparison behavioral interventions will be associated with a decreased proportion of patients receiving unsafe opioid therapy and a decreased proportion of patients transitioning to chronic opioid therapy.\n\nStudy Design: Pragmatic, cluster-randomized clinical trial in 48 primary care clinics.\n\nStudy Population: The patient population will be 19,855 opioid na\u00efve adults who present to clinic with acute uncomplicated musculoskeletal pain or headache.\n\nPrimary and Secondary Outcomes: The primary outcome measures will be receipt of an initial opioid prescription and unsafe opioid prescribing. Secondary outcomes will be non-opioid pain management, and, in 514 patients, patient-reported pain and function.\n\nAnalytic Plan: The investigators will test for differences in the primary and secondary outcomes among the 4 intervention groups.\n\nOnce completed, the project will provide evidence that health systems and other stakeholders need to implement interventions to prevent unsafe opioid prescribing.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 22616,
+  "conditions": [
+    "Acute Pain",
+    "Headache",
+    "Musculoskeletal Pain"
+  ],
+  "interventions": [
+    {
+      "name": "Usual Care/Guideline",
+      "type": "BEHAVIORAL",
+      "description": "The Usual Care group (also known as the Guideline group) follows the recent CDC guidelines and, when triggered by an opioid prescription during a qualifying visit, will be delivered real-time in a short checklist of recommendations to: 1) check the state-specific Prescription Drug Monitoring Program; 2) assess risk factors for opioid-related harms (e.g., history of substance use disorder, history of mental health problems, benzodiazepine use); 3) avoid extended-release or long-acting opioids; 4) use a low dose of immediate-release opioid for short period of time (3-7 days); and 5) consider non-opioid management such as acetaminophen, non-steroidal anti-inflammatory agents (NSAIDS), and physical therapy. Epic EHR order sets will be linked to enable easing ordering of non-opioid therapy."
+    },
+    {
+      "name": "Opioid Justification",
+      "type": "BEHAVIORAL",
+      "description": "Providers will be required asked to enter a free text justification for their decision to prescribe an opioid analgesic for the acute pain condition. The provider will be notified that the justification provided will be visible in the Epic EHR. The provider has the option of entering a justification or not. If no justification is entered, nothing will be entered into the record (i.e., the Opioid Justification area in the encounter record will be left blank). The provider does not need to enter a justification if they choose to cancel the opioid prescription."
+    },
+    {
+      "name": "Provider Comparison",
+      "type": "BEHAVIORAL",
+      "description": "Providers will receive monthly feedback via e-mail on their status in regards to initial opioid prescriptions for acute pain, adherence to safe opioid prescribing guidelines, and proportion of patients started on opioids or acute pain who transition to chronic opioid therapy (\\> 3 months). Providers in the lowest decile overall for proportion of patients with initial opioid prescriptions, unsafe opioid prescribing, and transition to chronic opioid therapy (\\> 3 months) will be given positive feedback for providing high quality, evidence-based care to their patients with acute pain. Providers outside the lowest decile will be notified they are outside the high quality, evidence-based care range and will be provided with their proportions compared to the high performers."
+    }
+  ],
+  "eligibility": {
+    "criteria": "1. Patient Participants\n\n   Inclusion Criteria:\n   * Age 18 years or older; ii) index outpatient encounter with International Classification of Disease (ICD)-10 code for acute neck, back, or other musculoskeletal and headache diagnosis (\"acute\" defined as no similar diagnosis in past 3 months).\n\n   Exclusion Criteria:\n   * Cancer diagnosis (other than non-melanoma skin cancer)\n   * Receipt of opioid prescription within 12 months of index outpatient encounter\n2. Providers\n\nInclusion Criteria:\n\n* Primary care provider (MD, Doctor of Osteopathy (DO), Physician Assistant (PA), Nurse Practitioner (NP)) at participating practice\n\nExclusion Criteria:\n\n* None",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Community Medicine Incorporated",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Initial Opioid Prescription",
+      "timeFrame": "1 day (assessed on day of initial qualifying clinic visit",
+      "description": "Initial opioid prescription (yes/no) (Primary) (Hypothesis 1a). Opioid prescription at qualifying clinic visit, measured via electronic health record (EHR)."
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [
+    "Patient-Centered Outcomes Research Institute",
+    "Geisinger Clinic",
+    "University of Utah"
+  ],
+  "start_date": "2018-09-23",
+  "completion_date": "2021-02-28",
+  "last_updated": "2024-10-07"
+}

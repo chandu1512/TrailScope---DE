@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT02130700",
+  "brief_title": "Oral VT-464 in Patients With Castration-Resistant Prostate Cancer Previously Treated With Enzalutamide, Androgen Receptor Positive Triple-Negative Breast Cancer Patients, and Men With ER Positive Breast Cancer",
+  "official_title": "A Phase 2 Open-Label Study to Evaluate the Efficacy and Safety of VT-464 in Patients With Metastatic Castration Resistant Prostate Cancer Who Have Previously Been Treated With Enzalutamide, Androgen Receptor Positive Triple-Negative Breast Cancer Patients, and Men With ER Positive Breast Cancer",
+  "brief_summary": "The goal of this clinical study is to determine the safety and efficacy of VT-464, a lyase-selective inhibitor of CYP17, in patients with castration-resistant prostate cancer (CRPC) who have been previously treated with Enzalutamide, Androgen Receptor Positive Triple-Negative Breast Cancer Patients, and Men with ER positive Breast Cancer.",
+  "detailed_description": "This is a Phase 2 open-label study of VT-464 in patients with progressive, metastatic castration-resistant prostate cancer (mCRPC) who have been previously treated with enzalutamide, female patients with triple negative, AR positive breast cancer and men with ER positive breast cancer. The study consists of five cohorts: patients in Cohort 1 must have never received prior chemotherapy. Patients in Cohort 2 must have received at least one (and not more) prior course of chemotherapy for CRPC. Women with TNBC will be stratified into two cohorts AR 1 to 9% (cohort 3) and AR \\> 10% (cohort 4). Cohort 5 will consist of men who have been diagnosed with ER+ breast cancer and have failed at least one prior endocrine therapy.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 17,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "VT-464: given orally twice daily in 28-day cycles",
+      "type": "DRUG",
+      "description": "Oral VT-464 given twice daily, in continuous 28-day cycles at the recommended Phase 2 dose"
+    },
+    {
+      "name": "VT-464: given orally once daily in 28-day cycles",
+      "type": "DRUG",
+      "description": "Oral VT-464 given once daily, in continuous 28-day cycles at the recommended Phase 2 dose"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Eligibility Criteria:\n\n* Patients must have documented histological or cytological evidence of adenocarcinoma of the prostate.\n* Must have progressive, metastatic castration-resistant prostate cancer (mCRPC). There must be radiographic evidence of disease after primary treatment with surgery or radiotherapy that has continued to progress radiographically or biochemically (rising PSA levels on successive measurements) despite adequate androgen-deprivation therapy, which is defined as having undergone bilateral surgical castration or continued treatment on GnRH agonists or antagonists.\n* All patients in this trial must have been treated with enzalutamide.\n* Patients in Cohort 1 will not be allowed to have received prior chemotherapy; patients in Cohort 2 must have received one (and not more) prior course of chemotherapy for mCRPC.\n* Progression must be evidenced and documented by any of the following parameters:\n\n  * PSA progression defined by a minimum of two rising PSA levels with an interval of \u2265 1 week between each determination\n  * Appearance of one or more new lesions on bone scan\n  * Progressive measurable disease by RECIST 1.1",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health, National Cancer Institute",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "The change in PSA from baseline using waterfall plots in response to 12-weeks of treatment with VT-464",
+      "timeFrame": "12 weeks",
+      "description": "To determine the PSA response as defined by a \u2265 50% decrease in serum PSA per the Prostate Cancer Clinical Trials Working Group 2 criteria after each cycle and after 12 weeks of dosing with VT-464 compared to PSA level at baseline in patients who have been previously treated with enzalutamide."
+    },
+    {
+      "measure": "Progression-free survival using Kaplan-Meier curves",
+      "timeFrame": "8 months",
+      "description": "Kaplan-Meier curves of progression-free survival (PFS) will be constructed in each cohort and the median PFS will be determined and informally compared to any available results."
+    },
+    {
+      "measure": "Determine clinical benefit rate (CBR) as defined by complete response (CR), partial response (PR) or stable disease (SD) in women with androgen receptor (AR) positive, triple-negative breast cancer",
+      "timeFrame": "16 weeks",
+      "description": "Clinical benefit rate will be measured at designated timepoints as listed per protocol"
+    },
+    {
+      "measure": "Determine clinical benefit rate (CBR) as defined by complete response (CR), partial response (PR) or stable disease (SD) in women with androgen receptor (AR) positive, triple-negative breast cancer",
+      "timeFrame": "24 weeks",
+      "description": "Clinical benefit rate will be measured at designated timepoints as listed per protocol"
+    }
+  ],
+  "sponsor": "Innocrin Pharmaceutical",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2014-04",
+  "completion_date": "2017-11",
+  "last_updated": "2018-05-02"
+}

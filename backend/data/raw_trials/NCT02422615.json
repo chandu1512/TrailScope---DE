@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT02422615",
+  "brief_title": "Study of Efficacy and Safety of LEE011 in Men and Postmenopausal Women With Advanced Breast Cancer.",
+  "official_title": "A Randomized Double-blind, Placebo-controlled Study of Ribociclib in Combination With Fulvestrant for the Treatment of Men and Postmenopausal Women With Hormone Receptor Positive, HER2-negative, Advanced Breast Cancer Who Have Received no or Only One Line of Prior Endocrine Treatment",
+  "brief_summary": "The main aim of this study was to evaluate the efficacy and safety of adding ribociclib to fulvestrant in men and postmenopausal women with hormone receptor positive (HR+), HER2-negative advanced breast cancer.",
+  "detailed_description": "This study was a randomized, phase III, double-blind, placebo-controlled international trial aimed at determining the efficacy and safety of treatment with fulvestrant in combination with ribociclib compared to fulvestrant with placebo in men and postmenopausal women diagnosed with HR+, HER2-negative advanced breast cancer. The study comprised four phases: screening (up to 28 days), randomized treatment, post-treatment disease progression follow-up, and post-treatment survival follow-up.\n\nEnrolled participants were randomly assigned to receive either fulvestrant+ribociclib or fulvestrant+placebo in a ratio of 2:1. The randomization process was stratified based on the presence of liver and/or lung metastases (yes versus no) and prior endocrine therapy. Treatment was administered until disease progression, occurrence of unacceptable toxicity, or discontinuation from the study treatment for other reasons.\n\nParticipants who discontinued treatment due to reasons other than disease progression or withdrawal of consent for efficacy follow-up continued to be monitored until disease progression, death, withdrawal of consent, loss to follow-up, or subject/guardian decision.\n\nAll participants who discontinued treatment were followed for survival until the predetermined number of overall survival (OS) events was reached.\n\nA protocol amendment 4 (dated 29-Jan-2020) allowed for unblinding of study participants, and those still receiving placebo had the option to switch to the ribociclib arm. The decision for crossover was made at the investigator's discretion and required patient consent.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 726,
+  "conditions": [
+    "Advanced Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Ribociclib",
+      "type": "DRUG",
+      "description": "Ribociclib capsules were administered orally at a daily dose of 600mg for 21 consecutive days within a 28-day cycle."
+    },
+    {
+      "name": "Fulvestrant",
+      "type": "DRUG",
+      "description": "Fulvestrant was administered via intramuscular injections at a dose of 500mg every 28 days, starting on Day 1 of each cycle. In Cycle 1, an additional dose of Fulvestrant was given on Day 15."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Placebo capsules were administered orally for 21 consecutive days within a 28-day cycle."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n1. Patients were adults, both male and female, aged \u2265 18 years at the time of providing informed consent. Female patients were required to be postmenopausal. Informed consent was obtained prior to any trial-related activities, following local guidelines.\n2. Patients had a confirmed diagnosis of estrogen-receptor positive and/or progesterone receptor positive breast cancer, determined through histological and/or cytological examination by a local laboratory. Patients also had HER2-negative breast cancer.\n3. Patients had either measurable disease as per RECIST 1.1 criteria or at least one predominantly lytic bone lesion.\n4. Patients had advanced breast cancer, which included locoregionally recurrent disease not amenable to curative therapies (such as surgery or radiotherapy) or metastatic breast cancer. Patients fell into one of the following categories:\n\n   * Newly diagnosed with advanced/metastatic breast cancer and treatment-na\u00efve.\n   * Relapsed with documented evidence of relapse more than 12 months after completing (neo)adjuvant endocrine therapy, without any prior treatment for advanced/metastatic disease.\n   * Relapsed with documented evidence of relapse on or within 12 months from completing (neo)adjuvant endocrine therapy, without any prior treatment for advanced/metastatic disease.\n   * Relapsed with documented evidence of relapse more than 12 months after completing adjuvant endocrine therapy and subsequently progressed after receiving one line of endocrine therapy (antiestrogen or aromatase inhibitor) for advanced/metastatic disease.\n   * Newly diagnosed with advanced/metastatic breast cancer at diagnosis and progressed after receiving one line of endocrine therapy (antiestrogen or aromatase inhibitor), with documented evidence of progression.\n5. Patients had an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n6. Patients had adequate bone marrow and organ function.\n\nKey Exclusion Criteria:\n\nPatients with symptomatic visceral disease or disease burden that rendered them ineligible for endocrine therapy, based on the investigator's judgment.\n\n2\\. Patients who had received prior treatment with chemotherapy (except for neoadjuvant/adjuvant chemotherapy), fulvestrant, or any CDK4/6 inhibitor.\n\n3\\. Patients with inflammatory breast cancer at the screening stage. 4. Patients with central nervous system (CNS) involvement, unless they were at least 4 weeks from completing prior therapy before initiating the study treatment and had a stable CNS tumor at the time of screening. They were also required not to be receiving steroids and/or enzyme-inducing anti-epileptic medications for brain metastases.\n\n5\\. Patients with clinically significant, uncontrolled heart disease and/or cardiac repolarization abnormality.\n\n6\\. Patients who were currently receiving any of the following substances, which could not be discontinued 7 days prior to initiating treatment:\n\n* Known strong inducers or inhibitors of CYP3A4/5.\n* Substances with a known risk of prolonging the QT interval or inducing Torsades de Pointes.\n* Substances with a narrow therapeutic window and predominantly metabolized through CYP3A4/5.\n* Herbal preparations/medications, dietary supplements.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Meridian Health Systems Regulatory",
+      "city": "Neptune City",
+      "state": "New Jersey",
+      "zip": "07753",
+      "status": ""
+    },
+    {
+      "facility": "Penn State University Milton S Hershey Medical Center SC",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS) Per Investigator Assessment",
+      "timeFrame": "From randomization to first documented progression or death, assessed up to approximately 26 months",
+      "description": "PFS was defined as the period starting from the date of randomization to the date of the first documented progression or death caused by any reason. In cases where patients did not experience an event, the PFS was censored at the date of the last adequate tumor assessment. Clinical deterioration without objective radiological evidence was not considered as documented disease progression.\n\nPFS was assessed via local radiology assessment according to RECIST 1.1. The Kaplan-Meier method was used to estimate PFS, and the median PFS, along with 95% confidence intervals, was reported for each treatment group.\n\nThe distribution of PFS between the two arms was compared using a stratified log-rank test at a one-sided 2.5% level of significance. The PFS hazard ratio with two-sided 95% confidence interval was derived from the stratified Cox proportional hazards model."
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2015-06-09",
+  "completion_date": "2023-01-11",
+  "last_updated": "2023-11-02"
+}

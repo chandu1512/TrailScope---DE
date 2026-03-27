@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT06089954",
+  "brief_title": "Penn Medicine Biobank Return of Results Program",
+  "official_title": "A Randomized Study of Web Versus Genetic Counselor Return of Actionable Genetic Research Results to Biobank Participants",
+  "brief_summary": "The goal of this hybrid type 1 effectiveness-implementation study is to evaluate and compare different ways of delivering genetic research results to participants. The main questions the study aims to answer are:\n\n* Is sharing actionable genetic research results with participants through a multimedia patient-informed eHealth intervention (e.g. patient portal) no worse than sharing results by telephone or videoconference with a genetic counselor?\n* Will research participants access an eHealth educational intervention or chatbot education to learn about research results being offered and the option to decline learning their individual research results and how frequently participants choose to decline actionable research results?\n* Who benefits less and more from digital intervention with return of actionable research results and what barriers exist to using these tools for return of research results outside this study?\n\nParticipants in the biobank will be offered digital tools to learn about research results being offered and the option to decline receiving these results. Those who don't decline and have an actionable result will be randomly assigned to receive their results with a genetic counselor or through an eHealth portal. Participants will complete surveys before and after receipt of results to understand patient experiences with these methods of education and return of results to determine if digital tools can be used to help ensure more patients get access to research results which could impact their health.",
+  "detailed_description": "The scientific aims of the study are:\n\nAim 1 (Effectiveness of eHealth return of results): To evaluate in a randomized study whether disclosure of actionable genetic results by an eHealth intervention (eHealthROR) provides non-inferior short-term and longitudinal outcomes (knowledge, psychological distress, health and psychosocial behaviors and costs) compared to phone disclosure by a GC (e.g. usual care).\n\nAim 2 (eHealth education and assessing preferences): To evaluate: a) the uptake of supplemental eHealth (eHealthED) and chatbot education (chatED) among 1250 Penn Biobank research participants notified of the option to opt-out of receipt of actionable genetic research results; b) the frequency of opting-out of receipt of actionable genetic research results; and c) the impact of eHealthED/chatED use on opting out of receipt of results.\n\nAim 3 (Implementation): To conduct a multi-stakeholder mixed-methods process evaluation, to understand: a) potential moderators (e.g. intervention usage, sociodemographic factors, genetic test result) of short-term and longitudinal outcomes to understand who benefits more or less from eHealth/chatbot education and eHealth return of result; and b) facilitators and barriers to implementation of eHealth/chatbot interventions for return of actionable genetic research results and recommendations for future adaptation and sustainability.",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 2500,
+  "conditions": [
+    "Genetic Disease",
+    "Cancer",
+    "Cardiovascular Diseases"
+  ],
+  "interventions": [
+    {
+      "name": "private web-portal eHealth disclosure of genetic results",
+      "type": "OTHER",
+      "description": "The intervention involves delivering actionable genetic research results to participants via a secure, private web-portal."
+    },
+    {
+      "name": "eHealth education intervention (web or chatbot)",
+      "type": "OTHER",
+      "description": "The intervention involves pre-disclosure education via an eHealth intervention (web or chatbot). The intervention will review the types of actionable results being returned, the method of return, the differences between research and clinical testing, the need for confirmation testing and the benefits, risks and limitations of receiving actionable genetic research results and study steps and procedures."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Potential subjects will include select individuals who participated in Penn Medicine Biobank, Institutional Review Board (IRB) protocol number 813913.\n* English speaking\n* Age 18 years or older\n* Have an actionable genetic mutation (See Appendix A) or have been selected as a control participant\n* Agreed to be re-contacted in the future or were not provided the opportunity to indicate a preference\n\nExclusion Criteria:\n\n* Deceased assessed by electronic medical record, death index or identified after contact\n* Evidence in the clinical record that the subject has already received the same actionable result through clinical genetic testing",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Understanding of Genetic Information",
+      "timeFrame": "at baseline, and at 2-7 days and 6 months after disclosure of research results",
+      "description": "Will be evaluated using an adapted version of the Know Gene Scale, a 16-item assessment administered to patients after genetic testing and/or genetic counseling to measure their understanding of the health implications of genetic testing results. The scale uses three responses, Agree, Disagree, and Don't Know, as response to a statement about genetics. Final scores range from 0-16, with a higher score indicating a better outcome for knowledge."
+    },
+    {
+      "measure": "Reactions to Genomic Information",
+      "timeFrame": "at baseline, and at 2-7 days and 6 months after disclosure of research results",
+      "description": "Will be measured using an 8-item version of the Revised Impact of Events Scale (RIES). The RIES has been utilized to assess response to disease-related stressors, such as being at genetic risk. The scale uses a minimum of 0 to maximum of 5 to rate each item. Final total scores range from 0 to 40, with higher scores meaning a worse outcome."
+    },
+    {
+      "measure": "Behavioral Use of Genomic Information",
+      "timeFrame": "at baseline, and at 2-7 days and 6 months after disclosure of research results",
+      "description": "Risk-reducing behaviors intention and performance will be assessed with close-ended and open-ended items depending on the specific gene. General health status and risk modifying behaviors will also be assessed."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "Fox Chase Cancer Center",
+    "Columbia University",
+    "Thomas Jefferson University"
+  ],
+  "start_date": "2023-10-20",
+  "completion_date": "2026-08-31",
+  "last_updated": "2026-03-20"
+}

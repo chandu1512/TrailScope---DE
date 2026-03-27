@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT01818440",
+  "brief_title": "Fluoroscopy or 3-D Roadmap Imaging Software for Liver Tumor Treatment",
+  "official_title": "Prospective Randomized Trial Comparing Navigation With 3D Roadmap vs. Conventional Angiography During Transarterial Embolization",
+  "brief_summary": "Background:\n\n\\- Researchers are interested in comparing two methods that doctors can use to position catheters in blood vessels. These methods are used to deliver chemotherapy and close the blood supply to a tumor. The methods are the standard method called fluoroscopy and a new way called 3-D Roadmap. The 3-D Roadmap software uses computed tomography (CT) images to help the doctor choose the best position for the catheter to get to the tumor. The computer shows the route on an x-ray screen in real time. This technique may help doctors position the catheter with less x-ray dye and in a shorter time. These methods will be compared in people who are having a procedure to destroy liver tumors. The procedure, called trans-arterial embolization, will deliver chemotherapy and destroy the tumor blood supply.\n\nObjectives:\n\n\\- To compare the effectiveness of fluoroscopy or 3-D Roadmap software for liver tumor treatment.\n\nEligibility:\n\n\\- Individuals at least 18 years of age who are having trans-arterial embolization for liver cancer.\n\nDesign:\n\n* Participants will be screened with a physical exam and medical history. They will provide blood and urine samples, and have imaging studies.\n* Participants will be divided into two groups. One group will have regular fluoroscopy (X-ray) during the procedure. The other group will have the procedure with the 3-D Roadmap software.\n* In the first group, participants will have a CT scan. The doctor will decide how many vessels need to be treated. The doctor will advance the catheter using fluoroscopy only. Another CT scan will be given after the procedure.\n* In the second group, participants will have a CT scan. The doctor will look at the scan with the 3-D Roadmap software. The software will show the path to advance the catheter. The doctor will use the software to help destroy the tumors. Another CT scan will be given after the procedure.\n* Both groups will have the same follow-up care afterward. Other tests will be given as needed for the cancer treatment.",
+  "detailed_description": "Background:\n\nThis is a phase II prospective randomized trial comparing novel tumor segmentation and navigation with 3D roadmap vs. conventional imaging with angiography during trans-arterial embolization procedures. Cone beam CT (CBCT) obtains CT-like images in the angiography suite during trans-arterial chemoembolization procedures and liver chemo-perfusion (PHP). In addition, 2D liver perfusion metrics can be calculated from angiography images. 3D Roadmap is a navigation tool/ software that utilize the data from the CBCT overlaid on live fluoroscopy to display a segmented tumor, delineate its vascular supply and to navigate catheters to the target vessels. Moreover, with 3D Roadmap, CBCT can be fused to prior CT or MRI for improved target visualization. The 3D Roadmap software received 510 (k) clearance on February 19, 2004. Our CRADA partner, Philips Healthcare, also submitted and received a separate 510 (k) clearance on January 30, 2015 for the software s vessel segmentation functionality and is under the trade name Emboguide. 3D Roadmap/ Emboguide software is intended to be used in combination with the AlluraClarity X-ray system.\n\nPrimary Objective:\n\nTo compare safety, and technical efficiency of navigation with 3D Roadmap vs. conventional image guidance during trans-arterial embolization procedures.\n\nEligibility:\n\nSubjects are eligible if:\n\n* They are more than 18 years of age\n* They have primary or metastatic hepatic tumors scheduled for trans-arterial chemo- embolization or bland embolization in interventional radiology\n* They are eligible for trans-arterial chemoembolization or bland embolization\n\nSubjects are excluded if they have:\n\n* An altered mental status precluding understanding or consenting for the procedure\n* Contra-indications to trans-arterial embolization\n* A gross body weight exceeding 375 pounds (upper limit of angio table)\n* A pregnancy\n* A severe allergic reaction to iodine contrast which cannot be controlled by premedication with antihistamines and steroids\n\nDesign:\n\n* Number of Participants: 30\n* Recruitment Time Frame: 2 years\n* Number of sites: 1\n* Type of Study: prospective randomized clinical trial",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 28,
+  "conditions": [
+    "Image-Guided Surgery"
+  ],
+  "interventions": [
+    {
+      "name": "3D Roadmap software",
+      "type": "OTHER",
+      "description": "Two scanning methods will be used by doctors to position catheters in the blood vessels to deliver the chemotherapy and close the blood supply to the tumor."
+    },
+    {
+      "name": "Fluoroscopy",
+      "type": "OTHER",
+      "description": "Patients will have the procedure performed with regular fluoroscopy (X-ray). Regular fluoroscopy is the standard method."
+    }
+  ],
+  "eligibility": {
+    "criteria": "* INCLUSION CRITERIA:\n\n  1. Patients must have primary or metastatic hepatic tumors scheduled for trans-arterial chemo-embolization or bland embolization in interventional radiology. A multi-disciplinary team including oncology, surgery, pathology and radiation oncology as well as interventional radiology will review each candidate and determine the eligibility for TACE or bland embolization and ineligibility for other interventions.\n  2. Age \\>18 years\n  3. They must be eligible for trans-arterial chemoembolization or bland embolization\n\nEXCLUSION CRITERIA:\n\n1. Patients with an altered mental status precluding understanding or consenting for the procedure\n2. History of allergic reactions to iodine contrast, which cannot be controlled by premedication with antihistamines and steroids.\n3. Pregnant women are excluded from the study because ionizing radiation is teratogenic or abortifacient effects. Patients are excluded from pregnancy testing if they are above the childbearing age of 55 years old, or if they have documented history of infertility or acquired or congenital disorders incompatible with pregnancy or if the patient has had a hysterectomy or bilateral oophorectomy. Patients are also excluded from pregnancy testing if they are at least 50 years of age AND have not menstruated for at least 12 months OR have a documented Follicle Stimulating Hormone (FSH) level of greater than 40 mIU/mL.\n4. Patients with a total body weight exceeding 375 pounds since that is the weight limit of the angiography table.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health Clinical Center, 9000 Rockville Pike",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To compare safety, efficacy, and technical efficiency of navigation with 3D Roadmap vs. conventional image guidance during trans-arterial embolization procedures.",
+      "timeFrame": "2 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "National Institutes of Health Clinical Center (CC)",
+  "collaborators": [],
+  "start_date": "2013-03-21",
+  "completion_date": "2018-08-22",
+  "last_updated": "2018-08-29"
+}

@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT06402201",
+  "brief_title": "First in Human Study of CDR404 in HLA-A*02:01 Participants With MAGE-A4 Expressing Solid Tumors",
+  "official_title": "Phase 1, First-in-Human Study to Assess the Safety, Tolerability and Anti-tumor Activity of CDR404 in HLA-A*02:01 Participants With MAGE-A4 Expressing Solid Tumors",
+  "brief_summary": "CDR404 is a highly potent and specific T-cell engaging bispecific and bivalent antibody designed for the treatment of cancers positive for the tumor-associated antigen melanoma-associated antigen 4 (MAGE-A4). This is a first-in-human study designed to evaluate the safety, tolerability, and preliminary anti-tumor activity of CDR404 in adult patients who have the appropriate germline human leukocyte antigen HLA-A\\*02:01 tissue marker and whose cancer is positive for MAGE-A4.",
+  "detailed_description": "The CDR404-001 Phase 1 study will enrol patients with locally advanced, unresectable or metastatic tumors expressing MAGE-A4, which include advanced solid tumors, and will be conducted in multiple phases:\n\n1. To identify the maximum tolerated dose (MTD) and pharmacologically effective dose range (PEDR) for CDR404\n2. To assess preliminary evidence of anti-tumor activity of CDR404\n3. To characterise the pharmacokinetics of CDR404\n4. To characterise the immunogenicity of CDR404\n5. To assess translational biomarkers",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 42,
+  "conditions": [
+    "Select Advanced Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "CDR404",
+      "type": "BIOLOGICAL",
+      "description": "IV infusions"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Provision of written informed consent\n2. HLA-A\\*02:01 positive\n3. MAGE-A4 positive tumor\n4. Eastern Cooperative Oncology Group (ECOG) performance status (PS) \\[ECOG PS\\] 0 or 1\n5. Selected advanced solid tumors\n6. Relapsed from, refractory to, or intolerant of standard therapy\n7. Measurable disease per RECIST v1.1\n8. Adequate organ function\n9. If applicable, must agree to use highly effective contraception\n\nExclusion Criteria:\n\n1. Symptomatic or untreated central nervous system metastasis\n2. Inadequate washout from prior anticancer therapy\n3. Significant ongoing toxicity from prior anticancer treatment\n4. Recent surgery\n5. Clinically significant cardiac disease\n6. Active infection requiring systemic antibiotic treatment\n7. Human immunodeficiency virus (HIV) at risk of acquired immunodeficiency syndrome (AIDS)-related outcomes\n8. Active hepatitis B virus (HBV) or hepatitis C virus (HBC)\n9. Ongoing treatment with systemic steroids or other immunosuppressive therapies\n10. Significant secondary malignancy\n11. History of chronic or recurrent active autoimmune disease requiring treatment\n12. Uncontrolled intercurrent illness\n13. Pregnancy or lactation.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pennsylvania Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19106",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Presence of dose limiting toxicities (DLTs)",
+      "timeFrame": "From first dose to DLT period (21 days)",
+      "description": "per Protocol"
+    },
+    {
+      "measure": "Incidence and severity of (serious) adverse events ([S]AEs)",
+      "timeFrame": "From first dose to 90 days after the last dose",
+      "description": "AEs, SAEs"
+    },
+    {
+      "measure": "Anti-tumor response: Overall Response Rate (ORR)",
+      "timeFrame": "From first dose until date of first documented progression or date of death from any cause, whichever comes first, assessed up to 100 months",
+      "description": "per RECIST 1.1"
+    }
+  ],
+  "sponsor": "CDR-Life AG",
+  "collaborators": [],
+  "start_date": "2024-05-24",
+  "completion_date": "2027-12-31",
+  "last_updated": "2026-02-26"
+}

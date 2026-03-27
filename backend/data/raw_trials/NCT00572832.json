@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT00572832",
+  "brief_title": "Randomized Trial of Alternative Quadrivalent Human Papilloma Virus (HPV) Vaccination Schedules in a University Setting",
+  "official_title": "Randomized Trial of Alternative Quadrivalent Human Papilloma Virus (HPV) Vaccination Schedules in a University Setting",
+  "brief_summary": "This is a randomized, open label trial of HPV (human papilloma virus) vaccine, comparing an on-time administration of the third dose with delayed administration of the third dose. All participants would receive the first and second doses according to schedule. They would be randomized to either vaccine at 6 months or vaccine at 12 months.\n\nBlood will be drawn for titers twice from all participants: pre-dose 1 and one month post third dose. We hypothesize that the GMTs in the test group (T) are non-inferior to the usual timing control group (C):\n\nH0: \u03b4 \u2264 -\u03b40 versus H1: \u03b4 \\> -\u03b40 where \u03b4 = log (GMTT )- log (GMTC) and \u03b40 is the pre-specified non-inferiority margin.",
+  "detailed_description": "The recommendations for HPV vaccine include catch-up of women 18 to 26 years old. Given that a large percentage of women in this age group are attending college, a good place to access them would be through the student health services on college campuses. However, the HPV vaccine schedule of 0, 2, and 6 months is likely to be difficult to implement in a college calendar year and the immunogenicity of alternative schedules is unknown. If the immunogenicity of an altered schedule is good, then higher vaccination rates may be achievable.\n\nAims:\n\n1. Determine if delay in the third dose is immunologically non-inferior to the standard administration schedule (1 month post-dose 3).\n2. Determine the side effect profile of a delayed third dose, in comparison to the standard schedule",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "Human Papillomavirus Infection"
+  ],
+  "interventions": [
+    {
+      "name": "Quadrivalent human papillomavirus vaccine on-time administration",
+      "type": "BIOLOGICAL",
+      "description": "The vaccine is given in three doses: Dose 1; dose 2 given 60 days later; dose 3 given six months after dose 1."
+    },
+    {
+      "name": "Quadrivalent human papillomavirus vaccine delayed administration",
+      "type": "BIOLOGICAL",
+      "description": "The vaccine is given in three doses: Dose 1; dose 2 given 60 days later; dose 3 given 12 months after dose 1."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 18-23 year old college females who are planning to return to the university for the next fall semester.\n\nExclusion Criteria:\n\n* Pregnancy or planned pregnancy.\n* Prior receipt of HPV vaccine.\n* Greater than four lifetime sexual partners.\n* Immunosuppression.\n* Anti-coagulant therapy.\n* Breastfeeding.\n* History of abnormal pap smear.\n* Allergy to vaccine components.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "23 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Geometric Mean Antibody Titers Following the Third Dose of Human Papilloma Virus (HPV) Vaccine by Virus Type and by Administration Schedule",
+      "timeFrame": "1 month post-dose 3 (i.e., 7 months for standard schedule and 13 months for alternative schedule)",
+      "description": "Geomtric mean antibody titers were assessed 1 month following the third dose of human papilloma virus vaccine. Persons with baseline antibody titers that were positive to a particular type were deleted from the analysis for that particular type so that the outcome is excludes those with baseline positives (thus, sample size varies by type). Responses were compared between the two groups after dose 3 by type."
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2007-09",
+  "completion_date": "2009-08",
+  "last_updated": "2010-08-11"
+}

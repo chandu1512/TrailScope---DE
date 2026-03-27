@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT03036098",
+  "brief_title": "Study of Nivolumab in Combination With Ipilimumab or Standard of Care Chemotherapy Compared to the Standard of Care Chemotherapy Alone in Treatment of Participants With Untreated Inoperable or Metastatic Urothelial Cancer",
+  "official_title": "A Phase 3, Open-label, Randomized Study of Nivolumab Combined With Ipilimumab, or With Standard of Care Chemotherapy, Versus Standard of Care Chemotherapy in Participants With Previously Untreated Unresectable or Metastatic Urothelial Cancer",
+  "brief_summary": "The purpose of this study is to determine whether an investigational immunotherapy nivolumab in combination with ipilimumab or in combination with standard of care chemotherapy is more effective than standard of care chemotherapy alone in treating participants with previously untreated inoperable or metastatic urothelial cancer.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1314,
+  "conditions": [
+    "Urothelial Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified Dose on Specified Days"
+    },
+    {
+      "name": "Ipilimumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified Dose on Specified Days"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Specified Dose on Specified Days"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Specified Dose on Specified Days"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Specified Dose on Specified Days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histological or cytological evidence of metastatic or surgically inoperable transitional cell cancer (TCC) of the urothelium involving the renal pelvis, ureter, bladder or urethra\n* No prior systemic chemotherapy for metastatic or surgically inoperable urothelial cancer (UC)\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1\n* Women and men must agree to follow specific methods of contraception, if applicable\n\nExclusion Criteria:\n\n* Disease that is suitable for local therapy administered with curative intent\n* Any serious or uncontrolled medical disorder in the opinion of the investigator that may increase the risk associated with study participation or study drug administration or interfere with the interpretation of study results\n* Prior treatment with an anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti-CTLA-4 antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0013",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS) in Cisplatin-ineligible Randomized Participants for Primary Study",
+      "timeFrame": "From the date of randomization to the date of death from any cause, or data cut-off date, whichever occurred first (up to approximately 89 months)",
+      "description": "This measure looks at how long participants who cannot receive cisplatin (a type of chemotherapy) live after being placed into a treatment group in the primary study.\n\nOverall Survival (OS) is defined as the time between the date a participant is randomized (assigned to a treatment group) and the date of death from any cause. For participants without documentation of death, OS will be measured up to the last date the participant was known to be alive. If a participant was randomized but had no follow-up information, OS will be counted from the date of randomization.\n\nThis helps to understand if the treatment can help people who are unable to receive cisplatin chemotherapy live longer."
+    },
+    {
+      "measure": "Overall Survival (OS) in Programmed Death-Ligand 1 (PD-L1) Positive (\u2265 1%) Randomized Participants by Immunohistochemistry (IHC) for Primary Study",
+      "timeFrame": "From the date of randomization to the date of death from any cause, or data cut-off date, whichever occurred first (up to approximately 89 months)",
+      "description": "This measure looks at how long participants with PD-L1 positive tumors (meaning their tumor cells have at least 1% PD-L1, as determined by a laboratory test called immunohistochemistry or IHC) live after being placed into a treatment group in the primary study.\n\nOverall Survival (OS) is defined as the time between the date a participant is randomized (assigned to a treatment group) and the date of death from any cause. For participants without documentation of death, OS will be measured up to the last date the participant was known to be alive. If a participant was randomized but had no follow-up information, OS will be counted from the date of randomization.\n\nThis helps to understand whether the treatment can help people with PD-L1 positive tumors live longer."
+    },
+    {
+      "measure": "Progression-Free Survival (PFS) by Blinded Independent Central Review (BICR) [Using Response Evaluation Criteria in Solid Tumors (RECIST) 1.1] in Cisplatin-eligible Participants for Sub-study",
+      "timeFrame": "From the date of randomization to the date of first documented disease progression or death due to any cause, whichever occurs first (up to approximately 89 months)",
+      "description": "This measure looks at how long people who can receive cisplatin chemotherapy live without their cancer getting worse after being assigned to a treatment group in the sub-study. Progression-Free Survival (PFS) is the time from when a participant is assigned to a group (randomization) until their cancer is first shown to get worse (progress), based on reviews by independent experts who do not know which treatment was given. These experts use standard rules (RECIST 1.1) to decide if the cancer has progressed. If a participant dies before their cancer is shown to get worse, the date of death will be used as the time their disease progressed. If a participant's cancer does not get worse and they do not die during the study, their PFS will be measured up to the date of their last tumor check. This helps to understand if the treatment helps people eligible for cisplatin live longer without their cancer progressing."
+    },
+    {
+      "measure": "Overall Survival (OS) in Cisplatin-eligible Participants for Sub-study",
+      "timeFrame": "From the date of randomization to the date of death from any cause, or data cut-off date, whichever occurred first (up to approximately 89 months)",
+      "description": "This measure looks at how long people who are able to receive cisplatin (a type of chemotherapy) live after being placed into a treatment group in the sub-study.\n\nOverall Survival (OS) is defined as the time between the date a participant is randomized (assigned to a treatment group) and the date of death from any cause. For participants without documentation of death, OS will be measured up to the last date the participant was known to be alive. If a participant was randomized but had no follow-up information, OS will be counted from the date of randomization.\n\nThis helps to understand if the treatment can help people who are eligible for cisplatin chemotherapy live longer."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "Ono Pharmaceutical Co. Ltd"
+  ],
+  "start_date": "2017-03-24",
+  "completion_date": "2026-05-15",
+  "last_updated": "2026-02-22"
+}

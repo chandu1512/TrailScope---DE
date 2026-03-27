@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT04548765",
+  "brief_title": "Evaluation of Letters Promoting Colorectal Cancer Testing",
+  "official_title": "Evaluation of Letters Enhanced With Behavioral Nudges to Promote Colorectal Cancer Testing Through Fecal Immunochemical Tests or Colonoscopies",
+  "brief_summary": "In this evaluation, 4 different versions of letters are being sent with mailers promoting colorectal cancer screening with an at-home test. The researchers hypothesize that the use of behavioral nudges in the message should lead to increased colorectal cancer screening (either with the at-home test or a colonoscopy).",
+  "detailed_description": "Colorectal cancer (CRC) is the third most common cancer diagnosed in the US. Mailing fecal immunochemical (FIT) kits to at-risk patients is an effective way of increasing CRC testing uptake, as this test can be done at home and is less intrusive compared to colonoscopies. As part of an existing program, the health system mails FIT kits to eligible patients each year. Although this test needs to be conducted annually, not everyone who receives the test kit returns the kits for processing. In this study, the researchers aim to test different letters with the goal of encouraging the use of FIT kits or scheduling a colonoscopy.\n\nAs part of this study, the kits are mailed with everything the patient will need to conduct the test at home and mail a sample back to the hospital. It also includes an introductory letter informing the patient about the program and inviting them to use the kit. The researchers are comparing a standard version of the introductory letter against 3 versions that include different combinations of behavioral nudges, specifically framing effects (loss, default, decoy) and fear appeals.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 14644,
+  "conditions": [
+    "Cancer Colorectal"
+  ],
+  "interventions": [
+    {
+      "name": "Letter",
+      "type": "BEHAVIORAL",
+      "description": "Recipients receive a letter promoting CRC screening."
+    },
+    {
+      "name": "Loss Frame and Fear Appeals",
+      "type": "BEHAVIORAL",
+      "description": "The letter is enhanced with language that frames the situation in terms of losses. It also uses fear appeals by showing the risks of colorectal cancer, while also showing that screening is an achievable means to address those risks."
+    },
+    {
+      "name": "Transparency",
+      "type": "BEHAVIORAL",
+      "description": "The letter explains why the kit was sent, which makes the purposes of the mailing clear to the recipient."
+    },
+    {
+      "name": "Default Effect and Presentation of Alternatives",
+      "type": "BEHAVIORAL",
+      "description": "The pros and cons for screening with FIT kits and colonoscopy are presented. By showing an additional option, the table frames the FIT kit as the default option (since they are included in the mailer). In this situation, inaction is no longer the default option. Changing the default option increases the chance that the FIT kit is used. In addition, another viable alternative is provided (colonoscopy), which still contributes to the goal of the project (getting screened)."
+    },
+    {
+      "name": "Enhanced Fear Appeals and Decoy Effect",
+      "type": "BEHAVIORAL",
+      "description": "Comparisons of the mortality rates between screening with FIT kits, colonoscopy, and inaction (waiting for symptoms to appear) are displayed. Inaction is presented as a decoy, which has worse outcomes than either of the screening options. Due to this contrast, the inclusion of the decoy increases the appeal of the other screening options."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Enrollment in Medicare Health Maintenance Organization (HMO) and Preferred Provider Organization (PPO; age 65 and older) or Commercial HMO in one large employer's group\n* Has a flag indicating that the person is due for a colon cancer screening\n\nExclusion Criteria:\n\n\\- Members who are on the do not contact list at Geisinger Health Plan",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Geisinger",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "FIT Kit Return at 6 months",
+      "timeFrame": "6 months from intervention start date",
+      "description": "Binary variable indicating whether a valid FIT kit was returned for testing"
+    },
+    {
+      "measure": "Colonoscopy Ordered at 6 months",
+      "timeFrame": "6 months from intervention start date",
+      "description": "Binary variable indicating whether a colonoscopy was ordered"
+    }
+  ],
+  "sponsor": "Geisinger Clinic",
+  "collaborators": [],
+  "start_date": "2020-07-24",
+  "completion_date": "2021-07-23",
+  "last_updated": "2021-09-22"
+}

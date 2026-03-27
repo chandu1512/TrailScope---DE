@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT05318573",
+  "brief_title": "A Study to Evaluate Safety, Efficacy of FF-10832 in Combo With Pembrolizumab in Urothelial & Non-small Cell Lung Cancer",
+  "official_title": "A Phase 2a Study With Safety Run-in to Evaluate the Safety, Tolerability, and Preliminary Efficacy of FF-10832 Monotherapy or in Combination With Pembrolizumab in Patients With Advanced Solid Tumors",
+  "brief_summary": "To confirm a recommended Phase 2 dose (RP2D) of FF-10832 (Gemcitabine Liposome Injection) given intravenously Day 1 of a 21-day cycle, in combination with 200 mg pembrolizumab given intravenously Day 1 of the same 21-day cycle, for treatment of advanced urothelial and non-small cell lung cancer",
+  "detailed_description": "This is a Phase 2a, open label clinical trial evaluating FF-10832 in combination with pembrolizumab and as monotherapy. The trial will begin with a safety run-in phase of 10 patients receiving combination therapy with pembrolizumab; FF 10832 will be dosed at 40 mg/m2 with a fixed dose of pembrolizumab (200 mg).\n\nAfter confirmation of the appropriate FF-10832 dose for use with pembrolizumab, the trial will enroll up to an additional 100 patients in 2 cohorts (urothelial cancer \\[UC\\] and non-small cell lung cancer \\[NSCLC\\]) into 4 separate expansion treatment arms (approximately 25 patients in each treatment arm). The disease-defined cohorts will be patients who have progressed on PD-1/PD-L1 therapy who have UC or NSCLC.\n\nThe UC cohort will be randomized (1:1) to one of two treatment arms (monotherapy or combination therapy) and the NSCLC cohort will be randomized (1:1) to one of two treatment arms (monotherapy or combination therapy), to further establish safety and gain preliminary information on antitumor activity of FF-10832 as monotherapy or in combination with pembrolizumab.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 120,
+  "conditions": [
+    "Advanced Urothelial Carcinoma",
+    "Advanced Non Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Treatment at 200 mg pembrolizumab, administered intravenously (IV) on Day 1 of each 21-day cycle prior to infusion of FF-10832"
+    },
+    {
+      "name": "FF-10832",
+      "type": "DRUG",
+      "description": "Following administration of pembrolizumab, FF-10832 Gemcitabine Liposome Injection, 40 mg/m2 administered intravenously (IV) on Day 1 of each 21-day cycle"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Written informed consent is provided by patient or legally acceptable representative;\n2. Age \u2265 18 years;\n3. Patient populations:\n\n   1. In the Safety Run-in, patients with histologically or cytologically confirmed advanced or metastatic solid tumors who have disease progression after treatment with standard therapies for metastatic disease that are known to confer clinical benefit, or are intolerant to treatment or refuse standard treatment will be enrolled in therapy\n   2. In Expansion Phase, patient must have urothelial or NSCLC, and have failed prior anti-PD-1 or anti-PD-L1\n4. Have measurable disease per RECIST 1.1 as assessed by the local site investigator/radiology\n5. Eastern Cooperative Oncology Group performance status of 0 to 1\n6. Life expectancy of \u2265 3 months\n\nExclusion Criteria:\n\n1. Positive urine pregnancy test within 72 hours prior to treatment\n2. Has received prior systemic anti-cancer therapy including investigational agents within 4 weeks (or 5 half-lives, whichever is shorter) prior to treatment;\n3. Has received prior therapy with an anti-PD-1, anti-PD-L1, or anti PD-L2 agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (e.g., CTLA-4, OX 40, CD137), AND was discontinued from that treatment due to a Grade 3 or higher immune-related adverse event;\n4. Has received prior radiotherapy within 2 weeks of start of study treatment.\n5. For patients with NSCLC:\n\n   1. Patients who have received radiation therapy to the lung that is \\>30 Gy within 6 months of the first dose of trial treatment are excluded;\n   2. Patients with mutations (e.g., EGFR mutations or ALK gene rearrangements) will be excluded unless they have been previously treated with all specific targeted therapies.\n6. Has received a live or live-attenuated vaccine within 30 days prior to the first dose of study intervention.\n7. Has had an allogeneic tissue /solid organ transplant.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Atlantic Health System / Morristown Medical Center",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    },
+    {
+      "facility": "Hospital of the Univ of Pennsylvania Perlman Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Determine the incidence of Treament Emergent Adverse Events (TEAE)",
+      "timeFrame": "7 years",
+      "description": "Safety and tolerability assessed by adverse events (AEs) and serious adverse events (SAEs) and to confirm dose (RP2D) of FF-10832 given intravenously Day 1 of a 21 day cycle, in combination with 200 mg pembrolizumab, given intravenously Day 1 of the same 21-day cycle, for treatment of advanced solid tumors."
+    },
+    {
+      "measure": "Duration of Stable Disease in Monotherapy",
+      "timeFrame": "7 years",
+      "description": "To obtain a preliminary estimate of efficacy of FF-10832 monotherapy in expansion cohorts of patients with urothelial cancer (UC) and non-small cell lung cancer (NSCLC). Duration of Stable Disease is the length of time from the start of the treatment until the criteria for progression are met"
+    },
+    {
+      "measure": "Duration of Stable Disease in Combination Therapy",
+      "timeFrame": "7 years",
+      "description": "To obtain a preliminary estimate of efficacy of the combination in expansion cohorts of patients with UC and NSCLC. Duration of Stable Disease is the length of time from the start of the treatment until the criteria for progression"
+    }
+  ],
+  "sponsor": "Fujifilm Pharmaceuticals U.S.A., Inc.",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2022-06-01",
+  "completion_date": "2029-11",
+  "last_updated": "2025-09-02"
+}

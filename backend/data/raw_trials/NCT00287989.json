@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT00287989",
+  "brief_title": "Erlotinib, Paclitaxel, and Carboplatin in Treating Patients With Stage III, Stage IV, or Recurrent Non-Small Cell Lung Cancer",
+  "official_title": "A Randomized Phase II Trial Comparing Two Doses of Pulsed Erlotinib Prechemotherapy (PEP-C) in Patients With Stage IIIB or Stage IV Non-Small Cell Lung Cancer",
+  "brief_summary": "RATIONALE: Erlotinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving erlotinib together with paclitaxel and carboplatin may kill more tumor cells.\n\nPURPOSE: This randomized phase II trial is studying two different doses of erlotinib when given together with paclitaxel and carboplatin to compare how well they work in treating patients with stage III, stage IV, or recurrent non-small cell lung cancer.",
+  "detailed_description": "OBJECTIVES:\n\n* Compare the major objective response (complete and partial response) rates in patients with stage IIIB or IV or recurrent non-small cell lung cancer treated with high- versus low-dose erlotinib hydrochloride combined with paclitaxel and carboplatin.\n* Compare the duration of response, time to progression, and survival of patients treated with these regimens.\n* Characterize and compare the toxicities of these regimens.\n* Determine the recommended phase III dose of erlotinib hydrochloride.\n\nOUTLINE: This is a randomized, open-label, multicenter study. Patients are stratified according to gender. Patients are randomized to 1 of 2 treatment arms.\n\n* Arm I: Patients receive oral high-dose erlotinib hydrochloride on days 1 and 2. Patients also receive paclitaxel IV over 3 hours followed by carboplatin IV over 30 minutes on day 3.\n* Arm II: Patients receive oral low-dose erlotinib hydrochloride, paclitaxel, and carboplatin as in arm I.\n\nIn both arms, treatment repeats every 21 days for 6 courses in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed periodically.\n\nPROJECTED ACCRUAL: A total of 58 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 86,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "erlotinib hydrochloride",
+      "type": "DRUG",
+      "description": "150mg"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "200mg/m2"
+    },
+    {
+      "name": "erlotinib hydrochloride",
+      "type": "DRUG",
+      "description": "1500mg"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Pathologically confirmed non-small cell lung cancer\n\n  * Stage IIIB or IV or recurrent disease\n* Measurable or evaluable indicator lesions\n* Must have smoked \u2265 100 cigarettes in his/her lifetime\n\nPATIENT CHARACTERISTICS:\n\n* Karnofsky performance status 70-100%\n* WBC \u2265 4,000/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Creatinine \u2264 1.5 mg/dL OR creatinine clearance \u2265 50 mL/min\n* Bilirubin \u2264 1.0 mg/dL\n* AST \u2264 2.5 times upper limit of normal (ULN)\n* Alkaline phosphatase \u2264 2.5 times ULN\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for \u2265 1 week after completion of study treatment\n* No gastrointestinal tract disease or inability to take oral medication\n* No prior malignancy within the past 2 years except nonmelanoma skin cancer or carcinoma in situ of the cervix\n* No other active medical problems, including severe infection, unstable angina, or myocardial infarction within the past 6 months\n* No poorly controlled hypertension or severe malnutrition\n* No New York Heart Association class III or IV congestive heart failure or serious cardiac arrhythmia requiring medication except chronic atrial arrhythmia (i.e., atrial fibrillation or paroxysmal supraventricular tachycardia)\n\nPRIOR CONCURRENT THERAPY:\n\n* At least 3 weeks since prior radiotherapy to major bone marrow-containing sites\n* No prior chemotherapy for advanced non-small cell lung cancer\n* No prior agents directed at the epidermal growth factor receptor (EGFR)/HER axis (e.g., gefitinib, cetuximab, or trastuzumab \\[Herceptin\u00ae\\])\n* No prior surgical procedure resulting in abnormal absorption of oral medications\n* No concurrent surgical resection, palliative radiotherapy, or hormonal therapy\n* No other concurrent anticancer therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response Rate",
+      "timeFrame": "after 6 cycles of chemotherapy",
+      "description": "Percentage of patients who experienced complete or partial response as defined by RECIST"
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2004-11",
+  "completion_date": "2009-05",
+  "last_updated": "2018-11-12"
+}

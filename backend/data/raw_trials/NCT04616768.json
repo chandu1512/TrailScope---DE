@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT04616768",
+  "brief_title": "PROStep: A Feasibility Trial Using PROs and Step Data to Monitor Patients With Lung and GI Cancers",
+  "official_title": "A Feasibility Trial Using Remote Patient-reported Outcomes and Wearable Technology-reported Step Data to Compare Engagement, Utilization, and Functional Status in Patients With Incurable Lung and Gastrointestinal Cancers",
+  "brief_summary": "Telemedicine allows clinicians to utilize modern telecommunication technology to provide healthcare services to patients including remote symptom monitoring. Given the spread of COVID-19 both locally and globally, is crucial to adapt accordingly in order to safely provide vulnerable cancer patient populations with optimal care while minimizing risk of exposure to COVID-19. In this study, the investigators will utilize remote monitoring of patients with cancer via weekly patient-reported outcome (PRO) collection through the Way to Health (W2H) smartphone application and step data through wearable Fitbit devices. Patients with incurable lung and gastrointestinal cancers will be recruited based on whether they receive their care in-clinic or remotely. They will respond to weekly phone-based symptom surveys and wear Fitbits that track step data. This data will be collated in a Palliative Care Assessment Dashboard (PROStep Dashboard) sent to clinicians prior to each oncology visit to help inform patient management. In this feasibility study, two arms of patients will be monitored with symptom surveys and Fitbits; the study will randomize these patients to either 1) receive text feedback or 2) receive no text feedback. A third arm of patients will be randomized to receive no feedback, symptom surveys, or Fitbit device. Clinicians for patients in each arm will receive the PROstep Dashboard. The study will determine feasibility of this monitoring approach, and compare patient adherence to symptom surveys and step data collection between the two intervention arms.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 108,
+  "conditions": [
+    "Cancer",
+    "Lung Cancer",
+    "Gastro-intestinal"
+  ],
+  "interventions": [
+    {
+      "name": "PRO questionnaire",
+      "type": "OTHER",
+      "description": "These text message surveys will inquire about seven symptoms, requesting a response rating the patient's response. The seven symptoms have been selected by lung and GI oncology clinicians at PCAM from a list of twelve validated symptoms from the National Cancer Institute's Common Terminology Criteria for Adverse Events and will be scored on a five point scale from 0 (no present) to 4 (disabling). The patients will also receive a question asking about their activity level over the prior month"
+    },
+    {
+      "name": "Step monitoring",
+      "type": "OTHER",
+      "description": "A CRC will provide patients with a Fitbit at enrollment and instruct them on how to wear the Fitbit device and periodically sync the device with their phone which will send updated step data to the research team."
+    },
+    {
+      "name": "Active nudge text feedback",
+      "type": "OTHER",
+      "description": "Intervention patients in arm c will receive text feedback describing worsening or severe symptoms collected from their remote PRO questionnaires (i.e. \"Your following symptoms are severe or have gotten worse:\") and their step count (\"Your Fitbit step count compared to last week is worse.\"). They will also receive an \"active nudge\" question on their upcoming visit (i.e. \"Do you plan on discussing these symptoms with your oncologist at your upcoming visit? Type \"1\" if you plan to discuss them; Type \"2\" if you do not plan to discuss them.\")."
+    },
+    {
+      "name": "PROStep Dashboard (clinicians)",
+      "type": "OTHER",
+      "description": "The study team will provide an updated PROStep Dashboard to lung or GI oncology clinicians for each patient enrolled in the intervention arms prior to their appointments. W2H will generate the dashboards and the study team will physically deliver it to their office or touchdown space or send electronically. The Dashboard will include:\n\n1. Home-based PRO report, including the weekly survey results for each question in tabular and graphical form\n2. Step data report, including a summary of number of daily steps in graphical form (with rolling weekly averages) and weekly averages in tabular form\n3. A list of all acute care utilization in the UPHS system in the prior 6 months including Oncology Evaluation Unit visits, Emergency department visits, Inpatient admissions\n4. Whether the patient has had an outpatient palliative care visit\n5. Whether the patient has had a documented Serious Illness Conversation"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. English-speaking\n2. Have a diagnosis of incurable or Stage IV lung or gastrointestinal cancer\n3. Receive primary oncology care with a thoracic or gastrointestinal medical oncology specialist at the Perelman Center for Advanced Medicine (i.e. does not have a local oncologist that provides cancer care, including other UPHS clinic sites)\n4. Currently receiving or planned receipt within 2 weeks of IV chemotherapy (see exclusions below)\n5. The patient has a smart phone that can receive SMS text messages and has blue-tooth capability that can connect to Fitbit.\n\nExclusion Criteria:\n\n1. Age \\< 18 years\n2. Patients has used a wheelchair, been bedbound or is unable to walk without assistance from other people every day for the past 7 days (patients are not excluded for the use of walkers or canes)\n3. Patients who are receiving checkpoint inhibitor monotherapy or oral tyrosine kinase inhibitors\n4. Patients who receive chemotherapy infusions at another UPHS site or outside of UPHS or whose primary oncologist is not in thoracic or gastrointestinal oncology groups at PCAM. Notably, patients who receive part of their chemotherapy regimen at home will still be allowed to enroll.\n5. Lung cancer patients enrolled in an ongoing palliative care clinical trial that may lead to better communication regarding symptoms and functional status.\n6. Clinician concerns about behavioral health issues that may prevent engagement with text message prompts\n7. Are enrolled in another interventional clinical trial (as clinical trials often have a substantial symptom-reporting structure; non-interventional clinical trials are permitted e.g. trials that just involve blood tests)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Perelman Center for Advanced Medicine (PCAM)",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Patient Perceptions of Symptom Management - How Well do You Feel Your Oncology Team Understands Your Symptoms (e.g. Nausea, Vomiting, Weight Loss, Etc.)?",
+      "timeFrame": "These will be measured at 6 months after enrollment for each patient (or 3 months if the patient did not complete their 6 month survey)",
+      "description": "Patient utility surveys will use a 5-point Likert scale for responses scored 1-5. The two co-primary outcomes will compare the scores for the following two questions, measured at 6 months (or 3 months if the patient did not complete their 6 month survey), between intervention patients (Arms B + C) and control patients (Arm A).\n\nLikert scale responses are defined as: 1 = Not at all; 2 = Slightly; 3 = Moderately; 4 = Considerably; 5 = Completely."
+    },
+    {
+      "measure": "Patient Perception of Functional Status - How Well do You Feel Your Oncology Team Understands Your Activity Level and Ability to Function? (1-5)",
+      "timeFrame": "These will be measured at 6 months after enrollment for each patient (or 3 months if the patient did not complete their 6 month survey)",
+      "description": "Patient utility surveys will use a 5-point Likert scale for responses scored 1-5. The two co-primary outcomes will compare the scores for the following two questions, measured at 6 months (or 3 months if the patient did not complete their 6 month survey), between intervention patients (Arms B + C) and control patients (Arm A).\n\nLikert scale responses are defined as: 1 = Not at all; 2 = Slightly; 3 = Moderately; 4 = Considerably; 5 = Completely."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2020-11-19",
+  "completion_date": "2021-12-17",
+  "last_updated": "2025-06-13"
+}

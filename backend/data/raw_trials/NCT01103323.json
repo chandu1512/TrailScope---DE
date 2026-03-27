@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT01103323",
+  "brief_title": "Patients With Metastatic Colorectal Cancer Treated With Regorafenib or Placebo After Failure of Standard Therapy",
+  "official_title": "A Randomized, Double-blind, Placebo-controlled Phase III Study of Regorafenib Plus BSC Versus Placebo Plus BSC in Patients With Metastatic Colorectal Cancer (CRC) Who Have Progressed After Standard Therapy",
+  "brief_summary": "This is a randomized, double-blind, placebo-controlled multi-center phase III study to evaluate efficacy and safety of regorafenib in patients with metastatic colorectal cancer (CRC) who have progressed on/after all approved drugs for CRC",
+  "detailed_description": "All participants received Best Supportive Care. Acronyms used in Adverse events section: Gastrointestinal (GI), Genitourinary (GU), Not Otherwise Specified (NOS), Absolute Neutrophil Count (ANC), Aspartate aminotransferase (AST), Alanine aminotransferase (ALT), Common Terminology Criteria for Adverse Events (CTCAE), International Normalized Ratio (INR), Central nervous system (CNS), Acute respiratory distress syndrome (ARDS), Cranial nerves (CN), Disseminated Intravascular Coagulation (DIC), Cardiac troponin T (cTnT).\n\nAbbreviation used in Results section: Data Monitoring Committee (DMC). Adverse event collection will be covered in Adverse events section.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 760,
+  "conditions": [
+    "Metastatic Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Regorafenib (Stivarga, BAY73-4506)",
+      "type": "DRUG",
+      "description": "160 mg per oral once daily for 3 weeks of every 4 week cycle (i.e., 3 weeks on, 1 week off)"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "matching placebo tablets for 3 weeks of every 4 week cycle (i.e., 3 weeks on, 1 week off)"
+    },
+    {
+      "name": "Best Supportive Care (BSC)",
+      "type": "OTHER",
+      "description": "BSC includes any concomitant medications or treatments: antibiotics, analgesics, radiation therapy for pain control (limited to bone metastases), corticosteroids, transfusions, psychotherapy, growth factors, palliative surgery, or any other symptomatic therapy necessary to provide BSC, except other investigational anti-tumor agents or anti-neoplastic chemo/hormonal/immuno-therapy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histological or cytological documentation of adenocarcinoma of the colon or rectum\n* Progression during or within 3 months following the last administration of approved standard therapies. Patients treated with oxaliplatin in an adjuvant setting should have progressed during or within 6 months of completion of adjuvant therapy\n* Patients with measurable or non measurable disease\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of \\</= 1\n* Life expectancy of at least 3 months\n* Adequate bone marrow, liver and renal function\n\nExclusion Criteria:\n\n* Unstable/uncontrolled cardiac disease\n* History of arterial or venous thrombotic or embolic events\n* Symptomatic metastatic brain or meningeal tumors\n* Patients with evidence or history of bleeding diathesis\n* Interstitial lung disease - Persistent proteinuria \\>/= grade 3\n* Unresolved toxicity \\> grade 1 attributed to any prior therapy/procedure excluding alopecia and oxaliplatin induced neurotoxicity \\</= Grade 2",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Neptune City",
+      "state": "New Jersey",
+      "zip": "07754",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18510",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "From randomization of the first subject until the database cut-off approximately 14 months later (19May2010 - 21Jul2011) used for 2nd planned formal interim analysis (IA).",
+      "description": "Overall survival (OS) was defined as the time (days) from randomization to death due to any cause. Patients alive at the time of analysis were censored at the last date known to be alive. If a patient was lost to follow-up and there was no contact after randomization, this patient was censored at Day 1."
+    }
+  ],
+  "sponsor": "Bayer",
+  "collaborators": [],
+  "start_date": "2010-04",
+  "completion_date": "2014-01",
+  "last_updated": "2015-05-28"
+}

@@ -1,0 +1,119 @@
+{
+  "nct_id": "NCT00112489",
+  "brief_title": "Paclitaxel and Carboplatin in Treating Patients With Persistent or Recurrent Stage III or Stage IV Uterine Cancer",
+  "official_title": "A Phase II Evaluation of Paclitaxel (Taxol, NSC # 673089) and Carboplatin (Paraplatin, NSC #241240) in the Treatment of Advanced, Persistent, or Recurrent Uterine Carcinosarcoma",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells.\n\nPURPOSE: This phase II trial is studying how well giving paclitaxel together with carboplatin works in treating patients with persistent or recurrent stage III or stage IV uterine cancer.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the antitumor activity of paclitaxel and carboplatin in patients with persistent or recurrent stage III or IV uterine carcinosarcoma.\n* Determine the nature and degree of toxicity of this regimen in these patients.\n\nOUTLINE: This is a non-randomized, multicenter study.\n\nPatients receive paclitaxel IV over 3 hours followed by carboplatin IV over 30 minutes on day 1. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed every 3 months for 2 years and then every 6 months for 3 years.\n\nPROJECTED ACCRUAL: Approximately 14-47 patients will be accrued for this study within 20 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 55,
+  "conditions": [
+    "Sarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "carboplatin",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "paclitaxel",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed uterine carcinosarcoma (mixed mesodermal tumor)\n\n  * Stage III or IV disease\n  * Persistent or recurrent disease\n* Documented disease progression\n* Measurable disease, defined as \u2265 1 unidimensionally measurable lesion \u2265 20 mm by conventional techniques OR \u2265 10 mm by spiral CT scan\n\n  * At least 1 target lesion\n\n    * Tumors within a previously irradiated field are not considered target lesions unless there is documented disease progression\n* Ineligible for any higher priority Gynecology Oncology Group (GOG) protocol (i.e., any active GOG phase III protocol for the same patient population)\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nPerformance status\n\n* GOG 0-2\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Platelet count \u2265 100,000/mm\\^3\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n\nHepatic\n\n* Bilirubin \u2264 1.5 times upper limit of normal (ULN)\n* SGOT \u2264 2.5 times ULN\n* Alkaline phosphatase \u2264 2.5 times ULN\n\nRenal\n\n* Creatinine \u2264 1.5 times ULN\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No active infection requiring antibiotics\n* No other invasive malignancy within the past 5 years except nonmelanoma skin cancer\n* No sensory or motor neuropathy \\> grade 1\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* No prior cytotoxic chemotherapy for uterine sarcoma\n\nEndocrine therapy\n\n* At least 1 week since prior hormonal therapy for uterine sarcoma\n* Concurrent hormone replacement therapy allowed\n\nRadiotherapy\n\n* See Disease Characteristics\n\nSurgery\n\n* Not specified\n\nOther\n\n* Recovered from all prior therapy\n* No prior anticancer therapy that would preclude study therapy",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Tunnell Cancer Center at Beebe Medical Center",
+      "city": "Lewes",
+      "state": "Delaware",
+      "zip": "19958",
+      "status": ""
+    },
+    {
+      "facility": "CCOP - Christiana Care Health Services",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Union Hospital Cancer Program at Union Hospital",
+      "city": "Elkton",
+      "state": "Maryland",
+      "zip": "21921",
+      "status": ""
+    },
+    {
+      "facility": "Jersey Shore Cancer Center at Jersey Shore University Medical Center",
+      "city": "Neptune City",
+      "state": "New Jersey",
+      "zip": "07754-0397",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey at Cooper - Voorhees",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    },
+    {
+      "facility": "Rosenfeld Cancer Center at Abington Memorial Hospital",
+      "city": "Abington",
+      "state": "Pennsylvania",
+      "zip": "19001",
+      "status": ""
+    },
+    {
+      "facility": "Morgan Cancer Center at Lehigh Valley Hospital - Cedar Crest",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18105",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center - Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center CCOP Research Base",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19140",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Nature and Degree of Toxicity",
+      "timeFrame": "During study treatment and up to 30 days after stopping study treatment",
+      "description": "Number of patients who experienced grade 1 or higher serious adverse event (term or group) regardless of attribution using CTCAE v3.0"
+    },
+    {
+      "measure": "Response Evaluation Criteria in Solid Tumors Criteria (RECIST) 1.0 Best Response",
+      "timeFrame": "Response was measured every other cycle (q 6 weeks) until disease progression is documented.",
+      "description": "Primary outcome measured according to RECIST v1.0 Best Response:\n\nComplete Response (CR) is disappearance of all target and non-target lesions and no evidence of new lesions documented by two disease assessments at least 4 weeks apart Disease Progression is at least a 20% increase in the sum of LD of target lesions taking as references the smallest sum LD or the appearance of new lesions within 8 weeks of study entry.\n\nPartial Response (PR) is at least a 30% decrease in the sum of longest dimensions (LD) of all target measurable lesions taking as reference the baseline sum of LD. There can be no unequivocal progression of nontarget lesions and no new lesions. Documentation by two disease assessments at least 4 weeks apart is required Stable Disease is any condition not meeting the above criteria. Indeterminate is defined as having no repeat tumor assessments following initiation of study therapy for reasons unrelated to symptoms or signs of disease."
+    }
+  ],
+  "sponsor": "Gynecologic Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2005-05",
+  "completion_date": "",
+  "last_updated": "2018-08-27"
+}

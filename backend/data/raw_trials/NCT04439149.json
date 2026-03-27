@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT04439149",
+  "brief_title": "Testing GSK2636771 as a Potential Targeted Treatment in Cancers With PTEN Genetic Changes (MATCH-Subprotocol N)",
+  "official_title": "MATCH Treatment Subprotocol N: Phase II Study of PI3K Beta Specific Inhibitor, GSK2636771, in Patients With Tumors With PTEN Mutation or Deletion, With PTEN Expression on IHC",
+  "brief_summary": "This phase II MATCH treatment trial identifies the effects of GSK2636771 in patients whose cancer has a genetic change called PTEN mutation or deletion. GSK2636771 may block a protein called PI3K-beta, which may be needed for growth of cancer cells that express PTEN mutations. Researchers hope to learn if GSK2636771 will shrink this type of cancer or stop its growth.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate the proportion of patients with objective response (OR) to targeted study agent(s) in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the proportion of patients alive and progression free at 6 months of treatment with targeted study agent in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nII. To evaluate time until death or disease progression. III. To identify potential predictive biomarkers beyond the genomic alteration by which treatment is assigned or resistance mechanisms using additional genomic, ribonucleic acid (RNA), protein and imaging-based assessment platforms.\n\nIV. To assess whether radiomic phenotypes obtained from pre-treatment imaging and changes from pre- through post-therapy imaging can predict objective response and progression free survival and to evaluate the association between pre-treatment radiomic phenotypes and targeted gene mutation patterns of tumor biopsy specimens.\n\nOUTLINE:\n\nPatients receive PI3K-beta inhibitor GSK2636771 (GSK2636771) 400 mg orally (PO) once daily (QD) on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up every 3 months if less than 2 years from study entry, and then every 6 months for year 3 from study entry.\n\nTHE MATCH SCREENING TRIAL:\n\nPlease see NCT02465060 for information on the MATCH Screening Protocol and applicable documents.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 24,
+  "conditions": [
+    "Advanced Lymphoma",
+    "Advanced Malignant Solid Neoplasm",
+    "Hematopoietic and Lymphoid Cell Neoplasm",
+    "Refractory Lymphoma",
+    "Refractory Malignant Solid Neoplasm",
+    "Refractory Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "PI3K-beta Inhibitor GSK2636771",
+      "type": "DRUG",
+      "description": "Given PO"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have met applicable eligibility criteria in the Master MATCH Protocol prior to registration to treatment subprotocol\n* Patients must have an electrocardiogram (ECG) within 8 weeks prior to treatment assignment and must have no clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g. complete left bundle branch block, third degree heart block)\n* Patients must have PTEN gene mutation/deletion\n\n  * There must be evidence of PTEN expression by immunohistochemistry (IHC) (any amount of staining will be considered positive for expression)\n  * Patients with complete loss of PTEN by IHC, regardless of PTEN mutations/deletion status, will be enrolled into MATCH subprotocol EAY131-P, not this subprotocol (EAY131-N)\n* Patients must have hemoglobin \\>= 9 g/dL\n* Patients must have a serum creatinine that =\\< 1.5 x upper limit of normal (ULN) or have a 24-hour creatinine clearance of \\>= 50 mL/min\n\nExclusion Criteria:\n\n* Patients must not have known hypersensitivity to GSK2636771 or compounds of similar chemical or biologic composition.\n* Patients must not have tumors harboring co-existing aberrations activating the PI3K/MTOR and MAPK pathways, such as PIK3CA, PIK3R1, BRAF, KRAS and AKT1, TSC1/2, mTOR, NF2, NRAS, HRAS, NF1\n* Patients must not have received prior treatment with agents targeting the PI3K beta, AKT, or mTOR pathways:\n\n  * This includes (but is not limited to):\n\n    * mTOR inhibitors: temsirolimus, everolimus, ridaforolimus, sirolimus, salirasib, CC-223, INK128, DS-3078, CC-115, AZD-2014\n    * Dual PI3K/mTOR inhibitors: BEZ235, XL-765, GDC 0980, PF-04691502, GSK 2126458, Quinacrine, PKI-587, P-P7170, LY3023414, GDC 0084, DS 7423, CBLC-137\n    * Pan-PI3K inhibitors: BKM-120 (buparlisib), PX-866, XL-147, GDC-0941 (pictilisib), BAY-806946, ZSTK-474, WX 037, SRX5000, SRX2523, AMG511, PQR308, BAY 94-9343\n    * PI3K inhibitors with beta isoform activity: prior GSK2636771 is not allowed, nor is GS-9820, PQR3XX, KAR4139\n  * The following treatments are allowed:\n\n    * BYL719 (PI3Kalpha inhibitor)\n    * GDC-0032 (PI3Kalpha inhibitor)\n    * INK1117 (PI3Kalpha inhibitor)\n    * Idelalisib (PI3Kdelta inhibitor)\n    * IPI-125 (PI3K gamma delta inhibitor)\n    * TGR1202 (PI3Kdelta inhibitor)\n    * SRX2558 (PI3Kdelta inhibitor)\n    * RP6530 (PI3K gamma delta inhibitor)\n    * PWT143 (PI3Kdelta inhibitor)\n    * IPI443 (PI3K gamma delta inhibitor)\n    * GNE293 (PI3Kdelta inhibitor)\n* Patients with a history of interstitial lung disease or pneumonitis are excluded\n* Patients must not have any congenital platelet function defects and cannot be on any of the following anti-platelet drugs: clopidogrel, ticlopidine, prasugrel, that act at platelet purinergic receptors\n\n  * Any need for starting anti-platelet therapy in a patient enrolled to this arm will have to be evaluated by the subprotocol chair",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "ECOG-ACRIN Cancer Research Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "timeFrame": "Tumor assessments occurred at baseline, then every 2 cycles for the first 26 cycles and every 3 cycles thereafter until disease progression, up to 3 years post registration",
+      "description": "ORR is defined as the percentage of patients whose tumors have a complete or partial response to treatment among analyzable patients. Objective response is defined consistent with Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. Details about how to define complete response and partial response can be found in the master protocol. 90% two-sided binomial exact confidence interval is calculated for ORR."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2016-05-05",
+  "completion_date": "2026-12-31",
+  "last_updated": "2025-11-08"
+}

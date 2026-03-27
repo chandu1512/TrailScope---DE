@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT03832985",
+  "brief_title": "Pediatric Reporting of Adult-Onset Genomic Results",
+  "official_title": "Reporting Adult-Onset Genomic Results to Pediatric Biobank Participants and Parents",
+  "brief_summary": "The Investigators will conduct a longitudinal, mixed-methods cohort study to assess primary and secondary psychosocial outcomes among 705 MyCode pediatric participants and their parents, and health behaviors of parents whose children receive an adult- or pediatric-onset genomic result. Data will be gathered via quantitative surveys using validated measures of distress, family functioning, quality of life, body image, perceived cancer/heart disease risk, genetic counseling satisfaction, genomics knowledge, and adjustment to genetic information; qualitative interviews with adolescents and parents; and electronic health records review of parents' cascade testing uptake and initiation of risk reduction behaviors. The investigators will also conduct empirical and theoretical legal research to examine the loss of chance doctrine and its applicability to genomic research.",
+  "detailed_description": "The Investigators propose a longitudinal, observational cohort study using mixed methods to compare change in psychosocial outcomes and health behaviors among three study groups of pediatric MyCode participants and their parents:\n\n1. Group 1 - those with a pathogenic variant in a gene associated with adult onset of disease (n=17 adolescents, 50 parents)\n2. Group 2 - those with a pathogenic variant in a gene associated with pediatric onset of disease or with risk reduction interventions that begin in childhood (n=53 adolescents, 160 parents)\n3. Group 3 - those who do not receive a genomic result (n=105 adolescents, 320 parents)\n\nThe Investigators will use the current existing MyCode list of actionable genes designated as actionable by the American College of Medical Genetics and Genomics. Parents of pediatric MyCode participants will be offered the opportunity to participate in the study prior to learning to which group they belong. Consistent with Geisinger policy, children ages 7-17 will be asked to give assent to participate. If a child does not want to assent to participate, he or she will not be enrolled into the study (regardless of their parents' preference regarding enrollment). Parents of children who do not give assent will be ineligible to participate. Parents who decline participation when their child is suspected to have a pathogenic adult-onset result will have their child's sample held for clinical confirmation until the child reaches age 18 years. Parents who decline participation when their child is suspected to have a pathogenic pediatric-onset result will proceed to clinical confirmation of the result and, if confirmed, follow the established clinical return procedure. This recruitment approach is consistent with the MyCode philosophy of notifying participants of actionable findings. Parent-participants will be asked to assess psychosocial outcomes for themselves and for their children. Consistent with co-investigator Angela Bradbury's research on the experience of adolescent girls from families at increased risk for breast cancer, pediatric participants ages 11-17 years at enrollment (i.e., adolescents) will also participate in quantitative surveys and qualitative interviews.\n\nPsychosocial variables such as anxiety and depression will be assessed among parents and adolescents at enrollment (T1), after which those suspected of having a pathogenic variant will proceed to clinical confirmation of that variant. Those whose variant is confirmed clinically as pathogenic or likely pathogenic will then be scheduled for a disclosure appointment. These appointments will be conducted by a genetic counselor and psychologist, who will perform psychosocial assessment, conduct therapeutic consults as needed, and conduct periodic psychosocial assessments of adolescent participants with adult-onset results. Participants with suspected pathogenic variants that are not confirmed clinically and participants without a suspected pathogenic variant will be scheduled for a study visit to notify them of their group status and remind them to follow up with their pediatrician if they have significant personal or family history of cancer or heart disease.\n\nValidated surveys will be used to measure outcomes in each study group at 1 month (T3), 6 months (T4) and 12 months (T5) post-disclosure visit. The investigators will conduct qualitative interviews with a subset of at least 45 participants in each of the two study groups who receive a genomic result to better understand the lived experience of adolescents with an actionable genomic finding and their parents. Data collection will continue after the grant funding ends because of Geisinger Research Division's commitment to following the study cohort. To address the legal specific aim, Dr. Wagner will lead the study team's legal experts in examining and monitoring the loss of chance doctrine in medical malpractice cases in federal and state courts across the United States and in monitoring legislative developments relating to the loss of chance doctrine as it applies to returning adult-onset genomic results to children.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "EARLY_PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 427,
+  "conditions": [
+    "Hereditary Breast and Ovarian Cancer Syndrome",
+    "Lynch Syndrome",
+    "Familial Hypercholesterolemia"
+  ],
+  "interventions": [
+    {
+      "name": "Receive an adult-onset result",
+      "type": "GENETIC",
+      "description": "Assess the psychosocial outcomes and the lived experience of MyCode pediatric participants and parents who have received an adult-onset genomic result."
+    },
+    {
+      "name": "Receive a pediatric-onset result",
+      "type": "GENETIC",
+      "description": "Assess the psychosocial outcomes and the lived experience of MyCode pediatric participants and parents who have received an adult-onset genomic result."
+    },
+    {
+      "name": "Control - No Result",
+      "type": "GENETIC",
+      "description": "Assess the psychosocial outcomes and the lived experience of MyCode pediatric participants and parents who have not received an adult-onset genomic result."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Any pediatric MyCode participant (ages 0-17) OR\n* Parent of a pediatric MyCode participant who has given assent to participate in this study.\n\nExclusion Criteria:\n\n* Individuals who have already had genetic counseling for any of the actionable target conditions as part of their routine clinical care.\n* Individuals who have already had genetic counseling for any of the actionable target conditions through their participation in another research study.",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Geisinger",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "The Hospital Anxiety and Depression Scale (HADS)",
+      "timeFrame": "Baseline, 1, 6, & 12 months post-disclosure",
+      "description": "The HADS questionnaire is a 14-item scale comprised of seven questions for anxiety and seven questions for depression. Each item is scored from 0-3. The total scoring is as follows: 8-10 = Mild, 11-14 = Moderate, 15-21 = Severe. Scoring for anxiety and depression are to be completed separately. For both scales, a total score of less than 7 indicates non-cases."
+    },
+    {
+      "measure": "The General Functioning 12-item subscale (GF12) of The McMaster Family Assessment Device (FAD)",
+      "timeFrame": "Baseline, 1, 6, & 12 months post-disclosure",
+      "description": "The GF12 subscale is made up of 12 items, six items that reflect healthy family functioning and the other six items reflecting unhealthy functioning. Scoring is on a 4-point scale (from 1 for strongly agree to 4 for strongly disagree) with the scale for the negatively worded items reversed.\n\nThe total score is then divided by the number of items on the subscale giving a total score ranging from 1.0 (best functioning) to 4.0 (worse functioning)"
+    },
+    {
+      "measure": "Health-Related Quality of Life (HRQOL)",
+      "timeFrame": "Baseline, 1, 6, & 12 months post-disclosure",
+      "description": "Healthy days are the positive complementary form of unhealthy days. Healthy days estimates the number of recent days when a person's physical and mental health was good (or better) and is calculated by subtracting the number of unhealthy days from 30 days.\n\nUnhealthy days are an estimate of the overall number of days during the previous 30 days when the respondent felt that either his or her physical or mental health was not good. To obtain this estimate, responses to questions 2 and 3 are combined to calculate a summary index of overall unhealthy days, with a logical maximum of 30 unhealthy days. For example, a person who reports 4 physically unhealthy days and 2 mentally unhealthy days is assigned a value of 6 unhealthy days, and someone who reports 30 physically unhealthy days and 30 mentally unhealthy days is assigned the maximum of 30 unhealthy days."
+    },
+    {
+      "measure": "Uptake of cascade testing",
+      "timeFrame": "12 months post-disclosure to pediatric proband",
+      "description": "Uptake of cascade testing (yes/no) among parents."
+    },
+    {
+      "measure": "Initiation of risk reduction behavior",
+      "timeFrame": "12 months post-disclosure to pediatric proband",
+      "description": "Initiation of risk reduction behavior (yes/no) among parents with familial gene variant."
+    }
+  ],
+  "sponsor": "Geisinger Clinic",
+  "collaborators": [
+    "National Human Genome Research Institute (NHGRI)"
+  ],
+  "start_date": "2020-11-25",
+  "completion_date": "2024-10-31",
+  "last_updated": "2024-11-01"
+}

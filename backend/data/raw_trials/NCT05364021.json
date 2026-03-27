@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT05364021",
+  "brief_title": "Study to Investigate LP352 in Subjects With Developmental and Epileptic Encephalopathies",
+  "official_title": "Randomized, Double-blind, Placebo-controlled, Parallel-group, Dose-escalation Study to Investigate the Safety, Tolerability, PK, PD, and Exploratory Efficacy of LP352 in Subjects With Developmental and Epileptic Encephalopathies",
+  "brief_summary": "The objective of this study is to assess the safety, tolerability, efficacy, and pharmacokinetics of adjunctive therapy of LP352 in adults and adolescents with developmental and epileptic encephalopathies.",
+  "detailed_description": "This is a randomized, double-blind, parallel-group, dose-escalation, placebo-controlled study of LP352 in adults and adolescents with developmental and epileptic encephalopathies (DEE) with an average of \u2265 4 observed/countable motor seizures per 4-week period during the 12 weeks before screening while on stable antiseizure medicine (ASM).\n\nSubjects will be randomized 4:1 to LP352 or placebo. The study will have a baseline period of 28 days, followed by a 15 day up-titration period during which time subjects will titrate up to their highest tolerated doses, and a 60-day maintenance period. After Day 75, subjects will be tapered down over a period of up to 15 days, with a follow-up visit 30 days after last dose. Enrolled subjects will be allowed to continue treatment with up to 4 concomitant ASMs at a stable dose.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 52,
+  "conditions": [
+    "Developmental and Epileptic Encephalopathy",
+    "Dravet Syndrome",
+    "Lennox Gastaut Syndrome"
+  ],
+  "interventions": [
+    {
+      "name": "LP352",
+      "type": "DRUG",
+      "description": "LP352 administered three times daily, orally or through G-tube"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Matching placebo for LP352 administered three times daily, orally or through G-tube"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n1. Male or non-pregnant, non-lactating female, age 12 to 65 years\n2. Diagnosis of Dravet syndrome, Lennox-Gastaut syndrome, or other developmental and epileptic encephalopathy\n3. Has a minimum number of seizures per 4-week period while taking 1 to 4 anti-seizure medications\n4. All medications and epilepsy interventions must be stable for 4 weeks before screening and are expected to remain stable during the study\n5. The patient/parent/caregiver is able and willing to attend study visits, complete the diary and take study drug as instructed\n\nKey Exclusion Criteria:\n\n1. Current or past history of cardiovascular or cerebrovascular disease, such as cardiac valvulopathy, myocardial infarction, stroke, pulmonary arterial hypertension or abnormal blood pressure\n2. Has glaucoma, renal impairment, liver disease or any other medical condition that would affect study participation or pose a risk to the subject\n3. Current or recent history of moderate or severe depression, anorexia nervosa, bulimia or at risk of suicidal behavior\n4. Currently taking anorectic agents, monoamine oxidase inhibitors; serotonin agonists or antagonists including fenfluramine, atomoxetine, vortioxetine, or other medications for weight loss\n5. Positive test result on the drug screen, except tetrahydrocannabinol (THC) for patients taking prescribed cannabidiol",
+    "gender": "ALL",
+    "min_age": "12 Years",
+    "max_age": "65 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Mid-Atlantic Epilepsy and Sleep Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Treatment-emergent Adverse Events",
+      "timeFrame": "Baseline up to Day 75",
+      "description": "Incidence and severity of adverse events, including serious adverse events and adverse events leading to study discontinuation and clinically significant changes in vital signs, physical examination endpoints, clinical safety laboratory values and ECGs"
+    },
+    {
+      "measure": "Columbia-Suicide Severity Rating Scale (C-SSRS) Response",
+      "timeFrame": "Baseline up to Day 75",
+      "description": "Type of Suicidal Ideation, Intensity (1 - 5, with 5 being most severe), Suicidal Behavior"
+    },
+    {
+      "measure": "Patient Health Questionnaire-9 Total Score and Question 9 Score",
+      "timeFrame": "Baseline up to Day 75",
+      "description": "Severity Rating Scale: 0 - 27; higher scores indicate greater severity of depressive disorder"
+    },
+    {
+      "measure": "Percent Change from Baseline in Observed Countable Motor Seizure Frequency (per 28 Days) During the Treatment Period",
+      "timeFrame": "Baseline up to Day 75",
+      "description": ""
+    },
+    {
+      "measure": "Percent Change from Baseline in Observed Countable Motor Seizure Frequency (per 28 Days) During the Maintenance Period",
+      "timeFrame": "Baseline up to Day 75",
+      "description": ""
+    }
+  ],
+  "sponsor": "Longboard Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2022-03-03",
+  "completion_date": "2023-11-20",
+  "last_updated": "2024-11-04"
+}

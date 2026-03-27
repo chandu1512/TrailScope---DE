@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT03400150",
+  "brief_title": "BioProtect Balloon Implant\u2122 Balloon System Pivotal Study BP-007",
+  "official_title": "CLINICAL PROTOCOL for the INVESTIGATION Of the BioProtect Balloon Implant\u2122 Balloon System Pivotal Study BP-007",
+  "brief_summary": "The BioProtect Balloon Implant\u2122 System is intended to temporarily position the anterior rectal wall away from the prostate during radiotherapy for prostate cancer and in creating this space it is the intent of the balloon to reduce the radiation dose delivered to the anterior rectum. The balloon composed of a biodegradable material that maintains that space for the entire course of prostate radiotherapy treatment and is completely absorbed by the patient's body over time.",
+  "detailed_description": "This study will be a prospective, multi-center, randomized, double-arm, single blind, concurrently controlled study to assess the safety and efficacy of the balloon in prostate cancer subjects undergoing radiotherapy by means of intensity modulation radiation therapy (IMRT).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 222,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "balloon",
+      "type": "DEVICE",
+      "description": "balloon implantation"
+    },
+    {
+      "name": "Control",
+      "type": "OTHER",
+      "description": "Control - Marking \\& IMRT are standard of care for prostate cancer - there is no study-specific intervention"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Be at least 18 years of age\n* Have been histologically diagnosed with invasive adenocarcinoma of the prostate, at clinical stage T1-T3 (as determined by a biopsy taken within 9 months of the screening visit)\n* Be scheduled for radiation therapy (XRT) by means of IMRT\n\nExclusion Criteria:\n\n* Any prior invasive malignancy (except non-melanomatous skin cancer) unless the subject has been disease free for a minimum of 5 years\n* Prior radical prostatectomy\n* Prior cryosurgery or radiotherapy for prostate cancer, or other local therapy for prostate cancer\n* Prior radiotherapy to the pelvis, including brachytherapy\n* History of prior surgery involving the rectum or anus\n* Prior surgical procedure involving the peri-rectal and/or peri-prostatic area",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Chesapeake Urology Research Associates",
+      "city": "Owings Mills",
+      "state": "Maryland",
+      "zip": "21117",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety Endpoint: Number of Subjects in the Balloon and Control Groups With Rectal, Device or Procedure-related Grade > 1 AEs Within 6 Months of Procedure",
+      "timeFrame": "Within 6 months from balloon implantation",
+      "description": "Non-inferiority in occurrence of rectal, device or procedure-related Grade \\> 1 AEs within 6 months of implantation for balloon as compared to control group"
+    },
+    {
+      "measure": "Efficacy Endpoint: Number of Subjects in the Balloon Group With Reduction of >25% in Rectal Volume Receiving 70 Gy (rV70)",
+      "timeFrame": "3 months",
+      "description": "Observed reduction of at least \\>25% in rectal volume receiving 70 Gy (rV70) in patients after spacer implantation, with efficacy of the study confirmed if \\>75% of balloon recipients achieved this degree of dose reduction."
+    }
+  ],
+  "sponsor": "BioProtect",
+  "collaborators": [],
+  "start_date": "2018-01-03",
+  "completion_date": "2021-12-10",
+  "last_updated": "2025-02-04"
+}

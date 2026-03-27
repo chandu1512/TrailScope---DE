@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT00824265",
+  "brief_title": "Ofatumumab Added to Fludarabine-Cyclophosphamide vs Fludarabine-Cyclophosphamide Combination in Relapsed Subjects With Chronic Lymphocytic Leukemia",
+  "official_title": "A Phase III, Open Label, Randomized Trial of Ofatumumab Added to Fludarabine-Cyclophosphamide vs. Fludarabine-Cyclophosphamide Combination in Subjects With Relapsed Chronic Lymphocytic Leukemia",
+  "brief_summary": "The purpose of this study was to evaluate the safety and efficacy of ofatumumab added to fludarabine-cyclophosphamide in patients with relapsed Chronic Lymphocytic Leukemia (CLL).",
+  "detailed_description": "Fludarabine is currently approved for treatment of relapsed Chronic Lymphocytic Leukemia. Studies have shown that drugs in combination with fludarabine have shown more effectiveness than fludarabine alone. The addition of ofatumumab to fludarabine-cyclophosphamide combination offers potentially a more effective therapy, without additional toxicity.\n\nThe objective of this study was to determine the effect of ofatumumab added to fludarabine and cyclophosphamide in patients with Chronic Lymphocytic Leukemia who have responded previously to therapy but later develop progressive disease and require additional therapy.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 365,
+  "conditions": [
+    "Leukaemia, Lymphocytic, Chronic"
+  ],
+  "interventions": [
+    {
+      "name": "OFC Infusion",
+      "type": "DRUG",
+      "description": "Ofatumumab Cycle 1-Day 1 300mg, Cycle 1-Day 8 1000mg, then Cycles 2-6 Day 1 1000mg every 28 days, Fludarabine 25mg/m2 Days 1-3 every 28 days for 6 cycles, Cyclophosphamide 250 mg/m2 Days 1-3 every 28 days for 6 cycles"
+    },
+    {
+      "name": "FC infusion",
+      "type": "DRUG",
+      "description": "Fludarabine 25mg/m2 Days 1-3 every 28 days for 6 cycles, Cyclophosphamide 250mg/m2 Days 1-3 every 28 days for 6 cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* confirmed and active CLL requiring treatment\n* at least one previous treatment for CLL and having achieved a complete or partial remission/response but after a period of 6 or more months, shows evidence of disease progression\n* fully active at a minimum or fully capable of selfcare and up and about more than 50% of waking hours\n* age 18yrs or older\n* signed written informed consent\n\nKey Exclusion Criteria:\n\n* diagnosis of refractory CLL (failure to achieve a complete or partial remission/response or disease progression within 6 months of last anti-CLL treatment\n* abnormal/inadequate blood values, liver and kidney function\n* certain heart problems, serious significant diseases, AIHA, other current cancers or within the last 5 years\n* active or chronic infections\n* use of drugs to suppress allergic or inflammatory responses (glucocorticoids)\n* CLL transformation\n* CLL central nervous system involvement\n* current participation in other clinical study\n* inability to comply with the protocol activities\n* lactating or pregnant women or female patients of child-bearing potential (or male patients with such partners) not willing to use adequate contraception",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Novartis Investigative Site",
+      "city": "Clinton",
+      "state": "Maryland",
+      "zip": "20735",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS), as Assessed by the Independent Review Committee (IRC)",
+      "timeFrame": "From randomization up to 5 years after last dose of study drug",
+      "description": "PFS is defined as the interval of time between the date of randomization and the earlier of the date of disease progression (progressive disease,PD) and the date of death due to any cause. PD requires at least one of the following: lymphadenopathy, appearance of any new lesion such as enlargerd lymph nodes (\\>1.5 cm) spleen or liver or other infiltrates or an increase by 50% or more in the greatest diameter of any previous site; an increase by 50% or more in the previously noted enlargement of the liver or spleen, an increase by 50% or more in the numbers of blood lymphocytes with at least 5000 lymphocytes per microliter, transformation to a more aggressive histology, or occurrence of cytopenia attributable to chronic lymphocytic leukaemia (CLL)."
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2009-03-12",
+  "completion_date": "2017-10-25",
+  "last_updated": "2020-06-05"
+}

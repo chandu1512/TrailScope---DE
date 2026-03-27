@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT00371345",
+  "brief_title": "Study of Dasatinib (BMS-354825) in Patients With Advanced Estrogen/Progesterone Receptor-positive (ER+/PR+) or Her2/Neu-positive (Her2/Neu+)Breast Cancer",
+  "official_title": "Phase II Study of Dasatinib (BMS-354825) for Advanced Estrogen/Progesterone Receptor-Positive or Her2/Neu-Positive Breast Cancer",
+  "brief_summary": "This study will determine whether the investigational drug dasatinib is effective in treatment of women with progressive advanced ER+/PR+ or Her2/neu+ breast cancer",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 92,
+  "conditions": [
+    "Breast Cancer",
+    "Metastasis"
+  ],
+  "interventions": [
+    {
+      "name": "Dasatinib",
+      "type": "DRUG",
+      "description": "Tablets, Oral, 70 mg, twice daily, as long as the participant benefits (average \\<6 months)"
+    },
+    {
+      "name": "Dasatinib 100 mg",
+      "type": "DRUG",
+      "description": "Tablets, Oral, 100mg, twice daily, as long as the participant benefits (average \\<6 months)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* females, 18 or older\n* recurrent, locally advanced, or metastatic breast cancer with expression of ER/PR receptor and/or overexpression of Her2/neu\n* paraffin-embedded tissue block must be available\n* measurable disease\n* prior chemotherapy with an anthracycline and/or a taxane (neoadjuvant, adjuvant, or metastatic setting)\n* 0, 1 or 2 chemotherapies in the metastatic setting\n* adequate organ function\n\nExclusion Criteria:\n\n* Metastatic disease confined to bone only\n* Symptomatic central nervous system (CNS) metastasis\n* Concurrent medical condition which may increase the risk of toxicity\n* Unable to take oral medication",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Objective Response",
+      "timeFrame": "From day of first treatment through Week 25 or at time of discontinuation from study treatment.",
+      "description": "Tumor response was assessed according RECIST criteria: PR=at least 30% reduction in the sum of the LD of all target lesions in reference to the baseline sum LD, CR=Disappearance of all non-target lesions. Objective tumor response was defined as a PR or CR."
+    },
+    {
+      "measure": "Percentage of Participants With Objective Response",
+      "timeFrame": "From day of first treatment through Week 25 or at time of discontinuation from study treatment",
+      "description": "Tumor response was assessed according RECIST criteria: PR=at least 30% reduction in the sum of the LD of all target lesions in reference to the baseline sum LD, CR=Disappearance of all non-target lesions. Percentage of participants with objective tumor response was determined by the number of participants with PR or CR divided by the total number of response-evaluable participants."
+    },
+    {
+      "measure": "Best Overall Response",
+      "timeFrame": "From day of first treatment through Week 25 or at time of discontinuation from study treatment",
+      "description": "Response assessed using Response Evaluation Criteria In Solid Tumors (RECIST) criteria: Complete Response (CR)=disappearance of all target and non-target lesions; Partial Response (PR)=\u226530% decrease in sum of longest diameter (LD) of target lesions; SD=small changes not meeting above criteria; Progressive Disease (PD)=appearance of new lesion(s), \u2265 20% increase in the sum of the LD of target lesions, or progression of existing non-target lesions; Clinical Progression (cPD)=deterioration related to disease requiring treatment without radiographic PD."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2006-12",
+  "completion_date": "2009-05",
+  "last_updated": "2011-04-21"
+}

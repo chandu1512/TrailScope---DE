@@ -1,0 +1,86 @@
+{
+  "nct_id": "NCT04794699",
+  "brief_title": "Study of IDE397 in Participants With Solid Tumors Harboring MTAP Deletion",
+  "official_title": "An Open Label, Phase 1, Treatment Study to Evaluate the Safety, Pharmacokinetics and Pharmacodynamics of IDE397 (MAT2A Inhibitor) In Adult Participants With Advanced Solid Tumors",
+  "brief_summary": "This is a Phase 1, open-label, multicenter, dose escalation and expansion study of the safety, PK, PD, and preliminary anti-tumor activity of IDE397 as a single agent and in combination with other anticancer agents including taxanes (docetaxel, paclitaxel), or sacituzumab govitecan (SG), in adult patients with selected advanced or metastatic MTAP-deleted advanced solid tumors who are unresponsive to standard of care therapy. IDE397 is a small molecule inhibitor of methionine adenosyltransferase 2 alpha (MAT2A).",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 180,
+  "conditions": [
+    "Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "IDE397",
+      "type": "DRUG",
+      "description": "IDE397 dosed orally"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Intravenous infusion"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Intravenous infusion"
+    },
+    {
+      "name": "Sacituzumab govitecan",
+      "type": "DRUG",
+      "description": "Intravenous infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participant must be at least 18 years of age\n* Advanced or metastatic solid tumor that has progressed on at least one prior line of treatment or is intolerant to additional effective standard therapy\n* Have evidence of homozygous loss of MTAP or MTAP deletion\n* Willing to undergo paired fresh biopsy (pre- and post-treatment) procedure. Exceptions may be made for feasibility and safety concerns\n* Measurable disease\n* ECOG performance status \\<= 1\n* Adequate organ function\n* Able to swallow and retain orally administered study treatment\n* Recovery from acute effects of prior therapy\n* Able to comply with contraceptive/barrier requirements\n\nExclusion Criteria:\n\n* Known symptomatic brain metastases\n* Known primary CNS malignancy\n* Current active liver or biliary disease\n* Impairment of gastrointestinal (GI) function\n* Active uncontrolled infection\n* Clinically significant cardiac abnormalities\n* Previous treatment with a MAT2A inhibitor and / or PRMT inhibitor or sacituzumab govitecan\n* Systemic anti-cancer therapy or major surgery within 4 weeks prior to study entry\n* Radiation therapy within 2 weeks prior to study entry\n* Prior irradiation to \\>25% of the bone marrow\n* Current use or anticipated need for food or drugs that are known strong CYP3A4/5 inhibitors or inducers\n* Currently receiving another investigational study drug.\n* Known or suspected hypersensitivity to IDE397/excipients or components",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose-limiting Toxicities (DLTs) of IDE397",
+      "timeFrame": "21 days following the first dose of IDE397",
+      "description": "Incidence of DLTs of IDE397 will be determined"
+    },
+    {
+      "measure": "Dose-limiting Toxicities (DLTs) of IDE397 in combination with docetaxel or paclitaxel or sacituzumab govitecan",
+      "timeFrame": "21 - 28 days following the first dose of IDE397",
+      "description": "Incidence of DLTs of IDE397 in a combination setting will be determined"
+    },
+    {
+      "measure": "Maximum Tolerated Dose (MTD) and/or Recommended Phase 2 Dose (RP2D) of IDE397",
+      "timeFrame": "Approximately 2 years",
+      "description": "MTD and RP2D of IDE397 will be determined"
+    },
+    {
+      "measure": "Maximum Tolerated Dose (MTD) and/or Recommended Phase 2 Dose (RP2D) of IDE397 in combination with docetaxel or paclitaxel or sacituzumab govitecan",
+      "timeFrame": "Approximately 2 years",
+      "description": "MTD and RP2D of IDE397 in a combination setting will be determined"
+    },
+    {
+      "measure": "To evaluate preliminary anti-tumor activity of IDE397 in combination expansion arms",
+      "timeFrame": "Approximately 2 years",
+      "description": "Objective Response Rate (ORR) and Duration of Response (DoR)"
+    }
+  ],
+  "sponsor": "IDEAYA Biosciences",
+  "collaborators": [],
+  "start_date": "2021-04-14",
+  "completion_date": "2027-03-30",
+  "last_updated": "2025-11-07"
+}

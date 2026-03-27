@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT02142049",
+  "brief_title": "Ibrutinib and Lenalidomide With Dose Adjusted EPOCH-R in Subjects With Relapsed/Refractory Diffuse Large B-cell Lymphoma",
+  "official_title": "A Multicenter Study of Ibrutinib and Lenalidomide in Combination With DA-EPOCH-R in Subjects With Relapsed or Refractory Diffuse Large B-cell Lymphoma",
+  "brief_summary": "This is a Phase 1b/2, open-label, non-randomized multicenter study to assess the safety and efficacy of ibrutinib and lenalidomide in combination with DA-EPOCH-R in subjects with relapsed/refractory Diffuse Large B-cell Lymphoma (DLBCL).",
+  "detailed_description": "This is a Phase 1b, open-label, non-randomized multicenter study conducted in 2 parts. Part 1, will determine the MTD of the combination of ibrutinib, lenalidomide and DA-EPOCH-R in subjects with DLBCL.\n\nIbrutinib will be administered at a fixed dose of 560 mg and lenalidomide will be dose-escalated. DA-EPOCH-R will be given at standard doses.\n\nFor Part 2, the MTD determined in Part 1 will be the dose used for all subjects. If no MTD is identified, then subjects in Part 2 will be treated with the maximum administered doses (MAD, treatment doses from dose Level 4).\n\nThe primary objective for Part 2 is to determine the ORR of ibrutinib and lenalidomide in combination with DA-EPOCH-R in subjects with ABC DLBCL as analyzed by gene expression profiling when treated at recommended phase 2 dose (RP2D).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 35,
+  "conditions": [
+    "Diffuse Large B Cell Lymphoma Relapsed",
+    "Diffuse Large B Cell Lymphoma Refractory"
+  ],
+  "interventions": [
+    {
+      "name": "Ibrutinib",
+      "type": "DRUG",
+      "description": "Ibrutinib"
+    },
+    {
+      "name": "DA-EPOCH-R",
+      "type": "DRUG",
+      "description": "Etoposide, Prednisone, Doxorubicin, Cyclophosphamide, Vincristine, Rituximab, Pegfilgrastim"
+    },
+    {
+      "name": "Lenalidomide",
+      "type": "DRUG",
+      "description": "Lenalidomide"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Major inclusion criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status of \u22642\n* Pathologically confirmed relapsed/refractory DLBCL\n* Subjects must have \u22651 measurable disease site on CT scan (\u2265 1.5 cm in longest dimension).\n* Adequate hepatic and renal function:\n\n  * AST or ALT \u22642.5 x ULN\n  * Serum Creatinine \u2264 2.0 mg/dL and creatinine clearance \u226560 mL/min/1.73\n  * Bilirubin \u22641.5 x ULN\n* Adequate hematologic function:\n\n  * ANC \\>1,000 cells/mm3\n  * Platelets \u226575,000 cells/mm3\n  * Hemoglobin \u22658.0 g/dL\n  * Prothrombin time (PT) and activated partial thromboplastin time (aPTT) must be \u22641.5 x the upper limit of the normal range (ULN)\n* Must be registered into the Revlimid REMS\u2122program and be willing to comply with the requirements of Revlimid REMS\u2122.\n\nMajor Exclusion Criteria:\n\n* Known central nervous system lymphoma\n* Any chemotherapy, external beam radiation therapy, or anti-cancer antibodies within 2 weeks\n* Radio- or toxin-immunoconjugates within 10 weeks\n* Prior allogenetic stem cell (or other organ) transplant within 6 months or any evidence of active graft-versus-host disease or requirement for immunosuppressants within 28 days prior to first dose of study drug",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "SITE-5",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "SITE-6",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Dose-Limiting Toxicities as a Measure of Safety and Tolerability",
+      "timeFrame": "1 year after last subjects received the first dose",
+      "description": "Part-1: To determine the maximum tolerated dose (MTD) of the combination of ibrutinib and lenalidomide with dose adjusted EPOCH-R"
+    },
+    {
+      "measure": "Number of Participants With Complete Responses (CR) and Partial Responses (PR) as a Measure of Efficacy-ORR",
+      "timeFrame": "1 year after last subjects received the first dose",
+      "description": "Part 2 - Overall Response rate will be defined as the proportion of subjects who achieve either a Complete Response or a Partial Response according to the international Working Group Response Criteria for NHL as assessed by investigator."
+    }
+  ],
+  "sponsor": "Pharmacyclics LLC.",
+  "collaborators": [
+    "Celgene Corporation"
+  ],
+  "start_date": "2014-05",
+  "completion_date": "2017-08",
+  "last_updated": "2019-01-14"
+}

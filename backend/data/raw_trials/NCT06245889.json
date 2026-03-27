@@ -1,0 +1,90 @@
+{
+  "nct_id": "NCT06245889",
+  "brief_title": "PET Dynamics to Response-Adapted Neoadjuvant Therapy in TNBC",
+  "official_title": "A Pilot Study of Neoadjuvant Response-Adapted Chemotherapy With Pembrolizumab in Patients With Stage 2 and 3 Triple Negative Breast Cancer to Determine Early PET and Biomarker Dynamics",
+  "brief_summary": "Eligible patients with stage 2 and 3 triple negative breast cancer will be treated with 4 cycles of neoadjuvant paclitaxel/carboplatin/pembrolizumab. A PET scan will be performed at baseline and after 1 cycle of therapy. A breast MRI will be performed after treatment completion. Patients with complete clinical response will proceed to surgery. Patients with clinical residual disease will complete neoadjuvant rescue with 4 cycles of doxorubicin/cyclophosphamide prior to surgery. If residual disease identified after surgery, adjuvant therapy to be determined by the treating oncologist (may include doxorubicin/cyclophosphamide/pembrolizumab, capecitabine etc).",
+  "detailed_description": "Eligible participants will undergo baseline procedures including research bloodwork, MRI and PET scan. Participants will then be treated with one cycle of paclitaxel, carboplatin and pembrolizumab (TCarbo/pembro). At the end of Cycle one patients will undergo repeat procedures (bloodwork and PET scan), and then continue with treatment for an additional three cycles. ctDNA will be collected on day 1 of each cycle. At the end of treatment patients will undergo repeat MRI.\n\nPatients achieving a clinical complete response (CR) on MRI will proceed with surgery. Patients with clinical residual disease (RD) on MRI will be recommended a biopsy, and be recommended \"rescue\" neoadjuvant doxorubicin and cyclophosphamide with pembrolizumab (AC/pembro) for four additional cycles, and then proceed with surgery. Note: patients/treating physician may opt to proceed with surgery.\n\nArchival tissue will be collected from the surgical product. Patients achieving a pathologic CR (pCR) may proceed with adjuvant pembrolizumab per standard of care, and treating physician's discretion. Patients with pathological RD may proceed with \"rescue\" adjuvant AC/pembrolizumab for four additional cycles (if not given neoadjuvantly), per treating physician discretion. The participants may also receive Aadjuvant capecitabine or olaparib as indicated and per treating physician's discretion.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 30,
+  "conditions": [
+    "Triple Negative Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "chemotherapy"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "chemotherapy"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "immunotherapy"
+    },
+    {
+      "name": "Doxorubicin",
+      "type": "DRUG",
+      "description": "additional chemotherapy - neoadjuvant or adjuvant rescue"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "additional chemotherapy - adjuvant rescue"
+    },
+    {
+      "name": "Olaparib",
+      "type": "DRUG",
+      "description": "adjuvant rescue"
+    },
+    {
+      "name": "Capecitabine",
+      "type": "DRUG",
+      "description": "adjuvant rescue"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Stage II-III TNBC - estrogen receptor (ER) and progesterone receptor (PR) up to and including 10% is eligible\n2. Age \u2265 18 years\n3. Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2\n4. Eligible for standard chemo-immunotherapy as determined by treating physician, including consideration of:\n\n   1. Adequate marrow and organ function\n   2. Co-morbid conditions do not preclude the use of chemo-immunotherapy (such as uncontrolled autoimmune disease, or the use of immunosuppressive medications)\n5. Patients must have the ability to understand and the willingness to sign a written informed consent prior to registration on study\n\nExclusion Criteria:\n\n1. Patients unable to undergo PET or MRI\n2. Evidence of metastatic disease or loco-regional recurrence (i.e. distant or chest wall recurrence)\n3. Inflammatory breast cancer\n4. Previous treatment with paclitaxel, carboplatin, or immune checkpoint inhibitors",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "SULmax in relation to pCR",
+      "timeFrame": "8 months",
+      "description": "Evaluate if lack of decrease in fluorodeooxyglucose (FDG) / positron emission tomography (PET) standardized uptake value corrected for lean body mass (SULmax) by \\<40% after 1 cycle of neoadjuvant therapy correlates with residual disease at the time of surgery."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Breast Cancer Research Foundation"
+  ],
+  "start_date": "2024-05-01",
+  "completion_date": "2030-06",
+  "last_updated": "2025-09-18"
+}

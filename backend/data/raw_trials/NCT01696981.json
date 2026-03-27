@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT01696981",
+  "brief_title": "Screening for Colorectal Cancer in Older Patients (PLCO Screening Trial)",
+  "official_title": "Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial",
+  "brief_summary": "This clinical trial studies whether screening methods used to diagnose cancer of the prostate, lung, colon, rectum, or ovaries can reduce deaths from these cancers. Screening tests may help doctors find cancer cells early and plan better treatment for colorectal cancer.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine whether screening with flexible sigmoidoscopy (60-cm sigmoidoscope) can reduce mortality from colorectal cancer in women and men aged 55-74 at study entry.\n\nSECONDARY OBJECTIVES:\n\nI. To assess screening variables, other than mortality, for each of the interventions including sensitivity, specificity, and positive predictive value.\n\nII. To assess the incidence, stage, and survival of cancer cases. III. To investigate the mortality predictive value of biologic and/or prognostic characterizations of tumor tissue as intermediate endpoints.\n\nIV. To conduct biomolecular and genetic research into factors associated with cancer carcinogenesis and promotion, as well as the early detection of these factors.\n\nOUTLINE: Participants in the overall PLCO study are stratified by screening center, gender, and age (55-59 vs 60-64 vs 65-69 vs 70-74). Participants are randomized to 1 of 2 arms (control vs screening).\n\nARM I (Control): Participants receive standard medical care. Participants complete a Diet History Questionnaire (DHQ) at baseline.\n\nARM II (Colorectal Screening): Participants undergo a colorectal examination with a flexible sigmoidoscope at baseline and year 5. A scheduling and tracking procedure is implemented to ensure regular attendance at repeat screens for participants screened negative or for those who are designated suspicious or positive at screening but for whom subsequent diagnostic procedures do not reveal colorectal cancer (follow-up diagnostic procedures are through their own medical care environment). Participants diagnosed with colorectal cancer via a screening test are referred for treatment in accordance with current accepted practice for appropriate stage of disease, patient age, and medical condition; a procedure is provided for contact with qualified medical personnel to insure appropriate therapy.\n\nParticipants complete a Dietary Questionnaire (DQX) at baseline and DHQ at year 3. An Annual Study Update (ADU) (previously referred to as the Periodic Survey of Health \\[PSH\\] questionnaire) is mailed to each participant annually for 13 years to identify all prevalent and incident colorectal cancers as all deaths that occur among both screened and control subjects during the trial.\n\nAfter completion of screening, participants are followed up for at least 13 years.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 154900,
+  "conditions": [
+    "Colon Carcinoma",
+    "Rectal Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Screening Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Undergo questionnaire assessments"
+    },
+    {
+      "name": "Sigmoidoscopy",
+      "type": "PROCEDURE",
+      "description": "Undergo a flexible sigmoidoscopy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Exclusion Criteria:\n\n* Men and women who at the time of randomization are less than 55 or greater than or equal to 75 years of age\n* Individuals undergoing treatment for cancer at this time, excluding basal-cell and squamous-cell skin cancer\n* Individuals with known prior cancer of the colon, rectum, lung, prostate\n\n  * This includes primary or metastatic PLCO cancers\n* Individuals with previous surgical removal of the entire colon, one lung, or the entire prostate (men only)\n\n  * Until October 1996, women with previous surgical removal of both ovaries were excluded from the trial. In order to increase the enrollment of women into the trial, beginning in October 1996, these women were no longer excluded for this reason.\n* Individuals who are participating in another cancer screening or cancer primary prevention trial\n* Males who have taken Proscar/Propecia/finasteride in the past 6 months\n\n  * NOTE: Individuals who are already enrolled in the trial when their physician prescribes finasteride are not prevented from taking this medication. As a result, these participants will continue to be screened and followed just as those participants who are not on finasteride.\n  * NOTE: Men who are taking Tamoxifen are not excluded from any part of the PLCO Screening Trial.\n  * Prior to April 1, 1999 women were excluded from the trial if they were currently taking or had taken Tamoxifen or Evista\\\\Raloxifene in the past 6 months. As of April 1999 based on a decision from the PLCO Ovary Subcommittee, women who have or are currently taking Tamoxifen or Evista\\\\Raloxifene are not excluded from participation.\n* Individuals who are unwilling or unable to sign the informed consent form\n* Males who have had more than one PSA blood test in the past three years\n* Individuals who have had a colonoscopy, sigmoidoscopy, or barium enema in the past three years",
+    "gender": "ALL",
+    "min_age": "55 Years",
+    "max_age": "74 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health Clinical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Colorectal Cancer Deaths",
+      "timeFrame": "Events through 13 years of follow-up or through December 31, 2009; median follow-up 12.1 years.",
+      "description": "Colorectal cancer deaths confirmed in participants by a death review committee if available, otherwise by death certificate."
+    },
+    {
+      "measure": "Colorectal Cancer Death Rates",
+      "timeFrame": "Events through 13 years of follow-up or through December 31, 2009; median follow-up 12.1 years.",
+      "description": "Colorectal cancer deaths confirmed in participants by a death review committee if available, otherwise by death certificate. Rate is the number of deaths divided by person years of follow-up in the study."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "1993-11-16",
+  "completion_date": "2026-03-25",
+  "last_updated": "2025-07-22"
+}

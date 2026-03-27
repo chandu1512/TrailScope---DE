@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT03089203",
+  "brief_title": "CART-PSMA-TGF\u03b2RDN Cells for Castrate-Resistant Prostate Cancer",
+  "official_title": "Phase I Study of CART-PSMA-TGF\u03b2RDN Cells in Patients With Advanced Castrate Resistant Prostate Cancer",
+  "brief_summary": "This is a single center, single arm Phase I study to establish the safety and feasibility of intravenously administered lentivirally transduced dual PSMA-specific/TGF\u03b2-resistant CAR modified autologous T cells (CART-PSMA-TGF\u03b2RDN cells) in patients with metastatic castrate resistant prostate cancer.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 23,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "CART-PSMA-TGF\u03b2RDN cells",
+      "type": "BIOLOGICAL",
+      "description": "autologous CAR T cells"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "300 mg/m2/day given over 3 days"
+    },
+    {
+      "name": "Fludarabine",
+      "type": "DRUG",
+      "description": "30 mg/m2/day given over 3 days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Metastatic castrate resistant prostate cancer\n2. RETIRED WITH PROTOCOL VERSION 15\n3. Radiographic evidence of osseous metastatic disease and/or measurable, non-osseous metastatic disease (nodal or visceral)\n4. Patients \u2265 18 years of age\n5. ECOG performance status of 0 - 1\n6. Adequate organ function, as defined by:\n\n   1. Serum creatinine \u2264 1.5 mg/dl or creatinine clearance \u2265 60 cc/min\n   2. Serum total bilirubin \\< 1.5x ULN\n   3. Serum ALT/AST \\< 2x ULN\n7. Adequate hematologic reserve within 4 weeks of eligibility confirmation by physician-investigator as defined by:\n\n   1. Hgb \\> 10 g/dl\n   2. PLT \\> 100 k/ul\n   3. ANC \\> 1.5 k/ul Note: Subjects must not be transfusion dependent\n8. Evidence of progressive castrate resistant prostate adenocarcinoma, as defined by:\n\n   1. Castrate levels of testosterone (\\< 50 ng/ml) with or without the use of androgen-deprivation therapy AND\n   2. Evidence of one of the following measures of progressive disease in the 12 weeks preceding eligibility confirmation by physician:\n\n   i. soft tissue progression by RECIST 1.1 criteria ii. osseous disease progression with 2 or more new lesions on bone scan (as per PCWG2 criteria) iii. increase in serum PSA of at least 25% and an absolute increase of 2 ng/ml or more from nadir (as per PCWG2 criteria)\n9. Prior therapy with at least one standard initial therapy for the treatment of metastatic castrate resistant prostate cancer (i.e. docetaxel chemotherapy, 17\u03b1 lyase inhibitor, or second-generation anti-androgen therapy)\n10. Provides written informed consent\n11. Subjects of reproductive potential must agree to use acceptable birth control methods\n\nExclusion Criteria:\n\n1. RETIRED WITH PROTOCOL V16\n2. History of an active non-curative non-prostate primary malignancy within the prior 3 years\n3. RETIRED WITH PROTOCOL VERSION 6\n4. Subjects who require the chronic use of systemic corticosteroid therapy. Patients may be on a low dose of steroids (\u226410mg equivalent of prednisone).\n5. RETIRED WITH PROTOCOL V13\n6. Subjects with Class III/IV cardiovascular disability according to the New York Heart Association Classification\n7. Subjects with symptomatic vertebral metastases affecting spinal cord function (as determined by clinical history, physical exam, or MRI imaging)\n8. Active autoimmune disease, including connective tissue disease, uveitis, inflammatory bowel disease, or multiple sclerosis; or a history of severe (as judged by the physician-investigator) autoimmune disease requiring prolonged immunosuppressive therapy\n9. Patients with ongoing or active infection.\n10. History of allergy or hypersensitivity to study product excipients (human serum albumin, DMSO, and Dextran 40)\n11. Active hepatitis B, hepatitis C or HIV infection.\n12. Active medical condition that, in the opinion of the physician-investigator, would substantially increase the risk of uncontrollable CRS or CAR Neurotoxicity.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Occurrence of study related adverse events, laboratory toxicities and clinical events that are possibly, likely, or definitely related to study participation.",
+      "timeFrame": "15 years",
+      "description": "using CTCAE v 4.03"
+    },
+    {
+      "measure": "Clinical feasibility is defined as the frequency of subjects enrolled on this protocol who do not receive CART-PSMA-TGF\u03b2RDN cells.",
+      "timeFrame": "30 days",
+      "description": ""
+    },
+    {
+      "measure": "Manufacturing feasibility is determined by the frequency of product release failures and the occurrence of dose failures (inability to meet target dose).",
+      "timeFrame": "30 days",
+      "description": ""
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [],
+  "start_date": "2017-03-08",
+  "completion_date": "2038-12-08",
+  "last_updated": "2026-02-19"
+}

@@ -1,0 +1,53 @@
+{
+  "nct_id": "NCT01688401",
+  "brief_title": "Intra-arterial Chemotherapy for the Treatment of Progressive Diffuse Intrinsic Pontine Gliomas (DIPG).",
+  "official_title": "Intra-arterial Chemotherapy for the Treatment of Progressive Diffuse Intrinsic Pontine Gliomas (DIPG).",
+  "brief_summary": "The goal of this pilot study is to determine if intra-arterial (IA) chemotherapy is safe in the treatment of progressive diffuse intrinsic pontine gliomas (DIPG). IA administration of the chemotherapeutic agent enhances the regional distribution of the drug, thereby increasing the local delivered dose while minimizing systemic toxicity. It also provides a treatment option for these patients at the time of tumor recurrence.",
+  "detailed_description": "Delivering the chemotherapeutic agent directly to the tumor via the arterial system avoids the complications and adverse events associated with toxicity from systemic chemotherapy.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 3,
+  "conditions": [
+    "Diffuse Intrinsic Pontine Glioma (DIPG)"
+  ],
+  "interventions": [
+    {
+      "name": "Melphalan hydrochloride",
+      "type": "DRUG",
+      "description": "Drug administered intra-arterially (injection in the artery).\n\nStandard dose: Cycle 1: 1 mg, intra-arterial (IA) delivery. Cycle 2: 2 mg, intra-arterial (IA) delivery.\n\nDuration of treatment: Eight weeks total - two cycles of IA chemotherapy, separated by four weeks."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Pediatric patients of all ages with progressive DIPG.\n* Consensus following presentation of the case at the multidisciplinary Pediatric Neuro-Oncology conference, which includes participation of neuro-oncology, neurosurgery, radiation oncology, interventional neuroradiology and neurology.\n\nExclusion Criteria:\n\n* Documented hypercoagulable disorders or vasculopathies\n\n  * INR value more than a Grade 1 toxicity by CTCAE v 4.0 criteria (\\>1 - 1.5 x ULN; \\>1 - 1.5 times above baseline if on anticoagulation).\n  * APTT value more than a Grade 1 toxicity by CTCAE v 4.0 criteria (\\>ULN - 1.5 x ULN).\n* Platelets less than 50 x 103/mm3\n* Absolute neutrophil count less than 500/ mm3\n* Pregnancy\n* Documented severe allergic reaction to IV iodinated contrast, specifically bronchospasm and anaphylaxis.",
+    "gender": "ALL",
+    "min_age": "1 Month",
+    "max_age": "17 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Technical safety as determined by number of participants with toxicity",
+      "timeFrame": "60 days",
+      "description": "Number of participants with grades 3-5 intracranial hemorrhage, grades 3-5 stroke, as defined by the Nervous system disorder CTCAE, and requirement of blood transfusion."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Solving Kids' Cancer"
+  ],
+  "start_date": "2013-03-08",
+  "completion_date": "2018-11-26",
+  "last_updated": "2019-03-26"
+}

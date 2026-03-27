@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT02211131",
+  "brief_title": "Efficacy and Safety of Talimogene Laherparepvec Neoadjuvant Treatment Plus Surgery Versus Surgery Alone for Melanoma",
+  "official_title": "A Phase 2, Multicenter, Randomized, Open-label Trial Assessing the Efficacy and Safety of Talimogene Laherparepvec Neoadjuvant Treatment Plus Surgery Versus Surgery Alone for Resectable, Stage IIIB to IVM1a Melanoma",
+  "brief_summary": "This is a phase 2, multicenter, randomized, open-label study to estimate the efficacy of talimogene laherparepvec as a neoadjuvant treatment followed by surgery compared to surgery alone in subjects with completely resectable stage IIIB, IIIC, or IVM1a melanoma.",
+  "detailed_description": "This is a phase 2, multicenter, randomized, open-label study to estimate the efficacy of talimogene laherparepvec as a neoadjuvant treatment followed by surgery compared to surgery alone in subjects with completely resectable stage IIIB, IIIC, or IVM1a melanoma.\n\nArm 1: Talimogene laherparepvec for 6 doses followed by surgical resection of melanoma tumor lesion(s).\n\nArm 2: Immediate surgical resection of melanoma tumor lesion(s) Following surgery, adjuvant systemic therapy and/or radiotherapy may be administered at the investigator's discretion and per the institutional standard of care.\n\nSubjects will be followed for safety approximately 30 (+15) days after surgery and for disease recurrence, subsequent anticancer therapy, and survival every 3 months (\u00b130 days) for first 3 years after the end of the safety follow-up period and then every 6 months (\u00b130 days) until death, subject withdraws full consent, or up to 5 years after the last subject is randomized.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 150,
+  "conditions": [
+    "Completely Resectable Stage IIIB, IIIC, or IVM1a Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Talimogene Laherparepvec",
+      "type": "DRUG",
+      "description": "Talimogene laherparepvec will be administered by intralesional injection into the injectable cutaneous, subcutaneous, and nodal tumors initially at a dose of 10\\^6 plaque forming units (PFU)/mL at day 1 of week 1 followed by a dose of 10\\^8 PFU/mL at day 1 (\u00b13 days) of week 4, 6, 8, 10 and 12 or until all injectable tumors have disappeared, or intolerance of study treatment or in the opinion of the investigator, immediate surgical resection or any other treatment for melanoma is warranted, whichever occurs first."
+    },
+    {
+      "name": "Immediate surgical resection of melanoma lesion(s)",
+      "type": "PROCEDURE",
+      "description": "Surgical resection of melanoma tumor lesion(s) will be performed after randomization any time during weeks 1 to 6."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of stage IIIB, IIIC or IVM1a melanoma eligible for complete surgical resection.\n* Prior systemic, regional and radiation anticancer therapies for melanoma must have been completed at least 3 months prior to randomization.\n* Subject must have measurable disease and must be a candidate for intralesional therapy with at least one injectable cutaneous, subcutaneous, or nodal melanoma lesion (\u2265 10 mm in longest diameter) or with multiple injectable lesions that in aggregate have a longest diameter of \u2265 10 mm.\n* Subject must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 and must have a serum lactate dehydrogenase (LDH) \u2264 1.0 X upper limit of normal and adequate hematologic, hepatic, renal, and coagulation organ function- Other criteria may apply\n\nExclusion Criteria:\n\n* Subject must not have primary ocular or mucosal melanoma, or history or evidence of melanoma associated with immunodeficiency states (eg, hereditary immune deficiency, organ transplant, or leukemia).\n* Subject must not have history or evidence of symptomatic autoimmune pneumonitis, glomerulonephritis, vasculitis, or other symptomatic autoimmune disease.\n* Subject must not have evidence of clinically significant immunosuppression or active herpetic skin lesions or prior complications of herpes simplex type 1 (HSV-1) infection (eg, herpetic keratitis or encephalitis) and must not require intermittent or chronic systemic treatment with an antiherpetic drug (eg, acyclovir), other than intermittent topical use.\n* Subject known to have acute or chronic active hepatitis B, hepatitis C, or human immunodeficiency virus infection will also be excluded.\n* Subject must not have been treated previously with talimogene laherparepvec or tumor vaccine.\n\nOther criteria may apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Recurrence-Free Survival (RFS)",
+      "timeFrame": "24 months after last participant was randomized (data cutoff date of 30 April 2019)",
+      "description": "Recurrence free survival (RFS) is defined as the time from randomization to the date of event, and is presented as a Kaplan Meier estimate of time to events. The event for RFS is defined as the first of local, regional, or distant recurrence of melanoma or death due to any cause. Participants without a histopathology tumor-free margin (R0) surgical outcome or those who withdrew prior to surgery were considered an event at randomization. Participants without an event were censored at their last evaluable tumor assessment."
+    }
+  ],
+  "sponsor": "Amgen",
+  "collaborators": [],
+  "start_date": "2015-02-03",
+  "completion_date": "2022-04-28",
+  "last_updated": "2023-05-09"
+}

@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT02218606",
+  "brief_title": "Multicenter Trial of Abiraterone Acetate With or Without Cabazitaxel in Treatment of Metastatic Castration Resistant Prostate Cancer",
+  "official_title": "An Exploratory Randomized Phase II Multicenter Trial of Abiraterone Acetate With or Without Cabazitaxel in Treatment of Metastatic Castration Resistant Prostate Cancer",
+  "brief_summary": "The purpose of this study is to see what effects (good and bad) treatment with abiraterone acetate (an oral hormonal agent) and prednisone (a steroid) with and without cabazitaxel (a chemotherapy) have on the cancer and to find out more about whether specific laboratory tests on tumor are useful in predicting how the patient will respond to treatment.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 81,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Abiraterone acetate 1000 mg po daily",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Cabazitaxel 25 mg/m2 IV",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "prednisone 5 mg po BID",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patient needs to have a histologic or cytologic diagnosis of prostate cancer\n\nDocumented progressive metastatic CRPC based on at least one of the following criteria:\n\n1. PSA progression defined as 25% increase over baseline value with an increase in the absolute value of at least 2 ng/mL that is confirmed by another PSA level with a minimum of a 1 week interval and a minimum PSA of 2 ng/mL.\n2. Soft-tissue progression defined as an increase \u2265 20% in the sum of the LD of all target lesions based on the smallest sum LD since treatment started or the appearance of one or more new lesions.\n3. Progression of bone disease (evaluable disease) or (new bone lesion(s)) by bone scan.\n\n   * Agree to undergo a biopsy of at least one metastatic site or primary prostate for determination of the RB status. Adequate archival metastatic tissue can be used if available in lieu of a biopsy if done when patient had CRPC (within 6 months of treatment start).\n   * ECOG performance status of 0-2.\n   * Age \u2265 18 years.\n   * Have testosterone \\< 50 ng/dL. Patients must continue primary androgen deprivation with an LHRH/GnRH analogue (agonist or antagonist) if they have not undergone orchiectomy.\n   * Patients on long term (\\>6 months) anti-androgen therapy (e.g. flutamide, bicalutamide, nilutamide) will need to be off anti-androgen for 4 weeks (wash out period) and show evidence of disease progression off the anti-androgen. Patients that have been on an anti-androgen 6 months or less will need to discontinue anti-androgen therapy prior to treatment start (no wash out period required).\n   * Patients must have adequate organ and marrow function as defined below obtained within 14 days prior to treatment start:\n   * ANC \\>=1,500/\u03bcl\n   * Hemoglobin \\>=9g/dL\n   * Platelet count \\>=100,000/\u03bcl\n   * Creatinine \u2264 1.5 x the institutional upper limit of normal (ULN)\n   * Potassium \\> 3.5 mmol/L (within institutional normal range)\n   * Bilirubin \u2264 ULN (unless documented Gilbert's disease)\n   * SGOT (AST) \\<=2.5 x ULN\n   * SGPT (ALT) \\<=2.5 x ULN\n   * The effects of cabazitaxel and abiraterone acetate on the developing human fetus at the recommended therapeutic dose are unknown. Men must agree to use adequate contraception prior to study entry, for the duration of study participation and for at least 3 months thereafter.\n   * Patients must be able to take oral medication without crushing, dissolving or chewing tablets.\n   * Patients may have received prior radiation therapy or major surgery. However, at least 21 days prior to treatment start must have elapsed since completion of radiation therapy or major surgery and patient must have recovered from all side effects at the time of randomization.\n   * Ability to understand and the willingness to sign a written informed consent document that is approved by the local institutional review board.\n\nExclusion Criteria:\n\n* Patients may not be receiving any other investigational agents. Any prior investigational therapeutic products must be stopped at least 28 days (4 week washout) prior to treatment start.\n* No prior exposure to abiraterone acetate or other specific CYP-17 inhibitors.\n* No prior chemotherapy regimen. Prior isotope therapy with Strontium-89, Samarium or RAD223 should be completed at least three months (12 weeks) prior to treatment start.\n* No \u2265 grade 2 peripheral neuropathy\n* Patients who have had antifungal agents (itraconazole, fluconazole) within 4 weeks prior to treatment start or those who have not recovered from AEs due to these agents administered more than 4 weeks earlier.\n* Patients with a history of pituitary or adrenal dysfunction, active or symptomatic viral hepatitis or chronic liver disease are not eligible.\n* Patients with known symptomatic brain metastases should be excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other AEs.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to cabazitaxel or other drugs formulated with polysorbate 80; or abiraterone acetate.\n* Patients may continue on a daily Multi-Vitamin, calcium and Vitamin D, but all other herbal, alternative and food supplements (i.e. PC-Spes, Saw Palmetto, St John Wort, etc.) must be discontinued before treatment start. Patients must not be planning to receive any concurrent cytotoxic chemotherapy, surgery for their prostate cancer, or radiation therapy during protocol treatment.\n* Patients on stable doses of bisphosphonates or the RANK-L inhibitor, Denosumab, which have been started no less than 4 weeks prior to treatment start, may continue on this medication, however patients are not allowed to initiate bisphosphonate/Denosumab therapy during the study.\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure (New York Heart Association Class III and IV heart failure), unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that, in the opinion of the investigator, would limit",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (rPFS)",
+      "timeFrame": "Up to 100 weeks",
+      "description": "using the RECIST criteria"
+    }
+  ],
+  "sponsor": "Memorial Sloan Kettering Cancer Center",
+  "collaborators": [
+    "Sanofi",
+    "Thomas Jefferson University",
+    "Weill Medical College of Cornell University"
+  ],
+  "start_date": "2014-08",
+  "completion_date": "2023-10-13",
+  "last_updated": "2024-12-05"
+}

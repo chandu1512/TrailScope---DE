@@ -1,0 +1,112 @@
+{
+  "nct_id": "NCT05243797",
+  "brief_title": "Phase 3 Study of Teclistamab in Combination With Lenalidomide and Teclistamab Alone Versus Lenalidomide Alone in Participants With Newly Diagnosed Multiple Myeloma as Maintenance Therapy Following Autologous Stem Cell Transplantation",
+  "official_title": "Phase 3 Study of Teclistamab in Combination With Lenalidomide and Teclistamab Alone Versus Lenalidomide Alone in Participants With Newly Diagnosed Multiple Myeloma as Maintenance Therapy Following Autologous Stem Cell Transplantation - MajesTEC-4",
+  "brief_summary": "This is a multicenter, randomized, open-label, Phase 3 study in participants with newly diagnosed multiple myeloma to evaluate the benefits of teclistamab in combination with lenalidomide and teclistamab alone versus lenalidomide alone as maintenance therapy after autologous stem cell transplant.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1594,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Teclistamab",
+      "type": "DRUG",
+      "description": "Teclistamab will be administered via a subcutaneous injection (SC)"
+    },
+    {
+      "name": "Lenalidomide",
+      "type": "DRUG",
+      "description": "Lenalidomide will be administered orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Must have a new diagnosis of multiple myeloma according to IMWG criteria and have received induction +/- consolidation.\n* Must have received only one line of therapy and achieved at least a partial response (\u2265PR) as per IMWG 2016 response criteria (Kumar 2016) without evidence of progression at the time of first treatment dose.\n* Must not be intolerant to the starting dose of lenalidomide.\n* Must not have received any maintenance therapy.\n* Have an ECOG performance status score of 0, 1, or 2 at screening and immediately prior to the start of administration of study treatment\n* Have clinical laboratory values within prespecified range.\n\nExclusion Criteria:\n\n* Received any prior BCMA-directed therapy.\n* Any previous therapy with an immune cell redirecting agent or gene modified adoptive cell therapy (eg, chimeric antigen receptor modified T cells, NK cells).\n* Discontinued treatment due to any AE related to lenalidomide as determined by the investigator.\n* Progressed on multiple myeloma therapy at any time prior to screening.\n* Received a cumulative dose of corticosteroids equivalent to \u2265140 mg of prednisone within the 14 days prior to first treatment dose.\n* Received a live, attenuated vaccine within 4 weeks before first treatment dose. Non-live vaccines or non-replicating authorized for emergency use (eg. COVID-19) are allowed.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Christiana Care",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19718",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Greenebaum Cancer Center UM of MD",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "John Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21218",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Lehigh Valley Health Network",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Penn Medicine Lancaster General",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17602",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Abramson Cancer Center University of Pennsylvania Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "from randomization to the date of disease progression or death (approximately up to 8 years)",
+      "description": "PFS is defined as the time from the date of randomization to the date of disease progression (as assessed by IMWG criteria) or death due to any cause, whichever occurs first."
+    },
+    {
+      "measure": "Minimal Residual Disease (MRD)-negative Complete Response (CR)",
+      "timeFrame": "at month 12",
+      "description": "12-month MRD-negative CR is defined as participants who achieve MRD-negative status at 12 months, as determined by next-generation flow cytometry (NGF) with sensitivity of 10\\^-5, prior to progressive disease or subsequent anti-myeloma therapy, whichever is earlier, and who also achieve CR of better, according to IMWG criteria."
+    }
+  ],
+  "sponsor": "European Myeloma Network B.V.",
+  "collaborators": [
+    "Janssen Pharmaceutica"
+  ],
+  "start_date": "2022-09-08",
+  "completion_date": "2032-04",
+  "last_updated": "2026-03-24"
+}

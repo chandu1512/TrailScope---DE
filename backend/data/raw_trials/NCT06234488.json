@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT06234488",
+  "brief_title": "Multi-Institutional Transgender & Gender-Diverse Breast Cancer Study",
+  "official_title": "A Multi-Institutional Retrospect Cohort Study of Breast Cancer Diagnosis and Management in Transgender and Gender-Diverse Individuals",
+  "brief_summary": "There is no granular retrospective data on breast cancer in transgender and gender-diverse (TGD) persons from a contemporary and diverse American cohort. The purpose of this investigation is to aggregate data from multiple institutions to describe the risk, diagnosis, management, and outcomes of TGD persons with breast cancer in effort to identify opportunities for future intervention studies to eliminate breast cancer disparities for this population.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 125,
+  "conditions": [
+    "Breast Cancer",
+    "Breast Neoplasms",
+    "Breast Adenocarcinoma",
+    "Breast Cancer Stage",
+    "Breast Cancer Stage IV",
+    "Breast Cancer Invasive",
+    "Breast Cancer in Situ"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age 18 years of age or older\n2. Breast cancer diagnosis (including DCIS)\n3. Persons who identify as gender and/or sex that is different from the sex they were assigned at birth\n\nExclusion Criteria:\n\n1. Age \\<18 at time of breast cancer diagnosis\n2. Cis-gendered persons",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Breast Cancer Diagnosis Method",
+      "timeFrame": "33 years",
+      "description": "Describe the method of breast cancer diagnosis (self detected vs screen detected vs healthcare provider detected) and compare to the published data from cisgender women by determining means and standard deviation and comparing rates using the Wilcoxon signed-rank test."
+    },
+    {
+      "measure": "Breast Cancer Risk Factors",
+      "timeFrame": "33 years",
+      "description": "Assess breast cancer risk factors (family history, genetics, etc.), including a prior use of gender-affirming hormone therapy and/or gender-affirming surgery on tumor receptor status and stage at diagnosis using t-test and chi-squared test."
+    },
+    {
+      "measure": "Breast Cancer Management Strategies",
+      "timeFrame": "33 years",
+      "description": "Report breast cancer management strategies (type of breast surgery, receipt of radiation, etc.) through descriptive and comparative staststics with a focus on the use of adjuvant endocrine therapy and gender-affirming hormone therapy for patients with hormone-receptor positive disease using t-test and chi-squared test."
+    },
+    {
+      "measure": "Outcomes Data",
+      "timeFrame": "33 years",
+      "description": "Breast cancer local and distant recurrence, overall survival, and disease-free survival using Kaplan-Meier analysis. Cox Proportional Hazards model will be used to estimate the effect of various factors on distant metastasis-free and overall survival."
+    }
+  ],
+  "sponsor": "Medical College of Wisconsin",
+  "collaborators": [],
+  "start_date": "2023-12-08",
+  "completion_date": "2026-08-30",
+  "last_updated": "2026-01-09"
+}

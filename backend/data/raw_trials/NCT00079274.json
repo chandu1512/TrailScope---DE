@@ -1,0 +1,611 @@
+{
+  "nct_id": "NCT00079274",
+  "brief_title": "Comparison of Combination Chemotherapy Regimens With or Without Cetuximab in Treating Patients Who Have Undergone Surgery For Stage III Colon Cancer",
+  "official_title": "A Randomized Phase III Trial of Oxaliplatin (OXAL) Plus 5-Fluorouracil (5-FU)/Leucovorin (CF) With or Without Cetuximab (C225) After Curative Resection for Patients With Stage III Colon Cancer",
+  "brief_summary": "This randomized phase III trial was originally designed to compare three different combination chemotherapy regimens to see how well they work. As of September 1, 2004, the study was expanded to a total of 6 arms (the original 3 arms (A, B, C) and 3 additional arms which were the same as the first 3 but with cetuximab) in treating patients who have undergone surgery for stage III colon cancer. Drugs used in chemotherapy, such as irinotecan hydrochloride, fluorouracil, leucovorin calcium, and oxaliplatin, work in different ways to stop tumor cells from dividing so they stop growing or die. Monoclonal antibodies such as cetuximab can locate tumor cells and either kill them or deliver tumor-killing substances to them without harming normal cells. Combining more than one chemotherapy drug with monoclonal antibody therapy and giving them after surgery may kill any remaining tumor cells. It was not known at the time this study was developed which combination chemotherapy regimen is more effective after surgery in treating colon cancer. This study had several key changes, based on the results of other phase III trials. As of 6/1/2005, patients no longer received irinotecan on this study and treatment arms B, C, E, and F were discontinued. Patients on arms B and C crossed to arm A. Patients on arms E and F crossed to arm D. Patients on arms C and F who had not gotten to irinotecan continued on arms A and D, respectively. As of 8/18/2008, pre-screening for Kirsten rat sarcoma (KRAS) status was added with mutant KRAS (or KRAS not evaluable) patients put on arm G and wild-type KRAS patients randomized between arm A and arm D. Patients on arm G were treated per physician discretion and followed for disease and survival status. KRAS was determined in a central laboratory and was process for all patients on this study. The primary endpoint of this study was modified on 8/18/2008 to focus on patients having wild-type KRAS tumors. All modifications were approved by the Central Institution Review Board, local Institutional Review Boards, NCI, and the NCCTG Data Safety Monitoring Board.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. Disease-free Survival (Arms A and D: Wild-type KRAS Patients)\n\nSECONDARY OBJECTIVES:\n\nI. Disease-free Survival (Arms A and D: Mutant KRAS Patients) II. Disease-free Survival III. Overall Survival IV. Toxicity\n\nOUTLINE: This is a randomized, multicenter study. Patients are stratified according to positive lymph node involvement (1-3 vs 4 or more), histology (high \\[poorly differentiated or undifferentiated\\] vs low \\[well to moderately differentiated\\]), and clinical T stage (T1 or T2 vs T3 vs T4). Patients are randomized to 1 of 6 treatment arms (as of 6/1/2005, patients are randomized to treatment arms I and IV only; arms II, III, V, and VI are closed to accrual). As of 8/18/2008, pre-screening for KRAS status was added with mutant KRAS (or KRAS not evaluable) patients put on arm G and wild-type KRAS patients randomized between arm A and arm D.\n\nARM A: Patients receive oxaliplatin intravenously (IV) over 2 hours, leucovorin calcium IV over 2 hours, and fluorouracil IV continuously over 46-48 hours on days 1. Treatment repeats every 14 days for up to 12 courses in the absence of unacceptable toxicity or recurrent disease.\n\nARM B (closed to accrual as of 6/1/2005--currently enrolled patients may cross over to arm I for remainder of therapy): Patients receive irinotecan hydrochloride IV over 2 hours on day 1 and leucovorin calcium and fluorouracil as in arm A. Treatment repeats every 14 days for up to 12 courses in the absence of unacceptable toxicity or recurrent disease.\n\nARM C (closed to accrual as of 6/1/2005--currently enrolled patients may cross over to arm I for remainder of therapy): Patients receive the same treatment as in arm A for 6 courses followed by the same treatment as in arm B for 6 courses (total of 12 courses). Treatment continues in the absence of unacceptable toxicity or recurrent disease.\n\nARM D: Patients receive cetuximab\\* IV over 1 hour on days 1 and 8 and oxaliplatin, leucovorin calcium, and fluorouracil as in arm A. Treatment repeats every 14 days for up to 12 courses in the absence of unacceptable toxicity or recurrent disease.\n\nARM E (closed to accrual as of 6/1/2005--currently enrolled patients may cross over to arm D for remainder of therapy): Patients receive cetuximab\\* as in arm D and irinotecan hydrochloride, leucovorin calcium, and fluorouracil as in arm B. Treatment repeats every 14 days for up to 12 courses in the absence of unacceptable toxicity or recurrent disease.\n\nARM F (closed to accrual as of 6/1/2005--currently enrolled patients may cross over to arm D for remainder of therapy): Patients receive cetuximab\\* as in arm D and chemotherapy as in arm C.\n\nARM G (added as of 8/18/2008, mutant KRAS (or KRAS not evaluable) patients): Locally directed therapy.\n\nNOTE: \\*Cetuximab is administered over 2 hours at a higher dose on day 1 of course 1 only.\n\nQuality of life (QOL) is assessed at baseline, 3 months, and at the end of therapy. As of 8/18/2008, QOL was discontinued.\n\nPatients are followed for a maximum of 8 years from randomization.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 3397,
+  "conditions": [
+    "Adenocarcinoma of the Colon",
+    "Stage III Colon Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "irinotecan hydrochloride",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "oxaliplatin",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "leucovorin calcium",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "fluorouracil",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "cetuximab",
+      "type": "BIOLOGICAL",
+      "description": "Given IV"
+    },
+    {
+      "name": "Locally Directed Therapy",
+      "type": "DRUG",
+      "description": "Patients determined to have mutated KRAS (or KRAS not evaluable) will be assigned to an event monitoring arm in which adjuvant therapy will be determined and assigned by the treating oncologist. The determination of the type of therapy, duration of treatment, and dose modification will be the responsibility of the treating oncologists."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed adenocarcinoma of the colon\n\n  * Stage III disease\n  * No resected stage IV disease\n* No rectal cancer\n\n  * Gross inferior (caudad) margin of the primary tumor must be \u2265 12 cm from the anal verge by rigid proctoscopy\n* Stage III tumor must have been completely resected within the past 56 days\n\n  * Must have documented en bloc resection in patients with tumor adherence to adjacent structures\n  * Tumor-related obstructions and colonic perforation are allowed\n  * Tumor samples must be available\n* At least 1 pathologically confirmed positive lymph node\n\n  * No evidence of residual involved lymph node disease\n* Synchronous primary colon cancer allowed\n* No distant metastatic disease\n* Performance status - Eastern Cooperative Oncology Group (ECOG) 0-2\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Hemoglobin \u2265 9 g/dL\n* Bilirubin \u2264 1.5 times upper limit of normal (ULN)\n* Creatinine \u2264 1.5 times ULN\n* No uncontrolled high blood pressure\n* No unstable angina\n* No symptomatic congestive heart failure\n* No myocardial infarction with the past 6 months\n* No New York Heart Association class III or IV heart disease\n* No symptomatic pulmonary fibrosis\n* No symptomatic interstitial pneumonitis\n* No prior allergic reaction (known sensitivity) to chimerized or murine monoclonal antibody therapy\n* No known allergy to platinum compounds\n* No documented presence of human anti-mouse antibodies (HAMA)\n* No active uncontrolled bacterial, viral, or systemic fungal infection\n* HIV negative\n* No clinically defined AIDS\n* Not pregnant or nursing\n* Negative pregnancy test\n* No men or women of childbearing potential who are unwilling to employ adequate contraception\n* No inadequately treated gastrointestinal bleeding\n* No \u2265 grade 2 pre-existing peripheral sensory or motor neuropathy\n* No other malignancy within the past 5 years except adequately treated basal cell or squamous cell skin cancer, carcinoma in situ of the cervix, or lobular carcinoma in situ in 1 breast\n* No other concurrent medical condition that would preclude study participation\n* No concurrent biologic therapy\n* No prior chemotherapy for colon cancer\n* No other concurrent chemotherapy\n* No prior radiotherapy for colon cancer\n* No concurrent targeted agents\n* No prior agents directed against epidermal growth factor-receptor\n* No other concurrent anticancer therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Bayhealth Medical Center at Kent General",
+      "city": "Dover",
+      "state": "Delaware",
+      "zip": "19901",
+      "status": ""
+    },
+    {
+      "facility": "Beebe Medical Center",
+      "city": "Lewes",
+      "state": "Delaware",
+      "zip": "19958",
+      "status": ""
+    },
+    {
+      "facility": "Anne Arundel Medical Center",
+      "city": "Annapolis",
+      "state": "Maryland",
+      "zip": "21401",
+      "status": ""
+    },
+    {
+      "facility": "Greater Baltimore Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "The Union Memorial Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21218",
+      "status": ""
+    },
+    {
+      "facility": "Franklin Square Hospital Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Good Samaritan Hospital of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21239",
+      "status": ""
+    },
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287-8936",
+      "status": ""
+    },
+    {
+      "facility": "Union Hospital of Cecil County",
+      "city": "Elkton",
+      "state": "Maryland",
+      "zip": "21921",
+      "status": ""
+    },
+    {
+      "facility": "Frederick Memorial Hospital",
+      "city": "Frederick",
+      "state": "Maryland",
+      "zip": "21701",
+      "status": ""
+    },
+    {
+      "facility": "Washington County Hospital",
+      "city": "Hagerstown",
+      "state": "Maryland",
+      "zip": "21740",
+      "status": ""
+    },
+    {
+      "facility": "Associates in Oncology Hematology PC -Kensington",
+      "city": "Kensington",
+      "state": "Maryland",
+      "zip": "20895",
+      "status": ""
+    },
+    {
+      "facility": "Associates In Oncology Hematology PC-Rockville",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "20878",
+      "status": ""
+    },
+    {
+      "facility": "Ocean Medical Center",
+      "city": "Brick",
+      "state": "New Jersey",
+      "zip": "08724",
+      "status": ""
+    },
+    {
+      "facility": "Cooper Hospital University Medical Center",
+      "city": "Camden",
+      "state": "New Jersey",
+      "zip": "08103",
+      "status": ""
+    },
+    {
+      "facility": "Veterans Adminstration New Jersey Health Care System",
+      "city": "East Orange",
+      "state": "New Jersey",
+      "zip": "07018-1095",
+      "status": ""
+    },
+    {
+      "facility": "Englewood Hospital and Medical Center",
+      "city": "Englewood",
+      "state": "New Jersey",
+      "zip": "07631",
+      "status": ""
+    },
+    {
+      "facility": "Hunterdon Medical Center",
+      "city": "Flemington",
+      "state": "New Jersey",
+      "zip": "08822",
+      "status": ""
+    },
+    {
+      "facility": "CentraState Medical Center",
+      "city": "Freehold",
+      "state": "New Jersey",
+      "zip": "07728",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey At Hamilton",
+      "city": "Hamilton",
+      "state": "New Jersey",
+      "zip": "08690",
+      "status": ""
+    },
+    {
+      "facility": "Saint Barnabas Medical Center",
+      "city": "Livingston",
+      "state": "New Jersey",
+      "zip": "07039",
+      "status": ""
+    },
+    {
+      "facility": "Monmouth Medical Center",
+      "city": "Long Branch",
+      "state": "New Jersey",
+      "zip": "07740",
+      "status": ""
+    },
+    {
+      "facility": "Mountainside Hospital",
+      "city": "Montclair",
+      "state": "New Jersey",
+      "zip": "07042",
+      "status": ""
+    },
+    {
+      "facility": "Morristown Memorial Hospital",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07962",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center at Virtua Memorial Hospital of Burlington County",
+      "city": "Mount Holly",
+      "state": "New Jersey",
+      "zip": "08060",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "Warren Hospital",
+      "city": "Phillipsburg",
+      "state": "New Jersey",
+      "zip": "08865",
+      "status": ""
+    },
+    {
+      "facility": "Booker Cancer Center at Riverview Medical Center",
+      "city": "Red Bank",
+      "state": "New Jersey",
+      "zip": "07701",
+      "status": ""
+    },
+    {
+      "facility": "Somerset Medical Center",
+      "city": "Somerville",
+      "state": "New Jersey",
+      "zip": "08876",
+      "status": ""
+    },
+    {
+      "facility": "Sparta Cancer Treatment Center",
+      "city": "Sparta",
+      "state": "New Jersey",
+      "zip": "07871",
+      "status": ""
+    },
+    {
+      "facility": "Overlook Hospital",
+      "city": "Summit",
+      "state": "New Jersey",
+      "zip": "07902",
+      "status": ""
+    },
+    {
+      "facility": "South Jersey Healthcare",
+      "city": "Vineland",
+      "state": "New Jersey",
+      "zip": "08360",
+      "status": ""
+    },
+    {
+      "facility": "Virtua West Jersey Hospital Voorhees",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    },
+    {
+      "facility": "Abington Memorial Hospital",
+      "city": "Abington",
+      "state": "Pennsylvania",
+      "zip": "19001",
+      "status": ""
+    },
+    {
+      "facility": "Lehigh Valley Hospital",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18105",
+      "status": ""
+    },
+    {
+      "facility": "Saint Luke's Hospital",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": ""
+    },
+    {
+      "facility": "Bryn Mawr Hospital",
+      "city": "Bryn Mawr",
+      "state": "Pennsylvania",
+      "zip": "19010",
+      "status": ""
+    },
+    {
+      "facility": "Marion Community Hospital",
+      "city": "Carbondale",
+      "state": "Pennsylvania",
+      "zip": "18407",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Center",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822-2001",
+      "status": ""
+    },
+    {
+      "facility": "Mercy Fitzgerald Hospital",
+      "city": "Darby",
+      "state": "Pennsylvania",
+      "zip": "19023-1291",
+      "status": ""
+    },
+    {
+      "facility": "Doylestown Hospital",
+      "city": "Doylestown",
+      "state": "Pennsylvania",
+      "zip": "18901",
+      "status": ""
+    },
+    {
+      "facility": "Delaware County Memorial Hospital",
+      "city": "Drexel Hill",
+      "state": "Pennsylvania",
+      "zip": "19026",
+      "status": ""
+    },
+    {
+      "facility": "Pocono Medical Center",
+      "city": "East Stroudsburg",
+      "state": "Pennsylvania",
+      "zip": "18301",
+      "status": ""
+    },
+    {
+      "facility": "Easton Hospital",
+      "city": "Easton",
+      "state": "Pennsylvania",
+      "zip": "18042",
+      "status": ""
+    },
+    {
+      "facility": "Ephrata Cancer Center",
+      "city": "Ephrata",
+      "state": "Pennsylvania",
+      "zip": "17522",
+      "status": ""
+    },
+    {
+      "facility": "PinnacleHealth Regional Cancer Center at Polyclinic Hospital",
+      "city": "Harrisburg",
+      "state": "Pennsylvania",
+      "zip": "17110",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger South Wilkes Barre-Hazelton Cancer Center",
+      "city": "Hazleton",
+      "state": "Pennsylvania",
+      "zip": "18201",
+      "status": ""
+    },
+    {
+      "facility": "Lancaster General Hospital",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17604",
+      "status": ""
+    },
+    {
+      "facility": "Central PA Hematology-Medical Oncology Associates PC",
+      "city": "Lemoyne",
+      "state": "Pennsylvania",
+      "zip": "17043",
+      "status": ""
+    },
+    {
+      "facility": "Riddle Hospital",
+      "city": "Media",
+      "state": "Pennsylvania",
+      "zip": "19063",
+      "status": ""
+    },
+    {
+      "facility": "Paoli Memorial Hospital",
+      "city": "Paoli",
+      "state": "Pennsylvania",
+      "zip": "19301",
+      "status": ""
+    },
+    {
+      "facility": "Abramson Cancer Center of The University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Pennsylvania Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    },
+    {
+      "facility": "Aria Health-Torresdale Campus",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19114",
+      "status": ""
+    },
+    {
+      "facility": "Albert Einstein Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19141",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny Cancer Center at Allegheny General Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "Western Pennsylvania Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224-1791",
+      "status": ""
+    },
+    {
+      "facility": "Pottstown Memorial Medical Center",
+      "city": "Pottstown",
+      "state": "Pennsylvania",
+      "zip": "19464",
+      "status": ""
+    },
+    {
+      "facility": "Saint Joseph Medical Center",
+      "city": "Reading",
+      "state": "Pennsylvania",
+      "zip": "19605",
+      "status": ""
+    },
+    {
+      "facility": "Guthrie Clinic - Sayre",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    },
+    {
+      "facility": "Mercy Hospital",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18501",
+      "status": ""
+    },
+    {
+      "facility": "Hematology and Oncology Associates of North East Pennsylvania",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18508",
+      "status": ""
+    },
+    {
+      "facility": "Community Medical Center",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18510",
+      "status": ""
+    },
+    {
+      "facility": "Moses Taylor Hospital",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18510",
+      "status": ""
+    },
+    {
+      "facility": "Scranton Hematology Oncology",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18510",
+      "status": ""
+    },
+    {
+      "facility": "Grand View Hospital",
+      "city": "Sellersville",
+      "state": "Pennsylvania",
+      "zip": "18960",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Group",
+      "city": "State College",
+      "state": "Pennsylvania",
+      "zip": "16801",
+      "status": ""
+    },
+    {
+      "facility": "Mount Nittany Medical Center",
+      "city": "State College",
+      "state": "Pennsylvania",
+      "zip": "16803",
+      "status": ""
+    },
+    {
+      "facility": "Associates In Hematology Oncology PC-Upland",
+      "city": "Upland",
+      "state": "Pennsylvania",
+      "zip": "19013",
+      "status": ""
+    },
+    {
+      "facility": "Jennersville Regional Hospital",
+      "city": "West Grove",
+      "state": "Pennsylvania",
+      "zip": "19390",
+      "status": ""
+    },
+    {
+      "facility": "Reading Hospital and Medical Center",
+      "city": "West Reading",
+      "state": "Pennsylvania",
+      "zip": "19612",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Wyoming Valley",
+      "city": "Wilkes-Barre",
+      "state": "Pennsylvania",
+      "zip": "18711",
+      "status": ""
+    },
+    {
+      "facility": "Lankenau Hospital",
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "zip": "19096",
+      "status": ""
+    },
+    {
+      "facility": "Mainline Health CCOP",
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "zip": "19096",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Disease-free Survival (Arms A and D: Wild-type KRAS Patients)",
+      "timeFrame": "At 3 years",
+      "description": "The primary endpoint for this study was to compare the disease-free survival (DFS) in patients with stage III colon cancer who are KRAS wild-type randomized to one of two treatment regimens: 1) oxaliplatin, leucovorin calcium, and fluorouracil (Arm A) or 2) oxaliplatin, leucovorin calcium, fluorouracil and cetuximab (Arm D). Participants treated according to Arms B, C, E, and F treatment schedules received treatment which included irinotecan hydrochloride and therefore were not analyzed for this endpoint.\n\nDisease-free survival is defined as the time from randomization until tumor recurrence or death, whichever is first. Estimated by the method of Kaplan and Meier."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [
+    "Eastern Cooperative Oncology Group"
+  ],
+  "start_date": "2004-02",
+  "completion_date": "2012-11",
+  "last_updated": "2020-04-28"
+}

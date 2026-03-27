@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT05874414",
+  "brief_title": "Combination of GNS561 and Trametinib in Patients With Advanced KRAS Mutated Cholangiocarcinoma",
+  "official_title": "Phase 1b/2a Study of GNS561 in Combination With Trametinib in Advanced KRAS Mutated Cholangiocarcinoma",
+  "brief_summary": "This is an open-label, multicenter Phase 1b/2a study to evaluate safety, pharmacokinetics (PK), pharmacodynamics (PD) and efficacy of GNS561 in combination with trametinib in Advanced KRAS Mutated Cholangiocarcinoma after failure of standard-of-care first line therapy",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 74,
+  "conditions": [
+    "Cholangiocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "GNS561 + Trametinib",
+      "type": "DRUG",
+      "description": "GNS561: 50mg, 100mg, 150mg, 200mg and trametinib: 1mg, 1.5mg and 2mg"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria:\n\n1. Histologically confirmed intrahepatic CCA with a documented KRAS mutation.\n2. Patients greater than or equal to 18 years of age.\n3. Patients must have disease progression that is not amenable to potentially curative treatment.\n4. Patients must have received one or two lines of chemotherapy.\n5. Patients must have at least one measurable disease by RECIST v1.1.\n6. Performance status (ECOG) 0-1.\n7. Adequate organ baseline function defined as follows: absolute neutrophil count \u22651000 cells/\u03bcL, platelet count \u226575,000 cells/\u03bcL, hemoglobin \u22659 g/dL, aspartate aminotransferase or alanine aminotransferase less than or equal to 3 \u00d7 upper limit of normal, estimated glomerular filtration rate \u226560 mL/min, corrected QT interval by Fridericia's (QTcF) interval \u2264470 msec.\n8. Women of childbearing potential must present with a negative serum pregnancy test and agree to use adequate contraception during the study and until 6 months after the end of treatment. Male patients with women partners of childbearing potential must agree with the contraception procedures of the study protocol.\n9. Patients must be able to understand and be willing to comply with the requirements of the study protocol.\n10. Patients participate voluntarily and sign informed consent form(s).\n\nExclusion criteria:\n\n1. Previous treatment with a MEK inhibitor or autophagy inhibitor.\n2. Previous treatment with three or more lines of prior chemotherapy.\n3. Extrahepatic CCA with\n4. Current evidence of uncontrolled, significant intercurrent illness including, but not limited to, the following conditions:\n\n   1. Cardiovascular disorders: congestive heart failure New York Heart Association \u2265 class 2 or left ventricular ejection fraction (LVEF) \\<50%, arrythmias or cardiac conduction abnormalities. Uncontrolled arterial hypertension or inadequately controlled arterial hypertension, at the discretion of the investigator, based on an average of = \\>3 BP readings over = \\>2 sessions.\n   2. Patients who have retinal condition (retinal tear, exudate, hemorrhage) or history of retinal vein occlusion or central serous retinopathy or retinal pigment epithelial detachment.\n   3. History of interstitial lung disease or pneumonitis.\n   4. Patients who have clinically significant pleural effusion or ascites.\n   5. Patients who have neurological condition (e.g., tremor, ataxia, hypotension, confusion), history of seizures or active central nervous system metastases.\n   6. Impairment of gastrointestinal function or gastrointestinal disease (e.g., diarrhea, active ulcer disease, history of gastrointestinal perforation/hemorrhage, malabsorption or other conditions that under the judgment of the principal investigator (PI) may impair absorption of study drugs).\n   7. Patients who are taking antineoplastic drugs for concomitant cancer or history of malignancy other than CCA within 5 years prior to screening, with the exception of malignancies with a negligible risk of metastasis or death (e.g., 5-year OS rate \\> 90%) such as adequately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, localized prostate cancer, ductal carcinoma in situ, or Stage I uterine cancer.\n   8. Any other condition that would, in the Investigator s judgment, contraindicate the patients' participation in the clinical study due to safety concerns or compliance with clinical study procedures (e.g., infection, unable to swallow medication, social/psychological issues, etc).\n5. Known active viral hepatitis, including HBV and HCV.\n6. Patients with known allergic reaction to quinoline derivatives (e.g., quinine, chloroquine, mefloquine) and/or hypersensitivity to study drugs.\n7. Patients who have not recovered for certain AEs due to previous lines of therpay.\n8. Female patients who are pregnant or lactating at the time of enrollment.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "TERMINATED"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of dose limiting toxicity (DLT) of GNS561 with trametinib (Phase 1b)",
+      "timeFrame": "At the end of Cycle 1 (each Cycle is 21 days)",
+      "description": "Defined as Treatment Emergent Adverse Event (TEAE) being at least possibly related to study drug: With Grade \u2265 3 (using NCI CTCAE Version 5.0 or higher as applicable) such as specified in the protocol"
+    },
+    {
+      "measure": "Objective response rate (ORR) of the combination of GNS561 with trametinib (Phase 2a)",
+      "timeFrame": "Up to 11 months (estimated)",
+      "description": "Defined as the proportion of patients with a best overall response of complete response (CR) or partial response (PR) using Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v1.1)"
+    }
+  ],
+  "sponsor": "Genfit",
+  "collaborators": [],
+  "start_date": "2023-08-21",
+  "completion_date": "2026-10",
+  "last_updated": "2026-01-21"
+}

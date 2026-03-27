@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT05362344",
+  "brief_title": "Colorectal Cancer Screening in Cystic Fibrosis",
+  "official_title": "A Multi-Center Study of Non-Invasive Colorectal Cancer Evaluation in Cystic Fibrosis (NICE-CF)",
+  "brief_summary": "This multi-center study will compare multi-target DNA and quantitative FIT stool-based testing to colonoscopy in individuals with Cystic Fibrosis (CF) undergoing colon cancer screening with colonoscopy. The primary endpoint is detection of any adenomas, including advanced adenomas and colorectal cancer (CRC).",
+  "detailed_description": "NICE-CF is a cross-sectional, multi-center study comparing stool-based testing (multi-target DNA test and quantitative FIT test) to standard of care colonoscopy for colorectal cancer (CRC) screening in people with CF. The study includes an enrollment visit, two stool samples completed at home, a clinical screening colonoscopy, and three participant surveys which will be completed at enrollment or remotely.\n\nThe total duration of participant participation will be 3-12 months, depending on the timing of the completion of the stool samples and the participant's colonoscopy. The targeted participant timeline is 3 months from enrollment to the completion of a clinical screening colonoscopy. To allow for varying site-specific clinical colonoscopy scheduling delays and COVID delays in scheduling, the duration of time between submitting stool samples and screening colonoscopy may extend up to 12 months for inclusion of data in the study. However, participating sites must notify the DCC to obtain preapproval for greater than 3 months duration between stool-based testing and colonoscopy.\n\nCF patients who are eligible for CRC screening will either be enrolled during an in-person CF clinic visit or via phone/video if clinic visits are taking place remotely. Participants will be asked to perform stool sample collection at home, and then complete their colonoscopy within three to twelve months of submission of the stool sample.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 350,
+  "conditions": [
+    "Cystic Fibrosis",
+    "Colorectal Cancer",
+    "Adenoma"
+  ],
+  "interventions": [
+    {
+      "name": "Stool tests",
+      "type": "PROCEDURE",
+      "description": "Non-invasive, stool-based tests for colorectal cancer screening."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Adults with CF ages 18 - 75 years and due for a routine screening or surveillance colonoscopy for colon cancer\n2. Cystic Fibrosis diagnosis, defined by a sweat chloride test result \u2265 60 mmol/L (may be of historic value), and/or documented CF-causing CFTR mutations and clinical features of CF\n3. Capable of understanding the purposes and risks of the study in English or Spanish and willing to participate and sign informed consent\n4. Referred for screening or surveillance colonoscopy for CRC (current standard of care) and willing to undergo colonoscopy and stool testing\n5. Able to access the Internet to complete self-administered surveys\n\nExclusion Criteria:\n\n1. Any condition that, in the opinion of the site PI, introduces undue risk by participating in this study\n2. Incapable of understanding the purposes of the study or informed consent for any reason\n3. Pregnancy\n4. Active inflammatory bowel disease as defined by a prior diagnosis of Crohn's Disease or Ulcerative Colitis, based on both clinical and histopathologic findings and the individual currently on medical therapy for Crohn's disease or Ulcerative Colitis.\n5. Personal history of colon cancer diagnosis and treatment within 5 years of enrollment\n6. Symptoms that merit colonoscopy for diagnostic purposes rather than as screening for CRC\n7. Known history of familial colon cancer syndrome that has been confirmed by previous genetic testing",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital, Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15219",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Sensitivity of multi-target stool DNA test and quantitative fecal immunochemical (FIT) test",
+      "timeFrame": "3-12 months",
+      "description": "Negative predictive value (NPV) and sensitivity for detection of any adenomas, advanced adenomas, and CRC in stool-based testing."
+    }
+  ],
+  "sponsor": "University of Washington, the Collaborative Health Studies Coordinating Center",
+  "collaborators": [
+    "Cystic Fibrosis Foundation"
+  ],
+  "start_date": "2022-09-01",
+  "completion_date": "2026-06-30",
+  "last_updated": "2026-03-20"
+}

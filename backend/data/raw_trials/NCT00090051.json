@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT00090051",
+  "brief_title": "FCR Versus FC Alone in the Treatment of Chronic Lymphocytic Leukemia (CLL) in Relapsed Patients",
+  "official_title": "Open-label, Multicenter, Randomized, Comparative, Phase III Study to Evaluate the Efficacy and Safety of FCR vs. FC Alone in Previously Treated Patients With CD20 Positive B-cell CLL",
+  "brief_summary": "The purpose of this study is to provide treatment for patients who have chronic lymphocytic leukemia (CLL), and to compare the use of rituximab added to fludarabine+cyclophosphamide (FC) with FC alone, to determine if rituximab lengthens the time a patient remains free of leukemia symptoms.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 552,
+  "conditions": [
+    "Chronic Lymphocytic Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "Rituximab",
+      "type": "DRUG",
+      "description": "Intravenous repeating dose"
+    },
+    {
+      "name": "Fludarabine Phosphate",
+      "type": "DRUG",
+      "description": "Intravenous repeating dose"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Intravenous repeating dose"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age \u226518 years\n* Established diagnosis of B-cell CLL by NCI Working Group criteria\n* \u22641 previous line of chemotherapy\n* Expected survival \\>6 months\n* Acceptable hematologic status, liver function, renal function, and pulmonary function\n* Negative serum pregnancy test for both pre-menopausal women and for women who are \\< 2 years after the onset of menopause\n* Written informed consent\n\nExclusion Criteria:\n\n* Prior treatment with interferon, rituximab or other monoclonal antibody\n* Prior allogeneic bone marrow transplant (BMT) or autologous BMT or peripheral stem cell transplant (PBSCT) or patients who are considered to be candidates for allogeneic or autologous BMT or PSCT as assessed by their treating physician\n* Fertile men or women of childbearing potential not using adequate contraception\n* Severe Grade 3 or 4 non-hematological toxicity or prolonged (\\> 2 weeks) Grade 3 or 4 cytopenia on prior fludarabine or nucleoside analogue regimen\n* History of fludarabine-induced or clinically significant autoimmune cytopenia\n* History of other malignancies within 2 years prior to study entry, except for adequately treated carcinoma in situ of the cervix; basal or squamous cell skin cancer; low-grade early stage localized prostate cancer treated surgically with curative intent; good prognosis ductal carcinoma in situ (DCIS) of the breast treated with lumpectomy alone with curative intent.\n* Medical conditions requiring long term use (\\> 1 month) of systemic corticosteroids\n* Active bacterial, viral, or fungal infection requiring systemic therapy\n* Severe cardiac disease\n* Seizure disorders requiring anticonvulsant therapy\n* Severe chronic obstructive pulmonary disease with hypoxemia\n* Uncontrolled diabetes mellitus or hypertension\n* Transformation to aggressive B-cell malignancy.\n* Known infection with HIV, HCV, or hepatitis B\n* Treatment with any other investigational agent, or participation in another clinical trial within 30 days prior to entering this study\n* Known hypersensitivity or anaphylactic reactions to murine antibodies or proteins\n* Any co-existing medical or psychological condition that would preclude participation in the study or compromise ability to give informed consent",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Milton S. Hershey Medical Center; Penn State Cancer Inst.",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS) as Assessed by the Independent Review Committee (IRC)",
+      "timeFrame": "Mean observation time at time of analysis was approximately 26 months",
+      "description": "Progression-free survival as assessed by the IRC was defined as the time between randomization and the date of first documented disease progression, relapse after response, or death from any cause, whichever came first. Patients without a PFS event were censored at their last tumor assessment date."
+    },
+    {
+      "measure": "Number of Participants With Progression-free Survival (PFS) Events Assessed by the Independent Review Committee (IRC)",
+      "timeFrame": "Mean observation time at time of analysis was approximately 26 months",
+      "description": "Progression-free survival as assessed by the IRC was defined as the time between randomization and the date of first documented disease progression, relapse after response, or death from any cause (PFS events), whichever came first. Patients without a PFS event were censored at their last tumor assessment date."
+    },
+    {
+      "measure": "Final Analysis: Time to Progression-Free Survival Event",
+      "timeFrame": "Median observation time was approximately 5 years",
+      "description": "Time to progression-free survival (PFS) event was defined as the time between randomization and the date of first documented PFS event: disease progression, relapse or death by any cause, whichever came first."
+    }
+  ],
+  "sponsor": "Hoffmann-La Roche",
+  "collaborators": [
+    "Biogen",
+    "Genentech, Inc."
+  ],
+  "start_date": "2003-07-31",
+  "completion_date": "2012-05-31",
+  "last_updated": "2017-07-05"
+}

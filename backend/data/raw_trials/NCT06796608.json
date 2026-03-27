@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT06796608",
+  "brief_title": "Behavioral Activation-Led Activity Engagement for Cancer Empowerment",
+  "official_title": "Technology-Supported Behavioral Activation to Optimize Day-to-Day Quality of Life With Advanced Cancer",
+  "brief_summary": "The goal of this study is to learn if behavioral activation can improve daily quality of life for patients with advanced cancer. The main questions it aims to answer are:\n\n* Can behavioral activation be adapted to help patients living with advanced cancer optimize their daily quality of life?\n* Can behavioral activation be delivered primarily via smartphone?\n\nParticipants will:\n\n* Complete a demographic questionnaire at the beginning of the study and quality-of-life and activity questionnaires at the beginning, midpoint, and end of study. Complete nightly surveys about daily quality of life, mood, activities, and experiences.\n* Wear a Fitbit activity tracker for 8 weeks.\n* After the first four weeks, they will complete a session with a member of our team about their day-to-day activities, behaviors, and experiences. They will select at least 4 activities/behaviors to increase over the next portion of the study.\n* Incorporate personalized meaningful activities into daily life\n* At the end of approximately eight weeks, (four weeks after the session with a study team member), they will complete a semi-structured interview.",
+  "detailed_description": "Participants (n=25) will be recruited from UPMC Hillman clinics.\n\nPart 1 (Consent and Baseline data collection from weeks 1 to 4):\n\nIf eligible patients consent to participate, they will complete online baseline questionnaires. Participant's medical records will be reviewed to extract demographic information and clinical covariates, including information about their cancer, its treatment, biological variables such as sex and age, clinical variables such as comorbidities, surgeries and hospitalizations, medications, and other markers of health care utilization (e.g., emergency department visits). Once extracted, these values will be linked only to their study ID number.\n\nAt the initial visit (either in-person or online, 20-30 minutes), participants will also be oriented to the ecological momentary assessment procedures to assess self-reported daily quality of life and mood, activities, and experiences. Participants will install the BALANCE Android or iOS application on their smartphones. The participant ID will be entered into the app upon initial log in and will be saved locally on the device. Participants will have the opportunity to add additional activities to track for 2 days before the 4 weeks of Part 1 of the study begins. When participants receive the survey notification, it will open the application and they can proceed to take the survey in the BALANCE app on their smartphone. Participants will be asked to complete the EMA questions once each evening (approximately 5 minutes). Participants will be able to use the BALANCE app to access visualizations of their past survey responses and quality of life ratings along with activity and sleep data.\n\nParticipants will also be asked to wear a Fitbit device (Fitbit Inspire 3 or similar) for the duration of the study and to install the Fitbit app on their smartphone. The Fitbit is a wristwatch-sized waterproof device that assesses heart and breathing rates, physical activity, and sleep, skin temperature, and oxygen levels and wirelessly transmits data to the server. If they already own a Fitbit device, we will request access to their Fitbit data for the duration of their study participation.\n\nMid-Study Data Review (mid-study data review session following first 4 weeks of the study):\n\nParticipants will complete a mid-study data review session (in person or remotely, 20-30 minutes) with a member of our team during which they will be asked which activities, behaviors, and experiences they believe to be the most strongly related to their day-to-day quality of life. They will also be provided with the results of personalized analyses visualizing the factors most strongly correlated with their quality of life ratings over the past four weeks. Based on their own reflections and these personalized analyses, they will be asked to select at least 4 behaviors or activities to increase over the next four weeks. Participants will also complete a midpoint questionnaire at this time.\n\nPart 2 (Data-based intervention from mid-study data review session to approximately 8 weeks):\n\nFor the second four weeks of the study, starting after the mid-study data review session with a study team member, participants will complete a morning survey to make a plan for behavior change, receive daily reminders to complete their planned activities through the BALANCE Android or iOS application on their smartphones, and will complete an evening survey to report their daily quality of life and indicate completed activities (both \\< 5 minutes) each day. Participants will also collect Fitbit data during the same period. At the end of this second 4-week period, we will invite participants for a 1-on-1 in-person or online semi-structured interview (20-30 minutes) to provide feedback. In addition, we will assist participants in removing the BALANCE app from their phones. Participants will also complete an end of study questionnaire at this time.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 22,
+  "conditions": [
+    "Advanced Cancer",
+    "Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Behavioral Activation",
+      "type": "BEHAVIORAL",
+      "description": "Behavioral activation is an evidence-based intervention based on the idea that depression leads to withdrawal from rewarding activities, which sustains or exacerbates depression, and breaks this cycle by increasing the frequency with which people engage in rewarding activities regardless of their motivation. Like those with depression, people living with advanced cancer may reduce or stop participation in meaningful life activities resulting in decreased positive emotion and worse quality of life. The goal of this intervention is to adapt and test a fully remote technology-supported behavioral activation intervention aimed at supporting patients with advanced cancer to optimize the quality of their remaining years of life."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* diagnosed with Stage IV cancer and receiving ongoing treatment at a UPMC Hillman Cancer Center clinic\n* owns and uses a smartphone capable of running study applications\n\nExclusion Criteria:\n\n* Unable to read, write, or communicate in English",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Acceptability",
+      "timeFrame": "At end of intervention at approximately 8 weeks",
+      "description": "Post-intervention semi-structured interviews will be conducted to gather participant feedback and assess acceptability of the program"
+    },
+    {
+      "measure": "Acceptability",
+      "timeFrame": "At the end of intervention at approximately 8 weeks",
+      "description": "System Usability Scale (SUS). For odd items, subtract one from the user response. For even-numbered items, subtract the user responses from 5.\n\nThis scales all values from 0 to 4 (with four being the most positive response).\n\nAdd up the converted responses for each user and multiply that total by 2.5. Possible range of scores is 0 to 100 representing a composite measure of the overall usability of the system being studied."
+    },
+    {
+      "measure": "Feasibility",
+      "timeFrame": "From enrollment to the end of intervention at approximately 8 weeks",
+      "description": "accrual rate (number of participants that enroll out of number of participants approached)"
+    },
+    {
+      "measure": "Feasibility",
+      "timeFrame": "From enrollment to the end of intervention at approximately 8 weeks",
+      "description": "completion rate (number of participants that complete the study)"
+    },
+    {
+      "measure": "Feasibility",
+      "timeFrame": "From enrollment to the end of intervention at approximately 8 weeks",
+      "description": "engagement (how many days within the study the participants engaged with the app and had Fitbit data)"
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [],
+  "start_date": "2025-01-28",
+  "completion_date": "2025-04-30",
+  "last_updated": "2025-05-02"
+}

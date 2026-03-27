@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT01105377",
+  "brief_title": "Azacitidine and Entinostat in Treating Patients With Metastatic Colorectal Cancer",
+  "official_title": "Phase II Study of Azacitadine and Entinostat in Patients With Metastatic Colorectal Cancer",
+  "brief_summary": "This phase II trial is studying how well giving azacitidine together with entinostat works in treating patients with metastatic colorectal cancer. Drugs used in chemotherapy, such as azacitidine, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Entinostat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving azacitidine together with entinostat may kill more tumor cells.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine the preliminary efficacy via Response Evaluation Criteria In Solid Tumors (RECIST) response rate of the combination of azacitidine and entinostat in patients with metastatic colorectal cancer.\n\nSECONDARY OBJECTIVES:\n\nI. Explore the effects of azacitidine and entinostat on time to progression in patients with metastatic colorectal cancer.\n\nII. To assess the toxicity for combination azacitidine and entinostat therapy.\n\nTERTIARY OBJECTIVES:\n\nI. Evaluate changes in promoter methylation of selected genes from DNA in circulating serum samples.\n\nII. To determine changes in histone deacetylase activity and acetylation of H3 and H4 histones in pre- and post-treatment tumor biopsies.\n\nIII. To evaluate correlations between these molecular effects and clinical outcomes (response, time to progression).\n\nIV. To correlate response rates by RECIST criteria versus response rates determined be EASL (change in tumor enhancement).\n\nOUTLINE: This is a multicenter study.\n\nPatients receive azacitidine subcutaneously on days 1-5 and 8-10 and oral entinostat on days 3 and 10. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.\n\nBlood and tumor tissue samples are collected at baseline and periodically during courses 1-3 for DNA methylation, histone deacetylation activity, and acetylation of H3 and H4 histones analysis by PCR, western blot, and RT-PCR assays. Pharmacogenomic studies may also be conducted.\n\nAfter completion of study therapy, patients are followed up every 3-6 months for up to 3 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 47,
+  "conditions": [
+    "Recurrent Colon Cancer",
+    "Recurrent Rectal Cancer",
+    "Stage IV Colon Cancer",
+    "Stage IV Rectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "entinostat",
+      "type": "DRUG",
+      "description": "Given orally"
+    },
+    {
+      "name": "azacitidine",
+      "type": "DRUG",
+      "description": "Given SC"
+    },
+    {
+      "name": "laboratory biomarker analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed metastatic colorectal cancer\n* Measurable disease\n* Patient has failed \u2265 2 prior chemotherapy regimens\n* Not a candidate for curative resection\n* No CNS metastases within \u2264 2 years\n\n  * Treatment for brain metastasis and whole brain disease that has remained stable for \\> 3 months allowed\n  * Patients who have not been treated with steroid therapy may be allowed\n* ECOG performance status 0-1\n* Life expectancy \u2265 12 weeks\n* Leukocytes \u2265 3,000/mm\\^3\n* ANC \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Total bilirubin \u2264 1.5 times upper limit of normal (ULN)\n* AST and ALT \u2264 2.5 times ULN\n* Creatinine normal OR creatinine clearance \u2265 60 mL/min\n* Negative pregnancy test\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* Sensory neuropathy \u2264 grade 2 allowed\n* Willing to provide tissue and blood samples\n* No history of allergic reactions attributed to compounds of similar chemical or biologic composition to entinostat, azacitidine, mannitol, or other agents used in the study\n* No uncontrolled intercurrent illness including, but not limited to, any of the following:\n\n  * Ongoing or active infection\n  * NYHA class II-IV symptomatic congestive heart failure\n  * Unstable angina pectoris\n  * Cardiac arrhythmia\n  * Psychiatric illness and/or social situations that would limit compliance with study requirements\n* No history of severe bleeding without thrombocytopenia\n* No concurrent radiotherapy including palliative treatment\n* Toxicities from prior therapy have resolved to \u2264 grade 1\n* More than 4 weeks since prior chemotherapy (\\> 6 weeks for nitrosoureas or mitomycin C)\n* More than 4 weeks since prior major surgical procedure\n* No prior histone deacetylase inhibitors (including valproic acid) or demethylating agents\n* No concurrent investigational agents\n* No concurrent combination antiretroviral therapy in HIV-positive patients\n* No concurrent investigational or commercial anticancer agents or therapies",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University/Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Cancer Institute",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Confirmed Tumor Response",
+      "timeFrame": "At 6 month evaluation",
+      "description": "Each evaluable patient is classified as having a confirmed tumor response if they have either a complete response (CR) or partial response (PR) lasts at least 4 weeks. Tumor response is measured by using RECIST v1.1 (Response Evaluation Criteria in Solid Tumors). A CR is defined as a disappearance of all target lesions, and each target lymph node must have reduction in short axis to \\<1.0 cm. A PR is defined as a 30% decrease in the sum of the longest diameter for all target lesions plus the sum of the short axis of all the target lymph nodes at current evaluation, compared to pre-treatment measurements. The confirmed response rate is calculated as the number of confirmed CR+PR, divided by the total number of evaluable patients, with 95% confidence intervals estimated using the approach of Duffy and Santner."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2010-04",
+  "completion_date": "2014-05",
+  "last_updated": "2014-07-30"
+}

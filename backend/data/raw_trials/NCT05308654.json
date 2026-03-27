@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT05308654",
+  "brief_title": "A Study to Assess the Adverse Events and Change in Disease Activity in Adult Participants With Relapsed or Refractory Multiple Myeloma Receiving Oral ABBV-453 Tablets",
+  "official_title": "First-in-Human Study of the BCL-2 Inhibitor ABBV-453 in Biomarker-Selected Subjects With Relapsed or Refractory Multiple Myeloma",
+  "brief_summary": "Multiple myeloma (MM) is a plasma cell disease characterized by the growth of clonal plasma cells in the bone marrow. The purpose of this study is to assess the safety and toxicity of ABBV-453 in adult participants with relapsed/refractory (R/R) MM. Adverse events and change in disease activity will be assessed.\n\nABBV-453 is an investigational drug being developed for the treatment of R/R MM. Part 1 will be a monotherapy dose escalation phase to determine the best dose of ABBV-453. In Part 2, participants are placed in 1 of 3 groups called treatment arms. Each group receives a different treatment. Approximately 28 to 48 adult participants in Part 1 and 150 to 312 adult participants in Part 2 with R/R MM will be enrolled in the study in approximately 70 sites worldwide.\n\nIn Part 1 and the Japan Cohort, Participants will receive oral ABBV-453 tablets once daily (QD) in 28-day cycles. In Part 2, Arm 1, participants will receive continuous doses of oral ABBV-453 tablets QD in combination with oral dexamethasone tablets once weekly in 28-day cycles. In Part 2, Arm 2, participants will receive continuous doses of oral ABBV-453 tablets QD in combination with subcutaneous injections of daratumumab every 1 to 4 weeks and oral dexamethasone tablets once weekly in, 28-day cycles. In Part 2, Arm 3, participants will receive continuous doses of oral ABBV-453 tablets QD in combination with subcutaneous injections of daratumumab every 1 to 4 weeks, oral lenalidomide capsules QD on Days 1-21, and oral dexamethasone tablets once weekly, in 28-day cycles.\n\nThere may be higher treatment burden for participants in this trial compared to their standard of care. Participants will attend regular visits during the study at an approved institution (hospital or clinic). The effect of the treatment will be frequently checked by medical assessments, blood tests, and side effects.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 34,
+  "conditions": [
+    "Relapsed/Refractory Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "ABBV-453",
+      "type": "DRUG",
+      "description": "Oral; Tablet"
+    },
+    {
+      "name": "Dexamethasone",
+      "type": "DRUG",
+      "description": "Oral Tablet"
+    },
+    {
+      "name": "Daratumumab",
+      "type": "DRUG",
+      "description": "Subcutaneous Injection"
+    },
+    {
+      "name": "Lenalidomide",
+      "type": "DRUG",
+      "description": "Oral Capsule"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status \\<= 1.\n* Laboratory values meeting the criteria outlined in the protocol.\n* Documented diagnosis of multiple myeloma (MM) based on standard International Myeloma Working Group (IMWG) criteria.\n* Has measurable disease at screening as defined in the protocol.\n* Locally documented or centrally determined t(11;14) positive status and/or centrally determined BCL2high status. Note: If local testing for t(11;14) is discordant with central testing for t(11;14) status, a detailed review of central and local results for t(11;14) status is required to ensure the participants' safety.\n* Part 1 and Part 2, Arm 1 Only: Refractory to or intolerant of all established MM therapies that are known to provide clinical benefit and are triple class exposed to a proteasome inhibitors (PI), an Immunomodulatory drugs (IMID), and an anti-CD38 monoclonal antibody in previous line(s) of therapy.\n* Part 2, Arms 2 and 3 Only: Received 1 to 3 prior lines of therapy, including a PI or an IMiD.\n* Part 1 only: Permitted to be venetoclax or BCL-2 inhibitor exposed in previous lines of therapy.\n* Life expectancy \\>= 12 weeks.\n\nExclusion Criteria:\n\n* Clinically relevant or significant Electrocardiogram (ECG) abnormalities as outlined in the protocol.\n* Part 2 only: Previous treatment with venetoclax or BCL-2 inhibitor.\n* Part 2, Arms 2 and 3 only: Prior daratumumab or other anti-CD38 therapy exposure that meets any of the criteria outlined in the protocol.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "American Oncology Partners of Maryland /ID# 244858",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania /ID# 242842",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-5502",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response Rate (ORR) per International Myeloma Working Group (IMWG) Criteria",
+      "timeFrame": "Up to Approximately 12 Months",
+      "description": "ORR is defined as the percentage of participants with a confirmed best overall response (BOR) of partial response (PR) + very good partial response (VGPR) + complete response (CR) + stringent complete response (sCR) as assessed by investigators per adapted IMWG criteria for relapsed or refractory (R/R) multiple myeloma (MM)."
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [],
+  "start_date": "2022-05-17",
+  "completion_date": "2025-12",
+  "last_updated": "2025-08-11"
+}

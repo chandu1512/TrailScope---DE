@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT02004262",
+  "brief_title": "Safety and Efficacy of Combination Listeria/GVAX Pancreas Vaccine in the Pancreatic Cancer Setting",
+  "official_title": "A Phase 2B, Randomized, Controlled, Multicenter, Open-Label Study of the Efficacy and Immune Response of GVAX Pancreas Vaccine (With Cyclophosphamide) and CRS 207 Compared to Chemotherapy or to CRS-207 Alone in Adults With Previously-Treated Metastatic Pancreatic Adenocarcinoma",
+  "brief_summary": "Test the safety, immune response and efficacy of GVAX pancreas vaccine (with cyclophosphamide) and CRS-207 compared to chemotherapy or CRS-207 alone in adults with previously treated metastatic pancreatic adenocarcinoma",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 303,
+  "conditions": [
+    "2nd-line, 3rd-line and Greater Metastatic Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "GVAX Pancreas Vaccine",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "CRS-207",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "Chemotherapy",
+      "type": "DRUG",
+      "description": "Investigator's choice of one of the following commercially available products: gemcitabine; capecitabine; fluorouracil with or without leucovorin; irinotecan; or erlotinib."
+    },
+    {
+      "name": "cyclophosphamide",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have histologically proven malignant adenocarcinoma of the pancreas; measurable disease is not required, mixed histology is not allowed; subjects must have metastatic disease\n* 2nd line, 3rd line or greater\n* At least 18 years of age\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1\n* Anticipated life expectancy \\>12 weeks\n* For women and men of childbearing potential, a medically acceptable method of highly effective contraception (oral hormonal contraceptive, condom plus spermicide, or hormone implants) must be used throughout the study period and for 28 days after their final vaccine administration. A barrier method of contraception must be employed by all subjects (male and female), regardless of other methods.\n* Have adequate organ function as defined by specified laboratory values\n\nExclusion Criteria:\n\n* Allergy to both penicillin \\& sulfa or suspected hypersensitivity to granulocyte-macrophage colony stimulating factor (GM-CSF), dimethyl sulfoxide, fetal bovine serum, trypsin, yeast, glycerol or other component of the therapy options\n* Known history or evidence of brain metastases, immunodeficiency disease or immunocompromised state or history of autoimmune disease requiring systemic steroids or other immunosuppressive treatment\n* Have any evidence of hepatic cirrhosis or clinical or radiographic ascites\n* Have prosthetic heart valves, major implant or device placed in the last 12 months or history of infection with implant/device that cannot be easily removed\n* Rapidly progressing disease\n* Clinically significant and/or malignant pleural effusion\n* Received prior GVAX pancreas vaccine or CRS-207\n* Major surgery or significant traumatic injury (or unhealed surgical wounds) occurring within 28 days prior to receiving study drug, or planned surgery requiring general anesthesia\n* Infection with HIV or hepatitis B or C at screening\n* Valvular heart disease that requires antibiotic prophylaxis for prevention of endocarditis\n* Pregnant or breastfeeding\n* Unable to avoid close contact with another individual known to be at high risk of listeriosis (e.g., newborn infant, pregnant woman, HIV-positive individual) during the course of CRS-207 treatment until completion of antibiotic regimen\n* Conditions, including alcohol or drug dependence, intercurrent illness, or lack of sufficient peripheral venous access, that would affect the patient's ability to comply with study visits and procedures",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center Cancer Pavillion",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Primary Cohort: Overall Survival (OS) Censored at 138 Deaths (ITT Set)",
+      "timeFrame": "Subjects were followed from date of randomization to the date of death by any cause, whichever came first, assessed up to 32 months. Analysis conducted when 138 deaths reached in the Primary Cohort in the FAS.",
+      "description": "OS was estimated using Kaplan-Meier (KM) methods with 95% confidence intervals (CIs), with censoring at the date when 138 deaths were reached in the Primary Cohort in the FAS. Subjects without documentation of death at the time of final analysis were censored as of the date the subject was last known to be alive on/prior to the primary analysis data cut."
+    },
+    {
+      "measure": "Primary Cohort: OS (All Data, FAS)",
+      "timeFrame": "Subjects followed for survival from date of randomization until lost to follow-up, withdrawal of consent, or death, whichever came first, assessed up to 32 months.",
+      "description": "For all treated subjects, OS was calculated using KM methods with 95% CIs. Subjects without documentation of death at the time of the analysis were censored as of the date the subject was last known to be alive on/prior to the final analysis data cut."
+    },
+    {
+      "measure": "2nd-line Cohort: OS (All Data, FAS)",
+      "timeFrame": "Subjects followed for survival from date of randomization until lost to follow-up, withdrawal of consent, or death, whichever came first, assessed up to 32 months.",
+      "description": "For all treated subjects, OS was calculated using KM methods with 70% CIs. Subjects without documentation of death at the time of the analysis were censored as of the date the subject was last known to be alive on/prior to the final analysis cut. 70% CIs were selected to provide an 80% probability to rule out differences in median survival less than -2.4 months between the 2nd-line Cohort: Chemotherapy arm and the 2nd-line Cohort: Cy/GVAX + CRS-207 and 2nd-line Cohort: CRS-207 arms, based upon the assumptions made in the statistical analysis plan (SAP)."
+    }
+  ],
+  "sponsor": "Aduro Biotech, Inc.",
+  "collaborators": [
+    "Johns Hopkins University"
+  ],
+  "start_date": "2014-02-05",
+  "completion_date": "2016-08-23",
+  "last_updated": "2018-05-02"
+}

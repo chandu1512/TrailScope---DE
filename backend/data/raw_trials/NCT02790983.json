@@ -1,0 +1,55 @@
+{
+  "nct_id": "NCT02790983",
+  "brief_title": "Primary Tumor Research and Outcomes Network",
+  "official_title": "Primary Tumor Research and Outcomes Network (PTRON) A Multicenter Prospective Registry for the Management and Outcomes of Primary Tumors of the Spine",
+  "brief_summary": "This project aims to establish a network of spine oncology centers dedicated to prospective multicenter research of patients diagnosed with a primary tumor of the spine and will include a comprehensive prospective clinical database which will serve as a shared research platform. Demographic, clinical, diagnostic, and therapeutic variables will be used to answer questions about survival and local recurrence, as well as questions about adverse events (AEs), morbidity data, and health-related quality of life (HRQOL) outcomes.",
+  "detailed_description": "Objective: To prospectively investigate variables (clinical, diagnostic, and therapeutic) in patients diagnosed with primary spinal column and cord tumors that are associated with:\n\n* survival\n* local recurrence\n* morbidity data\n* patient reported outcomes\n\nOutcome measures: Variables applicable to primary spinal column tumor patients which will be collected in the registry include:\n\n* Patient details\n* Treatment status\n* Details of previous treatment\n* Diagnosis and biopsy types\n* Tumor details\n* Oncological staging\n* Symptoms\n* Treatment details\n* Imaging information\n\nWe aim to collect the following outcome measures:\n\n* Overall survival data\n* Local disease recurrence data\n* Morbidity data\n* Patient reported outcomes:\n* Euroquol-5D-3L, EQ-5D-Y (if applicable)\n* Euroquol EQ-5D VAS - Quality of Life\n* Neck pain numeric rating scale (NRS)\n* Arm pain NRS\n* Back pain NRS\n* Leg Pain NRS\n* SF-36 version 2\n* SOSG Outcome Questionnaire (SOSGOQ) v1.0 and v2.0\n* Surverys on patient expectations and satisfaction",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1350,
+  "conditions": [
+    "Spinal Column Tumor"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion criteria\n\n* Patient with a current primary spine tumor or history of a primary spine tumor, including tumors within or surrounding the spinal column and/or spinal cord. This includes extradural tumors, intramedullary tumors (i.e. astrocytomas, ependymoma, etc.) and extramedullary tumors (i.e. meningiomas, neurofibromas, schwannomas, etc.).\n* Informed consent obtained, i.e.:\n\n  * Ability to understand the content of the patient information/ICF\n  * Willingness and ability to participate in the registry according to the Registry Plan (RP)\n  * Signed and dated EC/IRB approved written informed consent\n\nOR\n\n* Written consent provided according to the IRB/EC defined and approved procedures for patients who are not able to provide independent written informed consent\n\nExclusion Criteria:\n\n\\- Patient diagnosed with a metastatic tumor of the spine.",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University School of Medicine",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21205",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall survival data",
+      "timeFrame": "From the date of enrollment until the date of dropout (ie. consent withdrawal, lost-to follow-up or death) which can be up to 25 years",
+      "description": "FU visits will be scheduled and performed according to the local standard of care and at each scheduled visit the patient's survival will be documented. In case a patient misses a scheduled visit it will be assessed if the patient is still alive"
+    },
+    {
+      "measure": "Local disease recurrence data",
+      "timeFrame": "From the date of enrollment until the date of dropout (ie. consent withdrawal, lost-to follow-up or death) which can be up to 25 years",
+      "description": "At first prospective treatment and every FU visit, each patient, regardless of which stage they are at in their treatment, will be evaluated for local disease recurrence. Patients that are classified as \"non-virgin\" will be evaluated for local disease recurrence also at baseline."
+    },
+    {
+      "measure": "Perioperative morbidity data",
+      "timeFrame": "From the date of enrollment until the date of dropout (ie. consent withdrawal, lost-to follow-up or death) which can be up to 25 years",
+      "description": "Complications will be assessed by evaluating the patient's medical files from the time treatment was initiated until the day of follow-up.\n\nIntraoperative complications: (Airway/ventilation; Allergic reaction; Anesthesia related; Bone implant interface failure requiring revision; Cardiac; Cord injury; Dural tear; Hardware malposition requiring revision; Hypotension ; Massive blood loss ; Nerve root injury; Pressure sores; Vascular injury; Visceral injury; Other).\n\nPre-/post treatment complications: (Cardiac arrest/failure/arrhythmia; Construct failure with loss of correction; Construct failure without loss of correction; CSF leak/meningocele; Deep vein thrombosis; Deep wound infection; Delirium; Dysphagia; Dysphonia; GI bleeding; Hematoma; Myocardial infarction; Neurologic deterioration; Non-union; Pneumonia; Postoperative neuropathic pain; Pressure sores; Pulmonary embolism; Superficial wound infection; Systemic infection; Urinary tract infection; Wound dehiscence; Other)"
+    }
+  ],
+  "sponsor": "AO Innovation Translation Center",
+  "collaborators": [
+    "AO Foundation, AO Spine"
+  ],
+  "start_date": "2016-10",
+  "completion_date": "2028-12",
+  "last_updated": "2026-02-24"
+}

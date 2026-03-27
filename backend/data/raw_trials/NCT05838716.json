@@ -1,0 +1,124 @@
+{
+  "nct_id": "NCT05838716",
+  "brief_title": "Vitamin D for Prostate Endocrine Therapy",
+  "official_title": "High-dose Vitamin D Supplementation for ADT-Induced Bone Loss in Older Prostate Cancer Patients",
+  "brief_summary": "This phase III trial tests whether high-dose vitamin D works in treating androgen-deprivation therapy (ADT)-induced bone loss in patients with prostate cancer who are undergoing androgen-deprivation therapy. Vitamins are substances that the body needs to grow and develop normally. Vitamin D helps the body absorb calcium. Calcium is one of the main building blocks of bone. A lack of vitamin D can lead to bone diseases such as osteoporosis or rickets. This trial may help researchers determine if high-dose vitamin D helps keep bones strong, lowers number of falls, and lessens fatigue in men getting androgen-deprivation therapy.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To evaluate the effect of high-dose vitamin D (HDVD) supplementation in prostate cancer patients on ADT-induced bone mineral density loss in the total hip over 52 weeks as measured by dual-energy x-ray absorptiometry (DXA).\n\nII. To evaluate the effect of HDVD supplementation in prostate cancer patients on ADT-induced bone mineral density loss in the femoral neck, distal radius, and lumbar spine (L1-L4) over 52 weeks as measured by DXA.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the effect of HDVD supplementation on falls over 52 weeks as measured by the Falls History questionnaire.\n\nII. To evaluate the effect of HDVD supplementation on fractures over 52 weeks as determined by the Clinical Record Information - Follow-up Form.\n\nIII. To evaluate the effect of HDVD supplementation on quality of life over 52 weeks as measured by the Functional Assessment of Cancer Therapy- Prostate (FACT-P).\n\nEXPLORATORY OBJECTIVE:\n\nI. To evaluate the effect of HDVD supplementation on pain, fatigue, sleep, and activities of daily living over 52 weeks as measured by patient-reported outcomes.\n\nOUTLINE: After undergoing collection of blood and DXA scan, patients are randomized to 1 of 2 arms.\n\nARM I: Patients receive HDVD orally (PO) once a week (QW) for 52 weeks. Patients also undergo collection of blood and DXA scan on study.\n\nARM II: Patients receive placebo PO QW for 52 weeks. Patients also undergo collection of blood and DXA scan on study.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 240,
+  "conditions": [
+    "Stage I Prostate Cancer AJCC v8",
+    "Stage II Prostate Cancer AJCC v8",
+    "Stage III Prostate Cancer AJCC v8",
+    "Stage IVA Prostate Cancer AJCC v8"
+  ],
+  "interventions": [
+    {
+      "name": "Biospecimen Collection",
+      "type": "PROCEDURE",
+      "description": "Undergo collection of blood"
+    },
+    {
+      "name": "D Vitamin",
+      "type": "DIETARY_SUPPLEMENT",
+      "description": "Given PO"
+    },
+    {
+      "name": "Dual X-ray Absorptiometry",
+      "type": "PROCEDURE",
+      "description": "Undergo DXA scan"
+    },
+    {
+      "name": "Placebo Administration",
+      "type": "DRUG",
+      "description": "Given PO"
+    },
+    {
+      "name": "Quality-of-Life Assessment",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Be diagnosed with Stage I-IV prostate cancer without metastases to bone (lymph node involvement and prior diagnosis of a primary cancer is allowed)\n* Be age 50 years or older\n* Be starting ADT or have received their first ADT treatment in the past 6 months, with a total of at least 6 planned months of treatment (both luteinizing hormone-releasing hormone \\[LHRH\\] antagonists and LHRH agonists are permitted)\n* Have a total serum vitamin D between 10 and 32 ng/ml\n* Have a total serum calcium of less than or equal to 10.5 mg/dl\n* Have a normal GFR (glomerular filtration rate \\> 30ml)\n* Agree not to take calcium and/or vitamin D supplements for the duration of the intervention other than those provided by the study\n* Be able to provide written informed consent\n* Be able to swallow pills and capsules\n* Be able to speak and read English\n\nExclusion Criteria:\n\n* Have long term (greater than 3 months) use of any pharmacologic bone-modifying agent including but not limited to oral or intravenous (IV) bisphosphonates, denosumab, or teriparatide prior to enrollment\n* Have a diagnosis of stage IV chronic kidney disease\n* Have a diagnosis of grade II or greater hypercalcemia (serum calcium greater than 11.5 mg/dl)\n* Have a history of hypercalcemia or vitamin D toxicity/sensitivity",
+    "gender": "MALE",
+    "min_age": "50 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Helen F Graham Cancer Center",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Medical Oncology Hematology Consultants PA",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Geisinger Cancer Center Dickson City",
+      "city": "Dickson City",
+      "state": "Pennsylvania",
+      "zip": "18519",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Community Medical Center",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18510",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Geisinger Wyoming Valley/Henry Cancer Center",
+      "city": "Wilkes-Barre",
+      "state": "Pennsylvania",
+      "zip": "18711",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Reduction of bone mineral density (BMD) loss as measured at the total hip",
+      "timeFrame": "At 52 weeks",
+      "description": "Will determine the efficacy of high-dose vitamin D (HDVD) supplementation versus placebo in reducing BMD loss as measured at the total hip via dual-energy x-ray absorptiometry (DXA) at 52 weeks. Will use analysis of covariance (ANCOVA) with group (vitamin D or placebo) as the main factor, baseline timepoint (\\[T\\]1) BMD as covariate, and week 52 (T3) BMD as the outcome. Study site will be included as a random effect independent of residual error. An initial linear mixed model (LMM) will be fit using Restricted Maximum Likelihood (REML) estimation. The significance of the variance due to study site will be tested using the Wald Test."
+    },
+    {
+      "measure": "Reduction of BMD loss as measured at the femoral neck",
+      "timeFrame": "At 52 weeks",
+      "description": "Will determine the efficacy of HDVD supplementation versus placebo in reducing BMD loss as measured at the femoral neck via DXA at 52 weeks. Will use ANCOVA with group (vitamin D or placebo) as the main factor, baseline (T1) BMD as covariate, and week 52 (T3) BMD as the outcome. Study site will be included as a random effect independent of residual error. An initial LMM will be fit using REML estimation. The significance of the variance due to study site will be tested using the Wald Test."
+    },
+    {
+      "measure": "Reduction of BMD loss as measured at the distal radius",
+      "timeFrame": "At 52 weeks",
+      "description": "Will determine the efficacy of HDVD supplementation versus placebo in reducing BMD loss as measured at the distal radius via DXA at 52 weeks. Will use ANCOVA with group (vitamin D or placebo) as the main factor, baseline (T1) BMD as covariate, and week 52 (T3) BMD as the outcome. Study site will be included as a random effect independent of residual error. An initial LMM will be fit using REML estimation. The significance of the variance due to study site will be tested using the Wald Test."
+    },
+    {
+      "measure": "Reduction of BMD loss as measured at the lumbar spine",
+      "timeFrame": "At 52 weeks",
+      "description": "Will determine the efficacy of HDVD supplementation versus placebo in reducing BMD loss as measured at the lumbar spine via DXA at 52 weeks. Will use ANCOVA with group (vitamin D or placebo) as the main factor, baseline (T1) BMD as covariate, and week 52 (T3) BMD as the outcome. Study site will be included as a random effect independent of residual error. An initial LMM will be fit using REML estimation. The significance of the variance due to study site will be tested using the Wald Test."
+    }
+  ],
+  "sponsor": "University of Rochester",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2023-12-14",
+  "completion_date": "2029-04-29",
+  "last_updated": "2026-01-14"
+}

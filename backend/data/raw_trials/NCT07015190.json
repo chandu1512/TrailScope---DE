@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT07015190",
+  "brief_title": "Neoadjuvant Darovasertib in Primary Uveal Melanoma",
+  "official_title": "A Randomized, Phase 3, Open-label Study of Neoadjuvant Darovasertib in Subjects With Primary Non-metastatic Uveal Melanoma (OptimUM-10)",
+  "brief_summary": "This is a Phase 3, randomized, multi-center, open-label study of neoadjuvant darovasertib in subjects with primary non-metastatic uveal melanoma (OptimUM-10)",
+  "detailed_description": "The study is divided into 2 cohorts of patients with primary uveal melanoma requiring either plaque brachytherapy or enucleation.\n\nIn cohort 1, patients in the treatment arm will receive neoadjuvant darovasertib followed by plaque brachytherapy compared to immediate plaque brachytherapy (control arm).\n\nIn cohort 2, the treatment arm will receive neoadjuvant darovasertib followed by definitive primary local therapy (i.e., plaque brachytherapy, proton beam radiation, or enucleation). Subjects in the control arm will go onto immediate enucleation.\n\nSubjects will then receive primary local therapy following neoadjuvant darovasertib.\n\nAll patients will be followed for up to 3 years to assess longer term outcomes such as vision and tumor recurrence.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 520,
+  "conditions": [
+    "Uveal Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Darovasertib",
+      "type": "DRUG",
+      "description": "Dosed orally, twice daily (28-day/ cycle"
+    },
+    {
+      "name": "Primary Local Therapy",
+      "type": "PROCEDURE",
+      "description": "Plaque Brachytherapy or Enucleation"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Primary non-metastatic uveal melanoma\n* Able and willing to provide written, informed consent before initiation of any study-related procedures, and in the opinion of the Investigator, to comply with all study requirements\n* ECOG 0 or 1\n* Adequate organ function\n\nExclusion Criteria:\n\n* Previous treatment for UM\n* Evidence of metastatic UM\n* Attributes that necessitate enucleation regardless of response to therapy\n* Evidence of progressive secondary underlying ocular disease that would confound longitudinal VA assessments\n* Presence of a malignant disease other than the one being treated in this study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Wilmer Eye Institute",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287-0005",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Jefferson Health Honickman Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cohort 1: To demonstrate that the proportion of subjects with vision loss is lower for subjects in the Treatment Arm vs the Control Arm",
+      "timeFrame": "Approximately 3 years",
+      "description": "Loss of Best Corrected Visual Acuity (BCVA) of \u2265 15 letters using Early Treatment Diabetic Retinopathy Study (ETDRS) BCVA"
+    },
+    {
+      "measure": "Cohort 2: To demonstrate the ability to salvage the eye and prevent enucleation in the Treatment Arm",
+      "timeFrame": "Approximately 2 years",
+      "description": "Eye preservation rate"
+    }
+  ],
+  "sponsor": "IDEAYA Biosciences",
+  "collaborators": [],
+  "start_date": "2026-01-25",
+  "completion_date": "2031-03",
+  "last_updated": "2026-02-13"
+}

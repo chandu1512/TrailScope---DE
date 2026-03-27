@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT00002849",
+  "brief_title": "S9628 Dexamethasone Plus Interferon Alfa in Treating Patients With Primary Systemic Amyloidosis",
+  "official_title": "Phase II Study of Dexamethasone/Alpha-Interferon in AL Amyloidosis",
+  "brief_summary": "RATIONALE: Chemotherapy plus interferon alfa may be effective for primary systemic amyloidosis.\n\nPURPOSE: Phase II trial to study the effectiveness of dexamethasone plus interferon alfa in treating patients who have primary systemic amyloidosis.",
+  "detailed_description": "OBJECTIVES:\n\n* Evaluate M protein and organ dysfunction responses and overall and progression-free survival in patients with primary systemic amyloidosis treated with dexamethasone/interferon alfa.\n* Identify prognostic factors that may relate to response and overall survival in these patients.\n* Evaluate the qualitative and quantitative toxic effects of this regimen.\n\nOUTLINE: Patients are stratified by prior amyloidosis treatment (yes vs no).\n\nAll patients receive induction therapy with oral dexamethasone on days 1-4, 9-12, and 17-20 every 35 days for a total of 3 courses.\n\nMaintenance therapy begins within 5-8 weeks (within 10 weeks if patients undergo stem cell harvest) of initiation of the third course of induction, as follows: oral dexamethasone for 4 days every 4 weeks; and subcutaneous interferon alfa 3 times per week. Patients who achieved less than a 50% reduction in serum M protein or urinary Bence-Jones protein and who experienced less than grade 3 toxicity during induction receive 3 additional courses of pulse dexamethasone concurrently with entry to maintenance therapy and the initiation of interferon alfa.\n\nCombination therapy is continued until 2 years from entry; thereafter, interferon is administered alone for at least 3 years, toxicity permitting. Patients with stable disease after 5 years of therapy may discontinue interferon alfa at the discretion of the treating physician.\n\nPatients are followed every 6 months for 2 years and yearly thereafter.\n\nPROJECTED ACCRUAL: A total of 100 patients (50 with prior melphalan/prednisone or iododoxorubicin treatment and 50 without) will be entered over 3 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 93,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "recombinant interferon alfa",
+      "type": "BIOLOGICAL",
+      "description": "first 2 years"
+    },
+    {
+      "name": "dexamethasone",
+      "type": "DRUG",
+      "description": "40 mg\\*/d PO 1 - 4, 9 - 12, 17-20 q 35 days for 3 cycles\\*"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically diagnosed primary systemic amyloidosis based on the following:\n\n  * Deposition of fibrillary protein with Congo red positive stain or characteristic electron microscopic appearance\n  * Monoclonal light chain protein (Bence-Jones protein) in serum or urine or immunohistochemical studies\n  * Evidence of tissue involvement other than carpal tunnel syndrome\n  * Diagnostic histologic material available for central pathology review\n\n    * Confirmation of tissue diagnosis at all sites of organ dysfunction encouraged\n* No senile, secondary, localized, dialysis-related, or familial amyloidosis\n* No known therapy-related myelodysplasia\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Adult\n\nPerformance status:\n\n* SWOG 0-4\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nCardiovascular:\n\n* No NYHA class IV status\n\nOther:\n\n* No uncontrolled diabetes\n* No active peptic ulcer disease\n* No medical condition that precludes high-dose steroids\n* No second malignancy within 5 years except:\n* Adequately treated nonmelanomatous skin cancer\n* In situ cervical cancer\n* Adequately treated stage I/II cancer in complete remission\n* Not pregnant or nursing\n* Effective contraception required of fertile patients\n* Blood/body fluid analyses within 14 days prior to registration\n* Imaging/exams for tumor measurement within 28 days prior to registration\n* Other screening exams within 42 days prior to registration\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* No prior interferon alfa\n\nChemotherapy\n\n* Prior melphalan allowed, but recovered from effects\n* At least 4 weeks since cytotoxic therapy and recovered\n\nEndocrine therapy\n\n* Prior prednisone allowed, but recovered from effects\n* At least 4 weeks since prior glucocorticoids\n* No prior dexamethasone\n* No planned or concurrent dexamethasone or other therapy for primary systemic amyloidosis\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "CCOP - Christiana Care Health Services",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19899",
+      "status": ""
+    },
+    {
+      "facility": "Marlene and Stewart Greenebaum Cancer Center, University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "response",
+      "timeFrame": "10 months",
+      "description": "50% or more reduction in quantitative immunoglobulin, or if the patient has light-chain disease only, a 50% or more reduction in the urine M-component (Bence-Jones protein)."
+    }
+  ],
+  "sponsor": "SWOG Cancer Research Network",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Cancer and Leukemia Group B"
+  ],
+  "start_date": "1996-11",
+  "completion_date": "2000-07",
+  "last_updated": "2015-03-05"
+}

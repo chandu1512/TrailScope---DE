@@ -1,0 +1,109 @@
+{
+  "nct_id": "NCT00002827",
+  "brief_title": "Chemotherapy Followed by Radiation Therapy in Treating Young Patients With Newly Diagnosed Hodgkin's Disease",
+  "official_title": "RESPONSE DEPENDENT TREATMENT OF STAGES IA, IIA AND IIIA HODGKIN'S DISEASE WITH DBVE AND LOW DOSE INVOLVED FIELD IRRADIATION WITH OR WITHOUT ZINECARD: A PEDIATRIC ONCOLOGY GROUP PHASE III STUDY",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage cancer cells. Combining chemotherapy with radiation therapy may kill more cancer cells. It is not yet known if chemotherapy is more effective with or without dexrazoxane for Hodgkin's disease.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of combination chemotherapy, with or without dexrazoxane, followed by radiation therapy in treating young patients with newly diagnosed stage I, stage II, or stage III Hodgkin's disease.",
+  "detailed_description": "OBJECTIVES: I. Modify chemotherapy courses based on initial response to therapy in children with newly diagnosed stage IA/IIA/IIIA1 Hodgkin's disease. II. Examine the activity of variable courses of doxorubicin, bleomycin, vincristine, and etoposide (DBVE) followed by low-dose involved-field irradiation in these patients. III. Monitor the safety and feasibility of the response-dependent approach and the morbidity and immediate and long-term toxic effects associated with this regimen. IV. Assess whether limited therapy is adequate for patients with an early response. V. Evaluate whether the addition of dexrazoxane can reduce pulmonary toxicity while not significantly reducing the response rate or event-free survival. VI. Evaluate whether the frequency and magnitude of myocardial injury during therapy, as measured by elevated serum cardiac troponin-T, is reduced by the addition of dexrazoxane.\n\nOUTLINE: This is a randomized study. Patients are stratified by participating institution. Patients are randomly assigned to receive doxorubicin, bleomycin, vincristine, etoposide, and filgrastim with vs. without dexrazoxane. Filgrastim SC begins on days 6-13; no filgrastim is given on day 14 or 15. Filgrastim will restart 2 days after completing therapy and continue until count recovery from expected nadir (ANC greater than 1000 cubic meter after nadir). Courses repeat every 28 days. Those with stable or responding disease after 2-4 courses receive involved-field radiotherapy 5 days per week for 3.5 weeks. Tanner stage IV/V patients are eligible for randomization based on a front-end institutional agreement and may receive standard-field radiotherapy 5 days per week for up to 11 weeks at the investigator's discretion. Patients are followed yearly until relapse, death, or for a minimum of 10 years.\n\nPROJECTED ACCRUAL: A total of 285 patients will be accrued for this study over 5 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 294,
+  "conditions": [
+    "Cardiac Toxicity",
+    "Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "bleomycin sulfate",
+      "type": "BIOLOGICAL",
+      "description": "Given IV"
+    },
+    {
+      "name": "filgrastim",
+      "type": "BIOLOGICAL",
+      "description": "Given IV"
+    },
+    {
+      "name": "dexrazoxane hydrochloride",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "doxorubicin hydrochloride",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "etoposide",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "vincristine sulfate",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "low-LET cobalt-60 gamma ray therapy",
+      "type": "RADIATION",
+      "description": ""
+    },
+    {
+      "name": "low-LET electron therapy",
+      "type": "RADIATION",
+      "description": ""
+    },
+    {
+      "name": "low-LET photon therapy",
+      "type": "RADIATION",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS: Histologically proven Hodgkin's disease No more than 5 weeks since diagnostic biopsy No B symptoms Clinical/pathologic stages (all histologies) as follows: Stage IA/IIA with mediastinal mass less than one third of chest diameter Stage IIIA limited to spleen or splenic, celiac, or portal nodes and lesions no larger than 6 cm Surgical staging required if: Clinical and imaging findings equivocal Tanner stage IV/V for whom radiotherapy is planned Concurrent registration on protocols POG-8828 (late effects study) and POG- 8829 (epidemiology study) required\n\nPATIENT CHARACTERISTICS: Age: 21 and under Performance status: Not specified Hematopoietic: No hematopoietic disease Hepatic: No liver disease Renal: No renal disease Other: No severe organ or system damage or failure No pregnant or nursing women\n\nPRIOR CONCURRENT THERAPY: No prior therapy",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "21 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "DLCO",
+      "timeFrame": "1 year post therapy",
+      "description": "The Wilcoxon test will be used to evaluate whether DLCO values differ between the two arms."
+    }
+  ],
+  "sponsor": "Children's Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Children's Cancer Group"
+  ],
+  "start_date": "1996-10",
+  "completion_date": "2008-06",
+  "last_updated": "2013-08-22"
+}

@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT05599321",
+  "brief_title": "Piloting a Virtual Navigation (VN) System for Bronchoscopic Lung Nodule Sampling",
+  "official_title": "Piloting a Virtual Navigation (VN) System for Bronchoscopic Lung Nodule Sampling",
+  "brief_summary": "The overall goal is to evaluate the role of a Virtual Navigation (VN) system (the Virtual Navigator) in the bronchoscopic evaluation and tissue sampling of lung cancer and other chest lesions at the Penn State Hershey Medical Center (HMC). The Virtual Navigator is a software package that runs on a mobile Windows-based computer. The computer takes in up to four clinical image/video sources, ordered by the clinician for clinical purposes: 1) 3D CT (computed tomography) imaging scan; 2) 3D PET (positron emission tomography) imaging scan (optional); 3) Bronchoscopic video of the airway tree interior; 4) Ultrasound video of scanned anatomy outside the airways, as provided by an endobronchial ultrasound (EBUS) probe (optional). During a live guided procedure, the Virtual Navigator presents images that assist with navigating the bronchoscope to predesignated chest lesions.\n\nLung cancer patients that present a suspicious peripheral tumor on their chest CT scan are often prescribed to undergo a diagnosis-and-staging bronchoscopy, whereby the bronchoscopist examines both the suspect tumor and any identified central-chest lymph nodes. For the clinical study, we consider bronchoscopy performance for two cohorts: 1) a cohort of consented patients who undergo image-guided bronchoscopy via the Virtual Navigator; and 2) a historical controls cohort consisting of patients who underwent bronchoscopy recently at our medical center (state-of-the-art bronchoscopy practice). The study's general hypothesis is that an image-guided bronchoscopy system (the Virtual Navigator) that integrates 3D imaging, bronchoscopy, and EBUS images enables more complete evaluation and sampling of chest lesions than current state-of-the-art clinical techniques. More specifically, for peripheral-tumor diagnosis, the sub-hypothesis is that the VN system increases diagnostic biopsy yield as compared to state-of-the-art bronchoscopy practice; for central-chest nodal staging, the sub-hypothesis is that the VN system enables the sampling of more lymph nodes than state-of-the-art bronchoscopy practice.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 166,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Virtual Navigation System",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "The Virtual Navigator guidance computer is interfaced to the bronchoscopy hardware to tap off the live bronchoscopy and EBUS video feeds. The standard OR medical team (technicians, clinical fellows, et al.) is on hand, and standard clinical facilities (e.g., fluoroscopy, CT/PET image viewer) are available. Our technical team is also present to record all procedural video and computer display information. It also operates the guidance computer during the guided procedure and offers any assistance in case of unanticipated issues. The participant's clinical bronchoscopy will be recorded by the radiology imaging management system."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* patients from age 18 and over\n* a planned clinical bronchoscopy to evaluate abnormal lung parenchyma and/or central chest lymph nodes\n* a clinical CT scan performed at Hershey Medical Center that meets technical specifications and is available on the Radiology research server\n* (Optional, use if available) CT/PET images that meet technical specifications and are available on the Hershey Medical Center clinical image storage system\n\nExclusion Criteria:\n\n* inability to give consent\n* the CT scan does not meet technical specifications",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Milton S. Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety measurement",
+      "timeFrame": "1 years",
+      "description": "Presence or absence of errors in the VN System during bronchoscopic procedure"
+    },
+    {
+      "measure": "Functionality measurement",
+      "timeFrame": "1 years",
+      "description": "Presence or absence of software malfunctions in the VN System during bronchoscopic procedure"
+    },
+    {
+      "measure": "Diagnostic biopsy yield",
+      "timeFrame": "2 years",
+      "description": "Comparison of diagnostic biopsy yield between the live cases and historical controls"
+    },
+    {
+      "measure": "Number of lymph nodes visited",
+      "timeFrame": "2 years",
+      "description": "Comparison of number of lymph nodes visited between the live cases and historical controls"
+    }
+  ],
+  "sponsor": "Penn State University",
+  "collaborators": [
+    "Milton S. Hershey Medical Center"
+  ],
+  "start_date": "2023-06-16",
+  "completion_date": "2025-10",
+  "last_updated": "2024-10-10"
+}

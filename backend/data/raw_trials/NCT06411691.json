@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT06411691",
+  "brief_title": "KRAS-Targeted Vaccine Combined With Balstilimab and Botensilimab for Patients With Stage IV MMR-p Colorectal Cancer and Pancreatic Ductal Cancer",
+  "official_title": "Pooled Mutant KRAS-Targeted Long Peptide Vaccine Combined With Balstilimab and Botensilimab for Patients With Stage IV MMR-p Colorectal Cancer and Pancreatic Ductal Adenocarcinoma",
+  "brief_summary": "Phase 1b study evaluating the efficacy and immune response to a synthetic long peptide mutant KRAS vaccine (SPL mKRASvax) combined with Balstilimab and Botensilimab for unresectable or metastatic mismatch repair-proficient (MMR-p) colorectal cancer (mCRC) or unresectable or metastatic MMR-p pancreatic ductal adenocarcinoma (PDAC) patients with measurable disease following first-line chemotherapy.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 54,
+  "conditions": [
+    "Colorectal Cancer",
+    "Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "KRAS Vaccine with Poly-ICLC adjuvant",
+      "type": "DRUG",
+      "description": "SLP mKRASvax with Poly-ICLC adjuvant will be administered on days 1, 8, 15 and 22 in Cycle 1 (Prime Phase) and on day 1 in cycle 4 and every other cycle and beyond (Boost Phase). Up to 5 subcutaneous injections will be administered in the upper thighs, arms and/or back.\n\nDrug: 0.3 mg per peptide vaccine + 0.5mg Poly-ICLC"
+    },
+    {
+      "name": "Balstilimab",
+      "type": "DRUG",
+      "description": "240 mg will be administered as a 30 minute IV. Infusion (-10/+25 minutes) on day 1 and day 15 during Cycle 1 in Prime Phase and on day 1 and day 15 of every cycle in the Boost Phase beginning on Cycle 2 (for a maximum of 2 years from initial vaccination).\n\nDrug: 240 mg IV"
+    },
+    {
+      "name": "Botensilimab",
+      "type": "DRUG",
+      "description": "75 mg will be administered as a 30 minute IV. Infusion (-10/+25 minutes) on Cycle 1 day 1 in Prime Phase and on Cycle 2 day 15 in the Boost Phase.\n\nDrug: 75 mg IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age \u226518 years.\n* Have histologically or cytologically - proven cancer of the pancreas or colon.\n* Have tumor lesions amenable to repeated biopsy, and patient's acceptance to have a tumor biopsy of an accessible lesion at baseline and on treatment if the lesion can be biopsied with acceptable clinical risk (as judged by the investigator).\n* Measurable disease as per RECIST 1.1.\n* Have sufficient and accessible tissue for next generation sequencing (NGS) and immune-phenotyping.\n* Have one of the KRAS mutations included in the vaccine at the time of vaccination expressed in tumor.\n* Cohort A: Have received 4-6 months of FOLFIRINOX or gemcitabine+nab-paclitaxel for the 1st line treatment of metastatic unresectable PDAC.\n* Cohort B: Have received 4-6 months of 1st line SOC chemotherapy per NCCN guidelines (FOLFIRINOX, FOLFOX, FOLFIRI +/- targeted therapy with VEGFi or EGFRi) of metastatic CRC.\n* Cohort C: Have received no more than 3 lines of systemic chemotherapy, including prior KRAS inhibitor.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0.\n* Life expectancy of greater than 3 months.\n* Patients must have adequate organ and marrow function defined by study-specified laboratory tests prior to initial study drug.\n* Woman of childbearing potential must have a negative pregnancy test and follow contraceptive guidelines as defined per protocol.\n* Men must use acceptable form of birth control while on study.\n* Ability to understand and willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n* Is a candidate for definitive surgical resection.\n* Known history or evidence of brain metastases and/or leptomeningeal spread.\n* Prior treatment with immunotherapy agents (including, anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA4, etc.).\n* Receiving active immunosuppressive agents or chronic use of systemic corticosteroids within 14 days of vaccine treatment.\n* Has active autoimmune disease that has required systemic treatment in the past 5 years, or a documented history of clinically severe autoimmune disease, or a syndrome that requires systemic steroids or immunosuppressive agents.\n* Known history or concurrent interstitial lung disease.\n* Has a pulse oximetry \\< 95% on room air.\n* Requires the use of home oxygen.\n* Infection with HIV or hepatitis B or C.\n* Uncontrolled intercurrent illness including, but not limited to, uncontrolled infection, symptomatic congestive heart failure, unstable angina, cardiac arrhythmia, metastatic cancer, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Has been diagnosed with another cancer or myeloproliferative disorder in the past 5 years except for superficial bladder cancer, non-melanoma skin cancers, DCIS, a low-grade prostate cancer, or a cancer not expected to impact life expectancy and not requiring therapy.\n* Has had surgery within 28 days of dosing of investigational agent, excluding minor procedures (dental work, skin biopsy, etc.), celiac plexus block, and biliary stent placement.\n* Has received any non-oncology live vaccine therapy used for prevention of infectious diseases within 28 days of study treatment.\n* If at the time of signing informed consent, a regular user (including \"recreational use\") of any illicit drugs or other substance abuse (including alcohol) that could potentially interfere with adherence to study procedures or requirements.\n* Any other sound medical, psychiatric, and/or social reason as determined by the Investigator.\n* Unwilling or unable to follow the study schedule for any reason.\n* Are pregnant or breastfeeding.\n* Any radiological or clinical pleural effusions or ascites.\n* History of malignant small bowel obstruction.\n* On parenteral nutrition.\n* Known or suspected hypersensitivity to Hiltonol.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cohort A: Progression-free Survival (PFS) for maintenance mPDAC cohort",
+      "timeFrame": "4 months",
+      "description": "PFS is defined as the number of mPDAC patients free of progression at 4 months since the initiation of therapy - disease progression (progressive disease \\[PD\\] or relapse from complete response \\[CR\\] as assessed using RECIST 1.1 criteria) or death due to any cause. Per RECIST 1.1 criteria, CR = disappearance of all target lesions, Partial Response (PR) is =\\>30percent decrease in sum of diameters of target lesions, Progressive Disease (PD) is \\>20percent increase in sum of diameters of target lesions, Stable Disease (SD) is \\<30percent decrease or \\<20percent increase in sum of diameters of target lesions."
+    },
+    {
+      "measure": "Cohort B: Objective Response Rate (ORR) for maintenance mCRC cohort",
+      "timeFrame": "3 years",
+      "description": "ORR is defined as the number of mCRC patients who are administered at least 1 dose of SLP mKRASvax achieving a complete response (CR) or partial response (PR) based on the Response Evaluation Criteria in Solid Tumors (RECIST 1.1) at any time during the study. CR = disappearance of all target lesions, PR is =\\>30percent decrease in sum of diameters of target lesions, progressive disease (PD) is \\>20percent increase in sum of diameters of target lesions, stable disease (SD) is \\<30percent decrease or \\<20percent increase in sum of diameters of target lesions."
+    },
+    {
+      "measure": "Cohort C: Objective Response Rate (ORR) for KRAS-inhibitor exposed mPDAC cohort",
+      "timeFrame": "3 years",
+      "description": "ORR is defined as the number of mCRC patients who are administered at least 1 dose of SLP mKRASvax achieving a complete response (CR) or partial response (PR) based on the Response Evaluation Criteria in Solid Tumors (RECIST 1.1) at any time during the study. CR = disappearance of all target lesions, PR is =\\>30percent decrease in sum of diameters of target lesions, progressive disease (PD) is \\>20percent increase in sum of diameters of target lesions, stable disease (SD) is \\<30percent decrease or \\<20percent increase in sum of diameters of target lesions."
+    },
+    {
+      "measure": "Number of participants experiencing study drug-related toxicities",
+      "timeFrame": "3 years",
+      "description": "Number of participants experiencing study drug-related adverse events Grade 3 or higher as defined by CTCAE v5.0"
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Agenus Inc.",
+    "Private Philanthropic Funds",
+    "National Cancer Institute (NCI)",
+    "United States Department of Defense"
+  ],
+  "start_date": "2025-06-24",
+  "completion_date": "2029-07-01",
+  "last_updated": "2025-12-16"
+}

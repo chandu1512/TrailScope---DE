@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT04439136",
+  "brief_title": "Testing Afatinib as a Potential Targeted Treatment in Cancers With HER2 Genetic Changes (MATCH-Subprotocol B)",
+  "official_title": "MATCH Treatment Subprotocol B: Phase II Study of Afatinib in Patients With Tumors With HER2 Activating Mutations",
+  "brief_summary": "This phase II MATCH treatment trial identifies the effects of afatinib in patients whose cancer has genetic changes called HER2 mutations. Afatinib may stop the growth of cancer cells by blocking the HER2 receptor, a protein that may be needed for cell growth. Researchers hope to learn if afatinib will shrink this type of cancer or stop its growth.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate the proportion of patients with objective response (OR) to targeted study agent(s) in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the proportion of patients alive and progression free at 6 months of treatment with targeted study agent in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nII. To evaluate time until death or disease progression. III. To identify potential predictive biomarkers beyond the genomic alteration by which treatment is assigned or resistance mechanisms using additional genomic, ribonucleic acid (RNA), protein and imaging-based assessment platforms.\n\nIV. To assess whether radiomic phenotypes obtained from pre-treatment imaging and changes from pre- through post-therapy imaging can predict objective response and progression free survival and to evaluate the association between pre-treatment radiomic phenotypes and targeted gene mutation patterns of tumor biopsy specimens.\n\nOUTLINE:\n\nPatients receive afatinib dimaleate (afatinib) orally (PO) once daily (QD) on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up every 3 months if less than 2 years from study entry, and then every 6 months for year 3 from study entry.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 40,
+  "conditions": [
+    "Advanced Lymphoma",
+    "Advanced Malignant Solid Neoplasm",
+    "Hematopoietic and Lymphoid Cell Neoplasm",
+    "Refractory Lymphoma",
+    "Refractory Malignant Solid Neoplasm",
+    "Refractory Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Afatinib Dimaleate",
+      "type": "DRUG",
+      "description": "Given PO"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have met applicable eligibility criteria in the Master MATCH Protocol prior to registration to treatment subprotocol\n* Patient's tumor must have activating HER2 mutation, as determined via the MATCH Master Protocol\n\n  * Additionally, any in-frame insertions in exon 20 will be considered an activating mutation\n* Patients must have an electrocardiogram (ECG) within 8 weeks prior to treatment assignment and must have no clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g. complete left bundle branch block, third degree heart block)\n* Patients with known left ventricular dysfunction must have echocardiogram (ECHO) or a nuclear study (multiple-gated acquisition \\[MUGA\\] or First Pass) within 4 weeks prior to registration to treatment and must not have left ventricular ejection fraction (LVEF) \\< institutional lower limit of normal (LLN). If the LLN is not defined at a site, the LVEF must be \\> 50% for the patient to be eligible\n\n  * NOTE: Pre-treatment LVEF determination in patients without known left ventricular dysfunction is NOT otherwise required.\n* Patients must have =\\< grade 1 diarrhea at baseline\n* Patients must have =\\< grade 1 renal function as defined below:\n\n  * Creatinine =\\< 1.5 x normal institutional limits OR\n  * Measured creatinine clearance \\>= 60 mL/min/1.73 m\\^2 for patients with creatinine levels above institutional normal or as calculated by the Cockcroft-Gault equation\n\n    * This should be strictly followed and will override the MATCH Master Protocol requirements\n\nExclusion Criteria:\n\n* Patients must not have known hypersensitivity to afatinib or compounds of similar chemical or biologic composition\n* Patients with a history of interstitial lung disease will be excluded\n* Patients must not have had prior treatment with any of the following tyrosine kinase inhibitors (TKIs), which have known activity against HER2 kinase:\n\n  * Neratinib\n  * AC-480 (BMS-599626)\n  * AST 1306\n  * Canertinib (CI 1033)\n  * CUDC-101\n  * Lapatinib\n  * TAK285\n  * Afatinib\n  * AEE 788\n  * AZD8931\n  * CP-724714\n  * Dacomitinib\n  * Pelitinib\n* Patients with non-small cell lung cancer will be excluded",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "ECOG-ACRIN Cancer Research Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "timeFrame": "Tumor assessments occurred at baseline, then every 2 cycles for the first 26 cycles and every 3 cycles thereafter until disease progression, up to 3 years post registration",
+      "description": "Overall response rate was defined as the proportion of patients with best overall response of complete response (CR) or partial response (PR) among all eligible and treated patients. Best overall response was evaluated using the Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. Please refer to the protocol for the detailed definitions of response criteria. The 90% two-sided binomial exact confidence interval was calculated for ORR."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2015-08-12",
+  "completion_date": "2026-03-17",
+  "last_updated": "2025-09-04"
+}

@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT02570308",
+  "brief_title": "A Study of the Intra-Patient Escalation Dosing Regimen With IMCgp100 in Patients With Advanced Uveal Melanoma",
+  "official_title": "A Phase I/II Open-label, Multi-center Study of the Safety and Efficacy of IMCgp100 Using the Intra-patient Escalation Dosing Regimen in Patients With Advanced Uveal Melanoma",
+  "brief_summary": "IMCgp100-102 is a Phase I/II study of the weekly intra-patient escalation dose regimen with IMCgp100 as a single agent in participants with metastatic uveal melanoma (mUM). According to this regimen, all participants in the trial received 2 weekly doses of IMCgp100 at a dose level below the identified weekly recommended Phase II dose (RP2D-QW) and then a dose escalation commenced at the third weekly dose at C1D15. The Phase I testing of the intra-patient escalation dosing regimen is designed to achieve a higher exposure and maximal plasma concentration of IMCgp100 after doses at Cycle 1 Day 15 (C1D15) and thereafter.",
+  "detailed_description": "This is a Phase I/II clinical study of IMCgp100 in participants with advanced uveal melanoma.\n\nThis is a Phase I/II study of IMCgp100 administered on a weekly basis with an intra-patient escalation dosing regimen. The intra-patient escalation occurred at the third weekly dose on Cycle 1 Day 15 (C1D15). According to this regimen, all participants in the trial received 2 weekly doses of IMCgp100 at a dose level below the identified weekly recommended Phase II dose (RP2D-QW), and then a dose escalation commenced at the third weekly dose at C1D15 with the goal to achieve a long-term dosing regimen at a dose higher than that identified for the weekly dosing regimen (RP2D-QW). The dose escalation identified the intra-patient escalation regimen (RP2D-IE).\n\nThe Phase I portion of the study was a standard 3+3 dose escalation design.The recommended Phase II dose of the intra-patient escalation dose regimen (RP2D-IE) was identified and expansion cohorts in metastatic uveal melanoma was accrued based on prior therapy.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 146,
+  "conditions": [
+    "Uveal Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "IMCgp100",
+      "type": "DRUG",
+      "description": "Bispecific soluble HLA-A2 restricted gp100-specific T-cell receptor fused to anti-CD3"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Male or female participants age \u2265 18 years of age at the time of informed consent.\n2. Ability to provide and understand written informed consent prior to any study procedures.\n3. Histologically or cytologically confirmed diagnosis of metastatic uveal melanoma (mUM).\n4. Surgically sterile participants or participants of child-bearing potential who agree to use highly effective methods of contraception during study dosing and for 6 months after last dose of study drug.\n5. Human leukocyte antigen (HLA)-A\\*0201 positive.\n6. ECOG Performance Status of 0 or 1 at Screening.\n7. Phase 2 will include participants with previously treated uveal melanoma in the metastatic setting.\n\nExclusion Criteria:\n\n1. Presence of symptomatic or untreated central nervous system (CNS) metastases, or CNS metastases that require doses of corticosteroids.\n2. History of severe hypersensitivity reactions to other biologic drugs or monoclonal antibodies.\n3. Participants with any out-of-range laboratory values.\n4. Clinically significant cardiac disease or impaired cardiac function.\n5. Active infection requiring systemic antibiotic therapy.\n6. Known history of HIV infection.\n7. Active hepatitis B virus (HBV) or hepatitis C virus (HCV) infection per institutional protocol.\n8. Participants receiving systemic treatment with systemic steroid therapy or any other immunosuppressive medication at any dose level that would interfere with the action of the study drugs in the opinion of the investigator.\n9. Malignant disease, other than that being treated in this study.\n10. Any medical condition that would, in the investigator's judgment, prevent participation in the clinical study due to safety concerns, compliance with clinical study procedures or interpretation of study results.\n11. Presence of NCI CTCAE \u2265 grade 2 toxicity (except alopecia, peripheral neuropathy and ototoxicity, which are excluded if \u2265 NCI CTCAE grade 3) due to prior cancer therapy.\n12. Pregnant, likely to become pregnant, or lactating women.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University Medical Oncology Clinic",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With a Dose Limiting Toxicity (DLT) in Phase 1",
+      "timeFrame": "Up to 49 months",
+      "description": "Number of participants with a dose limiting toxicity, defined as an adverse event (AE) or abnormal laboratory value assessed as having a suspected relationship to study drug, and unrelated to disease, disease progression, inter-current illness, or concomitant medications that occurs within the first cycle of treatment and meets any of the pre-specified criteria."
+    },
+    {
+      "measure": "Objective Response Rate in Phase 2",
+      "timeFrame": "Up to 38 months",
+      "description": "Objective response rate (ORR) is defined as the percentage of participants with measurable disease with at least 1 visit response of complete response (CR) or partial response (PR) that is confirmed at least 4 weeks later, as defined in RECIST v.1.1 and assessed by an independent central review (ICR). The denominator in the calculation of the ORR is the number of participants in the full analysis set with measurable disease at baseline."
+    }
+  ],
+  "sponsor": "Immunocore Ltd",
+  "collaborators": [],
+  "start_date": "2016-02-29",
+  "completion_date": "2022-10-17",
+  "last_updated": "2023-02-21"
+}

@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT00193219",
+  "brief_title": "Bevacizumab and Cetuximab in Combination With FOLFOX6 in Patients With Metastatic Colorectal Cancer",
+  "official_title": "A Randomized Phase II Study of Modified FOLFOX6 (Infusional 5-Fluorouracil/Leucovorin, Oxaliplatin) and Bevacizumab With or Without Cetuximab in Patients With Metastatic Colorectal Cancer",
+  "brief_summary": "This trial will evaluate the combination of modified infusional 5-fluorouracil/ leucovorin, oxaliplatin (FOLFOX6), bevacizumab, and cetuximab in patients with metastatic colorectal cancer. FOLFOX6 has proven to be a safe and effective regimen in first line treatment of advanced colorectal cancer. The role of epidermal growth factor (EGFR) inhibitors in an earlier treatment setting in combination with optimal chemotherapy regimens is an important emerging question.",
+  "detailed_description": "All patients received cetuximab: 400 mg/m2 (first cycle only) administered intravenously (IV) on day 1 and 250 mg/m2 IV on day 8 with all subsequent cycles 250 mg/m2 IV on days 1 and 8. Day 1 cetuximab was immediately followed by bevacizumab 5 mg/kg IV, oxaliplatin 85 mg/m2 IV, and 5-fluorouracil 400 mg/m2 IV bolus, followed by 2400 mg/m2 administered as a continuous infusion over 46 hours via a pump (outpatient) and leucovorin 350 mg IV (modified FOLFOX6). Cycles were 14 days.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 36,
+  "conditions": [
+    "Colon Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "5 mg/kg IV"
+    },
+    {
+      "name": "Cetuximab",
+      "type": "DRUG",
+      "description": "400 mg/m2 (first cycle only) IV on day 1 and 250 mg/m2 IV on day 8 with all subsequent cycles 250 mg/m2 IV on days 1 and 8"
+    },
+    {
+      "name": "5-fluorouracil",
+      "type": "DRUG",
+      "description": "400 mg/m2 bolus IV bolus followed by 2400 mg/m2 administered as continuous IV infusion over 46 hours via pump (outpatient)"
+    },
+    {
+      "name": "Leucovorin",
+      "type": "DRUG",
+      "description": "350 mg IV"
+    },
+    {
+      "name": "Oxaliplatin",
+      "type": "DRUG",
+      "description": "85 mg/m2 IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nTo be included in the study, you must meet the following criteria:\n\n* Metastatic colorectal cancer confirmed by a biopsy sample\n* 18 years of age or older\n* Evidence of disease progression at time of study entry\n* At least one prior adjuvant chemotherapy regimen\n* No prior therapy for metastatic disease\n* Measurable disease\n* Able to perform activities of daily living with minimal assistance\n* Adequate bone marrow, kidney, and liver function\n* Tumor tissue available for assessment of EGFR\n* Signed informed consent\n\nExclusion Criteria:\n\nYou cannot participate in the study if any of the following apply to you:\n\n* Treatment with a previous regimen for metastatic disease\n* Prior treatment with any EGFR inhibitor or anti-angiogenic agents\n* Brain or nervous system metastases\n* History of severe thromboembolic event\n* Clinical evidence or history of bleeding or coagulopathy\n* History of stroke or heart attack within six months\n* Poorly controlled hypertension\n* Non-healing wound, ulcer, or bone fracture\n* History of abdominal fistula, perforation, or abscess within six months\n* Other uncontrolled or significant disease or medical condition\n\nPlease note: There are additional inclusion/exclusion criteria. The study center will determine if you meet all of the criteria. If you do not qualify for the trial, study personnel will explain the reasons. If you do qualify, study personnel will explain the trial in detail and answer any questions you may have. You can then decide if you wish to participate.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Center for Cancer and Blood Disorders",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response Rate (ORR), the Percentage of Patients Who Experience an Objective Benefit From Treatment",
+      "timeFrame": "18 months",
+      "description": "Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI or CT: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \\>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR."
+    }
+  ],
+  "sponsor": "SCRI Development Innovations, LLC",
+  "collaborators": [
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2005-07",
+  "completion_date": "2010-07",
+  "last_updated": "2021-12-14"
+}

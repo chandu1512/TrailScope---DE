@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT04108195",
+  "brief_title": "A Study of Subcutaneous Daratumumab Regimens in Combination With Bispecific T Cell Redirection Antibodies for the Treatment of Participants With Multiple Myeloma",
+  "official_title": "A Phase 1b Study of Subcutaneous Daratumumab Regimens in Combination With Bispecific T Cell Redirection Antibodies for the Treatment of Subjects With Multiple Myeloma",
+  "brief_summary": "The purpose of this study is to identify recommended Phase 2 doses (RP2Ds) for each treatment combination (between daratumumab plus talquetamab and teclistamab plus daratumumab with or without pomalidomide) and to characterize the safety of each RP2D for selected treatment combinations.",
+  "detailed_description": "Multiple myeloma is a malignant plasma cell disorder characterized by osteolytic lesions, increased susceptibility to infections, hypercalcemia, and renal failure. Overall rationale of study is that daratumumab in combination with talquetamab or teclistamab with or without pomalidomide may lead to enhanced clinical responses in treatment of relapsed or refractory multiple myeloma through multiple mechanisms of action. Daratumumab is human immunoglobulin G1 kappa monoclonal antibody (IgG1k) that binds with high affinity to a unique epitope on cluster of differentiation 38 (CD38) in a variety of hematological malignancies including multiple myeloma. Talquetamab and teclistamab are bispecific T cell redirection antibodies. Talquetamab binds to cluster of differentiation 3 (CD3) receptor complex on T cells and to G protein-coupled receptor family C group 5-member D (GPRC5D), a 7-transmembrane receptor protein on plasma cells and teclistamab binds to human and cynomolgus-CD3 and B cell maturation antigen (BCMA). Purpose of study is to evaluate safety of daratumumab in combination with talquetamab and teclistamab with or without pomalidomide, and to evaluate preliminary antitumor activity of each combination. Study consists of a screening period, treatment period (Part 1: dose escalation and Part 2: dose expansion), a Post-treatment Follow-up Period (after the last dose of study drug and will continue for up to 16 weeks for each subject), and a Long-term Extension Period. The study will end when one of the following occurs: 1) the study drug has received marketing authorization and, if regionally applicable, government reimbursement is available; 2) a long-term extension rollover study has commenced for participants who are still benefiting from study treatment as determined by their investigator; or 3) all participants have discontinued study treatment. Total duration of study is approximately 5 years and 6 months. Efficacy, safety, pharmacokinetics (PK), immunogenicity, and biomarkers will be assessed at specified time points. Participants safety will be monitored throughout study by Study Evaluation Team (SET). SET consists of members of sponsor's study team and participating investigators.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 290,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Daratumumab",
+      "type": "DRUG",
+      "description": "Participants will receive daratumumab."
+    },
+    {
+      "name": "Talquetamab",
+      "type": "DRUG",
+      "description": "Participants will receive talquetamab."
+    },
+    {
+      "name": "Teclistamab",
+      "type": "DRUG",
+      "description": "Participants will receive teclistamab."
+    },
+    {
+      "name": "Pomalidomide",
+      "type": "DRUG",
+      "description": "Participants will receive pomalidomide."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Documented initial diagnosis of multiple myeloma according to International Myeloma Working Group (IMWG) diagnostic criteria\n* Must have either of the following: a) received at least 3 prior lines of therapy including a proteasome inhibitor (PI) (greater than or equal to \\[\\>=\\] 2 cycles or 2 months of treatment) and an immunomodulatory drug (IMiD) (\\>=2 cycles or 2 months of treatment) in any order during the treatment or b) disease that is double refractory to a PI and an IMiD\n* Measurable disease at screening as defined by any of the following: Serum monoclonal protein (M-protein) level \\>=1.0 grams per deciliter (g/dL) (in non- immunoglobulin G (IgG) myeloma, an M-protein level \\>=0.5 g/dL); or Urine M-protein level \\>=200 milligrams (mg)/24 hours; or Light chain multiple myeloma: Serum immunoglobulin (Ig) free light chain (FLC) \\>=10 milligrams per deciliter (mg/dL) and abnormal serum Ig kappa lambda FLC ratio\n* Eastern Cooperative Oncology Group (ECOG) performance status grade of 0 or 1 at screening and at Cycle 1, Day 1 predose\n* Female participants of childbearing potential must have a negative highly-sensitive serum beta-human chorionic gonadotropin (beta-hCG) pregnancy test (less than \\[\\<\\] 5 international units per milliliter \\[IU/mL\\]) at screening and a negative urine or serum pregnancy test within 1 day before the first dose of study drug\n\nExclusion Criteria:\n\n* Treatment in the prior 3 months with an anti- cluster of differentiation 38 (CD38) therapy (example, daratumumab), or discontinuation of a prior anti-CD38 therapy at any time due to an adverse event related to the anti-CD38 therapy\n* Live, attenuated vaccine within 4 weeks prior to the first dose of study drug unless approved by sponsor\n* Active Central nervous system involvement or exhibits clinical signs of meningeal involvement of multiple myeloma. If either is suspected, brain magnetic resonance imaging (MRI) and lumbar cytology are required\n* Seropositive for hepatitis B (defined by a positive test for hepatitis B surface antigen \\[HBsAg\\]). Participants with resolved infection must be screened using real-time polymerase chain reaction (PCR) measurement of hepatitis B virus (HBV) deoxyribonucleic acid (DNA) levels. Those who are PCR positive will be excluded\n* Active hepatitis C infection as measured by positive hepatitis C virus- ribonucleotide (HCV)-RNA testing. Participants with a history of Hepatitis C virus antibody positivity must undergo HCV-RNA testing",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1: Number of Participants With Dose Limiting Toxicity (DLT)",
+      "timeFrame": "Up to 52 Weeks",
+      "description": "The dose limiting toxicities are based on drug related adverse events and defined as any of the following events: hematological or non-hematological toxicity of grade 3 or higher."
+    },
+    {
+      "measure": "Part 1: Number of Participants With Dose Limiting Toxicity by Severity",
+      "timeFrame": "Up to 52 Weeks",
+      "description": "The dose limiting toxicities are based on drug related adverse events and defined as any of the following events: hematological or non-hematological toxicity of grade 3 or higher."
+    },
+    {
+      "measure": "Part 2: Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+      "timeFrame": "Up to 48 Weeks",
+      "description": "An AE is any untoward medical occurrence in a clinical study participant administered a medicinal (investigational or non-investigational) product. An AE does not necessarily have a causal relationship with the intervention. SAE is any AE that results in: death, persistent or significant disability/incapacity, requires inpatient hospitalization or prolongation of existing hospitalization, is life-threatening experience, is a congenital anomaly/birth defect, and suspects transmission of any infectious agent via a medicinal product."
+    },
+    {
+      "measure": "Part 2: Number of Participants With Adverse Events and SAEs by Severity",
+      "timeFrame": "Up to 48 Weeks",
+      "description": "An AE is any untoward medical occurrence in a clinical study participant administered a medicinal (investigational or non-investigational) product. An AE does not necessarily have a causal relationship with the intervention. SAE is any AE that results in: death, persistent or significant disability/incapacity, requires inpatient hospitalization or prolongation of existing hospitalization, is life-threatening experience, is a congenital anomaly/birth defect, and suspects transmission of any infectious agent via a medicinal product."
+    }
+  ],
+  "sponsor": "Janssen Research & Development, LLC",
+  "collaborators": [],
+  "start_date": "2020-02-21",
+  "completion_date": "2027-04-07",
+  "last_updated": "2026-03-12"
+}

@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT01039519",
+  "brief_title": "A Study Evaluating STA-9090 in Patients With Metastatic and/or Unresectable Gastrointestinal Stromal Tumor (GIST)",
+  "official_title": "A Non-randomized, Open Label, Multi-center Phase 2 Study Evaluating the Efficacy and Safety of STA-9090 in Patients With Metastatic and/or Unresectable GIST Resistant or Refractory to Prior Systemic Treatments Including Imatinib and Sunitinib",
+  "brief_summary": "The purpose of this study is to determine if STA-9090 is effective in the treatment of patients with metastatic and/or unresectable GIST.",
+  "detailed_description": "Planned:\n\n* Stage 1: 23 patients. If \u22654 patients had clinical benefit, an additional 32 patients were to be enrolled. Up to 3 additional patients with platelet-derived growth factor receptor, alpha polypeptide (PDGFRA) mutation were to be enrolled, regardless of the total study enrollment.\n* Stage 2: 55 patients. Progressing to this stage was dependent on Stage 1 results.\n\nAnalyzed:\n\n* Stage 1: 27 patients were enrolled and analyzed. The study was not expanded to Stage 2 due to insufficient efficacy.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 27,
+  "conditions": [
+    "Gastrointestinal Stromal Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Ganetespib",
+      "type": "DRUG",
+      "description": "Ganetespib 200 mg/m\\^2 during an approximately 1-hour infusion once weekly for three consecutive weeks followed by a treatment-free week. Participants who demonstrate acceptable tolerability and objective clinical benefit (defined by at least stable disease or objective response per RECIST) can continue to receive ganetespib until disease progression or appearance of unacceptable toxicity."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Must be at least 18 years of age at the time of study entry\n* Must have histologically confirmed metastatic and/or unresectable GIST\n* Must have measurable disease on computed tomography or magnetic resonance imaging as defined by Response Evaluation Criteria in Solid Tumors (RECIST)\n* Must have documented failure (due to either progression or intolerance)of at least prior imatinib and sunitinib. Previous administration of other known heat shock protein 90 (Hsp90) inhibitors is permitted\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Must have acceptable laboratory values as defined in the protocol\n\nExclusion Criteria:\n\n* Known central nervous system metastases\n* Major surgery within 4 weeks prior to receiving STA-9090\n* Use of any investigational agents within 2 weeks or 6 half-lives of the agent, whichever is shorter prior to receiving STA-9090\n* No treatment with chronic immunosuppressants\n* Must have otherwise adequate health status as defined in the protocol\n* Left ventricular ejection fraction (LVEF) \\< than or = 50% at baseline\n* Baseline corrected QT interval (QTc) \\> 470 msec\n* Pregnant or lactating females",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants Showing Clinical Benefit Based on Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.0",
+      "timeFrame": "Week 16 up to Week 47",
+      "description": "Clinical benefit is defined as showing a complete response (CR), a partial response (PR) or stable disease (SD) for at least 16 weeks.\n\n* CR: disappearance of all target lesions and non-target lesions and no new lesions\n* PR: at least a 30% decrease in the sum of the longest diameter of target lesions, no disease progression for non-target lesions, and no new lesions\n* SD: neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for progressive disease, no disease progression for non-target lesions, and no new lesions"
+    }
+  ],
+  "sponsor": "Synta Pharmaceuticals Corp.",
+  "collaborators": [],
+  "start_date": "2010-01",
+  "completion_date": "2011-12",
+  "last_updated": "2016-02-11"
+}

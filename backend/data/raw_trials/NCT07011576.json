@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT07011576",
+  "brief_title": "A Study of Fruquintinib Plus FOLFIRI as Second-Line Treatment for Participants With Metastatic Colorectal Cancer (mCRC)",
+  "official_title": "A Phase II Study Investigating Fruquintinib Plus FOLFIRI as Second-Line Treatment for Participants With Metastatic Colorectal Cancer (mCRC)",
+  "brief_summary": "This is an open-label multicenter, single-arm Phase II study of Fruquintinib in combination with FOLFIRI (leucovorin calcium (folinic acid), fluorouracil, and irinotecan) in participants with metastatic colorectal cancer (mCRC). The main goals of this study are to:\n\n* Evaluate the efficacy of the combination of fruquintinib + FOLFIRI in the 2nd-line mCRC setting\n* Evaluate the safety of the combination of fruquintinib + FOLFIRI",
+  "detailed_description": "Fruquintinib is an FDA approved cancer medication that works by targeting proteins called vascular endothelial growth factor receptors (VEGFRs). VEGFRs are important in the creation of new blood vessels. As a highly-selective and potent VEGFR inhibitor, fruquintinib helps block new blood vessels that would provide nutrients and oxygen to cancerous tumors from forming. It is a small molecule anti-tumor drug with a novel chemical structure that belongs to the quinazoline class.\n\nThis study is an open-label Phase II study designed to evaluate the efficacy and safety of fruquintinib + FOLFIRI in 2nd-line setting mCRC participants who have been previously treated with FOLFOX (folinic acid, fluorouracil, and oxaliplatin) and Bevacizumab-based first-line therapy. Up to 60 participants will receive concurrent fruquintinib and FOLFIRI according to standard guidelines of treatment of mCRC.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "Colon Cancer",
+    "Rectal Cancer",
+    "Colorectal Cancer",
+    "Colorectal Cancer (CRC)"
+  ],
+  "interventions": [
+    {
+      "name": "fruquintinib",
+      "type": "DRUG",
+      "description": "Participants will receive oral fruquintinib, with or without food, for the first 21 days of each 28-day cycle."
+    },
+    {
+      "name": "FOLFIRI (Irinotecan, 5-Fluorouracil, and Leucovorin)",
+      "type": "DRUG",
+      "description": "Participants will receive FOLFIRI once every 2 weeks on day 1 of every 28-day cycle (twice in each cycle). The FOLFIRI regimen consists of irinotecan given 180 mg/m2 intravenous infusion (IV), leucovorin 400 mg/m2 (or 200 mg/m2 levoleucovorin) IV, followed by 5-fluorouracil (5-FU) 400 mg/m2 bolus injection and 5-FU continuous IV infusion of 2400 mg/m2 over 46 to 48 hours."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Confirmed mCRC ; histologically documented adenocarcinoma of the colon or rectum with at least one measurable lesion according to RECIST v1.\n* Genetic aberrations are allowed, except for microsatellite instability high (MSI-H) and BRAF V600\n* Participants must have received FOLFOX (folinic acid, fluorouracil, and oxaliplatin) and Bevacizumab- based first-line therapy for mCRC\n* At least 18 years-of-age at the time of signature of the Informed Consent Form (ICF)\n* Eastern Cooperative Oncology Group (ECOG) Performance Status score of 0 to 2\n\nKey Exclusion Criteria:\n\n* Current treatment with other anticancer treatments within 21 days of the first dose of study treatment\n* Major surgery within 4 weeks of the first planned dose of study treatment\n* More than one treatment received for mCRC prior to signing the ICFs\n* Uncontrolled, symptomatic brain metastases\n* Uncontrolled, symptomatic gastrointestinal disease\n* Patients with uncontrolled hypertension\n* Women who are pregnant, nursing, or plan to become pregnant while in the study and for at least 6 months after the last administration of study chemotherapy\n* Men who plan to father a child while in the study and for at least 6 months after the last administration of study chemotherapy\n* Documented major electrocardiogram (ECG) abnormalities which are clinically significant.\n* Symptomatic or uncontrolled brain metastases, spinal cord compression, or leptomeningeal disease requiring concurrent treatment\n* Presence of other active invasive cancers other than the one treated in this study within 5 years prior to screening",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Oncology Hematology",
+      "city": "Columbia",
+      "state": "Maryland",
+      "zip": "21044",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Alliance Cancer Specialists",
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "zip": "19096",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS) rate at 6 months",
+      "timeFrame": "Every 2 cycles from cycle 1 day 1, until disease progression or death, up to 2 years. Each cycle is 28 days.",
+      "description": "Progression-Free Survival (PFS) rate at 6 months, defined as the percentage of participants at 6 months who have not experienced disease progression as defined by the RECIST Version 1.1 criteria or death on study. Participants who are alive and free from disease progression will be censored at the date of last tumor assessment."
+    }
+  ],
+  "sponsor": "SCRI Development Innovations, LLC",
+  "collaborators": [
+    "Takeda Development Center Americas, Inc."
+  ],
+  "start_date": "2025-09-29",
+  "completion_date": "2027-06",
+  "last_updated": "2026-03-16"
+}

@@ -1,0 +1,113 @@
+{
+  "nct_id": "NCT00069121",
+  "brief_title": "A Study of Xeloda (Capecitabine) Plus Oxaliplatin in Patients With Colon Cancer",
+  "official_title": "An Open-Label Randomized Phase III Study of Intermittent Oral Capecitabine in Combination With Intravenous Oxaliplatin (Q3W) (\"XELOX\") Versus Fluorouracil/Leucovorin as Adjuvant Therapy for Patients Who Have Undergone Surgery for Colon Carcinoma, AJCC/UICC Stage III (Dukes Stage C)",
+  "brief_summary": "This 2 arm study will compare the efficacy and safety of intermittent oral Xeloda plus Eloxatin (oxaliplatin) with that of fluorouracil/leucovorin in patients who have had surgery for colon cancer and no previous chemotherapy. Patients will be randomized to receive either 1) XELOX (Xeloda 1000mg/m2 po bid on days 1-15 + oxaliplatin) in 3 week cycles or 2)5-fluorouracil + leucovorin in 4 or 8 week cycles. The anticipated time on study treatment is until disease progression and the target sample size is 500+ individuals.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1886,
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Capecitabine",
+      "type": "DRUG",
+      "description": "1000 milligrams per square metre of body surface area (mg/m\\^2) orally twice daily on days 1-15 of each 3-week cycle."
+    },
+    {
+      "name": "Oxaliplatin",
+      "type": "DRUG",
+      "description": "130 mg/m\\^2 intravenous (IV) infusion over two hours on Day 1 of each 3-week cycle."
+    },
+    {
+      "name": "Leucovorin (LV)",
+      "type": "DRUG",
+      "description": "Administered by one of two regimens, as specified in the arm description."
+    },
+    {
+      "name": "5-Fluorouracil (5-FU)",
+      "type": "DRUG",
+      "description": "Administered by one of two regimens, as specified in the arm description."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed colon carcinoma, AJCC/UICC Stage III (Dukes stage C)\n* Complete tumor resection; Patients operated with curative intent and with no macroscopic or microscopic evidence for remaining tumor who can be randomized to either treatment arm within 8 weeks after surgery. As this is an adjuvant trial patients should never have had any evidence of metastatic disease (including presence of tumor cells in the ascites).\n* Have a life expectancy of at least 5 years\n\nExclusion Criteria:\n\n* Pregnant or lactating women\n* Sexually active males and females (of childbearing potential) unwilling to practice contraception during the study\n* Previous cytotoxic chemotherapy, radiotherapy or immunotherapy, for the currently treated colon cancer\n* Patients who have not completely recovered from surgery",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Morristown Medical Center;Hematology-Oncology Assoc",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07962",
+      "status": ""
+    },
+    {
+      "facility": "Overlook Oncology Center; Summit Medical Group",
+      "city": "Summit",
+      "state": "New Jersey",
+      "zip": "07901",
+      "status": ""
+    },
+    {
+      "facility": "Oncology-Hematology of Lehigh Valley, Pc",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": ""
+    },
+    {
+      "facility": "Medical Oncology Associates",
+      "city": "Kingston",
+      "state": "Pennsylvania",
+      "zip": "18704",
+      "status": ""
+    },
+    {
+      "facility": "Hospital of the Uni of Pennsylvania; Section of Hematology/Oncology",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-4283",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase-Temple Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Uni of Pittsburgh Cancer Inst. ; Oncology",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Disease-Free Survival (DFS) [Number of Events]",
+      "timeFrame": "Time from randomization date to date of first DFS event/date last known to be event-free. Median observation time for DFS was 74 months (range: 0-95 months).",
+      "description": "Determination of an event was based on tumor assessments and survival follow-up assessments. A disease-free survival (DFS) event was defined as any recurrence of the original colon cancer or appearance of a new colon or rectal cancer (proven by cytology or histology, when possible) or death due to any cause, whichever was earliest. Participants who had not had any such event at the time of data analysis were censored at the last date they were known to be event-free. Participants with no tumor assessments after baseline were censored at Day 1. An isolated event of increased CEA, or unexplained clinical deterioration were not considered to be evidence of relapse without support of other objective measurements. The date of relapse was defined as the date of the definitive assessment by objective measurements."
+    },
+    {
+      "measure": "Disease-Free Survival (DFS) [Time to Event]",
+      "timeFrame": "Time from randomization date to date of first DFS event/date last known to be event-free. Median observation time for DFS was 74 months (range: 0-95 months).",
+      "description": "Determination of an event was based on tumor assessments and survival follow-up assessments. A disease-free survival (DFS) event was defined as any recurrence of the original colon cancer or appearance of a new colon or rectal cancer (proven by cytology or histology, when possible) or death due to any cause, whichever was earliest. Participants who had not had any such event at the time of data analysis were censored at the last date they were known to be event-free. Participants with no tumor assessments after baseline were censored at Day 1. An isolated event of increased CEA, or unexplained clinical deterioration were not considered to be evidence of relapse without support of other objective measurements. The date of relapse was defined as the date of the definitive assessment by objective measurements. The median was estimated by the Kaplan-Meier method. The full range values include censored observations."
+    }
+  ],
+  "sponsor": "Hoffmann-La Roche",
+  "collaborators": [],
+  "start_date": "2003-04-18",
+  "completion_date": "2011-04-21",
+  "last_updated": "2020-02-14"
+}

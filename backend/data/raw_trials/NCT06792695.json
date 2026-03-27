@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT06792695",
+  "brief_title": "A Study of Novel Study Interventions and Combinations in Participants With Colorectal Cancer",
+  "official_title": "A Phase II, Open-label, Multicenter, Master Protocol to Evaluate the Safety and Efficacy of Novel Study Interventions and Combinations in Participants With Colorectal Cancer (CANTOR)",
+  "brief_summary": "The main purpose of this study is to evaluate the safety and efficacy of novel study interventions and combinations in participants with Colorectal Cancer (CRC).",
+  "detailed_description": "This is a Phase II, platform, open-label, multi-drug, multicenter, global study.\n\nThis is a modular study, that includes a master protocol and substudies.\n\nPartcipants will be randomised to one of the following intervention groups:\n\n* Volrustomig + FOLFIRI + bevacizumab group (Arm A)\n* FOLFIRI + bevacizumab group (Arm B)\n\nThe substudy will evaluate the effects of volrustomig in combination with FOLFIRI (irinotecan, 5-FU, and leucovorin) and bevacizumab versus FOLFIRI and bevacizumab only in participants with Mismatch-repair-proficient (pMMR)/Microsatellite stable (MSS) metastatic CRC (mCRC) in the absence of liver metastases and who have not received previous systemic treatment for advanced or metastatic disease.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 120,
+  "conditions": [
+    "Metastatic Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Volrustomig",
+      "type": "DRUG",
+      "description": "Volrustomig will be administered as intravenous (IV) infusion."
+    },
+    {
+      "name": "FOLFIRI (Fluorouracil (5-FU), leucovorin, irinotecan)",
+      "type": "DRUG",
+      "description": "FOLFIRI will be administered as IV infusion."
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "Bevacizumab will be administered as IV infusion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Overall Inclusion Criteria:\n\n* Histopathologically confirmed colorectal adenocarcinoma.\n* Provision of FFPE tumor sample collected as per SoC.\n* Presence of measurable disease by RECIST 1.1 criteria.\n* ECOG performance status of 0 or 1.\n* Life expectancy \u2265 12 weeks at the time of screening.\n\nSubstudy Inclusion Criteria:\n\n* No radiological evidence of liver metastasis.\n* No prior systemic therapy for mCRC, except for neoadjuvant/adjuvant chemotherapy where, \\> 6 months have elapsed between completion of therapy and documented date of diagnosis of recurrent or metastatic disease.\n* Known pMMR/MSS status (only pMMR/MSS mCRC allowed).\n* Adequate organ and bone marrow function\n* Body weight \\> 35 kg at screening and at randomization.\n* Contraceptive use by participants should be consistent with local regulations regarding the methods of contraception for those participating in clinical studies.\n\nOverall Exclusion Criteria:\n\n* Central nervous system metastases or spinal cord compression\n* Known history of severe allergy to any monoclonal antibody or study intervention.\n* Any unresolved toxicity CTCAE Grade \u2265 2 from a previous anticancer therapy.\n* History of another primary malignancy.\n\nSubstudy Exclusion Criteria:\n\n* Potentially resectable disease with multidisciplinary plan for radical surgery.\n* Active or prior documented autoimmune or inflammatory disorders or cardiac conditions.\n* Participants with a prior history of hypertensive crisis or hypertensive encephalopathy or bleeding risks.\n* Deep venous thrombosis, pulmonary embolism, arterial thrombosis, transient ischemic attack or cerebrovascular accident.\n* History of abdominal or tracheoesophageal fistula, GI perforation and/or fistulae, or intraabdominal abscess within 6 months prior to randomization.\n* Prior exposure to immune mediated therapy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Research Site",
+      "city": "Trenton",
+      "state": "New Jersey",
+      "zip": "08690",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "WITHDRAWN"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "Approximately 3 years",
+      "description": "PFS is defined as the time from randomization until progression per Response Evaluation Criteria in Solid Tumours, Version 1.1 (RECIST 1.1) or death due to any cause."
+    },
+    {
+      "measure": "Number of Participants with Adverse Events (AEs)",
+      "timeFrame": "Approximately 3 years",
+      "description": "Number of participants who received at least one dose of study treatment will be assessed."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [
+    "Parexel"
+  ],
+  "start_date": "2025-03-12",
+  "completion_date": "2028-06-07",
+  "last_updated": "2026-01-16"
+}

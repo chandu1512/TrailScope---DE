@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT05697406",
+  "brief_title": "HP Pyruvate MRI in Cancers",
+  "official_title": "Hyperpolarized 13-C Pyruvate MRI Surveillance of Multiple Cancers",
+  "brief_summary": "Many human diseases are characterized by their ability to alter existing metabolic pathways and interrupt cellular processes. Cancer exploits the Warburg effect and utilizes greater glucose than normal cells and within this process uses anaerobic respiration, leading to increased conversion of pyruvate to lactate. This can be exploited by hyperpolarized imaging. Hyperpolarized 13C MRI imaging is an approach that utilizes a stable isotope of Carbon (13C) linked to pyruvate. MRI spectroscopy is used in conjunction with hyperpolarized 13C pyruvate in order to temporally detect pyruvate and its conversion to lactate in-vivo, in order to visualize downstream metabolic (glycolytic) activity secondary to the Warburg effect, which should be useful in detecting and characterizing tumors of various types. Hyperpolarized 13C pyruvate MR imaging has not been tested in most cancers. In this preliminary survey, we will test the hypothesis that hyperpolarized 13C pyruvate MR imaging can be used to image various cancers.",
+  "detailed_description": "Most cancers exhibit the Warburg effect, which involves synthesis of lactate via glycolytic pathways. The present method of using 18F-FDG to image metabolic events only evaluates early glycolysis and does not investigate late glycolytic effects which can be examined by 13C pyruvate. The ability to detect cancer using 13C pyruvate has been shown using ovarian cancer models and in the prostate in humans, however its utility in other tumors needs clarification. Because cancers of various types affect metabolic pathways, it is necessary to improve imaging techniques to better investigate downstream metabolism. Many studies have shown that there are higher lactate levels in cancer tissue and higher levels of glycolysis. 13C pyruvate imaging takes advantage of these pathways by imaging the tumors while undergoing pyruvate to lactate conversion . From this modality, a three dimensional visualization of the tumor and metabolic products created by the pyruvate can be investigated.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 25,
+  "conditions": [
+    "Image",
+    "Warburg Effect",
+    "Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "Hyperpolarized 13C-Pyruvate",
+      "type": "DRUG",
+      "description": "Imaging tumors pre and post administration of hyperpolarized 13-C pyruvate injection."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nClinical tumor diagnosis\n\nPatients with pre-existing MR imaging appointments\n\nMust be able to undergo MR\n\nExclusion Criteria:\n\nNo tumor diagnosis",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "88 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Pyruvate to Lactate Conversion",
+      "timeFrame": "18-36 months",
+      "description": "Imaging Quality, KpL"
+    }
+  ],
+  "sponsor": "University of Maryland, Baltimore",
+  "collaborators": [],
+  "start_date": "2024-06-24",
+  "completion_date": "2028-12-01",
+  "last_updated": "2025-09-16"
+}

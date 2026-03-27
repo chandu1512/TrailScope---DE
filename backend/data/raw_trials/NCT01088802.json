@@ -1,0 +1,86 @@
+{
+  "nct_id": "NCT01088802",
+  "brief_title": "Treatment De-Intensification for Squamous Cell Carcinoma of the Oropharynx",
+  "official_title": "A Phase II Study on Treatment De-Intensification in Favorable Squamous Cell Carcinoma of the Oropharynx",
+  "brief_summary": "This research is being done to try to reduce radiation side effects that happen with the standard radiation methods. Generally surgery, radiation therapy, and sometimes chemotherapy are standard treatment for people with squamous cell carcinoma of the oropharynx.\n\nThe study will look at giving a slightly smaller dose of radiation (de-intensification) to see if regularly expected late toxicities (two years after receiving treatment) can be reduced. This study will also try to see if the smaller dose of radiation is equally effective at treating the cancer and to see if it improves quality of life. Along with this radiation treatment plan some participants in this study will have surgery on their tumor and or receive chemotherapy (cisplatin or carboplatin). The possible surgery and or chemotherapy will be up to the participant's doctor.\n\nStudy participants will be tested for the Human Papillomavirus (HPV). This tissue test is required for this study. Some studies have suggested that HPV-related cancer is biologically and clinically different as compared to non-HPV-related cancer. Some studies have found that patients with HPV-related oropharynx cancer have a better response to treatment. This test will help researchers learn more about HPV-related cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "Squamous Cell Carcinoma of Oropharynx"
+  ],
+  "interventions": [
+    {
+      "name": "IMRT",
+      "type": "RADIATION",
+      "description": "Dose de-escalation (from 70 Gy to 63 Gy and from 58.1 Gy to 50.75 Gy, same number of fractions (N=35) in 7 weeks)"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Cisplatin will be administered weekly for the first 3 weeks and the last 3 weeks of radiation. Patients will not receive chemotherapy during week 4 of treatment."
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Carboplatin will be administered weekly during the 7 weeks of radiation. Carboplatin may be given as a substitution for cisplatin when cisplatin-related toxicities occur or when patients present with greater than grade 2 sensory or motor neuropathy, greater than 2 hearing loss, or less than 60 ml/min creatinine clearance."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Biopsy-proven SCC of the oropharynx (tonsil, base of tongue, pharyngeal wall or palate).\n* Tumor positive for infection with human papilloma virus (HPV) virus.\n* T stage: 1, 2 or T3. Surgery of the primary tumor is limited to incisional or excisional biopsies (i.e tonsillectomy) even without macroscopic disease left. Positive resection margins and/or gross residual disease at the primary site are allowed.\n* Any N stage, but resectable; lymph nodes in both sides of the neck are at risk of metastatic disease, according to clinical judgment, and require irradiation; pretreatment surgery in the neck in the forms of incisional/excisional biopsy or a multilevel neck dissection is allowed only if there is gross tumor left at the primary site.\n* No other malignancy except for non-myelomatous skin cancer, early stage prostate cancer (T\\<2a and PSA\\<10 and GLS\\<7) or a carcinoma not of head and neck origin disease free for \\> 5 yrs.\n* Cannot have distant metastasis (M0)\n* ECOG performance status 0-1.\n* Patient's nutritional and general physical condition must be considered compatible with the proposed radiotherapeutic treatment.\n* Patient is judged to be mentally reliable to follow instructions and to keep appointments.\n* Patient is on no other treatment for head and neck cancer.\n* Signed study-specific informed consent prior to registration.\n\nExclusion Criteria:\n\n* Evidence of distant metastases.\n* Absence of macroscopic disease after upfront surgery\n* Previous irradiation for head and neck tumor; concurrent chemotherapy other than the treatment per protocol; previous chemotherapy \u2264 3 months from start of RT.\n* Active untreated infection.\n* Major medical or psychiatric illness, which in the investigators' opinions would interfere with either completion of therapy and follow-up or with full and complete understanding of the risks and potential complications of the therapy.\n* Prophylactic use of amifostine or pilocarpine is not allowed.\n* Patients with greater than 1- pack years of smoking history and/or currently a smoker at the time of treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Patients Free of Grade 3+ Late Toxicity",
+      "timeFrame": "2 years",
+      "description": "The goal is to achieve a prevalence of \\< 15% grade 3+ late toxicity at 2 years; reported as percentage of patients who were free of grade 3+ adverse events (AEs) as measured by Common Terminology Criteria for Adverse Events Version 4.0 (CTCAE v4.0) between 6 months and 24 months. The outcome is reported as percentage of patients who were free of grade 3+ adverse events."
+    },
+    {
+      "measure": "Percentage of Patients With Locoregional Tumor Control",
+      "timeFrame": "2 years",
+      "description": "Locoregional tumor control \\> 85 + or - 7% at 2 years; measured through progression-free survival (the time from assignment in a clinical trial to disease progression or death from any cause). Locoregional tumor control is reported as percentage of patients meeting this criteria."
+    },
+    {
+      "measure": "Adverse Events and Their Cause",
+      "timeFrame": "Pretreatment, 3 months, then every 3 months for the first 2 years, then every 6 months for years 3-5",
+      "description": "To determine the nature and prevalence of side effects at different time intervals and describe their relationship to pretreatment function and local dose and treated volume."
+    },
+    {
+      "measure": "Quality of Life Measured Through Patient-reported Outcome Measures on Assessments: M.D. Anderson Dysphagia Inventory (MDADI)",
+      "timeFrame": "Baseline, 6-8 weeks, 6 months, 1 year, 2 years, 3 years, 4-5 year visit",
+      "description": "Determine quality of life of surviving patients measured by patient reported outcomes:\n\n-MDADI-Self-administered assessment on patient swallowing ability. There are 19 questions specific to swallowing that study patients completed. Composite score is the average of the 19 questions. The scale is 20 (extremely low functioning) to 100 (high functioning).\n\nComposite score is reported."
+    },
+    {
+      "measure": "Quality of Life Measured Through Patient-reported Outcome Measures on Assessments: MD Anderson Symptom Inventory-head and Neck Cancer (MDASI-HN)",
+      "timeFrame": "Baseline, 6-8 weeks, 1 year, 2 years, 3 years, 4-5 year visit",
+      "description": "Determine quality of life of surviving patients measured by patient reported outcomes:\n\nMDASI-HN-Self-reported assessment. Measures symptom severity in previous day. Study patients answered 9 specific questions specific to head and neck cancer. Symptom severity scores, from 0 (not present) to 10 (worst possible). Composite score calculated average of individual scores.\n\nMean module (head and neck) symptom severity is reported."
+    },
+    {
+      "measure": "Quality of Life Measured Through Patient-reported Outcome Measures on Assessments: Xerostomia Questionnaire (XQ)",
+      "timeFrame": "Baseline, 6-8 weeks, 1 year, 2 years, 3 years, 4-5 year visit",
+      "description": "Determine quality of life of surviving patients measured by patient reported outcomes:\n\nXQ measures severity of radiation-induced xerostomia and patient reported quality of life. 8 question total:4 on dryness while eating/chewing, 4 on dryness when not eating/chewing. 0-10 (higher scores=severe dryness/discomfort). Composite Scores range from 0 (no xerostomia) -100 (highest level of xerostomia)."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [],
+  "start_date": "2010-03",
+  "completion_date": "2019-10",
+  "last_updated": "2022-10-14"
+}

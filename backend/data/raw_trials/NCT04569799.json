@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT04569799",
+  "brief_title": "Accuracy of Contrast-Enhanced Ultrasound for Hepatocellular Carcinoma Post TACE",
+  "official_title": "Accuracy of Contrast-Enhanced Ultrasound for Hepatocellular Carcinoma (HCC) Post Transcatheter Arterial Chemoembolization (TACE)",
+  "brief_summary": "The purpose of this research study is to find out if a different type of imaging study called contrast enhanced ultrasound (CEUS) is as good as, or better than CT or MRI in patients diagnosed with hepatocellular carcinoma (HCC) after receiving TACE treatment",
+  "detailed_description": "This is a prospective trial to determine if contrast enhanced ultrasound (CEUS) is non-inferior to CT or MRI in patients with hepatocellular carcinoma (HCC) following transcatheter arterial chemoembolization(TACE) treatments. All patients will receive standard of care CT/MRI and will also get a contrast ultrasound to directly compare.\n\nTimepoint 0- Our proposed study population includes subjects with diagnosed HCC, who are treated with TACE. Patients will be identified and enrolled at the time of initial TACE.\n\nTimepoint 1- Following initial TACE, patients will receive a CT or MRI, as routinely ordered in the post-TACE setting, to assess for residual or new HCC. At this same imaging follow-up visit, patients will also receive a one-time additional contrast-enhanced ultrasound (CEUS). Timepoint 2- Per standard clinical care, patients typically return for repeat imaging (CT/MRI) within 2-4 months following the first imaging visit.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE4"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 26,
+  "conditions": [
+    "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Lumason",
+      "type": "DRUG",
+      "description": "2.4 mL per lesion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adult (\u226518 years of age) patients with diagnosed HCC (via imaging, biopsy, or combination of imaging and biochemical markers), who are treated with their first round of TACE.\n* Sex: male or female\n* BMI \u2264 40\n\nExclusion Criteria:\n\n* Children (\\<18), pregnant patients\n* Patients who do not speak English\n* Patients with a history of hypersensitivity reactions to sulfur hexafluoride lipid microsphere components or to any of the inactive ingredients in Lumason.\n* Patients with unstable cardiopulmonary conditions (acute myocardial infarction, acute coronary artery syndromes, worsening or unstable congestive heart failure, or serious ventricular arrhythmias)\n* Patients who have a prior non-contrast ultrasound, within last 3 months (at time of consent), where the tumor could not be seen - most commonly due to severe steatosis or obesity.\n* Pregnant or nursing woman\n* Patients who do not plan to get their follow-up CT/MRI at Hershey Medical Center.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Residual Disease on CEUS Imaging.",
+      "timeFrame": "2-4 months post TACE",
+      "description": "Number of lesions with residual disease identified on CEUS imaging. Residual disease is defined as enhancement within the lesion using CEUS."
+    },
+    {
+      "measure": "Residual Disease on CT/MRI Imaging",
+      "timeFrame": "2-4 months post-TACE",
+      "description": "Number of lesions with residual disease identified on CT/MRI imaging. Residual disease is defined as enhancement within the lesion using CT/MRI."
+    },
+    {
+      "measure": "No Viable Disease on CEUS Imaging.",
+      "timeFrame": "2-4 months post-TACE",
+      "description": "Number of lesions with no viable disease identified on CEUS imaging. Non-viable disease is defined as no enhancement within the lesion using CEUS."
+    },
+    {
+      "measure": "No Viable Disease on CT/MRI Imaging.",
+      "timeFrame": "2-4 months post-TACE",
+      "description": "Number of lesions with no viable disease identified on CT/MRI imaging. Non-viable disease is defined as no enhancement within the lesion using CT/MRI."
+    }
+  ],
+  "sponsor": "Milton S. Hershey Medical Center",
+  "collaborators": [],
+  "start_date": "2020-10-14",
+  "completion_date": "2022-10-11",
+  "last_updated": "2023-10-11"
+}

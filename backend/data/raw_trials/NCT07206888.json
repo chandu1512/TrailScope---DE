@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT07206888",
+  "brief_title": "Advanced Ultrasound Signal Processing of Suspicious Breast Images",
+  "official_title": "Advanced Ultrasound Beamforming Methods for Breast Imaging",
+  "brief_summary": "This study aims to investigate recent developments in ultrasound signal processing to determine if these new techniques can enhance the visibility of important features of interest in breast ultrasound images. Ultrasound signals obtained from both standard ultrasound imaging and ultrasound imaging combined with light (also known as photoacoustic imaging) will be investigated.",
+  "detailed_description": "",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 252,
+  "conditions": [
+    "Breast Cancer",
+    "Breast Cyst",
+    "Microcalcification"
+  ],
+  "interventions": [
+    {
+      "name": "Imaging",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Ultrasound imaging or ultrasound imaging with light (i.e., photoacoustic imaging)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Female adults (age \\>18 years) with at least one of the following:\n* Macrocalcification(s) detected in x-ray 2D or 3D mammography images\n* Macrocalcification(s) located next to cyst (or other identifiable landmark on an ultrasound image)\n* A cyst, mass, or finding detected in diagnostic/screening ultrasound or mammography\n\nExclusion Criteria:\n\n(when performing ultrasound imaging only)\n\n* Children (age \\< 18 years) are excluded\n\n(when performing ultrasound imaging with light, i.e., optoacoustic imaging)\n\n* Children (age \\< 18 years) are excluded\n* Is pregnant\n* Has open sores including insect bites, rash, poison ivy, and chafing on the skin of the ipsilateral breast\n* Is experiencing phototoxicity associated with currently taking, or having taken, photosensitizing agents within the previous 72 hours such as sulfonamides, ampicillin, tetracycline\n* Is currently undergoing phototherapy\n* Has a history of any photosensitive disease (e.g., porphyria, lupus erythematosus) or is undergoing treatment for a photosensitive disease and is experiencing photosensitivity",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Outpatient Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21209",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Image quality",
+      "timeFrame": "baseline",
+      "description": "compare advanced beamforming and benchmark against a conventional beamforming technique by measuring and comparing standard image quality metrics"
+    },
+    {
+      "measure": "Number of microcalcifications",
+      "timeFrame": "baseline",
+      "description": ""
+    },
+    {
+      "measure": "Binary visibility of microcalcifications",
+      "timeFrame": "baseline",
+      "description": "Clinicians (members of study team) will be shown images and record 'yes' if microcalcifications are present and 'no' if not."
+    },
+    {
+      "measure": "Subjective ratings",
+      "timeFrame": "baseline",
+      "description": "Clinicians (members of study team) will be shown images and asked to provide subjective ratings of the images"
+    },
+    {
+      "measure": "Distinction of mass contents: solid vs. fluid",
+      "timeFrame": "baseline",
+      "description": "After examining the coherence measurements obtained from advanced beamforming techniques, the investigators will determine the ability of this quantitative information to distinguish between solid and fluid-filled masses"
+    },
+    {
+      "measure": "Distinction of mass contents: benign vs. malignant",
+      "timeFrame": "baseline",
+      "description": "After examining the coherence measurements obtained from advanced beamforming techniques, the investigators will determine the ability of this quantitative information to distinguish between solid malignant masses vs. solid benign masses"
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [],
+  "start_date": "2017-04-25",
+  "completion_date": "2037-01-01",
+  "last_updated": "2025-10-13"
+}

@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT03318380",
+  "brief_title": "Contrast-Enhanced Ultrasound Imaging in Diagnosing Liver Cancer in Patients With Cirrhosis",
+  "official_title": "Contrast-Enhanced Ultrasound Evaluation of Focal Liver Lesions in Patients With Cirrhosis or Other Risk Factors for Developing HCC",
+  "brief_summary": "This clinical trial studies how well contrast-enhanced ultrasound imaging works in diagnosing liver cancer in patients with cirrhosis. Diagnostic procedures, such as contrast-enhanced ultrasound imaging, may help find and diagnose liver cancer.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To evaluate the sensitivity, specificity, positive and negative predictive values of contrast-enhanced ultrasound (CEUS) for diagnosis of hepatocellular carcinoma (HCC) in patients at risk for HCC in a multicenter setting.\n\nSECONDARY OBJECTIVES:\n\nI. To validate CEUS Liver Imaging Reporting and Data System (LI-RADS) and determine the prevalence of HCC in each CEUS LI-RADS category.\n\nII. To evaluate inter-reader reliability of CEUS for HCC diagnosis. III. To evaluate covariates that might limit diagnostic performance of CEUS for HCC diagnosis.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 612,
+  "conditions": [
+    "Liver Cirrhosis"
+  ],
+  "interventions": [
+    {
+      "name": "Dynamic Contrast-Enhanced Ultrasound Imaging",
+      "type": "PROCEDURE",
+      "description": "Undergo CEUS"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Capable of making informed decisions regarding his/her treatment\n* Have known cirrhosis or other risk factors for HCC, based on American Association for the Study of Liver Diseases (AASLD) and European Association for the Study of the Liver (EASL) guidelines (applicable in each site jurisdictions)\n* Patients with untreated focal liver observations on liver ultrasound or multiphase contrast-enhanced CT or MRI performed as part of clinical standard of care within 4 weeks before patient enrollment.\n\nOR\n\n\u2022 Patients with untreated focal liver observations scheduled for follow-up multiphase contrast-enhanced CT or MRI, biopsy or surgical excision as part of clinical standard of care. CEUS should be performed within 4 weeks before or after follow-up imaging or within 4 weeks before biopsy or surgical excision.\n\nExclusion Criteria:\n\n* Patients who are pregnant or lactating\n* Patients with focal liver observations less than 5 mm or greater than 5 cm in size\n* Patients with contraindications to CEUS\n* Patients with contraindications to both CT and MRI\n* Patients who are medically unstable, terminally ill, or whose clinical course is unpredictable\n* Liver nodule previously treated with trans-arterial or thermal ablation\n* Patients who have received an investigational drug in the 30 days before CEUS, or will receive one within 72 hour after their CEUS exam",
+    "gender": "ALL",
+    "min_age": "21 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "Albert Einstein Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19141",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Sensitivity of contrast-enhanced ultrasound evaluation (CEUS) for diagnosis of Hepatocellular cancer using a 95% confidence interval 95% confidence interval for HCC diagnosis using CEUS LR-5 classification",
+      "timeFrame": "Up to 12 months",
+      "description": "A value of 67% for sensitivity is expected based on recent meta-analysis studies of CEUS for focal liver mass characterization."
+    },
+    {
+      "measure": "Specificity of contrast-enhanced ultrasound evaluation (CEUS) for diagnosis of Hepatocellular cancer using a 95% confidence interval",
+      "timeFrame": "Up to 12 months",
+      "description": "A value of 91% for specificity is expected based on recent meta-analysis studies of CEUS for focal liver mass characterization."
+    },
+    {
+      "measure": "Positive Predictive Value of contrast-enhanced ultrasound evaluation (CEUS) for diagnosis of Hepatocellular cancer using a 95% confidence interval",
+      "timeFrame": "Up to 12 months",
+      "description": "A value of 93% for Positive Predicative Value is expected based on recent meta-analysis studies of CEUS for focal liver mass characterization."
+    },
+    {
+      "measure": "Negative Predictive Value of contrast-enhanced ultrasound evaluation (CEUS) for diagnosis of Hepatocellular cancer using a 95% confidence interval",
+      "timeFrame": "Up to 12 months",
+      "description": "A value of 60% for Negative predictive value is expected based on recent meta-analysis studies of CEUS for focal liver mass characterization."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "GE Healthcare",
+    "Bracco Diagnostics, Inc"
+  ],
+  "start_date": "2018-01-19",
+  "completion_date": "2022-11-03",
+  "last_updated": "2025-05-14"
+}

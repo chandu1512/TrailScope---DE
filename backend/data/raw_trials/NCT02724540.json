@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT02724540",
+  "brief_title": "Randomized Embolization Trial for NeuroEndocrine Tumor Metastases to the Liver",
+  "official_title": "Randomized Embolization Trial for NeuroEndocrine Tumor Metastases to the Liver",
+  "brief_summary": "The primary aim of this trial is to estimate the duration of hepatic progression-free survival (HPFS) in participants treated with bland embolization (BE), transcatheter arterial Lipiodol chemoembolization (TACE), and embolization by drug-eluting beads (DEB). The primary hypothesis is that chemoembolization will be nearly twice as durable as bland embolization; thatis, the hazard ratio for HPFS will be 1.76 or better.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 162,
+  "conditions": [
+    "Neuroendocrine Tumor, Malignant",
+    "Liver Metastases"
+  ],
+  "interventions": [
+    {
+      "name": "Bland Embolization",
+      "type": "DEVICE",
+      "description": "Lobar or segmental bland embolization with microspheres (50-500 microns) to 2-5 heartbeat stasis"
+    },
+    {
+      "name": "Transarterial chemoembolization",
+      "type": "COMBINATION_PRODUCT",
+      "description": "Lobar or segmental lipiodol transarterial chemoembolization. Doxorubicin 50 mg dissolved in 10 mL dilute contrast and emulsified with 10-20 cc iodized oil, followed by 50-500 \u03bcm microspheres."
+    },
+    {
+      "name": "Drug Eluting Beads Embolization",
+      "type": "COMBINATION_PRODUCT",
+      "description": "CLOSED - Lobar or segmental hepatic chemoembolization with DEBDOX (100-300 or 300-500 micron beads loaded with doxorubicin per manufacturer IFU."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants 18 years and older;\n* Biopsy-proven neuroendocrine tumor.\n* Measurable metastasis to liver with at least one dimension \u2265 1.0 cm.\n* Tumor burden dominant in the liver AND liver tumor burden less than or equal to 70% of the total liver volume by visual estimate.\n* Not a candidate for surgical resection based on unresectability, anatomy, anesthesia risk, patient preference.\n* Symptoms uncontrolled by somatostatin analogues OR morphologically progressive tumor by RECIST 1.1 criteria in the liver OR baseline tumor burden \\>25% of the liver volume.\n* There must be no plans for the patient to receive other concomitant therapy while on this protocol treatment (other than somatostatin analogs or bone-strengthening agents).\n* Performance status 0-2 on Zubrod/ECOG Performance Scale;\n* Serum creatinine \\< 2.0 mg/dL;\n* Serum Bilirubin \u2264 2.0 mg/dL\n* Serum albumin \u2265 3.0 g/dL\n* Platelet count \\> 50 thousands/uL (corrected if needed)\n* INR \u2264 1.5 (corrected if needed)\n* All patients must be informed of the investigational nature of this study and must sign a study specific informed consent in accordance with institutional and federal guidelines prior to study entry.\n\nExclusion Criteria:\n\n* Pregnant or lactating women may not participate due to the embryotoxic effects of protocol treatment. Women/men of reproductive potential may not participate unless they have agreed to use an effective contraceptive method.\n* Prior hepatic arterial therapy or hepatic radiation therapy. Prior surgical resection or ablation of liver metastases is acceptable. Patients must be at least one month beyond prior chemotherapy, PRRT, ablation or surgery, and have recovered from all therapy-associated toxicities.\n* Active infection (Symptomatic bacterial and fungal infection - newly diagnosed and/or requiring treatment);\n* Choledochoenteric anastomosis; transpapillary biliary stent, or sphincterotomy of duodenal papilla\n* Absolute contraindication to intravenous iodinated contrast (Hx of significant previous contrast reaction, not mitigated by appropriate pre-medication).\n* Contraindications to arteriography and selective visceral catheterization:\n\n  1. severe allergy or intolerance to contrast media, narcotics, sedatives, or atropine.\n  2. bleeding diathesis not correctable by usual forms of therapy.\n  3. severe peripheral vascular disease precluding catheterization.\n* Contraindications to hepatic artery embolization:\n\n  1. portal vein occlusion without hepatopedal collateral flow demonstrated by angiography; or portal hypertension with hepatofugal flow.\n  2. hepatic encephalopathy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Abdominal MRI/Triple Phase CT",
+      "timeFrame": "2 years",
+      "description": "Hepatic progression-free interval (H-PFS)"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "Guerbet"
+  ],
+  "start_date": "2016-03",
+  "completion_date": "2024-11-08",
+  "last_updated": "2025-01-03"
+}

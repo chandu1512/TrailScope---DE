@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT06163430",
+  "brief_title": "A Phase 1/2 Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of TERN-701 in Participants With Chronic Myeloid Leukemia (CARDINAL)",
+  "official_title": "A Phase 1/2 Clinical Trial to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of TERN-701 in Participants With Chronic Myeloid Leukemia",
+  "brief_summary": "The goal of the study is to evaluate the safety, tolerability, pharmacokinetics, pharmacodynamics and efficacy of TERN-701, a highly selective allosteric inhibitor of BCR-ABL1, in participants with previously treated chronic phase - chronic myeloid leukemia (CP-CML).\n\nThe study has two parts: Part 1 of the trial (Dose Escalation) will evaluate sequential dose escalation cohorts of TERN-701 administered once daily.\n\nPart 2 (Dose Expansion) consists of randomized, parallel dose expansion cohorts of TERN-701 that will further evaluate the efficacy and safety of 2 recommended dose levels for expansion selected from Part 1. Part 2m (mutation cohort) will further evaluate the efficacy and safety of 500mg of TERN-701 in previously treated CP-CML participants with certain resistance mutations.\n\nIn both Part 1 and Part 2, participants will receive continuous once daily dosing of TERN-701 divided into 28-day cycles. During the treatment period, participants will have scheduled visits to the trial center at Cycle 1 day 1(C1D1), C1D2 (Part 1 only), C1D8, C1D15, and C1D16 (Part 1 only), followed by Day 1 of Cycles 2 through 7, and Day 1 of every 3 cycles thereafter.\n\nApproximately 180 participants could be enrolled in this trial, up to 80 participants in Part 1 (dose escalation), including optional backfill cohorts, approximately 80 participants in Part 2 (randomized dose expansion), and approximately 20 participants in Part 2m (mutation cohort).\n\nAll participants will receive active trial intervention.\n\nFour dose-level cohorts have been evaluated in Part 1; two dose levels will be evaluated in Part 2 (Randomized Dose Expansion), and one dose level will be evaluated in Part 2m (mutation cohort).",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 180,
+  "conditions": [
+    "Chronic Myeloid Leukemia, Chronic Phase",
+    "Chronic Myeloid Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "TERN-701",
+      "type": "DRUG",
+      "description": "TERN-701 orally QD"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Male or female participants \u2265 18 years of age at the time of signing the informed consent\n* Have an ECOG performance status score of 0 to 2\n* Have an established cytopathologically confirmed diagnosis of BCR-ABL1 positive CML in Chronic Phase\n* Have received treatment with at least one prior TKI and have treatment failure, suboptimal response, or treatment intolerance\n* Prior treatment with asciminib is allowed\n* Adequate organ function, as assessed by local laboratory\n\nKey Exclusion Criteria:\n\n* Systemic antineoplastic therapy (including prior TKIs, interferon-alfa, therapeutic antibodies, chemotherapy) or other experimental therapy 7 days before the first dose of TERN-701\n* Have completed previous anticancer therapy without resolution of all associated clinically significant toxicity (to \u2264 Grade 2 or baseline)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University - Center City (Philadelphia)",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1 - Incidence of Dose Limiting Toxicities during the first cycle of treatment",
+      "timeFrame": "First cycle is 28 days",
+      "description": "Determination of the Maximum Tolerated Dose (MTD) and recommended doses for expansion cohorts of TERN-701."
+    },
+    {
+      "measure": "Part 1 - Serious Adverse Events",
+      "timeFrame": "up to 3 years",
+      "description": "Number and percentage of patients with any serious adverse event"
+    },
+    {
+      "measure": "Part 1 - Adverse Events",
+      "timeFrame": "up to 3 years",
+      "description": "Number and percentage of patients with any adverse event"
+    },
+    {
+      "measure": "Part 2- Complete Hematologic Response (CHR)",
+      "timeFrame": "up to 3 years",
+      "description": "CHR Defined by ELN 2020 criteria in participants who are not in CHR at baseline."
+    },
+    {
+      "measure": "Part 2: Molecular response (MR)",
+      "timeFrame": "up to 3 years",
+      "description": "MR defined by ELN 2020 criteria measured by quantitative polymerase chain reaction of BCR-ABL transcript levels."
+    },
+    {
+      "measure": "Part 2 - Best categorical shift in BCR-ABL1 transcript levels from baseline",
+      "timeFrame": "up to 3 years",
+      "description": "The best categorical molecular response shift on treatment relative to baseline"
+    }
+  ],
+  "sponsor": "Terns, Inc.",
+  "collaborators": [],
+  "start_date": "2024-03-26",
+  "completion_date": "2030-05-31",
+  "last_updated": "2026-01-08"
+}

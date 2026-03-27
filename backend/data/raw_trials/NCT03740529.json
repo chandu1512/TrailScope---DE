@@ -1,0 +1,89 @@
+{
+  "nct_id": "NCT03740529",
+  "brief_title": "A Study of Oral LOXO-305 in Patients With Previously Treated CLL/SLL or NHL",
+  "official_title": "A Phase 1/2 Study of Oral LOXO-305 in Patients With Previously Treated Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL) or Non-Hodgkin Lymphoma (NHL)",
+  "brief_summary": "This is an open-label, multi-center Phase 1/2 study of oral LOXO-305 (pirtobrutinib) in patients with CLL/SLL and NHL who have failed or are intolerant to standard of care.",
+  "detailed_description": "This study includes 3 parts: Phase 1 (pirtobrutinib monotherapy dose escalation and dose expansion), Phase 1b (pirtobrutinib combination therapy dose expansion), and Phase 2 (pirtobrutinib monotherapy dose expansion). In Phase 1, patients will be enrolled using an accelerated titration design. The starting dose of pirtobrutinib in oral tablet form is 25 mg/day (e.g., 25 mg once daily \\[QD\\]). Once the MTD and/or RP2D is identified in Phase 1 dose escalation, enrollment will continue to Phase 1 dose expansion and can commence to Phase 1b (Arms A and B). For Phase 2, patients will be enrolled to one of seven Phase 2 dose expansion cohorts depending on tumor histology and prior treatment history. Cycle length will be 28 days.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 803,
+  "conditions": [
+    "Chronic Lymphocytic Leukemia",
+    "Waldenstrom Macroglobulinemia",
+    "Mantle Cell Lymphoma",
+    "Marginal Zone Lymphoma",
+    "B-cell Lymphoma",
+    "Small Lymphocytic Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "Pirtobrutinib",
+      "type": "DRUG",
+      "description": "Oral"
+    },
+    {
+      "name": "Venetoclax",
+      "type": "DRUG",
+      "description": "Oral"
+    },
+    {
+      "name": "Rituximab",
+      "type": "DRUG",
+      "description": "IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed CLL/SLL, WM, or NHL intolerant to either \u2265 2 prior standard of care regimens given in combination or sequentially OR have received 1 prior BTK inhibitor-containing regimen when a BTK inhibitor is approved as first line therapy (Phase 1) OR with prior treatment defined by phase 2 cohort (Phase 2 Patients only).\n* Adequate hematologic function (Phase 1 and 1b Patients only).\n* Responsive to transfusion support if given for thrombocytopenia or anemia (Phase 1 and 1b Patients only).\n* Histologically confirmed relapsed/recurrent CLL in whom venetoclax is appropriate standard salvage treatment; no prior venetoclax is permitted (Phase 1b Arm A Patients only).\n* Histologically confirmed relapsed/refractory CLL in whom venetoclax + rituximab is appropriate standard salvage treatment; no prior venetoclax is permitted (Phase 1b Arm B Patients only).\n* Eastern Cooperative Oncology Group (ECOG) 0-2.\n* Adequate hepatic and renal function.\n* Ability to receive study drug therapy orally.\n* Willingness of men and women of reproductive potential (defined as following menarche and not postmenopausal \\[and 2 years of non-therapy-induced amenorrhea\\] or surgically sterile) to observe conventional and effective birth control.\n\nExclusion Criteria:\n\n* Investigational agent or anticancer therapy within 5 half-lives or 14 days, whichever is shorter, prior to planned start of specified study therapy except antineoplastic and immunosuppressant monoclonal antibody treatment must be discontinued a minimum of 4 weeks prior to the first dose of pirtobrutinib. In addition, no concurrent systemic anticancer therapy is permitted.\n* Major surgery within 4 weeks prior to planned start of specified study therapy.\n* Radiotherapy with a limited field of radiation for palliation within 7 days of the first dose of study treatment.\n* Pregnancy or lactation.\n* Patients requiring therapeutic anticoagulation with warfarin.\n* Any unresolved toxicities from prior therapy greater than CTCAE (version 5.0) Grade 2 or greater at the time of starting study treatment except for alopecia.\n* History of allogeneic or autologous stem cell transplant (SCT) or chimeric antigen receptor-modified T-cell (CAR-T) therapy within the past 60 days (180 days before the PK trigger) prior to planned start of specified study therapy.\n* Known central nervous system (CNS) involvement by systemic lymphoma. Patients with previous treatment for CNS involvement who are neurologically stable and without evidence of disease may be eligible and enrolled to phase 2 Cohort 7 if a compelling clinical rationale is provided by the Investigator and with documented Sponsor approval.\n* Active uncontrolled auto-immune cytopenia where new therapy introduced or concomitant therapy escalated within the 4 weeks prior to study enrollment is required to maintain adequate blood counts.\n* Clinically significant, uncontrolled cardiac, cardiovascular disease or history of myocardial infarction within 6 months prior to planned start of pirtobrutinib.\n* Active uncontrolled systemic bacterial, viral, fungal or parasitic infection.\n* Patients who have tested positive for human immunodeficiency virus (HIV) are excluded. For patients with unknown HIV status, HIV testing will be performed at Screening and result should be negative for enrollment.\n* Clinically significant active malabsorption syndrome.\n* Current treatment with certain strong CYP3A4 inhibitors or inducers and/or strong P-gp inhibitors.\n* For patients enrolled to phase 1b Arm A or B: Patients with prior treatment with venetoclax or other BCL-2 inhibitors.\n* Prior treatment with pirtobrutinib.\n* Active second malignancy unless in remission and with life expectancy \\> 2 years.\n* Known hypersensitivity to any component or excipient of pirtobrutinib.\n* For patients enrolled to phase 1b Arm B: Patients with prior significant hypersensitivity, allergy, or anaphylactic reaction to rituximab/biosimilar requiring discontinuation.\n* Patients with prior significant hypersensitivity to rituximab requiring discontinuation, prior allergic or anaphylactic reaction to rituximab (Phase 1b Arm B Patients only).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum Tolerated Dose (MTD)",
+      "timeFrame": "Up to 24 Months",
+      "description": "Phase I"
+    },
+    {
+      "measure": "Recommended dose for further study",
+      "timeFrame": "Up to 24 Months",
+      "description": "Phase I"
+    },
+    {
+      "measure": "To assess the preliminary anti-tumor activity of pirtobrutinib based on ORR as assessed by an Independent Review Committee (IRC).",
+      "timeFrame": "Up to 24 months",
+      "description": "Phase II"
+    },
+    {
+      "measure": "To evaluate the safety of pirtobrutinib in combination with venetoclax (Arm A) by assessing incidence and severity of treatment-emergent adverse events as determined by CTCAE v5.0",
+      "timeFrame": "Up to 24 Months",
+      "description": "For Phase 1b"
+    },
+    {
+      "measure": "To evaluate the safety of pirtobrutinib in combination with venetoclax and rituximab (Arm B) by assessing incidence and severity of treatment-emergent adverse events as determined by CTCAE v5.0",
+      "timeFrame": "Up to 24 Months",
+      "description": "For Phase 1b"
+    }
+  ],
+  "sponsor": "Loxo Oncology, Inc.",
+  "collaborators": [
+    "Eli Lilly and Company"
+  ],
+  "start_date": "2019-03-15",
+  "completion_date": "2025-12-23",
+  "last_updated": "2026-01-26"
+}

@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT03475212",
+  "brief_title": "Antiviral Cellular Therapy for Enhancing T-cell Reconstitution Before or After Hematopoietic Stem Cell Transplantation",
+  "official_title": "Antiviral Cellular Therapy for Enhancing T-cell Reconstitution Before or After Hematopoietic Stem Cell Transplantation (ACES) PBMTC SUP1701",
+  "brief_summary": "The purpose of this study is to evaluate whether virus-specific T cell lines (VSTs) are safe and can effectively control three viruses (EBV, CMV, and adenovirus) in patients who have had a stem cell transplant and also in patients that have a primary immunodeficiency disorder with no prior stem cell transplant.",
+  "detailed_description": "The primary purpose of the study is to evaluate whether most closely HLA-matched multivirus-specific T cell lines obtained from a bank of allogeneic virus-specific T cell lines (VSTs) have antiviral activity against three viruses: EBV, CMV and adenovirus.\n\nReconstitution of anti-viral immunity by donor-derived VSTs has shown promise in preventing and treating infections associated with CMV, EBV and adenovirus post-transplant. However, the time required to prepare patient-specific products and lack of virus-specific memory T cells in cord blood and seronegative donors, limits their value. An alternative is to use banked partially HLA-matched allogeneic VSTs. A prior phase II study at Baylor College of Medicine using trivirus-specific VSTs generated using monocytes and EBV-transformed B cells gene-modified with a clinical grade adenoviral vector expressing CMV-pp65 to activate and expand specific T cells showed the feasibility, safety and activity of this approach for the treatment of refractory CMV, EBV and Adenovirus infections. More recent protocols utilizing synthetic viral peptide pools allow ex vivo expansion of T-cells targeting multiple viral antigens in 10-12 days without use of viral transduction.\n\nThe study will evaluate whether partially-HLA matched allogeneic multivirus-specific VSTs, activated using overlapping peptide libraries spanning immunogenic antigens from CMV, adenovirus and EBV, will be safe and produce anti-viral effects in immunodeficient recipients infected with one of more of the targeted viruses that are persistent despite conventional anti-viral therapy.\n\nThis study will evaluate safety and efficacy of partially-matched VST therapy in A) patients who have persistent viral infections in the post-HSCT period, and B) patients with primary immunodeficiency conditions who have persistent viral infections and have not undergone HSCT.\n\nThe study agent will be assessed for safety and antiviral activity.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 52,
+  "conditions": [
+    "Cytomegalovirus Infections",
+    "Adenovirus Infection",
+    "EBV Infection"
+  ],
+  "interventions": [
+    {
+      "name": "Virus Specific T-cell (VST) infusion",
+      "type": "BIOLOGICAL",
+      "description": "Patients will receive partially HLA-matched VSTs as a single infusion. Patients who have a partial response (\\>1 log decrease in viral load without clearance) or no response and do not have treatment-related dose-limiting toxicities are eligible to receive up to 3 additional doses from day 30 after the initial infusion and at 2 weekly intervals thereafter. The viral load of the virus (or viruses) that patients are initially treated for are monitored by viral PCR."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\nPatients who have received any type of allogeneic transplant or who have a primary immunodeficiency disorder will be eligible if they have CMV, adenovirus, and/or EBV infection/disease with failure of treatment after 7 days of standard therapy OR if unable to tolerate standard therapy.\n\n* Patients must meet one of the following criteria:\n\n  * Recipient of prior myeloablative or non-myeloablative allogeneic hematopoietic stem cell transplant using either bone marrow or peripheral blood stem cell or single or double cord blood within the previous 18 months, OR\n  * Have a diagnosed primary immunodeficiency disorder (as defined by clinical and laboratory evaluations) and not undergone HSCT.\n* Treatment of the following persistent or relapsed infections despite standard therapy:\n\n  * CMV: Treatment of persistent or relapsed CMV disease or infection after standard therapy. For CMV infection, standard therapy is defined as antiviral therapy with ganciclovir, foscarnet or cidofovir for at least 14 days.\n  * Adenovirus: Treatment of persistent or relapsed adenovirus infection or disease despite standard therapy. Standard therapy is defined as antiviral therapy with cidofovir or brincidofovir.\n  * EBV: Treatment of persistent or relapsed EBV infection despite standard therapy.\n\nFor EBV infection, standard therapy is defined as rituximab given at 375 mg/m2 in patients for 1-4 doses with a CD20+ tumor.\n\nAdditional Inclusion Criteria:\n\n* Patients with simultaneous infections with CMV, EBV and/or Adenovirus infections are eligible if one or more infection(s) is persistent or relapsed despite standard therapy as defined above. Patients with multiple infections with one or more reactivation and one or more controlled infection are eligible to enroll.\n* Clinical status at enrollment that allows tapering of steroids to equal or less than 0.5 mg/kg/day prednisone (or equivalent) prior to infusion of the VST doses.\n* Negative pregnancy test in female patients if applicable (childbearing potential who have received a reduced intensity conditioning regimen).\n* Written informed consent and/or signed assent line from patient, parent or guardian.\n\nExclusion Criteria\n\n* Patients receiving ATG, Campath, Basiliximab or other immunosuppressive monoclonal antibodies targeting T-cells within 28 days of screening for enrollment.\n* Patients who have received donor lymphocyte infusion (DLI) or other experimental cellular therapies within 28 days.\n* Current therapy with ruxolitinib or other JAK inhibitors within the previous 3 days.\n* Patients with other uncontrolled infections, defined as bacterial or fungal infections with clinical signs of worsening despite standard therapy. For bacterial infections, patients must be receiving definitive therapy and have no signs of progressing infection for 72 hours prior to enrollment. For fungal infections, patients must be receiving definitive systemic anti-fungal therapy and have no signs of progressing infection for 1 week prior to enrollment.\n* Progressing infection is defined as hemodynamic instability, worsening physical signs, or radiographic findings attributable to infection. Persisting fever without other signs or symptoms will not be interpreted as progressing infection.\n* Patients with active and uncontrolled relapse of malignancy (if applicable).",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Children's Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Feasibility to identify suitable HLA matched VST products",
+      "timeFrame": "30 days",
+      "description": "Feasibility will be defined as the ability of the investigators to identify suitable partially HLA- matched VST products from the VST bank at Children's National Medical Center for referred study subjects. The percentage of referred patients with potential partially-matched VST products identified will be recorded, as will timing between patient referral and treatment."
+    },
+    {
+      "measure": "Incidence of Treatment-Emergent Adverse Events",
+      "timeFrame": "30 days",
+      "description": "The safety endpoint, dose-limiting toxicity (DLT), will be defined as acute GvHD grades III-IV or grades 3-5 infusion-related adverse events or grades 4-5 non-hematological adverse events related to the T cell product within 30 days of each VST dose and that are not due to the pre-existing infection or the original malignancy or pre-existing co-morbidities as defined by the NCI Common Terminology Criteria for Adverse Events (CTCAE), Version 4.03."
+    },
+    {
+      "measure": "Efficacy of VST at 30 days as measured by viral load",
+      "timeFrame": "30 days",
+      "description": "Peripheral blood and, where relevant, stool and urine will be monitored for CMV, EBV, and/or adenovirus viral load. For patients with multiple viral infections, the response against the primary viral target will determine the classification. For the infection under treatment response in viral load will be assessed at 30 days after the first VST infusion"
+    }
+  ],
+  "sponsor": "Pediatric Transplantation & Cellular Therapy Consortium",
+  "collaborators": [],
+  "start_date": "2018-06-20",
+  "completion_date": "2025-06-30",
+  "last_updated": "2025-05-06"
+}

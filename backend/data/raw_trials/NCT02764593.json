@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT02764593",
+  "brief_title": "Safety Testing of Adding Nivolumab to Chemotherapy in Patients With Intermediate and High-Risk Local-Regionally Advanced Head and Neck Cancer",
+  "official_title": "Safety Evaluations of Nivolumab (Anti-PD-1) Added To Chemotherapy (CRT) Platforms In Patients With Intermediate And High-Risk Local-Regionally Advanced Head and Neck Squamous Cell Carcinoma",
+  "brief_summary": "This study will evaluate the safety of adding nivolumab to several chemotherapy platforms with weekly cisplatin, high-dose cisplatin, cetuximab or radiation therapy alone.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 40,
+  "conditions": [
+    "Head and Neck Squamous Cell Carcinoma (HNSCC)"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Anti-PD-1 targeted immunotherapy"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Anti-cancer alkylating agent"
+    },
+    {
+      "name": "Cetuximab",
+      "type": "DRUG",
+      "description": "Epidermal Growth Factor Receptor (EGFR) antagonist"
+    },
+    {
+      "name": "IMRT",
+      "type": "RADIATION",
+      "description": "High-precision radiotherapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically-confirmed diagnosis of HNSCC of the oral cavity, oropharynx, larynx, or hypopharynx.\n* Intermediate-risk group: Oropharynx cancer that is p16-positive by immunohistochemistry with smoking status \\> 10 Pack-years, stage T1-2N2b-N3 OR \u2264 10 pack-years, stage T4N0-N3 or T1-3N3.\n* High-risk group: Oral cavity, larynx, hypopharynx, or p16-negative oropharynx cancer, stage T1-2N2a-N3 or T3-4-N0-3 based on the following diagnostic workup:\n\n  * Mandatory submission of H\\&E and p16 stained slides for central review of p16 staining is required for oropharyngeal patients and H\\&E stained slide block (or punch biopsy of paraffin block) for PD-L1 expression analysis for all patients\n  * History/physical examination within 28 days prior to registration\n  * Examination by Radiation Oncologist, Medical Oncologist, and Ear, Nose, Throat (ENT) or Head \\& Neck Surgeon within 28 days prior to registration\n  * Fiberoptic exam with laryngopharyngoscopy within 28 days prior to registration\n  * Diagnostic quality, cross sectional imaging of the thorax within 28 days prior to registration; 18-F-FDG-PET/CT or conventional CT are acceptable.\n  * Diagnostic quality CT or MRI of neck, with contrast, within 28 days prior to registration; a 18-F-FDG-PET/CT of the neck only is acceptable as a substitute if the CT is of diagnostic quality and with IV contrast.\n* Age \u2265 18 years\n* The trial is open to both genders\n\nExclusion Criteria:\n\n* Definitive clinical or radiologic evidence of distant (beyond cervical lymph node and neck tissue) metastatic disease.\n* Patients with oral cavity cancer are excluded from participation if resection of the primary tumor is considered technically feasible by an oral or head and neck cancers surgical subspecialist.\n* Carcinoma of the neck of unknown primary site origin (even if p16-positive).\n* Absence of RECIST, v. 1.1 defined measurable disease.\n* Gross total excision of both primary and nodal disease; this includes tonsillectomy, local excision of primary site, and nodal excision that removes all clinically and radiographically evident disease. Patients with RECIST, v. 1.1 evaluable remaining cancer either in the neck or primary site remain eligible.\n* Simultaneous primary cancers or separate bilateral primary tumor sites.\n* Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free for a minimum of 3 years; (for example, carcinoma in situ of the breast, oral cavity, or cervix are all permissible).\n* Prior systemic chemotherapy for the study cancer.\n* Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields.\n* Patients with active autoimmune disease, with exceptions of vitiligo, type I diabetes mellitus, hypothyroidism and psoriasis.\n* Use of systemic corticosteroids (\\> 10 mg daily prednisone or equivalent) or other immunosuppressive medications within 14 days of study drug administration, with exception of inhaled or topical steroids.\n* Known immunosuppressive disease, for example HIV infection or history of bone marrow transplant or chronic lymphocytic leukemia (CLL).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC - Shadyside Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose Limiting Toxicity (DLT)",
+      "timeFrame": "From the first dose of nivolumab to 28 days after the completion of radiation therapy.",
+      "description": "A nivolumab attributable, dose-limiting toxicity (DLT) will be defined as follows:\n\n1\\) Any \u2265 grade 3 adverse event (CTCAE, v. 4) that is related to nivolumab that does not resolve to grade 1 or less within 28 days; 2) A delay in radiotherapy of \\> 2 weeks due to toxicity related to nivolumab; 3) Inability to complete radiotherapy due to toxicity related to nivolumab; 4) Inability to receive an adequate dose (\u2265 70%) of cisplatin (Arm 1 and 2) or cetuximab (Arm 3) due to toxicity definitely related to nivolumab."
+    }
+  ],
+  "sponsor": "RTOG Foundation, Inc.",
+  "collaborators": [
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2016-06",
+  "completion_date": "2022-02-21",
+  "last_updated": "2022-11-22"
+}

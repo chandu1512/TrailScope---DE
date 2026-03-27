@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT01173341",
+  "brief_title": "Cardiotoxicity of Cancer Therapy (CCT)",
+  "official_title": "Cardiotoxicity of Cancer Therapy: Mechanisms and Predictors",
+  "brief_summary": "The objective of this study is to define the clinical significance of mechanistic biomarkers (including Neuregulin-1Beta) and novel echocardiographic measures of cardiac function in predicting the incident risk of cancer therapy cardiotoxicity.",
+  "detailed_description": "The overall study objectives are:\n\n1. To determine the longitudinal relationships between circulating markers, such as Neuregulin (NRG)-1Beta levels and incident risk of adverse cardiovascular outcomes in patients exposed to anthracycline, trastuzumab, or a combination of the two agents. We hypothesize that a sustained increase in NRG-1Beta, indicative of enhanced cardiac stress with exposure to chemotherapeutic agents, is predictive of an increased risk of cardiac dysfunction and heart failure.\n2. To study the single nucleotide polymorphism (SNP)/haplotype variation in pathways of interest, such as the Neuregulin/Epidermal Growth Factor (ErbB) signaling pathway, on incident risk of adverse cardiovascular outcomes. We hypothesize that there will be SNP/haplotypes variations that are associated with incident cardiovascular outcomes.\n3. To determine the longitudinal relationships between novel echocardiographic measures, such as strain and strain rate and incident cardiac dysfunction in patients exposed to anthracycline, trastuzumab, or a combination of the two agents. We hypothesize that early declines in strain and strain rate are predictive of an increased risk of future cardiac dysfunction and heart failure.\n4. To explore the changes in biomarkers such as NRG-1Beta levels and the relationships with novel echocardiographic measures of cardiac function.\n5. To create a biobank as a future resource for additional questions in novel biomarkers and genetics.\n6. To determine the long-term effects of cancer therapy cardiotoxicity by following patients yearly for 5 years after their exposure to cancer therapy, with the option to extend up to an additional 5 years.",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 700,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Echocardiography",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Prior to chemotherapy, prior to and after anthracyclines, every 6 weeks during trastuzumab, and yearly for up to 10 years."
+    },
+    {
+      "name": "Blood Collection",
+      "type": "OTHER",
+      "description": "Drawn at first chemo treatment and periodically during treatment (exact schedule varies with clinically ordered treatment plan), then annually for up to 10 years. Blood is banked for future biomarker testing."
+    },
+    {
+      "name": "Symptoms Questionnaire",
+      "type": "OTHER",
+      "description": "Survey collected at first chemotherapy, periodically during therapy (exact schedule determined by clinically ordered treatment regimen), and annually for up to 10 years."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* HER-2 positive breast cancer designated to receive trastuzumab chemotherapy with or without prior exposure to anthracycline-based chemotherapy\n* Non-HER-2 positive breast cancer designated to receive treatment with an anthracycline-containing regimen\n\nExclusion Criteria:\n\n* Other contraindications to trastuzumab or anthracycline chemotherapy.\n* Vulnerable populations",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cardiac dysfunction or signs or symptoms of heart failure",
+      "timeFrame": "15 years",
+      "description": "Cardiac dysfunction. as defined according to the Cardiac Review and Evaluation Committee (CREC) criteria as a decline in LVEF of 10% to less than 55% without signs or symptoms"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2010-07",
+  "completion_date": "2037-04",
+  "last_updated": "2026-02-05"
+}

@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT05427240",
+  "brief_title": "eHealth Delivery Alternative for Cancer Genetic Testing for Hereditary Cancer",
+  "official_title": "A Randomized Hybrid Type I Effectiveness-Implementation Study of an eHealth Delivery Alternative for Cancer Genetic Testing for Hereditary Cancer",
+  "brief_summary": "This randomized non-inferiority study will use a 2x2 design where traditional standard-of-care pre-test (visit 1) and post-test (visit 2: disclosure) counseling delivered by a genetic counselor are replaced with a self-directed web-based eHealth intervention to provide critical data to inform optimal ways to deliver clinical genetic testing in eligible individuals, while maintaining quality of care and favorable cognitive, affective and behavioral outcomes.",
+  "detailed_description": "Germline cancer genetic testing has become a standard evidence-based practice, with established risk reduction and cancer screening guidelines for genetic carriers. Access to genetic specialists is limited in many areas in the US, and the traditional medical delivery model of pre- and post-test counseling with a genetic professional will not support the rising indications for genetic testing. Recent data from the National Health Interview Survey found that \\<20% of eligible patients with a personal or family history of breast or ovarian cancer underwent genetic testing. Thus, there is an urgent need to consider alternative delivery models to increase access and uptake of genetic testing, while maintaining adequate patient cognitive, affective and behavioral outcomes.\n\nThis study aims to evaluate the effectiveness of offering web-based eHealth delivery alternatives of pre/post-test genetic counseling to provide equal or improved timely uptake of genetic services and testing, and short-term cognitive (e.g. understanding), affective (e.g. distress and uncertainty) and behavioral (risk reducing and screening behaviors and communication to providers and relatives) outcomes in patients with barriers to genetic testing as compared to the traditional two-visit delivery model with a genetic counselor.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1000,
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Pre-Test Intervention",
+      "type": "OTHER",
+      "description": "Secure and accessible by private code only, the web-based intervention will provide users with a the results of their clinical genetic testing results and a detailed summary of what those results mean. Additionally, an individualized summary will also be included."
+    },
+    {
+      "name": "Standard of Care",
+      "type": "OTHER",
+      "description": "Standard of Care with a Genetic Counselor by Remote Services"
+    },
+    {
+      "name": "Post-Test Intervention",
+      "type": "OTHER",
+      "description": "Secure and accessible by private code only, the web-based intervention will provide users with a the results of their clinical genetic testing results and a detailed summary of what those results mean. Additionally, an individualized summary will also be included."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Speak and understand English\n* Male or Female\n* No prior germline genetic testing\n* Meet current National Comprehensive Cancer Network (NCCN) guidelines for germline genetic testing\n\nExclusion Criteria:\n\n-Communication difficulties such as:\n\n* Uncorrected or uncompensated hearing and/or vision impairment\n* Uncorrected or uncompensated speech defects\n* Uncontrolled psychiatric/mental condition or severe physical, neurological or cognitive deficits rendering individual unable to understand study goals and tasks",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center at the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "The KnowGene Scale",
+      "timeFrame": "Through study completion, an average of 1 year",
+      "description": "Change in Knowledge - Score Range = 0-16, Higher score = Better outcome"
+    },
+    {
+      "measure": "Patient Reported Outcome Measurement Information System (PROMIS)",
+      "timeFrame": "Through study completion, an average of 1 year",
+      "description": "Change in General Anxiety - Score Range = 4-20, Lower score = Better outcome"
+    },
+    {
+      "measure": "Uptake of Genetic Services",
+      "timeFrame": "Through study completion, an average of 1 year",
+      "description": "Testing uptake per arm - Yes/No"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "Fox Chase Cancer Center",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2022-09-28",
+  "completion_date": "2026-07-01",
+  "last_updated": "2026-01-15"
+}

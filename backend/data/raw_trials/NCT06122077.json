@@ -1,0 +1,91 @@
+{
+  "nct_id": "NCT06122077",
+  "brief_title": "Clinical Validation of Freenome Multiomics Blood Test for Lung Cancer Screening",
+  "official_title": "The PROACT LUNG Study: A Prospective, Observational,Clinical Validation Study of the Freenome Multiomics Blood Test for Lung Cancer Screening (FRNM-007)",
+  "brief_summary": "The PROACT LUNG study is a prospective multi-center observational study to validate a blood-based test for the early detection of lung cancer by collecting blood samples from high-risk participants who will undergo a routine, standard-of-care screening Low-Dose Computed Tomography (LDCT).",
+  "detailed_description": "This is a prospective, multi-center, observational study to evaluate the performance of the Freenome Multiomics Blood Test in screening eligible participants for lung cancer.\n\nEnrollment will be open to all eligible participants for screening chest CT scan as part of the Standard of Care (SOC) for lung cancer. Subjects who meet the eligibility criteria for this study and provide informed consent will be enrolled and blood sample collection must be completed within 30 days of signing the informed consent. Optimally, the screening chest CT will be completed on the same day of the study blood collection, however up to 45 days will be allowed after study blood collection to obtain a screening chest CT.\n\nThe study will also collect demographic data and relevant clinical data, such as medical history, lifestyle, occupational and environmental exposure(s), family history, and clinical laboratory data. All reports and clinical notes regarding the diagnostic tests and procedures related to lung cancer diagnosis or lung lesion assessment, such as histopathology and bronchoscopy reports, and diagnostic/follow-up images and imaging reports will be collected as part of follow up to the screening chest CT scan.\n\nAll enrolled subjects will be followed prospectively from the date of the baseline screening chest CT until a minimum of 24 months, or until a premature study endpoint inclusive of withdrawal of consent or death.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 20000,
+  "conditions": [
+    "Lung Cancer Diagnosis"
+  ],
+  "interventions": [
+    {
+      "name": "blood draw",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Subjects who provide informed consent and meet the eligibility criteria will have 50 ml of blood collected and sent to Freenome or Freenome's designee for processing, testing, and storage, and will then complete a standard-of-care screening LDCT."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age 50 years or older within 30 days of enrollment\n2. Current or former smokers with a cumulative smoking history of \u2265 20 pack-year\n3. Able to comprehend and willing to sign and date the informed consent and HIPAA authorization documents\n\nExclusion Criteria:\n\n1. Any active therapy for cancer, including but not limited to surgery, chemotherapy, biologic therapy, immunotherapy, and/or radiation therapy at the time of enrollment\n2. History of any malignancy within prior 5 years of enrollment (except for non- melanoma skin cancer)\n3. History of organ, tissue, and bone marrow transplantation\n4. Screened for lung cancer or having chest CT scan 12 months before enrollment\n5. Having signs and symptoms of lung cancer such as hemoptysis, superior vena cava syndrome, Cushing syndrome, and Pancoast syndrome\n6. Received a blood transfusion in the 30 days preceding enrollment\n7. Known to be pregnant\n8. Participated or currently participating in another Freenome-sponsored clinical study\n9. Participated or currently participating in a clinical research study in which an experimental medication has been administered during the 60 days preceding enrollment\n10. Any condition that in the opinion of the Investigator should not be enrolled in the study",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Ascension St. Agnes Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Inspira Medical Center",
+      "city": "Mullica Hill",
+      "state": "New Jersey",
+      "zip": "08062",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Clinical Research Associates of Central PA",
+      "city": "DuBois",
+      "state": "Pennsylvania",
+      "zip": "15801",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "US Digestive Health at Lancaster",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Temple University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19140",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Guthrie Medical Group",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "US Digestive Health at Wyomissing",
+      "city": "Wyomissing",
+      "state": "Pennsylvania",
+      "zip": "19610",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Sensitivity and specificity in detecting lung cancer",
+      "timeFrame": "12-Months",
+      "description": "Clinical performance of the Freenome Blood Test, including sensitivity and specificity, in detecting lung cancer in subjects with positive and negative lung cancer outcomes during a 12-month follow-up period"
+    }
+  ],
+  "sponsor": "Freenome Holdings Inc.",
+  "collaborators": [],
+  "start_date": "2023-11-28",
+  "completion_date": "2027-06-15",
+  "last_updated": "2025-08-04"
+}

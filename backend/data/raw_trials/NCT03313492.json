@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT03313492",
+  "brief_title": "Modifying Young Adult Skin Cancer Risk and Protective Behaviors",
+  "official_title": "Modifying Young Adult Skin Cancer Risk and Protective Behaviors (UV4.me2): A Hybrid Type 2 Dissemination/Effectiveness Trial",
+  "brief_summary": "Skin cancer is the most common cancer and can be deadly, debilitating, damaging, and disfiguring, yet is highly preventable. In 2014, the US Surgeon General made a call to action about the \"major public health problem\" of skin cancer, noting potential contributions of behavioral science and education, and a need for investments in such efforts. Almost five million Americans are treated for skin cancer annually, and incidence is rising. Risk factors for melanoma and non-melanoma skin cancers include personal or family history of skin cancer, certain physical characteristics (e.g., fair skin, numerous moles), as well as excessive ultraviolet (UV) radiation exposure. Our work shows that skin cancer risk behaviors, including sunburns, indoor tanning, and lack of protection peak at age 25. Thus, young adulthood is an important window for skin cancer risk reduction interventions. However, young adults tend to be resistant to public health recommendations because, as a group, they perceive themselves as having more immediate priorities than disease prevention, that the consequences of their current health behaviors are in the distant future, and they also tend to be experimenters and risk-takers highly influenced by peers.\n\nThe principal investigator developed a web-based intervention (UV4.me) that was found to significantly decrease UV exposure and increase skin protection behaviors among young adults in a randomized controlled trial of nearly 1000 participants.\n\nThe objective of this project is to investigate the reach, effectiveness, implementation, maintenance, and cost of an enhanced version of that web intervention (UV4.me2) in a large national randomized controlled trial. The ultimate goal is to improve the skin cancer protection behaviors (and potentially decrease skin cancer incidence) among a national sample of young adults at moderate to high risk of developing skin cancer.\n\nPrimary Aim 1. To enhance and determine intervention reach (i.e., enrollment, representativeness).\n\nPrimary Aim 2. To determine the effectiveness of the enhanced intervention.\n\nSecondary Aim 1. To determine maintenance of the UV4.m4 and UV4.me2 interventions through evaluation at 6 and 12-month follow-up.\n\nSecondary Aim 2. To determine intervention implementation by young adults.\n\nSecondary Aim 3. To determine the costs of the UV4.me and UV4.me2 interventions.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1746,
+  "conditions": [
+    "Melanoma and Other Malignant Neoplasms of Skin"
+  ],
+  "interventions": [
+    {
+      "name": "UV4.me2",
+      "type": "BEHAVIORAL",
+      "description": "UV4.me2 is an enhanced version of the original UV4.me web intervention and features the many of the same educational material and interactive components. New features/strategies for reach, effectiveness, and implementation include:\n\n1. A mobile version of the site\n2. Incentives in the form of clickable coupons and links to free samples for sun protection products (e.g., sunscreen)\n3. Behavioral tracking and feedback, where users can set goals, track their progress, and receive tailored feedback"
+    },
+    {
+      "name": "UV4.me",
+      "type": "BEHAVIORAL",
+      "description": "Original version of the UV4.me website, which offers education and tailored responses to interactive quizzes about current sun protective behaviors and barriers to engaging in sun protective behaviors."
+    },
+    {
+      "name": "E-Pamphlet",
+      "type": "BEHAVIORAL",
+      "description": "A free non-interactive e-pamphlet (\"Skin Cancer Prevention and Early Detection\" from the American Cancer Society). Includes information on skin cancer risk and prevention."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Moderate to high risk for skin cancer\n\nExclusion Criteria:\n\n* Not able to speak English\n* Past history of skin cancer",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "25 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Reach: eligibility by recruitment source.",
+      "timeFrame": "18 months",
+      "description": "The number of participants who are eligible for the study by recruitment source (i.e., skin protection organizations, Google Adwords, Facebook ads, consumer research panel, word of mouth)."
+    },
+    {
+      "measure": "Efficacy: Sun protection behaviors",
+      "timeFrame": "Change from baseline to 3 months",
+      "description": "Skin cancer-related behavioral outcomes will initially be assessed at baseline and 3 months later. Sun protection will be measured using a self-report scale assessing behaviors such as sunscreen use and shade seeking."
+    },
+    {
+      "measure": "Efficacy: UV exposure behaviors",
+      "timeFrame": "Change from baseline to 3 months",
+      "description": "Skin cancer-related behavioral outcomes will initially be assessed at baseline and 3 months later. UV exposure will be measured using a self-report scale assessing how many times in the past month the subject engaged in behaviors such as sunbathing and using a tanning bed/booth."
+    },
+    {
+      "measure": "Reach: enrollment by recruitment source.",
+      "timeFrame": "18 months",
+      "description": "The number of participants who enroll in the study by recruitment source (i.e., skin protection organizations, Google Adwords, Facebook ads, consumer research panel, word of mouth)."
+    }
+  ],
+  "sponsor": "Rutgers, The State University of New Jersey",
+  "collaborators": [
+    "University of Pennsylvania",
+    "ITX Corporation",
+    "RTI International",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2018-09-07",
+  "completion_date": "2020-07-31",
+  "last_updated": "2022-09-27"
+}

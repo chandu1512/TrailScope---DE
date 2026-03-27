@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT00056160",
+  "brief_title": "CC-5013 Plus Dexamethasone Versus Dexamethasone Alone in Previously Treated Subjects With Multiple Myeloma",
+  "official_title": "A Multicenter, Randomized, Parallel-Group, Double-blind, Placebo-controlled Study of CC-5013 Plus Dexamethasone Versus Dexamethasone Alone in Previously Treated Subjects With Multiple Myeloma",
+  "brief_summary": "Randomized subjects will receive CC-5013 plus high-dose dexamethasone or placebo appearing identical to CC-5013 plus high-dose dexamethasone in 4-week cycles. Each subject will participate in a treatment phase and a follow-up phase.",
+  "detailed_description": "This was a phase 3, multicenter, double-blind, placebo-controlled, parallel-group study of the efficacy and safety of CC-5013 plus oral pulse high-dose dexamethasone and oral pulse high-dose dexamethasone therapy alone in subjects with relapsed or refractory multiple myeloma. Eligible subjects were randomized in a 1:1 ratio to 1 of 2 treatment groups: Subjects in the CC-5013/Dex treatment group took 25 mg of CC-5013 orally once daily on Days 1 to 21 and a matching placebo capsule once daily on Days 22 to 28 of each 28-day cycle; Subjects in the Placebo/Dex treatment group took 1 placebo capsule on Days 1 to 28 of each 28-day cycle. Subjects in both treatment groups took 40 mg of dexamethasone orally once daily on Days 1 to 4, 9 to 12, and 17 to 20 of each 28-day cycle for the first 4 cycles of therapy. Beginning with Cycle 5, the dose of dexamethasone was reduced to 40 mg orally once daily on Days 1 to 4 for the remaining cycles.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 353,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "CC-5013",
+      "type": "DRUG",
+      "description": "Subjects in the CC-5013/Dex treatment group took 25 mg of lenalidomide orally once daily on Days 1 to 21 and a matching placebo capsule once daily on Days 22 to 28 of each 28-day cycle."
+    },
+    {
+      "name": "Dexamethasone",
+      "type": "DRUG",
+      "description": "Subjects in the CC-5013/Dex and Placebo/Dex treatment groups took 40 mg of dexamethasone orally once daily on Days 1 to 4, 9 to 12, and 17 to 20 of each 28-day cycle for the first 4 cycles of therapy. Beginning with Cycle 5, the dose of dexamethasone was reduced to 40 mg orally once daily on Days 1 to 4 for the remaining cycles."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Prior or current diagnosis Durie-Salmon stage II or III multiple myeloma.\n* No more than 3 previous anti-myeloma regimens\n* No high-dose dexamethasone (total monthly dose of dexamethasone greater than 200 mg) within 6 months of study randomization.\n* Measurable levels of myeloma paraprotein in serum or urine (24-hour collection sample).\n\nExclusion Criteria:\n\n* Prior development of disease progression during high-dose dexamethasone containing therapy.\n* Laboratory abnormalities: Absolute neutrophil count less than 1,000 cells/mm cubed\n* Laboratory abnormalities: Platelet count less than 75,000/mm cubed\n* Laboratory abnormalities: Serum creatinine greater than 2.5 mg/dL\n* Laboratory abnormalities: Serum glutamic oxaloacetic transaminase (SGOT, aspartate transaminase \\[AST\\]) or serum glutamic pyruvic transaminase (SGPT, alanine transaminase \\[ALT\\])greater than 3.0 x upper limit of normal\n* Laboratory abnormalities: Serum total bilirubin greater than 2.0 mg/dL\n* Prior history of malignancies other than multiple myeloma unless the subject has been free of the disease for greater than or equal to 5 years.\n* Known hypersensitivity to thalidomide or dexamethasone.\n* Development of a desquamating rash while taking thalidomide.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Medicine Department of Oncology",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Time to Tumor Progression (TTP)",
+      "timeFrame": "60 weeks (median Time To Progression of CC-5013/Dex treatment group)",
+      "description": "Time to progression (TTP) was calculated as the time from randomization to the first documentation of progressive disease based on the myeloma response determination criteria developed by Blad\u00e9 et. al., Br J Haematol 1998; 102:1115-1123."
+    }
+  ],
+  "sponsor": "Celgene",
+  "collaborators": [],
+  "start_date": "2003-01-01",
+  "completion_date": "2008-10-01",
+  "last_updated": "2017-09-18"
+}

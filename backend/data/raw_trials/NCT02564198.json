@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT02564198",
+  "brief_title": "A Study of Ramucirumab (LY3009806) in Children With Refractory Solid Tumors",
+  "official_title": "A Phase 1 Study Of Ramucirumab, a Human Monoclonal Antibody Against the Vascular Endothelial Growth Factor-2 (VEGFR-2) Receptor in Children With Refractory Solid Tumors, Including CNS Tumors",
+  "brief_summary": "The main purpose of this study is to evaluate the safety of the study drug known as ramucirumab in children with recurrent or refractory solid tumors including central nervous system (CNS) tumors.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 29,
+  "conditions": [
+    "Pediatric Solid Tumor",
+    "Refractory Tumor",
+    "Recurrent Tumor",
+    "CNS Malignancies"
+  ],
+  "interventions": [
+    {
+      "name": "Ramucirumab",
+      "type": "DRUG",
+      "description": "Administered IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Part A: participants with recurrent or refractory non-CNS solid tumors\n* Part B: participants with recurrent or refractory CNS tumors\n* Measurable or evaluable disease\n* No other therapeutic options\n* Performance Status: Karnofsky \u226550% for participants \\>16 years and Lansky \u226550 for participants \u226416 years\n\nExclusion Criteria:\n\n* Active or recent history of serious bleeding events\n* Active or recent history of gastrointestinal perforations, ulcers, fistulas or abscesses\n* Active or recent history of hypertensive crisis or hypertensive encephalopathy\n* Active non-healing wound or bone fracture\n* History of solid organ transplant",
+    "gender": "ALL",
+    "min_age": "12 Months",
+    "max_age": "21 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Mark O Harfield-Warren Grant Magnuson Clinical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Childrens Hospital of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part A: Number of Participants With Dose Limiting Toxicities (DLTs): Maximum Tolerated Dose of Ramucirumab",
+      "timeFrame": "Baseline to Study Completion (Up to 42 Months)",
+      "description": "A DLT is defined as an Adverse Event (AE) that is likely related to the study medication or combination, and fulfills any one of the following criteria, graded according to the National Cancer Institute's (NCI) Common Terminology Criteria for Adverse Events (NCI-CTCAE) Version 5.0:\n\n1\\. Any death not clearly due to the underlying disease or extraneous causes 2. Neutropenic fever 2. Any Grade \u22653 non-hematologic toxicity 3. Grade \u22654 neutropenia or thrombocytopenia \\>7 days 4. Grade \u22653 thrombocytopenia with bleeding 5. Grade \u22653 nausea/vomiting or diarrhea\\>72 hours with adequate antiemetic and other supportive care 6. Grade \u22653 fatigue \u22651 week 7. Grade \u22653 electrolyte abnormality that lasts\\>72 hours, unless the Participant has clinical symptoms, in which case all Grade 3+electrolyte abnormality regardless of duration should count as a DLT.\n\n8\\. Grade \u22653 prolongation of QT interval corrected using the Fridericia formula on 2 separate electrocardiogram readings approximately 5 min apart."
+    },
+    {
+      "measure": "Population Pharmacokinetics (PK): Minimum Concentration (Cmin) of Ramucirumab",
+      "timeFrame": "Predose, Cycle 1 Day 1 (end of infusion (EOI), 1 hour after EOI) and Cycle 1 Day 43 (1 hour after EOI)",
+      "description": "Population Pharmacokinetics (PK): Minimum observed plasma concentration of Ramucirumab."
+    },
+    {
+      "measure": "Number of Participants With Anti-Ramucirumab Antibodies",
+      "timeFrame": "Predose Cycle 1 Day 1 through Follow-Up (Up to 42 Months)",
+      "description": "Number of participants with positive treatment emergent anti-ramucirumab antibodies was summarized by treatment group. A treatment-emergent anti-drug antibodies (TEADA) sample was defined as: a post treatment sample with at least a 4-fold increase in titer from pre treatment sample; or 1:20 post treatment titer for participants that had no detectable ADA titer at baseline."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [
+    "Children's Oncology Group"
+  ],
+  "start_date": "2015-12-11",
+  "completion_date": "2019-07-16",
+  "last_updated": "2021-07-23"
+}

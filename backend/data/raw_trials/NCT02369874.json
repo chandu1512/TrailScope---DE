@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT02369874",
+  "brief_title": "Study of MEDI4736 Monotherapy and in Combination With Tremelimumab Versus Standard of Care Therapy in Patients With Head and Neck Cancer",
+  "official_title": "A Phase III Randomized, Open-Label, Multi-Center, Global Study of MEDI4736 Monotherapy and MEDI4736 in Combination With Tremelimumab Versus Standard of Care Therapy in Patients With Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck (SCCHN)",
+  "brief_summary": "This is a randomized, open-label, multi-center, global, Phase III study to determine the efficacy and safety of MEDI4736 + tremelimumab combination therapy and MEDI4736 monotherapy versus SoC therapy in the target patient population.",
+  "detailed_description": "This is a randomized, open-label, multi-center, global, Phase III study to determine the efficacy and safety of MEDI4736 + tremelimumab combination therapy and MEDI4736 monotherapy versus SoC therapy in the target patient population.\n\nThe main objectives of the study are to:\n\n* assess the efficacy of MEDI4736 + tremelimumab combination therapy versus SoC in patients with squamous cell carcinoma of the head and neck (SCCHN), in terms of overall survival (OS), regardless of PDL-1 status\n* assess the efficacy of MEDI4736 monotherapy versus SOC in patients with SCCHN, in terms of OS, regardless of PDL-1 status\n\nPatients will undergo a screening assessment on their tumor tissue sample to determine PD-L1 expression per a pre-specified cut-off level. Patients with \u226525% of tumor cells with membrane staining will be considered PD-L1 positive while those with 0% to 24% of tumor cells with membrane staining will be considered PD-L1 negative. Based on the underlying PD-L1 status, patients will be randomized in a 1:1:1 ratio to receive treatment with MEDI4736 monotherapy, MEDI4736 + tremelimumab combination therapy, or SoC therapy. Patients who discontinue treatment in 1 treatment group may not switch to treatment in a different group.\n\nStratification factors include PD-L1 status, human papillomavirus status, (in patients with oropharyngeal cancer only), and smoking status.\n\nTumor assessments will be performed every 8 weeks until objective tumor response by Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 736,
+  "conditions": [
+    "Recurrent or Metastatic PD-L1-positive or -Negative Squamous Cell Carcinoma of the Head and Neck SCCHN"
+  ],
+  "interventions": [
+    {
+      "name": "MEDI4736",
+      "type": "DRUG",
+      "description": "MEDI4736 Monotherapy"
+    },
+    {
+      "name": "MEDI4736 + Tremelimumab",
+      "type": "DRUG",
+      "description": "MEDI4736 + Tremelimumab combination therapy"
+    },
+    {
+      "name": "Standard of Care",
+      "type": "DRUG",
+      "description": "Standard of Care"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria: - Age \u226518 years; - Written informed consent obtained from the patient/legal representative; - Histologically or cytologically confirmed recurrent or metastatic SCCHN; - Tumor progression or recurrence during or after only one palliative systemic treatment regimen for recurrent or metastatic disease that must have contained a platinum agent OR progression within 6 months of the last dose of platinum given as part of multimodality therapy with curative intent; - Confirmed PD-L1-positive or -negative SCCHN by the Ventana PD-L1 SP263 IHC assay; - WHO/Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1; At least 1 measurable lesion, - Not previously irradiated; - No prior exposure to immune-mediated therapy; - Adequate organ and marrow function; Evidence of post-menopausal status or negative urinary or serum pregnancy test for female pre-menopausal patients. Exclusion Criteria: - Histologically or cytologically confirmed squamous cell carcinoma of any other primary anatomic location in the head and neck; - Received more than 1 palliative systemic regimen for recurrent or metastatic disease; -Any concurrent chemotherapy, Investigational Product, biologic, or hormonal therapy for cancer treatment; - Receipt of any investigational anticancer therapy within 28 days or 5 half-lives; - Receipt of last dose of an approved (marketed) anticancer therapy (chemotherapy, targeted therapy, biologic therapy, mAbs, etc) within 21 days prior to the first dose of study treatment; - Major surgical procedure within 28 days prior to the first dose of Investigational Product; - Any unresolved toxicity NCI CTCAE Grade \u22652 from previous anticancer therapy with the exception of alopecia, vitiligo, and the laboratory values defined in the inclusion criterion; - Current or prior use of immunosuppressive medication within 14 days before the first dose of their assigned Investigational Product; - History of allogeneic organ transplantation; - Active or prior documented autoimmune or inflammatory disorders; - Uncontrolled intercurrent illness; - Patients with a history of brain metastases, spinal cord compression, or leptomeningeal carcinomatosis; - Mean QT interval corrected for heart rate (QTc) \u2265470 ms calculated from 3 electrocardiograms (ECGs) using Fridericia's Correction; - History of active primary immunodeficiency; - Active tuberculosis; - Active infection including hepatitis B, hepatitis C or human immunodeficiency virus (HIV); - Receipt of live, attenuated vaccine within 30 days prior to the first dose of Investigational Product; - Pregnant or breast-feeding female patients; - Known allergy or hypersensitivity to Investigational Product",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "96 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "September 2015 to September 2018 (36 months)",
+      "description": "OS is defined as the time from the date of randomization until death due to any cause. OS was analyzed for the full analysis set, regardless of programmed death-ligand 1 (PD-L1) status."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2015-09-09",
+  "completion_date": "2020-11-13",
+  "last_updated": "2021-01-21"
+}

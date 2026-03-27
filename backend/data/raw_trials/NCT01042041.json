@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT01042041",
+  "brief_title": "Sorafenib Tosylate and Chemoembolization in Treating Patients With Unresectable Liver Cancer",
+  "official_title": "A Phase 1 Study of Sorafenib Integrated With Chemoembolization for Patients With Unresectable Hepatocellular Carcinoma",
+  "brief_summary": "RATIONALE: Sorafenib tosylate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth or by blocking blood flow to the tumor. Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Chemoembolization kills tumor cells by blocking the blood flow to the tumor and keeping chemotherapy drugs near the tumor.\n\nPURPOSE: This phase I trial is studying side effects and best dose of sorafenib tosylate when given together with chemoembolization in treating patients with unresectable liver cancer.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate the toxicity and safety of integrating sorafenib with chemoembolization for unresectable hepatocellular carcinoma.\n\nSECONDARY OBJECTIVE:\n\nI. To observe the imaging response (AASLD/EASL modification of RECIST) and time to progression following chemoembolization in conjunction with sorafenib.\n\nOUTLINE:\n\nPatients receive oral sorafenib tosylate twice daily. Beginning 2 weeks later, patients undergo chemoembolization with cisplatin, doxorubicin hydrochloride, and mitomycin C.\n\nChemoembolizaton repeats once a month for up to 4 procedures in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed at 4 weeks and then every 3 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 18,
+  "conditions": [
+    "Hepatocellular Carcinoma",
+    "Liver Cancer",
+    "Localized Unresectable Liver Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "sorafenib tosylate",
+      "type": "DRUG",
+      "description": "Given orally"
+    },
+    {
+      "name": "doxorubicin hydrochloride",
+      "type": "DRUG",
+      "description": "Given via transarterial/hepatic chemoembolization"
+    },
+    {
+      "name": "cisplatin",
+      "type": "DRUG",
+      "description": "Given via transarterial/hepatic chemoembolization"
+    },
+    {
+      "name": "mitomycin C",
+      "type": "DRUG",
+      "description": "Given via transarterial/hepatic chemoembolization"
+    },
+    {
+      "name": "transarterial chemoembolization",
+      "type": "PROCEDURE",
+      "description": ""
+    },
+    {
+      "name": "hepatic artery embolization",
+      "type": "PROCEDURE",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion\n\n* Histologically confirmed hepatocellular carcinoma\n* AND/OR Magnetic Resonance Imaging (MRI) or Computerized Tomography (CT) consistent with liver cirrhosis AND at least one solid liver lesion \\> 2cm with arterial-phase enhancement and delayed washout regardless of alpha-feto protein levels (AFP)\n* AND/OR AFP \\> 400ng/mL AND evidence of at least one solid liver lesion \\> 2cm regardless of specific imaging characteristics on CT or MRI\n* Patient is not a candidate for transplantation, resection, or ablation; for whom the intended therapy is chemoembolization\n* Patient meets clinical criteria for treatment with chemoembolization\n* Absolute contraindications to chemoembolization include an uncorrectable bleeding disorder, uncorrectable contrast sensitivity, leukopenia (white blood cell count \\< 1000/uL), cardiac or renal insufficiency (serum creatinine \\> 2.0mg/dL), hepatic encephalopathy, jaundice, or dilated intrahepatic bile ducts\n* Portal vein occlusion is a relative contraindication and chemoembolization can be performed only if there are collateral vessels with hepato-pedal flow demonstrated angiographically\n* Hepatic compromise as determined by the following combination of parameters is a contraindication to therapy: lactate dehydrogenase \\> 425 U/L, aspartate aminotransferase \\> 100 U/L, total bilirubin \\> 2.0 mg/dL and \\> 50% liver volume replaced by tumor\n* Patients may have been treated with ablation or resection in the past, but no sooner than 4 weeks before study registration\n* Patients may NOT have been previously treated with sorafenib, chemoembolization, radioembolization, or systemic chemotherapy with cytotoxic agents or molecularly targeted agents\n* ECOG performance status =\\< 2\n* Life expectancy of greater than 3 months\n* Platelets \\>= 50,000/mcL\n* Total bilirubin =\\< 2.0 mg/dl\n* AST(SGOT)/ALT(SGPT) =\\< 3X institutional upper limit of normal\n* Creatinine =\\< 1.5 mg/dl\n* INR =\\< 1.5\n* Patients must have no clinical signs of heart failure and meet New York Heart Association functional classification I or II defined as:\n\nClass I - Patients with no limitation of activities; they suffer no symptoms from ordinary activities; Class II - Patients with slight, mild limitation of activity; they are comfortable with rest or with mild exertion\n\n* Because agents used in this trial are known to be teratogenic, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation\n* Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion\n\n* Patients may not be receiving any other investigational agents\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to sorafenib\n* History of radiologic contrast reactions not controlled by standard premedications\n* Patients must not be taking cytochrome P450 enzyme inducing drugs\n* Uncontrolled intercurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, uncontrolled hypertension, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant women are excluded from this study\n* Breastfeeding should be discontinued\n* Prophylactic use of G-CSF or GM-CSF is not permitted on this trial",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of The University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose adjustment, number and percentage of subjects with adverse events, laboratory changes, number and percentage of subjects with laboratory values that are outside the pre-determined ranges, cumulative toxicity, and TLT.",
+      "timeFrame": "8 months",
+      "description": ""
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2009-09",
+  "completion_date": "2010-12",
+  "last_updated": "2013-02-25"
+}

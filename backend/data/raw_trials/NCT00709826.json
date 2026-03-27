@@ -1,0 +1,95 @@
+{
+  "nct_id": "NCT00709826",
+  "brief_title": "APRiCOT-P: Study of Apricoxib With Gemcitabine and Erlotinib to Treat Advanced Pancreatic Cancer",
+  "official_title": "APRiCOT-P (Apricoxib in Combination Oncology Treatment - Pancreas): Phase 2 Study of the Efficacy and Safety of Apricoxib in Combination With Gemcitabine and Erlotinib in the Treatment of Patients With Advanced Pancreatic Cancer",
+  "brief_summary": "This study will compare the anti-tumor efficacy of apricoxib and gemcitabine/erlotinib with placebo and gemcitabine/erlotinib in patients with advanced pancreatic cancer.",
+  "detailed_description": "This study will compare the anti-tumor efficacy of apricoxib and gemcitabine/erlotinib with placebo and gemcitabine/erlotinib as measured by progression-free survival to test the hypothesis that down regulation of COX-2 and EGFR pathways in patients with up-regulated COX-2 expression in tumors will have a clinical benefit compared with Gemcitabine/Erlotinib only.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 109,
+  "conditions": [
+    "Pancreatic Cancer",
+    "Metastatic Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "gemcitabine",
+      "type": "DRUG",
+      "description": "Gemcitabine: per package insert."
+    },
+    {
+      "name": "placebo",
+      "type": "DRUG",
+      "description": "placebo: 100 mg tablets, 400 mg/day"
+    },
+    {
+      "name": "Erlotinib",
+      "type": "DRUG",
+      "description": "Erlotinib - per package insert."
+    },
+    {
+      "name": "apricoxib",
+      "type": "DRUG",
+      "description": "apricoxib: 100mg tablets, given orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Histologically or cytologically confirmed adenocarcinoma of the pancreas that is locally advanced or metastatic.\n2. Life expectancy greater than or equal to 3 months.\n3. Patients must have measurable disease by RECIST.\n4. ECOG PS of 0, 1, or 2.\n5. Negative serum pregnancy test at the time of first dose for women of childbearing potential.\n\nExclusion Criteria:\n\n1. Previous chemotherapy as primary treatment for locally advanced or metastatic pancreatic cancer(stage 3 T3 and T4, and all stage 4).\n2. RT within 2 weeks or chemotherapy within 3 weeks or noncytotoxic investigational agents within 4 weeks of initiating study treatment.\n3. Evidence of New York Heart Association class III or greater cardiac disease.\n4. History of myocardial infarction, stroke, ventricular arrhythmia.\n5. Symptomatic central nervous system metastases.\n6. Pregnant or nursing women.\n7. Hypersensitivity or intolerance to apricoxib, erlotinib, gemcitabine, sulfonamides, aspirin, or other non-steroidal anti-inflammatory drugs (NSAIDs).\n8. History of upper gastrointestinal bleeding, ulceration or perforation. History of lower GI bleeding, ulceration, or perforation within 12 months.\n9. Previous anti-EGFR kinase therapy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Franklin Square Hospital Center/Harry and Jeanette Weinberg Cancer Institute at Franklin Square",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Warren Hospital",
+      "city": "Phillipsburg",
+      "state": "New Jersey",
+      "zip": "08865",
+      "status": ""
+    },
+    {
+      "facility": "Eastern Regional Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19124",
+      "status": ""
+    },
+    {
+      "facility": "Associates in Hematology-Oncology PC",
+      "city": "Upland",
+      "state": "Pennsylvania",
+      "zip": "19013",
+      "status": ""
+    },
+    {
+      "facility": "Berks Hematology-Oncology Associates, Ltd",
+      "city": "West Reading",
+      "state": "Pennsylvania",
+      "zip": "19612",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival",
+      "timeFrame": "Randomization then every other cycle",
+      "description": "Progression is defined, using RECIST, as a measurable increase in the smallest dimension of any target or non-target lesion, or the appearance of new lesions, since baseline."
+    }
+  ],
+  "sponsor": "Tragara Pharmaceuticals, Inc.",
+  "collaborators": [],
+  "start_date": "2008-08",
+  "completion_date": "2011-05",
+  "last_updated": "2012-10-08"
+}

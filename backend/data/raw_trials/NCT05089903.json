@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT05089903",
+  "brief_title": "Breast Cancer Outreach Among Primary Care Patients",
+  "official_title": "Breast Cancer Outreach Among Primary Care Patients",
+  "brief_summary": "This project aims to evaluate different approaches to increase breast cancer screening among primary care patients at Penn Medicine through a centralized screening outreach program. In a pragmatic trial, the investigators will evaluate different approaches to increase completion of screening among eligible patients, including ordering mammograms in bulk prior to outreach, sending personalized text reminders, and endorsing of the communication by the primary care provider.",
+  "detailed_description": "While mammograms are recommended by guidelines for early detection of breast cancer, mammogram rates are significantly lower now than they were prior to the initial COVID-19 pandemic surge in early 2020. In this project, the investigators will evaluate different ways of reaching out to eligible patients to encourage them to participate in breast cancer screening. Through letters, texting, and the electronic health record portal (MyPennMedicine (MPM)), the investigators will compare mammogram bulk orders, text messaging, and primary care provider endorsement to traditional outreach messaging with the goal of increasing breast cancer screening uptake.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 24680,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Bulk Order",
+      "type": "BEHAVIORAL",
+      "description": "A mammogram order will be placed using bulk order technology in the EHR in advance of outreach for all patients."
+    },
+    {
+      "name": "Texting",
+      "type": "BEHAVIORAL",
+      "description": "In addition to outreach, patients will receive text messaging with information regarding the importance of screening, how to schedule a mammogram, and locations available for mammography."
+    },
+    {
+      "name": "Clinician Endorsement",
+      "type": "BEHAVIORAL",
+      "description": "Outreach informing patients that they are overdue for a mammogram will be signed by the patient's primary care provider."
+    },
+    {
+      "name": "No Bulk Order",
+      "type": "BEHAVIORAL",
+      "description": "The outreach will ask patients to contact their PCP's office in order to have a mammogram order placed on their behalf."
+    },
+    {
+      "name": "Standard Endorsement",
+      "type": "BEHAVIORAL",
+      "description": "Patient's will receive outreach from the practice informing them that they are overdue for a mammogram."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Women ages 40-74\n2. Followed by Primary Care with a Penn Medicine PCP listed and at least one visit in the last 2 years\n3. Health Maintenance due (default biannual screening starting at age 50 or edit modifier based on input by clinician)\n\nExclusion Criteria:\n\n1. Currently scheduled for a mammogram\n2. History of bilateral mastectomy",
+    "gender": "FEMALE",
+    "min_age": "40 Years",
+    "max_age": "74 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn Medicine",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Mammogram Completion in 3 months",
+      "timeFrame": "3 months",
+      "description": "Percent of patients that complete a mammogram"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2021-10-25",
+  "completion_date": "2022-04-25",
+  "last_updated": "2022-06-24"
+}

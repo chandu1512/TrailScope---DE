@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT05520099",
+  "brief_title": "Observational Basket Trial to Collect Tissue to Develop and Train a Live Tumor Diagnostic Platform",
+  "official_title": "Observational Basket Trial to Collect Tissue to Develop and Train a Live Tumor Diagnostic Platform (ELEPHAS-02)",
+  "brief_summary": "The primary objective of this study is to develop and train the Elephas live tumor diagnostic platform and determine the ex-vivo accuracy of the Elephas Score using in-vivo RECIST 1.1 as the reference method",
+  "detailed_description": "Cancer is a leading cause of death and despite many new drugs, a major diagnostic challenge remains knowing which drug will work best for a patient. A new class of drugs called checkpoint inhibitors (CPIs) have revolutionized cancer treatment. However, current diagnostic methods (e.g. PDL1, MSI and TMB) do not accurately predict which patients will respond.\n\nElephas is developing a diagnostic platform using small 3D Live Tumor Fragments (LTFs) from participants for accurate prediction of drug response with a focus on CPIs such as Pembrolizumab (Keytruda). These LTFs contain both tumor cells and infiltrating immune cells, which are critical in determining response to CPIs and other immunotherapies.\n\nIn this observational clinical basket trial, participants will be recruited and their actual clinical response (using RECIST 1.1) to CPIs across five solid tumors (lung, head/neck, bladder, kidney, and skin) will be compared to the platform's predictive Artificial Intelligence (AI) score that is based on RNA, clinical data, and 3D microscopy images. The sensitivity and specificity of the platform's score will be determined and compared to current diagnostic methods for CPIs like PDL1, MSI, and TMB.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 416,
+  "conditions": [
+    "Immunotherapy",
+    "Cancer",
+    "Bladder Cancer",
+    "Urothelial Carcinoma Bladder",
+    "Kidney Cancer",
+    "Clear Cell Renal Cell Cancer (ccRCC)",
+    "Colorectal Cancer",
+    "MSI-H Colorectal Cancer",
+    "DMMR Colorectal Cancer",
+    "Head and Neck Cancer (H&N)",
+    "Squamous Cell Carcinoma Head and Neck Cancer (HNSCC)",
+    "Liver Cancer",
+    "Hepatocellular Carcinoma (HCC)",
+    "Lung Cancer (NSCLC)",
+    "NSCLC (Non-small Cell Lung Cancer)",
+    "Skin Cancer",
+    "Cutaneous Melanoma",
+    "Endometrial Cancer",
+    "Solid Tumor Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Core Needle Biopsy, Forceps Biopsy, Punch Biopsy",
+      "type": "PROCEDURE",
+      "description": "Subjects must be clinically able, at investigator discretion, to undergo additional core needle biopsy, forceps biopsy, or punch biopsy passes during their biopsy. These additional biopsies may either be collected from the primary tumor or a metastatic site amenable to additional passes (e.g., liver or lymph nodes) per the clinician."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria --\n\n1. Written informed consent and HIPAA authorization for release of personal health information prior to registration. NOTE: HIPAA authorization may be included in the informed consent or obtained separately.\n2. Age \u2265 18 years at the time of consent.\n3. Subjects must meet one of the following criteria:\n\n   * Subjects suspected or diagnosed with recurrent, locally advanced or metastatic cancer:\n\n     * Bladder: Urothelial Carcinoma (UC)\n     * Kidney: Clear Cell Renal Cell Carcinoma (ccRCC)\n   * Subjects suspected or diagnosed with recurrent or metastatic cancer:\n\n     * Colon and Rectum: Microsatellite instability-high (MSI-H)/deficient mismatch repair (dMMR) Colorectal Cancer (CRC)\n     * Head and Neck: Squamous Cell Carcinoma (HNSCC), excluding nasopharyngeal and salivary gland cancers\n     * Liver: Hepatocellular Carcinoma\n     * Lung: Non-small cell lung cancer (NSCLC)\n     * Skin: Cutaneous Melanoma, excluding Uveal Melanoma\n     * Uterus: endometrial cancer\n   * Subjects suspected or diagnosed with one of the following cancer types eligible for pure ICI neoadjuvant therapy:\n\n     o Skin: Cutaneous Melanoma, Stage III\n   * Subjects suspected or diagnosed with:\n\n     * Any solid tumor type that is eligible for pure ICI therapy in the neoadjuvant or advanced/metastatic setting\n     * Any metastatic solid tumor with high TMB, MSI-High or dMMR and are being considered for treatment with ICI therapy.\n     * Any recurrent or metastatic patient with a solid tumor that the clinician plans to treat with ICI therapy.\n4. Subjects must be clinically able, at investigator discretion, to undergo a biopsy procedure\n5. Subjects who are newly diagnosed or have suspected cancer must be treatment-na\u00efve at the time of biopsy. All other subjects should have the biopsy performed before starting their next line of treatment.\n\nExclusion Criteria --\n\n1. Subjects who are pregnant\n2. Subjects with a known auto-immune disease that would render them ineligible for immune-oncology treatment\n3. Immunocompromised subjects, and subjects known to be HIV positive and currently receiving antiretroviral therapy\n4. Subjects who are enrolled or plan to be enrolled in a blinded oncology treatment trial",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Meritus Center for Clinical Research",
+      "city": "Hagerstown",
+      "state": "Maryland",
+      "zip": "21742",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "John Theurer Cancer Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "TERMINATED"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Determine Ex-Vivo Prognostic Accuracy of Elephas Platform",
+      "timeFrame": "3 years",
+      "description": "The ex-vivo prognostic accuracy of the Elephas live tumor diagnostic platform will be determined using in-vivo RECIST 1.1 as the reference method."
+    }
+  ],
+  "sponsor": "Elephas",
+  "collaborators": [],
+  "start_date": "2023-06-26",
+  "completion_date": "2027-01",
+  "last_updated": "2025-12-19"
+}

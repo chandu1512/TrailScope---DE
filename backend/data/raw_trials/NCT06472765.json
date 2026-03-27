@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT06472765",
+  "brief_title": "Vaginal Ecosystem and Network in the United States Study",
+  "official_title": "Comprehensive Registry and PCR Analysis of the Vaginal Microbiome in Women: Data Collection in Healthy and Diseased States",
+  "brief_summary": "The central premise of this study is that the intricate balance and diversity of the vaginal microbiome plays a pivotal role in the onset, progression, and severity of various gynecological conditions. Specifically, the research aims to investigate how imbalances in microbial communities, such as the overgrowth of pathogenic bacteria or the depletion of beneficial ones, are linked to conditions like Bacterial Vaginosis, Candidiasis, Urinary Tract Infections, Vaginal Atrophy, and others. By employing PCR testing and the outcomes of next-generation sequencing (NGS) of the microbiome, the study seeks to identify distinct microbial profiles and patterns that are characteristic of each condition. This nuanced understanding is expected to lead to more accurate and early diagnosis, facilitating personalized and effective treatment strategies that go beyond the conventional, often indiscriminate use of antibiotics.",
+  "detailed_description": "This study protocol is developed to analyze the vaginal microbiome of women using a 56-panel PCR test and NGS test. The aim is to collect vaginal swab samples from a wide range of participants, including both healthy individuals and those with diagnosed gynecological conditions, to identify different microbiome profiles.\n\nA key aspect of this study is the creation of a registry that will compile the data obtained from the PCR/NGS test results and participant information. This registry will serve as a valuable resource for ongoing research and will support the development of personalized approaches in women's health care. By systematically collecting and analyzing data, the registry will facilitate a better understanding of the vaginal microbiome's role in health and disease, aiding in the advancement of diagnostic and therapeutic strategies.\n\nAdditionally, the registry will provide a foundation for future studies, allowing for the exploration of long-term trends and relationships within the vaginal microbiome. This could lead to new insights into how the microbiome influences gynecological health and the development of targeted treatments. The combination of validating a precise diagnostic tool and establishing a comprehensive registry is aimed at enhancing patient care and supporting the broader research community in women's health.",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 3250,
+  "conditions": [
+    "Bacterial Vaginosis",
+    "Candidiasis",
+    "Urinary Tract Infections",
+    "Genitourinary Syndrome of Menopause",
+    "Lichen Sclerosus",
+    "Lichen Planus",
+    "Vulvodynia",
+    "Endometriosis",
+    "Ureaplasma Infections",
+    "Cancer",
+    "Desquamative Inflammatory Vaginitis"
+  ],
+  "interventions": [
+    {
+      "name": "Vaginal Swab Collection",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Vaginal Swab Collection"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Healthy cis-gender women between ages 18 and 89\n\nExclusion Criteria:\n\n* Pregnant or trying to conceive (i.e. IVF, IUI)",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "89 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Rachel Rubin MD PLLC",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20814",
+      "status": ""
+    },
+    {
+      "facility": "Dr. Christina Enzmann at Easton Advanced Aesthetics and Regenerative Medicine",
+      "city": "Easton",
+      "state": "Maryland",
+      "zip": "21601",
+      "status": ""
+    },
+    {
+      "facility": "Center for Pelvic Medicine",
+      "city": "Bryn Mawr",
+      "state": "Pennsylvania",
+      "zip": "19010",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Microbiome Analysis",
+      "timeFrame": "Day 1",
+      "description": "To analyze the vaginal microbiome in patients with diverse vaginal health conditions using next-generation sequencing (NGS) and a 56-panel PCR test to understand microbial diversity and implications for disease management."
+    }
+  ],
+  "sponsor": "Vaginal Biome Science",
+  "collaborators": [],
+  "start_date": "2024-05-16",
+  "completion_date": "2028-05-15",
+  "last_updated": "2025-06-29"
+}

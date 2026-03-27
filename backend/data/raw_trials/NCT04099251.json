@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT04099251",
+  "brief_title": "Effectiveness Study of Nivolumab Compared to Placebo in Prevention of Recurrent Melanoma After Complete Resection of Stage IIB/C Melanoma",
+  "official_title": "A Phase 3, Randomized, Double-Blind Study of Adjuvant Immunotherapy With Nivolumab Versus Placebo After Complete Resection of Stage IIB/C Melanoma",
+  "brief_summary": "The purpose of this study is to determine the effectiveness of nivolumab adjuvant immunotherapy compared to placebo in adults and pediatric participants after complete resection of Stage IIB/C melanoma with no evidence of disease (NED) who are at high risk for recurrence.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 790,
+  "conditions": [
+    "Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Placebo",
+      "type": "OTHER",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Had a negative sentinel lymph node biopsy\n* Participant has not been previously treated for melanoma\n* ECOG 0 or 1\n* Participants must have been diagnosed with histologically confirmed, Resected, Stage IIB/C cutaneous melanoma\n\nExclusion Criteria:\n\n* History of ocular or mucosal melanoma.\n* Pregnant or nursing women\n* Participants with active known or suspected autoimmune disease\n* Known history of allergy or hypersensitivity to study drug components\n* Prior treatment with an anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, anti-CTLA-4 antibody, or agents that target IL-2 pathways, T-cell stimulators, or checkpoint pathways\n\nOther protocol defined inclusion/exclusion criteria apply.",
+    "gender": "ALL",
+    "min_age": "12 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0135",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0093",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0092",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0031",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Recurrence Free Survival (RFS)",
+      "timeFrame": "From randomization up to the date of first recurrence, new primary melanoma, or death (whatever the cause), whichever occurs first (up to 32 months)",
+      "description": "Recurrence Free Survival (RFS) is defined as the time between the date of randomization and the date of first recurrence (local, regional or distant metastasis), new primary melanoma (including melanoma in situ), or death (whatever the cause), whichever occurs first. For participants who remain alive and whose disease has not recurred or did not die, RFS will be censored on the date of last evaluable disease assessment. For those participants who remained alive and had no recorded post-randomization tumor assessment, RFS will be censored on the day of randomization."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2019-10-28",
+  "completion_date": "2027-06-29",
+  "last_updated": "2025-08-25"
+}

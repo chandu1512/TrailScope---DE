@@ -1,0 +1,121 @@
+{
+  "nct_id": "NCT02492711",
+  "brief_title": "Margetuximab Plus Chemotherapy vs Trastuzumab Plus Chemotherapy in the Treatment of HER2+ Metastatic Breast Cancer",
+  "official_title": "A Phase 3, Randomized Study of Margetuximab Plus Chemotherapy vs Trastuzumab Plus Chemotherapy in the Treatment of Patients With HER2+ Metastatic Breast Cancer Who Have Received Prior Anti-HER2 Therapies and Require Systemic Treatment",
+  "brief_summary": "The purpose of this study is to determine whether patients with metastatic breast cancer treated with margetuximab plus chemotherapy have longer progression free survival (PFS) and overall survival (OS) than patients treated with trastuzumab plus chemotherapy.\n\nA non-randomized sub-study cohort of approximately 88 patients will be enrolled to evaluate the safety of a reduced margetuximab infusion rate in patients receiving margetuximab either as monotherapy or in combination with chemotherapy.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 624,
+  "conditions": [
+    "HER-2 Positive Breast Cancer",
+    "Metastatic Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "Margetuximab",
+      "type": "BIOLOGICAL",
+      "description": "15 mg/kg via IV (intravenous) infusion on day 1 of each 21 day cycle,"
+    },
+    {
+      "name": "Trastuzumab",
+      "type": "BIOLOGICAL",
+      "description": "8 mg/kg via IV (intravenous) infusion for the first dose and 6 mg/kg for all subsequent doses via IV infusion on day 1 of each 21 day cycle"
+    },
+    {
+      "name": "Physician's choice of chemotherapy.",
+      "type": "DRUG",
+      "description": "Capecitabine (Xeloda\u00ae):1000 mg/m2 BID for 14 days in a 21-day cycle, or Eribulin (Halaven\u00ae): 1.4 mg/m2 on days 1 and 8 of a 21-day cycle, or Gemcitabine (Gemzar\u00ae): 1000 mg/m2 on days 1 and 8 of a 21-day cycle, or Vinorelbine (Navelbine\u00ae): 25-30 mg/m2 on days 1 and 8 of a 21-day cycle"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically-proven metastatic or locally-advanced relapsed/refractory HER2+ breast cancer based on the most recently available tumor biopsy collected from the patient. Tumors may be estrogen receptor (ER)/progesterone receptor (PgR) positive or negative.\n* Have received at least 2 prior lines of anti-HER2 directed therapy in the metastatic setting, or in case of having received (neo)adjuvant pertuzumab, at least 1 prior line of anti-HER2 directed therapy in the metastatic setting. In either case, patients must have received prior treatment with pertuzumab, in the (neo)adjuvant or metastatic setting. Prior radiotherapy, hormonal therapies, and other anti-HER2 therapies are allowed.\n* Prior treatment with at least one, and no more than three, lines of therapy overall in the metastatic setting. Patients must have progressed on or following, the most recent line of therapy.\n* Resolution of all chemotherapy or radiation-related toxicities to \u2264 Grade 1\n* Life expectancy \u2265 12 weeks\n* Acceptable laboratory parameters\n* Women of childbearing potential must have negative pregnancy test performed within 14 days of randomization and on the first day of treatment. All subjects must agree to use an effective form of contraception for the duration of study treatment and for 7 months after the last dose of study drug.\n\nInfusion sub-study prior therapy requirements: Same as above, except:\n\n* Must have received 4 or more prior lines or therapy in the metastatic setting\n* Must have received prior trastuzumab, pertuzumab, and T-DM1\n\nExclusion Criteria:\n\n* Known, untreated brain metastasis. Patients with signs or symptoms of brain metastasis must have a CT or MRI performed within 4 weeks prior to randomization to specifically exclude the presence of radiographically-detected brain metastases\n* History of uncontrolled seizures within 6 months of randomization\n* History of prior allogeneic bone marrow, stem-cell, or solid organ transplantation\n* History of clinically significant cardiovascular disease\n* Clinically-significant pulmonary compromise, including a requirement for supplemental oxygen use to maintain adequate oxygenation\n* Any condition that would be a contraindication to receiving trastuzumab as described in the approved local label or a condition that would prevent treatment with the physician's choice of chemotherapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Mercy Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21202",
+      "status": ""
+    },
+    {
+      "facility": "New Jersey Hematology Oncology Associates",
+      "city": "Brick",
+      "state": "New Jersey",
+      "zip": "08724",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Saint Barnabas Medical Center - The Cancer Center",
+      "city": "Livingston",
+      "state": "New Jersey",
+      "zip": "07039",
+      "status": ""
+    },
+    {
+      "facility": "Pinnacle Health Cancer Institute",
+      "city": "Harrisburg",
+      "state": "Pennsylvania",
+      "zip": "17109",
+      "status": ""
+    },
+    {
+      "facility": "Monongahela Valley Hospital",
+      "city": "Monongahela",
+      "state": "Pennsylvania",
+      "zip": "15063",
+      "status": ""
+    },
+    {
+      "facility": "CTCA - Eastern Regional Medical Center, Inc.",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19124",
+      "status": ""
+    },
+    {
+      "facility": "Guthrie Medical Group, PC",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS) as Determined by Independent Radiological Review.",
+      "timeFrame": "Tumor assessments are conducted every 6 weeks for the first 24 weeks and then every 24 weeks until progression of cancer, average 5 months.",
+      "description": "PFS is measured from the time of randomization until first documented disease progression or death from any cause, whichever is first."
+    },
+    {
+      "measure": "Overall Survival (OS) Defined as the Number of Days From Randomization to the Date of Death (From Any Cause).",
+      "timeFrame": "Throughout the study, average 21 months",
+      "description": "Overall survival is the time from randomization until death from any cause"
+    },
+    {
+      "measure": "Number of Patients With Grade 3 or Higher Infusion Related Reactions",
+      "timeFrame": "22 days",
+      "description": "Incidence of Grade 3 or higher infusion-related reactions for patients receiving 60-minute or 30-minute infusions of margetuximab in Cycle 2 of treatment"
+    }
+  ],
+  "sponsor": "MacroGenics",
+  "collaborators": [],
+  "start_date": "2015-08-24",
+  "completion_date": "2022-06-14",
+  "last_updated": "2025-02-24"
+}

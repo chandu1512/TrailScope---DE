@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT02643550",
+  "brief_title": "Study of Monalizumab and Cetuximab in Patients With Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck",
+  "official_title": "Phase 1b/2 Trial of IPH2201 And Cetuximab in Patients With Human Papillomavirus (HPV) (+) and HPV (-) Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck",
+  "brief_summary": "The objective of this study is to evaluate in a 3 +3 design, the safety of escalating doses of Monalizumab given IV in combination with cetuximab in patients who have received prior systemic regimen(s) for recurrent and/or metastatic squamous cell carcinoma of the head and neck (SCCHN).\n\nCohorts expansion will evaluate antitumor activity of monalizumab and cetuximab with or without anti-PD(L)1",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 143,
+  "conditions": [
+    "Head and Neck Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Monalizumab",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "Cetuximab",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "Anti-PD(L)1",
+      "type": "BIOLOGICAL",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Main Inclusion Criteria:\n\n1. Age \u2265 18 years\n2. Histologically or cytologically-confirmed, HPV (+) or HPV (-) squamous cell carcinoma of the nasopharynx (WHO Type 1), oropharynx, hypopharynx, larynx (supraglottis, glottis, subglottis) or oral cavity.\n3. Recurrent or metastatic disease, documented by imaging (CT scan, MRI, X-ray) and/or physical examination with measurable disease as per Response Evaluation Criteria in Solid Tumors \\[RECIST\\] 1.1\n\nFor phase II cohorts:\n\n* Cohort #1: Patients who received a maximum of two prior systemic regimens for recurrent and/or metastatic disease and not amenable to further therapy with curative intent\n* Cohort #2: Patients with R/M SCCHN not amenable to therapy of curative intent, who have received a maximum of two prior systemic regimens in the R/M setting and who have received prior PD-(L)1 blockers\n* Cohort #3: Patients with R/M SCCHN who have not received prior systemic regimens in the R/M setting and who have not received prior PD-(L)1 inhibitors\n\nMain Exclusion Criteria:\n\n1. For phase II cohort #1 and cohort #2: Patients who received more than 2 prior systemic regimens for recurrent and/or metastatic disease (no restriction in the phase Ib part of the trial).\n2. For phase II cohort #1 and cohort #2: Patients who received cetuximab or another inhibitor of epidermal growth factor receptor are excluded from the phase II of the trial, except if cetuximab was given as part of a primary treatment approach, with no progressive disease for at least 4 months following the end of prior cetuximab treatment.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland, Greenebaum Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Occurrence of Dose Limiting Toxicities (DLT) in the dose escalation part of the study",
+      "timeFrame": "within 4 weeks after first administration",
+      "description": "To assess the occurrence of Drug Limited Toxicities (DLTs)"
+    },
+    {
+      "measure": "Objective Response Rate for expansion cohorts",
+      "timeFrame": "up to 12 months",
+      "description": "rate of patients in complete or partial response according to RECIST 1.1."
+    }
+  ],
+  "sponsor": "Innate Pharma",
+  "collaborators": [
+    "AstraZeneca"
+  ],
+  "start_date": "2015-12",
+  "completion_date": "2023-03-28",
+  "last_updated": "2023-05-11"
+}

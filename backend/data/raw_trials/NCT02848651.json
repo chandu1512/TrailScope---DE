@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT02848651",
+  "brief_title": "A Study of Atezolizumab as First-line Monotherapy for Advanced or Metastatic Non-Small Cell Lung Cancer",
+  "official_title": "A Phase II Single-Arm Study of Atezolizumab Monotherapy in Locally Advanced or Metastatic Non-Small Cell Lung Cancer: Clinical Evaluation of Novel Blood-Based Diagnostics",
+  "brief_summary": "This was a Phase II, open-label, prospective, multicenter study designed to evaluate the efficacy and safety of single-agent atezolizumab as a first-line therapy in participants with locally advanced or metastatic non-small cell lung cancer (NSCLC). In addition, the primary biomarker objective was to measure blood tumor mutational burden (bTMB) and evaluate whether it can predict for improved clinical outcome with atezolizumab.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 153,
+  "conditions": [
+    "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Atezolizumab",
+      "type": "DRUG",
+      "description": "Atezolizumab 1200 mg was administered by intravenous infusion on Day 1 of each 21-day cycle until disease progression, loss of clinical benefit, or unacceptable toxicity (up to a total of 2 years of atezolizumab treatment)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Histologically or cytologically confirmed Stage IIIB-IVB NSCLC\n* For participants who have received prior neo-adjuvant/adjuvant chemotherapy or chemoradiotherapy with curative intent for non-metastatic disease: a treatment-free interval of at least 6 months prior to enrollment\n* Participants with any programmed death-ligand 1 (PD-L1) test result by immunohistochemistry (IHC) are eligible for the study\n* Participants without a PD-L1 test result are eligible for the study\n* Measurable disease per RECIST v1.1\n* Adequate hematologic and end-organ function\n* Agreement to remain abstinent (refrain from heterosexual intercourse) or use contraceptive methods among women of childbearing potential\n\nExclusion Criteria:\n\n* Prior treatment with immunotherapy for any stage NSCLC, including early-stage (neoadjuvant or adjuvant) disease\n* Participants with epidermal growth factor receptor (EGFR) sensitizing mutations and anaplastic lymphoma kinase (ALK) rearrangements\n* Active central nervous system (CNS) metastases requiring treatment\n* Spinal cord compression not definitively treated or not clinically stable\n* Leptomeningeal disease\n* Uncontrolled tumor-related pain\n* Uncontrolled pleural, pericardial effusions, or ascites requiring recurrent drainage procedures\n* Uncontrolled or symptomatic hypercalcemia\n* Malignancies other than NSCLC within 5 years prior to enrollment, except for those curatively treated with negligible risk of metastasis or death\n* Pregnant or lactating women\n* History of autoimmune disease, significant pulmonary disease, or significant cardiovascular disease\n* Positive human immunodeficiency virus (HIV) or hepatitis B or C\n* Active tuberculosis\n* Severe infection or major surgery within 4 weeks, or oral or IV antibiotics treatment within 2 weeks prior to enrollment\n* Prior treatment with or hypersensitivity to study drug or related compounds\n* Prior allogeneic bone marrow or solid organ transplant\n* Administration of a live, attenuated vaccine within 4 weeks prior to enrollment\n* Treatment with systemic immunostimulatory agents within 4 weeks or 5 half-lives of the drug (whichever is longer) prior to enrollment\n* Treatment with systemic corticosteroids or other systemic immunosuppressive medications within 2 weeks prior to enrollment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Cancer Treatment Centers of America - Eastern Regional Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19124",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Objective Response Per Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1) as Determined by Investigator",
+      "timeFrame": "Baseline up to 32 months",
+      "description": "Investigator-assessed objective response rate was defined as the proportion of participants who had a confirmed best overall response of either PR or CR per RECIST v1.1."
+    },
+    {
+      "measure": "Progression-Free Survival (PFS) Per RECIST v1.1 as Determined by Investigator, by Positive Versus Negative bTMB Groups",
+      "timeFrame": "Baseline up to 32 months",
+      "description": "Investigator-assessed PFS by RECIST v1.1 was defined as the time from the first dose of study drug to the time of PD or death from any cause during the study, whichever occurred first."
+    }
+  ],
+  "sponsor": "Genentech, Inc.",
+  "collaborators": [],
+  "start_date": "2016-09-23",
+  "completion_date": "2019-05-14",
+  "last_updated": "2020-04-15"
+}

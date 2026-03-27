@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT05622682",
+  "brief_title": "Vaccine Immune Recovery After Leukemia",
+  "official_title": "A Prospective Cohort Study to Define Infectious Burden, the Seroprevalence of Vaccine Preventable Pathogens and Immune Recovery in the First Year Following Completion of Therapy in Patients With Acute Lymphoblastic Leukemia (ALL)",
+  "brief_summary": "This observational study aims to assess recovery of the immune system and immunity to vaccine-preventable diseases in children, adolescents, and young adults who recently completed treatment for acute lymphoblastic leukemia (ALL). Several children's hospitals in the United States are participating in the study, which will enroll up to 100 pediatric participants. The study is intended to determine the rate of infection after leukemia treatment and to inform future studies and recommendations about whether children and adolescents who have leukemia should receive additional vaccine doses or boosters after treatment.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 89,
+  "conditions": [
+    "Acute Lymphoblastic Leukemia, Pediatric"
+  ],
+  "interventions": [
+    {
+      "name": "Observational only: Serology and flow cytometry for ALL cohort participants",
+      "type": "OTHER",
+      "description": "Blood samples from ALL cohort participants will be tested to measure antibodies to vaccine-preventable diseases and immune recovery"
+    },
+    {
+      "name": "Observational only: Infection rates",
+      "type": "OTHER",
+      "description": "Number of infections during the study period will be obtained and infection incidence rates calculated during the first year off-chemotherapy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Children, adolescents, and young adults diagnosed with B or T ALL at age 12 months or older\n* Completed ALL chemotherapy within the past three months or will complete ALL chemotherapy in the upcoming three months\n* Three years of age or older at time of enrollment\n\nExclusion Criteria:\n\n* Diagnosis of infant ALL\n* Evidence of disease relapse\n* History of primary immunodeficiency (except related to Down Syndrome)\n* History of a stem cell transplant or cellular immunotherapy\n* History of prior malignancy or condition requiring chemotherapy other than for current ALL diagnosis",
+    "gender": "ALL",
+    "min_age": "3 Years",
+    "max_age": "31 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incident Infection Rate in Participants During the First Year Post-acute Lymphoblastic Leukemia Therapy",
+      "timeFrame": "1 year",
+      "description": "Infections include clinical and/or microbiologically confirmed infections as well as patient-reported infections during follow-up. All unique infections for a given subject will be captured and included in the final infection rate per person time estimate. The total number of unique infections identified within the first year after completing chemotherapy will be reported as a rate per patient-year. Patients will be censored at time of loss to follow-up, relapse, or death."
+    }
+  ],
+  "sponsor": "Children's Hospital of Philadelphia",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2022-09-28",
+  "completion_date": "2025-11-30",
+  "last_updated": "2026-01-07"
+}

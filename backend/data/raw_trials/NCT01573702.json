@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT01573702",
+  "brief_title": "Stereotactic Radiosurgery or Other Local Ablation Then Erlotinib in Epidermal Growth Factor Receptor (EGFR)",
+  "official_title": "Phase II Study of Stereotactic Radiosurgery or Other Local Ablation Followed by Erlotinib for Patients With Epidermal Growth Factor Receptor(EGFR) Mutation Who Have Previously Progressed on an Epidermal Growth Factor Receptor-tyrosine Kinase Inhibitor (EGFR-TKI)",
+  "brief_summary": "\\- Progression free survival after locally ablative therapy and erlotinib in EGFR patients progressed after EGFR-TKI therapy",
+  "detailed_description": "Primary Objectives\n\n\\- To estimate progression free survival (PFS) after locally ablative therapy and erlotinib in EGFR-mutant NSCLC patients who progressed on prior EGFR-TKI therapy\n\nSecondary Objectives\n\n* To evaluate local control of sites previously progressive on erlotinib following stereotactic radiosurgery (SRS) followed by erlotinib\n* To estimate overall survival (OS) after locally ablative therapy and erlotinib in EGFR-mutant NSCLC patients who progressed on prior EGFR-TKI therapy\n* To characterize the toxicity of SRS\n* To characterize the toxicity of erlotinib when preceded by SRS\n\nExploratory Objectives\n\n* To explore if VeriStrat results at initial progression are associated with longer PFS or OS after study treatment\n* To explore if VeriStrat results following completion of SRS are associated with longer PFS or OS after re-initiation of erlotinib\n* To explore whether \"poor\" VeriStrat signatures ever turn to \"good\" signatures with the study therapy, and to explore PFS and OS of patients whose signature changes",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 32,
+  "conditions": [
+    "Non Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Stereotactic Radiosurgery",
+      "type": "PROCEDURE",
+      "description": "21 Gy daily for 5 days"
+    },
+    {
+      "name": "Erlotinib",
+      "type": "DRUG",
+      "description": "150mg once daily"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Written informed consent\n* 18 years of age or older\n* Histologically or cytologically confirmed stge IV EGFR-mutant NSCLC\n* History of previous response to EGFR-TKI defined by a RECIST 1.1 criteria\n* Progressive disease following EGFR-TKI therapy\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Adequate organ and marrow function\n* Negative urine or serum pregnancy test for female patients\n* Patients who can have children must agree to adequate contraception\n\nExclusion Criteria:\n\n* Unresolved chronic toxicities greater than 2, measured by CTCAE v4\n* Treatment with any FDA approved or experimental cancer treatment following progression on EGFR-TKI\n* Any history of previous greater than grade 3 toxicity attributable to erlotinib\n* Pregnant or lactating female\n* Any previous radiation to sites of planned Stereostatic Radiosurgery\n* History of another malignancy\n* Concomitant anticancer therapy, immunotherapy, or radiation therapy (within 4 weeks)\n* Evidence of severe or uncontrolled systemic diseases\n* Known hypersensitivity reaction or idiosyncrasy to erlotinib\n* Psychological, familial, sociological, or geographical conditions\n* Any other condition in investigator's opinion jeopardize compliance with protocol",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Progression Free Survival",
+      "timeFrame": "3 months after Initiation of Stereostatic Radiotherapy",
+      "description": "Progression free survival (PFS) after locally ablative therapy and erlotinib in EGFR-mutant NSCLC patients who progressed on prior EGFR-tyrosine kinase inhibitor (TKI) therapy reported as percentage of participants who are alive and without progressive disease at 3 months. Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1), as a 20% increase in the sum of the longest diameter of target lesions, or the appearance of new lesions."
+    }
+  ],
+  "sponsor": "UNC Lineberger Comprehensive Cancer Center",
+  "collaborators": [
+    "Astellas Pharma Global Development, Inc."
+  ],
+  "start_date": "2012-12-11",
+  "completion_date": "2019-03-15",
+  "last_updated": "2020-12-17"
+}

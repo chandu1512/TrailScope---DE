@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT01402063",
+  "brief_title": "PPX and Concurrent Radiation for Newly Diagnosed Glioblastoma Without MGMT Methylation",
+  "official_title": "PPX and Concurrent Radiation for Newly Diagnosed Glioblastoma Without MGMT Methylation: A Randomized Phase II Study",
+  "brief_summary": "To obtain preliminary data in a randomized phase II study whether PPX/RT improves progression-free survival as compared to temozolomide/RT for patients with GBM without MGMT methylation.",
+  "detailed_description": "To evaluate the toxicities of PPX/RT To evaluate neuro-cognitive functional assessments of patients with GBM receiving PPX/RT To obtain preliminary data in a randomized phase II study whether PPX/RT improves overall survival as compared to temozolomide /RT for patients with GBM without MGMT methylation to facilitate planning a phase III study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 63,
+  "conditions": [
+    "Glioblastoma Multiforme"
+  ],
+  "interventions": [
+    {
+      "name": "PPX (CT2103)",
+      "type": "DRUG",
+      "description": "XRT: 60 Gy at 2 Gy/fraction x 30 fractions PPX: 50 mg/m2/week x 6 weeks during radiation Temozolomide maintenance: Beginning 4 weeks after completion of chemoradiation, temozolomide d1-5 of 28 day cycle for 12 cycle maximum."
+    },
+    {
+      "name": "Temozolomide",
+      "type": "DRUG",
+      "description": "XRT: 60 Gy at 2 Gy/fraction x 30 fractions Temozolomide, 75 mg/m2/day, 7 days per week, from the first to the last day of radiotherapy Temozolomide maintenance: Beginning 4 weeks after completion of chemoradiation, temozolomide d1-5 of 28 day cycle for 12 cycle maximum"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically proven diagnosis of glioblastoma or gliosarcoma (WHO grade IV)\n* GBM must have unmethylated MGMT as determined by central laboratory\n* Diagnosis of GBM must be made by biopsy or surgical excision, either partial or complete; as long as there is sufficient tissue to determine MGMT status\n* No prior chemotherapy or radiation for brain tumor\n* Must be able to tolerate brain MRIs.\n\n  \\*A diagnostic contrast-enhanced MRI must be performed postoperatively within 42 days prior to study registration.\n* KPS \\>60.\n* Age \\> 18\n* Life expectancy of at least 3 months.\n* Absolute neutrophil count \\> 1500/mm3, Platelets \\> 100,000/mm,\n* Creatinine \\< 2 x ULN\n* ALT or AST \\< 3 x upper limit of normal (ULN) and total bilirubin \\< 1.5x ULN.\n* Patients with a prior history of low grade glioma who did not receive prior radiation or chemotherapy with transformation to grade IV brain tumor are eligible.\n* Women must be non-lactating, and surgically sterile, post-menopausal or have a negative serum pregnancy test and agree to use adequate birth control. Males must agree to use adequate birth control.\n* Voluntary, signed informed consent.\n\nExclusion Criteria:\n\n* Acute infection or other medical condition that would impair study treatment\n* No other active invasive malignancy unless disease free for at least 3 years.\n* Prior temozolomide or PPX.\n* Prior use of Gliadel wafers or any other intratumoral or intracavitary treatment are not permitted.\n* Prior radiotherapy to the head or neck (except for T1 glottic cancer), resulting in overlap of radiation fields.\n* No diffuse leptomeningeal disease, or gliomatosis cerebri.\n* Use of any other experimental chemotherapy drug within the 60 days prior to randomization and during the trial. (Use of a non-chemotherapy investigational agent must be approved by the Brown University Oncology Group)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "PSU",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival PPX/RT Versus TMZ/RT for Patients With GBM Without Methylation",
+      "timeFrame": "Q 3 months on study then Q3 months in f/u for yr 1, q 4 months yr 2, q 6 months for approximately 4 ys.",
+      "description": "MRI response evaluated by RANO criteria\n\n* Complete Response (CR): Circumstance when the enhancing tumor is no longer seen by neuroimaging, with the patient off all steroids or on adrenal maintenance only; CR will be coded only if confirmed by a second CT/MR scan performed a minimum of 4 weeks after the initial scan coding a response.\n* Partial Response (PR): Decrease of \\> 50% in the product of two diameters. Patients should be receiving stable or decreasing doses of steroids. PR will be coded only if confirmed by a second CT/MR scan performed a minimum of 4 weeks after the initial scan.\n* Progression (P): A \\> 25% increase in tumor area (two diameters) provided that the patient has not had his/her dose of steroids decreased since the last evaluation period. This will not need a confirmatory scan. A concomitant decrease in steroid dose will rule out a progression designation during the first 2 months after completion of XRT."
+    }
+  ],
+  "sponsor": "Brown University",
+  "collaborators": [
+    "Rhode Island Hospital",
+    "Milton S. Hershey Medical Center",
+    "University of Washington",
+    "University of Massachusetts, Worcester",
+    "MaineHealth",
+    "University of California, San Diego",
+    "Thomas Jefferson University"
+  ],
+  "start_date": "2011-09",
+  "completion_date": "2015-06",
+  "last_updated": "2020-02-13"
+}

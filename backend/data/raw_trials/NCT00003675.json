@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT00003675",
+  "brief_title": "Topotecan in Treating Patients With Myelodysplastic Syndrome",
+  "official_title": "A Randomized Phase II Trial of Oral Topotecan Given Twice a Day for 5 Days or Once a Day for 10 Days to Patients With Myelodysplastic Syndromes (MDS)",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die.\n\nPURPOSE: Randomized phase II trial to study the effectiveness of topotecan in treating patients who have myelodysplastic syndrome.",
+  "detailed_description": "OBJECTIVES: I. Estimate complete or partial remission, hematologic improvement, and cytogenic response rate when oral topotecan is given twice a day for 5 days versus once a day for 10 days to patients with myelodysplastic syndromes. II. Evaluate the safety and toxicity of oral topotecan in these patients. III. Evaluate whether there are morphologic and/or cytogenetic subsets of the myelodysplastic syndromes that will respond optimally to this regimen. IV. Evaluate the change in the percentage of bone marrow blast cells in these patients during treatment. V. Evaluate the time to transformation to acute myeloid leukemia (AML) or death in this patient population.\n\nOUTLINE: This is a randomized, multicenter study. Patients are stratified according to FAB subtype: 1. Refractory anemia with excess blasts 2. Refractory anemia with excess blasts in transformation 3. Chronic myelomonocytic leukemia 4. Refractory anemia, refractory anemia with ringed sideroblasts, and refractory cytopenia with multilineage dysplasia Patients are randomized to receive oral topotecan either twice daily for 5 days or once daily for 10 days. Courses are repeated every 21 days. Patients are evaluated for hematologic response after the initial 2 courses, and then every 4 courses. If a partial response or hematologic improvement is observed, treatment continues until disease progression to acute myeloid leukemia, relapse, death, or irreversible toxicity. Patients who achieve a complete response receive an additional 2 courses of therapy before discontinuation of protocol treatment. Patients are followed every 3 months for 2 years, then every year for an additional 3 years, and at time of progression.\n\nPROJECTED ACCRUAL: A total of 90 patients (45 per arm) will be accrued for this study within 13 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 100,
+  "conditions": [
+    "Leukemia",
+    "Myelodysplastic Syndromes"
+  ],
+  "interventions": [
+    {
+      "name": "topotecan hydrochloride",
+      "type": "DRUG",
+      "description": "1.2 mg/sq m twice a day for 5 days (Arm I) and once a day for 10 days (Arm II)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS: Primary or therapy-related myelodysplastic syndrome: Refractory anemia with excess blasts Refractory anemia with excess blasts in transformation Chronic myelomonocytic leukemia Refractory anemia, refractory anemia with ringed sideroblasts, or refractory cytopenia with multilineage dysplasia These patients must also have one of the following criteria: Greater than 4 units of RBCs transfused within the past 3 months OR Platelet count less than 50,000/mm3 OR Neutrophil count less than 1,000/mm3 AND a recent infection requiring antibiotics\n\nPATIENT CHARACTERISTICS: Age: Over 15 Performance status: 0-2 Life expectancy: Not specified Hematopoietic: See Disease Characteristics Hepatic: Bilirubin no greater than 1.5 mg/dL SGOT no greater than 2 times upper limit of normal Renal: Creatinine no greater than 1.5 mg/dL Other: Not pregnant or nursing Fertile patients must use effective contraception Free of any evidence of prior cancer for at least 12 months\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: At least 1 month since prior interferon No prior hematopoietic growth factors or cytokines except epoetin alfa No concurrent epoetin alfa Chemotherapy: No prior topotecan No prior chemotherapy for this disease At least 12 months since prior chemotherapy for another disease No other concurrent chemotherapy Endocrine therapy: At least 1 month since prior corticosteroids No concurrent hormonal therapy for disease-related conditions Concurrent steroids for adrenal failure allowed No concurrent dexamethasone and other steroidal antiemetics Radiotherapy: No prior radiotherapy for this disease At least 12 months since prior radiotherapy for another disease Surgery: Not specified Other: No prior cytotoxic therapy (including low-dose antimetabolites) for this disease At least 1 month since prior retinoids",
+    "gender": "ALL",
+    "min_age": "15 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "CCOP - Christiana Care Health Services",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19899",
+      "status": ""
+    },
+    {
+      "facility": "Marlene & Stewart Greenebaum Cancer Center, University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Response",
+      "timeFrame": "During treatment and up to progression post treatment",
+      "description": "Response in the peripheral blood is assessed during tx, q 3 mon for 2 yrs post tx, then annually for another 3 years, and then at progression Bone marrow response is assessed prior to cycle 3, then q 4 cycles for the 1st yr. then q 8 cycles for patients who continue beyond"
+    },
+    {
+      "measure": "Toxicity",
+      "timeFrame": "during treatment until progression",
+      "description": "assessment during treatment, q 3 mon for 2 years post tx, then annually for another 3 yrs, then at progression"
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "1999-03",
+  "completion_date": "2009-04",
+  "last_updated": "2016-07-19"
+}

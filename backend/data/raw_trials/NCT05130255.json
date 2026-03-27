@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT05130255",
+  "brief_title": "GD2-SADA:177Lu-DOTA Complex in Patients With Solid Tumors Known to Express GD2",
+  "official_title": "Phase 1 Trial With GD2-SADA:177Lu-DOTA Drug Complex in Patients With Recurrent or Refractory Metastatic Solid Tumors Known to Express GD2, Including Small Cell Lung Cancer, High Risk Neuroblastoma, Sarcoma and Malignant Melanoma",
+  "brief_summary": "Patients with Small Cell Lung Cancer, High Risk Neuroblastoma, Sarcoma and Malignant Melanoma will be treated with GD2-SADA:177Lu-DOTA complex(The IMP is a two-step radioimmunotherapy, delivered as two separate products GD2-SADA and 177Lu-DOTA) to assess safety and tolerability",
+  "detailed_description": "A phase 1 dose-escalation single-arm, open-label, non-randomized, multi-center trial of the safety and tolerability of GD2-SADA:177Lu-DOTA complex in GD2 expressing solid tumors.\n\nThe trial is planned as a Phase 1 trial with three parts, A, B and C. Escalation in this trial will be based on a classical 3+3 trial design.\n\nPart A is a GD2-SADA dose escalation phase, in which patients will receive one treatment cycle.\n\nPart B is a 177Lu-DOTA dose escalation phase, in which patients will receive up to 2 treatment cycles .\n\nPart C is a repeated dosing phase where the doses determined in Part A and B will be administered. Patients will receive repeated treatment cycles with a maximum of 5 cycles.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "SCLC",
+    "Malignant Melanoma",
+    "Sarcoma",
+    "High Risk Neuroblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "GD2-SADA:177Lu-DOTA Complex",
+      "type": "DRUG",
+      "description": "The IMP is a two-step radioimmunotherapy, delivered as two separate products GD2-SADA and 177Lu-DOTA, both will be administered as an IV infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Signed informed consent from patient, legal guardian(s) and/or adolescents obtained in accordance with local regulations. Pediatric patients must provide assent as required by local regulations.\n* Age \u226518 years at the time of informed consent, for High Risk Neuroblastoma \\&amp; sarcoma age \u226516 years of age at time of informed consent/assent\n* Measurable disease according to RECIST 1.1\n* ECOG performance status 0-1\n* Expected survival \\&gt;3 months\n* Platelet counts \u2265100,000 cells/mm3\n* Hemoglobin \u22659 g/dL\n* Adequate renal function with serum creatinine \u22641.5 mg/dL or creatinine clearance \u226560mL/min as calculated using the Cockcroft-Gault equation\n* Patient willing and able to comply with the trial protocol\n\nExclusion Criteria:\n\n* Systemic chemotherapy, radiotherapy, immunotherapy, or major surgery administered within 3 weeks prior to the first planned dosing of the IMP per protocol\n* Patients receiving any other investigational therapy for their cancer within 3 weeks prior to the first planned dosing of the IMP per protocol\n* Ongoing radiation toxicities from prior RT therapy\n* Patients with a diagnosis of autoimmune diseases or immunodeficiencies or documented infection with human immunodeficiency virus (HIV) or hepatitis B or C virus (active)\n* Prior treatment with anti-GD2 antibody",
+    "gender": "ALL",
+    "min_age": "16 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15260",
+      "status": "ACTIVE_NOT_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To determine the optimal, safe GD2-SADA protein dose and dosing interval between GD2-SADA and 177Lu-DOTA administrations",
+      "timeFrame": "6 weeks",
+      "description": "Occurrence of DLTs (Part A)"
+    },
+    {
+      "measure": "To determine maximum tolerable activity of 177Lu-DOTA",
+      "timeFrame": "6 weeks",
+      "description": "Occurrence of DLTs (Part B)"
+    },
+    {
+      "measure": "To assess cumulative toxicity signals and safety profile (Number and severity of adverse events) following repeated dosing and determine the recommended phase 2 dose (RP2D)",
+      "timeFrame": "52 weeks",
+      "description": "Number and severity of adverse events (Part C)"
+    }
+  ],
+  "sponsor": "Y-mAbs Therapeutics",
+  "collaborators": [],
+  "start_date": "2022-11-17",
+  "completion_date": "2027-04",
+  "last_updated": "2024-09-30"
+}

@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT02383927",
+  "brief_title": "Phase II Study of Tipifarnib in Squamous Head and Neck Cancer With HRAS Mutations",
+  "official_title": "An Open Label Phase II Study of Tipifarnib in Advanced Non-Hematological Malignancies With HRAS Mutations",
+  "brief_summary": "Phase II study to investigate the antitumor activity in terms of objective response rate (ORR) of tipifarnib in subjects with advanced tumors that carry HRAS mutations and for whom there is no standard curative therapy available.",
+  "detailed_description": "This Phase II study will investigate the antitumor activity in terms of ORR of tipifarnib in subjects with locally advanced, unresectable or metastatic, relapsed and/or refractory tumors that carry HRAS mutations and for whom there is no curative therapy available. Subjects with information available on tumor HRAS status previously generated are eligible. All subjects must consent to provide at least 10 tumor slides from a prior diagnostic biopsy for a retrospective testing of HRAS gene status at a central facility.\n\nSubjects will be enrolled into three nonrandomized cohorts:\n\n* Cohort 1: Malignant thyroid tumors with HRAS mutations.\n* Cohort 2: Squamous Cell Carcinoma Head and Neck Cancer with HRAS mutations.\n* Cohort 3: Squamous Cell Carcinoma (SCC) with HRAS mutations other than HNSCC.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 63,
+  "conditions": [
+    "Thyroid Cancer",
+    "Squamous Cell Carcinoma Head and Neck Cancer (HNSCC)",
+    "HRAS Mutant Tumor",
+    "Other Squamous Cell Carcinoma (SCC) With HRAS Mutant Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Tipifarnib",
+      "type": "DRUG",
+      "description": "FTase inhibitor"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* histologically or cytologically confirmed diagnosis of thyroid cancer (cohort 1) or Squamous Cell Carcinoma head and neck cancer (cohort 2) or Squamous Cell Carcinoma other than HNSCC (cohort 3) for which there is no curative therapy available.\n* tumor that carries a missense HRAS mutation ith a variant allele frequency (VAF) \\> 20%.\n* Subject consents to provide at least 10 unstained tumor slides for retrospective testing of HRAS gene tumor status\n* Subject has measurable disease according to RECIST v1.1 and has relapsed or is refractory to prior therapy.\n* At least 2 weeks since the last systemic therapy or radiotherapy regimen prior to enrolment\n* ECOG PS 0 or 1\n* Acceptable liver function\n* Acceptable renal function\n* Acceptable hematologic status \u2022 Serum albumin \u2265 3.5 g/dL. Subjects with tumors potentially highly sensitive to tipifarnib (HRAS mutant VAF \u2265 35%) may be enrolled despite a serum albumin \\< 3.5 g/dL.\n\nExclusion Criteria:\n\n* Prior treatment with an FTase inhibitor\n* History of relevant coronary heart disease or myocardial infarction within last 3 years, NYHA Grade III or greater congestive heart failure, cerebro-vascular attack within the prior year, or serious cardiac arrhythmia requiring medication except atrial fibrillation.\n* Known uncontrolled brain, leptomeningeal or epidural metastases (unless treated and well controlled for at least 4 weeks prior to Cycle 1 Day 1). Controlled brain metastases that require continuous high dose corticosteroid use within 4 weeks of Day 1.\n* Non-tolerable \\> Grade 2 neuropathy or evidence of unstable neurological symptoms within 4 weeks first dose\n* Major surgery, other than diagnostic surgery, within 4 weeks prior to first dose, without complete recovery.\n* Active, uncontrolled bacterial, viral, or fungal infections, requiring systemic therapy. Known infection with HIV, or an active infection with hepatitis B or hepatitis C",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Antitumor Activity by Objective Response Rate (ORR)",
+      "timeFrame": "Up to approximately 3 years",
+      "description": "The ORR of tipifarnib was response assessments according to RECIST 1.1. The estimate of the ORR was calculated based on the maximum likelihood estimator (i.e., crude percentage of subjects whose best overall response was complete response \\[CR\\] or partial response \\[PR\\]). The estimate of the ORR was accompanied by 2-sided 95% confidence interval (CI). The 95% CI was estimated using the Wilson score test-based method.\n\nCR: Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\< 10 mm. Disappearance of all non-target lesions and normalization of tumor marker level. All lymph nodes must be non-pathological in size (\\< 10 mm short axis).\n\nPR: At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. Persistence of one or more non-target lesion(s) and/or maintenance of tumor marker level above the normal limits."
+    }
+  ],
+  "sponsor": "Kura Oncology, Inc.",
+  "collaborators": [],
+  "start_date": "2015-05-13",
+  "completion_date": "2020-12-14",
+  "last_updated": "2024-07-10"
+}

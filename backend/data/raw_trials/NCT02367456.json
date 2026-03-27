@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT02367456",
+  "brief_title": "A Combination Study of PF-04449913 (Glasdegib) and Azacitidine In Untreated MDS, AML and CMML Patients",
+  "official_title": "An Open-label Phase 1b Study of PF-04449913 (Glasdegib) in Combination With Azacitidine in Patients With Previously Untreated Higher-Risk Myelodysplastic Syndrome, Acute Myeloid Leukemia, or Chronic Myelomonocytic Leukemia",
+  "brief_summary": "This multi center open label Phase 1b study is designed to evaluate the safety, efficacy, pharmacokinetics (PK), and pharmacodynamics (PD) of glasdegib (PF-04449913) when combined with azacitidine in patients with previously untreated Higher Risk Myelodysplastic Syndrome (MDS), Acute Myeloid Leukemia (AML), or Chronic Myelomonocytic Leukemia (CMML). This clinical study includes two components: (a) a safety lead in cohort (LIC) and (b) an expansion phase with an AML cohort and an MDS cohort.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 73,
+  "conditions": [
+    "Myelodysplastic Syndrome",
+    "Acute Myeloid Leukemia",
+    "Chronic Myelomonocytic Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "PF-04449913 (Glasdegib)",
+      "type": "DRUG",
+      "description": "Daily dose of PF-04449913 100mg tablet in a continuous regimen of 28 day cycles"
+    },
+    {
+      "name": "Azacitidine",
+      "type": "DRUG",
+      "description": "75mg/m2 on Days 1-7 (+/- 3 days for each dose) of a 28 day cycle"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria:\n\n* Patients must have previously untreated MDS, AML, or CMML according to the WHO 2016 classification.\n* MDS patients must have Intermediate (\\>3 to 4.5 points), High Risk (\\>4.5 - 6) or Very High Risk (\\>6 points) disease according to the Revised International Prognostic Scoring System 2012 (IPSS-R).\n* Clinical indication for treatment with azacitidine for MDS or AML.\n\nExclusion criteria:\n\n* Patients with AML who are candidates for standard induction chemotherapy as first line treatment.\n* Patients with known active CNS leukemia.\n* Prior treatment with a smoothened inhibitor (SMOi) and/or hypomethylating agent.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Treatment-Emergent Adverse Events (TEAEs) in the Lead-in Cohort (LIC)",
+      "timeFrame": "maximum of approximately 15 months",
+      "description": "An adverse event (AE) was any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship with the study treatment. TEAEs were AEs that occurred after initiation of treatment or AEs increasing in severity during treatment. Treatment-related TEAEs were determined by the investigator. Grades of AEs were defined by National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.03.Grade 1=asymptomatic/mild symptoms, clinical or diagnostic observations only, intervention not indicated; Grade 2=minimal, local or noninvasive intervention indicated, limiting age-appropriate instrumental activity of daily living (ADL); Grade 3=severe or medically significant but not immediately life-threatening, hospitalization of prolongation of hospitalization indicated; disabling limiting self-care ADL; Grade 4=events with life-threatening consequences, urgent intervention indicated; Grade 5= death related to AE."
+    },
+    {
+      "measure": "Number of Participants With Serious Adverse Events (SAEs) in the LIC",
+      "timeFrame": "maximum of approximately 15 months",
+      "description": "A serious adverse event (SAE) was any untoward medical occurrence at any dose that resulted in death; was life threatening; required inpatient hospitalization or prolongation of existing hospitalization; resulted in persistent or significant disability/incapacity; resulted in congenital anomaly/birth defect. Treatment-related SAEs were determined by the investigator."
+    },
+    {
+      "measure": "Number of Participants With Laboratory Abnormalities in the LIC",
+      "timeFrame": "maximum of approximately 16 months",
+      "description": "Hematology lab parameters included activated partial thromboplastin time, hemoglobin, prothrombin international normalized ratio, lymphocyte, neutrophil, platelet, white blood cell; chemistry parameters included alanine aminotransferase, aspartate aminotransferase, alkaline aminotransferase, blood bilirubin, creatine phosphokinase, creatinine, calcium, blood glucose, potassium, magnesium, sodium, albumin, phosphate. Grades of lab abnormalities were defined by NCI CTCAE version 4.03. Grade 1(mild)=asymptomatic or mild symptoms, clinical or diagnostic observations only, intervention not indicated;Grade 2(moderate)=minimal, local or noninvasive intervention indicated, limiting age-appropriate instrumental ADL;Grade 3=severe or medically significant but not immediately life-threatening, hospitalization or prolongation of hospitalization indicated; disabling limiting self-care ADL;Grade 4=life-threatening consequences, urgent intervention indicated. Grade 1-4 results are reported."
+    },
+    {
+      "measure": "Percentage of Participants Achieving Complete Remission (CR) in the AML and MDS Cohorts",
+      "timeFrame": "maximum of 23 months in AML cohort and 34 months in MDS cohort",
+      "description": "Percentage of participants achieving CR as defined by the 2017 European Leukemia Net (ELN) Response Criteria for all participants with AML and modified International Working Group (IWG) criteria (2006) for all participants with MDS in the expansion cohorts.\n\nFor AML cohort, CR was defined as neutrophils \u2265 1 x 10\\^9/L, platelets \u2265 1 x 10\\^11/L, percentage of bone marrow blasts (BMB) \\<5% with no peripheral blasts and no blasts with Auer rods, no extramedullary disease (EMD), and transfusion independent.\n\nFor MDS cohort, CR was defined as having responses of hemoglobin \u226511 g/dL, neutrophils \u22651 x 10\\^9/L, platelets \u22651 x 10\\^11/L, percentage of blasts = 0%, percentage of BMB\u22645%, and normal maturation of all cell lines (note if has persistent dysplasia), and all responses must last at least 4 weeks."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2015-04-28",
+  "completion_date": "2022-03-07",
+  "last_updated": "2023-04-20"
+}

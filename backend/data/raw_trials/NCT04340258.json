@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT04340258",
+  "brief_title": "Trial Combining Pembrolizumab and Cesium 131 Brachytherapy With Salvage Surgery in HNSCC",
+  "official_title": "Phase 1b/II Trial Combining PD1 Inhibition (Pembrolizumab) and Cesium 131 Brachytherapy With Salvage Surgery to Enhance Immunogenicity and Improve Local Control in Head and Neck Cancer",
+  "brief_summary": "To Study Perioperative PD-1 Inhibitor and Cesium-131 Interstitial Brachytherapy in patients with locally recurrent HNSCC eligible for salvage surgery.",
+  "detailed_description": "This study is a non-randomized, single-arm, multi-institutional phase 1b/II study including patients with locally recurrent head and neck cancer eligible for resection. Patients who are identified to be eligible for surgical resection will be screened and consented to receive one 200mg IV dose of pembrolizumab followed by salvage surgery. At the time of surgery, they will have Cesium131 seeds implanted. Two to six weeks after surgery, subjects will be started on 200 mg IV of pembrolizumab to be continued every 3 weeks for 6 months. The phase 1b part will enroll 3 patients for a safety run-in, followed by the phase 2 part if no DLTs are seen in these 3 patients. Phase 2 will be used to estimate the 2-year DFS in comparison to a benchmark selected based on a historical control. For correlative studies, archived tissue and surgical specimen will be evaluated by H\\&E and IHC for immune phenotype. Blood samples will also be collected as shown in schema above for correlative studies (blood will be collected for correlatives and biomarkers before and after the first of pembrolizumab, before starting adjuvant pembrolizumab and at completion of 6 month course of adjuvant pembrolizumab). Patients will be followed approximately every 3 weeks during treatment for the first 6 months, then monthly for 3 months following treatment and then every 3 months thereafter for 24 months for disease free survival (DFS) and overall survival (OS).",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "HNSCC"
+  ],
+  "interventions": [
+    {
+      "name": "Cesium-131",
+      "type": "DEVICE",
+      "description": "Cs-131 brachytherapy seed is a low-energy-gamma isotope that is contained in a titanium capsule. Dosing will be determined by a radiation oncologist study team member based on CT scan and intraoperative findings. The number of seeds and spacing will be outlined preoperatively based on the proposed square area of exposure in the resection bed. The plan is to deliver a total of 60-70Gy of radiation to the site."
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Pembrolizumab 200 mg will be administered as a 30-minute IV infusion every 3 weeks. The drug will be infused through a peripheral line or an indwelling catheter. The first dose will be given 2 weeks prior to surgery. Post-surgery, pembrolizumab will be started between 2 and 6 weeks and will continue every 3 weeks for a duration of 6 months. Study Drug may be administered up to 3 days before or after the scheduled Day 1 of each cycle due to administrative reasons. The Investigator's Brochure contains specific instructions for the preparation of the standard of care pembrolizumab infusion fluid."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* locally recurrent HNSCC and be eligible for salvage surgery\n* If patient received radiation therapy in the past, they should have recovered from the acute toxicity to \\<grade 1\n* tumor needs to be deemed resectable\n\nExclusion Criteria:\n\n* Exposed carotid artery preoperatively requiring sacrifice or bypass intra-operatively\n* Patients with active pharyngo-cutaneous\n* Patients with more than one site of distant metastatic disease\n* Prior immune-based anticancer therapy within last six months",
+    "gender": "ALL",
+    "min_age": "19 Years",
+    "max_age": "90 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19144",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Safety measured by dose limiting toxicities (DLTs).",
+      "timeFrame": "2 years",
+      "description": "Phase Ib: To determine the safety of the combination of pembrolizumab and Cesium-131 in recurrent HNSCC patients undergoing salvage surgical resection. A 3+3 safety run in will be conducted for the phase 1b part of the protocol. Safety monitoring will begin at the time of enrollment on the study and will continue for at least 4 weeks after completion of the last treatment dose on study."
+    },
+    {
+      "measure": "Disease-free survival",
+      "timeFrame": "2 years",
+      "description": "Phase II: To estimate the disease-free survival (DFS) rate for the combination of pembrolizumab and Cesium 131 in recurrent HNSCC patients undergoing salvage surgical resection"
+    }
+  ],
+  "sponsor": "University of Cincinnati",
+  "collaborators": [
+    "IsoRay Medical, Inc."
+  ],
+  "start_date": "2021-02-04",
+  "completion_date": "2025-09-04",
+  "last_updated": "2025-06-04"
+}

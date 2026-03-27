@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT00885326",
+  "brief_title": "N2007-02:Bevacizumab,Cyclophosphamide,& Zoledronic Acid in Patients W/ Recurrent or Refractory High-Risk Neuroblastoma",
+  "official_title": "A Phase I Study of Bevacizumab With Bolus and Metronomic Cyclophosphamide and Zoledronic Acid in Children With Recurrent or Refractory Neuroblastoma",
+  "brief_summary": "RATIONALE: Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Drugs used in chemotherapy, such as cyclophosphamide, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Zoledronic acid may stop the growth of tumor cells in bone. Giving bevacizumab together with cyclophosphamide and zoledronic acid may kill more tumor cells.\n\nPURPOSE: This phase I trial is studying the side effects of giving bevacizumab together with cyclophosphamide and zoledronic acid in treating patients with recurrent or refractory high-risk neuroblastoma.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* To determine the toxicities and feasibility of bolus and metronomic cyclophosphamide when given in combination with zoledronic acid with and without bevacizumab in patients with recurrent or refractory high-risk neuroblastoma.\n\nSecondary\n\n* To preliminarily evaluate the antitumor activity of this regimen in these patients within the confines of a pilot study.\n\nOUTLINE: This is a multicenter study.\n\nPatients receive cyclophosphamide IV over 1 hour and zoledronic acid IV over 15 minutes on day 0 and oral cyclophosphamide once daily on days 1-27 in course 1. In course 2 and all subsequent courses, patients receive bevacizumab IV over 30-90 minutes on days 0 and 14, cyclophosphamide IV over 1 hour and zoledronic acid IV over 15 minutes on day 1, and oral cyclophosphamide once daily on days 0 and 2-27. Treatment repeats every 28 days for up to 2 years\\* in the absence of disease progression or unacceptable toxicity.\n\nNOTE: \\*Patients may receive up to 13 doses of zoledronic acid.\n\nAfter completion of study treatment, patients are followed periodically.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 29,
+  "conditions": [
+    "Neuroblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "Every course will be 28 days. Bevacizumab 10 mg/kg/dose , will be administered intravenously every 14 days beginning on day 0 of the second course."
+    },
+    {
+      "name": "cyclophosphamide",
+      "type": "DRUG",
+      "description": "Cyclophosphamide will be administered as an intravenous (IV) bolus according to the protocol assigned dose level followed by daily oral dosing (25mg/m2/day) without interruption (unless toxicity supervenes)."
+    },
+    {
+      "name": "zoledronic acid",
+      "type": "DRUG",
+      "description": "Administered on day 0 of course 1 and day 1 of course 2 and all subsequent courses in a dose of 4mg/m2 (max 4 mg per dose). On days when zoledronic acid (ZA) and cyclophosphamide (CTX) are given together, CTX should be given first."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must be no more 30 years of age when enrolled on study.\n* Patients must have relapsed neuroblastoma, refractory neuroblastoma that had less than a partial response to standard treatment or persistent neuroblastoma that had at least a partial response to standard treatment.\n* Patients who have at least a partial response to standard treatment who still have neuroblastoma that can be seen on CT/MRI or MIBG scans must have a surgical biopsy done of the tumor to confirm that it is neuroblastoma. Patients with relapsed or refractory neuroblastoma do not need to have a biopsy done to enter on study.\n* Patients must have adequate heart, kidney, liver blood clotting and bone marrow function. Patients who have bone marrow disease must meet the bone marrow function criteria to enter the study.\n* Patients must have recovered from all prior chemotherapy and surgical procedures\n\nExclusion Criteria:\n\n* They are known to be sensitive to Bevacizumab.\n* They have a history of very high blood pressure which required intensive intervention\n* They are pregnant or breastfeeding\n* Neuroblastoma is present in the brain on a CT or MRI scan done at study entry. Patients with neuroblastoma found in the bones of the skull are eligible if there is no tumor mass associated with them pressing on the brain.\n* They have a history non healing wounds",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "30 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-4318",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Determination of toxicities and feasibility of the combination of bolus plus metronomic cyclophosphamide and zoledronic acid with and without bevacizumab when given to children with refractory or recurrent high risk neuroblastoma.",
+      "timeFrame": "Study entry, day 14 of course 1, prior to course 2, day 14 of course 2.",
+      "description": "Any dose limiting toxicity (DLT) as defined in section 9.2 of protocol."
+    }
+  ],
+  "sponsor": "New Approaches to Neuroblastoma Therapy Consortium",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2009-12",
+  "completion_date": "2019-12",
+  "last_updated": "2023-04-06"
+}

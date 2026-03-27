@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT00416312",
+  "brief_title": "Iodine I 131 Tositumomab or Yttrium Y 90 Ibritumomab Tiuxetan in Treating Patients With Non-Hodgkin's Lymphoma",
+  "official_title": "Dose-Response in Radioimmunotherapy of Lymphoma",
+  "brief_summary": "RATIONALE: Radiolabeled monoclonal antibodies, such as iodine I 131 tositumomab and yttrium Y 90 ibritumomab tiuxetan, can find cancer cells and carry cancer-killing substances to them without harming normal cells. This may be an effective treatment for non-Hodgkin's lymphoma.\n\nPURPOSE: This clinical trial is studying the side effects, best dose, and how well iodine I 131 tositumomab or yttrium Y 90 ibritumomab tiuxetan works in treating patients with non-Hodgkin's lymphoma.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* Determine the relationship between estimated absorbed dose and tumor response using different dosimetric methodologies in patients with non-Hodgkin's lymphoma treated with iodine I 131 tositumomab or yttrium Y 90 ibritumomab tiuxetan.\n* Determine the relationship between estimated absorbed dose and normal organ toxicity using different dosimetric methodologies in these patients.\n\nSecondary\n\n* Assess the difference in the dose-response relationship between dosimetric methodologies in these patients.\n* Assess the influence of prior therapy on the dose-response relationship for hematologic toxicity in these patients.\n\nOUTLINE: Patients are stratified according to planned radioimmunotherapy treatment (iodine I 131 tositumomab vs yttrium Y 90 ibritumomab tiuxetan).\n\n* Stratum 1: Patients receive dosimetric rituximab IV followed by indium In 111 (\\^111In) ibritumomab tiuxetan IV over 10 minutes on day 1. Patients undergo positron emission tomography (PET)/CT scans and single-photon emission computed tomography (SPECT)/CT scans between 2-24, 48-72, and 90-120 hours after \\^111In ibritumomab tiuxetan administration. Patients who have acceptable biodistribution receive therapeutic rituximab IV followed by yttrium Y 90 ibritumomab tiuxetan IV over 10 minutes between days 7-9.\n* Stratum 2: Patients receive dosimetric tositumomab IV over 60 minutes followed by iodine I 131 (\\^131I) tositumomab IV over 20 minutes on day 0. Patients undergo PET/CT scans and SPECT/CT scans on days 0; 2, 3 or 4; and 6 or 7. Patients who have acceptable biodistribution receive therapeutic tositumomab IV over 60 minutes followed by \\^131I tositumomab IV over 20 minutes on approximately day 7.\n\nIn both strata, blood is collected at baseline to measure FLT-3 levels. All patients also undergo a baseline PET/CT scan.\n\nAfter completion of study treatment, patients are followed every 3 months for 1 year and then every 6 months thereafter.\n\nPROJECTED ACCRUAL: A total of 88 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 9,
+  "conditions": [
+    "Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "Patient-specific dosimetry",
+      "type": "DEVICE",
+      "description": "Tumor absorbed dose calculation using patient-specific 3D-RD dosimetry software.\n\nPatients receive dosimetric tositumomab IV over 60 minutes followed by iodine I 131 (\\^131I) tositumomab IV over 20 minutes on day 0. Patients undergo PET/CT scans and SPECT/CT scans on days 0; 2, 3 or 4; and 6 or 7. Patients who have acceptable biodistribution receive therapeutic tositumomab IV over 60 minutes followed by \\^131I tositumomab IV over 20 minutes on approximately day 7."
+    },
+    {
+      "name": "conventional dosimetry",
+      "type": "DEVICE",
+      "description": "Doses calculated using conventional dosimetry software.\n\nPatients receive dosimetric rituximab IV followed by indium In 111 (\\^111In) ibritumomab tiuxetan IV over 10 minutes on day 1. Patients undergo positron emission tomography (PET)/CT scans and single-photon emission computed tomography (SPECT)/CT scans between 2-24, 48-72, and 90-120 hours after \\^111In ibritumomab tiuxetan administration. Patients who have acceptable biodistribution receive therapeutic rituximab IV followed by yttrium Y 90 ibritumomab tiuxetan IV over 10 minutes between days 7-9."
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of non-Hodgkin's lymphoma\n* Measurable disease by CT scan or nuclear medicine imaging\n* Eligible, by standard of care criteria, for iodine I 131 tositumomab or yttrium Y 90 ibritumomab tiuxetan treatment\n\nPATIENT CHARACTERISTICS:\n\n* No other malignancy within the past 3 years except basal cell carcinoma or squamous cell carcinoma of the skin or in situ carcinoma of the cervix\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* No alcoholism or drug abuse within the past 2 years\n* No severe emotional, behavioral, or psychiatric problems that would limit study compliance\n\nPRIOR CONCURRENT THERAPY:\n\n* No concurrent participation in another investigational drug study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Tumor Absorbed Dose",
+      "timeFrame": "up to 4 years",
+      "description": "tumor absorbed dose (Gy)"
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2006-07",
+  "completion_date": "2009-10",
+  "last_updated": "2018-07-27"
+}

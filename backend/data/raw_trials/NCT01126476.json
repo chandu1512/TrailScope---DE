@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT01126476",
+  "brief_title": "Proton Radiotherapy for Recurrent Tumors",
+  "official_title": "Retreatment of Recurrent Tumors Using Proton Therapy",
+  "brief_summary": "The purpose of this study is to determine the feasibility of using proton radiotherapy for reirradiation of recurrent malignancies.",
+  "detailed_description": "Patients will be stratified by treatment site (Head and Neck, Thorax, Abdomen, Pelvis, Extremities) and by treatment volume (low volume, high volume) for a total of 10 strata. This study will be done in two phases. In the first phase, feasibility will be established using the primary objectives set below. The second phase will begin no earlier than 90 days after the last patient in the initial phase has completed treatment in each strata and once feasibility has been verified. The secondary objectives will serve as the objectives for the second phase of the study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 24,
+  "conditions": [
+    "Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "Proton Radiotherapy",
+      "type": "OTHER",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients with histologically confirmed, non-CNS solid malignancies who have been previously radiated and have a tumor recurrence in or near prior radiation fields. Re-biopsy of the recurrence is not required and left to the discretion of the treating physician, although every effort should be made to confirm recurrence.\n* Patients must have a Karnofsky Performance Status of 60. Life expectancy of 3 months .\n* Age greater or equal to 18.\n* Patients must be able to provide informed consent.\n* Women of child bearing potential as long as she agrees to use a recognized method of birth control (e.g. oral contraceptive, IUD, condoms or other barrier methods, etc.)\n* Hysterectomy or menopause must be clinically documented.\n\nExclusion Criteria:\n\n* Prior radiation treatment less than 3 months from planned start of re-irradiation of any part of the intended treatment volume.\n* Pregnant women, women planning to become pregnant and women that are nursing.\n* Actively being treated on any research study.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abamson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Feasibility of proton therapy",
+      "timeFrame": "90 days",
+      "description": "To determine if the study is infeasible, defined if greater than 10% of pts experience one of the following:\n\n1. Patient cannot be given treatment because anatomy is such that a dosimetrically satisfactory treatment plan cannot be devised.\n2. Patient who receives 15% or more of their treatments (for any reason, i.e. unable to set patient up within acceptable limits of tolerance, patient unable to tolerate treatment position or immobilization for duration of treatment) using photon radiotherapy (i.e. up to 15% of treatments could be delivered using photons).\n3. Patient is unable to complete all of his/her treatments within 10 days of estimated date of treatment completion or requires a treatment break greater than 5 days."
+    },
+    {
+      "measure": "Acute Toxicity",
+      "timeFrame": "within 90 days",
+      "description": "Acute Toxicity is defined as any grade 4 toxicity observed within 90 days from the initiation of radiotherapy that is felt to be directly related to their proton treatment. Toxicities will be graded by NCI CTC Version 4.0"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2010-02",
+  "completion_date": "2020-04",
+  "last_updated": "2020-04-23"
+}

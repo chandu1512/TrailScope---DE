@@ -1,0 +1,105 @@
+{
+  "nct_id": "NCT00435409",
+  "brief_title": "A Study Of Sunitinib In Combination With Capecitabine Compared With Capecitabine In Patients With Breast Cancer",
+  "official_title": "A Randomized, Phase 3 Study Of Sunitinib In Combination With Capecitabine Compared With Capecitabine In Patients With Previously Treated Breast Cancer",
+  "brief_summary": "The treatment received with sunitinib plus capecitabine could delay tumor growth longer than with treatment with capecitabine alone.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 442,
+  "conditions": [
+    "Breast Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Sunitinib + Capecitabine",
+      "type": "DRUG",
+      "description": "Sunitinib administered orally at a starting dose of 37.5 mg once a day on a continuous regimen.\n\nCapecitabine administered orally at a starting dose of 2000 mg/m\\^2 per day \\[1000 mg/m\\^2 bid (twice daily)\\] from days 1-14 every 3 weeks. Study treatment should be given until progression or withdrawal from the study for other reasons."
+    },
+    {
+      "name": "Capecitabine",
+      "type": "DRUG",
+      "description": "Capecitabine administered orally at a starting dose of 2500 mg/m\\^2 per day \\[1250 mg/m\\^2 bid (twice daily)\\] from days 1-14 every 3 weeks. Study treatment should be given until progression or withdrawal from the study for other reasons. At the time of progression, patients may be eligible to crossover to single agent sunitinib, administered orally at a starting dose of 37.5 mg daily."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Locally advanced or metastatic disease that can be measured. Patients with bone-only disease are also allowed to enter the study.\n* Previous treatment with an anthracycline and a taxane in any setting\n* Progression on first or second line regimen or adjuvant regimen if disease free interval less than 12 months\n\nExclusion Criteria:\n\n* History of inflammatory carcinoma if there is no other measurable disease\n* More than 2 chemotherapy agents in the advanced disease setting\n* Brain metastases",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Kensington",
+      "state": "Maryland",
+      "zip": "20895",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "20850",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Clairton",
+      "state": "Pennsylvania",
+      "zip": "15025",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Greensburg",
+      "state": "Pennsylvania",
+      "zip": "15601",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Pottstown",
+      "state": "Pennsylvania",
+      "zip": "19464",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Wexford",
+      "state": "Pennsylvania",
+      "zip": "15090",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "Baseline until disease progression (up to 3 years from first dose)",
+      "description": "Defined as the time from the date of randomization to the date of the first documentation of objective tumor progression or death due to any cause, whichever occurs first. If tumor progression data include more than 1 date, the first date will be used. PFS (in months) will be calculated as (first event date minus randomization date plus 1) divided by 30.4."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2007-02",
+  "completion_date": "2011-06",
+  "last_updated": "2012-06-15"
+}

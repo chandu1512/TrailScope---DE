@@ -1,0 +1,131 @@
+{
+  "nct_id": "NCT04874415",
+  "brief_title": "Behavioral Economics for Activity Motivation in Adolescents (BEAM)",
+  "official_title": "Behavioral Economics for Activity Motivation in Adolescents and Young Adults With Prediabetes and Type 2 Diabetes",
+  "brief_summary": "There is an urgent need to engineer targeted physical activity interventions that are effective and scalable for obese adolescents and young adults (AYA) with type 2 diabetes (T2D), who often have very low levels of physical activity. The BEAM Trial is a mobile health (mHealth) intervention that uses behavioral economic-informed financial incentives and text messaging to promote physical activity in AYA with T2D and prediabetes.",
+  "detailed_description": "Some secondary outcome measures from the protocol were inadvertently left out when creating the registration and have been added with the results.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 75,
+  "conditions": [
+    "Type 2 Diabetes",
+    "PreDiabetes",
+    "Insulin Resistance",
+    "Polycystic Ovary Syndrome"
+  ],
+  "interventions": [
+    {
+      "name": "1RLD",
+      "type": "BEHAVIORAL",
+      "description": "1RLD=One text per day, ramped goal, loss incentive, daily goal time period"
+    },
+    {
+      "name": "1RLW",
+      "type": "BEHAVIORAL",
+      "description": "1RLW=One text per day, ramped goal, loss incentive, weekly goal time period."
+    },
+    {
+      "name": "1RGD",
+      "type": "BEHAVIORAL",
+      "description": "1RGD=One text per day, ramped goal, gain incentive, daily goal time period."
+    },
+    {
+      "name": "1RGW",
+      "type": "BEHAVIORAL",
+      "description": "One text per day, ramped goal, gain incentive, weekly goal time period."
+    },
+    {
+      "name": "2RLD",
+      "type": "BEHAVIORAL",
+      "description": "Two texts per day, ramped goal, loss incentive, daily goal time period."
+    },
+    {
+      "name": "2RLW",
+      "type": "BEHAVIORAL",
+      "description": "Two texts per day, ramped goal, loss incentive, weekly goal time period."
+    },
+    {
+      "name": "2RGD",
+      "type": "BEHAVIORAL",
+      "description": "Two texts per day, ramped goal, gain incentive, daily goal time period."
+    },
+    {
+      "name": "2RGW",
+      "type": "BEHAVIORAL",
+      "description": "Two texts per day, ramped goal, gain incentive, weekly goal time period."
+    },
+    {
+      "name": "1FLD",
+      "type": "BEHAVIORAL",
+      "description": "One text per day, fixed goal, loss incentive, daily weekly goal time period."
+    },
+    {
+      "name": "1FLW",
+      "type": "BEHAVIORAL",
+      "description": "One text per day, fixed goal, loss incentive, weekly goal time period."
+    },
+    {
+      "name": "1FGD",
+      "type": "BEHAVIORAL",
+      "description": "One text per day, fixed goal, gain incentive, daily goal time period."
+    },
+    {
+      "name": "1FGW",
+      "type": "BEHAVIORAL",
+      "description": "One text per day, fixed goal, gain incentive, weekly goal time period."
+    },
+    {
+      "name": "2FLD",
+      "type": "BEHAVIORAL",
+      "description": "Two texts per day, fixed goal, loss incentive, daily goal time period."
+    },
+    {
+      "name": "2FLW",
+      "type": "BEHAVIORAL",
+      "description": "Two texts per day, fixed goal, loss incentive, weekly goal time period."
+    },
+    {
+      "name": "2FGD",
+      "type": "BEHAVIORAL",
+      "description": "Two texts per day, fixed goal, gain incentive, daily goal time period."
+    },
+    {
+      "name": "2FGW",
+      "type": "BEHAVIORAL",
+      "description": "Two texts per day, fixed goal, gain incentive, weekly goal time period."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 1\\) Males or females age 13 to 22 years.\n* 2\\) Overweight or obese (BMI \u226585th percentile for age/sex, or \u226525 kg/m2 for participants \u226518 years)\n* 3\\) Diagnosis with prediabetes or type 2 diabetes\n* 4\\) Consent (subjects 18 and older), Parental/guardian permission (subjects 13-17), assent (subjects 13-17)\n* 5\\) Willingness to wear Fitbit during waking hours daily for duration of run-in and intervention.\n* 6\\) Possession of a smartphone.\n\nExclusion Criteria:\n\n* 1\\) Potential subject unable to speak or read in English\n* 2\\) Severe cognitive impairment\n* 3\\) Permanent or temporary physical disability that impairs ambulation or precludes engagement in MVPA\n* 4\\) Current pregnancy\n* 5\\) Previously-diagnosed or current restrictive or purging eating disorder\n* 6\\) Moderate to vigorous physical activity (MVPA) \\>30 minutes per day or Fitbit wear \\< 4 days during second week of 2-week run-in period",
+    "gender": "ALL",
+    "min_age": "13 Years",
+    "max_age": "22 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Children's Hospital of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in Moderate to Vigorous Physical Activity (MVPA)",
+      "timeFrame": "12 weeks",
+      "description": "Effects of time spent in MVPA was measured by assessing the change in weekly mean minutes in MVPA per day from baseline"
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)"
+  ],
+  "start_date": "2021-11-16",
+  "completion_date": "2024-10-04",
+  "last_updated": "2025-10-11"
+}

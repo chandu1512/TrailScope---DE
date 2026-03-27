@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT00085839",
+  "brief_title": "Erlotinib vs. Standard Chemotherapy in Patients With Advanced Non-small Cell Lung Cancer (NSCLC) and Eastern Cooperative Oncology Group (ECOG)Performance Status (PS) 2",
+  "official_title": "A Randomized Phase II Study of Single Agent Erlotinib [Tarceva (TM), OSI-774] Versus Standard Chemotherapy in Patients With Previously Untreated Advanced NSCLC and a Poor Performance Status",
+  "brief_summary": "The purpose of this noncomparative study is to obtain preliminary estimates of the efficacy of erlotinib and standard chemotherapy in patients with advanced, previously untreated nonsmall cell lung cancer (NSCLC) and an Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 2. The study will also evaluate the safety of single-agent erlotinib in this patient population.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 103,
+  "conditions": [
+    "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Tarceva (Trademark) (erlotinib HCl, OSI-774)",
+      "type": "DRUG",
+      "description": "Erlotinib tablets administered orally, 150 mg/day (starting dose) or 100 mg/day (reduced dose), continuous therapy"
+    },
+    {
+      "name": "Combination carboplatin and paclitaxel",
+      "type": "DRUG",
+      "description": "Paclitaxel 200 mg/m\\^2 IV infusion over 3 hours and carboplatin AUC 6 mg/mL x min IV over 15 - 30 minutes, both given on Day 1 every 21 days for 4 cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Stage IIIB or IV Nonsmall cell lung cancer (NSCLC)\n* No prior chemotherapy\n* Eastern Cooperative Oncology Group (ECOG) Performance Status 2\n* Clinically or radiologically measurable disease per RECIST criteria\n\nExclusion Criteria:\n\n* Gastro-intestinal abnormalities\n* Any concurrent anticancer therapy\n* Prior treatment with epidermal growth factor receptor (EGFR) inhibitors of any kind\n* Other active malignancies\n* Uncontrolled brain metastases\n* Severe abnormalities of the cornea\n* Significant cardiac disease",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Hematology/Oncology Associates",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival",
+      "timeFrame": "Until time of disease progression (maximum 5 months)",
+      "description": "Median time until disease progression. Disease progression defined as radiological and/or symptomatic disease progression or death in absence of progression."
+    }
+  ],
+  "sponsor": "OSI Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2004-02",
+  "completion_date": "2007-03",
+  "last_updated": "2012-08-06"
+}

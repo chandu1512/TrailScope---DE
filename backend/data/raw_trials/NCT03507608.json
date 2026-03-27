@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT03507608",
+  "brief_title": "Assessing Induction of Double Strand Breaks With Androgen Receptor Partial Agonist in Patients on Androgen Suppression",
+  "official_title": "Randomized Trial Assessing Induction of Double Strand Breaks With Androgen Receptor Partial Agonist in Patients on Androgen Suppression",
+  "brief_summary": "This is a prospective, single-center, two-phase study to assess the efficacy of single pulsed-dose flutamide in creating double strand breaks (DSBs) in prostate cancer within patients receiving central androgen suppression and brachytherapy.",
+  "detailed_description": "This is a prospective, single-center, two-phase study to assess the efficacy of single pulsed-dose flutamide in creating DSBs (double strand breaks) in prostate cancer within patients receiving central androgen suppression and brachytherapy. The initial phase is a 6-patient single-arm run-in phase to test feasibility and rule out futility of the intervention. All patients within the run-in phase will receive 50mg flutamide prior to brachytherapy and prostatic biopsy. If futility is ruled out (\\>1 patients with DSBs on biopsy), then accrual will continue in the randomized, double-blind phase. Subjects will be randomized in a 2:1 ratio (12:6 patients), for an all-trial total of 18 patients receiving flutamide vs 6 patients receiving placebo.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "EARLY_PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 25,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Flutamide",
+      "type": "DRUG",
+      "description": "50mg flutamide prior to brachytherapy and prostatic biopsy"
+    },
+    {
+      "name": "Placebo",
+      "type": "OTHER",
+      "description": "placebo prior to brachytherapy and prostatic biopsy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed prostate cancer\n* At least one biopsy core with Gleason 7 or higher disease\n* The patient has decided to undergo brachytherapy plus androgen suppression as treatment modality for his prostate cancer (with or without supplemental external beam radiation)\n* Suitable volume of disease for biopsy:\n* clinically palpable disease corresponding to (ipsilateral to) any involved core on biopsy\n* Signed study-specific consent form prior to registration\n\nExclusion Criteria:\n\n* Known hypersensitivity or allergic response to flutamide\n* Severe hepatic impairment\n* Major medical or psychiatric illness which, in the investigator's opinion, would prevent completion of treatment and would interfere with follow up.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "SKCCC at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Fold-change Post Flutamide Exposure",
+      "timeFrame": "Post Flutamide exposure up to 12 hours",
+      "description": "To confirm DNA double-strand breaks occur in prostate cancer tissue following pulse-dose flutamide administration in patients who are androgen suppressed. A value less than 1 indicates a decrease and a value greater than 1 indicates an increase."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Patrick C. Walsh Fund"
+  ],
+  "start_date": "2019-05-10",
+  "completion_date": "2025-07-03",
+  "last_updated": "2025-09-25"
+}

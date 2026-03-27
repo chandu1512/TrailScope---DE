@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT02073123",
+  "brief_title": "Study of IDO Inhibitor in Combination With Checkpoint Inhibitors for Adult Patients With Metastatic Melanoma",
+  "official_title": "A Phase 1/2 Study of the Concomitant Administration of Indoximod Plus Immune Checkpoint Inhibitors for Adult Patients With Advanced or Metastatic Melanoma",
+  "brief_summary": "To evaluate the preliminary efficacy of the established dose of indoximod in combination with immune checkpoint inhibition as measured by the best overall response rate (ORR) (complete response (CR) + partial response (PR))across both standard of care agents administered sequentially in patients with unresectable stage III or stage IV melanoma",
+  "detailed_description": "The incidence of melanoma is increasing. Based upon data obtained between 2004 and 2006, the lifetime probability of developing melanoma in the United States is estimated to be 1 in 37 for men and 1 in 56 for women. In the United States, melanoma is the fifth leading cancer in men and the seventh in women. Locally confined, fully-resectable disease may be curable with current therapy; but Stage IV metastatic disease (or relapsed/recurrent disease) is highly refractory to therapy. Thus, experimental clinical trials provide an accepted treatment option for metastatic or relapsed/refractory melanoma.\n\nThe current study is designed as a prospective trial to evaluate the combination of indoximod and checkpoint inhibitors in adult patients with metastatic melanoma. Ipilimumab, pembrolizumab and nivolumab will be used at the recommended approved doses for this indication.\n\nThe current trial will be done in two phases: a Phase 1b dose escalation of indoximod in combination with ipilimumab, starting at half the recommended single-agent dose, to establish the recommended Phase 2 dose for the combination.\n\nThis will be followed by a three arm expansion study testing a fixed dose of indoximod (at the recommended Phase 2 dose) combined with standard-dose ipilimumab, pembrolizumab or nivolumab.\n\nTreatment will be administered on an outpatient basis. No investigational or commercial cancer directed agents or therapies other than those described below may be administered.\n\nSafety assessment will follow the guidelines provided in the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) Version.4.03.\n\nPatients will be followed both clinically and radiographically starting 12 weeks after initiation of treatment then every 8 weeks for tumor evaluation. Post-treatment scans will be compared to the baseline scan and responses will be assessed based using mWHO and immune related response criteria (irRC) described by Wolchok et al. (Wolchok et al., 2009).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 132,
+  "conditions": [
+    "Metastatic Melanoma",
+    "Stage III Melanoma",
+    "Stage IV Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Indoximod",
+      "type": "DRUG",
+      "description": "Initial dose of 600mg BID by mouth with escalation planned to 1200mg BID by mouth\n\nDose escalation:\n\n* If 0 of the 3 subjects forming the first cohort experience RLT, 1200mg BID cohort will be enrolled\n* If 1 of the 3 subjects in any cohort experiences a RLT, then enrollment into that cohort will increase to a total of 6 subjects\n* If \\> 1 of the 3-6 subjects experience a RLT, then the MTD has been exceeded and further enrollment into the cohort will cease\n* If \\>1 subject at 600mg BID experiences a RLT, the dose will be de-escalated to 400mg BID. If \\>1 subject at this level experiences a RLT, one additional de-escalation to 200mg BID is allowed\n\nDosing cycles are 21 days in length during the combination immunotherapy component (first 4 cycles) and 28 days during indoximod monotherapy. Patients will continue until they experience disease progression or limiting toxicity\n\nPhase 2 Treatment Plan (Cohort 2) Will receive fixed dose of indoximod determined in phase 1"
+    },
+    {
+      "name": "Ipilimumab",
+      "type": "DRUG",
+      "description": "Ipilimumab administered intravenously at 3 mg/kg every three weeks for a total of four doses."
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Nivolumab administered intravenously at 240 mg every 2 weeks."
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Pembrolizumab administered intravenously at 2 mg/kg every three weeks."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Unresectable Stage III or Stage IV melanoma.\n* Patients must have measurable disease, defined as lesions that can be accurately measure in in 2 perpendicular diameters with at least one diameter \\> 20mm and the other \\>10mm on conventional CT or MRI or 10mm x 10 mm by spiral CT.\n* No systemic treatment in the previous 28 days.\n* Age \u226518 years. Because no dosing or adverse event data are currently available on the use of ipilimumab or indoximod in patients \\<18 years of age, children are excluded from this study.\n* ECOG performance status \u22642 (Karnofsky \u226560% )\n* Patients with known brain metastases will only be eligible after their tumors have been treated with definitive resection and/or radiotherapy and they are neurologically stable for at least 1 month off steroids.\n\nExclusion Criteria:\n\n* Patients who have had molecular targeted therapy (including vemurafenib) or radiotherapy within 4 weeks prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier.\n* Patients who have had prior therapy with immune checkpoint inhibition or or indoximod are excluded from the trial.\n* Any other cancer, unless the patient has been disease-free for \u22655 years\n* Patients with laboratory evidence of pancreatitis are excluded.\n* Patients with autoimmune disease\n* Chronic use of immune-suppressive drugs (ie, systemic corticosteroids used in the management of cancer or non-cancer related illnesses, eg, COPD).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Hershey Cancer Institue",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Incidence of Adverse Events as a Measure of Safety and Tolerability",
+      "timeFrame": "17 months",
+      "description": "Phase 1 component:\n\nEvaluate the safety (adverse events - type, incidence, severity, duration, causality and treatment intervention) of the combination of indoximod and ipilimumab when given concomitantly.\n\nThe safety and tolerability ipilimumab followed by Indoximod will be assessed by listing the overall incidence of AEs. The AEs will be summarized and classified by body system and by treatment group. The type, incidence, severity, and causality of each AE, the duration of the event, and any required treatment interventions will be tabulated. Physical examination results will be presented in the patient data listings. The DLT will be listed per dose level and treatment along with overall frequencies. The data from the expansion part (Phase II) will be used for this part of safety and tolerability assessment."
+    },
+    {
+      "measure": "Phase 2 Dosing",
+      "timeFrame": "22 months",
+      "description": "Phase 1 component:\n\nTo determine the recommended Phase 2 dose of indoximod in combination with ipilimumab in patients with unresectable melanoma.\n\nA minimum of nine patients will be treated depending on DLT. Each dose will be administered to a cohort of 3 patients. If 0 out of 3 or less than 2 out of 6 patients experienced a DLT at any given dose level, the dose escalation will proceed to the next dose level. The MTD is generally the largest dose level at which at most 1 out of 6 patients experiences a DLT. IF DLT is not reached at the highest dose level (1200mg twice daily), no further escalation will proceed and this dose level will be declared the recommended Phase II dose"
+    },
+    {
+      "measure": "Overall Response Rate",
+      "timeFrame": "22 months",
+      "description": "Phase 2 component:\n\nTo evaluate the preliminary efficacy of the established dose of indoximod in combination with immune checkpoint inhibition as measured by the best overall response rate in patients with unresectable Stage III or Stage IV melanoma."
+    }
+  ],
+  "sponsor": "NewLink Genetics Corporation",
+  "collaborators": [],
+  "start_date": "2014-07",
+  "completion_date": "2019-07-03",
+  "last_updated": "2020-06-03"
+}

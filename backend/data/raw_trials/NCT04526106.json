@@ -1,0 +1,84 @@
+{
+  "nct_id": "NCT04526106",
+  "brief_title": "REFOCUS: A First-in-Human Study of Highly Selective FGFR2 Inhibitor, RLY-4008, in Patients With ICC and Other Advanced Solid Tumors",
+  "official_title": "A First-in-Human Study of Highly Selective FGFR2 Inhibitor, RLY-4008, in Patients With Intrahepatic Cholangiocarcinoma (ICC) and Other Advanced Solid Tumors",
+  "brief_summary": "This is a Phase 1/2, open-label, FIH study designed to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PDy), and antineoplastic activity of RLY-4008, a potent and highly selective FGFR2 inhibitor, in patients with unresectable or metastatic cholangiocarcinoma (CCA) and other solid tumors. The study consists of 4 parts: a dose escalation (Part 1), a dose expansion (Part 2), and an extension (Part 3) and a rollover (Part 4).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 490,
+  "conditions": [
+    "FGFR2 Amplification",
+    "FGFR2 Gene Mutation",
+    "FGFR2 Gene Fusion/Rearrangement",
+    "FGFR2 Gene Translocation",
+    "FGFR2 Gene Activation",
+    "Intrahepatic Cholangiocarcinoma",
+    "Cholangiocarcinoma",
+    "Other Solid Tumors, Adult"
+  ],
+  "interventions": [
+    {
+      "name": "RLY-4008",
+      "type": "DRUG",
+      "description": "RLY-4008 is an oral inhibitor of FGFR2"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria\n\n* Histologically or cytologically confirmed unresectable or metastatic solid tumor\n* Documented FGFR2 gene fusion, mutation, or amplification per local testing of blood and/or tumor\n* Patient must have measurable disease per RECIST v1.1\n* Patient has ECOG performance status of 0-1\n* Patient must have disease that is refractory to standard therapy, disease that has not adequately responded to standard therapy, disease for which standard or curative therapy does not exist, or the patient must be intolerant to or have declined standard therapy\n* Part 2 dose expansion patients with Cholangiocarcinoma:\n\n  * Group 1: CCA patients with an FGFR2 fusion previously treated with an FGFRi\n  * Group 2: CCA patients with an FGFR2 fusion with prior chemotherapy but not previously treated with an FGFRi\n  * Group 6: CCA patients with an FGFR2 fusion with no prior chemotherapy and not previously treated with an FGFRi. Prior adjuvant/neo-adjuvant treatment completed \\&amp;gt;6 months before enrollment is acceptable. Up to 2 cycles of palliative chemotherapy are allowed during screening\n  * Group 7: CCA patients with an FGFR2 mutation or amplification and not previously treated with an FGFRi. Note: For Group 7, patients with confirmed diagnosis of unresectable or metastatic CCA with an FGFR2 fusion are not eligible.\n* Part 2 dose expansion patients with other solid tumors (NOT Cholangiocarcinoma):\n\n  * Group 3: Non-CCA patients with an FGFR2 fusion and not previously treated with an FGFRi.\n  * Group 4: Non-CCA patients with an FGFR2 amplification and not previously treated with an FGFRi.\n  * Group 5: Non-CCA patients with an FGFR2 mutation and not previously treated with an FGFRi\n* Part 3 extension:\n\n  o CCA patients with an FGFR2 fusion with prior chemotherapy but not previously treated with an FGFRi\n* Part 4:\n\n  * Patient is receiving RLY-4008 on RLY-4008-101 study and benefiting from treatment as assessed by the investigator.\n\nKey Exclusion Criteria\n\n* Parts 1, 2, and 3\n\n  * Ongoing, clinically significant FGFRi-induced retinal detachment or an ongoing clinically significant corneal or retinal disorder\n  * Patient does not have adequate organ function (defined in protocol)\n  * Patient has active infection, including human immunodeficiency virus (HIV), hepatitis B virus (HBV), and/or hepatitis C virus (HCV) (defined in protocol). Patients with well-controlled HBV are eligible (defined in protocol).\n  * QT interval corrected using Fridericia\\&amp;#39;s formula (QTcF) \\&amp;gt; 480 msec or history of prolonged QT syndrome, Torsades de pointes or familial history of prolonged QT syndrome\n  * Clinically significant, uncontrolled cardiovascular disease\n  * CNS metastases or primary CNS tumor that is associated with progressive neurologic symptoms\n* Part 4:\n\n  * Patient has permanently discontinued treatment with RLY-4008 for any reason before enrolling into Part 4.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1 and Part 4: Number of patients with adverse events and serious adverse events",
+      "timeFrame": "Every cycle (4-week cycles) until study discontinuation, approximately 24 months",
+      "description": ""
+    },
+    {
+      "measure": "Part 1: Determination of maximum tolerated dose (MTD) and recommended Phase 2 dose (RP2D) of RLY-4008",
+      "timeFrame": "Cycle 1 (4-week cycle) of treatment for MTD and at the end of every cycle (4-week cycles) for RP2D until study discontinuation, approximately 24 months",
+      "description": ""
+    },
+    {
+      "measure": "Part 2 and Part 3: Objective Response Rate (ORR) assessed by Independent Review Committee per RECIST v1.1",
+      "timeFrame": "Approximately every 8 weeks during treatment and every 12 weeks after the last dose in the absence of progressive disease, approximately 36 months",
+      "description": ""
+    },
+    {
+      "measure": "Part 4: Number of patients with dose interruptions",
+      "timeFrame": "Every 28-day cycle until end of treatment, approximately 24 months.",
+      "description": ""
+    },
+    {
+      "measure": "Part 4: Number of patients with dose reductions",
+      "timeFrame": "Every 28-day cycle until end of treatment, approximately 24 months.",
+      "description": ""
+    },
+    {
+      "measure": "Part 4: Number of patients with dose discontinuations",
+      "timeFrame": "Every 28-day cycle until end of treatment, approximately 24 months.",
+      "description": ""
+    }
+  ],
+  "sponsor": "Elevar Therapeutics",
+  "collaborators": [],
+  "start_date": "2020-09-02",
+  "completion_date": "2025-09-05",
+  "last_updated": "2026-02-25"
+}

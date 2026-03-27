@@ -1,0 +1,123 @@
+{
+  "nct_id": "NCT06586515",
+  "brief_title": "MOONRAY-01, A Study of LY3962673 in Participants With KRAS G12D-Mutant Solid Tumors",
+  "official_title": "A Phase 1a/1b Trial of LY3962673 in Participants With KRAS G12D-Mutant Solid Tumors",
+  "brief_summary": "The main purpose of this study is to assess safety \\& tolerability and antitumor activity of LY3962673 as monotherapy and in combination with other chemotherapy agents in participants with KRAS G12D-mutant advanced solid tumor types. The study is expected to last approximately 5 years.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 630,
+  "conditions": [
+    "Pancreatic Ductal Adenocarcinoma",
+    "Non-small Cell Lung Cancer",
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "LY3962673",
+      "type": "DRUG",
+      "description": "Administered orally."
+    },
+    {
+      "name": "Cetuximab",
+      "type": "DRUG",
+      "description": "Administered intravenously."
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Administered intravenously."
+    },
+    {
+      "name": "nab-paclitaxel",
+      "type": "DRUG",
+      "description": "Administered intravenously."
+    },
+    {
+      "name": "Oxaliplatin",
+      "type": "DRUG",
+      "description": "Administered intravenously."
+    },
+    {
+      "name": "leucovorin",
+      "type": "DRUG",
+      "description": "Administered intravenously."
+    },
+    {
+      "name": "Irinotecan",
+      "type": "DRUG",
+      "description": "Administered intravenously."
+    },
+    {
+      "name": "5-fluorouracil",
+      "type": "DRUG",
+      "description": "Administered intravenously."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have Histological or cytologically proven diagnosis of locally advanced, unresectable, and/or metastatic cancer and measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1.\n* Have evidence of KRAS G12D mutation in tumor tissue or circulating tumor DNA\n* Have an ECOG performance status of \u2264 1\n* Must have received \u2265 1 prior line of systemic chemotherapy for advanced or metastatic disease\n* Participants with asymptomatic or treated CNS disease may be eligible.\n\nExclusion Criteria:\n\n* Have known active CNS metastases and/or carcinomatous meningitis.\n* Have any unresolved toxicities from prior therapy greater than National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v5.0 Grade 1.\n* Have significant cardiovascular disease as unstable angina or acute coronary syndrome, history of myocardial infarction, known reduced left ventricular ejection fraction.\n* Have active uncontrolled systemic bacterial, viral, fungal, or parasitic infection.\n* Have known active hepatitis B virus (HBV) and hepatitis C virus (HCV).\n* Have other active malignancy unless in remission with life expectancy greater than (\\>) 2 years.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Medical Center (UPMC) - Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants with One or More Treatment Emergent Adverse Events (TEAEs) and Serious Adverse Event(s) (SAEs) Considered by the Investigator to be Related to Study Drug Administration",
+      "timeFrame": "Baseline through 5 years",
+      "description": "A summary of TEAEs, SAEs and other non-serious adverse events (AEs), regardless of causality, will be reported in the Reported Adverse Events module."
+    },
+    {
+      "measure": "Phase 1a: Number of Participants with DLT",
+      "timeFrame": "During the first 28-day cycle of LY3962673 treatment",
+      "description": ""
+    },
+    {
+      "measure": "Phase 1a: Number of Participants with DLT Equivalent Toxicities",
+      "timeFrame": "During the first 28-day cycle of LY3962673 treatment",
+      "description": ""
+    },
+    {
+      "measure": "Phase 1b: Overall Response Rate (ORR)",
+      "timeFrame": "Up to approximately 5 years",
+      "description": "ORR per investigator assessed Response Evaluation Criteria in Solid Tumors, version 1.1 (RECIST 1.1)"
+    },
+    {
+      "measure": "Phase 1b: Best Overall Response (BOR)",
+      "timeFrame": "Up to approximately 5 years",
+      "description": "BOR per investigator assessed RECIST 1.1"
+    },
+    {
+      "measure": "Phase 1b: Duration of Response (DOR)",
+      "timeFrame": "Up to approximately 5 years",
+      "description": "DOR per investigator assessed RECIST 1.1"
+    },
+    {
+      "measure": "Phase 1b: Time to Response (TTR)",
+      "timeFrame": "Up to approximately 5 years",
+      "description": "TTR per investigator assessed RECIST 1.1"
+    },
+    {
+      "measure": "Phase 1b: Disease Control Rate (DCR)",
+      "timeFrame": "Up to approximately 5 years",
+      "description": "DCR per investigator assessed RECIST 1.1"
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2024-09-12",
+  "completion_date": "2029-03",
+  "last_updated": "2025-12-16"
+}

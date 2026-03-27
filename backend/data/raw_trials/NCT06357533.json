@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT06357533",
+  "brief_title": "Phase III, Open-label, Study of First-line Dato-DXd in Combination With Rilvegostomig for Advanced Non-squamous NSCLC With High PD-L1 Expression (TC \u2265 50%) and Without Actionable Genomic Alterations",
+  "official_title": "A Phase III, Randomised, Open-label, Global Study of Datopotamab Deruxtecan (Dato-DXd) in Combination With Rilvegostomig or Rilvegostomig Monotherapy Versus Pembrolizumab Monotherapy for the First-line Treatment of Participants With Locally-advanced or Metastatic Non-squamous NSCLC With High PD-L1 Expression (TC \u2265 50%) and Without Actionable Genomic Alterations (TROPION-Lung10)",
+  "brief_summary": "The purpose of this study is to evaluate efficacy and safety of Dato-DXd in combination with rilvegostomig or rilvegostomig monotherapy compared with pembrolizumab monotherapy as a first line therapy in participants with locally advanced or metastatic non-squamous NSCLC with high PD-L1 expression (TC \u2265 50%) and without actionable genomic alterations.",
+  "detailed_description": "This is a Phase III, randomized, open-label, Global Study of Datopotamab Deruxtecan (Dato-DXd) in Combination With Rilvegostomig or Rilvegostomig monotherapy compared with Pembrolizumab monotherapy for the first-line treatment of participants with locally-advanced or metastatic non-squamous NSCLC with high PD-L1 expression (TC \u2265 50%) and without actionable genomic alterations.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 675,
+  "conditions": [
+    "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Datopotamab Deruxtecan",
+      "type": "DRUG",
+      "description": "Datopotamab Deruxtecan IV (intravenous)"
+    },
+    {
+      "name": "Rilvegostomig",
+      "type": "DRUG",
+      "description": "Rilvegostomig IV (intravenous)"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Pembrolizumab IV (intravenous)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically documented non-squamous NSCLC.\n* Stage IIIB or IIIC or Stage IV metastatic NSCLC (according to Edition 8 of the AJCC staging manual) not amenable to curative surgery or definitive chemoradiation.\n* Absence of sensitising EGFR mutations, and ALK and ROS1 rearrangements, and absence of documented local test result for any other known genomic alteration for which there are locally approved and available targeted first-line therapies.\n* Must provide tumor sample to determine PD-L1 status, TROP2 status and other biomarkers.\n* Known tumour PD-L1 expression status defined as TC \u2265 50%\n* At least one lesion, not previously irradiated that qualifies as a RECIST 1.1 target lesion at baseline\n* ECOG performance status of 0 or 1\n* Adequate bone marrow reserve and organ function\n\nExclusion Criteria:\n\n* Prior systemic therapy for advanced/metastatic NSCLC.\n* Squamous cell histology, or predominantly squamous cell histology NSCLC; mixed small cell lung cancer; NSCLC histology, sarcomatoid variant.\n* History of another primary malignancy within 3 years\n* Active or prior documented autoimmune or inflammatory disorders (with exceptions)\n* Any evidence of severe or uncontrolled disease that makes it undesirable for the participant to participate in the study or that would jeopardies compliance with the protocol.\n* Has clinically significant third-space fluid retention (for example pleural effusion) and is not amenable for repeated drainage.\n* History of any ILD/pneumonitis, including radiation pneumonitis (apart from radiation pneumonitis that did not require steroids), or drug-induced ILD/pneumonitis, has current or suspected ILD/pneumonitis that cannot be ruled out by imaging at screening.\n* Has significant pulmonary function compromise, as determined by the investigator\n* Spinal cord compression, or brain metastases unless participant treated and no longer symptomatic, radiologically stable, and who require no treatment with corticosteroids or anticonvulsants.\n* History of leptomeningeal carcinomatosis\n* Known clinically significant corneal disease\n* Active infection with TB, HBV, HCV, Hepatitis A, or known HIV infection that is not well controlled\n* History of active primary immunodeficiency",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Annapolis",
+      "state": "Maryland",
+      "zip": "21401",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Research Site",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": "SUSPENDED"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS) in TROP2 biomarker positive participants.",
+      "timeFrame": "Approximately 4 years",
+      "description": "PFS is defined as time from randomisation until progression per RECIST 1.1 as assessed by BICR, or death due to any cause.\n\nThe analysis will include all randomised participants, as randomised, regardless of whether the participant withdraws from randomised therapy, receives another anti-cancer therapy or clinically progresses prior to RECIST 1.1 progression, in the following population:\n\n\u2022 TROP2 biomarker positive population\n\nThe measure of interest is the HR of PFS. PFS by investigator will be reported as a sensitivity analysis."
+    },
+    {
+      "measure": "Overall Survival (OS) in TROP2 biomarker positive participants.",
+      "timeFrame": "Approximately 6 years",
+      "description": "OS is defined as the time from randomisation until the date of death due to any cause.\n\nThe analysis will include all randomised participants, as randomised, regardless of whether the participant withdraws from randomised therapy or receives another anti-cancer therapy, in the following population:\n\n\u2022 TROP2 biomarker positive population The measure of interest is the HR of OS."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [
+    "Daiichi Sankyo"
+  ],
+  "start_date": "2024-04-11",
+  "completion_date": "2029-12-28",
+  "last_updated": "2026-03-13"
+}

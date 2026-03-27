@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT05113264",
+  "brief_title": "'Penny', a SMS Text-based Chatbot Intervention for Medication Adherence and Side Effect Management Among Patients With GI Cancers",
+  "official_title": "A Feasibility Study of Electronic Medication Adherence Reminders and Side Effect Management by an Artificial Intelligence ChatBot Via Mobiles Phones Among Patients With Gastrointestinal Cancers",
+  "brief_summary": "There has been a dramatic paradigm shift over the last 25 years within cancer care due to the onset of many new targeted therapies and a transition from inpatient to outpatient care. Hand in hand with this shift has been the increased development and use of oral anti-cancer drugs, including cytotoxic chemotherapies that patients self-administer at home versus administration of an intravenous product at an infusion center. One of the main drivers for the growth and popularity of oral chemotherapy has been patient preference. However, an incorrect assumption exists among patients that oral therapy is associated with minimal side effects. According to the 2008 NCCN Task Force Report on Oral Chemotherapy, \"some patients may incorrectly assume that oral chemotherapy is not \"real\" chemotherapy and is more akin to taking a vitamin or antibiotic. Furthermore, patients must understand that oral equivalents of cytotoxic therapies, such as capecitabine, have side effects that are similar to their parenteral counterparts in this case, fluorouracil. The need to monitor for side effects and titrate dosages increases the complexity of oral chemotherapy regimens\".\n\nSelf-administration of these complex oral therapies causes patients to become more autonomous in their care, without medical supervision of doses between office visits. Due to the lack of oversight, there is a concern of compromised efficacy if patients take less than the prescribed doses, or increased, sometimes life-threatening, toxicity, often between office visits, if more than the prescribed dose is taken. Both daily dose and schedule can be complicated for patients to comprehend and follow.\n\nCapecitabine is a particularly complex oral chemotherapy, with 2 pill dose sizes, dosing by Body Surface Area (BSA), twice a day dosing, and days of on therapy and days off of therapy. For this reason, capecitabine has been chosen as the backbone for regimens that will be studied. As noted in section 5.3 capecitabine might be combined with other oral chemotherapies, Parenteral chemotherapy or radiation therapy.\n\nThe investigators believe there is an opportunity in this space to improve oral chemotherapy adherence by walking patients through how and when to take their oral therapies remotely, as well as to better manage toxicity by gathering more information from the patient during their treatment.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "Gastrointestinal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "'Penny' via Memora Platform",
+      "type": "DEVICE",
+      "description": "The overall objective of this study is to evaluate the feasibility and safety of a novel SMS text- based intervention of an Algorithmically Driven Augmented Intelligence chatbot, \"Penny\". This chat bot will walk patients through how and when to take their oral chemotherapies, as well as provide real-time management of side effects Grade II or less, and escalate to the clinical team side effects of Grade III or more, as based on the Common Terminology Criteria for Adverse Events (CTCAE), for patients that have a gastrointestinal (GI) cancer."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adults (age \\>18 years) with a diagnosis of a GI cancer, that is receiving one of the below treatments:\n\n  * Capecitabine ONLY\n  * Capecitabine concurrent with Radiation Therapy\n  * Capecitabine with Temozolomide\n  * Capecitabine with Oxaliplatin\n  * Capecitabine with Mitomycin and concurrent Radiation Therapy\n\nExclusion Criteria:\n\n\\-",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Patient Safety of the Patient - Penny Chatbot interactions with patients will be assessed for accuracy of medication directions and triaging of symptoms reported and number of incorrect interactions between Penny and Patients will be measured.",
+      "timeFrame": "12 month",
+      "description": "Penny will triage patient-reported side effects based on CTCAE guidelines. If the side effect is determined to be a grade one or two, patients will be walked through self-care by the bot utilizing pre-determined algorithms. If the side effect is deemed grade three or higher or if the chatbot does not recognize the symptom to triage, an Epic inbox message will trigger to the patients care team to follow-up directly with the patient. While the chatbot will be responding independently, members of the investigative team will monitor and audit ALL conversations between the patient and Penny to validate its safety, track for any information that may be relayed to the patient incorrectly and intervene upon these events to guarantee patient safety"
+    },
+    {
+      "measure": "Medication Compliance - Will assess accuracy of medication reminders to patients and patient adherence to prescribed medication dosing and schedule",
+      "timeFrame": "12 months",
+      "description": "Over an approximate three-month treatment period, Penny will guide patients through when and how to take their oral chemotherapies as well as any supportive medications designed to improve regimen compliance. Penny will text patient to walk them through what medications to take, how to take them and any other supplemental pieces involved with their medication regimen based on specified instructions outlined by their providers, i.e. specific timing of medications in relation to meals. After the three-month treatment period, medication compliance will be assessed by looking at how many times the patient responds 'taken' after begin prompted with a medication reminder."
+    },
+    {
+      "measure": "Patient Engagement with the Penny chatbot",
+      "timeFrame": "12 months",
+      "description": "The intervention will be measured longitudinally by patient engagement with Penny using a threshold of 80%. That number will be calculated by the following formula: Number of patient responses within two hours of Penny initiating a conversation divided by the total number times Penny initiates a conversation."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2021-08-02",
+  "completion_date": "2024-11-08",
+  "last_updated": "2024-12-12"
+}

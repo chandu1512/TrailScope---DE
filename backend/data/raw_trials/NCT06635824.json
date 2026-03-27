@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT06635824",
+  "brief_title": "Trial to Evaluate Acasunlimab and Pembrolizumab Combination Superiority Over Standard of Care Docetaxel in Non-Small Cell Lung Cancer (ABBIL1TY NSCLC-06)",
+  "official_title": "A Prospective, Open-Label, Randomized, Phase 3 Trial of Acasunlimab (GEN1046) in Combination With Pembrolizumab Versus Docetaxel in Subjects With PD-L1 Positive Metastatic Non-Small Cell Lung Cancer After Treatment With a PD-1/PD-L1 Inhibitor and Platinum-Containing Chemotherapy (ABBIL1TY NSCLC-06)",
+  "brief_summary": "This is a multicenter, randomized, open-label, international, Phase 3 trial to evaluate the efficacy and safety of acasunlimab in combination with pembrolizumab versus docetaxel (standard of care) in participants with locally advanced (unresectable stage IIIB/C) or programmed death ligand 1 (PD-L1)-positive metastatic non-small cell lung cancer (NSCLC) who have been treated with programmed cell death protein 1 (PD-1)/PD-L1 inhibitor and platinum-containing chemotherapy, administered either in combination or sequentially in the locally advanced (unresectable stage IIIB/C) or metastatic setting.",
+  "detailed_description": "The goal of this trial is to determine the efficacy and safety of acasunlimab (an experimental antibody also known as GEN1046 or DuoBody\u00ae PDL1x4-1BB) in combination with pembrolizumab (an antibody known as KEYTRUDA\u00ae) compared to that of docetaxel (a standard of care chemotherapy). During the trial, the participant's quality of life will also be evaluated using industry-standard scales of measurement. To be eligible, participants must have:\n\n1. non-small cell lung cancer that are locally advanced, unresectable stage IIIB/C or has metastasized (spread)\n2. tumors that are positive for the PD-L1 protein (a biomarker that may be predictive of response to therapy)\n3. been previously treated with a PD-1/PD-L1-inhibitor and a platinum-containing cancer therapy administered in combination or sequentially (irrespective of the order).\n\nOther eligibility criteria will also apply.\n\nParticipants will be assigned to 1 of 2 active therapies, also known as treatment arms, as follows:\n\n* Acasunlimab (100 milligrams \\[mg\\]) and pembrolizumab (400 mg) once every 6 weeks (Q6W), or\n* Docetaxel 75 milligrams per meter squared (mg/m\\^2) once every 3 weeks (Q3W).\n\nThe estimated trial duration for a participant will vary but may be up to 5 years, consisting of:\n\n* An optional 3-month pre-screening period\n* A 28-day screening period\n* Up to 2 years of treatment\n* A 90-day safety follow-up period\n* Post-treatment follow-up.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 191,
+  "conditions": [
+    "PD-L1-positive, Locally Advanced (Unresectable Stage IIIB/C) or Metastatic NSCLC"
+  ],
+  "interventions": [
+    {
+      "name": "Acasunlimab",
+      "type": "DRUG",
+      "description": "IV infusion"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "IV infusion"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "IV infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Participant has histologically or cytologically confirmed locally advanced (unresectable stage IIIB/C) or metastatic NSCLC (stage IV) with known subtype.\n* Participant has progressed radiographically on or after receiving:\n\n  * One prior line of therapy (PD-1/PD-L1 inhibitor and platinum-based chemotherapy concomitantly) in the locally advanced (unresectable stage IIIB/C) or metastatic disease setting; OR\n  * No more than 2 prior lines of therapy (PD-1/PD-L1 inhibitor and platinum-based chemotherapy sequentially, irrespective of the order) in the locally advanced (unresectable stage IIIB/C) or metastatic disease setting.\n* Participant must have positive tumor PD-L1 expression (tumor cells \u22651%) determined prospectively on a tumor sample from the locally advanced (unresectable stage IIIB/C) or metastatic setting at a sponsor-designated central laboratory.\n* Participant has measurable disease according to RECIST v1.1 as assessed by the investigator at baseline.\n* Participant has an Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 within 7 days of Cycle 1 Day 1.\n* Participant has a life expectancy of \u22653 months.\n* Participant must have adequate organ and bone marrow function, per laboratory test results within 7 days of trial treatment.\n\nKey Exclusion Criteria:\n\n* Documentation of known targetable epidermal growth factor receptor (EGFR) sensitizing mutations, anaplastic lymphoma kinase (ALK), RET proto-oncogene (RET), ROS proto-oncogene 1; receptor tyrosine kinase (ROS1) rearrangement, Kirsten rat sarcoma virus (KRAS), B-Raf proto-oncogene (BRAF) mutations, and MET proto-oncogene; receptor tyrosine kinase (MET) exon 14 skipping mutations/MET amplification. NOTE: MET amplification testing is optional based on local availability of the test.\n\n  * Participants with known KRAS/BRAF mutations are eligible for the trial if they do not have access to targeted therapies.\n* Participants with newly identified, untreated or unstable or symptomatic central nervous system (CNS) metastases or history of carcinomatous meningitis.\n* Prior treatment with docetaxel for NSCLC.\n* Prior treatment with a 4-1BB (CD137) targeted agent, any type of antitumor vaccine, autologous cell immunotherapy, or any unapproved immunotherapy.\n* Treatment with an anticancer agent within 28 days prior to the first dose of trial treatment.\n\nNote: Other protocol-defined inclusion and exclusion criteria may apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania Health System",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny General Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "Up to approximately 5 years",
+      "description": "OS is defined as the time from date of randomization to date of death due to any cause."
+    }
+  ],
+  "sponsor": "Genmab",
+  "collaborators": [],
+  "start_date": "2024-11-25",
+  "completion_date": "2028-09-30",
+  "last_updated": "2026-03-10"
+}

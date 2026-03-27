@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT02965755",
+  "brief_title": "Personalized Molecular Profiling in Cancer Treatment at Johns Hopkins",
+  "official_title": "Individualized Molecular Analyses Guide Efforts in Breast Cancer - Personalized Molecular Profiling in Cancer Treatment at Johns Hopkins",
+  "brief_summary": "The goal of this research study is to determine if we can obtain personalized genetic information from a subject's blood sample that is similar to that obtained from a tumor tissue sample, and if we can use that information to make treatment suggestions.",
+  "detailed_description": "The goal of this research study is to determine if we can obtain personalized genetic information from a subject's blood sample that is similar to that obtained from a tumor tissue sample, and if we can use that information to make treatment suggestions. As tumor samples can be difficult to collect, we hope to be able to collect similar genetic information from blood or urine samples that we find in tumor tissue. Ultimately, we hope to identify genes important to cancer cells that could potentially identify standard-of-care or research-based recommendations for therapy.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "Metastatic Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Treatment recommendation",
+      "type": "OTHER",
+      "description": "Depending on the results from the participant's archival tissue, a panel of Johns Hopkins investigators will meet to interpret the molecular and genetic profiling results in order to identify any actionable mutations to provide a personalized treatment recommendation for the patient."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male or Female\n* 18 years of age or older\n* Metastatic breast cancer and treatment with prior chemotherapy\n* Any clinical phenotype (Triple negative, Hormone receptor positive, human epidermal growth factor receptor 2 (HER2)-positive)\n* Patient must have received a metastatic tumor biopsy within 3 years prior to the date of the first planned blood sample for the study and have tissue available from this biopsy\n* Able to voluntarily provide informed consent\n\nExclusion Criteria:\n\n* Women who are pregnant or nursing",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287-0013",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny Health Network Cancer Institute",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Ability of genetically profiling of ptDNA as assessed by identifying the proportion of genetic alterations in tumor tissue",
+      "timeFrame": "1 year",
+      "description": "The proportion of genetic alterations in tumor tissue is detected via genetic profiling of ptDNA when those genetic alterations are present in the tumor at an allelic frequency \\>10%."
+    },
+    {
+      "measure": "Percentage of patients who cannot have NGS of metastatic site biopsy but have clinically actionable mutations detected via genetic profiling of ptDNA",
+      "timeFrame": "1 year",
+      "description": "Percentage of patients for which genetic profiling of ptDNA would be more feasible when a metastatic biopsy cannot be acquired."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Foundation Medicine",
+    "Avon Foundation",
+    "Biocept, Inc."
+  ],
+  "start_date": "2018-01-26",
+  "completion_date": "2026-06",
+  "last_updated": "2025-07-10"
+}

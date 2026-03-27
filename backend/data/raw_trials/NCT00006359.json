@@ -1,0 +1,96 @@
+{
+  "nct_id": "NCT00006359",
+  "brief_title": "Androgen Suppression Plus Radiation Therapy in Treating Patients With Prostate Cancer",
+  "official_title": "Phase II Trial of Androgen Suppression for 6 Months Combined With External Beam Radiotherapy (EBRT) With Brachytherapy (BT) Boost for Intermediate Risk Prostate Cancer",
+  "brief_summary": "RATIONALE: Androgens can cause the growth of prostate cancer cells. Drugs, such as leuprolide, goserelin, flutamide, or bicalutamide, may stop the adrenal glands from making androgens. Radiation therapy uses high-energy x-rays to damage tumor cells. Giving these drugs together with radiation therapy may kill more tumor cells.\n\nPURPOSE: This phase II trial is studying how well androgen suppression with either leuprolide or goserelin and either flutamide or bicalutamide together with radiation therapy works in treating patients with prostate cancer.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the feasibility of androgen-suppression therapy combined with external-beam radiotherapy and boost brachytherapy (EBRT+BT) in patients with intermediate-risk localized prostate cancer.\n* Determine the safety of EBRT+BT in these patients.\n* Determine, in a preliminary manner, the efficacy of EBRT+BT in terms of rate of local recurrence at 5 years, time to prostate-specific antigen failure, and time to first rectal/bladder injury, in these patients.\n\nOUTLINE: Patients receive either leuprolide intramuscularly or goserelin subcutaneously once every 12 weeks for a total of 24 weeks. Patients also receive either oral flutamide three times daily or oral bicalutamide once daily for 4 weeks.\n\nWithin 4 weeks after initiation of androgen-suppression therapy, patients undergo external-beam radiotherapy (EBRT) once daily, 5 days a week, for 5 weeks. At 2-4 weeks after completion of EBRT, patients undergo transrectal ultrasound-guided boost brachytherapy with implanted iodine I 125 or palladium Pd 103 seeds.\n\nPatients are followed every 3 months for 2 years and then every 6 months for 4 years.\n\nPROJECTED ACCRUAL: A total of 60 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 63,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "LHRH agonist",
+      "type": "DRUG",
+      "description": "Lupron: 22.5mg IM injection q 12 wks x 2 OR Zoladex: 10.8 mg subQ injection q 12 wks x 2"
+    },
+    {
+      "name": "antiandrogen",
+      "type": "DRUG",
+      "description": "flutamide 250 mg PO tid for 4 wks OR casodex 50 mg PO daily for 4 wks"
+    },
+    {
+      "name": "radiation therapy",
+      "type": "RADIATION",
+      "description": "4500 cGy total dose given days 1-5 for 5 weeks following initiation of androgen suppression (25 fractions)"
+    },
+    {
+      "name": "Brachytherapy boost",
+      "type": "RADIATION",
+      "description": "Iodine 125 0.3 to 0.5 U per seed OR palladium 103 1.04 to 1.4 U per seed as implant; prescribed dose of I-125 100 Gy (TG-43) and Pd-103 90 Gy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the prostate\n\n  * Must have one of the following prognostic factors:\n\n    * Stage T1-2, N0; prostate-specific antigen (PSA) \u2264 10 ng/mL; and Gleason score \\> 6\n    * Stage T1-2, N0; PSA \\> 10 ng/mL and \\< 20 ng/mL; and Gleason score \u2264 6\n    * Stage T3a, N0; PSA \u2264 10 ng/mL; and Gleason score \u2264 6\n* Prostate volume \\< 60 cc by transrectal ultrasound\n* No distant or nodal metastases\n\n  * No metastatic disease by bone scan, CT scan, or MRI\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nPerformance status:\n\n* ECOG 0-2\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin \u2264 1.5 times upper limit of normal\n\nRenal:\n\n* Not specified\n\nOther:\n\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No prior immunotherapy for prostate cancer\n\nChemotherapy:\n\n* No prior chemotherapy for prostate cancer\n\nEndocrine therapy:\n\n* Prior androgen-suppression therapy for up to 4 weeks duration allowed if initiated within 4 weeks of study radiotherapy\n* No other prior hormonal therapy\n\nRadiotherapy:\n\n* No prior radiotherapy for prostate cancer\n\nSurgery:\n\n* No prior surgery for prostate cancer\n* No prior transurethral resection of the prostate\n\nOther:\n\n* No prior alternative therapy (e.g., PC-SPES) for prostate cancer",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Beebe Medical Center",
+      "city": "Lewes",
+      "state": "Delaware",
+      "zip": "19958",
+      "status": ""
+    },
+    {
+      "facility": "CCOP - Christiana Care Health Services",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19718",
+      "status": ""
+    },
+    {
+      "facility": "St. Francis Hospital",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19805",
+      "status": ""
+    },
+    {
+      "facility": "Union Hospital Cancer Center at Union Hospital",
+      "city": "Elkton MD",
+      "state": "Maryland",
+      "zip": "21921",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey at the Cooper University Hospital - Voorhees",
+      "city": "Camden",
+      "state": "New Jersey",
+      "zip": "08103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Toxicity",
+      "timeFrame": "q 3 mon for 2 yrs post tx initiation",
+      "description": ""
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2000-09",
+  "completion_date": "2012-03",
+  "last_updated": "2016-07-15"
+}

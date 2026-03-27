@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT05134636",
+  "brief_title": "Text-based Intervention to Minimize the Time Burden of Routine Cancer Care",
+  "official_title": "Text-based Intervention to Minimize the Time Burden of Routine Cancer Care",
+  "brief_summary": "The primary objective is to test whether a text-based e-triage can safely minimize the time associated with routine cancer care by identifying patients who can proceed directly to their immunotherapy infusion without a preceding in-person office assessment.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 40,
+  "conditions": [
+    "Cancer",
+    "Solid Tumor",
+    "Patient Empowerment",
+    "Telemedicine"
+  ],
+  "interventions": [
+    {
+      "name": "Text triage",
+      "type": "OTHER",
+      "description": "The e-triage will consist of 16 questions, modified from the validated NCI Pro-CTCAETM, which will be sent to patients via WaytoHealth\u00a9's two-way texting system 96 hours prior to their scheduled immunotherapy infusion. Questions will pertain to common or emergent immune related adverse events as defined by the NCCN guidelines and two senior disease experts. Patients will be prompted via text to measure the presence and severity of symptoms over the week prior. A final question will be included to capture any additional symptoms patients wish to disclose."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Over 18 years of age\n* Initiating singe agent PDL-1/PD-1 targeted immune checkpoint blockade for any solid malignancy at Penn's Abramson Cancer Center\n* Access to a mobile phone with texting capabilities\n* ECOG performance status less than or equal to 2\n\nExclusion Criteria:\n\n* Non-English speaking\n* Unable to perform informed consent",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Perelman Center for Advanced Care",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Healthcare Time",
+      "timeFrame": "3 months",
+      "description": "Time spent commuting to, waiting for, and receiving healthcare over a 3 month follow up period."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2021-12-06",
+  "completion_date": "2022-12-12",
+  "last_updated": "2025-03-03"
+}

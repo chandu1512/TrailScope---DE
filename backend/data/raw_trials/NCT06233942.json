@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT06233942",
+  "brief_title": "Phase 1a/1b First-in-Human Study of BG-C9074 Alone and in Combination With Other Anticancer Therapies in Patients With Advanced Solid Tumors",
+  "official_title": "Phase 1a/1b Study of BG-C9074, an Antibody Drug Conjugate Targeting B7H4, as Monotherapy and in Combination With Other Anticancer Therapies in Patients With Advanced Solid Tumors",
+  "brief_summary": "This is a first-in-human, dose finding and dose expansion study to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics, and preliminary antitumor activity of BG-C9074 alone and in combination with other anticancer therapies in patients with advanced solid tumors.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 308,
+  "conditions": [
+    "Advanced Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "BG-C9074",
+      "type": "DRUG",
+      "description": "administered by intravenous infusion"
+    },
+    {
+      "name": "Tislelizumab",
+      "type": "DRUG",
+      "description": "administered by intravenous infusion"
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "administered by intravenous infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Able to provide a signed and dated written informed consent prior to any study-specific procedures, sampling, or data collection.\n2. Eastern Cooperative Oncology Group (ECOG) Performance Status \u2264 1.\n3. Participants with selected histologically or cytologically confirmed advanced, metastatic, and unresectable solid tumors who have previously received standard systemic therapy and whose cancer is not amenable to therapy with curative intent, and for whom further treatment is not available or not tolerated. Enrollment will be limited to participants with hormone receptor-positive/human epidermal growth factor receptor 2-negative (HR+/HER2-) breast cancer, cholangiocarcinoma (CCA), endometrial cancer, squamous non-small cell lung cancer (NSCLC), triple-negative breast cancer (TNBC), or ovarian cancer. Enrollment in the Japan cohort will be limited to participants with HR+/HER2- breast cancer, TNBC, endometrial cancer, or ovarian cancer.\n4. \u2265 1 measurable lesion per Response Evaluation Criteria in Solid Tumors, version 1.1 (RECIST v1.1)\n5. Able to provide an archived tumor tissue sample.\n6. Adequate bone marrow and organ function.\n7. Females of childbearing potential must be willing to use a highly effective method of birth control for the duration of the study, and for \u2265 7 months after the last dose of study drug(s).\n8. Nonsterile males must be willing to use a highly effective method of birth control for the duration of the study treatment period and for \u2265 4 months after the last dose of study drug(s).\n\nExclusion Criteria:\n\n1. Prior treatment with a B7 homolog 4 (B7H4)-targeting antibody-drug conjugate (ADC) or an ADC with a topoisomerase 1 inhibitor (TOP1i) payload.\n2. Active leptomeningeal disease or uncontrolled, untreated brain metastasis\n3. Any malignancy \u2264 2 years before the first dose of study treatment(s) except for the specific cancer under investigation in this study and any locally recurring cancer that has been treated with curative intent (eg, resected basal or squamous cell skin cancer, superficial bladder cancer, or carcinoma in situ of the cervix or breast).\n4. History of interstitial lung disease, \u2265 Grade 2 noninfectious pneumonitis, oxygen saturation at rest \\< 92%, or requirement for supplemental oxygen (including intermittent use) at baseline.\n5. Uncontrolled diabetes.\n6. Infection (including tuberculosis infection) requiring systemic (oral or intravenous) antibacterial, antifungal, or antiviral therapy \u2264 14 days before the first dose of study treatment(s).\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer At Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1a: Number of Participants with Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+      "timeFrame": "Approximately 3 years",
+      "description": "Number of participants with AEs and SAEs (as graded by the National Cancer Institute-Common Terminology Criteria for Adverse Events \\[NCI-CTCAE\\] Version \\[v\\] 5.0),, including findings from physical examinations, electrocardiograms (ECGs), laboratory assessments, and that meet protocol-defined dose-limiting toxicity criteria."
+    },
+    {
+      "measure": "Phase 1a: Maximum Tolerated Dose (MTD) or Maximum Administered Dose (MAD) of BG-C9074",
+      "timeFrame": "Approximately 18 months",
+      "description": "Defined as the highest dose evaluated for which the estimated toxicity rate is closest to the target toxicity rate of 28% or the highest dose administered, respectively"
+    },
+    {
+      "measure": "Phase 1a: Recommended Dose for Expansion (RDFE) of BG-C9074.",
+      "timeFrame": "Approximately 18 months",
+      "description": "The potential RDFE(s) of BG-C9074 alone and in combination with tislelizumab will be determined based on the MTD or MAD, taking into consideration the long-term tolerability, PK, pharmacodynamics, preliminary antitumor activity, and any other relevant data, as available"
+    },
+    {
+      "measure": "Phase 1b: Overall Response Rate (ORR) as monotherapy and in combination with tislelizumab",
+      "timeFrame": "Approximately 3 years",
+      "description": "ORR is defined as the percentage of participants with best overall response (BOR) of complete response (CR) or partial response (PR) assessed by the investigator using RECIST v1.1."
+    },
+    {
+      "measure": "Phase 1b: Recommended Phase 2 dose (RP2D) of BG-C9074 as monotherapy and in combination with bevacizumab or tislelizumab",
+      "timeFrame": "Approximately 30 months",
+      "description": "The RP2D of BG-C9074 will be determined based on safety, PK, pharmacodynamics, preliminary antitumor activity, and other relevant data, as available."
+    }
+  ],
+  "sponsor": "BeOne Medicines",
+  "collaborators": [],
+  "start_date": "2024-04-12",
+  "completion_date": "2028-05-15",
+  "last_updated": "2026-03-17"
+}

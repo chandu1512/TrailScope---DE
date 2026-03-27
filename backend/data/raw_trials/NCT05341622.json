@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT05341622",
+  "brief_title": "Mailed FIT Outreach 2022",
+  "official_title": "Pragmatic Trial of Behavioral Interventions to Increase Response to Mailed FIT Outreach",
+  "brief_summary": "This project aims to evaluate different approaches to increase colorectal cancer screening among primary care patients at Penn Medicine through a centralized screening outreach program. In a pragmatic trial, we will evaluate different approaches to increase response rate to mailed fecal immunochemical test (FIT) kits among eligible patients, including differentiated packaging, sending text reminders, and personalized reminders.",
+  "detailed_description": "While colonoscopy procedures are recommended by guidelines for early detection of colorectal cancer, colonoscopy access remains limited due to delays in screening due to the pandemic and capacity issues. In this project, we will evaluate different ways of reaching out to eligible patients to encourage them to participate in colorectal cancer screening using fecal immunochemical testing (FIT). In a mailed FIT outreach campaign, we will compare user friendly packaging, text messaging, and personalized reminders to standard outreach with the goal of increasing colorectal cancer screening uptake.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 5460,
+  "conditions": [
+    "Colorectal Cancer",
+    "Colon Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Differentiated Box",
+      "type": "BEHAVIORAL",
+      "description": "Patients will receive mailed FIT kits in a box with differentiated packaging"
+    },
+    {
+      "name": "Standard Mail",
+      "type": "BEHAVIORAL",
+      "description": "Patients will receive mailed FIT in a standard mailing envelope"
+    },
+    {
+      "name": "Text",
+      "type": "BEHAVIORAL",
+      "description": "Patients will receive a series of up to 3 texts explaining the importance of colon cancer screening and prompts to complete the mailed FIT."
+    },
+    {
+      "name": "No Text",
+      "type": "BEHAVIORAL",
+      "description": "Patients will not receive text messaging explaining the importance of colon cancer screening or prompts to complete the mailed FIT."
+    },
+    {
+      "name": "Reminder",
+      "type": "BEHAVIORAL",
+      "description": "Patients will receive a mailed letter reminder to complete their FIT kit if not resulted by 1 month from initial outreach."
+    },
+    {
+      "name": "No Reminder",
+      "type": "BEHAVIORAL",
+      "description": "Patients will not receive any mailed letter reminder to complete their FIT kit."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients ages 50-74 with Penn as preferred lab\n2. Followed by Primary Care with a participating Penn Medicine PCP listed and at least one visit in the last 2 years\n3. Not up to date on colorectal cancer screening per Health Maintenance (no colonoscopy in the last 10 years, stool testing in the last year, flexible sigmoidoscopy in the last 5 years, FIT-DNA in the last 3 years).\n\nExclusion Criteria:\n\n1. Personal or significant family history of CRC, colonic polyps, hereditary nonpolyposis colorectal cancer syndrome, familial adenomatous polyposis syndrome, other gastrointestinal cancer, gastrointestinal bleeding, iron-deficiency anemia, or inflammatory bowel disease\n2. History of total colectomy, dementia or metastatic cancer\n3. Currently on hospice or receiving palliative care\n4. Uninsured or self-pay patients\n5. Currently scheduled for a colonoscopy or sigmoidoscopy",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "74 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn Medicine",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "FIT Completion",
+      "timeFrame": "4 months",
+      "description": "Percent of patients who complete FIT"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2022-05-27",
+  "completion_date": "2022-12-13",
+  "last_updated": "2024-07-23"
+}

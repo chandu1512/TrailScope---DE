@@ -1,0 +1,97 @@
+{
+  "nct_id": "NCT04514497",
+  "brief_title": "Testing the Addition of an Anti-cancer Drug, BAY 1895344, to Usual Chemotherapy for Advanced Stage Solid Tumors, With a Specific Focus on Patients With Small Cell Lung Cancer, Poorly Differentiated Neuroendocrine Cancer, and Pancreatic Cancer",
+  "official_title": "BAY 1895344 Plus Topoisomerase-1 (Top1) Inhibitors in Patients With Advanced Solid Tumors, Phase I Studies With Expansion Cohorts in Small Cell Lung Carcinoma (SCLC), Poorly Differentiated Neuroendocrine Carcinoma (PD-NEC) and Pancreatic Adenocarcinoma (PDA)",
+  "brief_summary": "This phase I trial tests the safety, side effects and best dose of BAY 1895344 when given together with usual chemotherapy (irinotecan or topotecan) in treating patients with solid tumors that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced), with a specific focus on small cell lung cancer, poorly differentiated neuroendocrine cancer, and pancreatic cancer. BAY 1895344 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Chemotherapy drugs, such as irinotecan and topotecan, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Adding BAY 1895344 to irinotecan or topotecan may be safe and tolerable in treating patients with advanced solid tumors.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To assess safety and tolerability of each of the elimusertib (BAY 1895344) plus topoisomerase 1 (top1) inhibitor (irinotecan hydrochloride \\[irinotecan\\] or topotecan hydrochloride \\[topotecan\\]) combinations.\n\nII. To estimate maximum tolerated dose (MTD) and recommended phase 2 dose (RP2D) of each of the combinations.\n\nSECONDARY OBJECTIVES:\n\nI. To observe and record anti-tumor activity. II. To estimate objective response rate (ORR), progression free survival (PFS), overall survival (OS) and duration of response (DOR) in patients treated with each combination.\n\nIII. To estimate plasma pharmacokinetic (PK) characteristics of BAY 1895344 plus each top1 inhibitor (irinotecan or topotecan) when used in combination.\n\nIV. To estimate changes in pharmacodynamic (PD) markers of deoxyribonucleic acid (DNA) damage (gamma-H2AX, phosphorylated \\[p\\]S343-NBS1) elicited by each combination from on-treatment tumor biopsies (in dose expansion cohorts only).\n\nEXPLORATORY OBJECTIVES:\n\nI. To estimate response outcomes (ORR, PFS, OS, DOR) in study patients by tumor ataxia telangiectasia mutated (ATM) expression loss (assessed by immunohistochemistry \\[IHC\\]).\n\nII. To estimate response outcomes (ORR, PFS, OS, DOR) in study patients with tumor DNA damage response (DDR) mutations (assessed by whole exome sequencing \\[WES\\], ribonucleic acid \\[RNA\\] sequencing \\[RNA Seq\\], and circulating tumor DNA \\[ctDNA\\] analysis).\n\nOUTLINE: This is a dose-escalation study. Patients are assigned to 1 of 3 cohorts.\n\nCOHORT I: Patients receive elimusertib orally (PO) twice daily (BID) on days 1 and 2 and irinotecan intravenously (IV) over 90 minutes on day 1 of each cycle. Cycles repeat every 14 days in the absence of disease progression or unacceptable toxicity. Patients undergo computed tomography (CT) and/or magnetic resonance imaging (MRI) throughout the study, tumor biopsy at screening and on study, and collection of blood samples at screening.\n\nCOHORT II: Patients receive elimusertib PO once daily (QD) on days 2, 3, 9, 10, 16, and 17 of cycle 1 and 2, and on days 2, 3, 9, and 10 of each cycle thereafter. Patients receive irinotecan IV over 90 minutes on days 1, 8, and 15 of cycle 1 and 2, and on days 1 and 8 of each cycle thereafter. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients undergo CT and/or MRI throughout the study, tumor biopsy at screening and on study, and collection of blood samples at screening.\n\nCOHORT III: Patients receive elimusertib PO QD on days 2 and 5 and topotecan IV over 30 minutes on days 1-5 of each cycle. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients undergo CT and/or MRI throughout the study, tumor biopsy at screening and on study, and collection of blood samples at screening.\n\nAfter completion of study treatment, patients are followed every 2 months for up to 6 months.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 28,
+  "conditions": [
+    "Metastatic Lung Small Cell Carcinoma",
+    "Metastatic Malignant Solid Neoplasm",
+    "Metastatic Neuroendocrine Carcinoma",
+    "Metastatic Pancreatic Adenocarcinoma",
+    "Stage III Lung Cancer AJCC v8",
+    "Stage III Pancreatic Cancer AJCC v8",
+    "Stage IV Lung Cancer AJCC v8",
+    "Stage IV Pancreatic Cancer AJCC v8",
+    "Unresectable Lung Small Cell Carcinoma",
+    "Unresectable Malignant Solid Neoplasm",
+    "Unresectable Neuroendocrine Carcinoma",
+    "Unresectable Pancreatic Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Biopsy",
+      "type": "PROCEDURE",
+      "description": "Undergo tumor biopsy"
+    },
+    {
+      "name": "Biospecimen Collection",
+      "type": "PROCEDURE",
+      "description": "Undergo collection of blood samples"
+    },
+    {
+      "name": "Computed Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo CT"
+    },
+    {
+      "name": "Elimusertib",
+      "type": "DRUG",
+      "description": "Given PO"
+    },
+    {
+      "name": "Irinotecan Hydrochloride",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Magnetic Resonance Imaging",
+      "type": "PROCEDURE",
+      "description": "Undergo MRI"
+    },
+    {
+      "name": "Topotecan Hydrochloride",
+      "type": "DRUG",
+      "description": "Given IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* DOSE ESCALATION COHORTS: Patients must have a biopsy-proven solid tumor that is metastatic or unresectable and has progressed on at least one line of standard therapy\n* DOSE ESCALATION COHORTS: Patients must have a solid tumor for which irinotecan or topotecan is considered standard of care\n* DOSE EXPANSION COHORTS: Patients must have biopsy proven metastatic or unresectable small cell lung cancer (SCLC), poorly differentiated neuroendocrine carcinoma (PD-NEC) (any extrapulmonary neuroendocrine carcinoma with small cell or large cell histology) or pancreatic adenocarcinoma (PDA) and have progressed on at least one line of standard therapy\n* DOSE EXPANSION COHORTS: Patients must have at least one measurable lesion outside of the lesion to be biopsied\n* Patients must be able to swallow pills\n* Age \\>= 18 years. Because no dosing or adverse event data are currently available on the use of BAY 1895344 in combination with irinotecan or topotecan in patients \\< 18 years of age, children are excluded from this study\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2 (Karnofsky \\>= 60%)\n* Hemoglobin \\> 9 g/dL\n* Absolute neutrophil count \\>= 1,500/mcL\n* Platelets \\>= 100,000/mcL\n* Total bilirubin =\\< 2 x institutional upper limit of normal (ULN)\n* Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 3 x institutional ULN (=\\< 5 x institutional ULN if liver metastases present)\n* Glomerular filtration rate (GFR) \\>= 60 mL/min/1.73 m\\^2\n* Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial\n* For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated\n* Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load\n* Patients with treated brain metastases are eligible if follow-up brain imaging after central nervous system (CNS)-directed therapy shows no evidence of progression. Furthermore, these patients must be asymptomatic from previously treated brain metastases (e.g. not on steroids for neurologic symptoms within 30 days of study enrollment)\n* Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial\n* Patients with known history or current symptoms of cardiac disease, or history of treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac function using the New York Heart Association Functional Classification. To be eligible for this trial, patients should be class 2B or better\n* The effects of BAY 1895344 on the developing human fetus are unknown. For this reason and because DNA-damage response inhibitors as well as other therapeutic agents used in this trial are known to be teratogenic, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation and for 6 months after completion of BAY 1895344 administration. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately. Men treated or enrolled on this protocol must also agree to use adequate contraception prior to the study, for the duration of study participation, and 6 months after completion of BAY 1895344 administration\n* Patient must have the ability to understand and the willingness to sign a written informed consent document. Participants with impaired decision-making capacity (IDMC) who have a legally-authorized representative (LAR) and/or family member available will also be eligible\n\nExclusion Criteria:\n\n* Patients who have previously been treated with irinotecan will not be eligible to participate in the irinotecan arm and patients who have previously been treated with topotecan will not be eligible to participate in the topotecan arm. However, patients who previously received irinotecan may be treated with topotecan (and vice versa) should the other agent be considered a possible standard of care for their disease. Patients who have previously been treated with BAY 1895344 will be excluded from the study\n* Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study\n* Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities \\> grade 1) with the exception of alopecia and endocrinopathies from prior immunotherapy\n* Patients who are receiving any other investigational agents\n* The investigator(s) must state a medical or scientific reason if patients who have brain metastases will be excluded from the study\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to BAY 1895344 or other agents used in study\n* Patients receiving any medications or substances that are substrates of CYP3A4 with a narrow therapeutic window, or strong inhibitors/inducers of CYP3A4 are ineligible, if they cannot be transferred to alternative medication. Because the lists of these agents are constantly changing, it is important to regularly consult a frequently-updated medical reference. As part of the enrollment/informed consent procedures, the patient will be counseled on the risk of interactions with other agents, and what to do if new medications need to be prescribed or if the patient is considering a new over-the-counter medicine or herbal product\n* Patients with uncontrolled intercurrent illness\n* Patients with psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant women are excluded from this study because BAY 1895344 is agent with the potential for teratogenic or abortifacient effects. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with BAY 1895344, breastfeeding should be discontinued if the mother is treated with BAY 1895344. These potential risks may also apply to other agents used in this study\n* Patients with an uncontrolled infection requiring IV antibiotics will not be eligible to participate in the study\n* Patients on strong CYP3A4 inhibitors must discontinue them at least 1 week prior to starting irinotecan therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Cancer Institute (UPCI)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum tolerated dose (MTD) (Dose Escalation Phase)",
+      "timeFrame": "Up to 21 days",
+      "description": "Defined by occurrence of \\>= 2 dose limiting toxicities (DLTs) defined as grade 4 neutropenia lasting \\>= 7 days, grade 4 thrombocytopenia, grade 4 anemia, grade 3 neutropenia with fever, grade 3 thrombocytopenia with bleeding, any grade 3 hematologic toxicity lasting \\>= 7 days (counting from first day of toxicity grade recognition) or any non-hematologic grade \\>= 2 adverse events (AEs) lasting \\>= 7 days (with the exception of grade 2 \\[G2\\] fatigue, G2 nausea or G2 diarrhea) (counting from first day of toxicity grade recognition) in any dose level during cycle 1 of treatment. DLTs will be graded by Common Terminology Criteria for Adverse Events version 5.0."
+    },
+    {
+      "measure": "Occurrence of grade 4 hematologic AEs (Dose Expansion Phase)",
+      "timeFrame": "Up to 6 months post-treatment",
+      "description": "Grade 4 hematologic toxicity will be monitored using the Bayesian approach of Thall, Simon, Estey as extended by Thall and Sung. Clinical safety data (e.g. AEs) will be tabulated and summarized using descriptive statistics as requested by the sponsor investigator, executive committee, medical monitor or Data Safety Monitoring Board using methods described in the Data Safety Monitoring Plan."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2021-10-20",
+  "completion_date": "2026-03-04",
+  "last_updated": "2025-03-05"
+}

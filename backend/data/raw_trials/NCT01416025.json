@@ -1,0 +1,53 @@
+{
+  "nct_id": "NCT01416025",
+  "brief_title": "A Trial Comparing Efficacy and Safety of Voriconazole Administered With Therapeutic Drug Monitoring vs. Standard Dosing",
+  "official_title": "A Prospective, Randomized Trial Comparing the Efficacy and Safety of Voriconazole Administered With Therapeutic Drug Monitoring vs. Standard Dosing",
+  "brief_summary": "This is a prospective, multicenter, randomized trial to study therapeutic drug monitoring (TDM) of voriconazole among patients with an invasive mould infection (IMI). The primary objective of this study will be to assess the effect of prospective voriconazole TDM on the composite of adverse events (AE) and clinical response.",
+  "detailed_description": "This is a prospective study of patients who receive voriconazole as treatment for an IMI (proven, probable, and possible by the EORTC/MSG definitions), other than zygomycosis. Patients will be randomized to receive either standard dosing or dosing based on TDM, stratified by whether initial voriconazole therapy is PO or IV. Assessment of outcomes will be made 42 days after start of voriconazole. An additional follow up for safety reporting will be performed 4weeks after completion of voriconazole\n\nThe patients will be randomized to:\n\n* Prospective TDM: voriconazole dose will be adjusted based on per protocol obtained TDM levels, and\n* Standard dosing: standard doses of voriconazole will be used.\n\nIn the prospective TDM arm, voriconazole TDM will be performed in real time at each site and results will be reported to treating physicians for dose adjustment. All efforts will be taken to obtain results within 24 hours of blood sample collection. In the standard dosing arm, blood samples will be collected, stored, and batched for voriconazole levels to be tested retrospectively. Voriconazole plasma levels will be measured by validated high performance liquid chromatography (HPLC) assays as detailed. Voriconazole trough levels will be performed on Day Baseline/Screening, 5, 14, 28, and 42.\n\nVoriconazole peak level will be measured on Day 5. Trough voriconazole levels will be obtained in case of an event, defined as suspected drug-associated toxicity and/or clinical failure.\n\nAssessment of AEs for all patients will be monitored during the study and response to treatment will be assessed. The composite of overall AE/clinical failure will be assessed on day 42.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE4"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 29,
+  "conditions": [
+    "Fungal Infection"
+  ],
+  "interventions": [
+    {
+      "name": "Prospective TDM Arm",
+      "type": "DRUG",
+      "description": "Voriconazole dose will be adjusted based on per protocol obtained TDM levels"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Indication for voriconazole administration: proven, probable, or possible IMI, excluding zygomycosis (based on the revised EORTC/MSG consensus definitions) \\[De Pauw, Clin Infect Dis. 2008; 46:1813\\].\n* Male or female \u226512 years of age.\n* Evidence of a personally signed and dated informed consent document in accordance with local regulatory and legal requirements indicating that the subject (or a legally acceptable representative) has been informed of all pertinent aspects of the study.\n* Subjects who are willing and able to comply with scheduled visits, treatment plan, laboratory tests, and other study procedures.\n\nExclusion Criteria:\n\n* Known history of allergy, hypersensitivity or serious reaction to azole antifungals.\n* Patients with aspergilloma or allergic bronchopulmonary aspergillosis (ABPA).\n* Patients with chronic invasive aspergillosis with duration of symptoms or radiological finding for more than 4 weeks prior to study entry.\n* Patients who are receiving and cannot discontinue the following drugs at least 24 hours prior to randomization: terfenadine, pimozide or quinidine (because of the possibility of QT prolongation), St John's wort preparation.\n* Patients receiving any of the following medications: sirolimus, rifampin, rifabutin, carbamazepine, long acting barbiturates (e.g., phenobarbital, mephobarbital), ritonavir, efavirenz, or ergot alkaloids (e.g., ergotamine, dihydroergotamine).\n* Receipt of more than 5 days of voriconazole as treatment prior to enrollment.\n* Receipt of 7 days or more of systemic antifungal treatment for the current episode of IMI.\n* Severe liver dysfunction (defined as total bilirubin, AST, ALT, or alkaline phosphatase \\>5x upper limit of normal). Local laboratory results may be used to qualify individuals for enrollment.\n* Patients with any condition which, in the opinion of the investigator, could affect patient safety, preclude evaluation of response, or make it unlikely that the proposed course of therapy can be completed.\n* Patients who have already participated in this trial within the last 30 days.\n* Patients with a high likelihood of death due to factors unrelated to IA (e.g., due to relapsed malignancy, severe GVHD, other underlying diseases, etc.) within 30 days following planned enrollment (investigator's discretion).\n* Patients that weigh \\<45 and \\>120 kg, respectively, upon enrollment. If patients' weight is beyond those limits upon serial assessments during the study period, the study monitor should be contacted and decisions to keep or withdraw subject from the study will be made.",
+    "gender": "ALL",
+    "min_age": "12 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21205",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Treatment Failure",
+      "timeFrame": "42 days",
+      "description": "The primary endpoint of the study will be a binary outcome, called Failure, defined as one of the following: measured at 42 days from initiation of drug administration:\n\n1. Progression of underlying infection (clinical failure)\n2. Death\n3. Development of a voriconazole-associated SAE: LFTs, Rash, Visual disturbance, Neurologic abnormality (e.g: hallucinations)"
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [
+    "Pfizer"
+  ],
+  "start_date": "2012-01",
+  "completion_date": "2014-12",
+  "last_updated": "2016-07-18"
+}

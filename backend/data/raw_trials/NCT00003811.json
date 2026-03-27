@@ -1,0 +1,104 @@
+{
+  "nct_id": "NCT00003811",
+  "brief_title": "Combination Chemotherapy Plus Amifostine in Treating Children With Malignant Germ Cell Tumors",
+  "official_title": "High-Dose Cisplatin, Etoposide and Bleomycin (HD-PEB) Combined With Amifostine in Children With High-Risk Malignant Germ Cell Tumors - A POG Pilot Study",
+  "brief_summary": "RATIONALE: Chemotherapy drugs use different ways to stop tumor cells from dividing so they stop growing or die. Chemoprotective drugs such as amifostine may protect normal cells from the side effects of chemotherapy.\n\nPURPOSE: Phase I trial to study the effectiveness of high-dose cisplatin, etoposide, and bleomycin plus amifostine in treating children who have malignant germ cell tumors.",
+  "detailed_description": "OBJECTIVES: I. Evaluate the early efficacy and toxicity profile of high-dose cisplatin, etoposide, bleomycin, and amifostine in children with newly diagnosed, high-risk malignant, extragonadal germ cell tumors. II. Determine whether the use of amifostine can reduce the hematologic and nonhematologic toxic effects of this combination chemotherapy in these patients when compared to similar patients treated on POG-9049/CCG-8881 with the same combination chemotherapy. III. Determine the response rate of patients treated with this regimen.\n\nOUTLINE: Patients undergo surgical biopsy or resection. Patients then receive bleomycin IV over 10 minutes on day 1 and etoposide IV over 1 hour, amifostine IV over 15 minutes, and cisplatin IV over 1 hour on days 1-5. Treatment repeats every 3-4 weeks for 4 courses in the absence of unacceptable toxicity or disease progression. Patients who have no disease after 4 courses of chemotherapy receive no further treatment. Patients who have residual disease undergo second-look surgery. After surgery, patients who still have active tumor receive 2 additional courses of chemotherapy. Those patients who still have tumor after the 2 additional courses may have a third surgery. Patients are followed every month for 6 months, every 2 months for 6 months, every 6 months for 1 year, and then annually thereafter until death.\n\nPROJECTED ACCRUAL: A total of 25 patients will be accrued for this study within 1.39 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 27,
+  "conditions": [
+    "Childhood Germ Cell Tumor",
+    "Drug/Agent Toxicity by Tissue/Organ",
+    "Extragonadal Germ Cell Tumor",
+    "Ovarian Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "bleomycin sulfate",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "amifostine trihydrate",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "cisplatin",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "etoposide",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "conventional surgery",
+      "type": "PROCEDURE",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS: Histologically confirmed, newly diagnosed, high-risk, extracranial germ cell tumors including the following: Yolk sac carcinoma (endodermal sinus tumor) Embryonal carcinoma Choriocarcinoma Teratoma with mixed malignant elements (malignant teratoma) OR Malignant recurrence (stage III or IV) of previously resected stage I extracranial, extragonadal tumor High-risk disease defined as stage III or IV extragonadal tumors Measurable disease by diagnostic imaging\n\nPATIENT CHARACTERISTICS: Age: Under 15 at time of diagnosis Performance status: Not specified Life expectancy: Not specified Hematopoietic: Absolute neutrophil count greater than 750/mm3 Platelet count greater than 75,000/mm3 Hepatic: Not specified Renal: Creatinine normal OR Glomerular filtration rate at least 50% of normal\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: No prior chemotherapy Endocrine therapy: Not specified Radiotherapy: No prior radiotherapy Surgery: See Disease Characteristics",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "14 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Marlene & Stewart Greenebaum Cancer Center, University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    },
+    {
+      "facility": "CCOP - Northern New Jersey",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "St. Christopher's Hospital for Children",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19134-1095",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Feasibility from Efficacy Standpoint",
+      "timeFrame": "",
+      "description": "The hazard rate is constant over 1.39 years, then the probability of the occurrence of a failure within this time interval follows a Poisson distribution. The table below shows the trial feasibility probabilities associated with those failure rates. We define the probability of feasibility as the probability of observing a total of at most less than three failures in 25 patient years of follow-up."
+    }
+  ],
+  "sponsor": "Children's Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2000-04",
+  "completion_date": "2007-09",
+  "last_updated": "2013-07-03"
+}

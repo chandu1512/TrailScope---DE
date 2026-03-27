@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT00441870",
+  "brief_title": "Study of EC0225 for the Treatment of Refractory or Metastatic Tumors",
+  "official_title": "Protocol EC-0225-01: A Phase 1 Study of EC0225 Administered Weeks 1 and 3 of a 4-Week Cycle",
+  "brief_summary": "This is a Phase 1 clinical trial evaluating the safety and tolerability of escalating doses of EC0225 in patients with refractory or metastatic tumors who have exhausted standard therapeutic options.",
+  "detailed_description": "This is a Phase 1, dose escalation study of EC0225 administered by intravenous bolus (IV) during weeks 1 and 3 of a 4-week cycle to patients with refractory or metastatic cancer who have exhausted standard therapeutic options. EC0225 is a drug that is specifically designed to enter cells via a folate vitamin receptor. Experimental evidence shows that the target receptor is over-expressed in many human cancers. There are no previous human studies of EC0225; however, lab research (research in test tubes or animals) using EC0225 has shown activity against tumors in animals. This activity in animal models suggests that EC0225 may be useful as chemotherapy against human cancers. The primary objective of this study is to determine the safety and maximum tolerated dose of EC0225 given by intravenous bolus. The efficacy of treatment will also be measured.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 77,
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "EC0225, for Injection (Folic acid desacetylvinblastine hydrazide conjugate)",
+      "type": "DRUG",
+      "description": "Dose escalation from a starting dose of 0.38mg IV bolus Monday Wednesday and Friday Weeks 1 and 3 of a 4 Week Cycle to the Maximum Tolerated Dose (MTD)"
+    },
+    {
+      "name": "99mTC-EC20 (Folic acid-technetium 99m conjugate)",
+      "type": "DRUG",
+      "description": "20-25 mCi 99m Tc-EC20 administered IV 1-2 hours prior to imaging"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Histological or cytological diagnosis of neoplasm\n* No effective standard therapeutic options\n* ECOG performance status of 0-2\n* \u2265 to 4 weeks post therapeutic radiation or chemotherapy(\u2265 to 6 weeks for nitrosureas) and recovery (to baseline status) from associated acute toxicities. Patients previously treated with non-cytotoxic therapy and who have recovered from or have controlled drug-associated toxicity are allowed to enter the trial after a period consisting of 4 half-lives of the agent.\n* Negative serum pregnancy test for women of child-bearing potential within one week prior to treatment with investigational agents (99mTc-EC20 and EC0225)\n* Adequate bone marrow reserve, renal and hepatic function\n\nExclusion Criteria:\n\n* Concurrent malignancies\n* Women who are pregnant or lactating\n* Evidence of symptomatic brain metastases\n* Receiving concomitant anticancer therapy (excluding supportive care)\n* Requires palliative radiotherapy at time of study entry\n* Unable to tolerate conditions for radionuclide imaging\n* Administration of another radiopharmaceutical that would interfere with assessment of 99mTc-EC20",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Greenebaum Cancer Center - University of Maryland Medicine",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum tolerated dose (MTD)",
+      "timeFrame": "Dose escalation to the highest dose that can be safely administered to produce acceptable, manageable and reversible toxicity in no more than 0 or 1 of 6 patients",
+      "description": ""
+    }
+  ],
+  "sponsor": "Endocyte",
+  "collaborators": [],
+  "start_date": "2007-02",
+  "completion_date": "2010-11",
+  "last_updated": "2012-03-08"
+}

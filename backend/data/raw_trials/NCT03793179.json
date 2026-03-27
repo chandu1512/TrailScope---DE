@@ -1,0 +1,525 @@
+{
+  "nct_id": "NCT03793179",
+  "brief_title": "Testing the Timing of Pembrolizumab Alone or With Chemotherapy as First Line Treatment and Maintenance in Non-small Cell Lung Cancer",
+  "official_title": "EA5163/S1709 INSIGNA : A Randomized, Phase III Study of Firstline Immunotherapy Alone or in Combination With Chemotherapy in Induction/Maintenance or Postprogression in Advanced Nonsquamous Non-Small Cell Lung Cancer (NSCLC) With Immunobiomarker SIGNature-Driven Analysis",
+  "brief_summary": "This phase III trial studies whether pembrolizumab alone as a first-line treatment, followed by pemetrexed and carboplatin with or without pembrolizumab after disease progression is superior to induction with pembrolizumab, pemetrexed and carboplatin followed by pembrolizumab and pemetrexed maintenance in treating patients with stage IV non-squamous non-small cell lung cancer. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Chemotherapy drugs, such as pemetrexed, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Carboplatin is in a class of medications known as platinum-containing compounds. It works in a way similar to the anticancer drug cisplatin, but may be better tolerated than cisplatin. Carboplatin works by killing, stopping or slowing the growth of cancer cells. It is not yet known whether giving first-line pembrolizumab followed by pemetrexed and carboplatin with or without pembrolizumab works better in treating patients with non-squamous non-small cell cancer.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate overall survival (OS) in each of the 2 experimental arms (Arms A and B) to control (Arm C).\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate progression-free survival (PFS) per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 for Arm C versus each of Arms A and B.\n\nII. To evaluate best objective response rates per RECIST 1.1 for Arm C versus each of Arms A and B.\n\nIII. To estimate toxicity within each of the treatment arms via the Common Terminology Criteria for Adverse Events (CTCAE) criteria.\n\nIV. To compare outcomes between Arms A and B. V. To compare outcomes by treatment arm within subgroups defined by a cutpoint of PD-L1 expression at \\>= 50%.\n\nBIOMARKER OBJECTIVE:\n\nI. To collect and bank tissue and blood for future research studies, including potential development of a prognostic and predictive signature for pembrolizumab (MK-3475) in combination with chemotherapy versus pembrolizumab (MK-3475) alone.\n\nEXPLORATORY IMAGING OBJECTIVES:\n\nI. To collect and bank standard of care computed tomography (CT) imaging at baseline and first three follow-up post-treatment scans on first line treatment for validating the radiomic risk score with the following exploratory objectives:\n\nIa. To determine the negative predictive value (NPV) by validating the Radiomic Risk score on pre-treatment scans as well as compute differences between pre- and post- treatment scans (delta features) in determining which patients will benefit from first line pembrolizumab in the metastatic setting in both low (\\< 50%) and high (\\> 50%) PD-L1 cohorts using patients in Arm 1 and Arm 2 of the trial where pembrolizumab is used as first line treatment.\n\nIb. To determine the positive predictive value (PPV) by validating the Radiomic Risk score in order to predict which patients would benefit from combination pembrolizumab and subsequent chemotherapy versus (vs.) immunotherapy alone in both low (\\< 50%) and high (\\> 50%) PD-L1 cohorts using patients who went on to receive chemotherapy as second line and stratifying the patients based on those who received benefit from pembrolizumab plus chemotherapy vs.pembrolizumab alone.\n\nOUTLINE: Patients are randomized to 1 of 3 arms.\n\nARM A: Patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Cycles repeat every 21 days for up to 2 years in the absence of disease progression or unacceptable toxicity. Within 6 weeks of disease progression, patients receive pemetrexed IV over 10 minutes and carboplatin IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients then may receive pemetrexed IV over 10 minutes on day 1. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.\n\nARM B: Patients receive pembrolizumab IV over 30 minutes on day 1. Cycles repeat every 21 days for up to 2 years in the absence of disease progression or unacceptable toxicity. Within 6 weeks of disease progression, patients receive pembrolizumab IV over 30 minutes, pemetrexed IV over 10 minutes, and carboplatin IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients then receive pembrolizumab IV over 30 minutes and pemetrexed IV over 10 minutes on day 1. Cycles repeat every 21 days for up to 2 years for pembrolizumab in the absence of disease progression or unacceptable toxicity and until to disease progression for pemetrexed.\n\nARM C: Patients receive pembrolizumab IV over 30 minutes, pemetrexed IV over 10 minutes, and carboplatin IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients then receive pembrolizumab IV over 30 minutes and pemetrexed IV over 10 minutes on day 1. Cycles repeat every 21 days for up to 2 years for pembrolizumab in the absence of disease progression or unacceptable toxicity and until to disease progression for pemetrexed.\n\nPatients undergo magnetic resonance imaging (MRI) during screening, CT scan and blood sample collection throughout the study, and may undergo position emission tomography (PET) scan throughout the study.\n\nAfter completion of study treatment, patients are followed up for 5 years.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 600,
+  "conditions": [
+    "Lung Non-Squamous Non-Small Cell Carcinoma",
+    "Stage IIIB Lung Cancer AJCC v8",
+    "Stage IIIC Lung Cancer AJCC v8",
+    "Stage IV Lung Cancer AJCC v8"
+  ],
+  "interventions": [
+    {
+      "name": "Biospecimen Collection",
+      "type": "PROCEDURE",
+      "description": "Undergo blood sample collection"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Computed Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo CT scan"
+    },
+    {
+      "name": "Magnetic Resonance Imaging",
+      "type": "PROCEDURE",
+      "description": "Undergo MRI"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "BIOLOGICAL",
+      "description": "Given IV"
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Positron Emission Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo PET scan"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed stage IV non-squamous non-small cell lung cancer (NSCLC) (includes M1a, M1b, and M1c stage disease, American Joint Committee on Cancer \\[AJCC\\] 8th edition). Patients with stage IIIB and IIIC disease are eligible if they are not candidates for combined chemotherapy and radiation. Prior chemo-radiation therapy (RT) for stage III with recurrence is allowed\n* Patients must have PD-L1 expression Tumor Proportion Score (TPS) \\>= 1% in tumor cells. If PD-L1 expression TPS is unevaluable or the testing could not be completed, the patients are not eligible. The assay must have been performed by a Clinical Laboratory Improvement Act (CLIA) (or equivalent) certified laboratory\n* Patients must have measurable or non-measurable disease. The presence of malignant pleural fluid alone is sufficient to satisfy this eligibility criterion. Baseline imaging assessments and measurements used to evaluate all measurable or non-measurable sites of disease must be done within 4 weeks prior to study registration\n\n  * NOTE: If patient receives pemetrexed, follow institutional guidelines to drain fluids\n  * NOTE: An additional 15 days is allowed to account for any infection/exposure related logistical delays\n* Patients must be \\>= 18 years of age\n* Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1\n* Patients must NOT have received the following:\n\n  * Prior systemic chemotherapy or immunotherapy for advanced metastatic NSCLC. Patients treated with any prior checkpoint inhibitors for metastatic lung cancer are ineligible. Chemotherapy for non-metastatic disease (e.g. adjuvant therapy) or immunotherapy for locally advanced stage III disease, or treated with neoadjuvant IO is allowed if at least 6 months have elapsed between the last dose of the prior therapy and study registration. Local therapy, e.g. palliative radiation, is allowed as long as a period of 14 days has passed between completion of local therapy and the start of protocol treatment. Registration during the 14 days is allowed. Palliative radiation must be to non-target lesions. Palliative radiation to pre-existing lesions while on protocol treatment is allowed as long as these areas have not grown to RECIST defined progression. Development of any new metastasis is considered progression. Concurrent radiation and protocol treatment is not allowed; protocol treatment may resume after completion of radiation as long as patient does not have greater than grade 2 side effects from radiation per physician discretion.\n  * Methotrexate (MTX) given in low doses for non-malignant conditions with last dose at least 14 days prior to date of registration will be allowed. Other low dose chemotherapeutics for non-malignant conditions will be considered, but review by the study chair is required\n  * Palliative radiation to non-target lesions (bone metastasis) is allowed if patient develops symptoms\n* Patients with known EGFR mutations (except exon 20 insertion), BRAF mutations (V600) or ALK or ROS1 translocations or other driver mutations that can be treated with oral tyrosine kinase inhibitors are excluded\n* Patients with treated brain metastases are eligible if follow-up brain imaging obtained at least 14 days after central nervous system (CNS)-directed therapy shows no evidence of progression. CNS progression counts as progression and patients must move on to the next phase after CNS treatment. Patients with asymptomatic new (at screening) or progressive brain metastases (active brain metastases at screening) are eligible if the treating physician determines that immediate CNS specific treatment is not required and is unlikely to be required during the first cycle of therapy\n\n  * Patients are eligible if off steroids for at least 14 days prior to protocol treatment\n  * Anticonvulsants are allowed\n  * Patients with asymptomatic, sub-centimeter brain metastasis who at the discretion of investigators do not need immediate CNS directed therapies are eligible\n* Patients with prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial\n* Patients must not have known pre-existing and clinically active interstitial lung disease, or a known history of (non infectious) pneumonitis that required steroids, or current pneumonitis\n* Patients must not have significant gastrointestinal disorders with diarrhea as a major symptom (e.g., Crohn's disease, malabsorption, etc.)\n* Patients must not have history of auto-immune condition (including Guillain-Barre Syndrome or Multiple Sclerosis) requiring ongoing or intermittent systemic treatment in the past 2 years prior to registration (i.e., with use of disease modifying agents, corticosteroids or immunosuppressive drugs). Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency, etc.) is not considered a form of systemic treatment\n* Patients with known history or current symptoms of cardiac disease, or history of treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac function using the New York Heart Association Functional Classification. To be eligible for this trial, patients should be class 2B or better\n* Patients must not have any other concomitant serious illness or organ system dysfunction that in the opinion of the investigator would either compromise patient safety or interfere with the evaluation of the safety of the study drug\n* Patients must not receive any other investigational agents during the course of therapy\n* Patients must not be pregnant or breast-feeding due to potential harm to the fetus or infant from cytotoxic chemotherapy and the unknown risk of pembrolizumab (MK-3475). All patients of childbearing potential must have a blood test or urine study within 72 hours prior to registration to rule out pregnancy. A patient of childbearing potential is someone, regardless of whether they have undergone tubal ligation, who meets the following criteria: 1) has achieved menarche at some point; 2) has not undergone a hysterectomy or bilateral oophorectomy; or 3) has not been naturally postmenopausal (amenorrhea following cancer therapy does not rule out childbearing potential) for at least 24 consecutive months (i.e., has had menses at any time in the preceding 24 consecutive months)\n* Patients must use accepted and effective method(s) of contraception or by abstaining from sexual intercourse from time of registration, while on study treatment, and continue for 120 days after the last dose of study treatment\n* Absolute neutrophil count (ANC) \\>= 1500/mm\\^3 (within 14 days prior to randomization)\n* Platelets \\>= 100,000/mm\\^3 (within 14 days prior to randomization)\n* Prothrombin time (PT)/international normalized ratio (INR) (only if on active anticoagulation with warfarin or any formulations of heparin) =\\< 3.0 (within 14 day prior to randomization)\n* Total bilirubin =\\< 1.5 mg/dL (obtained within 14 days prior to randomization)\n* Serum glutamic-oxaloacetic transaminase (SGOT) (aspartate aminotransferase \\[AST\\]) \\< 5 x upper limit of normal (ULN) (obtained within 14 days prior to randomization)\n* Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase \\[ALT\\]) \\< 5 x upper limit of normal (ULN) (obtained within 14 days prior to randomization)\n* Calculated creatinine clearance \\>= 45 ml/min to be eligible to receive pemetrexed (obtained within 14 days prior to randomization)\n* Serum creatinine =\\< 1.5 x institutional upper limit of normal (ULN) (obtained within 14 days prior to randomization)\n* Patients must not have a known history of active tuberculosis (TB)\n* Patients must not have a diagnosis of immunodeficiency or receive systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of protocol treatment\n* Patients must not have received a live vaccine within 30 days prior to randomization. Patients are permitted to receive inactivated vaccines and any non-live vaccines including those for the seasonal influenza and COVID-19 (Note: intranasal influenza vaccines, such as Flu-Mist \\[registered trademark\\] are live attenuated vaccines and are not allowed). If possible, it is recommended to separate study drug administration from vaccine administration by about a week (primarily, in order to minimize an overlap of adverse events)\n* Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial\n* For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable or on suppressive therapy, if indicated. Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Beebe Medical Center",
+      "city": "Lewes",
+      "state": "Delaware",
+      "zip": "19958",
+      "status": ""
+    },
+    {
+      "facility": "Beebe South Coastal Health Campus",
+      "city": "Millville",
+      "state": "Delaware",
+      "zip": "19967",
+      "status": ""
+    },
+    {
+      "facility": "Delaware Clinical and Laboratory Physicians PA",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Helen F Graham Cancer Center",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Medical Oncology Hematology Consultants PA",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Christiana Care Health System-Christiana Hospital",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19718",
+      "status": ""
+    },
+    {
+      "facility": "Beebe Health Campus",
+      "city": "Rehoboth Beach",
+      "state": "Delaware",
+      "zip": "19971",
+      "status": ""
+    },
+    {
+      "facility": "TidalHealth Nanticoke / Allen Cancer Center",
+      "city": "Seaford",
+      "state": "Delaware",
+      "zip": "19973",
+      "status": ""
+    },
+    {
+      "facility": "Christiana Care Health System-Wilmington Hospital",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19801",
+      "status": ""
+    },
+    {
+      "facility": "Greater Baltimore Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "MedStar Franklin Square Medical Center/Weinberg Cancer Institute",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "MedStar Good Samaritan Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21239",
+      "status": ""
+    },
+    {
+      "facility": "Johns Hopkins University/Sidney Kimmel Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "University of Maryland Shore Medical Center at Easton",
+      "city": "Easton",
+      "state": "Maryland",
+      "zip": "21601",
+      "status": ""
+    },
+    {
+      "facility": "Christiana Care - Union Hospital",
+      "city": "Elkton",
+      "state": "Maryland",
+      "zip": "21921",
+      "status": ""
+    },
+    {
+      "facility": "Virtua Samson Cancer Center",
+      "city": "Moorestown",
+      "state": "New Jersey",
+      "zip": "08057",
+      "status": ""
+    },
+    {
+      "facility": "Morristown Medical Center",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    },
+    {
+      "facility": "Inspira Medical Center Mullica Hill",
+      "city": "Mullica Hill",
+      "state": "New Jersey",
+      "zip": "08062",
+      "status": ""
+    },
+    {
+      "facility": "Overlook Hospital",
+      "city": "Summit",
+      "state": "New Jersey",
+      "zip": "07902",
+      "status": ""
+    },
+    {
+      "facility": "Virtua Voorhees",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    },
+    {
+      "facility": "Lehigh Valley Hospital-Cedar Crest",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Altoona",
+      "city": "Altoona",
+      "state": "Pennsylvania",
+      "zip": "16601",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Center-Bethel Park",
+      "city": "Bethel Park",
+      "state": "Pennsylvania",
+      "zip": "15102",
+      "status": ""
+    },
+    {
+      "facility": "Lehigh Valley Hospital - Muhlenberg",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18017",
+      "status": ""
+    },
+    {
+      "facility": "Bryn Mawr Hospital",
+      "city": "Bryn Mawr",
+      "state": "Pennsylvania",
+      "zip": "19010",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Camp Hill",
+      "city": "Camp Hill",
+      "state": "Pennsylvania",
+      "zip": "17011",
+      "status": ""
+    },
+    {
+      "facility": "Carlisle Regional Cancer Center",
+      "city": "Carlisle",
+      "state": "Pennsylvania",
+      "zip": "17015",
+      "status": ""
+    },
+    {
+      "facility": "Christiana Care Health System-Concord Health Center",
+      "city": "Chadds Ford",
+      "state": "Pennsylvania",
+      "zip": "19317",
+      "status": ""
+    },
+    {
+      "facility": "Chambersburg Hospital",
+      "city": "Chambersburg",
+      "state": "Pennsylvania",
+      "zip": "17201",
+      "status": ""
+    },
+    {
+      "facility": "WellSpan Medical Oncology and Hematology",
+      "city": "Chambersburg",
+      "state": "Pennsylvania",
+      "zip": "17201",
+      "status": ""
+    },
+    {
+      "facility": "Pocono Medical Center",
+      "city": "East Stroudsburg",
+      "state": "Pennsylvania",
+      "zip": "18301",
+      "status": ""
+    },
+    {
+      "facility": "Ephrata Cancer Center",
+      "city": "Ephrata",
+      "state": "Pennsylvania",
+      "zip": "17522",
+      "status": ""
+    },
+    {
+      "facility": "Ephrata Community Hospital",
+      "city": "Ephrata",
+      "state": "Pennsylvania",
+      "zip": "17522",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center Erie",
+      "city": "Erie",
+      "state": "Pennsylvania",
+      "zip": "16505",
+      "status": ""
+    },
+    {
+      "facility": "Adams Cancer Center",
+      "city": "Gettysburg",
+      "state": "Pennsylvania",
+      "zip": "17325",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Centers - Arnold Palmer Pavilion",
+      "city": "Greensburg",
+      "state": "Pennsylvania",
+      "zip": "15601",
+      "status": ""
+    },
+    {
+      "facility": "WellSpan Medical Oncology and Hematology",
+      "city": "Hanover",
+      "state": "Pennsylvania",
+      "zip": "17331",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Pinnacle Harrisburg",
+      "city": "Harrisburg",
+      "state": "Pennsylvania",
+      "zip": "17101",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Pinnacle Cancer Center/Community Osteopathic Campus",
+      "city": "Harrisburg",
+      "state": "Pennsylvania",
+      "zip": "17109",
+      "status": ""
+    },
+    {
+      "facility": "Lehigh Valley Hospital-Hazleton",
+      "city": "Hazleton",
+      "state": "Pennsylvania",
+      "zip": "18201",
+      "status": ""
+    },
+    {
+      "facility": "Sechler Family Cancer Center",
+      "city": "Lebanon",
+      "state": "Pennsylvania",
+      "zip": "17042",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Center at UPMC McKeesport",
+      "city": "McKeesport",
+      "state": "Pennsylvania",
+      "zip": "15132",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center at Rocco And Nancy Ortenzio Cancer Pavilion",
+      "city": "Mechanicsburg",
+      "state": "Pennsylvania",
+      "zip": "17050",
+      "status": ""
+    },
+    {
+      "facility": "Riddle Memorial Hospital",
+      "city": "Media",
+      "state": "Pennsylvania",
+      "zip": "19063",
+      "status": ""
+    },
+    {
+      "facility": "Arnold Palmer Cancer Center Medical Oncology Norwin",
+      "city": "N. Huntingdon",
+      "state": "Pennsylvania",
+      "zip": "15642",
+      "status": ""
+    },
+    {
+      "facility": "Paoli Memorial Hospital",
+      "city": "Paoli",
+      "state": "Pennsylvania",
+      "zip": "19301",
+      "status": ""
+    },
+    {
+      "facility": "Penn Presbyterian Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania/Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Temple University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19140",
+      "status": ""
+    },
+    {
+      "facility": "Oncology Hematology Association",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15215",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Saint Margaret",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15215",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Mercy Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15219",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Cancer Institute (UPCI)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Passavant Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15237",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Saint Clair Hospital Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15243",
+      "status": ""
+    },
+    {
+      "facility": "Pottstown Hospital",
+      "city": "Pottstown",
+      "state": "Pennsylvania",
+      "zip": "19464",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Center at UPMC Northwest",
+      "city": "Seneca",
+      "state": "Pennsylvania",
+      "zip": "16346",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Center-Washington",
+      "city": "Washington",
+      "state": "Pennsylvania",
+      "zip": "15301",
+      "status": ""
+    },
+    {
+      "facility": "Lankenau Medical Center",
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "zip": "19096",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Care Associates of York",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": ""
+    },
+    {
+      "facility": "WellSpan Health-York Cancer Center",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": ""
+    },
+    {
+      "facility": "WellSpan Health-York Hospital",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Memorial",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17408",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall survival (OS)",
+      "timeFrame": "From randomization to death from any cause, assessed up to 5 years post treatment",
+      "description": "OS distributions will be estimated using the Kaplan-Meier method."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2019-04-05",
+  "completion_date": "2027-09-30",
+  "last_updated": "2025-11-22"
+}

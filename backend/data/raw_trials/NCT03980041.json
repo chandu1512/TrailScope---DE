@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT03980041",
+  "brief_title": "Study to Evaluate the Efficacy/Safety of IPI-549 in Combination With Nivolumab in Patients With Advanced Urothelial Carcinoma (MARIO-275)",
+  "official_title": "A Phase 2, Multicenter, Randomized, Double-Blind, Active-Control Study to Evaluate the Efficacy and Safety of Nivolumab Administered in Combination With IPI-549 Compared to Nivolumab Monotherapy in the Treatment of Patients With Immune Therapy-Na\u00efve, Advanced Urothelial Carcinoma",
+  "brief_summary": "The purpose of this study is to measure the effect of IPI-549 in combination with nivolumab when compared to nivolumab monotherapy in advanced urothelial cancer patients.",
+  "detailed_description": "Study IPI-549-02 is a multi-national, prospective, randomized, active-control Phase II trial to evaluate the efficacy and safety of IPI 549 administered in combination with nivolumab compared to nivolumab monotherapy.\n\nThe study will enroll approximately 160 checkpoint-na\u00efve, advanced urothelial cancer patients who have progressed or recurred following treatment with platinum-based chemotherapy. Patients will be randomized 2:1 to receive intravenous (IV) nivolumab 480 mg every 4 weeks (Q4W) in combination with oral (PO) IPI 549 40 mg once daily (QD) or IV nivolumab 480 mg Q4W in combination with placebo PO QD.\n\nEligible patients who have confirmed progression of disease during treatment with nivolumab monotherapy may crossover to the combination treatment arm.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 49,
+  "conditions": [
+    "Bladder Cancer",
+    "Urothelial Carcinoma",
+    "Solid Tumor",
+    "Advanced Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "IPI-549 (eganelisib)",
+      "type": "DRUG",
+      "description": "IPI-549 (40mg QD) administered orally in 28-day cycles"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Nivolumab (480mg Q4W) administered intravenously (IV) in 28-day cycles"
+    },
+    {
+      "name": "Placebos",
+      "type": "DRUG",
+      "description": "Placebo administered orally in 28-day cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed urothelial carcinoma of the renal pelvis, ureter, bladder, or urethra\n* Measurable disease by CT or MRI as defined by RECIST v1.1\n* Disease progression or recurrence after treatment:\n* i) With at least 1 platinum-based chemotherapy regimen for the treatment of metastatic (Stage IV) or locally advanced unresectable disease; or\n* ii) With disease recurrence within 1 year of completing a platinum-based neoadjuvant or adjuvant therapy\n* Subject that have received more than 2 prior lines of chemotherapy must not have liver metastases\n* Tumor tissues (archived or new biopsy) must be provided for biomarker analysis\n* Eastern Cooperative Oncology Group (ECOG) performance status \u22641\n* Blood sample must be provided for mMDSC levels for randomization into the study\n\nExclusion Criteria:\n\n* Active brain metastases or leptomeningeal metastases\n* Any serious or uncontrolled medical disorder that may interfere with study treatment/interpretation\n* Prior malignancy active within the previous 3 years except for local or organ confined early stage cancer that has been apparently cured\n* Active, known, or suspected autoimmune disease\n* A condition requiring systemic treatment with either corticosteroids (\\>10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 day of study drug administration\n* Prior therapy with anti-tumor vaccines, any T cell co-stimulation or checkpoint pathways, or IPI-549\n* Prior surgery or gastrointestinal dysfunction that may affect drug absorption\n* Past medical history of interstitial lung disease\n* History of stroke, unstable angina, myocardial infarction, or ventricular arrhythmia requiring medication or mechanical control\n* Positive test for hepatitis B, C or HIV\n* Dependent on continuous supplemental oxygen",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of MD - Greenebaum Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR) per RECISTv1.1",
+      "timeFrame": "First dosing date to date of confirmed disease progression, assessed up to 24 months",
+      "description": "ORR is defined as best response of complete response (CR) or partial response (PR) as measured by RECIST v1.1.\n\nRECIST 1.1 = Response Evaluation Criteria in Solid Tumors. CR= Disappearance of all extranodal target lesions. All pathological lymph nodes must have decreased to \\<10 mm in short axis. PR= At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum of diameters."
+    }
+  ],
+  "sponsor": "Infinity Pharmaceuticals, Inc.",
+  "collaborators": [
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2019-09-25",
+  "completion_date": "2022-11-15",
+  "last_updated": "2022-11-22"
+}

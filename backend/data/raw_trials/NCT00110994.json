@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT00110994",
+  "brief_title": "Treatment for Subjects With Unresectable Stage III or Stage IV Melanoma",
+  "official_title": "Phase II Randomized, Placebo Controlled Study of Sorafenib in Repeated Cycles of 21 Days in Combination With Dacarbazine (DTIC) Chemotherapy in Subjects With Unresectable Stage III or Stage IV Melanoma",
+  "brief_summary": "This is a randomized, double blind, placebo controlled, multicenter, phase II study to compare the anti-tumor activity as measured by progression-free survival (PFS) and the tolerability of Sorafenib in combination with Dacarbazine (DTIC) versus DTIC in combination with placebo in subjects with unresectable Stage III or Stage IV melanoma who have not received prior cytotoxic chemotherapy. A total of approximately 98 subjects will be randomized to receive DTIC + Sorafenib or DTIC + Placebo.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 101,
+  "conditions": [
+    "Cancer",
+    "Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Sorafenib (Nexavar, BAY43-9006)",
+      "type": "DRUG",
+      "description": "Sorafenib, 400 mg, 2 tablets (200 mg each) po (per os) bid (twice daily) Study days 1-21"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Placebo, 2 tablets, po (per os) bid (twice daily) Study days 1-21"
+    },
+    {
+      "name": "Dacarbazine",
+      "type": "DRUG",
+      "description": "Dacarbazine, 1000 mg/m\\^2 intravenous on Study Day 1"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients who have a life expectancy of at least 12 weeks\n* Patients with histologically or cytologically confirmed unresectable (Stage III) or metastatic (Stage IV) melanoma\n* Patients who have an ECOG PS of 0, or 1\n* Measurable disease defined as at least one lesion that can be accurately and serially measured per the modified RECIST criteria\n\nExclusion Criteria:\n\n* Primary ocular or mucosal melanoma\n* Previous or concurrent cancer that is distinct in primary site or histology from the cancer being evaluated in this study except cervical carcinoma in situ, treated basal cell carcinoma, superficial bladder tumors (Ta \\[Noninvasive papillary carcinoma\\], Tis \\[Carcinoma in situ: \"flat tumor\"\\] \\& T1 \\[Tumor invades subepithelial connective tissue\\]) or any cancer curatively treated \\< 3 years prior to study entry\n* History of cardiac disease\n* Known history of human immunodeficiency virus (HIV) infection",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "Time from randomization to documented tumor progression or death (the maximum treatment duration of 71.1 weeks)",
+      "description": "PFS was calculated as the time (days) from date of randomization to date of first observed DP (per modified Response Evaluation Criteria In Solid Tumors \\[RECIST\\] or clinical judgment, whichever was earlier: CR, PR, stable disease, progressive disease) or death due to any cause, if death occurred before progression was documented. The actual date of tumor assessments was used for this calculation. PFS for subjects without progression or death was censored at the last date of tumor evaluation. PFS for subjects who had no tumor assessments after baseline and did not die was censored at 1 day."
+    }
+  ],
+  "sponsor": "Bayer",
+  "collaborators": [
+    "Amgen"
+  ],
+  "start_date": "2005-04",
+  "completion_date": "2008-03",
+  "last_updated": "2015-05-13"
+}

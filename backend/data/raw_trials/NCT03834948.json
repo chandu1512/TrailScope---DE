@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT03834948",
+  "brief_title": "AO-176 in Multiple Solid Tumor Malignancies",
+  "official_title": "A Phase 1/2 Multicenter, Open-Label, Dose-Escalation and Dose-Expansion Study to Evaluate the Safety, Pharmacokinetics, Pharmacodynamics, and Antitumor Activity of AO-176",
+  "brief_summary": "This is a first-in-human, Phase 1/2 multi-center, open-label, dose escalation and expansion study of AO-176 which will evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics, and clinical effects of AO-176 in patients with advanced solid tumors.",
+  "detailed_description": "This is a first-in-human, Phase 1/2 multicenter, open-label, dose escalation and expansion study of AO-176 in patients with solid tumors. Part A of this study will examine escalating repeat doses of AO-176 monotherapy in patients with select advanced solid tumors, including epithelial ovarian carcinoma (EOC), which will include primary peritoneal and fallopian tube carcinoma; squamous cell carcinoma of the head and neck; endometrial carcinoma; castration resistant prostate cancer; non-small cell lung adenocarcinoma; papillary thyroid carcinoma; pleural or peritoneal malignant mesothelioma; and gastroesophageal adenocarcinoma, for which standard therapy proven to provide clinical benefit does not exist or is no longer effective.\n\nPart B and Part C of this study will examine escalating repeat doses of AO-176 in combination with paclitaxel (Part B) or pembrolizumab (Part C) in platinum-resistant EOC, including primary peritoneal and fallopian tube carcinoma; endometrial carcinoma; and gastric adenocarcinoma/gastroesophageal adenocarcinoma.\n\nThe monotherapy and combination dose escalation portions of the study utilize a classic 3+3 design, with enrollment of 3 patients per cohort and expansion of the cohort in the event of a dose-limiting toxicity (DLT).\n\nOnce the maximum-tolerated dose (MTD)/recommended phase 2 dose (RP2D) has been established in dose escalation, tumor-specific dose expansion cohorts will be recruited to further assess safety and evaluate preliminary efficacy of AO-176 as monotherapy, in combination with paclitaxel, and in combination with pembrolizumab.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 57,
+  "conditions": [
+    "Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "AO-176",
+      "type": "DRUG",
+      "description": "Humanized monoclonal antibody (mAb) targeting CD47"
+    },
+    {
+      "name": "AO-176 + Paclitaxel",
+      "type": "DRUG",
+      "description": "Humanized monoclonal antibody (mAb) targeting CD47 and paclitaxel"
+    },
+    {
+      "name": "AO-176 + Pembrolizumab",
+      "type": "DRUG",
+      "description": "Humanized monoclonal antibody (mAb) targeting CD47 and pembrolizumab"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria\n\n1. Select advanced solid tumor for which standard therapy proven to provide clinical benefit does not exist, or is no longer effective\n\n   Part A:\n   * Epithelial ovarian carcinoma (EOC)\n   * Endometrial carcinoma\n   * Castration resistant prostate cancer\n   * Non-small cell lung adenocarcinoma\n   * Papillary thyroid carcinoma\n   * Malignant mesothelioma (pleural or peritoneal)\n   * Gastroesophageal adenocarcinoma\n   * Squamous cell carcinoma of the head and neck\n\n   Part B and Part C:\n   * Platinum-resistant EOC (including fallopian tube or primary peritoneal cancer)\n   * Endometrial carcinoma\n   * Gastric adenocarcinoma/gastroesophageal adenocarcinoma\n2. Measurable disease\n3. ECOG status 0-1\n4. Resolution of prior-therapy-related adverse effects\n5. Minimum of 4 weeks or 5 half-lives since last dose of cancer therapy\n\nKey Exclusion Criteria:\n\n1. Previous hypersensitivity reaction to treatment with another monoclonal antibody\n2. Unresolved hypersensitivity to paclitaxel or any of its excipients (Part B only). Patients who have been desensitized may participate.\n3. Part C Only\n\n   1. History of interstitial lung disease or a history of (non-infectious) pneumonitis that required steroids or has current pneumonitis.\n   2. History of immune mediated colitis, hepatitis, endocrinopathies, nephritis or significant immune mediated skin reactions such as toxic epidermal necrolitis or Stevens -Johnson Syndrome\n   3. History of any autoimmune disease which required systemic therapy\\* in the past 2 years (i.e., with use of disease modifying agents, corticosteroids or immunosuppressive drugs) including but not limited to: i. Inflammatory bowel disease (including ulcerative colitis and Crohn's Disease) ii. Rheumatoid arthritis iii. Systemic progressive sclerosis (scleroderma) iv. Systemic lupus erythematosus v. Autoimmune vasculitis (e.g. Wegener's granulomatosis) \\*Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency) is not considered a form of systemic treatment and is allowed)\n4. Prior treatment with a checkpoint inhibitor (anti-PD-1, PD-L1, CTLA-4 etc.) within 4 weeks prior to the start of study drug\n5. Prior treatment with a CD47-targeted therapy\n6. Prior organ or stem cell transplant",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center, Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety of AO-176 assessed by adverse events and laboratory abnormalities",
+      "timeFrame": "Up to 12 months",
+      "description": "Evaluate the safety of AO-176 measured by the number adverse events, serious adverse events and lab abnormalities."
+    },
+    {
+      "measure": "Safety of AO-176 and paclitaxel assessed by adverse events and laboratory abnormalities",
+      "timeFrame": "Up to 12 months",
+      "description": "Evaluate the safety of AO-176 in combination with paclitaxel measured by the number adverse events, serious adverse events and lab abnormalities."
+    },
+    {
+      "measure": "Safety of AO-176 and pembrolizumab assessed by adverse events and laboratory abnormalities",
+      "timeFrame": "Up to 12 months",
+      "description": "Evaluate the safety of AO-176 in combination with pembrolizumab measured by the number adverse events, serious adverse events and lab abnormalities."
+    }
+  ],
+  "sponsor": "Arch Oncology",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2019-02-04",
+  "completion_date": "2023-02-15",
+  "last_updated": "2023-08-21"
+}

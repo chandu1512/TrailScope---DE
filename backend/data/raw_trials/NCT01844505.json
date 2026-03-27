@@ -1,0 +1,109 @@
+{
+  "nct_id": "NCT01844505",
+  "brief_title": "Phase 3 Study of Nivolumab or Nivolumab Plus Ipilimumab Versus Ipilimumab Alone in Previously Untreated Advanced Melanoma (CheckMate 067)",
+  "official_title": "A Phase 3, Randomized, Double-Blind Study of Nivolumab Monotherapy or Nivolumab Combined With Ipilimumab Versus Ipilimumab Monotherapy in Subjects With Previously Untreated Unresectable or Metastatic Melanoma",
+  "brief_summary": "The purpose of this study is to show that Nivolumab and/or Nivolumab in combination with Ipilimumab will extend progression free survival and overall survival compared to Ipilimumab alone.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 945,
+  "conditions": [
+    "Unresectable or Metastatic Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "Ipilimumab",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "Placebo for Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "Placebo for Ipilimumab",
+      "type": "BIOLOGICAL",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "For more information regarding BMS clinical trial participation, please visit www.BMSStudyConnect.com\n\nInclusion Criteria:\n\n* Histologically confirmed stage III (unresectable) or stage IV melanoma\n* Treatment na\u00efve patients\n* Measurable disease by computed tomography (CT) or Magnetic Resonance Imaging (MRI) per RECIST 1.1 criteria\n* Tumor tissue from an unresectable or metastatic site of disease for biomarker analyses\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1\n\nExclusion Criteria:\n\n* Active brain metastases or leptomeningeal metastases\n* Ocular melanoma\n* Subjects with active, known or suspected autoimmune disease\n* Subjects with a condition requiring systemic treatment with either corticosteroids (\\>10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of treatment\n* Prior treatment with an anti-Programmed Death receptor-1 (PD-1), anti-Programmed Death-1 ligand-1 (PD-L1), anti-PD-L2, or anti-cytotoxic T lymphocyte associated antigen-4 (anti-CTLA-4) antibody",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0080",
+      "city": "Lutherville",
+      "state": "Maryland",
+      "zip": "21093",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0188",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07962",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0061",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18102",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0112",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0069",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "From randomization until disease progression or death, whichever occurred first (assessed up to February 2015, approximately 20 months)",
+      "description": "PFS was defined as the time between the date of randomization and the first date of documented progression, as determined by the Investigator, or death due to any cause, whichever occurred first. Participants who died without a reported progression were considered to have progressed on the date of their death. Participants who did not progress or die were censored on the date of their last evaluable tumor assessment. Participants who did not have any on study tumor assessments and did not die were censored on their date of randomization. Participants treated beyond progression were considered to have progressive disease at the time of the initial progression event regardless of subsequent tumor response. Particpants who started anti-cancer therapy without a prior reported progression were censored on the date of their last evaluable tumor assessment prior to the initiation of subsequent anti-cancer therapy."
+    },
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "From randomization to date of death (Assessed up to September 2016, approximately 39 months)",
+      "description": "OS was defined as the time between the date of randomization and the date of death. For participants without documentation of death, OS was censored on the last date the participant was known to be alive."
+    },
+    {
+      "measure": "Rate of Overall Survival",
+      "timeFrame": "24 months",
+      "description": "OS was defined as the time between the date of randomization and the date of death. For participants without documentation of death, OS was censored on the last date the participant was known to be alive. The overall survival rate at time T (6, 12, or 24 months) was defined as the probability that a participant was alive at time T following randomization."
+    },
+    {
+      "measure": "Rate of Progression-Free Survival",
+      "timeFrame": "24 months",
+      "description": "PFS was defined as the time between the date of randomization and the first date of documented progression, as determined by the Investigator, or death due to any cause, whichever occurred first. Participants who died without a reported progression were considered to have progressed on the date of their death. Participants who did not progress or die were censored on the date of their last evaluable tumor assessment. Participants who did not have any on study tumor assessments and did not die were censored on their date of randomization. Participants treated beyond progression were considered to have progressive disease at the time of the initial progression event regardless of subsequent tumor response. Participants who started anti-cancer therapy without a prior reported progression were censored on the date of their last evaluable tumor assessment prior to the initiation of subsequent anti-cancer therapy."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2013-06-11",
+  "completion_date": "2024-04-19",
+  "last_updated": "2025-05-05"
+}

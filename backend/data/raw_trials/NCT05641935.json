@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT05641935",
+  "brief_title": "Contrast-Enhanced Ultrasound Imaging for Diagnosing Recurrent Renal Cell Carcinoma (RCC) Post Ablation",
+  "official_title": "Multi-Modality Detection of RCC Recurrence Post Ablation",
+  "brief_summary": "This phase II trial studies how well contrast-enhanced ultrasound (CEUS) works for diagnosing patients with renal cell cancer (RCC) that has come back (recurrent) after an ablation. Diagnostic imaging, such as CEUS, may help find and monitor long term renal cell cancer recurrence following cryo or microwave ablation.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To characterize and compare the sensitivity, specificity, positive and negative predictive value, and inter-reader agreement of 2D contrast-enhanced ultrasound (CEUS) and contrast-enhanced computed tomography (CT)/magnetic resonance imaging (MRI) for detecting recurrent or residual renal cell carcinoma (RCC) following ablation, using a combination of standard of care imaging follow-up and tissue pathology as a reference standard.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the potential improvement to the qualitative assessments of 2D CEUS when fused with the patient's pre-treatment cross sectional imaging.\n\nII. To assess the potential added value of using multi-modality volumetric CEUS for detecting RCC recurrence post ablation.\n\nIII. To explore the use of quantitative imaging parameters extracted from 2D/3D CEUS datasets to determine if this improves the overall performance of CEUS.\n\nEXPLORATORY OBJECTIVE:\n\nI. An advanced Doppler technique designed for detection of slower flow will also be investigated as a non-contrast based approach for detecting recurrent disease.\n\nOUTLINE:\n\nPatients receive Lumason intravenously (IV) and undergo CEUS imaging with MRI/CT on study. Patients' electronic medical record is reviewed every 6 months throughout study.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 210,
+  "conditions": [
+    "Recurrent Renal Cell Carcinoma",
+    "Renal Cell Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Sulfur Hexafluoride Lipid Microspheres",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Contrast-Enhanced Ultrasound",
+      "type": "PROCEDURE",
+      "description": "Undergo CEUS"
+    },
+    {
+      "name": "Computed Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo CT"
+    },
+    {
+      "name": "Magnetic Resonance Imaging",
+      "type": "PROCEDURE",
+      "description": "Undergo MRI"
+    },
+    {
+      "name": "Electronic Health Record Review",
+      "type": "OTHER",
+      "description": "Review electronic medical record"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Previously received cryotherapy or microwave therapy of RCC\n* Has available contrast enhanced (CE)-MRI or CE-CT imaging prior to ablative therapy\n* Have previously had or are scheduled to have a contrast-enhanced MRI/CT for the monitoring of RCC recurrence within 4 weeks of the CEUS study\n* Be at least 18 years of age\n* Be medically stable\n* If a female of child-bearing age, must have a negative pregnancy test\n* Have signed Informed Consent to participate in the study\n\nExclusion Criteria:\n\n* Patients who are medically unstable, patients who are seriously or terminally ill, and patients whose clinical course is unpredictable\n* Patients with known sensitivities to the components of Lumason",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Renal cell carcinoma recurrence",
+      "timeFrame": "Up to 2 years",
+      "description": "Baseline imaging will be reviewed and compared to the contrast enhanced imaging to diagnose recurrence."
+    }
+  ],
+  "sponsor": "john eisenbrey",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2022-11-03",
+  "completion_date": "2027-08-31",
+  "last_updated": "2026-02-12"
+}

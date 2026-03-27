@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT02269982",
+  "brief_title": "Prospective CiRculating prOstate Cancer Predictors in HighEr Risk mCRPC studY",
+  "official_title": "Development of Circulating Molecular Predictors of Chemotherapy and Novel Hormonal Therapy Benefit in Men With Metastatic Castration Resistant Prostate Cancer (mCRPC)",
+  "brief_summary": "This study will develop a first-in-man CTC-based molecular taxonomy of CRPC in the context of novel AR-directed therapies, categorize different patterns of resistance in this disease setting, and describe their evolution over time and treatment.",
+  "detailed_description": "The study will construct a multi-center clinical database of men before and after treatment with abiraterone acetate, enzalutamide, and taxane chemotherapy, and will comprehensively analyze CTC DNA for copy gains/losses and whole exome sequencing for acquired mutations, CTC RNA for AR-variants and evidence of epithelial plasticity, and plasma circulating tumor DNA (ctDNA) for whole exome sequencing. Significantly, the investigators will pair the presence of key proposed circulating biomarkers of treatment resistance with patient outcomes on these systemic therapies for the purpose of developing predictive biomarkers that may have direct clinical utility in guiding choice of therapies. It is proposed that specific AR-v's (i.e. AR-v7), biomarkers of epithelial plasticity, and microtubule interacting protein variants will convey docetaxel resistance and be enriched in men failing abiraterone acetate or enzalutamide, while other AR genomic events (AR amplification, AR-v567es, AR mutations, GR overexpression) will be responsive to taxane chemotherapy. This work represents a first-in-field comprehensive analysis of CTC molecular profiles for the development of a CTC molecular taxonomy of mCRPC.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 120,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "AR-v7 assays",
+      "type": "DEVICE",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Histologically confirmed diagnosis of adenocarcinoma of the prostate. Pure small cell or neuroendocrine tumors of the prostate are not permitted.\n2. Clinical or radiographic evidence of metastatic disease.\n3. Planned therapy with either enzalutamide and/or abiraterone acetate within the coming 6 weeks\n4. Castrate levels of testosterone (\\<50 ng/dl) at most recent assessment and/or documented ongoing Androgen Deprivation Therapy for at lease three months.\n5. Evidence of disease progression on or following most recent therapy as evidenced by at least one of the following:\n\n   * Radiographic evidence of disease progression as defined by one or more new bone scan lesions that is not consistent with flare/healing, or growth of soft tissue/visceral metastases to greater than one centimeter (cm) in longest diameter (2 cm shortest diameter for lymph nodes).\n   * Clinical progression as defined by the treating physician (such as pain progression)\n   * Consecutive PSA rises meeting PSA progression criteria as determined by PCWG2 criteria (increase that is \\>25% and \\>2 ng/mL above the nadir, and which is confirmed by a second value 3 or more weeks later)\n6. At least two of the following high risk features during screening for rapid disease progression:\n\n   1. Anemia with a hemoglobin \\<12.0 g/dl\n   2. Elevated alkaline phosphatase above the institution upper limit of normal\n   3. High lactate dehydrogenase (LDH) above the upper limit of normal\n   4. Prior therapy with enzalutamide, abiraterone acetate, or orteronel. Patients are not permitted if they are continuing on the same therapy or restarting a therapy that they have been exposed to in the past.\n   5. Presence of visceral metastasis on imaging\n   6. Presence of clinically significant pain requiring opioid analgesia\n   7. Patients with a Cellsearch CTC \\> 5 cells per 7.5 mL whole blood (if available as standard of care) are eligible without additional high risk features\n   8. PSA doubling time under 3 months on most recent therapy\n   9. Radiographic progression at entry based on new lesion(s) in bone, soft tissue, or visceral metastases\n7. Age \\> 18 years.\n8. Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n1. History of intercurrent or past medical or psychiatric illness that would make participation in a blood drawing protocol difficult or not feasible at the discretion of the principal investigator or co-investigator(s).\n2. Treatment with an anthracycline or mitoxantrone within 1 week of CTC collection\n3. Prior docetaxel in the castration resistant metastatic setting. Patients treated with docetaxel for metastatic castration sensitive disease will be eligible.\n4. Unwillingness to be followed longitudinally for serial CTC biomarker studies.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Comparison of median progression free survival (PFS) to AR-v7 status",
+      "timeFrame": "2 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "Duke University",
+  "collaborators": [
+    "Weill Medical College of Cornell University",
+    "Johns Hopkins University",
+    "Dana-Farber Cancer Institute",
+    "Memorial Sloan Kettering Cancer Center",
+    "Epic Sciences",
+    "Prostate Cancer Foundation"
+  ],
+  "start_date": "2015-05-14",
+  "completion_date": "2019-04-30",
+  "last_updated": "2019-06-07"
+}

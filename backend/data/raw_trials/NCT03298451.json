@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT03298451",
+  "brief_title": "Study of Durvalumab and Tremelimumab as First-line Treatment in Patients With Advanced Hepatocellular Carcinoma",
+  "official_title": "A Randomized, Open-label, Multi-center Phase III Study of Durvalumab and Tremelimumab as First-line Treatment in Patients With Advanced Hepatocellular Carcinoma",
+  "brief_summary": "This is a randomized, open-label, multi-center, global, Phase III study to assess the efficacy and safety of durvalumab plus tremelimumab combination therapy and durvalumab monotherapy versus sorafenib in the treatment of patients with no prior systemic therapy for unresectable HCC. The patients cannot be eligible for locoregional therapy",
+  "detailed_description": "The study population includes patients 18 years of age or older with advanced HCC, Barcelona Clinic Liver Cancer stage B not eligible for locoregional therapy or stage C, and Child-Pugh A classification liver disease. Patients must not have received any prior systemic therapy for unresectable HCC.\n\nPatients in all treatment arms may continue receiving their originally assigned treatment, at the Investigator's discretion, until progression\n\nPatients in all arms with confirmed PD who, in the Investigator's opinion, continue to receive benefit from their assigned treatment and meet the criteria for treatment in the setting of PD may continue to receive their assigned treatment.\n\nIf a patient discontinues study drug(s) due to disease progression, the patient will enter survival follow-up. Patients who have discontinued treatment due to toxicity or symptomatic deterioration or who have commenced subsequent anticancer therapy, will have tumor assessments until confirmed PD and will be followed for survival",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1324,
+  "conditions": [
+    "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Durvalumab",
+      "type": "DRUG",
+      "description": "Durvalumab IV (intravenous infusion)."
+    },
+    {
+      "name": "Tremelimumab (Regimen 1)",
+      "type": "DRUG",
+      "description": "Tremelimumab IV (intravenous infusion)."
+    },
+    {
+      "name": "Tremelimumab (Regimen 2)",
+      "type": "DRUG",
+      "description": "Tremelimumab IV (intravenous infusion)."
+    },
+    {
+      "name": "Sorafenib",
+      "type": "DRUG",
+      "description": "Sorafenib, as per standard of care"
+    },
+    {
+      "name": "Durvalumab (Regimen 1)",
+      "type": "DRUG",
+      "description": "Durvalumab IV (intravenous infusion)."
+    },
+    {
+      "name": "Durvalumab (Regimen 2)",
+      "type": "DRUG",
+      "description": "Durvalumab IV (intravenous infusion)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria\n\n* HCC based on histopathological confirmation\n* No prior systemic therapy for HCC\n* Barcelona Clinic Liver Cancer (BCLC) stage B (that is not eligible for locoregional therapy) or stage C\n* Child-Pugh Score class A\n* ECOG performance status of 0 or 1 at enrollment\n\nExclusion criteria\n\n* Hepatic encephalopathy within past 12 months or requirement for medication to prevent or control encephalopathy\n* Clinically meaningful ascites\n* Main portal vein tumor thrombosis\n* Active or prior documented GI bleeding (eg, esophageal varices or ulcer bleeding) within 12 months\n* HBV and HVC co-infection, or HBV and Hep D co-infection",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15237",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS) - Treme 300 mg x1 Dose + Durva 1500 mg vs Sora 400 mg",
+      "timeFrame": "From the date of randomization until death due to any cause, assessed up to the data cut-off date (27Aug2021, to a maximum of approximately 46 months).",
+      "description": "OS was defined as the time from the date of randomization until death due to any cause, regardless of whether the participant withdrew from randomized therapy or received another anticancer therapy. Any participant not known to have died at the DCO date was censored based on the last recorded date on which the participant was known to be alive. If the last known date alive or if the date of death was after the DCO date, participants were censored at the DCO date. This primary outcome measure presents OS analysis of Treme 300mg x1 dose + Durva 1500 mg vs Sora 400 mg at the time of the final analysis DCO (27Aug2021)."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2017-10-11",
+  "completion_date": "2026-08-27",
+  "last_updated": "2026-03-19"
+}

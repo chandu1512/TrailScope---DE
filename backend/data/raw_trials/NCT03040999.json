@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT03040999",
+  "brief_title": "Study of Pembrolizumab (MK-3475) or Placebo With Chemoradiation in Participants With Locally Advanced Head and Neck Squamous Cell Carcinoma (MK-3475-412/KEYNOTE-412)",
+  "official_title": "A Randomized Phase III Study of Pembrolizumab Given Concomitantly With Chemoradiation and as Maintenance Therapy Versus Chemoradiation Alone in Subjects With Locally Advanced Head and Neck Squamous Cell Carcinoma (KEYNOTE-412)",
+  "brief_summary": "The purpose of this study is to determine the efficacy and safety of pembrolizumab given concomitantly with chemoradiation (CRT) and as maintenance therapy versus placebo plus CRT in participants with locally advanced head and neck squamous cell carcinoma (LA HNSCC). The primary hypothesis is that pembrolizumab in combination with CRT is superior to placebo in combination with CRT with respect to event-free survival (EFS).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 804,
+  "conditions": [
+    "Head and Neck Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Pembrolizumab",
+      "type": "BIOLOGICAL",
+      "description": "Administered as an intravenous (IV) infusion every 3 weeks (Q3W)"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Normal saline or dextrose solution administered as an IV infusion Q3W"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "100 mg/m\\^2 administered as an IV infusion Q3W"
+    },
+    {
+      "name": "Accelerated Fractionation (AFX) Radiotherapy",
+      "type": "RADIATION",
+      "description": "70 Gray (Gy) given in 35 fractions over 6 weeks"
+    },
+    {
+      "name": "Standard Fractionation (SFX) Radiotherapy",
+      "type": "RADIATION",
+      "description": "70 Gy given in 35 fractions over 7 weeks"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Has a pathologically proven new diagnosis of oropharyngeal p16 positive, oropharyngeal p16 negative, or larynx/hypopharynx/oral cavity (independent of p16) squamous cell carcinoma. Participants with oral cavity tumors need to have unresectable disease. Participants with multiple synchronous tumors are not eligible for the study.\n* Has provided tissue for Programmed Cell Death Receptor Ligand 1 (PD-L1) biomarker analysis from a core or excisional biopsy. If an excisional or incisional biopsy has been performed, participants remain eligible for the study provided the residual disease meets the staging criteria required for the trial (e.g., excisional biopsy of a lymph node with residual T4 primary). Prior surgical debulking, including tonsillectomy, for the head and neck cancer under study is not allowed.\n* Has evaluable tumor burden (measurable and/or non-measurable tumor lesions) assessed by computed tomography scan or magnetic resonance imaging, based on RECIST version 1.1\n* Is eligible for definitive CRT and not considered for primary surgery based on investigator decision\n* Has Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 performed within 10 days prior to receiving the first dose of study therapy\n* Female participants of childbearing potential must have a negative urine or serum pregnancy test within 72 hours prior to receiving the first dose of study therapy\n* Female and male participants of reproductive potential must agree to use adequate contraception throughout the study period and for up to 180 days after the last dose of study therapy\n\nExclusion Criteria:\n\n* Is currently participating or has participated in a study with an investigational agent or using an investigational device within 4 weeks of the first dose of study therapy\n* Has received prior therapy with an anti-Programmed Cell Death Receptor 1 (PD-1), anti-PD-L1, anti-Programmed Cell Death Receptor Ligand 2 (PD-L2) agent or with an agent directed to another co-inhibitory T-cell receptor or has previously participated in clinical studies with pembrolizumab\n* Has received a live vaccine within 30 days prior to the first dose of study therapy\n* Has cancer outside of the oropharynx, larynx, and hypopharynx or oral cavity, such as nasopharyngeal, sinus, other para-nasal, or other unknown primary head and neck cancer\n* Has had prior systemic therapy, targeted therapy, radiotherapy treatment or radical surgery for head and neck cancer under study\n* Has not recovered from major surgery prior to starting study therapy\n* Has known active Hepatitis B or C\n* Has known history of Human Immunodeficiency Virus (HIV)\n* Has a diagnosis of immunodeficiency or is receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of study therapy\n* Has a history of (non-infectious) pneumonitis that required steroids or current pneumonitis\n* Has an active autoimmune disease that has required systemic treatment in the past 2 years. Replacement therapy is not considered a form of systemic treatment.\n* Has history of a diagnosed and/or treated hematologic or primary solid tumor malignancy, unless in remission for at least 5 years prior to randomization\n* Has known active central nervous system (CNS) metastases and/or carcinomatous meningitis\n* Has had previous allogeneic tissue/solid organ transplant\n* Has active infection requiring systemic therapy\n* Has a history of severe hypersensitivity reaction to pembrolizumab, Cisplatin or radiotherapy or their analogs\n* Is pregnant or breast feeding or expecting to conceive or father children throughout the study period and for up to 180 days after the last dose of study therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "St. Luke's Cancer Center - Anderson ( Site 0251)",
+      "city": "Easton",
+      "state": "Pennsylvania",
+      "zip": "18045",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Event-free Survival (EFS)",
+      "timeFrame": "Up to approximately 62 months",
+      "description": "EFS was defined as the time from date of randomization to the date of first record of any of the following events: death due to any cause; progression per Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1.1) by blinded independent central review (BICR) or biopsy as indicated for locoregional progression or recurrence or distant metastasis. As well as the first record of the following types of surgery: salvage surgery for persistent or residual disease at the primary tumor site requiring surgical removal when invasive cancer is present on final pathology; neck dissection or surgery (performed for clinical or radiological disease progression per RECIST 1.1) \u2264 20 weeks from end of CRT when invasive cancer is present; or neck dissection or surgery \\>20 weeks from end of CRT when invasive cancer is present. The non-parametric Kaplan-Meier method was used to estimate the EFS curve in each treatment group."
+    }
+  ],
+  "sponsor": "Merck Sharp & Dohme LLC",
+  "collaborators": [],
+  "start_date": "2017-04-05",
+  "completion_date": "2024-08-21",
+  "last_updated": "2026-01-15"
+}

@@ -1,0 +1,96 @@
+{
+  "nct_id": "NCT01280552",
+  "brief_title": "A Study of ICT-107 Immunotherapy in Glioblastoma Multiforme (GBM)",
+  "official_title": "A Randomized, Double-blind, Controlled Phase IIb Study of the Safety and Efficacy of ICT-107 in Newly Diagnosed Patients With Glioblastoma Multiforme (GBM) Following Resection and Chemoradiation",
+  "brief_summary": "This is a phase 2, multicenter study to determine the safety and efficacy of ICT-107 in treating a type of brain tumor called Glioblastoma Multiforme (GBM). ICT-107 is an immunotherapy in which the patient's immune response will be stimulated to kill the tumor cells. Patients must be newly diagnosed with GBM and not yet received chemoradiation. Some of the patient's white blood cells (WBC) will be removed and cultured in a laboratory with purified antigens, similar to those on GBM cells. The patient's own WBC/DC that have been exposed to the tumor antigens will then be given back to the patient as a vaccine over several months. The goal is for the ICT-107 vaccine to stimulate the patient's immune response to kill the remaining GBM tumor cells after surgery and chemotherapy.",
+  "detailed_description": "The proposed phase 2 study is a randomized, double blind, controlled study of the safety and efficacy of ICT-107 in newly diagnosed patients with glioblastoma multiforme (GBM) following resection and chemoradiation. The phase 1 clinical trial demonstrated safety and promising efficacy in a small, open-label study. The purpose of this study is to provide information from a larger, controlled clinical trial. Patients must be newly diagnosed with GBM and not yet received chemoradiation. Patients will have had tumor resection, magnetic resonance imaging (MRI) and tumor assessment prior to enrollment into the study. Post surgical treatment consists of 6 weeks of chemotherapy (TMZ) and radiation followed by a washout period. After Screening and informed consent, patients will undergo apheresis at the study site for collection of peripheral blood mononuclear cells (PBMCs). Apheresis product will be sent to a central site where monocytes will be purified and cultured into dendritic cells (DC). DC will be pulsed with synthetic peptides that correspond to immunogenic epitopes of tumor antigens. The pulsed dendritic cells will then be aliquoted and frozen before shipping back to the site. Patients will have the autologous DCs reinfused intradermally. A control group will receive unpulsed autologous DC. Patients will be randomized by age in a 2:1 ratio to ICT-107 or control.Patients will receive at least four intradermal injections of the ICT-107 vaccine and additional vaccine during a maintenance phase. The primary objective is to compare overall survival (OS) and progression free survival (PFS) in patients when treated with ICT-107 versus Control.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 124,
+  "conditions": [
+    "Glioblastoma Multiforme"
+  ],
+  "interventions": [
+    {
+      "name": "ICT-107",
+      "type": "BIOLOGICAL",
+      "description": "Autologous dendritic cells pulsed with immunogenic antigens"
+    },
+    {
+      "name": "Placebo DC",
+      "type": "BIOLOGICAL",
+      "description": "Autologous dendritic cells (DC) that have not been pulsed with antigens"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Confirmed, initial diagnosis of GBM. Patients must be newly diagnosed with GBM and not yet received chemoradiation.\n2. \u2265 18 years of age\n3. HLA-A1 or HLA-A2 positive\n4. KPS score of \u2265 70%\n5. Baseline hematologic studies and chemistry profiles must meet the following criteria:\n\n   Hemoglobin (Hgb) \\> 9.9 g/dL total granulocyte count \\> than 1000/mm3 platelet count \\> 100,000/mm3 blood urea nitrogen (BUN) \\< 30 mg/dL creatinine \\< 2 mg/dL alkaline phosphatase (ALP), aspartate aminotransferase (AST) and alanine aminotransferase (ALT) \\< 4x upper limit of normal (ULN) prothrombin time (PT) and activated partial thromboplastin time (PTT) \u2264 1.6x control unless therapeutically warranted\n6. Female patients of child-bearing potential must have negative serum pregnancy test\n7. If not surgically sterile, male and female patients of childbearing age must use double barrier contraception (hormonal; intrauterine device; barrier)\n8. Sufficient paraffin embedded tumor sample for analysis MGMT methylation status\n9. Written informed consent, Release of Medical Records Form and Health Insurance Portability and Accountability Act (HIPAA) reviewed and signed by patient or legally authorized representatives\n\nExclusion Criteria:\n\n1. Recurrent disease\n2. Radiosurgery including Gamma Knife, linear accelerator based radiosurgery, CyberKnife and placement of Gliadel wafer\n3. Presence of any other active malignancy or prior history of malignancy (except for basal cell carcinoma of the skin)\n4. Severe pulmonary, cardiac or other systemic disease\n5. Congestive heart failure Class III or IV according to New York Heart Association (NYHA)\n6. Presence of an acute infection requiring active treatment with antibiotics/antivirals; prophylactic administration is allowed\n7. Known history of an autoimmune disorder\n8. Known human immunodeficiency virus (HIV) positivity or acquired immunodeficiency syndrome (AIDS) related illness or other serious medical illness\n9. Breastfeeding\n10. Received any other therapeutic investigational agent within 30 days of enrollment\n11. Reduction of steroids (dexamethasone) to a maximum of 2 mg twice a day (BID) prior to the first administration of study vaccine",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University School of Medicine",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "New Jersey Neuroscience Institute",
+      "city": "Edison",
+      "state": "New Jersey",
+      "zip": "08818",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "Penn State Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "2 -3 years",
+      "description": "The objective is to compare overall survival (OS) in patients when treated with ICT 107 versus Control. OS defined as the time from randomization until date of death or the last date patient known alive (if death is not observed) All randomized patients are included in Intent to Treat analysis"
+    },
+    {
+      "measure": "Overall Survival in HLA-A2 Patients",
+      "timeFrame": "2-3 years",
+      "description": "Overall survival in a predefined subpopulation. All randomized patients are included in intent to treat analysis."
+    }
+  ],
+  "sponsor": "Precision Life Sciences Group",
+  "collaborators": [],
+  "start_date": "2011-01",
+  "completion_date": "2015-12",
+  "last_updated": "2017-02-10"
+}

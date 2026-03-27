@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT02432560",
+  "brief_title": "Safety and Durability of Sirolimus for Treatment of LAM",
+  "official_title": "Multicenter International Durability and Safety of Sirolimus in LAM Trial (MIDAS)",
+  "brief_summary": "The MIDAS study aims to follow male and female LAM patients who are currently taking, have previously failed or been intolerant of, or may (at some time in the future) take mTOR inhibitors (sirolimus or everolimus) as part of their clinical care. Adult female TSC patients may also enroll, with or without lung cysts.",
+  "detailed_description": "Lymphangioleiomyomatosis (LAM) is an uncommon disease affecting women. It is associated with cystic lung destruction and progressive respiratory failure. The Multicenter International LAM Efficacy of Sirolimus (MILES) Trial, led by the investigators' research team, demonstrated that mTOR (mammalian target of rapamycin) inhibition with sirolimus was an effective therapy that stabilized decline in FEV1 (forced expiratory volume). However, lung function decline resumed when the drug was stopped at the one year point in MILES, suggesting that therapy is suppressive rather than remission-inducing, and may need to be lifelong. There is therefore a need to understand whether long-term therapy with sirolimus is safe and effective. To accomplish this goal, the investigators will conduct the Multicenter International Durability and Safety of Sirolimus in LAM Trial (MIDAS). This is an observational, real world registry. The investigators propose to enroll 600 LAM patients who are on, have previously failed or been intolerant of or are considering taking sirolimus or everolimus for clinical reasons in a longitudinal observational study. This registry will follow lung function tests and adverse events that are obtained for clinical purposes over periods of at least 2 years. The decision to treat with mTOR inhibitor therapy is made by the clinician and the patient, and will be managed by the participant's clinician. This study will help us to refine treatment for patients with LAM and determine if long term suppressive therapy with sirolimus can prevent progression to later stages of disease. This research will be accomplished as part of the NIH/NCATS Rare Lung Disease Consortium, with data stored and analyzed by the Database Management Coordinating Center (DMCC) at the University of South Florida.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 600,
+  "conditions": [
+    "Lymphangioleiomyomatosis"
+  ],
+  "interventions": [
+    {
+      "name": "Sirolimus",
+      "type": "DRUG",
+      "description": "Sirolimus treatment will be part of a participant's clinical care and will be managed by their physician."
+    },
+    {
+      "name": "Everolimus",
+      "type": "DRUG",
+      "description": "Everolimus treatment will be part of a participant's clinical care and will be managed by their physician."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Female or male, age 18 or over\n* Diagnosis of LAM based on ATS/JRS criteria\n* Signed and dated informed consent\n* On chronic therapy, newly treated or may be considered for therapy with mTOR inhibitors or previously intolerant of or having failed mTOR inhibitor therapy\n\nExclusion Criteria:\n\n* Inability to attend at least one RLD Clinic visit per year\n* Inability to give informed consent\n* Inability or unwillingness to perform pulmonary function testing",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "ACTIVE_NOT_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Long term safety of mTOR inhibitor treatment in LAM",
+      "timeFrame": "2-5 years",
+      "description": "Symptoms and adverse events will be recorded"
+    },
+    {
+      "measure": "Efficacy - FEV1 slope",
+      "timeFrame": "2-5 years",
+      "description": "Rate of change in FEV1 in ml/month"
+    },
+    {
+      "measure": "Efficacy -10% reduction in FEV1",
+      "timeFrame": "2-5 years",
+      "description": "time from enrollment to 10% or greater reduction in FEV1(forced expiratory volume) in months"
+    }
+  ],
+  "sponsor": "University of Cincinnati",
+  "collaborators": [
+    "Rare Diseases Clinical Research Network",
+    "National Institutes of Health (NIH)",
+    "National Heart, Lung, and Blood Institute (NHLBI)",
+    "The LAM Foundation"
+  ],
+  "start_date": "2015-03",
+  "completion_date": "2025-07-31",
+  "last_updated": "2024-12-18"
+}

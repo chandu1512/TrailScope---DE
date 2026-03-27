@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT03194867",
+  "brief_title": "Isatuximab in Combination With Cemiplimab in Relapsed/Refractory Multiple Myeloma (RRMM) Patients",
+  "official_title": "A Phase 1/2 Study to Evaluate Safety, Pharmacokinetics and Efficacy of Isatuximab in Combination With Cemiplimab in Patients With Relapsed/Refractory Multiple Myeloma",
+  "brief_summary": "Primary Objectives:\n\n* To evaluate the safety and tolerability of the combination of isatuximab (also known as SAR650984) and cemiplimab (also known as REGN2810) in patients with relapse/refractory multiple myeloma.\n* To compare the overall response of the combination of isatuximab and cemiplimab versus isatuximab alone in patients with RRMM based on International Myeloma Working Group (IMWG) criteria.\n\nSecondary Objectives:\n\n* To evaluate the efficacy as assessed by clinical benefit rate (CBR), duration of response (DOR), time to response (TTR), progression free survival (PFS), and overall survival (OS).\n* To assess the pharmacokinetics (PK) of isatuximab and cemiplimab when given in combination.\n* To assess the immunogenicity of isatuximab and cemiplimab when given in combination.",
+  "detailed_description": "The duration of the study for a patient will include a period for screening of up to 21 days and 3-month post treatment follow up. The cycle duration is 28 days. Patients will continue treatment until disease progression, unacceptable adverse events, consent withdrawal, or any other reason.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 109,
+  "conditions": [
+    "Plasma Cell Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Isatuximab SAR650984",
+      "type": "DRUG",
+      "description": "Pharmaceutical form: solution for infusion\n\nRoute of administration: intravenous"
+    },
+    {
+      "name": "Cemiplimab REGN2810",
+      "type": "DRUG",
+      "description": "Pharmaceutical form: solution for infusion\n\nRoute of administration: intravenous"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria:\n\n* Patients must have a known diagnosis of multiple myeloma with evidence of measurable disease, as defined below:\n\n  * Serum M-protein \u22651 g/dL (\u22650.5 g/dL in case of immunoglobulin A \\[IgA\\] disease), AND/OR\n  * Urine M-protein \u2265200 mg/24 hours, OR\n  * In the absence of measurable M-protein, serum immunoglobulin free light chain \u226510 mg/dL, and abnormal serum immunoglobulin kappa lambda free light chain ratio (\\<0.26 or \\>1.65).\n* Patients must have received prior treatment with an immunomodulatory drug (IMiD) (for \u22652 cycles or \u22652 months of treatment) and a proteasome inhibitor (PI) (for \u22652 cycles or \u22652 months of treatment).\n* Patients must have received at least 3 prior lines of therapy (Note: Induction therapy and stem cell transplant \u00b1 maintenance will be considered as one line).\n* Patient must have achieved MR or better with any anti-myeloma therapy (ie, primary refractory disease is not eligible).\n\nExclusion criteria:\n\n* Prior exposure to isatuximab or participated clinical studies with isatuximab.\n* Prior exposure to any agent (approved or investigational) that blocks the programmed cell death-1 (PD-1)/PD-L1 pathway.\n* Evidence of other immune related disease/conditions.\n* History of non-infectious pneumonitis requiring steroids or current pneumonitis; history of the thoracic radiation.\n* Has received a live-virus vaccination within 30 days of planned treatment start. Seasonal flu vaccines that do not contain live virus are permitted.\n* Has allogenic haemopoietic stem cell (HSC) transplant.\n* Prior treatment with idelalisib (a PI3K inhibitor).\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) \\>2.\n* Poor bone marrow reserve.\n* Poor organ function.\n\nThe above information is not intended to contain all considerations relevant to a patient's potential participation in a clinical trial.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center-Site Number:8400004",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1: Number of Participants With Dose-Limiting Toxicities (DLTs)",
+      "timeFrame": "Cycle 1 Day 1 to Day 28",
+      "description": "Potential DLTs were defined as the occurrence of any of the following adverse reactions at first treatment cycle, unless due to disease progression or obviously unrelated cause: Hematological DLTs: Grade(G) 4 neutropenia (N) for more than 7 consecutive days, G3 to G4 N complicated by fever (temperature greater than or equal to \\[\\>=\\] 38.5 degree Celsius on more than 1 occasion) or microbiologically/radiographically documented infection, G3 to G4 thrombocytopenia associated with clinically significant bleeding requiring clinical intervention or Non-hematological DLTs: G4 non-hematologic AE, G\\>=2 uveitis, G3 non-hematological AE lasting greater than (\\>)3 days despite optimal care support, delay in initiation of Cycle 2 \\>14 days due to treatment related laboratory abnormalities/AE. Any other AE that the investigator/study committee deemed to be dose-limiting, regardless of grade, was also considered as DLT."
+    },
+    {
+      "measure": "Phase 1 and Phase 2: Number of Participants With Treatment-Emergent Adverse Events (TEAEs) and Treatment-Emergent Serious Adverse Events (TESAEs)",
+      "timeFrame": "TEAEs were collected from the first dose up to 30 days after the last dose of study treatment, approximately 50 months",
+      "description": "An AE was defined as any untoward medical occurrence in a participant or clinical investigation participant administered with a pharmaceutical product and which did not necessarily have a causal relationship with study treatment. SAEs were any untoward medical occurrence that at any dose: resulted in death, was life-threatening, required inpatient hospitalization or prolongation of existing hospitalization, resulted in persistent or significant disability/incapacity, was a congenital anomaly/birth defect, was a medically important event. TEAEs were defined as an AE which occurred after the first dose of study treatment administration up to 30 days after the last dose of study treatment administration. The DLT observation period was 1 cycle (28 days). However, all AEs during treatment, unless due to disease progression or an obviously unrelated cause, were taken into consideration by the Study Committee for the determination of the maximum tolerated dose and recommended Phase 2 dose."
+    },
+    {
+      "measure": "Phase 2: Percentage of Participants With Overall Response Rate (ORR)",
+      "timeFrame": "From Cycle 1 Day 1 up to primary analysis completion date of 9 Oct 2019 i.e., up to approximately 17 months",
+      "description": "ORR by Investigator using international myeloma working group (IMWG) response criteria:percentage of participants with complete response (CR) (including stringent CR \\[sCR\\]very good partial response \\[VGPR\\] and partial response \\[PR\\]).CR:negative immunofixation on serum and urine,disappearance of any soft tissue plasmacytomas,less than (\\<)5% plasma cells in bone marrow (BM) aspirates and normal free light chain(FLC)ratio (0.26-1.65).sCR:CR plus no clonal cells in BM biopsy.VGPR:serum and urine M-protein detectable by immunofixation,not electrophoresis;\\>=90% reduction in serum M-protein plus urine M-protein level\\<100mg/24hour(h);FLC only:\\>=90% decrease in difference between involved and uninvolved FLC levels.PR:\\>=50% reduction of serum M-protein and reduction in 24h urine M-protein by \\>=90% or \\<200mg/24h.In addition to above, if present at baseline,\\>=50% reduction in size (sum of products of maximal perpendicular diameters of measured lesions \\[SPD\\]) of soft tissue plasmacytomas required."
+    }
+  ],
+  "sponsor": "Sanofi",
+  "collaborators": [],
+  "start_date": "2018-02-21",
+  "completion_date": "2023-04-05",
+  "last_updated": "2024-05-21"
+}

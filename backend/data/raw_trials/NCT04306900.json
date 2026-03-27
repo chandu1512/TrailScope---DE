@@ -1,0 +1,93 @@
+{
+  "nct_id": "NCT04306900",
+  "brief_title": "TTX-030 in Combination With Immunotherapy and/or Chemotherapy in Subjects With Advanced Cancers",
+  "official_title": "Phase 1/1b Study to Evaluate the Safety and Activity of TTX-030 (Anti-CD39) in Combination With Pembrolizumab or Budigalimab and/or Chemotherapy in Subjects With Advanced Solid Tumors",
+  "brief_summary": "This is a phase 1/1b study of TTX-030 in combination therapy, an antibody that inhibits CD39 enzymatic activity, leading to accumulation of pro-inflammatory adenosine triphosphate (ATP) and reduction of immunosuppressive adenosine, which may change the tumor microenvironment and promote anti-tumor immune response.\n\nThis trial will study the safety, tolerability, pharmacokinetics, pharmacodynamics and anti-tumor activity of TTX-030 in combination with immunotherapy and/or standard chemotherapies.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 185,
+  "conditions": [
+    "Solid Tumor, Adult"
+  ],
+  "interventions": [
+    {
+      "name": "TTX-030, budigalimab and mFOLFOX6",
+      "type": "COMBINATION_PRODUCT",
+      "description": "Dose and schedule per protocol"
+    },
+    {
+      "name": "TTX-030, budigalimab and docetaxel",
+      "type": "COMBINATION_PRODUCT",
+      "description": "Dose and schedule per protocol"
+    },
+    {
+      "name": "TTX-030 and mFOLFOX6",
+      "type": "COMBINATION_PRODUCT",
+      "description": "Dose and schedule per protocol"
+    },
+    {
+      "name": "TTX-030 and budigalimab",
+      "type": "COMBINATION_PRODUCT",
+      "description": "Dose and schedule per protocol"
+    },
+    {
+      "name": "TTX-030, budigalimab, nab-paclitaxel and gemcitabine",
+      "type": "COMBINATION_PRODUCT",
+      "description": "Dose and schedule per protocol"
+    },
+    {
+      "name": "TTX-030 and pembrolizumab",
+      "type": "COMBINATION_PRODUCT",
+      "description": "Dose and schedule per protocol"
+    },
+    {
+      "name": "TTX-030, nab-paclitaxel and gemcitabine",
+      "type": "COMBINATION_PRODUCT",
+      "description": "Dose and schedule per protocol"
+    },
+    {
+      "name": "Budigalimab and mFOLFOX6",
+      "type": "COMBINATION_PRODUCT",
+      "description": "Dose and schedule per protocol"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Abbreviated Inclusion Criteria:\n\n1. Age 18 years or older, is willing and able to provide informed consent\n2. Histologically confirmed diagnosis of unresectable or metastatic solid tumor malignancy in selected tumor types\n3. Life expectancy \\> 12 weeks\n4. ECOG performance status of 0-1\n\nAbbreviated Exclusion Criteria:\n\n1. History of allergy or hypersensitivity to study treatment components. Patients with a history of severe hypersensitivity reaction to any monoclonal antibody.\n2. Use of investigational agent within 28 days prior to the first dose of study treatment and throughout the study\n3. Receiving high-dose systemic steroid therapy or any other form of immunosuppressive therapy\n4. History of severe autoimmune disease\n5. Uncontrolled intercurrent illness or other active malignancy requiring ongoing treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "110 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants Who Experienced Dose-Limiting Toxicities (DLTs)",
+      "timeFrame": "7 day load + 1 cycle (1 cycle is 28 days)",
+      "description": "A DLT was defined as the occurrence of any of the following toxicities within the DLT Evaluation Period if judged by the Investigator and Sponsor to be possibly, probably, or definitely related to TTX-030 or budigalimab."
+    },
+    {
+      "measure": "The Incident of Adverse Events",
+      "timeFrame": "Through study completion, an average of 1 year",
+      "description": "Number of study subjects experiencing adverse events (AEs) and serious adverse events (SAEs). Safety profile will be assessed through laboratory evaluations, vital signs, and physical examinations."
+    }
+  ],
+  "sponsor": "Trishula Therapeutics, Inc.",
+  "collaborators": [
+    "AbbVie"
+  ],
+  "start_date": "2020-03-30",
+  "completion_date": "2024-03-27",
+  "last_updated": "2025-07-09"
+}

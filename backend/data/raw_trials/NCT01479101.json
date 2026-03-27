@@ -1,0 +1,101 @@
+{
+  "nct_id": "NCT01479101",
+  "brief_title": "NBRST: Prospective Neo-adjuvant REGISTRY Trial",
+  "official_title": "Prospective Neo-adjuvant REGISTRY Trial Linking MammaPrint, Subtyping and Treatment Response: Neoadjuvant Breast Registry - Symphony Trial (NBRST) (Pronounced \"in Breast\")",
+  "brief_summary": "The scope of this registry study is to measure chemosensitivity as defined by pCR (primary endpoint), or endocrine sensitivity as defined by partial response (decrease in longest tumor diameter or residual cancer burden category 1 (RCB1), a primary endpoint for neo-adjuvant endocrine therapy and a secondary endpoint for neoadjuvant chemotherapy), metastasis-free survival and relapse-free survival(secondary endpoints) in molecular subgroups, determined by the established MammaPrint, BluePrint, Targetprint and Theraprint profiles in addition to possible novel expression profiles.",
+  "detailed_description": "This will be a prospective observational, case-only study linking MammaPrint, BluePrint, TargetPrint, TheraPrint and possible additional profiles of interest to treatment response and Distant Metastases Free Survival (DMFS) and Relapse Free Survival (RFS). Only patients who receive neo-adjuvant therapy can participate.\n\nFor this project, approximately 50-70 institutions in the US will be invited to contribute clinical patient data from enrolled patients after a MammaPrint, TargetPrint, BluePrint and TheraPrint test has been successfully performed and the patient has started neo-adjuvant therapy.\n\nTreatment is at the discretion of the physician, adhering to NCCN approved regimens or a recognized alternative.\n\nThe clinical data is to be entered online at 4 time points; amounting to four Case Report Forms (CRFs). Data will be collected on an ongoing basis, the first CRF must be completed within 6 weeks after the MammaPrint, BluePrint, TargetPrint, and TheraPrint result was provided. The second CRF should be completed 4 weeks after definitive surgery. CRF 3 and CRF4 will be completed 2-3 and 5 years after surgery.\n\nIt is expected that we will enroll around 1000 patients in 4 years.\n\nOBJECTIVES\n\n* Measure chemosensitivity (as defined by pCR) or endocrine sensitivity (as defined by decrease in longest tumor diameter or RCB1)in the molecular subgroups as determined by combining MammaPrint and BluePrint results.\n* Correlate chemosensitivity (as defined by pCR) to TheraPrint Therapy Gene Assay results.\n* Compare local IHC and FISH results (if available) with TargetPrint results. Compare the three BluePrint molecular subgroups with IHC-based subtype classification.\n* Document impact of MammaPrint, TargetPrint and BluePrint result on treatment decision.\n* Assess the 2-3 and 5 years DMFS and RFS for the different molecular subgroups.\n* Measure chemosensitivity or endocrine sensitivity correlation with novel expression profiles.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1142,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "MammaPrint 70-gene expression profile",
+      "type": "OTHER",
+      "description": ""
+    },
+    {
+      "name": "BluePrint 80 gene expression profile",
+      "type": "OTHER",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Women with histologically proven breast cancer, who have started or are scheduled to start neo-adjuvant chemotherapy therapy or neo-adjuvant hormone therapy, after successful MammaPrint assay\n* Age 18-90\n* Written informed consent\n\nExclusion Criteria:\n\n* Patients who have had excisional biopsy or axillary dissection Patients with confirmed distant metastatic disease\n* Tumor sample shipped to Agendia with \u2264 30% tumor cells or that fails QA or QC criteria\n* Patients who have had any prior chemotherapy, radiotherapy, or endocrine therapy for the treatment of breast cancer\n* Any serious uncontrolled intercurrent infections, or other serious uncontrolled concomitant disease",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "90 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Signature Breast Care",
+      "city": "Lanham",
+      "state": "Maryland",
+      "zip": "20706",
+      "status": ""
+    },
+    {
+      "facility": "Virtua Health",
+      "city": "Willingboro",
+      "state": "New Jersey",
+      "zip": "08046",
+      "status": ""
+    },
+    {
+      "facility": "Breast Care Specialists",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18104",
+      "status": ""
+    },
+    {
+      "facility": "ACMH Cancer Center",
+      "city": "Kittanning",
+      "state": "Pennsylvania",
+      "zip": "16201",
+      "status": ""
+    },
+    {
+      "facility": "St. Mary Medical Center",
+      "city": "Langhorne",
+      "state": "Pennsylvania",
+      "zip": "19047",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "St. Clair Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15243",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Chemosensitivity as defined by pCR",
+      "timeFrame": "Up to 6 months",
+      "description": "For neo-adjuvant chemotherapy patients the primary endpoint is pathological complete response (pCR) which is defined as the absence of invasive carcinoma in both the breast and axilla at microscopic examination of the resection specimen, regardless of the presence of carcinoma in situ. The response rate and corresponding confidence intervals will be presented as a proportion of all patients enrolled. Comparison of response rates between different molecular subgroups will be conducted using Pearson Chi-square test."
+    },
+    {
+      "measure": "Endocrine sensitivity as defined by partial response (decrease in longest tumor diameter or residual cancer burden category 1 (RCB1)",
+      "timeFrame": "Up to 6 months",
+      "description": "The primary endpoint for patients with neo-adjuvant hormonal therapy is partial response which is defined as decrease in longest tumor diameter. The response rate and corresponding confidence intervals will be presented as a proportion of all patients enrolled. Comparison of response rates between different molecular subgroups will be conducted using Pearson Chi-square test."
+    }
+  ],
+  "sponsor": "Agendia",
+  "collaborators": [],
+  "start_date": "2011-07",
+  "completion_date": "2021-01",
+  "last_updated": "2021-01-14"
+}

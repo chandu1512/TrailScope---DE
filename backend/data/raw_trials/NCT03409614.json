@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT03409614",
+  "brief_title": "Combinations of Cemiplimab (Anti-PD-1 Antibody) and Platinum-based Doublet Chemotherapy in Patients With Lung Cancer",
+  "official_title": "A Two-Part Randomized, Phase 3 Study of Combinations of Cemiplimab (Anti-PD-1 Antibody) and Platinum-based Doublet Chemotherapy in First-line Treatment of Patients With Advanced or Metastatic Non-Small Cell Lung Cancer",
+  "brief_summary": "The primary objectives of this study are:\n\nPart 1: To compare the overall survival (OS) of cemiplimab/chemo-f and cemiplimab/chemo-l/ipi versus platinum-based doublet chemotherapy in the first-line treatment of patients with advanced squamous or nonsquamous non-small cell lung cancer (NSCLC) with tumors expressing PD-L1 in \\<50% of tumor cells.\n\nPart 2: To compare the OS of cemiplimab/chemo-f with placebo/chemo-f in the first-line treatment of patients with advanced squamous or non-squamous NSCLC irrespective of PD-L1 expression.\n\nThe key secondary objectives are:\n\nPart 1: To compare the progression-free survival (PFS) and objective response rate (ORR) of cemiplimab/chemo-f and cemiplimab/chemo-l/ipi versus chemo-f in the first-line treatment of patients with advanced squamous or non-squamous NSCLC and tumors expressing PD-L1 in \\<50% of tumor cells.\n\nPart 2: To compare the PFS and ORR of cemiplimab/chemo-f versus placebo/chemo-f in the first-line treatment of patients with advanced squamous or non-squamous NSCLC irrespective of PD-L1 expression.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 790,
+  "conditions": [
+    "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "REGN2810",
+      "type": "DRUG",
+      "description": "REGN2810 plus Platinum-based doublet chemotherapy Part 1 and Part 2"
+    },
+    {
+      "name": "REGN2810/chemo/ipi",
+      "type": "DRUG",
+      "description": "REGN2810 plus abbreviated chemotherapy plus Ipilimumab Part 1"
+    },
+    {
+      "name": "Chemotherapy",
+      "type": "OTHER",
+      "description": "Platinum-based doublet chemotherapy Part 1"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Matching placebo Part 2"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n1. Men and women \u226520 years of age for Japanese patients\n2. Patients with histologically or cytologically documented squamous or non-squamous NSCLC with stage IIIB or IIIC disease who are not candidates for treatment with definitive concurrent chemoradiation or patients with stage IV disease if they have not received prior systemic treatment for recurrent or metastatic NSCLC\n3. Availability of an archival (\u22645 months) or on-study obtained formalin-fixed, paraffin-embedded tumor tissue sample from a metastatic or recurrent site, which has not previously been irradiated\n4. Part 1 only: Expression of PD-L1 in \\<50% of tumor cells determined by a commercially available assay performed by the central laboratory\n5. At least 1 radiographically measurable lesion by computed tomography (CT) or magnetic resonance imaging (MRI) per RECIST 1.1 criteria. Target lesions may be located in a previously irradiated field if there is documented (radiographic) disease progression in that site\n6. Eastern Cooperative Oncology Group (ECOG) performance status of \u22641\n7. Anticipated life expectancy of at least 3 months\n\nKey Exclusion Criteria:\n\n1. Part 1 only: Patients who have never smoked, defined as smoking \u2264100 cigarettes in a lifetime\n2. Active or untreated brain metastases or spinal cord compression\n3. Patients with tumors tested positive for Epidermal growth factor receptor (EGFR) gene mutations, Anaplastic lymphoma kinase (ALK) gene translocations, or C-ros oncogene receptor tyrosine kinase(ROS1) fusions\n4. Encephalitis, meningitis, or uncontrolled seizures in the year prior to enrollment\n5. History of interstitial lung disease (eg, idiopathic pulmonary fibrosis or organizing pneumonia), of active, noninfectious pneumonitis that required immune-suppressive doses of glucocorticoids to assist with management, or of pneumonitis within the last 5 years\n6. Ongoing or recent evidence of significant autoimmune disease that required treatment with systemic immunosuppressive treatments, which may suggest risk of immune-related treatment-emergent adverse events (irTEAEs)\n7. Patients with a condition requiring corticosteroid therapy (\\>10 mg prednisone/day or equivalent) within 14 days of randomization\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Regeneron Research Site",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    },
+    {
+      "facility": "Regeneron Research Site",
+      "city": "Gettysburg",
+      "state": "Pennsylvania",
+      "zip": "17325",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall survival",
+      "timeFrame": "Up to 32 months",
+      "description": ""
+    }
+  ],
+  "sponsor": "Regeneron Pharmaceuticals",
+  "collaborators": [
+    "Sanofi"
+  ],
+  "start_date": "2018-03-06",
+  "completion_date": "2025-02-27",
+  "last_updated": "2025-03-12"
+}

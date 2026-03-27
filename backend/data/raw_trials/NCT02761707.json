@@ -1,0 +1,89 @@
+{
+  "nct_id": "NCT02761707",
+  "brief_title": "Biomarkers in Neural Disorders",
+  "official_title": "Biomarkers in Neural Disorders",
+  "brief_summary": "This study seeks to establish the sensitivity and specificity of what appears to be a unique brainstem biomarker of Parkinson's Disease (PD) - an electrically induced olygosynaptic nasotrigeminal reflex response - in differentiating early stage PD from normal controls and from patients with various other neurodegenerative diseases. This study will additionally compare the biomarker to olfactory testing.",
+  "detailed_description": "Parkinson's disease (PD), a devastating age-related disease that is clinically defined by its effects on the motor system, afflicts more than six million people worldwide, imposing enormous burdens on patients, relatives, caretakers, and society in general. Diagnostic errors are common, particularly as symptoms first arise. The most common misdiagnoses are Alzheimer's disease (AD), essential tremor, and vascular pseudo-Parkinson's Disease. An accurate diagnosis is typically made at a later stage of the disease when marked and irreversible damage has occurred within the motor control system of the brain. Sensitive and specific biomarkers of the early stages of PD are urgently needed. Identification of such markers is critical for the development and assessment of medications and other interventions designed to eliminate or reduce the gradual and irreversible decline of neurons involved in the disorder. This study seeks to establish the sensitivity and specificity of what appears to be a unique brainstem biomarker of PD - an electrically induced trigeminal nerve blink reflex response - in differentiation of early stage PD from normal controls and such neurodegenerative diseases as early stage AD, progressive supranuclear palsy (PSP), and diffuse Lewy Body disease (DLBD). This study will additionally compare the biomarker to olfactory test results.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 54,
+  "conditions": [
+    "Parkinson's Disease",
+    "Alzheimer's Disease",
+    "Progressive Supranuclear Palsy",
+    "Essential Tremor",
+    "Multiple System Atrophy",
+    "Drug Induced Parkinson's Disease",
+    "Diffuse Lewy Body Disease",
+    "Myasthenia Gravis",
+    "Spinal Cord Injuries"
+  ],
+  "interventions": [
+    {
+      "name": "Electrical Brainstem Responses",
+      "type": "OTHER",
+      "description": "Eye blink responses will be induced using standard stimulating electrodes employed in surface electromyography (EMG). The subjects will recline with their eyes gently closed. Sticky electrodes will be placed to the left and below the left eye. 6 different facial regions will be stimulated. The electrical stimulation will be kept constant during the test sessions. To prevent habituation, the stimuli will be delivered randomly at intervals of 45-60 sec. Four 0.2 msec pulses will be presented. In some cases, paired pulse stimulation will be performed, and a conditioning stimulus will be applied to the target facial regions at the following intervals: 10, 200, 400, 600 and 800 msec. 4 pulses will be presented at each stimulus interval with randomized interval and pulse sequences."
+    },
+    {
+      "name": "Olfactory Tests",
+      "type": "OTHER",
+      "description": "Olfactory testing will be performed using standard tests. The University of Pennsylvania Smell Identification Test (UPSIT) assesses a subjects ability to identify odors in a forced choice format. The Snap and Sniff Threshold Test provides a threshold measure of phenyl ethyl alcohol. Short-term odor memory will be assessed using a standardized 12-item four-alternative forced-choice Odor Memory Test. This non-lexical test employs 10-, 30-, and 60-second delay intervals between the presentation of the target odorant and the first of four successively presented odors from which the target is to be selected."
+    },
+    {
+      "name": "Visual Deprivation",
+      "type": "OTHER",
+      "description": "During a 2-hour visual deprivation period, subjects will wear comfortable light-tight goggles with lenses that have been blackened by flat black paint. Subjects will be given the opportunity to recline comfortable in a padded reclining chair during this time."
+    },
+    {
+      "name": "Peripheral Nerve Stimulation",
+      "type": "OTHER",
+      "description": "Electrical stimulation will be applied to a nerve of your arm. Sticky electrode pads will also be placed on a hand muscle. You will receive electrical stimulations that lasts less than a second. The stimulations will make your muscle twitch."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* The Parkinson's disease (PD) patients will be Hoehn and Yahr stage 2 or less with a history of motor symptoms less than two years.\n* The Alzheimer's disease (AD) patients will meet the 2011 National Institute on Aging-Alzheimer's Association and the 1984 National Institute for Neurological and Communicative Disorders and Stroke-Alzheimer's disease and Related Disorders Association criteria for probable AD.\n* The progressive supranuclear palsy (PSP) patients will have met the NINDS-SPSP criteria for probable PSP, which requires vertical supranuclear gaze palsy, prominent postural instability, and falls in the first year of onset, as well as a number of other clinical features.\n* The DLBD patients will meet the Consensus Criteria for the clinical diagnosis of DLBD.\n* The healthy controls will be matched to the PD patients on such variables as sex, age, education level, and ethnicity.\n* The essential tremor (ET), multiple system atrophy (MSA), myasthenia gravis (MG), multiple system atrophy (MSA), Parkinson's disease dementia (D-PD), and Spinal Cord Injury (SCI) patients will meet the generally-accepted diagnostic criteria for these disorders.\n\nExclusion Criteria:\n\n* Drug abuse.\n* Any other known and potentially confounding condition that could reasonably be expected to interfere with the study assessments.\n* Under age 18.\n* Over age 80.\n* Smoker.\n* Pregnant or nursing.\n* Healthy control with a first degree relative who has a neurodegenerative disease.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Latency, amplitude, and area under the curve of brainstem reflex response",
+      "timeFrame": "1 Hour",
+      "description": "Latency, amplitude, and area under the curve of electrical brainstem reflex response of trigeminal nerve branches measured on the face musculature (before and after short-term visual deprivation)."
+    },
+    {
+      "measure": "Score on the University of Pennsylvania Smell Identification Test",
+      "timeFrame": "20 Minutes",
+      "description": "The number of correct odor identification responses out of 40 from the standardized University of Pennsylvania Smell Identification Test (before and after short-term visual deprivation)."
+    },
+    {
+      "measure": "Score on the Odor Discrimination/Memory Test",
+      "timeFrame": "30 Minutes",
+      "description": "The number of correct responses in picking out an odor previously presented from three foils 10, 30, and 60 sec later using the standardized Odor Detection/Discrimination Test (before and after short-term visual deprivation)."
+    },
+    {
+      "measure": "Score on an Odor Detection Threshold Test",
+      "timeFrame": "20 Minutes",
+      "description": "The average of 7 reversals in a staircase odor detection threshold test that employs phenyl ethyl alcohol (rose oil) concentrations ranging from -7 to -2 log dilutions in light mineral oil."
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [
+    "Michael J. Fox Foundation for Parkinson's Research"
+  ],
+  "start_date": "2016-06",
+  "completion_date": "2019-07-16",
+  "last_updated": "2019-07-16"
+}

@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT05075564",
+  "brief_title": "A Study of ES002023 (Anti-CD39 Antibody) in Patients With Locally Advanced or Metastatic Solid Tumors",
+  "official_title": "An Open-Label, Multicenter, First-in-Human, Dose-Escalation, Phase 1 Study of ES002023 in Patients With Locally Advanced or Metastatic Solid Tumors",
+  "brief_summary": "The purpose of this first-in-human, open-label, multicenter, non-randomized study is to investigate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics, and preliminary clinical activity of ES002023 in patients with advanced solid tumors that are relapsed or refractory to standard therapies.",
+  "detailed_description": "ES002023 is a recombinant humanized IgG1 monoclonal antibody (mAb) that specifically targets the human ectonucleoside triphosphate diphosphohydrolase-1 (ENTPD1, CD39, UniprotKB: P49961). ES002023 is generated using classic hybridoma technology with an attenuated effector domain (Fc) based on human IgG1. ES002023 binding to CD39 inhibits the enzyme activity of ectonucleoside triphosphate diphosphohydrolase, which can result in the stabilization of pro-inflammatory extracellular ATP (eATP) and the restoration of antitumor immunity by impairing the accumulation of immune suppressive adenosine within the tumor microenvironment.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 8,
+  "conditions": [
+    "Advanced Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Part 1 ES002023",
+      "type": "DRUG",
+      "description": "ES002023 is administered via intravenous infusion, once every 14 days, every 28 days as a treatment cycle for a maximum treatment duration per patient of 2 years."
+    },
+    {
+      "name": "Part 2 ES002023",
+      "type": "DRUG",
+      "description": "ES002023 is administered via intravenous infusion, once every 14 days, every 28 days as a treatment cycle for a maximum treatment duration per patient of 2 years."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n1. Capable of giving signed informed consent.\n2. Part 1: Histological or cytological documentation of unresectable locally advanced or metastatic solid tumors, if 1) disease has progressed despite standard therapy, and no further standard therapy exists; or 2) standard therapy has proven to be ineffective, intolerable, or is considered inappropriate.\n\n   Part 2: Histological or cytological documentation of pancreatic ductal adenocarcinoma (Cohort 2A), NSCLC (Cohort 2B), or colorectal adenocarcinoma (Cohort 2C), with unresectable locally advanced or metastatic disease, if 1) disease has progressed despite standard therapy, and no further standard therapy exists; or 2) standard therapy has proven to be ineffective, intolerable, or is considered inappropriate.\n3. Provide tumor tissue samples obtained from the initial diagnosis to study entry.\n4. At least one measurable lesion per RECIST v1.1.\n5. Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-1.\n6. Life expectancy of at least 12 weeks.\n7. Adequate hematologic, hepatic and renal functions\n8. Male and female subjects of childbearing potential must be willing to completely abstain or agree to use a highly effective method of contraception\n\nKey Exclusion Criteria:\n\n1. Any prior therapy targeting CD39, CD73, or adenosine A2A receptor.\n2. Receipt of any investigational agents or devices within 4 weeks prior to the first dose of study drug.\n3. Prior treatment with the following therapies:\n\n   * Anticancer therapy within 30 days or 5 half-lives of the drug prior to the first dose of study drug, whichever is shorter. At least 14 days must have elapsed between the last dose of prior anticancer agent and the first dose of study drug is administered. Exception: hormonal and/or hormonal replacement therapy.\n   * A wash out of at least 2 weeks before the start of study drug for radiation to the extremities and 4 weeks for radiation to the chest, brain, or visceral organs is required.\n4. Prior allogeneic or autologous bone marrow transplantation or solid organ transplantation.\n5. Toxicity from previous anticancer treatment\n6. Treatment with systemic immunosuppressive medications within 4 weeks prior to the first dose of study drug.\n7. Subjects who received transfusion of blood products (including platelets or red blood cells), G-CSF, GM-CSF, recombinant erythropoietin, or recombinant thrombopoietin within 14 days prior to the first dose of study treatment.\n8. Major surgery within 4 weeks prior to the first dose of study treatment.\n9. Live vaccine therapies within 4 weeks prior to the first dose of study treatment.\n10. Recent history of allergen desensitization therapy within 4 weeks prior to the first dose of study treatment.\n11. Allergy or sensitivity to ES002023 or known allergies to CHO-produced antibodies\n12. Invasive malignancy or history of invasive malignancy other than disease under study within the last two years\n13. CNS metastases\n14. Active autoimmune disease or documented history of autoimmune disease that required systemic steroids or other immunosuppressive medications\n15. Active interstitial lung disease (ILD) or pneumonitis or a history of ILD or pneumonitis requiring treatment with steroids or other immunosuppressive medications.\n16. Active infection requiring systemic therapy, known human immunodeficiency virus (HIV) infection, or positive test for hepatitis B active infection (HBsAg) or hepatitis C active infection (hepatitis C antibody).\n17. Current active liver or biliary disease (with the exception of Gilbert's syndrome or asymptomatic gallstones, liver metastases, or otherwise stable chronic liver disease per investigator assessment).\n18. History or evidence of cardiac abnormalities",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "The frequency and severity of adverse events of ES002023",
+      "timeFrame": "1-3 years",
+      "description": "Adverse events will be assessed and assigned by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), version 5.0."
+    },
+    {
+      "measure": "The Maximum Tolerated Dose (MTD), Optimal Biological Dose (OBD) and/or the Recommended Phase 2 Dose (RP2D) of ES002023",
+      "timeFrame": "1-3 years",
+      "description": "The MTD, OBD and/or RP2D of ES002023 will be determined"
+    }
+  ],
+  "sponsor": "Elpiscience Biopharma, Ltd.",
+  "collaborators": [],
+  "start_date": "2021-12-23",
+  "completion_date": "2022-10-13",
+  "last_updated": "2025-05-09"
+}

@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT05671510",
+  "brief_title": "ONC-392 Versus Docetaxel in Metastatic NSCLC That Progressed on PD-1/PD-L1 Inhibitors",
+  "official_title": "Phase 3, Two-stage, Randomized Study of ONC-392 Versus Docetaxel in Metastatic Non-Small Cell Lung Cancers That Progressed on PD-1/PD-L1 Inhibitors",
+  "brief_summary": "The goal of this Phase 3 clinical trial is to study the safety and efficacy of the nextgen anti-CTLA-4 antibody, gotistobart (ONC-392/BNT316), in patients with metastatic non-small cell lung cancer who have disease progressed on anti-PD-1/PD-L1 antibody based therapy. The study will test whether gotistobart, in comparison with chemotherapy agent docetaxel, could prolong the life for NSCLC patients. Patients will be randomized to be treated with either gotistobart or docetaxel, IV infusion, once every 21 days, for up to 17 cycles in approximately one year.",
+  "detailed_description": "This is a seamless 2-stage, randomized, open-label, active-controlled, Phase 3 study. The study population consists of patients with NSCLC who progressed on PD-1/PD-L1 inhibitor. Approximately 630 patients will be enrolled.\n\nTwo gotistobart dosing regimens will be tested in Stage I, and one will be selected for Stage II.\n\nStage I, the dose-confirmation stage, will assess the efficacy and safety of two gotistobart dosing regimens (3 mg/kg Q3W and 6 mg/kg Q3W with 2 loading doses of 10 mg/kg Q3W) in comparison to docetaxel 75 mg/m2 Q3W.\n\nStage II will assess the safety and efficacy of gotistobart at the selected dosing regimen versus docetaxel on squamous cell NSCLC. Patients will be randomized 1:1 to receive either gotistobart at the selected dosing regimen or docetaxel.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 630,
+  "conditions": [
+    "Non Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Gotistobart",
+      "type": "DRUG",
+      "description": "Gotistobart will be administrated through IV infusion over 60 minutes, once every 21 days in assigned dose."
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Docetaxel will be administrated through IV infusion over 60 minutes, once every 21 days in 75mg/m2 dose."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria (Major criteria):\n\n1. Adult (\u2265 18 years), all genders, capable of signing informed consent.\n2. Histologically- or cytologically- confirmed diagnosis of metastatic squamous NSCLC, metastasis can be regional lymph nodes or distant organs.\n3. Radiographic progression after treatment with the most recent line of treatment being either 3a or 3b:\n\n   1. At least 12 weeks of PD-1/PD-L1 inhibitor in combination with platinum-based chemotherapy;\n   2. Prior treatment with at least 2 cycles of a platinum-based chemotherapy, followed by at least 12 weeks of standard doses of PD-1 or PD-L1 inhibitor-based immunotherapy.\n\n   Antibodies against CTLA-4, LAG-3, TIGIT, VEGF or VEGFR in combination with PD-1/PD-L1 inhibitor are allowed.\n4. At least one measurable tumor lesion according to RECIST 1.1.\n5. ECOG score of 0 or 1.\n6. Adequate organ functions. Serum LDH level \u2264 2xULN.\n7. Life expectancy \u2265 3 months.\n\nExclusion Criteria (Major criteria):\n\n1. Cancer treatment related AEs have not recovered to NCI CTCAE grade\u2264 1 except endocrinopathy.\n2. Last anti-PD-1/PD-L1 dosing within 28 days prior to first dose of study treatment.\n3. Receiving systemic steroid therapy with \\>10 mg/day prednisone or equivalent within 7 days prior to the first dose of study treatment.\n4. Having documented actionable mutations or genomic alterations in any of the following genes: EGFR, ALK, ROS1, HER2, MET, BRAF, RET or NTRK;. Exception: KRAS mutations are not excluded.\n5. Patients who have symptomatic brain metastasis. Palliative radiotherapy or radiosurgery to brain metastasis within 14 days of the first dose of study drug.\n6. Active GI disease, including peptic ulcer disease, pancreatitis, diverticulitis, or inflammatory bowel disease.\n7. Active interstitial lung disease (ILD) or non-infectious pneumonitis.\n8. Active infections with IV antibiotics within 14 days prior to first dose of study treatment.\n9. Impaired heart function.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Astera Cancer Care - 1128",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "St. Luke's University Health Network - 1179",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Donald Guthrie Foundation - 1135",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Cancer Care Associates of York, Inc. - 1113",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "36 months",
+      "description": "OS is defined as the time from randomization to the date of death by any cause. Kaplan-Meier estimates of median OS time will be presented by treatment arm with two sided 95% CIs."
+    }
+  ],
+  "sponsor": "OncoC4, Inc.",
+  "collaborators": [
+    "BioNTech SE"
+  ],
+  "start_date": "2023-06-28",
+  "completion_date": "2028-08-31",
+  "last_updated": "2026-02-24"
+}

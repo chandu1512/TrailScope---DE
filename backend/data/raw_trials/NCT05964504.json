@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT05964504",
+  "brief_title": "Improving Survival for Metastatic Lobular Breast Cancer (PLUMB Registry)",
+  "official_title": "Improving Survival for Those With Metastatic Lobular Breast Cancer Through Development of the Multi-center PLUMB Registry-a Prospective Study of LobUlar Metastatic Breast Cancer",
+  "brief_summary": "This is a prospective observational registry for patients with invasive lobular carcinoma (ILC) of the breast. After the first 1cohort is enrolled, the collected data will be utilized to develop an ILC specific response assessment tool.",
+  "detailed_description": "Primary Aims:\n\n1. To evaluate the feasibility of developing a histologic based registry for participants living with metastatic lobular breast cancer.\n2. To understand the natural history, treatment patterns, and overall survival in patients with metastatic ILC using modern, real-world data.\n\nSecondary Aims:\n\n1. To evaluate the correlation between imaging findings and disease progression.\n2. To evaluate the correlation between ctDNA and disease progression.\n3. To develop an ongoing platform for evaluating new imaging tools, tumor markers, and participant recruitment for clinical trials.\n\nOutline:\n\nParticipants will be recruited to participate in the registry during a regularly scheduled clinic visit with their treating oncologist, and consented to participate at this time. At each evaluation time point, participants will have a blood draw performed. Participants will be followed until loss to follow up, death, or withdrawal from the registry.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 12,
+  "conditions": [
+    "Metastatic Breast Cancer",
+    "Lobular Breast Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Blood Specimen",
+      "type": "PROCEDURE",
+      "description": "Blood will be drawn via venipuncture"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Histologically confirmed invasive lobular carcinoma. Mixed lobular/ductal cancer is allowed.\n2. Age \\>=18 years\n3. Any receptor subtype.\n4. Ability to understand a written informed consent document, and the willingness to sign it.\n\nExclusion Criteria:\n\n1. Stage I-III breast cancer.\n2. Lack of lobular histology on tumor biopsy.\n3. Other active cancer (prior treated cancer with no current evidence of disease is allowed).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Feasibility of registry",
+      "timeFrame": "Up to 2 years",
+      "description": "Feasibility is defined as enrollment of 10-12 patients with metastatic ILC in the first 2 years across all participating sites, and collection of clinical assessments in \\>=75% of treating medical oncologists"
+    },
+    {
+      "measure": "Proportion of patients with measurable versus unmeasurable disease",
+      "timeFrame": "Up to 10 years",
+      "description": "Proportion of patients with measurable disease versus unmeasurable disease using Response Evaluation Criteria in Solid Tumors (RECIST) will be reported for each line of treatment as determined by their oncologist."
+    },
+    {
+      "measure": "Median Progression Free Survival Rate",
+      "timeFrame": "Up to 10 years",
+      "description": "The median Progression-free survival rate (PFS) for participants enrolled in the registry will be utilized to develop the ILC specific response assessment tool."
+    },
+    {
+      "measure": "Median Overall Survival Rates",
+      "timeFrame": "Up to 10 years",
+      "description": "The overall rate of survival for participants enrolled in the registry will be utilized to develop the ILC specific response assessment tool."
+    }
+  ],
+  "sponsor": "University of California, San Francisco",
+  "collaborators": [
+    "METAvivor Research and Support, Inc"
+  ],
+  "start_date": "2023-12-20",
+  "completion_date": "2036-02-28",
+  "last_updated": "2026-03-13"
+}

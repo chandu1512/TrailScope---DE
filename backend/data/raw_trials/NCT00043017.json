@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT00043017",
+  "brief_title": "Magnetic Resonance Imaging in Women Receiving Chemotherapy for Stage III Breast Cancer",
+  "official_title": "Contrast-Enhanced Breast MRI For Evaluation Of Patients Undergoing Neoadjuvant Treatment For Locally-Advanced Breast Cancer (I-SPY 1/ACRIN 6657)",
+  "brief_summary": "RATIONALE: Diagnostic procedures such as magnetic resonance imaging (MRI) may help determine the effectiveness of chemotherapy in killing breast cancer and allow doctors to plan more effective treatment.\n\nPURPOSE: Diagnostic trial to study the effectiveness of MRI in monitoring tumor response in women who are receiving chemotherapy for stage III breast cancer.",
+  "detailed_description": "OBJECTIVES:\n\n* Identify surrogate markers of response to neoadjuvant chemotherapy by contrast-enhanced magnetic resonance imaging (MRI) that are predictive of pathologic remissions and survival in women with stage III breast cancer.\n* Identify two groups of patients who have statistically different 3-year disease-free survival using MRI measurements of tumor response to neoadjuvant chemotherapy.\n* Determine whether MRI measurements of tumor response after the first course of neoadjuvant chemotherapy can predict which of these patients will ultimately have poor clinical response to chemotherapy.\n* Compare the accuracy of MRI vs mammography in predicting the extent of residual disease as determined by histopathology in these patients.\n* Determine whether initial MRI tumor characteristics (morphologic and vascular patterns) predict pathological response and/or survival in these patients.\n* Estimate the conditional probability of response to paclitaxel based on MRI measurements of response to doxorubicin and cyclophosphamide in these patients.\n\nOUTLINE: This is a multicenter study.\n\nPatients receive an injection of gadopentetate dimeglumine and undergo magnetic resonance imaging (MRI) and magnetic resonance spectroscopy of the breast within 4 weeks before beginning neoadjuvant chemotherapy, 20-28 hours or 48-96 hours after the first course of doxorubicin and cyclophosphamide (Type 1 chemotherapy), between Type 1 chemotherapy and paclitaxel chemotherapy regimens (Type 2 chemotherapy) (MRI only) if the patient continues to Type 2 chemotherapy, and 3-4 weeks after final neoadjuvant chemotherapy treatment (1-2 weeks before surgery).\n\nPatients also undergo mammograms and possibly ultrasounds that coincide with the first and last MRI. Core or needle biopsy is performed after the first MRI but before the first course of Type 1 chemotherapy and between Type 1 chemotherapy and Type 2 chemotherapy (if the patient continues to Type 2 chemotherapy).\n\nPatients are followed every 6 months for 7-10 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 356,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "MRI/MRS",
+      "type": "PROCEDURE",
+      "description": "Serial MRI studies evaluated for prognostic properties related to therapeutic response."
+    },
+    {
+      "name": "gadopentetate dimeglumine",
+      "type": "RADIATION",
+      "description": "Imaging agent used for contrast enhancement in each of the MRIs."
+    }
+  ],
+  "eligibility": {
+    "criteria": "ACRIN 6657 eligibility criteria match that of CALGB Correlative Science trial 150007. Patients with histologically-documented tumors per CALGB criteria that are at least 3 cm who choose to undergo neoadjuvant chemotherapy will be eligible to participate in the Correlative Science and Imaging companion trials (CALGB 150007/ACRIN 6657). The therapeutic regimen will consist of AC followed by a taxane for patients enrolled under the original trial protocol, and will consist of a taxane alone (Type 1) or taxane followed by AC (Type 1 followed by Type 2) for patients enrolled as part of the protocol extension.\n\n1. Inclusion Criteria Specific to the ACRIN 6657 MRI Study 1.1 IRB approval/Signed informed consent 1.2 Patients must have a calculated creatinine clearance of \\> 30 mL/min (modified Cockcroft and Gault formula) based on a serum creatinine level obtained within 28 days of registration in order to participate.\n\n   Creatinine Clearance for Males: (\\[140-age (years)\\] X weight (kg)/(serum creatinine X 72) Creatinine Clearance for Females: Creatinine Clearance (male) X 0.85\n2. Exclusion Criteria Specific to the ACRIN 6657 MRI Study 2.1 Pregnancy 2.2 Ferromagnetic prostheses",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-4283",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Disease-free three-year survival",
+      "timeFrame": "3 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "American College of Radiology Imaging Network",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2002-05",
+  "completion_date": "2011-03",
+  "last_updated": "2013-10-07"
+}

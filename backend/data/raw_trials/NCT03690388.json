@@ -1,0 +1,84 @@
+{
+  "nct_id": "NCT03690388",
+  "brief_title": "A Study of Cabozantinib Compared With Placebo in Subjects With Radioiodine-refractory Differentiated Thyroid Cancer Who Have Progressed After Prior Vascular Endothelial Growth Factor Receptor (VEGFR) -Targeted Therapy",
+  "official_title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Cabozantinib (XL184) in Subjects With Radioiodine-Refractory Differentiated Thyroid Cancer Who Have Progressed After Prior Vascular Endothelial Growth Factor Receptor (VEGFR) -Targeted Therapy",
+  "brief_summary": "The objective of this study is to evaluate the effect of cabozantinib compared with placebo on progression free survival (PFS) and objective response rate (ORR) in subjects with Radioiodine-Refractory Differentiated Thyroid Cancer (DTC) who have progressed after prior vascular endothelial growth factor receptor (VEGFR)-Targeted therapy.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 187,
+  "conditions": [
+    "Differentiated Thyroid Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Cabozantinib",
+      "type": "DRUG",
+      "description": "Tablets containing 60-mg or 20-mg cabozantinib once daily orally."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Tablets containing placebo equivalent of 60-mg or 20-mg cabozantinib once daily orally."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Histologically or cytologically confirmed diagnosis of Differentiated Thyroid Cancer (DTC)\n2. Measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1\n3. Previously treated with or deemed ineligible for treatment with Iodine- 131 for differentiated thyroid cancer (DTC)\n4. Previously treated with at least one of the following vascular endothelial growth factor receptor (VEGFR)-targeting tyrosine kinase inhibitor (TKI) agents for DTC: lenvatinib or sorafenib. Note: Up to two prior VEGFR-targeting TKI agents are allowed\n5. Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1\n\nExclusion Criteria:\n\n1. Prior treatment with any of the following: Cabozantinib; Selective small-molecule v-raf murine sarcoma viral oncogene homolog B1 (BRAF) kinase inhibitor; More than 2 VEGFR-targeting TKI agents; More than 1 immune checkpoint inhibitor therapy; 1 systemic chemotherapy regimen (given as single agent or in combination with another chemotherapy agent)\n2. Receipt of any type of small molecule kinase inhibitor (including investigational kinase inhibitor) within 2 weeks or 5 half-lives of the agent, whichever is longer, before randomization\n3. Receipt of any type of anticancer antibody (including investigational antibody) or systemic chemotherapy within 4 weeks before randomization\n4. Receipt of radiation therapy for bone metastasis within 2 weeks or any other radiation therapy within 4 weeks before randomization.\n5. Known brain metastases or cranial epidural disease unless adequately treated",
+    "gender": "ALL",
+    "min_age": "16 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Exelixis Clinical Site #118",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07962",
+      "status": ""
+    },
+    {
+      "facility": "Exelixis Clinical Site #5",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": ""
+    },
+    {
+      "facility": "Exelixis Clinical Site #1",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Exelixis Clinical Site #75",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "Up to approximately twenty months after the first subject is randomized. Time from randomization to the earlier of the following events: radiographic PD as determined by the blinded independent central review (BIRC) or death due to any cause.",
+      "description": "Time to the earlier of either radiographic progressive disease (PD) or death from any cause."
+    },
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "timeFrame": "Six months after 100 subjects are randomized. Time from randomization to best overall response of confirmed complete response (CR) or confirmed partial response (PR) per BIRC per RECIST 1.1.",
+      "description": "Proportion of subjects with the best overall response of complete response (CR) or partial response (PR)."
+    }
+  ],
+  "sponsor": "Exelixis",
+  "collaborators": [
+    "Ipsen"
+  ],
+  "start_date": "2018-10-05",
+  "completion_date": "2026-07-31",
+  "last_updated": "2025-09-12"
+}

@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT04214119",
+  "brief_title": "EsophaCap for the Detection of Early Esophageal Carcinoma",
+  "official_title": "EsophaCap for the Detection of Early Esophageal Carcinoma",
+  "brief_summary": "This study is to identify potential biomarkers for the early detection of Barrett's Esophagus, esophageal carcinoma (both adenocarcinoma and squamous cell carcinoma), and gastric cancer via sponge cytology.",
+  "detailed_description": "This study is to identify potential biomarkers for the early detection of Barrett's Esophagus, esophageal carcinoma (both adenocarcinoma and squamous cell carcinoma). Esophageal and gastric cytology will be collected via sponge capsule. Candidate genes will be tested with DNA isolated from these samples in order to identify optimal biomarkers to differentiate between Barrett's esophagus and esophageal/gastric cancer versus normal esophageal/gastric tissue.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 2500,
+  "conditions": [
+    "Barrett Esophagus",
+    "Esophageal Cancer",
+    "Gastric Cancer"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Undergoing esophagogastroduodenoscopy at Johns Hopkins Hospital from 1/2016 to 12/2025\n* Age greater than 18 years\n* Patients must be able to swallow a capsule\n\nExclusion Criteria:\n\n* Patients in either arm with extra-esophageal malignancies including head and neck and gastric cancer\n* Patients who have undergone esophagectomy\n* Patients who have undergone radiation to the chest\n* Patients who are younger than 18\n* Patients with esophageal stents\n* Patients with esophageal strictures disabling passage of the capsule",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Bayview Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21205",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21205",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Difference in methylation of gene markers to discriminate Barrett's esophagus from non-pathological esophageal squamous and gastric cardia tissue.",
+      "timeFrame": "1 day",
+      "description": "Using DNA methylation, we plan on identifying, from a pool of highly selected marker candidates, the best biomarkers that are aberrantly methylated in Barrett's esophagus versus control in order to differentiate between subjects who have Barrett's esophagus and those who do not have Barrett's esophagus. This is measure using methylation index and the calculated probability score from different methylation index values."
+    },
+    {
+      "measure": "Difference in methylation of gene markers to discriminate esophageal carcinoma from non-pathological esophageal squamous and gastric cardia tissue.",
+      "timeFrame": "1 day",
+      "description": "Using DNA methylation, we plan on identifying, from a pool of highly selected marker candidates, the best biomarkers that are aberrantly methylated in esophageal cancer versus control in order to differentiate between subjects who have esophageal cancer and those who do not. This is measure using methylation index and the calculated probability score from different methylation index values."
+    },
+    {
+      "measure": "Difference in methylation of gene markers to discriminate gastric cancer from non-pathological esophageal squamous and gastric cardia tissue.",
+      "timeFrame": "1 day",
+      "description": "Using DNA methylation, we plan on identifying, from a pool of highly selected marker candidates, the best biomarkers that are aberrantly methylated in gastric cancer versus control in order to differentiate between subjects who have gastric cancer and those who do not. This is measure using methylation index and the calculated probability score from different methylation index values."
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)"
+  ],
+  "start_date": "2016-01-12",
+  "completion_date": "2028-12-19",
+  "last_updated": "2025-12-15"
+}

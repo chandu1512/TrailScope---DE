@@ -1,0 +1,142 @@
+{
+  "nct_id": "NCT00039130",
+  "brief_title": "Rituximab, Chemotherapy, and Filgrastim in Treating Patients With Burkitt's Lymphoma or Burkitt's Leukemia",
+  "official_title": "Phase II Study Of Rituximab And Short Duration, High Intensity Chemotherapy With G-CSF Support In Previously Untreated Patients With Burkitt Lymphoma/Leukemia",
+  "brief_summary": "RATIONALE: Monoclonal antibodies such as rituximab can locate tumor cells and either kill them or deliver tumor-killing substances to them without harming normal cells. Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Colony-stimulating factors such as filgrastim may increase the numbers of immune cells found in bone marrow or peripheral blood and may help a person's immune system recover from the side effects of chemotherapy. Combining chemotherapy with rituximab and filgrastim may kill more cancer cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combining rituximab with chemotherapy and filgrastim in treating patients who have Burkitt's lymphoma or Burkitt's leukemia.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the complete response rate in patients with previously untreated Burkitt's lymphoma or Burkitt's leukemia treated with rituximab and high-intensity chemotherapy with filgrastim (G-CSF) support.\n* Determine the progression-free and overall survival of patients treated with this regimen.\n* Determine the feasibility and toxicity of this regimen in these patients.\n\nOUTLINE: This is a multicenter study. Patients are stratified according to disease (leukemia vs lymphoma).\n\n* Course 1: Patients receive cyclophosphamide IV over 5-15 minutes daily on days 1-5 and oral prednisone on days 1-7. Allopurinol PO will be given on days 1-14.\n* Courses 2, 4, and 6: Patients receive ifosfamide IV over 1 hour daily on days 1-5; vincristine IV over 10 minutes and methotrexate IV over 24 hours on day 1; leucovorin calcium IV over 15 minutes every 6 hours on day 2; cytarabine IV over 2 hours on days 4 and 5 and etoposide IV over 1 hour daily on days 4 and 5; oral dexamethasone daily on days 1-5; and methotrexate and cytarabine intrathecally (IT) on day 1. During course 2, patients receive rituximab IV over 1-4 hours on days 8, 10, and 12. During courses 4 and 6, patients receive rituximab IV over 1 hour on day 8. Patients also receive filgrastim (G-CSF) subcutaneously (SC) beginning on day 7 and continuing until blood counts recover.\n* Courses 3, 5, and 7: Patients receive cyclophosphamide IV over 5-15 minutes daily on days 1-5; vincristine IV over 10 minutes and methotrexate IV over 24 hours on day 1; leucovorin calcium IV every 6 hours on day 2; doxorubicin IV daily on days 4 and 5; oral dexamethasone daily on days 1-5; methotrexate and cytarabine IT on day 1; and rituximab IV over 1 hour on day 8. Patients also receive G-CSF as in courses 2, 4, and 6. After course 3, treatment continues in the absence of disease progression or unacceptable toxicity.\n\nPatients are followed every 3 months for 2 years, every 6 months for 3 years, and then annually for 5 years.\n\nPROJECTED ACCRUAL: A total of 100 patients (50 per stratum) will be accrued for this study within 3 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 105,
+  "conditions": [
+    "Leukemia",
+    "Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "filgrastim",
+      "type": "BIOLOGICAL",
+      "description": "5 ug/kg/day sub Q injection day 7 until ANC\\>5000/ul courses II-VII"
+    },
+    {
+      "name": "rituximab",
+      "type": "BIOLOGICAL",
+      "description": "Day 8 course II 50 mg/sq m IV infusion: d 8 course IV \\& VI 375mg/sq m IV Day 10 course II: 325 mg/sq m IV infusion Day 12 course II: 375 mg/sq m IV infusion"
+    },
+    {
+      "name": "cyclophosphamide",
+      "type": "DRUG",
+      "description": "200 mg/sq m/day IV infusion over 5-15 min days 1-5, courses I, III, V, VII"
+    },
+    {
+      "name": "cytarabine",
+      "type": "DRUG",
+      "description": "1 g/sq m/day IV infusion Days 4 \\& 5, courses II, IV, VI"
+    },
+    {
+      "name": "dexamethasone",
+      "type": "DRUG",
+      "description": "10mg/sq m PO or IV Days 1-5 courses II-VII"
+    },
+    {
+      "name": "doxorubicin hydrochloride",
+      "type": "DRUG",
+      "description": "25 mg/sq m/day IV infusion Days 4 \\& 5 courses III,V, VII"
+    },
+    {
+      "name": "etoposide",
+      "type": "DRUG",
+      "description": "80 mg/sq m/day IV infusion Days 4 \\& 5 courses II, IV, VI"
+    },
+    {
+      "name": "ifosfamide",
+      "type": "DRUG",
+      "description": "800 mg/sq m/day IV infusion Days 1-5 courses II, IV, VI"
+    },
+    {
+      "name": "leucovorin calcium",
+      "type": "DRUG",
+      "description": "25mg/sq m IV infusion over 15 min then 10 mg IV q 6 hrs until serum MTX \\<10nM, courses II-VII"
+    },
+    {
+      "name": "methotrexate",
+      "type": "DRUG",
+      "description": "1.5 g/sq m IV infusion Day 1 courses II-VII"
+    },
+    {
+      "name": "prednisone",
+      "type": "DRUG",
+      "description": "60 mg/sq m PO/day Days 1-7 course I"
+    },
+    {
+      "name": "vincristine sulfate",
+      "type": "DRUG",
+      "description": "2 mg IV push Day 1 courses II-VII"
+    },
+    {
+      "name": "Allopurinol",
+      "type": "DRUG",
+      "description": "300 mg/day PO Days 1-14, course I"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically, cytogenetically, or immunophenotypically confirmed Burkitt's leukemia or Burkitt's or Burkitt-like lymphoma\n\n  * L3 morphology surface IgG expression\n  * Cytogenetic evidence for t(8;14), t(8;22), or t(2;8)\n* Previously untreated disease except hydroxyurea for leukocytosis\n* CNS involvement allowed\n* Patients with Burkitt's leukemia or Burkitt's lymphoma with bone marrow involvement must also be enrolled on CALGB-8461\n* Patients with Burkitt's leukemia must also be enrolled on CALGB-9665\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 16 and over\n\nHepatic:\n\n* Bilirubin no greater than 1.5 times upper limit of normal (ULN)\n\nRenal:\n\n* Creatinine no greater than 1.5 times ULN\n\nOther:\n\n* HIV negative\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No concurrent interleukin-11\n\nChemotherapy:\n\n* See Disease Characteristics\n* No other concurrent chemotherapy\n\nEndocrine therapy:\n\n* No concurrent hormonal therapy except for non-disease-related conditions (e.g., insulin for diabetes)\n* No concurrent steroids except for adrenal failure\n\nRadiotherapy:\n\n* No concurrent palliative radiotherapy except whole-brain irradiation for documented CNS disease",
+    "gender": "ALL",
+    "min_age": "16 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Tunnell Cancer Center at Beebe Medical Center",
+      "city": "Lewes",
+      "state": "Delaware",
+      "zip": "19958",
+      "status": ""
+    },
+    {
+      "facility": "CCOP - Christiana Care Health Services",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Greenebaum Cancer Center at University of Maryland Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Union Hospital Cancer Program at Union Hospital",
+      "city": "Elkton",
+      "state": "Maryland",
+      "zip": "21921",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey at Cooper - Voorhees",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Complete Response Rate",
+      "timeFrame": "6 months",
+      "description": "Response is assessed by investigator according to Revised Response Criteria for Malignant Lymphoma. Complete response requires disappearance of all evidence of disease."
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2002-05",
+  "completion_date": "2014-10",
+  "last_updated": "2023-08-16"
+}

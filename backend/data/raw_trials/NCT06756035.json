@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT06756035",
+  "brief_title": "CT-95 in Advanced Cancers Associated With Mesothelin Expression",
+  "official_title": "Phase 1a/1b Study of CT-95 in Advanced Cancers Associated With Mesothelin Expression",
+  "brief_summary": "This is a Phase 1a/1b open-label, dose escalation study to evaluate the safety and efficacy of CT-95 (study drug), a humanized T cell engaging bispecific antibody targeting Mesothelin, in subjects with advanced solid tumors associated with Mesothelin expression.",
+  "detailed_description": "The Phase 1a Dose Escalation portion of the trial will enroll subjects in one of approximately 8 dose escalation cohorts to assess the safety and tolerability of CT-95, as well as determine the maximum tolerated dose (MTD) or other recommended dose(s) for expansion (RDE\\[s\\]) for further study in 2 dose optimization cohorts. Subjects will receive CT-95 as a single agent administered once weekly (QW) intravenously (IV) over a 4-week cycle.\n\nThe Phase 1b Dose Expansion portion will evaluate CT-95 in indication-specific expansion cohorts",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 70,
+  "conditions": [
+    "Mesothelin-Expressing Tumors",
+    "Epithelial Ovarian Cancer",
+    "Malignant Pleural Mesothelioma, Advanced",
+    "Malignant Peritoneal Mesothelioma, Advanced",
+    "Pancreatic Adenocarcinoma Advanced or Metastatic",
+    "Lung Adenocarcinoma Metastatic",
+    "Cholangiocarcinoma Advanced",
+    "Cholangiocarcinoma Non-resectable",
+    "Mesothelin-expressing Advanced Cancers",
+    "Mesothelin-positive Advanced Malignant Solid Tumors",
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "CT-95",
+      "type": "DRUG",
+      "description": "Weekly IV dosing"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* ECOG 0 or 1\n* Subjects with evaluable disease per RECIST 1.1 or mRECIST\n* Subjects with adequate organ function.\n* Subjects with advanced cancers associated with mesothelin expression\n\nExclusion Criteria:\n\n* Uncontrolled significant active infection or any medical or other condition that in opinion of the investigator would preclude the subject's participation in the study.\n* Prior treatment with MSLN-targeted CD3 or chimeric antigen receptor T cell (CAR-T) therapy\n* Concurrent participation in another investigational clinical trial.\n* Evidence of leptomeningeal disease",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Context Investigational Site",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Context Investigational Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Determine the MTD or RD of CT-95 [Safety and Tolerability]",
+      "timeFrame": "From date of first dose of CT-95 until 28 days following the first dose.",
+      "description": "The frequency of dose-limiting toxicities (DLTs) will be analyzed along with safety and tolerability measures to determine the MTD or RD of CT-95."
+    },
+    {
+      "measure": "Incidence of Treatment-Emergent Adverse Events [Safety and Tolerability]",
+      "timeFrame": "From date of first dose of CT-95 for approximately 6 months or until treatment discontinuation, whichever comes first.",
+      "description": "The frequency and severity of adverse events, serious adverse events, and adverse events of special interest will be analyzed."
+    }
+  ],
+  "sponsor": "Context Therapeutics Inc.",
+  "collaborators": [],
+  "start_date": "2025-03-31",
+  "completion_date": "2028-12",
+  "last_updated": "2025-07-29"
+}

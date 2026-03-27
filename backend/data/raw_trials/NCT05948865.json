@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT05948865",
+  "brief_title": "A Phase 1 Study of CPO301 in Adult Patients With Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase 1, Multicenter, Single Agent Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Preliminary Evidence of Antitumor Activity of CPO301, an EGFR-Targeting Antibody-Drug Conjugate, in Adult Patients With Advanced or Metastatic Solid Tumors",
+  "brief_summary": "The goal of this clinical trial is to test CPO301, a type of drug called an antibody drug conjugate in adult patients with advanced or metastatic solid tumors.\n\nThe main questions it aims to answer are:\n\n* To assess the safety and tolerability of CPO301 at increasing doses and determine the dose to be used in the second part of the study (Part A)\n* To assess the safety and tolerability of CPO301 at the dose determined to be safe and tolerable in Part A in patients with Non-Small Cell Lung Cancer and potentially other tumor types (Part B)\n* To evaluate how quickly CPO301 is metabolized by the body (pharmacokinetics or PK)\n* To evaluate if antibodies to the study drug develop (immunogenicity)\n* To evaluate preliminary efficacy to the drug\n* To correlate preliminary efficacy with mutations in a biomarker called EGFR\n\nParticipants will:\n\n* Provide written informed consent\n* Undergo screening tests to ensure they are eligible for study treatment\n* Attend all required study visits and receive CPO301 by intravenous injection every 3 weeks until the study doctor determines study treatment should be stopped, based on how well a participant is doing on treatment\n* Be followed for progression every 3 months for up to 2 years",
+  "detailed_description": "This Phase 1 study is a multicenter, dose-escalating, dose-expansion, single agent, 2-part study conducted in patients with advanced or metastatic solid tumors who progressed on \u22651 prior conventional systemic therapy or who were ineligible or intolerant to standard treatment or had no or refused standard treatment.\n\nDose escalation (Part A) - Dose escalation will be guided by a modified 3+3 design to determine the maximum tolerated dose (MTD) or recommended dose of CPO301 (also known as SYS6010). Determination of dose-limiting toxicity (DLT) will be based on toxicity observed during the DLT observation period (first 21 days \\[1 cycle\\]). Dose escalation decisions are made based on the occurrence of DLT. MTD will be determined based on the data of all enrolled participants. To better identify the MTD, one or more dose groups may also be added beyond the planned maximum dose group (if determined to be safe), or between the maximum escalation dose group and the next lower dose group for DLT assessment. Intermediate dose groups and/or adjustment to the dosing frequency may be made\n\nDose expansion (Part B) - Additional patients will be enrolled at the recommended dose determined in the dose escalation stage. An additional tumor cohort may be added based on data observed in Part A.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 132,
+  "conditions": [
+    "Cancer",
+    "Cancer, Lung"
+  ],
+  "interventions": [
+    {
+      "name": "CPO301",
+      "type": "DRUG",
+      "description": "Administered by intravenous injection"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Major Inclusion Criteria:\n\n* Age \u226518 years\n* Patients with histologically confirmed locally advanced or metastatic solid tumors who have disease progression, intolerance to prior therapy, are ineligible for available therapies, or refuse standard of care therapy in the metastatic setting.\n* In Part A, patients with solid tumors including but not limited to NSCLC (adenocarcinoma and squamous cell carcinoma), breast cancer, KRAS-wild type colorectal cancer, and head \\& neck cancer based on previous biopsy result.\n* In Part B, Cohort 1 will exclusively include NSCLC patients with documented EGFR mutations based on previous biopsy result and Cohort 2 will be patients with other cancer(s) suggested to have sensitivity to CPO301 in Part A.\n* At least 1 measurable target lesion present and documented by CT or MRI according to RECIST v1.1\n* ECOG performance status 0 or 1 at screening\n* Life expectancy \\>12 weeks\n\nMajor Exclusion Criteria:\n\n* Known, active, or uncontrolled central nervous system (CNS) metastasis or carcinomatous meningitis.\n* Has AEs due to previous anti-tumor treatments not recovered to \u2264Grade 1 (except for alopecia; some tolerable chronic toxicities of Grade 2 may be excluded after consultation with the sponsor, as judged by the investigator) according to NCI-CTCAE v5.0.\n* Any serious and/or uncontrolled concurrent illness that may interfere with study participation\n\nPrior therapy\n\n* Received other investigational drugs or treatments within 4 weeks before the first dose of the investigational drug in the study\n* The time interval between the latest anti-tumor treatment and the first dose of the investigational drug meets the following requirements: Have received anti-tumor treatments such as chemotherapy, radiotherapy, targeted therapy, immunotherapy and other clinical investigational drugs within 4 weeks before the first dose of the investigational drug; have received oral fluoropyrimidines, small molecule targeted drugs within 2 weeks before the first dose of the investigational drug; have received palliative radiotherapy or local therapy within 2 weeks before the first dose of investigational drug.\n* Had major surgery within 4 weeks before the first dose of the investigational drug in the study.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To determine the dose to be used in Part B (RP2D)",
+      "timeFrame": "through study completion, an average of 1 year",
+      "description": "To determine the recommended dose of CPO301 to be used as monotherapy in Part B (RP2D)"
+    },
+    {
+      "measure": "Safety and tolerability at RP2D of CPO301 as monotherapy",
+      "timeFrame": "through study completion, an average of 1 year",
+      "description": "as measured by Incidence and severity of AEs per CTCAEv5.0"
+    }
+  ],
+  "sponsor": "Conjupro Biotherapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2023-06-06",
+  "completion_date": "2027-08",
+  "last_updated": "2026-03-18"
+}

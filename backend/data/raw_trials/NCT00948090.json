@@ -1,0 +1,60 @@
+{
+  "nct_id": "NCT00948090",
+  "brief_title": "PK-directed Dose Adjustment of IV Busulfan Conditioning Regimen for Autologous Stem Cell Transplant in Lymphoma Patients",
+  "official_title": "A Multi-center, Phase 2, Single-Arm, Open-Label Exploratory Study of Individually- Optimized Conditioning Using Pharmacokinetics [PK]-Directed Dose Adjustment of Once Daily Intravenous Busulfan, Followed by Autologous Hematopoietic Stem Cell Transplant in Subjects With Non-Hodgkin's Lymphoma and Hodgkin's Lymphoma",
+  "brief_summary": "This is a study for the outcome and safety of individualized busulfan dosing with cyclophosphamide and etoposide for patients preparing for a stem cell transplant to treat Non-Hodgkin or Hodgkin's Lymphoma.",
+  "detailed_description": "Evaluation of progression-free survival, transplant related mortality, overall survival, and overall response rate, in subjects with NHL and HL receiving an IV busulfan-based conditioning regimen with PK-guided IV busulfan dosing, followed by autologous HSCT as well as comparison to those receiving carmustine, etoposide, cytarabine, and melphalan (BEAM) conditioning regimen (and its variants) obtained from registry data in the Center for International Blood and Marrow Transplant Research (CIBMTR) Assessment of the safety profile of a BuCyE conditioning regimen with PK-directed dosing of IV busulfan will also be completed.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 207,
+  "conditions": [
+    "Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "IV Busulfan, Cyclophosphamide and Etoposide (BuCyE Regimen)",
+      "type": "DRUG",
+      "description": "Pk-directed IV Busulfan (based on test dose method) for 4 days followed by Etoposide 1400mg/m2 QD for one day and Cyclophosphamide 2.5 g/m2 QD for two days followed by autologous stem cell transplant."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nSubjects with NHL to be included:\n\n* Any subject with NHL that had relapsed or progressed following initial therapy with an anthracycline-based chemotherapy regimen and has achieved a subsequent partial remission (PR) or a complete remission (CR) following a salvage chemotherapy regimen.\n* Any subject with NHL that was initially refractory to an anthracycline-based chemotherapy regimen but who has achieved a PR or CR following a salvage chemotherapy regimen.\n* Any subject with an initial International Prognostic Index (IPI) score 4-5 who achieved a PR or any CR following an anthracycline-based chemotherapy regimen except subjects with Mantle cell, T cell and Natural Killer (NK) cell pathologies.\n* Subjects with Mantle cell, T cell and NK cell lymphoma may be enrolled if they have PR or CR after initial therapy.\n* Any subject that has relapsed or progressed following previous autologous HSCT.\n\nSubjects with HL to be included:\n\n* Any subject with HL that had relapsed or progressed following initial therapy with an multi-drug chemotherapy regimen and has achieved a subsequent PR or a CR following a salvage chemotherapy regimen.\n* Any subject with HL that is initially refractory to a multi-drug chemotherapy regimen but who has achieved a PR or CR following a salvage chemotherapy regimen.\n* Any subject that has relapsed or progressed following previous autologous HSCT.\n\nExclusion Criteria:\n\n* Any subject with chemoresistant disease by demonstration of less than PR to most recent chemotherapy, and any subject with prior treatment history of autologous HSCT or high-dose chemotherapy with stem cell rescue for any medical reason will be excluded.\n\nExcluded will also be subjects with existing or active central nervous system lymphoma or human immunodeficiency virus related lymphoma, unacceptable organ function, or uncontrolled infections.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "65 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Medical Center - Marlene & Stewart Greenebaum Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "The Western Pennsylvania Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Progression Events in 2 Years.",
+      "timeFrame": "2 years",
+      "description": "The time of Progression-Free Survival (PFS) was defined as the time from transplantation to the occurrence of the event that was death or first recurrence of progressive disease."
+    }
+  ],
+  "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+  "collaborators": [
+    "Center for International Blood and Marrow Transplant Research"
+  ],
+  "start_date": "2010-01",
+  "completion_date": "2013-06",
+  "last_updated": "2014-07-01"
+}

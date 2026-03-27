@@ -1,0 +1,103 @@
+{
+  "nct_id": "NCT01610284",
+  "brief_title": "Phase III Study of BKM120/Placebo With Fulvestrant in Postmenopausal Patients With Hormone Receptor Positive HER2-negative Locally Advanced or Metastatic Breast Cancer Refractory to Aromatase Inhibitor",
+  "official_title": "A Phase III Randomized, Double Blind Placebo Controlled Study of BKM120 With Fulvestrant, in Postmenopausal Women With Hormone Receptor-positive HER2-negative Locally Advanced or Metastatic Breast Cancer Which Progressed on or After Aromatase Inhibitor Treatment",
+  "brief_summary": "This study was a multi-center, randomized, double-blind, placebo controlled Phase III study to determine the efficacy and safety of treatment with buparlisib plus fulvestrant versus fulvestrant plus placebo in postmenopausal women with hormone Receptor-positive (HR-positive), human epidermal growth factor receptor 2-negative (HER2-negative), locally advanced or metastatic breast cancer (MBC) whose disease has progressed on or after aromatase inhibitor (AI) treatment.",
+  "detailed_description": "Patients were randomized (1:1) to receive buparlisib (100 mg/day) or placebo with fulvestrant (500 mg); randomization was stratified by PI3K pathway activation status (activated, non-activated, unknown determined in archival tumor tissue) and visceral disease status (present or absent). Tumor evaluation was performed 6 weeks after the randomization date and then every 8 weeks until radiological progression (based on Response Evaluation Criteria In Solid Tumors \\[RECIST\\] version 1.1).\n\nNovartis made the decision not to pursue further development of buparlisib and to terminate the ongoing studies in the program. Accordingly, on 19-Dec-2016, Novartis notified all the Investigators about the decision not to pursue further development of buparlisib in Breast Cancer. As a result, the CBKM120F2302 study was terminated on 19-Apr-2019 (last subject last visit).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1147,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Fulvestrant",
+      "type": "DRUG",
+      "description": "Intramuscular fulvestrant 500 mg (Day 1 and Day 15 of Cycle 1 and Day 1 of every cycle thereafter)"
+    },
+    {
+      "name": "BKM120",
+      "type": "DRUG",
+      "description": "BKM120 100 mg once daily"
+    },
+    {
+      "name": "BKM120 matching placebo",
+      "type": "DRUG",
+      "description": "BKM120 matching placebo, once daily"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Locally advanced or metastatic breast cancer\n* HER2-negative and hormone receptor-positive status (common breast cancer classification tests)\n* Postmenopausal woman\n* A tumor sample must be shipped to a Novartis designated laboratory for identification of biomarkers (PI3K activation status)\n* Progression or recurrence of breast cancer while on or after aromatase inhibitor treatment\n* Measurable disease or non measurable disease bone lesions in the absence of measurable disease as per RECIST 1.1\n* Adequate bone marrow and organ function defined by laboratory values\n\nKey Exclusion Criteria:\n\n* Previous treatment with PI3K inhibitors, AKT inhibitors, mTOR inhibitor or fulvestrant\n* More than one prior chemotherapy line for metastatic disease\n* Symptomatic brain metastases\n* Increasing or chronic treatment (\\> 5 days) with corticosteroids or another immunosuppressive agent\n* Active heart (cardiac) disease as defined in the protocol\n* Certain scores on an anxiety and depression mood questionnaires",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Mercy Medical Center Mercy Medical SC",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21202",
+      "status": ""
+    },
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center Johns Hopkins Med Sidney/John Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Frederick Memorial Hospital Fred. Mem. Hosp.",
+      "city": "Frederick",
+      "state": "Maryland",
+      "zip": "21701",
+      "status": ""
+    },
+    {
+      "facility": "Maryland Oncology Hematology, P.A. SC",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "20850",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack Meridian Health",
+      "city": "Brick",
+      "state": "New Jersey",
+      "zip": "08724",
+      "status": ""
+    },
+    {
+      "facility": "The Valley Hospital / Luckow Pavillion",
+      "city": "Paramus",
+      "state": "New Jersey",
+      "zip": "07652",
+      "status": ""
+    },
+    {
+      "facility": "St. Luke's Hospital and Health Network St Luke's (2)",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS) Based on Local Investigator Assessment - Full Analysis Set (FAS) in Full Population, Main Study Cohort and PI3K Unknown Cohort",
+      "timeFrame": "Date of randomization to the date of first documented tumor progression or death from any cause, whichever occurs first, reported between day of first patient randomized up to approximately 4 years",
+      "description": "Progression Free Survival (PFS) is defined as the time from date of randomization to the date of first radiologically documented progression or death due to any cause. If a patient did not progress or die at the time of the analysis data cut-off or start of new antineoplastic therapy, PFS was censored at the date of the last adequate tumor assessment before the earliest of the cut-off date or the start date of additional anti-neoplastic therapy. Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria RECIST v1.1, as 20% increase in the sum of diameter of all measured target lesions, taking as reference the smallest sum of diameter of all target lesions recorded at or after baseline and/or unequivocal progression of the non-target lesions and/or appearance of a new lesion. In addition to the relative increase of 20%, the sum must demonstrate an absolute increase of at least 5 mm."
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2012-08-07",
+  "completion_date": "2019-04-19",
+  "last_updated": "2020-08-24"
+}

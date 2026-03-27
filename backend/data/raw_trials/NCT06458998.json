@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT06458998",
+  "brief_title": "Getting To Implementation: Improving Cancer Screening for Veterans",
+  "official_title": "Getting To Implementation: Comparing the Effectiveness of Implementation Strategies to Improve Cancer Screening for Veterans",
+  "brief_summary": "Gastrointestinal cancers such as colon cancer and liver cancer cause many deaths in the US. Testing could catch these cancers early, helping people live longer. The goal of this study is to compare two different ways of getting more people tested for these cancers: 1) by directly reaching out to the people who need testing or 2) by helping providers fix issues that hold up testing.\n\nThe main question it aims to answer is: how should healthcare systems go about choosing one or the other?\n\nResearchers will look at cancer testing rates over time at sites that are trying these different approaches. They will also survey and interview participants from these sites.",
+  "detailed_description": "Researchers will conduct two hybrid type 3, cluster-randomized trials to compare the effectiveness of Patient Navigation (PN) and Implementation Facilitation (IF) on hepatocellular cancer (HCC) and colorectal cancer (CRC) screening completion. Trials will enroll 24 sites for the HCC arm and 32 sites for the CRC arm, passively enrolling and cluster-randomizing Veterans by their site of primary care. Multi-level implementation determinants (i.e., barriers and facilitators), preconditions, and moderators will also be evaluated pre- and post-intervention, using Consolidated Framework for Implementation Research (CFIR)-mapped surveys and interviews of Veteran participants and provider participants. Comparing findings in the two trials will allow researchers to understand how the barriers and strategies operate differently for a one-time screening in a relatively healthy population (CRC) vs. repeated screening in a more medically complex population (HCC).",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 30300,
+  "conditions": [
+    "Cancer of Liver",
+    "Cancer of Colon",
+    "Cirrhosis"
+  ],
+  "interventions": [
+    {
+      "name": "Patient Navigation",
+      "type": "BEHAVIORAL",
+      "description": "Patient Navigation providers include nurses, advance practice providers, and physicians who work to improve care across a range of measures using virtual PN. Providers will 1) use existing dashboards to identify at-risk Veterans, 2) conduct Veteran outreach (two calls, one letter) to provide education, problem solve, and offer screening, 3) order and schedule HCC or CRC screening tests, and 4) provide reminders and follow up on results."
+    },
+    {
+      "name": "Implementation Facilitation",
+      "type": "BEHAVIORAL",
+      "description": "Facilitators will provide 20 hours of virtual facilitation to site teams, through 1-hour meetings every other week and ad hoc meetings, over 12 months. They will guide site teams through a seven-step playbook called Getting To Implementation (GTI), which uses a series of tools to select context-specific strategies."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Veterans:\n\n   * \u226518 years of age\n   * Enrolled in Veterans Health Administration (VA)\n   * Have \u22651 VA encounter in the prior 18 months\n   * Hepatocellular cancer (HCC) screening subgroup: Diagnosis of cirrhosis in electronic medical record\n   * Colorectal cancer (CRC) screening subgroup: \u226545 years of age, positive fecal immunochemical test (FIT) (or other screening stool test) in the last 18 months\n2. Providers:\n\n   * Healthcare provider or related staff at participating VA site or engaged in CRC or HCC screening pathways in an included VA site (e.g., scheduling)\n   * \u226518 years of age\n\nExclusion Criteria:\n\n1. Veterans:\n\n   * \\<18 years of age\n   * Not enrolled in VA\n   * No VA encounters in the prior 18 months\n   * Limited life expectancy (\\< 6 months), defined as having a code for hospice\n2. Providers:\n\n   * Members of the study team will not participate, even if their sites are recruited",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "VA Pittsburgh Healthcare System",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15240",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in Reach of HCC screening from Baseline to 12 months",
+      "timeFrame": "Baseline, 12 months from Baseline",
+      "description": "Reach of an intervention refers to the absolute number, proportion, and representativeness of individuals who are willing to participate in a given intervention. The reach outcome will be the percentage of eligible Veterans in the HCC screening subgroup receiving guideline-concordant abdominal imaging within the prior 6 months."
+    },
+    {
+      "measure": "Change in Reach of CRC screening from Baseline to 12 months",
+      "timeFrame": "Baseline, 12 months from Baseline",
+      "description": "Reach of an intervention refers to the absolute number, proportion, and representativeness of individuals who are willing to participate in a given intervention. The reach outcome will be the percentage of eligible Veterans in the CRC screening subgroup receiving a colonoscopy."
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [
+    "Patient-Centered Outcomes Research Institute"
+  ],
+  "start_date": "2024-07-15",
+  "completion_date": "2030-02-28",
+  "last_updated": "2026-02-19"
+}

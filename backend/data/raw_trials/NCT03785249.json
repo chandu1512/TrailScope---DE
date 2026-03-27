@@ -1,0 +1,128 @@
+{
+  "nct_id": "NCT03785249",
+  "brief_title": "Phase 1/2 Study of MRTX849 in Patients With Cancer Having a KRAS G12C Mutation KRYSTAL-1",
+  "official_title": "A Phase 1/2 Multiple Expansion Cohort Trial of MRTX849 in Patients With Advanced Solid Tumors With KRAS G12C Mutation KRYSTAL-1",
+  "brief_summary": "This study will evaluate the safety, tolerability, drug levels, molecular effects, and clinical activity of MRTX849 (adagrasib) in patients with advanced solid tumors that have a KRAS G12C mutation.",
+  "detailed_description": "This study will evaluate the safety, tolerability, pharmacokinetics, metabolites, pharmacodynamics, and clinical activity of MRTX849 (adagrasib) in patients with advanced solid tumors with a KRAS G12C mutation. MRTX849 (adagrasib) is an orally-available small molecule inhibitor of KRAS G12C.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 731,
+  "conditions": [
+    "Advanced Cancer",
+    "Metastatic Cancer",
+    "Malignant Neoplastic Disease"
+  ],
+  "interventions": [
+    {
+      "name": "MRTX849",
+      "type": "DRUG",
+      "description": "MRTX849 will be administered orally once or twice daily in a continuous regimen"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Pembrolizumab is administered as an intravenous infusion once every 3 weeks"
+    },
+    {
+      "name": "Cetuximab",
+      "type": "DRUG",
+      "description": "Cetuximab will be administered as an intravenous infusion once per week or once every 2 weeks"
+    },
+    {
+      "name": "Afatinib",
+      "type": "DRUG",
+      "description": "Afatinib will be administered orally once a day in a continuous regimen"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of a solid tumor malignancy with KRAS G12C mutation\n* Unresectable or metastatic disease\n* Standard treatment is not available or patient declines; first-line treatment for NSCLC for certain cohorts\n* Adequate organ function\n\nExclusion Criteria:\n\n* History of intestinal disease or major gastric surgery or inability to swallow oral medications\n* Other active cancer",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 001-871",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713-2055",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 001-881-B",
+      "city": "Brandywine",
+      "state": "Maryland",
+      "zip": "20613",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 001-881",
+      "city": "Columbia",
+      "state": "Maryland",
+      "zip": "21044",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 001-881-A",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20904",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 001-837",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 001-837-A",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18017",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 001-817",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033-0850",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 001-783",
+      "city": "Media",
+      "state": "Pennsylvania",
+      "zip": "19063",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Characterize the safety of MRTX849 in patients having advanced solid tumor malignancies with KRAS G12C mutation",
+      "timeFrame": "20 months",
+      "description": "Number of participants with treatment related adverse events"
+    },
+    {
+      "measure": "Evaluate the pharmacokinetics of MRTX849",
+      "timeFrame": "20 months",
+      "description": "Blood plasma concentration"
+    },
+    {
+      "measure": "Evaluate clinical activity/efficacy of MRTX849",
+      "timeFrame": "20 months",
+      "description": "Objective response rate in accordance with Response Evaluation Criteria in Solid Tumors (RECIST)"
+    }
+  ],
+  "sponsor": "Mirati Therapeutics Inc.",
+  "collaborators": [],
+  "start_date": "2019-01-15",
+  "completion_date": "2026-12-31",
+  "last_updated": "2025-09-29"
+}

@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT06611982",
+  "brief_title": "Guaranteed Income and Financial Treatment",
+  "official_title": "Guaranteed Income and Financial Treatment Trial",
+  "brief_summary": "The goal of this clinical trial is to learn if providing advanced cancer patients with $1000/month for 12 months will improve cancer outcomes. The main questions it aims to answer are:\n\nTo what extent does receiving $1000/month additional income reduce financial hardship? To what extent does receiving $1000/month additional income improve quality of life? Does receiving $1000/month additional income improve survival outcomes?\n\nParticipants will:\n\nReceive $1000/month for 12 months Complete a survey every 3 months for 12 months If selected, participate in semi-structured interviews about their financial behaviors",
+  "detailed_description": "Cancer-related financial hardship (i.e., financial toxicity) has been associated with anxiety and depression, greater pain and symptom burden, treatment nonadherence, and mortality. Out-of-pocket healthcare costs and lost income are primary drivers of financial toxicity, however, income loss is a pronounced risk factor for cancer patients with low incomes. There has been little progress in developing an income intervention to alleviate financial toxicity cancer patients with low incomes. Unconditional cash transfers (UCT), or guaranteed income, have produced positive health effects in experiments with general low-income populations, but have not yet been evaluated in people with cancer. The Guaranteed Income and Financial Treatment (GIFT) Trial will use a two-arm randomized controlled trial to compare the efficacy of a 12-month UCT intervention providing $1000/month to treatment as usual on financial toxicity, health-related quality of life and treatment adherence in people with cancer who have low-incomes. The study will recruit 250 Medicaid beneficiaries with advanced cancer from two comprehensive cancer centers in Philadelphia, obtain informed consent, and randomize patients to one of two conditions: (1) $1,000/month UCT or (2) treatment as usual. Both arms will receive information on financial toxicity and the contact information for their hospital social worker or financial advocate upon enrollment. Participants will complete online surveys at baseline, 3, 6, 9, and 12 months from enrollment to collect patient-reported data on primary (i.e., financial toxicity, health-related quality of life, and treatment adherence) and secondary outcomes (i.e., anxiety, depression, food insecurity, housing stability). Social security records will be used to explore the effect on mortality at 2, 3, and 5 years post-enrollment. Linear mixed-models will be used to analyze all primary and secondary continuous outcomes over time and general estimating equations with a logit link and binary distribution for all binary outcomes over time. Differences between treatment and control groups and treatment effects will be determined using models that control for age, gender, race, baseline food security, baseline housing stability, and baseline ECOG. Findings from this study will have significant implications for the development and implementation of programs and policies that address the financial burden of cancer and other serious illnesses.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 250,
+  "conditions": [
+    "Cancer",
+    "Financial Hardship",
+    "Quality of Life"
+  ],
+  "interventions": [
+    {
+      "name": "Unconditional cash transfer",
+      "type": "OTHER",
+      "description": "$1000/month for 12 months"
+    },
+    {
+      "name": "Contact information for social worker and financial counselor",
+      "type": "OTHER",
+      "description": "Information on financial toxicity and contact information for social worker and financial counselor"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age = 18 or older\n2. Newly diagnosed or recurrent advanced cancer (Stage 3 or 4)\n3. Receiving chemotherapy or immunotherapy (with or without radiation) at one of the recruitment sites\n4. Within 12 months of receiving systemic therapy and on surveillance at one of the recruitment sites\n5. ECOG performance status of 1 - 2\n6. A Pennsylvania Medicaid beneficiary\n7. A Pennsylvania resident\n\nExclusion Criteria:\n\n1. Eligible for hospice (i.e. determined by provider to have a prognosis of 6 months or less) at time of randomization\n2. Unable to communicate in English, Spanish, or Mandarin",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn Presbyterian Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Jefferson Health",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Financial Toxicity",
+      "timeFrame": "6 and 12 months from enrollment",
+      "description": "COmprehensive Score for Financial Toxicity (COST)"
+    },
+    {
+      "measure": "Treatment adherence",
+      "timeFrame": "6 and 12 months from enrollment",
+      "description": "Number of missed appointments in last 30 days"
+    }
+  ],
+  "sponsor": "Meredith Doherty, PhD, LCSW",
+  "collaborators": [
+    "Mathematica Policy Research, Inc."
+  ],
+  "start_date": "2023-04-01",
+  "completion_date": "2026-07-30",
+  "last_updated": "2026-03-21"
+}

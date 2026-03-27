@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT07470853",
+  "brief_title": "A Study of MUC16-Directed Antibody Drug Conjugate HWK-016 in Participants With Advanced Solid Tumors.",
+  "official_title": "A Phase 1 First-in-Human Study of MUC16-Directed Antibody Drug Conjugate HWK-016 in Participants With Advanced Solid Tumors.",
+  "brief_summary": "HWK-016-101 is a multicenter, open-label, first-in-human (FIH) Phase 1 study evaluating HWK-016, a targeted antibody-drug conjugate (ADC) in adult participants with advanced or metastatic solid tumors. The study employs a dose escalation and dose expansion design without a control group.\n\nThe study consists of 2 parts (Part A: monotherapy and Part B: combination therapy with bevacizumab); each part has 2 phases, Phase 1a (dose escalation) and Phase 1b (dose expansion). Enrollment to Part A (Phase 1a and Phase 1b) will include ovarian and endometrial cancers. Enrollment to Part B (Phase 1a and Phase 1b) will include ovarian cancer only. A subsequent protocol amendment may evaluate additional tumor types.",
+  "detailed_description": "HWK-016-101 is a Phase 1 study evaluating HWK-016, a mucin-16 (MUC-16) targeted antibody-drug conjugate (ADC) in adult participants with advanced or metastatic solid tumors.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 265,
+  "conditions": [
+    "PROC",
+    "Platinum Resistant Ovarian Cancer",
+    "Endometrial Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "HWK-016, MUCIN-16-targeted ADC",
+      "type": "DRUG",
+      "description": "HWK-016 is a MUCIN-16-targeted Antibody-Drug-Conjugate (ADC) being developed for the treatment of solid tumors."
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "Bevacizumab administered according to the USPI in 21-day cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have one of the following solid tumor cancers:\n\n  1. Monotherapy escalation, backfill and expansion cohorts:\n\n     1. Endometrial Carcinoma\n     2. Ovarian Cancer\n  2. Combination Escalation, Backfill and Expansion Cohorts a. Ovarian Cancer\n\nExclusion Criteria:\n\n1. Individual with known or suspected uncontrolled central nervous system (CNS) metastases\n2. Individual with history of carcinomatous meningitis\n3. Individual with active uncontrolled systemic bacterial, viral, fungal, or parasitic infection\n4. Individual with evidence of corneal keratopathy or history of cornea transplant\n5. Any serious unresolved toxicities from prior therapy\n6. Significant cardiovascular disease\n7. Prolongation of QT interval corrected for heart rate using Fridericia's formula (QTcF) \u2265 470 milliseconds (ms)\n8. History of pneumonitis/interstitial lung disease\n9. Individuals who are pregnant, breastfeeding or plan to breastfeed during study or within 30 days of last dose of study intervention",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "SCRI - Sydney Kimmel Cancer Center - Jefferson Health",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Determine Maximum Tolerated Dose (MTD)",
+      "timeFrame": "From Cycle 1, Day 1 Until Cycle 1, Day 21 (21-day cycles)",
+      "description": "Determine the highest dose of HWK-016 that can be administered without signs of toxicity, measured at the end of Cycle 1(21-day cycle) by: Incidence and severity of Adverse Events (AE). Incidence of Dose-Limiting Toxicities (DLT). Incidence of Serious Adverse Events (SAE). Evaluate the safety and tolerability of HWK-016 at the selected RDE(s) determined from Phase 1a, as monotherapy (Part A) in participants with ovarian and endometrial cancers and in combination therapy with bevacizumab (Part B) in participants with ovarian cancer"
+    },
+    {
+      "measure": "Determine Maximum Administered Dose (MAD)",
+      "timeFrame": "From Cycle 1, Day 1 to Cycle 1, Day 21 (21-day cycles) until the MTD is reached.",
+      "description": "Determine the highest dose of HWK-016 administered during the dose escalation part of the study, measured at the end of Cycle 1 (21-day cycle) by: Incidence and severity of Adverse Events (AE). Incidence of Dose-Limiting Toxicities (DLT). Incidence of Serious Adverse Events (SAE). Evaluate the safety and tolerability of HWK-016 at the selected RDE(s) determined from Phase 1a, as monotherapy (Part A) in participants with ovarian and endometrial cancers and in combination therapy with bevacizumab (Part B) in participants with ovarian cancer"
+    },
+    {
+      "measure": "Determine Recommended Dose For Expansion (RDE)",
+      "timeFrame": "From Cycle 1, Day 1 to Cycle 1, Day 21 (21-day cycle) until MTD is identified.",
+      "description": "Determine the dose of HWK-016 that will be recommended for further study within the tumor types studied in this clinical trial, measured at the end of Cycle 1, Day 21 (21-day cycle) by: Incidence and severity of Adverse Events (AE). Incidence of Dose-Limiting Toxicities (DLT). Incidence of Serious Adverse Events (SAE). Evaluate the safety and tolerability of HWK-016 at the selected RDE(s) determined from Phase 1a, as monotherapy (Part A) in participants with ovarian and endometrial cancers and in combination therapy with bevacizumab (Part B) in participants with ovarian cancer."
+    }
+  ],
+  "sponsor": "Whitehawk Therapeutics, Inc.",
+  "collaborators": [
+    "Catalyst Pharmaceutical Research"
+  ],
+  "start_date": "2026-03-15",
+  "completion_date": "2028-02",
+  "last_updated": "2026-03-09"
+}

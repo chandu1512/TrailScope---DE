@@ -1,0 +1,38 @@
+{
+  "nct_id": "NCT00339508",
+  "brief_title": "Exploratory Data Analysis for Disease Pedigrees and Cancer Genetics",
+  "official_title": "Exploratory Data Analysis for Disease Pedigrees and Cancer Genetics",
+  "brief_summary": "The researchers have developed and distributed several software packages for pedigree analysis (FAST, CASPAR, PedHunter, IIC) and cancer genetics (oncotree, METREX). Users who need assistance with the software or who want to see new features added often send the researchers data files that include human data. The information is normally coded, and the researchers do not have access to the identification of the people whose information is in the files. Sometimes the content of the files gives rise to collaborations between the software developers and the providers of the files. Because concerns over the confidentiality of medical information have increased significantly over the past few years, the researchers must apply for exemptions from detailed ethics committee oversight for every data set they receive. This process is cumbersome and makes it difficult to assist software users. The amount of information required to apply for an exemption also poses a barrier to collaborations.\n\nA full protocol will subject all data sets to ethics committee oversight without the need for individual exemption requests, enabling the researchers to assist users with software problems and to collaborate with other researchers.\n\nFrom January 1, 2000, through December 15, 2001, the researchers received 71 requests for assistance, 19 of which included data files. None of the data files had any names or patient identifiers. Of these 19, in 8 cases the researchers sent back modified output files. In two of these eight cases, the researchers could see results of research interest; one of them concerned human data. In 2 of the 19 cases, the researchers sent back modified input files; in one such case, they established a collaboration with the originator of the files. In sum, most requests come under the heading of customer service, with no research contents. A few, however, do lead to research results or collaborations, for which ethics committee oversight is required.\n\nOver the three-year time frame of this protocol, the researchers anticipate receiving data on a maximum of 10,000 individuals. They have modified their software documentation to explicitly instruct users to make sure the data files they send have no names. Should they receive files with names, they will delete the files and ask the originator to resubmit them with names encoded. Users submit data through unencrypted e-mail. The data are stored in password-protected computers at the National Institutes of Health.",
+  "detailed_description": "We have developed software packages for pedigree analysis (FAST, CASPAR, PedHunter, IIC) and cancer genetics (oncotrees, METREX). The purpose of this protocol is to allow us to work on software problems reports that may contain human subjects data in them. The data should be coded, by which we mean that if there are any links between identifiers and names, we do not possess the links to decode the names. Occasionally our assistance leads to a more formal research collaboration. This protocol seeks to clarify the guidelines under which we can provide assistance to users of our human genetics software and to establish a formal procedure under which we can seek IRB approval for the serendipitous collaborations that arise from providing that assistance. We cannot predict the sizes of samples or the diseases studied in the data sets sent to us, so most of the medical aspects of this protocol are necessarily general. We rely on the data being coded and the collectors of the data having their own institutional approvals to protect against most risks. The scientific aspects of investigating problem reports cannot be hypothesis driven because we cannot guess what problems will arise. On the engineering side, the basic hypotheses are that: 1) our software is likely to contain some bugs or other weaknesses, which cannot be easily found except by having others use the software and 2) a good way to improve the functionality of the software is to encourage users to submit problem reports and other suggestions.\n\nThis protocol has been in effect since early 2002. The only amendments during that time were to set up three collaborations, as described in Sections 4.6 and 4.7 and 4.8. The protocol has been quite useful and no changes are proposed in procedures.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 13385,
+  "conditions": [
+    "Data Analysis",
+    "Cancer Genetics"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "* INCLUSION/EXCLUSION CRITERIA:\n\nUser Requests:\n\nWhen receiving data sets for problem reports and/or new feature requests, all data sets would be accepted. We would not consider how the data were collected. The reasons for this are: the medical aspects of the data set are irrelevant to the reason we receiving the data; we cannot respond promptly to problem reports, if we have to get details on how the data were collected; the data are never used by us for any research into the traits being studies by the researchers who collected data.\n\nCollaborations:\n\nFor collaborative studies, we would request details of how the data were collected, including evidence of approval by a local ethics board. We would submit to the NHGRI IRB an amendment describing the new collaboration. That amendment would necessarily include a formal indication that the collaborating research group has permission to collect and analyze the human data that they present to us (in coded and summarized format). For collaborators in the United States that permission would consist of an IRB-approved protocol or exemption from the collaborator's institution. For collaborators outside the United States the permission would be one of the types of agreements currently supported by the NIH Office of Human Subjects Research.\n\nIf we do not see evidence of appropriate permission to collect the data or the IRB turns down our proposed amendment, then we would exclude ourselves from participating in the proposed collaboration.\n\nThere are two other circumstances under which we have also excluded collaborating on analysis of data sets in the past and may do so in the future. One circumstance was where we did not feel that the proposed data set could possibly give sufficient statistical power to detect anything interesting. The other circumstance was where we had an existing collaboration with one research group, and a competing group asked us to collaborate also.",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Human Genome Research Institute (NHGRI), 9000 Rockville Pike",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [],
+  "sponsor": "National Human Genome Research Institute (NHGRI)",
+  "collaborators": [],
+  "start_date": "2002-03-19",
+  "completion_date": "2017-05-09",
+  "last_updated": "2018-04-04"
+}

@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT06190730",
+  "brief_title": "REmote Symptom COllection to improVE postopeRative Care",
+  "official_title": "REmote Symptom COllection to improVE postopeRative Care",
+  "brief_summary": "There are vulnerabilities in post-discharge care transition for patients after undergoing resection of malignant gastrointestinal tumors. This study aims to investigate the possibility of utilizing Voice-Assisted Remote Symptom Monitoring System (VARSMS) to alleviate some of these challenges.",
+  "detailed_description": "Randomized controlled trial comparing post-op patients randomized to using the VARSMS vs control.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 281,
+  "conditions": [
+    "Gastrointestinal Cancer",
+    "Gastrointestinal Tumor",
+    "Gastrointestinal Tumor Surgery",
+    "Gastrointestinal Surgery"
+  ],
+  "interventions": [
+    {
+      "name": "Voice-Assisted Remote Symptom Monitoring System (VARSMS)",
+      "type": "OTHER",
+      "description": "Utilizing an Alexa Skill activated via an Amazon Echo Dot device, this system will administer two patient-reported outcomes measures to subjects. This will not be used as basis for diagnosis, nor for any clinical intervention."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria\n\n1. At least 18 years old. Ages of subjects \\>89 will simply be reported as \\>90.\n2. Scheduled for a GI surgery for management of a tumor in a participating hospital.\n3. Fluent in oral and written English.\n4. Has consistent and continued full access to an operational Wi-Fi for the duration of the study.\n\nExclusion criteria\n\n1. Unable to provide informed consent.\n2. Not willing to commit to regular participation in the study to include daily use (40 days) of the study application.\n3. Life expectancy of less than 60 days.\n4. In the opinion of the investigator, participation in this study is contraindicated.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "MedStar Health",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21218",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Custom questionnaire based on NCI PRO CTCAE (National Cancer Institute- Patient-Reported Outcomes version of the Common Terminology Criteria for Adverse Events)",
+      "timeFrame": "40 days",
+      "description": "Daily symptom-based self-reported assessment on dyspnea, fever, melena, pain, wound healing, activities of daily living, sensorium, gastrointestinal motility, dysphagia, pitting edema, mood, and an option to mention symptoms not asked of.\n\nThis is monitored by the research team, and any concerning finding, at the discretion of the site's physician, will be relayed to the subject's treating physician.\n\nTreating physician has final decision on whether to address referral by adjustment of management."
+    }
+  ],
+  "sponsor": "Medstar Health Research Institute",
+  "collaborators": [],
+  "start_date": "2024-07-23",
+  "completion_date": "2027-12-31",
+  "last_updated": "2025-03-31"
+}

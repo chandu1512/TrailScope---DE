@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT05787587",
+  "brief_title": "A Study of PARG Inhibitor IDE161 in Participants With Advanced Solid Tumors",
+  "official_title": "A Study of PARG Inhibitor IDE161 in Participants With Advanced Solid Tumors",
+  "brief_summary": "The purpose of this study is to characterize the safety, tolerability, and efficacy of IDE161 as a single agent and in combination with pembrolizumab.",
+  "detailed_description": "The purpose of this study is to characterize the safety, tolerability including determination of maximum tolerated dose (MTD), maximum accepted dose (MAD), recommended dose(s) for expansion (RDE) and/or recommended Phase 2 dose (RP2D), pharmacokinetics (PK), pharmacodynamics (PD) and preliminary anti-tumor activity of IDE161 as a single agent in participants with advanced or metastatic solid tumors harboring BRCA1/2 loss of function alterations and/or other defects in the homologous recombination (HR) pathway and in combination with pembrolizumab in participants with advanced/recurrent endometrial cancer.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 216,
+  "conditions": [
+    "Advanced or Metastatic Solid Tumors",
+    "Breast Cancer",
+    "Ovarian Cancer",
+    "Prostate Cancer",
+    "Endometrial Cancer",
+    "Colorectal Cancer",
+    "Head and Neck Cancers",
+    "Extensive Stage Small Cell Lung Cancer (ES-SCLC)",
+    "NSCLC"
+  ],
+  "interventions": [
+    {
+      "name": "IDE-161",
+      "type": "DRUG",
+      "description": "Oral Medication"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Intravenous Infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Adult participants must be 18 years of age or older\n2. Advanced or metastatic solid tumors excluding primary central nervous system (CNS) tumors\n3. For Module 1 only, Have documented evidence of BRCA1/2 and/or genetic alterations conferring homologous recombination deficiency (HRD) (ATM, BARD1, BRIP1, CDK12, CHEK1, CHEK2, FANCL, PALB2, PPP2R2A, RAD51B, RAD51C, RAD51D, RAD54L, NBN, FANCA)\n\n   For Module 2 only, results of MSI and/or MMR testing required.\n\n   For Module 2 only, results of BRCA1/2 and HRD gene testing required.\n4. Participant must have progressed on at least one prior line of therapy in the advanced or metastatic setting that is considered an appropriate standard of care, or for which the participant has documented intolerance\n5. For Module 2 only, advanced or metastatic Endometrial Cancer (uterine carcinosarcoma is excluded)\n6. For Module 2 only, Must have progressed on treatment with an anti-PD-1/L1 monoclonal antibody (MAB)\n\nExclusion Criteria:\n\n1. Known primary CNS malignancy\n2. Impairment of GI function or GI disease that may significantly alter the absorption of IDE161\n3. Have active, uncontrolled infection\n4. Clinically significant cardiac abnormalities\n5. Major surgery within 4 weeks prior to enrollment\n6. Radiation therapy within 2 weeks prior to enrollment\n7. Systemic cytotoxic chemotherapy within 4 weeks prior to enrollment\n8. Radioimmunotherapy within 6 weeks of enrollment\n9. Treatment with a therapeutic antibody within 4 weeks prior to enrollment\n10. Treatment with an anti-cancer small molecule within 5 half-lives (t1/2), or 2 weeks, whichever is shorter\n11. Have current active liver or biliary disease\n12. For Module 2 only, History or allogeneic tissue/solid organ transplant\n13. For Module 2 only, Active autoimmune disease that has required systemic treatment in past 2 years\n14. For Module 2 only, History of (noninfectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "facility": "Sarah Cannon Research Institute - Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1 (Dose Escalation): To characterize the safety and tolerability of IDE161 monotherapy or in combination with pembrolizumab to determine the MTD and/or RDE",
+      "timeFrame": "Approximately 2 years",
+      "description": "* Incidence of Dose Limiting Toxicities\n* Incidence of treatment-emergent Adverse Events as characterized by type, frequency, severity (as graded by NCI CTCAE version 5.0), timing, seriousness, and relationship to study therapy\n* Laboratory abnormalities as characterized by type, frequency, severity (as graded by NCI CTCAE version 5.0), and timing"
+    },
+    {
+      "measure": "Part 2 (Dose Expansion): To further assess the safety and tolerability of IDE monotherapy and in combination with pembrolizumab at the RDE",
+      "timeFrame": "Approximately 4 years",
+      "description": "* Incidence of treatment-emergent AEs as characterized by type, frequency, severity (as graded by NCI CTCAE version 5.0), timing, seriousness, and relationship to study therapy\n* Laboratory abnormalities as characterized by type, frequency, severity (as graded by NCI CTCAE v5.0), and timing"
+    },
+    {
+      "measure": "Part 2 (Dose Expansion): To evaluate preliminary anti-tumor activity of IDE161 monotherapy or in combination with pembrolizumab",
+      "timeFrame": "Approximately 4 years",
+      "description": "Tumor response: Overall Response Rate assessed using RECIST criteria v1.1"
+    }
+  ],
+  "sponsor": "IDEAYA Biosciences",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2023-04-18",
+  "completion_date": "2027-05",
+  "last_updated": "2026-02-05"
+}

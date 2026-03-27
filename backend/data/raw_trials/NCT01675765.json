@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT01675765",
+  "brief_title": "Safety and Efficacy of Listeria in Combination With Chemotherapy as Front-line Treatment for Malignant Pleural Mesothelioma",
+  "official_title": "A Phase 1B Study to Evaluate the Safety and Induction of Immune Response of CRS-207 in Combination With Pemetrexed and Cisplatin as Front-line Therapy in Adults With Malignant Pleural Mesothelioma",
+  "brief_summary": "This clinical trial will evaluate the safety and immune response of the sequential administration cancer vaccine CRS-207 (with or without cyclophosphamide) followed by standard of care chemotherapy (pemetrexed and cisplatin). CRS-207 is a weakened (attenuated) form of Listeria monocytogenes that has been genetically-modified to reduce its capacity to cause disease, while maintaining its ability to stimulate potent immune responses. CRS-207 has been engineered to elicit an immune response against the tumor-associated antigen mesothelin, which has been shown to be present at higher levels on certain tumor cells (such as mesothelioma) than on normal cells. Pemetrexed and cisplatin are the standard chemotherapy regimen to treat malignant pleural mesothelioma. This trial will evaluate whether giving CRS-207 cancer vaccine with chemotherapy will induce anti-tumor immune responses and/or objective tumor response.",
+  "detailed_description": "Up to 60 subjects will be enrolled in this study. Eligible subjects will receive 2 prime vaccinations of CRS-207 (1\u00d710\\^9 colony-forming units \\[CFU\\] given intravenously \\[i.v.\\] over 2 hours) (with or without cyclophosphamide) 2 weeks apart followed 2 weeks later by up to 6 cycles of pemetrexed and cisplatin 21 days apart. Three weeks after completion of chemotherapy, subjects will receive an additional 2 infusions (boost vaccinations) of CRS-207 3 weeks apart. Subjects will be followed every 8 weeks until disease progression by immune-related response criteria. Subjects who continue to meet dosing eligibility may receive additional CRS-207 (with or without cyclophosphamide) infusions (maintenance vaccinations) at each follow-up visit.\n\nStudy assessments include blood draws for safety and immune response monitoring and CT scans \\[with optional fluorodeoxyglucose positron emission tomography (FDG-PET)\\] or magnetic resonance imaging (MRI) to monitor disease status. In addition, optional tumor biopsies may be performed before, during and after treatment.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "Malignant Pleural Mesothelioma"
+  ],
+  "interventions": [
+    {
+      "name": "Immunotherapy plus chemotherapy",
+      "type": "BIOLOGICAL",
+      "description": "live attenuated double deleted Lm"
+    },
+    {
+      "name": "Immunotherapy with cyclophosphamide plus chemotherapy",
+      "type": "BIOLOGICAL",
+      "description": "live attenuated double deleted Lm"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have histologically confirmed epithelial or biphasic MPM not amenable to potentially curative surgical resection (subjects with biphasic tumors that have a predominantly (\u226550%) sarcomatoid component will be excluded)\n* Be at least 18 years of age\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Have an anticipated life expectancy of greater than 6 months\n* For women and men of childbearing potential, a medically acceptable method of highly effective contraception (oral hormonal contraceptive, condom plus spermicide, or hormone implants) must be used throughout the study period and for 28 days after their final vaccine administration. (A barrier method of contraception must be employed by all subjects \\[male and female\\], regardless of other methods.)\n* Be willing and able to give written informed consent, and be able to comply with all study procedures\n* Have adequate organ function as defined by specified laboratory values\n\nExclusion Criteria:\n\n* A candidate for curative surgery\n* Surgery within 2 weeks prior to dosing\n* Prior radiotherapy or biologic therapy\n* Treatment with an investigational agent within 4 weeks before dosing\n* Prior systemic chemotherapy\n* Currently have or have history of certain study-specified heart, liver, kidney, lung, neurological, immune or other medical conditions\n* Documented and ongoing brain metastases\n* Have any evidence of hepatic cirrhosis or clinical or radiographic ascites\n* Have clinically significant and/or malignant pleural effusion\n* Known or suspected allergy or hypersensitivity to yeast or any other component of CRS-207 (e.g., glycerol), Platinol or platinum-containing compounds, or pemetrexed\n* Used any systemic steroids within 28 days of study treatment\n* Use more than 3 g/d of acetaminophen\n* An artificial (prosthetic) joint or other artificial implant or device that cannot be easily removed (with some exceptions for dental and breast implants and biliary stents and mediports)\n* Infection with HIV or hepatitis B or C at screening\n* Any immunodeficiency disease or immunocompromised state or active autoimmune disease or history of autoimmune disease requiring systemic steroids or other immunosuppressive treatment\n* Be a woman who is pregnant or breastfeeding\n* Unable to avoid close contact with another individual known to be at high risk of listeriosis (e.g., newborn infant, pregnant woman, HIV-positive individual) during the course of CRS-207 treatment until completion of antibiotic regimen\n* Conditions, including alcohol or drug dependence, intercurrent illness, or lack of sufficient peripheral venous access, that would affect the patient's ability to comply with study visits and procedures",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Cancer Institute",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Subjects Reporting Adverse Events",
+      "timeFrame": "From first study dose until 28 days after the final dose (an average of 44 weeks)",
+      "description": "Count of subjects with incidences of adverse events."
+    },
+    {
+      "measure": "Induction of Immune Response to Mesothelin by Enzyme-linked Immunosorbent Spot (ELISPOT) Assay",
+      "timeFrame": "Change over time assessed at multiple time points until disease progression or death (up to 12 months or longer)",
+      "description": ""
+    }
+  ],
+  "sponsor": "Aduro Biotech, Inc.",
+  "collaborators": [],
+  "start_date": "2014-09-03",
+  "completion_date": "2019-08-19",
+  "last_updated": "2020-09-28"
+}

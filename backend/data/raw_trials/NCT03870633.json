@@ -1,0 +1,124 @@
+{
+  "nct_id": "NCT03870633",
+  "brief_title": "Assessment of Financial Difficulty in Participants with Chronic Lymphocytic Leukemia and Multiple Myeloma",
+  "official_title": "Assessing Financial Difficulty in Patients with Blood Cancers",
+  "brief_summary": "This trial studies financial difficulty in participants with chronic lymphocytic leukemia and multiple myeloma. Assessment of financial difficulty may help to better understand the financial impact of cancer and come up with ways to help participants avoid financial problems during treatment.",
+  "detailed_description": "The primary and secondary objectives of the study:\n\nPRIMARY OBJECTIVES:\n\nI. To estimate the proportion of patients with multiple myeloma (MM) or chronic lymphocytic leukemia (CLL) who report experiencing financial difficulty in the past 12 months.\n\nSECONDARY OBJECTIVES:\n\nI. To describe the association of patient report of financial difficulty with insurance status.\n\nII. To describe the association of patient report of financial difficulty with receiving treatment at sites of care that report offering patients financial guidance through navigators or social workers, and controlling for patient socioeconomic status.\n\nIII. To describe the types of psychosocial, transportation and financial navigation interventions sites are developing.\n\nIV. To identify distinct patterns of financial burden among patients undergoing treatment for MM or CLL.\n\nV. To examine the relationship between distinct patterns of financial burden with patient report of financial difficulty, patient socio-demographics, and patient disease characteristics.\n\nVI. To estimate the proportion of patients with MM or CLL undergoing treatment who report receiving financial support in the past 12 months.\n\nVII. To describe the association of patient report of receiving financial support with receiving treatment at sites of care offering patients financial guidance through navigators or social workers, and with socioeconomic status.\n\nVIII. To describe the magnitude of patient concerns regarding treatment and costs of care.\n\nIX. To describe the association of patient concerns regarding treatment and costs of care with patient socio-demographics, disease and site of care characteristics.\n\nX. To describe the association of financial difficulty with patient self-reported health and well-being.\n\nTrial Design:\n\nOUTLINE:\n\nParticipants undergo medical chart abstraction within 1 week and complete telephone interview over 30-45 minutes within 8 weeks after registration.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 521,
+  "conditions": [
+    "Chronic Lymphocytic Leukemia",
+    "Plasma Cell Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Medical Chart Review",
+      "type": "OTHER",
+      "description": "Undergo medical chart abstraction"
+    },
+    {
+      "name": "Interview",
+      "type": "OTHER",
+      "description": "Complete telephone interview"
+    },
+    {
+      "name": "Questionnaire",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "Quality-of-Life Assessment",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nPATIENT ELIGIBILITY CRITERIA\n\n* Patients must have current diagnosis of chronic lymphocytic leukemia (CLL) or multiple myeloma (MM)\n* Patients' medical records must be available to the registering institution\n* Eligible patients must have been prescribed drug-based anticancer therapy, whether administered orally or by infusion, within the prior 12 months. Specifically, eligible patients are those who:\n\n  * Are presently being treated with infused or orally-administered anticancer therapy, OR\n  * Completed infused or orally-administered anti-cancer therapy in the past 12 months, OR\n  * Were prescribed infused or orally-administered anticancer therapy within the prior 12 months yet chose to forego treatment\n* Not currently enrolled in a clinical trial in which drug is supplied by the study\n* Patients with psychiatric illness or other mental impairment that would preclude their ability to give informed consent or to respond to the telephone survey are not eligible\n* Patients must be able to read and comprehend English or Spanish\n\nSITE ELIGIBILITY CRITERIA\n\n* Intent to complete the A231602CD Site of Care Survey\n* Access to patient medical records: Registering institution must have access to patient medical records, either on site or via request from other institutions, if recruiting patients at a site (as medical abstraction is required for collecting study data)\n* Sites seeking to enroll Spanish- speaking patients must have Spanish speaking staff on site to be able to conduct the informed consent discussion in Spanish",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Delaware Clinical and Laboratory Physicians PA",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Helen F Graham Cancer Center",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Medical Oncology Hematology Consultants PA",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Beebe Health Campus",
+      "city": "Rehoboth Beach",
+      "state": "Delaware",
+      "zip": "19971",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Center",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Center-Cancer Center Hazleton",
+      "city": "Hazleton",
+      "state": "Pennsylvania",
+      "zip": "18201",
+      "status": ""
+    },
+    {
+      "facility": "Community Medical Center",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18510",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Group",
+      "city": "State College",
+      "state": "Pennsylvania",
+      "zip": "16801",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Wyoming Valley/Henry Cancer Center",
+      "city": "Wilkes-Barre",
+      "state": "Pennsylvania",
+      "zip": "18711",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of patients with MM and/or CLL who report experiencing financial difficulties in the past 12 months",
+      "timeFrame": "Up to 8 weeks",
+      "description": "Financial difficulties will be assessed using the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-Core 30 (EORTC QLQ-C30) financial difficulty item #28 regarding financial difficulties with a modified recall period: \"Has your physical condition or medical treatment caused you financial difficulties in the past year?\", measured as \"Not at all/A little/Quite a bit/Very much.\" Participant responses will be dichotomized as follows: \"Not at all\" or \"A little\" classified as \"No\", and \"Quite a bit\" and \"very much\" classified as \"Yes.\" This dichotomized response will be assessed using Wilson score confidence interval (95%)."
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "The Leukemia and Lymphoma Society"
+  ],
+  "start_date": "2019-05-14",
+  "completion_date": "2023-05-01",
+  "last_updated": "2025-01-15"
+}

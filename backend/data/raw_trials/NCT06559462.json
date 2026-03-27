@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT06559462",
+  "brief_title": "Nudge Strategies for DPYD Testing in Patients With Gastrointestinal Cancers Treated With Fluoropyrimidines",
+  "official_title": "Optimizing Nudge Strategies to Increase the Adoption of DPYD Testing in Patients With Gastrointestinal (GI) Malignancies Treated With Fluoropyrimidines.",
+  "brief_summary": "5-fluorouracil and capecitabine, sometimes called 5-FU, fluoropyrimidines, or Xeloda are a type of chemotherapy. Many people have side effects from these drugs like nausea, diarrhea, or blood problems. This research study is being conducted to learn how to help increase the number of patients offered DPYD testing before taking this type of chemotherapy drugs. DPYD testing can help predict risk of side effects.\n\nDifferent people's bodies break down and use drugs faster or slower. Genes are the instructions that tell our bodies how to do this. The DPYD gene is one of the genes that tell your body how to use chemotherapy drugs. Some people have changes in their DPYD gene that can make their side effects from chemotherapy worse, sometimes so bad that they die. DPYD testing can tell doctors which people have these gene changes and need extra monitoring during chemotherapy.\n\nSome of the people in this study will join a focus group and read sample messages for future patients. They will discuss with the other participants how well the message does its job and anything that might make the message better. When there are no more messages, the host may ask about other information for future patients like a website or brochure.\n\nOther people in the study will read sample messages that may be sent to future patients about DPYD testing. They will select the message that they like the best and might make them ask their oncologist about testing options.",
+  "detailed_description": "INTRODUCTION AND PURPOSE:\n\nFluoropyrimidines (FPs) are the cornerstone of treatment for several gastrointestinal (GI) malignancies. Approximately 5-7% of patients carry reduced function variants in DPYD, resulting in the inability to metabolize FPs, predisposing them to severe, life-threatening toxicities. These patients can be identified through DPYD pharmacogenetic (PGx) testing. However, DPYD testing has not been widely adopted in clinical care due to implementation barriers at the system- (e.g., access to testing, integration into clinical workflows), clinician- (e.g., interpretation of results, remembering to order test) and patient- (e.g., knowledge about testing, worry about adverse effects of testing) levels. This results in substantial uncertainty and a tendency to rely on several biases \\[e.g., status quo (not to test), loss aversion (perception of loss greater than gain), omission (focusing on harm of action more than of non-action), or confirmation (validating prior beliefs)\\] that can influence health decisions. Behavioral economics offers a roadmap for mitigating clinician biases using choice architecture and message framing, which involves changing the EHR environment to facilitate the desired (evidence-based) choice, and patient biases using priming, which uses direct communication strategies to address potential biases prior to clinical encounters. In Aim 1, we will develop patient- and clinician-directed nudges with input from key stakeholders. Feedback will also be used to develop and refine educational materials to support clinical testing. In Aim 2, we will pilot test the nudges using discrete choice experiments (DCE) to identify the optimal framing that best mitigate cognitive biases. Results of the pilot will be utilized to design a randomized clinical trial testing the nudge strategies.\n\nOBJECTIVES:\n\nTo obtain input from clinician and patient stakeholders to design EHR based nudges that are acceptable and will increase the likelihood of ordering DPYD testing prior to prescribing a FP for GI cancer.\n\nAim 1: Develop and refine patient- and clinician- directed nudges that will address biases to DPYD testing. Hypothesis: Stakeholder feedback will result in acceptable and appropriate nudges.\n\nAim 1a. We will conduct focus groups with stakeholders and clinicians to refine the framing and content of EHR nudges that will best mitigate biases to ordering DPYD testing.\n\nAim 1b. We will conduct focus groups with patients to refine the framing of patient directed nudges that would prompt them to initiate discussion about DPYD testing with clinicians.\n\nAim 1c. Feedback from stakeholders will also be used to develop/refine clinician and patient educational websites.\n\nAim 2: Pilot test patient- and clinician- nudges using discrete choice experiments.\n\nWe will test the degree to each message is associated with the greatest intention to order testing (clinician), or prompt discussion regarding testing (patient) with in a sample of 35 clinicians and 75 patients.\n\nThe results of this pilot will be used as preliminary data for a NIH grant to conduct a prospective randomized, implementation trial to evaluate the effectiveness of the optimized nudges to enhance the adoption of DPYD testing as an evidence-based way to reduce TRAEs and improve the quality of care for cancer patients.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "DPYD Gene Mutation",
+    "Gastrointestinal Cancer",
+    "Health Care Seeking Behavior"
+  ],
+  "interventions": [
+    {
+      "name": "Focus Group",
+      "type": "OTHER",
+      "description": "Open-ended group discussion of potential nudges to elicit constructive feedback on nudge development."
+    },
+    {
+      "name": "Discrete Choice",
+      "type": "OTHER",
+      "description": "Survey involving choice between two potential nudges to elicit feedback on which nudge version is considered superior."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Fluent in English\n* Currently involved in the practice or policy of GI oncology/DPYD testing/FP use/Healthcare Development OR\n* Prescribed a FP for GI cancer diagnosis in the past six months AND Currently licensed to provide health care in Pennsylvania or New Jersey OR\n* Previous diagnosis of GI malignancy or family member who had GI malignancy\n\nExclusion Criteria:\n\n* Less than 18 years old",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Developmental Nudge Feedback",
+      "timeFrame": "90 minutes",
+      "description": "Verbal data collected and coded"
+    },
+    {
+      "measure": "Discrete Nudge Feedback",
+      "timeFrame": "45 minutes",
+      "description": "Binary choices"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2024-09-19",
+  "completion_date": "2025-08-28",
+  "last_updated": "2025-11-20"
+}

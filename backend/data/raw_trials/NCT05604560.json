@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT05604560",
+  "brief_title": "A Neoadjuvant Study of Tislelizumab and SX-682 for Resectable Pancreas Cancer",
+  "official_title": "A Neoadjuvant Study of Tislelizumab and SX-682 for Resectable Pancreas Cancer",
+  "brief_summary": "The purpose of this study is to evaluate the safety and clinical activity of tislelizumab (an anti-PD-1 antibody) in combination with SX-682 (a CXCR1/2 inhibitor) in subjects with newly diagnosed and surgically resectable pancreatic adenocarcinoma.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 25,
+  "conditions": [
+    "Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Tislelizumab",
+      "type": "DRUG",
+      "description": "Patients will receive Tislelizumab (200 mg intravenous) on Day 1 of Cycles 1-6. Cycle 1 will be 14 days long and occur prior to surgery. Cycle 2 will be 14 days long and occur prior to standard of care chemotherapy. Cycles 3-6 will each be 21 days long and will be given after completion of standard of care chemotherapy."
+    },
+    {
+      "name": "SX-682",
+      "type": "DRUG",
+      "description": "Patients will receive SX-682 (200 mg twice daily by mouth) on Days 1-14 of Cycles 1-2 and Days 1-21 of Cycles 3-6. Cycle 1 will be 14 days long and occur prior to surgery. Cycle 2 will be 14 days long and occur prior to standard of care chemotherapy. Cycles 3-6 will each be 21 days long and will be given after completion of standard of care chemotherapy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Ability to understand and willingness to sign a written informed consent document.\n* Age \u226518 years.\n* Newly diagnosed have histologically or cytologically proven adenocarcinoma of the pancreas.\n* Tumor must be resectable.\n* Patient's acceptance to have a tumor biopsy.\n* ECOG performance status 0 or 1\n* Patients must have adequate organ and marrow function defined by study-specified laboratory tests.\n* For both Women and Men, must use acceptable form of birth control while on study.\n\nExclusion Criteria:\n\n* Have received any anti-pancreatic cancer therapy.\n* Have been diagnosed with another malignancy whose natural history or treatment has the potential to interfere with safety or efficacy assessment of this study.\n* Conditions, including alcohol or drug dependence, intercurrent illness, or lack of sufficient peripheral venous access, that would affect the patient's ability to comply with study visits and procedures\n* Subjects with active, known or suspected autoimmune disease that may relapse.\n* Systemic steroid therapy (\\> 10mg daily prednisone equivalent) or immunosuppressive therapy within 14 days of first dose of study drug administration.\n* Active infection requiring systemic therapy.\n* Infection with HIV or hepatitis B or C at screening\u2022\n* History of interstitial lung disease, non-infectious pneumonitis or uncontrolled diseases including pulmonary fibrosis, acute lung diseases, etc.\n* Uncontrolled intercurrent illness including, but not limited to, uncontrolled infection, pulmonary embolism, uncontrolled hypertension, symptomatic congestive heart failure, unstable angina, cardiac arrhythmia, metastatic cancer, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Prior allogeneic stem cell transplantation or organ transplantation\n* Any major surgical procedure requiring general anesthesia \u2264 28 days before first dose of study drug.\n* Have received a live vaccine \u2264 28 days before first dose of study drug.\n* Use of QT prolonging drugs within 2 weeks before the start of SX-682 dosing and for the length of the study.\n* ECG demonstrating a QTc interval \u2265 470 msec or patients with congenital long QT syndrome.\n* Severe hypersensitivity reaction to any monoclonal antibody.\n* Concurrent participation in another therapeutic clinical study\n* Pregnant or breastfeeding",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins SKCCC",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in Immune response rate as assessed by density of intratumoral granzyme B+ CD137+ T cells",
+      "timeFrame": "Baseline and 2 weeks",
+      "description": "The change in density of intratumoral granzyme B+ CD137+ T cells before and after neoadjuvant treatment with tislelizumab and SX-682."
+    },
+    {
+      "measure": "Pathologic Response Rate as assessed by number of patients with a grade 0-2 pathologic response",
+      "timeFrame": "4 years",
+      "description": "The number of patients with a grade 0-2 pathologic response as defined by the College of American Pathologists (CAP) tumor regression grading system."
+    }
+  ],
+  "sponsor": "Lei Zheng",
+  "collaborators": [
+    "BeiGene",
+    "Syntrix Biosystems, Inc."
+  ],
+  "start_date": "2023-11-08",
+  "completion_date": "2026-09",
+  "last_updated": "2025-07-18"
+}

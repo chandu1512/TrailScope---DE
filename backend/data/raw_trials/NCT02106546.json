@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT02106546",
+  "brief_title": "Study Comparing Veliparib Plus Carboplatin and Paclitaxel Versus Placebo Plus Carboplatin and Paclitaxel in Previously Untreated Advanced or Metastatic Squamous Non-Small Cell Lung Cancer",
+  "official_title": "Randomized, Double-Blind, Multicenter, Phase 3 Study Comparing Veliparib Plus Carboplatin and Paclitaxel Versus Placebo Plus Carboplatin and Paclitaxel in Previously Untreated Advanced or Metastatic Squamous Non-Small Cell Lung Cancer (NSCLC)",
+  "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of the addition of veliparib plus carboplatin and paclitaxel versus the addition of placebo plus carboplatin and paclitaxel in adults with advanced or metastatic squamous non-small cell lung cancer (NSCLC).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 970,
+  "conditions": [
+    "Squamous Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Carboplatin administered intravenously over approximately 15 to 30 minutes at (AUC 6 mg/mL/min) immediately following paclitaxel infusion."
+    },
+    {
+      "name": "Veliparib",
+      "type": "DRUG",
+      "description": "Capsules taken orally twice a day, 12 hours apart."
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Paclitaxel administered intravenously over 3 hours at a dose of 200 mg/m\u00b2."
+    },
+    {
+      "name": "Placebo to veliparib",
+      "type": "DRUG",
+      "description": "Capsules taken orally twice a day, 12 hours apart."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Life expectancy \\> 12 weeks\n2. Subject must have cytologically or histologically confirmed squamous NSCLC.\n3. Subject must have advanced or metastatic squamous NSCLC that is not amenable to surgical resection or radiation with curative intent at time of study Screening.\n4. Subjects with recurrent squamous NSCLC after surgical treatment that is not amenable to surgical resection or radiation with curative intent are eligible.\n5. Subject must have at least 1 unidimensional measurable NSCLC lesion on a computerized tomography (CT) scan as defined by Response Evaluation Criteria In Solid Tumors (RECIST - version 1.1).\n\nExclusion Criteria:\n\n1. Subject has a known hypersensitivity to paclitaxel or to other drugs formulated with polyethoxylated castor oil (Cremophor).\n2. Subject has a known hypersensitivity to platinum compounds.\n3. Subject has peripheral neuropathy \\>= grade 2.\n4. Subject has non-squamous NSCLC, or a known epidermal growth factor receptor (EGFR) mutation of exon 19 deletion or L858R mutation in exon 21, or a known anaplastic lymphoma kinase (ALK) gene rearrangement.\n5. Subject has received prior cytotoxic chemotherapy (including definitive chemoradiotherapy) for NSCLC, except for adjuvant or neoadjuvant therapy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack Univ Med Ctr /ID# 124057",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Penn State University and Milton S. Hershey Medical Center /ID# 126676",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS) in current smokers",
+      "timeFrame": "Up to 3 years from first dose of study drug",
+      "description": "Time to death for a given subject will be defined as the number of days from the date that the subject was randomized to the date of the subject's death."
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [],
+  "start_date": "2014-04-10",
+  "completion_date": "2019-11-20",
+  "last_updated": "2020-11-13"
+}

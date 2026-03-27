@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT06521554",
+  "brief_title": "A Study of NVL-330 in Patients With Advanced or Metastatic HER2-altered NSCLC (HEROEX-1)",
+  "official_title": "A Phase 1a/1b Study of the Selective Tyrosine Kinase Inhibitor NVL-330 in Patients With Advanced or Metastatic HER2-altered NSCLC (HEROEX-1)",
+  "brief_summary": "Phase 1a/1b dose escalation and expansion study designed to evaluate the safety and tolerability of NVL-330, determine the recommended Phase 2 dose (RP2D), and evaluate the antitumor activity in participants with advanced or metastatic human epidermal growth factor receptor 2 (HER2) -altered non-small lung cancer (NSCLC).\n\nPhase 1a dose escalation is designed to assess the safety and tolerability of NVL-330 and to select the candidate RP2D(s) and, if applicable, the MTD.\n\nPhase 1b expansion is designed to further evaluate the overall safety and tolerability of the candidate RP2D(s) of NVL-330 and to determine the RP2D of NVL-330 in participants with advanced or metastatic HER2 mutant NSCLC.",
+  "detailed_description": "The planned Phase 1a/1b first-in-human study is designed as a two-part clinical trial to investigate NVL-330 in pre-treated participants with advanced or metastatic HER2-altered NSCLC. The dose escalation phase of the trial is designed to enroll a set number of participants per cohort at protocol defined dose levels.\n\nAfter the initial participants are treated at a given dose level and monitored for at least 28 days, available data will be reviewed, and initiation of the next dosing group will proceed with consideration given to the overall safety profile.\n\nThe expansion phase of the trial is designed to further evaluate safety and activity and to confirm the RP2D(s).",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "Locally Advanced Solid Tumor",
+    "Metastatic Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "NVL-330",
+      "type": "DRUG",
+      "description": "Oral Tablet of NVL-330"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age \u2265 18 years\n2. Histologically or cytologically confirmed locally advanced or metastatic NSCLC\n3. Documented HER2 status as follows:\n\n   1. Phase 1a: Documented oncogenic HER2 mutation such as HER2 exon20 insertion mutations or single nucleotide variants or HER2 amplification.\n   2. Phase 1b: Documented oncogenic HER2 mutation.\n4. Identification of lesions as follows:\n\n   1. Phase 1a: Must have evaluable disease (target or nontarget) according to RECIST 1.1.\n   2. Phase 1b: Must have measurable disease, defined as \u2265 1 radiologically measurable target lesion according to RECIST 1.1.\n5. Adequate organ function and bone marrow reserve\n\nExclusion Criteria:\n\n1. Participant's cancer has known oncogenic driver alteration other than HER2\n2. Known allergy/hypersensitivity to excipients of NVL-330\n3. Major surgery within 4 weeks of the first dose of study drug\n4. Ongoing or recent anticancer therapy\n5. Actively receiving systemic treatment or direct medical intervention on another therapeutic clinical study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins Bayview Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D)",
+      "timeFrame": "As determined by incidence of DLTs during the first 28 days of treatment (ie, Cycle 1)",
+      "description": "To determine up to 2 RP2D Candidates"
+    },
+    {
+      "measure": "Maximum Tolerated Dose (MTD)",
+      "timeFrame": "As determined by incidence of DLTs during the first 28 days of treatment (ie, Cycle 1)",
+      "description": "If applicable, to determine the MTD"
+    },
+    {
+      "measure": "Incidence and severity of Treatment Emergent Adverse Events (TEAEs)",
+      "timeFrame": "First dose of study drug through 30 days after the last dose of study drug",
+      "description": "Number of participants with TEAEs as assessed by CTCAE, v5.0"
+    }
+  ],
+  "sponsor": "Nuvalent Inc.",
+  "collaborators": [],
+  "start_date": "2024-07-18",
+  "completion_date": "2027-02",
+  "last_updated": "2026-02-23"
+}

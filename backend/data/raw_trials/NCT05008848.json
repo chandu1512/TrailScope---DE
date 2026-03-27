@@ -1,0 +1,110 @@
+{
+  "nct_id": "NCT05008848",
+  "brief_title": "Reaching Rural Cancer Survivors Who Smoke Using Text-Based Program",
+  "official_title": "Reaching Rural Cancer Survivors Who Smoke Using Text-Based Cessation Interventions",
+  "brief_summary": "This phase III trial compares the effect of text-based cessation intervention to a manual in helping rural cancer patients who smoke, quit. Text-based scheduled gradual reduction may reduce the frequency of cigarette use to zero and may be effective in quitting smoking.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To evaluate the efficacy of an eight-week text-based scheduled gradual reduction (SGR) intervention (a personalized eight-week reduction schedule paired with National Cancer Institute's \\[NCI's\\] Smokefree.TXT) compared to a control intervention (NCI Clearing the Air Cessation Booklet) on biochemically-validated smoking cessation six-month post-quit date in rural cancer survivors.\n\nSECONDARY OBJECTIVE:\n\nI. Compare the efficacy of the eight-week text-based SGR intervention and a control intervention on Linear Analog Self-Assessment (LASA)-6 overall quality of life (QOL) at 30-days post-quit date and six-months post-quit date.\n\nOUTLINE: Patients are randomized to 1 of 2 groups.\n\nGROUP I: Patients participate in schedule gradual reduction program over 8 weeks to reduce the frequency of cigarette use. Patients also receive cessation support messages via text messages for 12 weeks.\n\nGROUP II: Patients receive NCI's Clearing the Air booklet to help plan to gradually quit smoking.\n\nAfter completion of study, patients are followed up at 6 months.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 600,
+  "conditions": [
+    "Cigarette Smoking-Related Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Smoking Cessation Intervention",
+      "type": "BEHAVIORAL",
+      "description": "Participate in schedule gradual reduction program"
+    },
+    {
+      "name": "Health Promotion and Education",
+      "type": "OTHER",
+      "description": "Receive cessation support messages"
+    },
+    {
+      "name": "Informational Intervention",
+      "type": "OTHER",
+      "description": "Receive NCI's Clearing the Air booklet"
+    },
+    {
+      "name": "Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have a cancer diagnosis within the past 10 years, and can currently be receiving curative treatment\n* Not currently on hospice\n* Currently smokes \\>= 5 cigarettes daily\n* Lives in a nonmetro/rural county (defined as having a Rural Urban Continuum Code \\[RUCC\\] code of 4-9)\n* Patient interested in participating in a smoking cessation program, and not currently participating in a smoking cessation clinical trial\n* Not currently using any smoking cessation pharmacotherapy (e.g. nicotine replacement therapy, bupropion or varenicline), or currently participating in any cessation program\n* Patient has a cell phone or smart phone device with texting ability\n* In order to complete the mandatory patient-completed measures, participants must be able to speak and read English\n* Age \\>= 18 years\n* Participant must be willing to provide a urine sample.\n\nExclusion Criteria:\n\n* Psychiatric illness which would prevent the patient from giving informed consent\n* Patients with impaired decision-making capacity are not eligible for this study.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Inspira Medical Center Vineland",
+      "city": "Vineland",
+      "state": "New Jersey",
+      "zip": "08360",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Geisinger Medical Center",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Geisinger Medical Center-Cancer Center Hazleton",
+      "city": "Hazleton",
+      "state": "Pennsylvania",
+      "zip": "18201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Geisinger Medical Oncology-Lewisburg",
+      "city": "Lewisburg",
+      "state": "Pennsylvania",
+      "zip": "17837",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Geisinger Cancer Services-Pottsville",
+      "city": "Pottsville",
+      "state": "Pennsylvania",
+      "zip": "17901",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Community Medical Center",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18510",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Geisinger Wyoming Valley/Henry Cancer Center",
+      "city": "Wilkes-Barre",
+      "state": "Pennsylvania",
+      "zip": "18711",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Biochemically validated tobacco cessation",
+      "timeFrame": "Up to 6 months post-quit date",
+      "description": "Response will be defined as (1) urine cotinine levels \\< 50 ng/ml or (2) urine cotinine levels \\>=50 ng/ml and an urine anabasine level \\< 2 ng/ml if a patient self-reports vaping use or the use of nicotine replacement therapy (NRT). Patients who do not return at 6 months post-quit date for the cotinine assessment (and anabasine, if applicable) will be deemed non-responders. The analysis population is defined as all randomized and eligible patients. The primary evaluation of the primary outcome will be the covariate-adjusted intervention effect (adjusted odds ratio) obtained from a multiple logistic regression model adjusted for the three stratification factors baseline daily cigarette consumption, age, and sex as well as the potential confounding variables cancer diagnosis, cancer type, receipt of chemotherapy, receipt of radiation therapy, and active treatment."
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2022-04-01",
+  "completion_date": "2028-08-26",
+  "last_updated": "2026-03-02"
+}

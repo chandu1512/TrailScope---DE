@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT05226663",
+  "brief_title": "A Radiotracer ([18F]FluorThanatrace) by PET/CT for the Imaging of Breast Cancer",
+  "official_title": "Imaging Using the Novel Radiotracer [18F] FluorThanaTrace([18F]FTT) by PET/CT in Patients With Breast Cancer",
+  "brief_summary": "This phase II trial tests whether \\[18F\\]FluorThanatrace by positron emission tomography (PET)/computed tomography (CT) can improve imaging techniques in patients with breast cancer undergoing a standard of care biopsy or surgery. \\[18F\\]FluorThanatrace is a new radioactive tracer, which is a type of imaging agent that is labeled with a radioactive tag and injected into the body to help with imaging scans. PET is an established imaging technique that utilizes small amounts of radioactivity attached to very minimal amounts of tracer, in the case of this research, \\[18F\\]FluorThanatrace. Because some cancers take up \\[18F\\]FluorThanatrace it can be seen with PET. CT utilizes x-rays that traverse body from the outside. CT images provide an exact outline of organs and potential inflammatory tissue where it occurs in patient's body. \\[18F\\]FluorThanatrace by PET/CT may help detect the activity of a certain enzyme in the body that may be related to cancer growth in patients with breast cancer.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. Correlate \\[18F\\]FluorThanatrace (FTT) PET/CT uptake in patients with primary breast cancer compared to PARP1 quantitative immunohistochemistry (IHC) as the tissue reference standard.\n\nSECONDARY OBJECTIVES:\n\nI. Correlate \\[18F\\]FluorThanatrace uptake with other measures of PARP-1 activity in tumor tissue samples - quantitative IHC, immunofluorescence (IF) and \\[125I\\]KX1 autoradiography.\n\nII. Determine the ranges of uptake on \\[18F\\]FluorThanatrace PET/CT imaging across patients with breast cancer undergoing \\[18F\\]FTT PET/CT.\n\nIII. Demonstrate the reproducibility of \\[18F\\]FTT uptake on PET/CT using test-retest imaging.\n\nIV. Confirm the safety of \\[18F\\]FluorThanatrace.\n\nOUTLINE:\n\nPatients receive \\[18F\\]FTT intravenously (IV) over a few seconds to a minute and then undergo PET/CT scan over 20-30 minutes at baseline and another optional scan 1 week later. During the \\[18F\\]FTT PET/CT scan patients.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 36,
+  "conditions": [
+    "Breast Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Computed Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo \\[18F\\]FFT PET/CT"
+    },
+    {
+      "name": "Fluorine F 18 Fluorthanatrace",
+      "type": "RADIATION",
+      "description": "Given IV"
+    },
+    {
+      "name": "Positron Emission Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo \\[18F\\]FFT PET/CT"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants will be \\>= 18 years of age\n* Known primary breast cancer. For subjects with primary breast cancer we will target lesion size of 1.0 cm or greater on at least one type of standard clinical imaging (e.g. mammogram, ultrasound, breast magnetic resonance imaging \\[MRI\\])\n* A candidate for primary breast surgery (mastectomy or lumpectomy)\n* Participants must be informed of the investigational nature of this study and provide written informed consent, in accordance with institutional and federal guidelines prior to study-specific procedures\n\nExclusion Criteria:\n\n* Females who are pregnant or breast feeding will not be eligible for this study; a urine pregnancy test will be performed in women of child-bearing potential prior to injection of FTT\n* Inability to tolerate imaging procedures in the opinion of an investigator or treating physician\n* Current or prior therapy for the primary breast cancer\n* Any current medical condition, illness, or disorder as assessed by medical record review and/or self-reported that is considered by a physician investigator to be a condition that could compromise participant safety or successful participation in the study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania/Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Correlation of [18F]FluorThanatrace (FTT) uptake with PARP expression",
+      "timeFrame": "through study completion, an average of 1 year",
+      "description": "The primary breast cancer tumor site is determined by standardized uptake values (SUV) based quantitative measures and PARP is measured by PARP1 mmunohistochemistry (IHC). This will be summarized as mean and standard deviation across patients."
+    }
+  ],
+  "sponsor": "M.D. Anderson Cancer Center",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Trevarx Biomedical, Inc"
+  ],
+  "start_date": "2023-02-27",
+  "completion_date": "2026-08-20",
+  "last_updated": "2025-12-10"
+}

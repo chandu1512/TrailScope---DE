@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT06228326",
+  "brief_title": "A Study Assessing KB707 for the Treatment of Advanced Solid Tumor Malignancies Affecting the Lungs",
+  "official_title": "KB707-02: A Phase 1/2 Study of Inhaled KB707 in Patients With Advanced Solid Tumor Malignancies Affecting the Lungs",
+  "brief_summary": "The Sponsor is developing KB707, a replication-defective, non-integrating herpes simplex virus type 1 (HSV-1)-derived vector designed to stimulate an anti-tumor immune response through the production of cytokines within the local tumor microenvironment in the lungs. KB707 is administered via nebulization, delivering the therapy directly through the airways to the lungs of subjects with advanced solid tumor malignancies.\n\nThis is a Phase 1/2, open-label, multicenter, dose escalation and expansion study designed to evaluate the safety, tolerability, preliminary efficacy, and immunologic effect of KB707.\n\nMonotherapy KB707 dose escalation and expansion cohorts enrolled adults with advanced solid tumor malignancies affecting the lungs who had progressed on standard of care therapy, cannot tolerate standard of care therapy, or refused standard of care therapy. The dose escalation phase (Cohorts 1 and 2) evaluated KB707 monotherapy using a standard 3+3 design, followed by a dose expansion phase (Cohort 4) to further evaluate the selected dose. Subjects received inhaled KB707 weekly for three weeks, then every three weeks. The dose escalation portion of the study is now complete, and the selected dose is being evaluated in the expansion phase.\n\nCombination regimens with a selected (fixed) dose of KB707 are being evaluated in subjects with advanced or metastatic non-small cell lung cancer (NSCLC). Subjects in Cohorts 5 and 6 are receiving inhaled KB707 once every 2 weeks (q2w), delivered in combination with Keytruda once every 6 weeks. Subjects in Cohort 7 are receiving inhaled KB707 in combination with docetaxel once every 3 weeks.\n\nAll subjects will be treated until tumor progression, death, unacceptable toxicity, symptomatic deterioration, achievement of maximal response, subject choice, Investigator decision to discontinue treatment, or the Sponsor determines to terminate the study.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 250,
+  "conditions": [
+    "Lung Cancer, Non-small Cell",
+    "Lung Cancer Metastatic",
+    "Solid Tumor, Adult",
+    "Advanced Cancer",
+    "Lung Cancer (NSCLC)"
+  ],
+  "interventions": [
+    {
+      "name": "KB707",
+      "type": "BIOLOGICAL",
+      "description": "Genetically modified herpes simplex type 1 virus"
+    },
+    {
+      "name": "Pembrolizumab (KEYTRUDA\u00ae)",
+      "type": "DRUG",
+      "description": "PD-1 immune checkpoint inhibitor"
+    },
+    {
+      "name": "Chemotherapy",
+      "type": "DRUG",
+      "description": "SOC chemotherapy"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "SOC chemotherapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Age 18 years or older at the time of informed consent\n* Life expectancy \\>12 weeks\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Have at least one measurable lung lesion per RECIST v1.1 at Screening\n* Cohorts 1 through 4 only: Histologically confirmed diagnosis of advanced solid tumor malignancy affecting the lungs and the individual has progressed on standard of care therapy, cannot tolerate standard of care therapy, refused standard of care therapy, or has no standard of care therapy.\n* Cohorts 5, 6, and 7 only: (1) Histologically or cytologically confirmed diagnosis of stage 3 or 4 NSCLC, as per American Joint Committee on Cancer (AJCC) staging system (8th edition) and (2) Subject must meet the following criteria of prior lines of therapy:\n\n  1. Subject has previously received no more than one line of prior immune checkpoint inhibitor (ICI) with or without platinum-based chemotherapy, or no more than two prior lines of therapy when given the ICI and platinum-based chemotherapy sequentially as two separate lines.\n  2. Subjects with an actionable mutation (e.g., EGFR, KRAS, ALK, or ROS1 genomic alteration), are permitted to have received one additional line of approved targeted therapy.\n\nKey Exclusion Criteria:\n\n* Not fully recovered from prior surgery or radiotherapy, including all radiation-related toxicities\n* The subject is pregnant, nursing, or plans to become pregnant during study treatment and through three months after the last dose of KB707\n* Have known history of positive human immunodeficiency virus (HIV 1/2)\n* Cohorts 5, 6, and 7 only:\n\n  1. Subject has a known additional malignancy that is progressing or requires active treatment\n  2. Subject has active brain metastases or leptomeningeal metastases\n  3. Prior anti-PD-1/PD-L1 therapy was intolerable and required discontinuation of treatment\n  4. Subject has active, known, or suspected autoimmune disease requiring systemic treatment\n  5. Subject has known acute or chronic hepatitis\n  6. Subject has active pneumonitis or history of ICI-induced pneumonitis that required steroids",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "TERMINATED"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To evaluate the safety and tolerability of inhaled KB707 based upon assessment of adverse events (AE)",
+      "timeFrame": "up to 36 months",
+      "description": "Percentage of subjects with treatment-related AEs as assessed by NCI-CTCAE v5"
+    }
+  ],
+  "sponsor": "Krystal Biotech, Inc.",
+  "collaborators": [],
+  "start_date": "2024-04-17",
+  "completion_date": "2028-07",
+  "last_updated": "2025-10-22"
+}

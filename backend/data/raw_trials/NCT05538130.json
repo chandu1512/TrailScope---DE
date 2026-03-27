@@ -1,0 +1,114 @@
+{
+  "nct_id": "NCT05538130",
+  "brief_title": "A Study to Learn About the Study Medicine Called PF-07799544 as Monotherapy or in Combination in People With Advanced Solid Tumors",
+  "official_title": "A PHASE 1A/B OPEN-LABEL MASTER STUDY OF PF-07799544 AS A SINGLE-AGENT AND IN COMBINATION WITH OTHER TARGETED AGENTS IN PARTICIPANTS WITH BRAF-MUTANT MELANOMA AND OTHER SOLID TUMORS",
+  "brief_summary": "The purpose of this clinical trial is to learn the safety and effects of the study medicine (PF-07799544) alone or in combination as a potential cancer treatment for adults with advanced solid tumors. The study will be conducted in two parts: PF-07799544 as a single agent (Phase 1a) and PF-07799544 in combination with another study medicine called PF-07799933 (Phase 1b).\n\nPhase 1a is no longer open for enrollment. In Phase1b (noted as \"this study\"), we are seeking participants who have:\n\n* a solid tumor which is metastatic or recurrent (excluding colorectal cancer)\n* tumor with the mutation (abnormal gene) called \"BRAF V600\"\n* received required prior treatment for cancer per cohort assigned.\n\nAll participants in this study will receive both study medicines. Both study medicines are tablets that are taken by mouth at home twice a day.\n\nParticipants will receive study medicines until their cancer is no longer responding, unacceptable side effects, or 2 years. Participants may continue to receive study therapy beyond 2 years. We will examine the experiences of people receiving the study medicines. This will help us determine if the study medicines are safe and effective.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 124,
+  "conditions": [
+    "Melanoma",
+    "Glioma",
+    "Thyroid Cancer",
+    "Non-Small Cell Lung Cancer",
+    "Malignant Neoplasms",
+    "Brain Neoplasms",
+    "Advanced or Metastatic Solid Tumors",
+    "HGG",
+    "LGG",
+    "Low Grade Glioma",
+    "High Grade Glioma",
+    "Differentiated Thyroid Cancer",
+    "NSCLC (Non-small Cell Lung Cancer)"
+  ],
+  "interventions": [
+    {
+      "name": "PF-07799544",
+      "type": "DRUG",
+      "description": "Tablet"
+    },
+    {
+      "name": "PF-07799933",
+      "type": "DRUG",
+      "description": "Tablet"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Phase 1b Inclusion Criteria:\n\n* Diagnosis of advanced/metastatic solid tumor (excluding colorectal cancer)\n* Measurable disease by RECIST version 1.1\n* Evidence of a BRAF V600 mutation\n* Prior therapy per tumor cohort\n* Adequate organ function per protocol\n\nPhase 1b Exclusion Criteria:\n\n* Other active malignancy within 3 years\n* Presence of leptomeningeal disease\n* History or current evidence of retinal vein occlusion (RVO) or history of retinal degenerative disease\n* Concurrent neuromuscular disorder associated with elevated creatine kinase (CK)\n* Active gastrointestinal disease as defined per protocol\n* History of interstitial lung disease as defined per protocol",
+    "gender": "ALL",
+    "min_age": "16 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "MSK Basking Ridge.",
+      "city": "Basking Ridge",
+      "state": "New Jersey",
+      "zip": "07920",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "MSK Monmouth.",
+      "city": "Middletown",
+      "state": "New Jersey",
+      "zip": "07748",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "MSK Bergen.",
+      "city": "Montvale",
+      "state": "New Jersey",
+      "zip": "07645",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1a monotherapy and Phase 1b combination dose escalation: Number of participants with dose limiting toxicities (DLTs)",
+      "timeFrame": "Cycle 1 (21 days)",
+      "description": "DLTs will be evaluated during the first cycle (21 days) as a single agent (phase 1a monotherapy) or in combination with other agents (phase 1b dose escalation)"
+    },
+    {
+      "measure": "Phase 1a monotherapy and Phase 1b combination dose escalation: Number of participants with treatment-emergent adverse events (AEs)",
+      "timeFrame": "Baseline to 28 days after last dose of study medication",
+      "description": "AEs as characterized by type, frequency, severity, timing, seriousness, and relationship to study therapy"
+    },
+    {
+      "measure": "Phase 1a monotherapy and Phase 1b combination dose escalation: Number of participants with clinically significant change from baseline in laboratory abnormalities",
+      "timeFrame": "Baseline to 28 days after last dose of study treatment",
+      "description": "Laboratory abnormalities as characterized by type, frequency, severity, and timing."
+    },
+    {
+      "measure": "Phase 1a monotherapy and Phase 1b combination dose escalation: Number of participants with clinically significant change from baseline in vital sign abnormalities",
+      "timeFrame": "Baseline to 28 days after last dose of study treatment",
+      "description": "Vital sign abnormalities as characterized by type, frequency, severity, and timing."
+    },
+    {
+      "measure": "Phase 1a monotherapy and Phase 1b combination dose escalation: Number of participants with clinically significant change from baseline in physical exam abnormalities",
+      "timeFrame": "Baseline to 28 days after last dose of study treatment",
+      "description": "Physical exam abnormalities as as graded by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+    },
+    {
+      "measure": "Phase 1b Dose Expansion: Overall response rate (ORR)",
+      "timeFrame": "Baseline to 2 years",
+      "description": "Response will be evaluated via radiographical tumor assessments by RECIST v1.1 for solid tumors or RANO for primary brain tumors"
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2022-11-30",
+  "completion_date": "2028-10-07",
+  "last_updated": "2026-03-03"
+}

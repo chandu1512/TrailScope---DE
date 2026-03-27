@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT04440735",
+  "brief_title": "A Study of DSP107 Alone and in Combination with Atezolizumab for Patients with Advanced Solid Tumors",
+  "official_title": "A First-in-Human, Two-Part, Open-Label, Phase I/II Study of DSP107 in Subjects with Advanced Solid Tumors Including a Dose-escalation Safety Study (part 1) and Preliminary Efficacy Assessment of DSP107 As Monotherapy and in Combination with Atezolizumab (part 2)",
+  "brief_summary": "Part 1: A first-in-human, open-label, Phase I dose escalation study of DSP107 monotherapy and combination therapy with atezolizumab in patients with advanced solid tumors.\n\nPart 2: Preliminary efficacy assessment of DSP107 in combination with atezolizumab in second or third line treatment of non small cell lung cancer. Preliminary efficacy assessment of DSP107 as a single agent or in combination with atezolizumab in third line treatment of colorectal cancer.",
+  "detailed_description": "This study will be the first time that DSP107 is administered to human subjects. The aim of the study is to evaluate the safety, pharmacokinetics (PK), pharmacodynamics (PD) and preliminary efficacy of DSP107 monotherapy and combination therapy in a two-part design.\n\nPart 1 will involve DSP107 monotherapy dose escalation in subjects with advanced solid tumors that are not amenable to surgical resection or other approved therapeutic options that have demonstrated clinical benefit. Additional dose finding cohorts will be enrolled to establish a safe dose of DSP107 when given in combination with atezolizumab.\n\nPart 2 will comprise two expansion cohorts:\n\nA) Expansion cohort A consisting of one treatment arm in which subjects will be treated with DSP107 in combination with atezolizumab. This expansion cohort will enroll subjects with non small cell lung cancer who have progressed following no more than 2 lines of prior systemic treatment including treatment with PD-1 or PD-L1 targeting agents.\n\nB) Expansion cohort B consisting of two treatment arms in which subjects will be treated either with DSP107 monotherapy or DSP107 in combination with atezolizumab. This expansion cohort will enroll subjects with colorectal cancer who have progressed following two previous lines of therapy.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 125,
+  "conditions": [
+    "Advanced Solid Tumor",
+    "Non Small Cell Lung Cancer",
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "DSP107",
+      "type": "BIOLOGICAL",
+      "description": "DSP107 (SIRP\u03b1 - 4-1BBL) is a bi-functional, trimeric, fusion protein."
+    },
+    {
+      "name": "Atezolizumab",
+      "type": "BIOLOGICAL",
+      "description": "Atezolizumab is a humanized IgG1 monoclonal antibody that targets PD-L1"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1\n* Subject must have measurable disease per RECIST version 1.1\n* Part 1:\n\n  o Histologically confirmed advanced solid tumor that is not amenable to surgical resection or other approved therapeutic options that have demonstrated clinical benefit or subject is intolerant or has refused available therapies\n* Part 2, Expansion Cohort A:\n\n  * Histologically confirmed, inoperable non-small cell lung cancer (Stage 3b or Stage 4). Squamous and non-squamous histologies are both acceptable\n  * Wildtype for actionable oncogenic driver mutations (e.g., ALK, EGFR, ROS1, RET, NTRK). Driver mutations for KRAS, BRAF and c-METex14skip will be allowed.\n  * Received no more than 2 lines of prior systemic treatment, including anti PD-1 or anti PD-L1 therapeutic agent \u00b1 chemotherapy. Targeted therapies for KRAS, BRAF and c-METex14skip will not be counted towards the previous lines of therapy.\n* Part 2, Expansion Cohort B:\n\n  * Histologically confirmed, inoperable microsatellite stable colorectal carcinoma (Stage 3b or Stage 4)\n  * Received two previous lines of therapy including standard chemotherapy and/or targeted antibodies\n\nExclusion Criteria:\n\n* Life expectancy of \u2264 3 months\n* Central nervous system (CNS) metastases\n* Life-threatening (grade 4) immune-mediated adverse event related to prior immunotherapy\n* Immune-mediated adverse reaction that required discontinuation of prior immunotherapy\n* Past or current history of autoimmune disease or immune deficiency\n* History of autoimmune hemolytic anemia or autoimmune thrombocytopenia\n* History of hematological malignancy\n* History of organ or stem cell transplantation\n* Clinically significant liver disease, including alcoholic hepatitis, cirrhosis, fatty liver disease and inherited liver disease\n* Previously treatment with CAR-T cells\n* Treatment with systemic immunosuppressive medication within 2 weeks prior to first dose of study treatment\n* Received live, attenuated vaccine within 4 weeks prior to first dose of study treatment\n* Treatment with systemic immunostimulatory agents within 4 weeks prior to first dose of study treatment\n* Treatment with atezolizumab, any CD47/SIRP\u03b1 targeting agent or immune agonists (e.g., anti-CD137, anti-CD40, anti-OX40)\n* Known allergy or hypersensitivity to any of the test compounds, materials or contraindication to test product\n* Clinically significant abnormal laboratory safety tests\n* Detection of anti DSP107 antibodies at screening\n* History of HIV infection or active Hepatitis B or C infection\n* Pregnant or breast feeding or planning to become pregnant while enrolled in the study\n* History or evidence of any other clinically unstable/uncontrolled disorder, condition, or disease",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "SKCC-Sidney Kimmel Cancer Center Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center University of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Adverse Events (AEs)",
+      "timeFrame": "Duration of the study, estimated to be 9 months",
+      "description": "An AE is any untoward medical occurrence in a patient or clinical investigation subject administered a pharmaceutical product and which does not necessarily have a causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal (investigational) product, whether or not related to the medicinal (investigational) product."
+    },
+    {
+      "measure": "Dose Limiting Toxicities (DLT)",
+      "timeFrame": "At the end of Treatment Cycle 1 (each cycle is 21 days)",
+      "description": "A DLT is defined as a clinically significant AE of laboratory abnormality that is related to DSP107 or the combination of DSP107 and atezolizumab, but is unrelated to disease progression, intercurrent illness or concomitant medications"
+    },
+    {
+      "measure": "DSP107 Serum Concentration",
+      "timeFrame": "At the end of Treatment Cycle 8 (each cycle is 21 days)",
+      "description": "Serum samples will be collected to determine circulating levels and PK profile of DSP107"
+    }
+  ],
+  "sponsor": "Kahr Medical",
+  "collaborators": [],
+  "start_date": "2020-10-07",
+  "completion_date": "2025-09",
+  "last_updated": "2025-01-07"
+}

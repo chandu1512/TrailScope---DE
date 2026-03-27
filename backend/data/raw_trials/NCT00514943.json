@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT00514943",
+  "brief_title": "BIBW 2992 (Afatinib) in Head & Neck Cancer",
+  "official_title": "A Randomized, Open-label Phase II Study of BIBW 2992 Versus Cetuximab (Erbitux) in Patients With Metastatic or Recurrent Head and Neck Squamous Cell Carcinoma (HNSCC) After Failure of Platinum-containing Therapy With a Cross-over Period for Progressing Patients",
+  "brief_summary": "The primary objective of this study is to explore the efficacy of BIBW 2992 compared with cetuximab (Erbitux) in patients with metastatic or recurrent head and neck cancer after failure of platinum-containing therapy. In addition, the trial aims to clarify the influence of EGFR genotype on tumor response to the treatment regimens.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 124,
+  "conditions": [
+    "Head and Neck Neoplasms",
+    "Carcinoma, Squamous Cell"
+  ],
+  "interventions": [
+    {
+      "name": "BIBW 2992",
+      "type": "DRUG",
+      "description": "experimental drug taken once daily orally"
+    },
+    {
+      "name": "Cetuximab",
+      "type": "DRUG",
+      "description": "active comparator administered weekly intravenously"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria:\n\n1\\. Metastatic (stage IVc) or recurrent HNSCC 2. Histologically or cytologically confirmed diagnosis of squamous cell of the head and neck. Patients with well-differentiated (keratinizing) nasopharyngeal carcinomas and patients with squamous cell carcinomas metastatic to the neck from an unknown head and neck primary are eligible. 3. Patients must have documented progressive disease (PD) following receipt of prior platinum-based therapy (either as neoadjuvant, adjuvant, concomitant with radiotherapy, or for recurrent/ metastatic disease). 4. Patients must have measurable disease as defined by RECIST criteria. 5. Patients must have recovered from any therapy-related toxicities from previous chemo-, immuno-, or radiotherapies to CTC smaller or equal to Grade 1. 6. Patients must have recovered from previous surgery. 7. Life expectancy of at least three (3) months. 8. Eastern Cooperative Oncology Group (ECOG, R01-0787) performance score 0 or 1.\n\n9\\. Patients must be eighteen (18) years of age or older. 10. Willingness and ability to give written informed consent consistent with ICH-GCP guidelines.\n\nExclusion criteria:\n\n1. Progressive disease within 3 months after completion of curative intent treatment for localized/locoregionally advanced disease.\n2. Prior use of an EGFR or erbB2 inhibitor in the recurrent/metastatic disease setting (treatment with cetuximab (Erbitux\u00ae) or other EGFR inhibitor during radiotherapy or chemoradiotherapy is permissible).\n3. More than 2 chemotherapeutic regimens given for recurrent/metastatic disease.\n4. Treatment with other investigational drugs, other anti-cancer-therapy (e.g., chemotherapy, immunotherapy, radiotherapy), concomitantly with therapy on this study and/or during the last four weeks, prior to the first treatment with the trial drug\n5. eliminated per Amendment #1\n6. Patients with history of other malignancy (except for appropriately treated superficial basal cell skin cancer and surgically cured cervical cancer in situ) unless free of disease for at least 3 years.\n7. Patients with history of decompensated heart failure.\n8. Cardiac left ventricular function with resting ejection fraction \\<50% or less than the institutional lower limit of normal by MUGA or echocardiogram.\n9. Active infectious disease.\n10. Gastrointestinal disorders that may interfere with the absorption of the study drug or chronic diarrhea.\n11. Serious illness, concomitant non-oncological disease or mental problems considered by the investigator to be incompatible with the protocol.\n12. Use of alcohol or drugs incompatible with patient participation in the study in the investigator's opinion.\n13. Patients unable to comply with the protocol.\n14. Patients with active/symptomatic brain metastases. Patients with a history of treated brain metastases must have stable or normal cerebral MRI scan at screening and be at least three months post-radiation or surgery.\n15. Absolute neutrophile count (ANC) less than 1000/mm3.\n16. Platelet count less than 75,000/mm3.\n17. Bilirubin greater than 1.5 mg/dl/ Higher bilirubin values are acceptable for patients with known Gilbert's disease, approval by the PI and sponsor necessary.\n18. Asparate amino transferase (AST) or alanine amino transferase (ALT) greater than 3 times the upper limit of normal.\n19. Serum creatinine greater than 1.5 X upper limit of normal for the institution.\n20. Patients who are sexually active and unwilling to use a medically acceptable method of contraception.\n21. Pregnancy or breast-feeding.\n22. Patients with known pre-existing interstitial lung disease.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "1200.28.0024 Boehringer Ingelheim Investigational Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Tumor Shrinkage Before Crossover (Stage 1) of the Trial as Per Investigator Assessment",
+      "timeFrame": "From randomization until start of Stage 2 treatment, or within 28 days after the termination of Stage 1.",
+      "description": "Tumor shrinkage before crossover was defined as the change from baseline in the smallest post-randomisation sum of the longest diameters of target lesions (SLD), calculated as the smallest SLD after randomisation but before crossover minus SLD at baseline. Baseline was the SLD measured before randomisation. A negative value means the smallest post-randomisation SLD was smaller than baseline (decreased since baseline); a positive value means tumor size increased since baseline.\n\nMean calculated is actually the Adjusted mean. Adjusted mean is obtained from fitting an ANCOVA model including treatment, stratification factor prior chemotherapy for recurrent/metastatic disease and the baseline sum of longest distance of target lesions as covariates."
+    }
+  ],
+  "sponsor": "Boehringer Ingelheim",
+  "collaborators": [],
+  "start_date": "2007-08",
+  "completion_date": "2013-07",
+  "last_updated": "2016-06-24"
+}

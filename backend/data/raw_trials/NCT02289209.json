@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT02289209",
+  "brief_title": "Reirradiation With Pembrolizumab in Locoregional Inoperable Recurrence or Second Primary Squamous Cell CA of the Head and Neck",
+  "official_title": "A Phase II Trial of Reirradiation Combined With Open Label Pembrolizumab in Patients With Locoregional Inoperable Recurrence or Second Primary Squamous Cell Carcinoma of the Head and Neck (SCCHN)",
+  "brief_summary": "Eligible participants with locoregional inoperable recurrence or second primary squamous cell carcinoma of the head and neck will be treated with reirradiation combined with anti-PD-1 mAb MK-3475 (generic name: pembrolizumab, trade name Keytruda\u00ae).",
+  "detailed_description": "Each participant will undergo screening and then be treated with reirradiation with 1.2 Gy BID, 5 days a week (weeks 1-5). MK-3475 (generic name: pembrolizumab, trade name Keytruda\u00ae) will be given at 200mg intravenous every 3 weeks starting day one of reirradiation and will be continued in all participants until 3 months post completion of reirradiation, at which time a PET/CT will be done to evaluate response. Participants with progressive disease (PD) will be taken off MK-3475 and followed for survival. Participants that have a complete response (CR) will be followed clinically and radiographically, and if disease recurs may be eligible to be retreated with MK-3475 for up to one year. Participants with partial response (PR) or stable disease (SD) will continue treatment with MK-3475 for up to two years unless one of the following occurs:\n\n* documented disease progression\n* unacceptable adverse event(s)\n* intercurrent illness that prevents further administration of treatment\n* investigator decision to withdraw the subject\n* withdrawal of consent\n* pregnancy\n* noncompliance\n* administrative reasons (i.e. trial is closed prematurely).\n\nParticipants who have not progressed at completion of 24 months of therapy will be observed, but may be eligible for 1 year of retreatment with MK-3475 if they develop recurrence/progression and qualify for retreatment as detailed in the protocol,and if the trial is still ongoing.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 48,
+  "conditions": [
+    "Recurrent Head and Neck Cancer",
+    "Carcinoma, Squamous Cell of Head and Neck"
+  ],
+  "interventions": [
+    {
+      "name": "Reirradiation",
+      "type": "RADIATION",
+      "description": "Reirradiation 1.2 GY BID 5 days a week for 5 weeks."
+    },
+    {
+      "name": "MK-3475",
+      "type": "DRUG",
+      "description": "MK-3475 will be given at 200mg intravenous every 3 weeks starting day one of reirradiation and will be continued once every 3 weeks until 3 months post completion of reirradiation. Further continuation of MK-3475 will be determined by response evaluation at 3 months post completion of reirradiation"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Patients with biopsy proven locoregional recurrence or second primary SCCHN which is unresectable or the patient is unwilling to undergo resection. Determination of unresectability will be based on multidisciplinary review of each case.\n\nInclusion Criteria:\n\n1. Have received only prior radiation treatment course. Prior radiation course must have been with curative intent.\n2. At least 6 months since completion of radiation\n3. Based on prior radiation records, have had most of the tumor volume (\\>50%) previously radiated at doses \\> 45 Gy without exceeding spinal cord tolerance (combining previous and future radiation dose to spinal cord of \\< 50 Gy).\n4. Be willing to undergo percutaneous endoscopic gastrostomy (PEG) placement, if necessary.\n5. Have at least one measurable area of disease based on RECIST 1.1 within the previously radiated field.\n6. Have provided adequate tissue for PD-L1 analysis either from an archival tissue sample or fresh biopsy done to confirm recurrence/second primary. Archival tissue sample can only be used if done within 3 months of enrollment on the clinical trial.\n7. Performance status of 0 or 1 on the ECOG Performance Scale.\n8. Life expectancy greater than 12 weeks\n9. Adequate organ function as defined by the protocol\n\nExclusion Criteria:\n\n1. Presence of distant metastatic disease.\n2. Is currently participating in or has participated in a study of an investigational agent or used an investigational device within 4 weeks of the first dose of treatment.\n3. Has a diagnosis of immunodeficiency or is receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of trial treatment.\n4. Has had a prior monoclonal antibody, chemotherapy, or targeted small molecule therapy within 4 weeks prior to study Day 1 or who has not recovered from adverse events due to agents administered more than 4 weeks earlier.\n5. History of other malignancy within 5 years with the exception of prior Squamous cell carcinoma of the head and neck, adequately treated basal cell or squamous cell skin cancer, or carcinoma of the cervix.\n6. Has an active autoimmune disease\n7. Has evidence of interstitial lung disease or active, non-infectious pneumonitis.\n8. Has an active infection requiring systemic therapy\n9. Has received prior therapy with an anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti-Cytotoxic T-lymphocyte-associated antigen-4 (CTLA-4) antibody (including ipilimumab or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways).\n10. Has a known history of Human Immunodeficiency Virus (HIV) (HIV 1/2 antibodies).\n11. Has known active Hepatitis B (e.g., HBsAg reactive) or Hepatitis C (e.g., HCV RNA \\[qualitative\\] is detected).\n12. Has received a live vaccine within 30 days prior to the first dose of trial treatment\n13. Is pregnant or breastfeeding, or expecting to conceive or father children within the projected duration of the trial.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Univeristy of Maryland - Greenebaum Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival",
+      "timeFrame": "Up to 36 months (after starting reirradiation and MK-3475)",
+      "description": "Number of months from the date of initiation of treatment to the date of progression of disease or death (whichever occurs first). Progressive disease, per RECIST 1.1, is defined as: At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. (Note: the appearance of one or more new lesions is also considered progression)."
+    }
+  ],
+  "sponsor": "Dan Zandberg",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2016-03-09",
+  "completion_date": "2024-08-31",
+  "last_updated": "2025-02-13"
+}

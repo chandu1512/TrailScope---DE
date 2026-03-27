@@ -1,0 +1,109 @@
+{
+  "nct_id": "NCT01248949",
+  "brief_title": "A Study to Evaluate the Safety and Antitumor Activity in Subjects With Advanced Solid Tumors",
+  "official_title": "Phase 1/1b, Open-Label, Dose-Escalation and Expansion Study to Evaluate the Safety and Antitumor Activity of MEDI3617 as a Single-Agent or in Combination Therapy in Adult Subjects With Advanced Solid Tumors",
+  "brief_summary": "To determine the maximum tolerated dose or optimal biological dose, and the safety profile of MEDI3617 when given as a single-agent or in combination with other chemotherapeutic agents in subjects with advanced solid malignancies resistant to standard therapy.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 162,
+  "conditions": [
+    "Advanced Solid Tumors",
+    "Advanced Recurrent Ovarian Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "MEDI3617",
+      "type": "DRUG",
+      "description": "Participants will receive MEDI3617 via IV infusion in each cycle until unacceptable toxicity, initiation of alternative anticancer treatment, documented disease progression, or other reasons."
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "Participants will receive bevacizumab via IV infusion in each cycle until unacceptable toxicity, initiation of alternative anticancer treatment, documented disease progression, or other reasons."
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Participants will receive paclitaxel via IV infusion in each cycle until unacceptable toxicity, documented disease progression, or other reasons."
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Participants will receive carboplatin via IV infusion in each cycle until unacceptable toxicity, documentation of disease progression, or other reasons."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients with confirmed diagnosis of advanced solid tumors (dose-escalation phase) or another solid tumor type based on antitumoral activity (dose-expansion phase) that are not responsive to standard therapy or for which no standard therapy exists\n* Patients must be 18 years of age or older\n* Karnofsky Performance Status \u2265 70\n* Toxicities from previous cancer therapies must have recovered to CTCAE Grade = or \\< 2\n* Adequate organ and marrow function\n* Using adequate contraceptive measures, be surgically sterile or post-menopausal\n\nExclusion Criteria:\n\n* Concurrently enrolled in another clinical study, except for non-interventiona observational studies, or if in a follow up period from a previous study\n* Receipt of any investigational anticancer therapy within 30 days prior to the first dose of MEDI3617, or in the case of monoclonal antibodies (eg, bevacizumab), 42 days prior to the first dose of MEDI3617\n* Current or previous treatment with angiopoietin inhibitors, or inhibitors of Tie1 or Tie2 including, but not limited to, AMG386, CVX-060, XL880, and XL820\n* Any concurrent chemotherapy, radiotherapy, immunotherapy, biologic or hormonal therapy for cancer treatment\n* Use of immunosuppressive medication or systemic steroids within 7 days prior to first dose of MEDI3617\n* Any condition that, in the opinion of the investigator, would interfere with evaluation of the investigational product or interpretation of subject safety or study results\n* Known bleeding diathesis\n* Pulmonary hemorrhage or gross hemoptysis within 6 months prior to enrollment\n* Therapeutic or palliative radiation therapy within 2 weeks prior to enrollment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Dose Limiting Toxicities (DLTs)",
+      "timeFrame": "From the time of first administration of MEDI3617 single agent or MEDI3617 combination therapy through the first 21-day or 28-day cycle (Cycle 1)",
+      "description": "DLT was defined as any treatment-related, grade 3 or higher toxicity (according to the National Cancer Institute's Common Terminology Criteria for Adverse Events \\[NCI CTCAE\\] version 4.0); occurring during the first 21 or 28 days after the initial administration of MEDI3617."
+    },
+    {
+      "measure": "Maximum Tolerated Dose (MTD)",
+      "timeFrame": "From the time of first administration of MEDI3617 single agent or MEDI3617 combination therapy through the first 21-day or 28-day cycle (Cycle 1)",
+      "description": "The dose-escalation phase used a 3 + 3 design. If greater than or equal to 2 (\u2265 2) participants in a dose cohort experienced a DLT during the DLT period, the MTD was exceeded and no further participants were enrolled into that dose cohort. If this occurred, the preceding dose cohort was evaluated for the MTD and a total of 6 participants were treated at the preceding dose. If less than or equal to 1 (\u2264 1) of 6 participants experienced a DLT at the preceding dose, then this dose level was the MTD. DLTs were defined as any treatment-related, grade 3 or higher toxicity (according to the National Cancer Institute's Common Terminology Criteria for Adverse Events \\[NCI CTCAE\\] version 4.0); occurring during the first 21 or 28 days after the initial administration of MEDI3617."
+    },
+    {
+      "measure": "Number of Participants With Treatment Emergent Adverse Events (TEAEs) and Treatment Emergent Serious Adverse Events (TESAEs)",
+      "timeFrame": "From start of study drug administration up to 90 days after the last dose of MEDI3617",
+      "description": "An adverse event (AE) was any untoward medical occurrence in a participant administered investigational product and which does not necessarily have a causal relationship with this treatment. A serious adverse event (SAE) was an AE resulting in any of following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. Treatment-emergent AEs were events occurring after administration of investigational product."
+    },
+    {
+      "measure": "Number of Participants With Laboratory Abnormalities Recorded as Adverse Events (AEs)",
+      "timeFrame": "From start of study drug administration up to 90 days after the last dose of MEDI3617",
+      "description": "Laboratory evaluations were performed, including hematology and serum chemistry. An AE was any untoward medical occurrence in a participant administered investigational product and which does not necessarily have a causal relationship with this treatment. AEs related to laboratory abnormalities were recorded and reported."
+    },
+    {
+      "measure": "Number of Participants With Vital Sign Abnormalities Recorded as Adverse Events (AEs)",
+      "timeFrame": "From start of study drug administration up to 90 days after the last dose of MEDI3617",
+      "description": "Vital signs included parameters such as heart rate, blood pressure, temperature, weight and respiratory rate. An AE was any untoward medical occurrence in a participant administered investigational product and which does not necessarily have a causal relationship with this treatment. AEs related to vital signs abnormalities were recorded and reported."
+    },
+    {
+      "measure": "Number of Participants With Echocardiogram Abnormalities Recorded as Adverse Events (AEs)",
+      "timeFrame": "From start of study drug administration up to 90 days after the last dose of MEDI3617",
+      "description": "An AE was any untoward medical occurrence in a participant administered investigational product and which does not necessarily have a causal relationship with this treatment. AEs related to echocardiogram abnormalities were recorded and reported. The only AE reported was ejection fraction decreased in the MEDI3617 + Paclitaxel total group."
+    },
+    {
+      "measure": "Number of Participants With Electrocardiogram Abnormalities Recorded as Adverse Events (AEs)",
+      "timeFrame": "From start of study drug administration up to 90 days after the last dose of MEDI3617",
+      "description": "An AE was any untoward medical occurrence in a participant administered investigational product and which does not necessarily have a causal relationship with this treatment. AEs related to electrocardiogram abnormalities were recorded and reported. The only AE reported was electrocardiogram QT prolonged in the MEDI3617 + Bevacizumab Q2W total group."
+    },
+    {
+      "measure": "Number of Participants With a Decline in Karnofsky Performance Status (KPS) of \u2265 20 Points at Worst Record On-study Compared With Baseline",
+      "timeFrame": "From start of study drug administration up to 30 days after the last dose of MEDI3617",
+      "description": "KPS scale: 100 is no evidence of disease; 90 is able to carry on normal activity, minor symptoms of disease; 80 is normal activity with effort, some symptoms of disease; 70 is cares for self; unable to do active work; 60 is requires occasional assistance, but is able to care for most of his needs; 50 is requires considerable assistance with frequent medical care; 40 is disabled, requires special care; 30 is severely disabled, hospitalization is indicated although death is not imminent; 20 is very sick, hospitalization necessary, active support treatment necessary; 10 is moribund, fatal processes progressing rapidly, 0 is dead."
+    }
+  ],
+  "sponsor": "MedImmune LLC",
+  "collaborators": [],
+  "start_date": "2010-10",
+  "completion_date": "2015-10",
+  "last_updated": "2017-02-09"
+}

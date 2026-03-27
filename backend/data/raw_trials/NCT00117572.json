@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT00117572",
+  "brief_title": "Docetaxel Based Chemotherapy Plus or Minus Induction Chemotherapy to Decrease Events in Head and Neck Cancer (DeCIDE)",
+  "official_title": "A Phase III Randomized Trial of Docetaxel Based Induction Chemotherapy in Patients With N2/N3 Locally Advanced Head and Neck Cancer",
+  "brief_summary": "The combined use of chemotherapeutic drugs with radiation has proven to be effective in improving overall survival and local control among patients with locally advanced head and neck cancer. Induction chemotherapy given before receiving local treatment has been shown to reduce the rate of distant failure. Many drugs have been found to prevent tumor cells from growing or dividing, although it has yet to be determined which agent, or specific combination of agents, is most effective in treating head and neck cancer. Docetaxel is a drug which has been reported to show promising activity in Phase II head and neck cancer studies. Therefore, the purpose of this trial is to compare the effectiveness of induction chemotherapy followed by chemoradiotherapy versus the same chemoradiotherapy alone in patients with locally advanced head and neck cancer.",
+  "detailed_description": "TRIAL DESIGN:\n\nPhase III trial of induction therapy with docetaxel followed by chemoradiotherapy versus chemoradiotherapy alone in patients with nodal stage N2 or N3 head and neck cancer\n\nOBJECTIVES:\n\nPrimary\n\n* To determine the effect on overall survival when induction chemotherapy is administered prior to chemoradiotherapy in patients with N2 or N3 disease.\n\nSecondary\n\n* To determine the effect of induction chemotherapy when administered prior to chemoradiotherapy on distant failure-free survival, failure pattern, progression free survival and quality of life.\n\nTREATMENT PLAN:\n\n* After eligibility is confirmed, patients will be randomized to one of two treatment arms:\n\nArm A - Induction + chemoradiotherapy\n\nArm B - Chemoradiotherapy alone\n\n* Induction therapy: Two 21-day cycles of chemotherapy consisting of docetaxel (day 1), cisplatin (day 1), and 5-fluorouracil (days 1-5). Total duration of 6 weeks.\n* Chemoradiotherapy: Five 14-day cycles of docetaxel (day 1), 5-fluorouracil (day 0-4), and hydroxyurea (days 0-4) with twice daily radiation (days 1-5). Total duration of 10 weeks.\n* All patients will undergo surgical evaluation after chemoradiation for possible neck dissection.\n* Upon completion of treatment, patients will be monitored every three months during the first year, every six months during the second and third years, and annually thereafter, up to seven years.\n* Patients will be followed for Quality of Life (QOL) during the course of treatment, as well as annually thereafter, up to five years.\n\nPROJECTED ACCRUAL:\n\n* An expected sample size of 400 patients will be enrolled for this study (200 per treatment arm).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 285,
+  "conditions": [
+    "Cancer of the Pharynx",
+    "Cancer of the Larynx",
+    "Cancer of the Nasal Cavity",
+    "Paranasal Sinus Neoplasms",
+    "Cancer of the Oral Cavity"
+  ],
+  "interventions": [
+    {
+      "name": "docetaxel",
+      "type": "DRUG",
+      "description": "75 mg/m2 on day 1 (induction phase); 25 mg/m2 on day 1 (chemoradiotherapy phase)"
+    },
+    {
+      "name": "cisplatin",
+      "type": "DRUG",
+      "description": "75 mg/m2 on day 1"
+    },
+    {
+      "name": "hydroxyurea",
+      "type": "DRUG",
+      "description": "Each cycle: 500 mg PO q 12 hours x 6 days (11 doses)"
+    },
+    {
+      "name": "fluorouracil",
+      "type": "DRUG",
+      "description": "750 mg/m2/day on days 1-5 (induction phase); 600 mg/m2/day, day 0-4 (chemoradiotherapy phase)"
+    },
+    {
+      "name": "chemotherapy",
+      "type": "PROCEDURE",
+      "description": "See protocol for details"
+    },
+    {
+      "name": "radiotherapy",
+      "type": "PROCEDURE",
+      "description": "See protocol for details"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Histologically or cytologically confirmed diagnosis of squamous cell or poorly differentiated carcinomas of the head and neck (excluding lip), or lymphoepithelioma\n* No prior chemotherapy or radiotherapy\n* Prior surgical therapy will consist only of incisional or excisional biopsy, and organ sparing procedures such as debulking of airway-compromising tumors or neck dissection in a patient with an existing primary tumor\n* Karnofsky performance status of \\>= 70%\n* Intact organ and bone marrow function\n* Obtained informed consent\n\nExclusion Criteria:\n\n* Demonstration of metastatic disease (i.e. M1 disease).\n* Patients with a history of severe allergic reaction to docetaxel or other drugs formulated with polysorbate 80. History of allergic reactions attributed to compounds of similar chemical or biologic composition to cisplatin, 5-fluorouracil, or hydroxyurea\n* Other coexisting malignancies or malignancies diagnosed within the previous 3 years with the exception of basal cell carcinoma, cervical cancer in situ, and other treated malignancies with no evidence of disease for at least 3 years.\n* Prior surgical therapy other than incisional or excisional biopsy and organ-sparing procedures such as debulking of airway-compromising tumors or neck dissection in a patient with an unknown primary tumor. Any non-biopsy procedure must have taken place less than 3 months from initiating protocol treatment.\n* Incomplete healing from previous surgery\n* Pregnancy or breast feeding (men and women of child-bearing potential are eligible but must consent to using effective contraception during therapy and for at least 3 months after completing therapy)\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure (CHF), unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Patients with clinically significant pulmonary dysfunction, cardiomyopathy, or any history of clinically significant CHF are excluded. The exclusion of patients with active coronary artery disease will be at the discretion of the attending physician.\n* Uncontrolled active infection unless curable with treatment of their cancer.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival: Time From Randomization to Death From Any Cause",
+      "timeFrame": "Up to 6 years",
+      "description": "Survival rates over 6 years."
+    }
+  ],
+  "sponsor": "University of Chicago",
+  "collaborators": [],
+  "start_date": "2004-11",
+  "completion_date": "2016-12",
+  "last_updated": "2018-04-06"
+}

@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT04122625",
+  "brief_title": "Study to Assess Safety and Efficacy of the Second Mitochondrial-derived Activator of Caspases (SMAC) Mimetic Debio 1143",
+  "official_title": "A Dose-optimization, Exploratory Phase Ib/II Study to Assess Safety and Efficacy of the Second Mitochondrial-derived Activator of Caspases (SMAC) Mimetic Debio 1143, When Given in Combination With the Anti-PD-1 Antibody Nivolumab in Patients With Specific Solid Tumors Who Have Progressed During or Immediately After Anti-PD-1/PD-L1 Treatment",
+  "brief_summary": "Part A (dose-optimization)- to determine the recommended phase 2 dose (RP2D) taking into account dose-limiting toxicity (DLT/s) in Cycle 1, overall safety/tolerability and pharmacokinetic (PK), by optimizing doses of Debio 1143 when combined with the standard dose of nivolumab, as well as treatment compliance in participants with advanced solid malignancies who failed prior systemic standard treatments.\n\nPart B (basket trial)- to evaluate the preliminary anti-tumor activity of Debio 1143 at the RP2D in combination with nivolumab at the standard dose, overall and in each participant cohort (Cohort 1: small cell lung cancer \\[SCLC\\]; Cohort 2: squamous cell carcinoma of the head and neck \\[SCCHN\\]; Cohort 3: gastrointestinal (GI) cancers with known microsatellite instability-high/mismatch repair deficiency (MSI-H/MMRd) or other deoxyribonucleic acid (DNA) damage repair (DDR) abnormalities, including homologous recombination deficiency (HRD); Cohort 4: platinum-resistant epithelial ovarian cancer \\[EOC\\], endometrial cancer, primary peritoneal cancer (PPC) or cervical cancer, with known MSIH/MMRd, hereditary/somatic mutations of the breast cancer 1 (BRCA1) and BRCA2 genes or other DNA DDR abnormalities (incl. HRD).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 46,
+  "conditions": [
+    "Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Debio 1143",
+      "type": "DRUG",
+      "description": "Administered as capsules."
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Administered as IV infusion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have received at least one prior line of standard systemic chemotherapy in the advanced/unresectable cancer setting (standard adjuvant/neoadjuvant treatment is acceptable if relapse occurred within six months of treatment end)\n* Have progressed or relapsed during or after a prior anti-programmed cell death-1 (PD-1)/ programmed cell death-ligand 1 (PD-L1)-based treatment, given either as a single agent or in combination with standard/approved chemotherapy, tyrosine kinase inhibitors (TKIs), radiotherapy (RT) or other monoclonal antibodies (mAbs) that are not known to modulate/inhibit immune checkpoints (CPIs)\n* Measurable disease (Part B only) according to Response Evaluation Criteria in Solid Tumors (RECIST v1.1) or Gynecologic Cancer Intergroup (GCIG) criteria in Cohort #4 of Part B (if applicable) and documented PD during or after prior PD-1/PD-L1 based therapy\n\nExclusion Criteria:\n\n* Thoracic or head and neck radiation \\>30 gray (Gy) within the 3 months prior to Cycle 1 Day 1 (C1D1)\n* Have received, in total, more than 3 (i.e., Cohorts 1 \\& 2) or 4 (i.e., Cohorts 3 \\& 4) lines of prior systemic treatments in Part B (including adjuvant or neoadjuvant regimens if relapse within six months prior to C1D1)\n* Liver cirrhosis Child-Pugh score B or C",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "St. Luke's University Health Network",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part A: Number of Participants With Dose-limiting Toxicities (DLTs)",
+      "timeFrame": "Part A: Cycle 1 (28 days)",
+      "description": "DLT: any of following treatment-emergent adverse events (TEAEs) as per NCI CTCAE Grade V5.0 Criteria (Grades 1=mild, 2=moderate, 3=severe and 4 or 5= life-threatening/fatal outcomes) which are possibly, probably or definitely related to combination treatment and occurring in Cycle 1 (1 Cycle=28 days): Any Grade 4 or 5 hematologic toxicity, clinical or laboratory non-hematologic toxicity; febrile neutropenia any grade, Grade 3 thrombocytopenia if associated with bleeding or requiring platelet transfusion; Grade 2; Grade 3 and any other Grade 3 non-hematologic, treatment-related clinical toxicity lasting \u22653 days; delay of \\>2 weeks due to drug-related toxicity in initiating Cycle 2; unable to complete at least 70% of the scheduled treatment (\\>six Debio 1143 skipped doses in Cycle 1) due to treatment-related toxicity; required dose reduction in Cycle 1 or on Cycle 2 Day 1 or requirement for treatment withdrawal due to treatment-related toxicity (even if not meeting other DLT criteria)."
+    },
+    {
+      "measure": "Part B: Confirmed Objective Response Rate (ORR)",
+      "timeFrame": "Part B: From the start of study treatment until disease progression/recurrence was documented, a new systemic anti-cancer therapy was started or analysis cut-off, whichever occurred first (up to approximately 2.05 years)",
+      "description": "ORR was determined per response evaluation criteria in solid tumors (RECIST) v1.1 and/or gynecologic cancer intergroup (GCIG) criteria (for Cohort 4). ORR was calculated as the percentage of participants with a confirmed objective response. A confirmed objective response is a confirmed best overall response of partial response (PR) or complete response (CR) recorded after the start of study treatment until disease progression/recurrence was documented, a new systemic anti-cancer therapy was started or analysis cut-off, whichever occurred first. CR is defined by the disappearance of all target lesions and reduction of any pathological lymph nodes in short axis to \\<10 millimeters (mm). PR is defined by at least a 30% decrease in the sum of diameters of target lesions taking as reference the baseline sum diameter."
+    }
+  ],
+  "sponsor": "Debiopharm International SA",
+  "collaborators": [],
+  "start_date": "2019-04-26",
+  "completion_date": "2022-04-06",
+  "last_updated": "2023-05-17"
+}

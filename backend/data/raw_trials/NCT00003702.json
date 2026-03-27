@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT00003702",
+  "brief_title": "Methotrexate Compared With Dactinomycin in Treating Patients With Gestational Trophoblastic Neoplasia",
+  "official_title": "A Randomized Phase III Trial of Weekly Parenteral Methotrexate Versus \"Pulsed\" Dactinomycin as Primary Management for Low Risk Gestational Trophoblastic Neoplasia",
+  "brief_summary": "Randomized phase III trial to compare the effectiveness of methotrexate with that of dactinomycin in treating patients who have gestational trophoblastic neoplasia. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. It is not yet known whether methotrexate is more effective than dactinomycin in treating patients with gestational trophoblastic neoplasia.",
+  "detailed_description": "OBJECTIVES:\n\nI. Compare the efficacy of methotrexate vs dactinomycin, as measured by complete response rate, in patients with low-risk gestational trophoblastic neoplasia.\n\nII. Compare the toxicity of these regimens in these patients. III. Determine whether the definition of persistent gestational trophoblastic neoplasia is accurate (as determined by the likelihood that the beta human chorionic gonadotropin \\[HCG\\] titer would decline on the day treatment is initiated).\n\nOUTLINE: This is a randomized study. Patients are randomized to 1 of 2 treatment arms.\n\nARM I: Patients receive methotrexate intramuscularly once weekly in the absence of disease progression or unacceptable toxicity.\n\nARM II: Patients receive dactinomycin IV over 15 minutes every 2 weeks in the absence of disease progression or unacceptable toxicity. All patients continue on treatment until 1 beta human chorionic gonadotropin (HCG) titer is below the institutional normal. Patients then receive 1 additional consolidation treatment.\n\nPatients are followed every 4 weeks for 1 year.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 240,
+  "conditions": [
+    "Good Prognosis Metastatic Gestational Trophoblastic Tumor",
+    "Hydatidiform Mole",
+    "Non-Metastatic Gestational Trophoblastic Tumor",
+    "Uterine Corpus Choriocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Dactinomycin",
+      "type": "BIOLOGICAL",
+      "description": "Given IV"
+    },
+    {
+      "name": "Methotrexate",
+      "type": "DRUG",
+      "description": "Given intramuscularly"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically proven low-risk gestational trophoblastic neoplasia (persistent hydatidiform mole or choriocarcinoma), defined as 1 of the following:\n\n  * Less than 10% decrease in the beta human chorionic gonadotropin (HCG) titer over 3 weekly titers\n  * Greater than 20% sustained rise in beta HCG titer over two consecutive weeks\n  * Persistently elevated beta HCG titer more than 4 months after initial curettage (greater than 5 mIU/mL minimum)\n  * Histologically proven nonmetastatic choriocarcinoma\n  * Metastases to vagina, parametria, or lung (if no single pulmonary lesion is greater than 2 cm)\n* WHO score 0-6 (not including blood group or CT lung)\n* No histologically confirmed placental site pseudotumor\n* Must have undergone at least 1 uterine curettage\n* Previously untreated disease\n* Performance status - GOG 0-2\n* WBC at least 3,000/mm\\^3\n* Granulocyte count at least 1,500/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n* Bilirubin no greater than 1.5 times upper limit of normal (ULN)\n* SGPT and SGOT no greater than 3 times ULN\n* Alkaline phosphatase no greater than 3 times ULN\n* No significant prior abnormal hepatic function\n* Creatinine no greater than 2.0 mg/dL\n* No significant prior abnormal renal function\n* Not pregnant or nursing\n* Fertile patients must use effective contraception during and for one year after study entry\n* No other prior or concurrent malignancies within the past 5 years except nonmelanomatous skin cancer\n* No prior chemotherapy for gestational trophoblastic neoplasia\n* No concurrent curettage except as needed to control vaginal bleeding or to rule out placental site pseudotumor",
+    "gender": "FEMALE",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Gynecologic Oncology Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Response Based on Blood Human Chorionic Gonadotropin (hCG) Assay",
+      "timeFrame": "Endpoint was assessed by hCG measurements taken weekly, once normal, treatment was bi-weekly, then monthly, up to 12 months.",
+      "description": "Primary outcome is measured as a difference in proportion responding between treatment arms and evaluated using a chi square test. A complete response was defined as a normal hCG sustained over four weekly measurements."
+    },
+    {
+      "measure": "Incidence of Adverse Effects (Grade 3 or Higher) as Assessed by Common Terminology Criteria for Adverse Events (CTCAE) Version 2.0",
+      "timeFrame": "Prior to study entry, weekly during treatment, up to 12 months after normal titer, an average of 7 months.",
+      "description": "Number of participants with a maximum grade of 3 or higher during the treatment period."
+    }
+  ],
+  "sponsor": "Gynecologic Oncology Group",
+  "collaborators": [
+    "Eastern Cooperative Oncology Group",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "1999-06",
+  "completion_date": "",
+  "last_updated": "2018-04-12"
+}

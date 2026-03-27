@@ -1,0 +1,143 @@
+{
+  "nct_id": "NCT04947150",
+  "brief_title": "Optimizing an mHealth Intervention to Change Food Purchasing Behaviors for Cancer Prevention",
+  "official_title": "Optimizing an mHealth Intervention to Change Food Purchasing Behaviors for Cancer Prevention",
+  "brief_summary": "Dietary intake is a powerful, modifiable factor that influences cancer risk. Unfortunately, most adults in the U.S. find it difficult to adhere to dietary guidelines for cancer prevention. One promising pathway for improving dietary adherence is to target grocery shopping habits, i.e., foods purchased for consumption at home. Two-thirds of daily food intake is sourced from or eaten in the home, so improving the quality of the home food environment should improve overall diet quality. When healthy foods are purchased and unhealthy foods are not, minimal self-control is needed to make healthy eating choices in the home. At the point of purchase, it is difficult to resist the temptation of palatable foods, but interventions might facilitate healthy choices by promoting dietary goal salience in real-time while grocery shopping, enhancing motivation to make and sustain changes to the diet, and increasing household support and accountability for healthy food purchasing. The proposed study will enroll adults who have low adherence to cancer prevention dietary recommendations. All participants will attend a nutrition education workshop conducted via Zoom. For 20 weeks, all participants also will receive once weekly reminders and recommendations for food purchasing via an app. The study will experimentally test four additional intervention components: location-triggered messages, coaching monitoring of food purchases, benefit of change content, and household member involvement. The preliminary aim of the study is to assess feasibility and acceptability of the intervention components. The primary aim of the study is to quantify the effect of each intervention component, individually and in combination, on dietary intake (assessed with 24-hour food recalls). The overarching goal of this project is to optimize this mHealth intervention, which can be tested in the future in a fully powered clinical trial.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 62,
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Location-triggered notification",
+      "type": "BEHAVIORAL",
+      "description": "If participants are randomized to have this component ON, the app will send the notification when the participant's smartphone is within a 50-meter \"geofence\" around designated grocery stores. No more than one notification will be sent per week. Mindfulness of program goals in the moment of decision making is expected to facilitate program-consistent food purchasing behaviors. Participants assigned to have location-triggered message delivery OFF will receive their weekly \"recommendations and reminders\" messages at standard times throughout the week. The content of the messages will not differ according to whether this component is ON vs. OFF."
+    },
+    {
+      "name": "Reflections on benefits of change",
+      "type": "BEHAVIORAL",
+      "description": "Participants will reflect on anticipated benefits of purchasing healthy foods, consistent with motivational interviewing and self-determination theory. Message content will be personalized as follows: During the initial workshop, all participants will complete an exercise identifying benefits of healthy eating that are important to them. Message content will then be programmed to be personalized according to anticipated rewards important to that participant. Participants assigned to have this intervention component OFF will not have content about anticipated benefits of change added to any messages."
+    },
+    {
+      "name": "Coach monitoring",
+      "type": "BEHAVIORAL",
+      "description": "Coaches will monitor participant food purchases via a dashboard for viewing purchase data, and send messages designed to provide feedback and enhance supportive accountability for program goals. The messages will provide reinforcement for purchases consistent with program goals and express concern for areas in which adherence is low. Participants assigned to have this component OFF will not receive these extra messages or phone calls, and their food purchases will only be viewed by research staff for research outcome assessment purposes."
+    },
+    {
+      "name": "Household support",
+      "type": "BEHAVIORAL",
+      "description": "If participants are assigned to have household support ON, one adult in the household will receive weekly text messages designed to elicit support for changing food purchases. In addition, the index participant and household member will be invited to participate in one extra workshop session and three brief coaching calls focused on household support. If participants are assigned to have this OFF, household members will have no program involvement."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria\n\n* 18 years or older\n* Fluent in English\n* Low adherence to cancer prevention dietary guidelines, operationalized as a score of \u2264 2 out of 4 using the National Cancer Institute method for assessing adherence to World Cancer Research Fund/American Institute for Cancer Research (WCRF/AICR) lifestyle recommendations. This three-level scoring system (meeting/partially meeting/not meeting each recommendation) includes 4 items specific to diet. Participants must score equal or less than 2, meaning that they are fully meeting recommendations for no more than 2 of the 4 dietary recommendations.\n* Performs the majority of the household's food shopping, and do so at stores that can passively stream item-level data from a store loyalty card to the Information Machine API (e.g., Walmart, Target, ShopRite, Wegman's, etc.)\n* Has a smartphone with iOS or Android operating system that is compatible with the program app\n* Lives in a household with at least one other adult who consents to being randomized to possibly receive messages on his/her own cell phone through the program app\n\nExclusion criteria\n\n* Medical condition or psychiatric condition (e.g., active substance abuse, eating disorder) that may limit appropriateness of or ability to comply with program dietary recommendations\n* Planning to enroll in another lifestyle modification program in the next 6 months\n* Bariatric surgery history\n* Currently pregnant or breastfeeding or planning to become pregnant in the next 6 months",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Drexel University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "1a. Dietary Intake: ASA24 (Fiber)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 1, the primary outcome will be change from 0-20 weeks in dietary intake of the major food categories from the American Institute for Cancer Research guidelines. Self-reported dietary recalls will be completed for three days at baseline and week 20 using the Automated Self Administered 24-hour food recall (ASA-24). This table reports the change in grams of fiber per day.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "1b. Primary Outcome: Dietary Intake ASA24 (Fruit/Veg)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 1, the primary outcome will be change from 0-20 weeks in dietary intake of the major food categories from the American Institute for Cancer Research guidelines. Self-reported dietary recalls will be completed for three days at baseline and week 20 using the Automated Self Administered 24-hour food recall (ASA-24). This table reports the change in number of cups of fruits and vegetables per day.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "1c. Primary Outcome: Dietary Intake ASA24 (Red Meat)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 1, the primary outcome will be change from 0-20 weeks in dietary intake of the major food categories from the American Institute for Cancer Research guidelines. Self-reported dietary recalls will be completed for three days at baseline and week 20 using the Automated Self Administered 24-hour food recall (ASA-24). This table reports the change in ounces of red meat consumed per week.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "1d. Primary Outcome: Dietary Intake ASA24 (Processed Meat)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 1, the primary outcome will be change from 0-20 weeks in dietary intake of the major food categories from the American Institute for Cancer Research guidelines. Self-reported dietary recalls will be completed for three days at baseline and week 20 using the Automated Self Administered 24-hour food recall (ASA-24). This table reports the change in ounces of processed meat consumed per week.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "1e. Primary Outcome: Dietary Intake ASA24 (Added Sugars)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 1, the primary outcome will be change from 0-20 weeks in dietary intake of the major food categories from the American Institute for Cancer Research guidelines. Self-reported dietary recalls will be completed for three days at baseline and week 20 using the Automated Self Administered 24-hour food recall (ASA-24). This table reports the change in grams of added sugars consumed per day.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "1f. Primary Outcome: Dietary Intake ASA24 (Sodium)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 1, the primary outcome will be change from 0-20 weeks in dietary intake of the major food categories from the American Institute for Cancer Research guidelines. Self-reported dietary recalls will be completed for three days at baseline and week 20 using the Automated Self Administered 24-hour food recall (ASA-24). This table reports the change in mg of sodium consumed per day.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "1g. Primary Outcome: Dietary Intake ASA24 (Fat)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 1, the primary outcome will be change from 0-20 weeks in dietary intake of the major food categories from the American Institute for Cancer Research guidelines. Self-reported dietary recalls will be completed for three days at baseline and week 20 using the Automated Self Administered 24-hour food recall (ASA-24). This table reports the change in grams of saturated fat consumed per day.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "1h. Primary Outcome: Dietary Intake ASA24 (Sugar-Sweetened Beverages)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 1, the primary outcome will be change from 0-20 weeks in dietary intake of the major food categories from the American Institute for Cancer Research guidelines. Self-reported dietary recalls will be completed for three days at baseline and week 20 using the Automated Self Administered 24-hour food recall (ASA-24). This table reports the change in oz of sugar sweetened beverages consumed per day.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "2a: Dietary Intake: DHQ-III (Fiber)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 2, the Diet History Questionnaire (DHQ-III) will be used instead of food recalls to assess dietary intake. This table reports the change in grams of fiber per day.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "2b. Dietary Intake: DHQ-III (Fruits/Veg)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 2, the Diet History Questionnaire (DHQ-III) will be used instead of food recalls to assess dietary intake. This table reports the change in cups of fruits and vegetables per day.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "2c. Dietary Intake: DHQ-III (Red Meat)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 2, the Diet History Questionnaire (DHQ-III) will be used instead of food recalls to assess dietary intake. This table reports the change in oz of red meat consumed per week.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "2d. Dietary Intake: DHQ-III (Processed Meat)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 2, the Diet History Questionnaire (DHQ-III) will be used instead of food recalls to assess dietary intake. This table reports the change in oz of processed meat consumed per week.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "2e. Dietary Intake: DHQ-III (Added Sugars)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 2, the Diet History Questionnaire (DHQ-III) will be used instead of food recalls to assess dietary intake. This table reports the change in grams of added sugars consumed per day.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "2f. Dietary Intake: DHQ-III (Sodium)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 2, the Diet History Questionnaire (DHQ-III) will be used instead of food recalls to assess dietary intake. This table reports the change in mg of sodium consumed per day.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "2g. Dietary Intake: DHQ-III (Fat)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 2, the Diet History Questionnaire (DHQ-III) will be used instead of food recalls to assess dietary intake. This table reports the change in grams of saturated fat per day.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    },
+    {
+      "measure": "2h. Dietary Intake: DHQ-III (Sugar-Sweetened Beverages)",
+      "timeFrame": "Baseline and post-treatment (0 and 20 weeks)",
+      "description": "In Wave 2, the Diet History Questionnaire (DHQ-III) will be used instead of food recalls to assess dietary intake. This table reports the change in ounces of sugar-sweetened beverages per day.\n\nThis pilot study used a factorial design, with 16 conditions and typically 4 participants per condition. The study was designed with the intent to collapse across conditions for all analyses, such that the 8 conditions in which a given factor is ON would be compared to the 8 conditions in which that factor was OFF. Participants are counted multiple times in the table, such that the total number of participants in any ON/OFF condition pair will equal the full sample."
+    }
+  ],
+  "sponsor": "Drexel University",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2021-06-01",
+  "completion_date": "2022-03-29",
+  "last_updated": "2023-10-06"
+}

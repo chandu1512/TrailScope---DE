@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT05039177",
+  "brief_title": "A Study of ERAS-007 in Patients With Advanced Gastrointestinal Malignancies",
+  "official_title": "A Phase 1b/2 Study of Agents Targeting the Mitogen-Activated Protein Kinase Pathway in Patients With Advanced Gastrointestinal Malignancies (HERKULES-3)",
+  "brief_summary": "* To evaluate the safety and tolerability of escalating doses of ERAS-007 in combination with other cancer therapies in study participants with advanced GI malignancies.\n* To determine the Maximum Tolerated Dose (MTD) and/or Recommended Dose (RD) of ERAS-007 administered in combination with other cancer therapies.\n* To evaluate the antitumor activity of ERAS-007 in combination with other cancer therapies.\n* To evaluate the PK profiles of ERAS-007 and other cancer therapies when administered in combination.",
+  "detailed_description": "This is a Phase 1b/2, open-label, multicenter clinical study evaluating ERAS-007 in combination with other cancer therapies in study participants with GI malignancies. This study will serve as a platform study, allowing for evaluation of safety/tolerability and efficacy of ERAS-007 in combination with other cancer therapies. The study will initially commence with dose escalation of ERAS-007 administered in combination with encorafenib and cetuximab in study participants with metastatic colorectal cancer (CRC) harboring B-Raf proto-oncogene, serine/threonine kinase (BRAF) V600E mutation; and dose escalation of ERAS-007 administered in combination with palbociclib in study participants with metastatic CRC harboring Kirsten rat sarcoma (KRAS) or neuroblastoma rat sarcoma (NRAS) mutations and metastatic pancreatic adenocarcinoma with (PDAC) KRAS mutation. Dose expansion will follow and will test ERAS-007 administered at the RD identified from each dose escalation arm in study participants with metastatic CRC.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 101,
+  "conditions": [
+    "Metastatic Colorectal Cancer",
+    "Metastatic Pancreatic Ductal Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "ERAS-007",
+      "type": "DRUG",
+      "description": "Administered orally"
+    },
+    {
+      "name": "Encorafenib",
+      "type": "DRUG",
+      "description": "Administered orally"
+    },
+    {
+      "name": "Cetuximab",
+      "type": "DRUG",
+      "description": "Administered via intravenous infusion"
+    },
+    {
+      "name": "Palbociclib",
+      "type": "DRUG",
+      "description": "Administered orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age \u2265 18 years.\n* Willing and able to give written informed consent.\n* Have histologically or cytologically confirmed metastatic CRC harboring applicable mutation(s) (e.g., BRAF V600E; KRAS or NRAS mutations) or metastatic PDAC harboring KRAS mutation based on an analytically validated assay performed on tumor tissue in a certified testing laboratory.\n* Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.\n* Adequate bone marrow and organ function.\n* Have ECOG performance status of 0 or 1.\n* Willing to comply with all protocol-required visits, assessments, and procedures.\n* Able to swallow oral medication.\n\nExclusion Criteria:\n\n* Prior therapy with a RAS, MEK, or ERK inhibitor. Depending on which treatment arm the patient is assigned, other therapies could also be prohibitive.\n* Anti-cancer therapy \u2264 21 days or 4 half-lives prior to first dose of study drug, whichever is shorter.\n* Palliative radiation \u2264 7 days prior to first dose of study drug.\n* Symptomatic brain metastasis or leptomeningeal disease.\n* Gastrointestinal conditions that may affect absorption of oral medications\n* Active infection requiring systemic therapy, or a known history of HIV infection, hepatitis B virus, or hepatitis C virus.\n* History of chronic inflammatory bowel disease or Crohn's disease requiring medical intervention (immunomodulatory or immunosuppressive medications or surgery) \u2264 12 months prior to first study drug dose.\n* Active, clinically significant interstitial lung disease or pneumonitis.\n* Impaired cardiovascular function or clinically significant cardiovascular disease.\n* History of thromboembolic or cerebrovascular events \u2264 6 months prior to first dose.\n* Major surgery within 28 days of enrollment, or anticipation of major surgery during study treatment.\n* Known intolerance or contraindication to encorafenib, cetuximab, or palbociclib.\n* Pregnant or breastfeeding women.\n* Any evidence of severe or uncontrolled systemic disease or evidence of any other significant clinical disorder or laboratory finding that renders the patient inappropriate to participate in the study.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose Limiting Toxicities (DLT)",
+      "timeFrame": "Study Day 1 up to Day 29",
+      "description": "Based on adverse events observed during dose escalation"
+    },
+    {
+      "measure": "Maximum Tolerated Dose (MTD)",
+      "timeFrame": "Study Day 1 up to Day 29",
+      "description": "Based on adverse events observed during dose escalation"
+    },
+    {
+      "measure": "Recommended Dose (RD)",
+      "timeFrame": "Study Day 1 up to Day 29",
+      "description": "Based on adverse events observed during dose escalation"
+    },
+    {
+      "measure": "Adverse Events",
+      "timeFrame": "Assessed up to 24 months from time of first dose",
+      "description": "Incidence and severity of treatment-emergent AEs and serious AEs"
+    }
+  ],
+  "sponsor": "Erasca, Inc.",
+  "collaborators": [],
+  "start_date": "2021-09-20",
+  "completion_date": "2026-01-26",
+  "last_updated": "2026-03-23"
+}

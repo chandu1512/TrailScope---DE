@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT00563316",
+  "brief_title": "Effect of Panitumumab on the Pharmacokinetics of Irinotecan",
+  "official_title": "A Phase I, Open-label Study to Determine the Effect of Panitumumab on the Pharmacokinetics of Irinotecan in Subjects With Unresectable Metastatic Colorectal Cancer",
+  "brief_summary": "The primary objective of this study is to determine if panitumumab affects the pharmacokinetic (PK) profile of irinotecan.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 28,
+  "conditions": [
+    "Metastatic Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Panitumumab",
+      "type": "DRUG",
+      "description": "The first infusion of panitumumab will occur on Cycle 1 Day 4. On Cycle 2 Day 1, panitumumab will be administered on the same day as irinotecan and every 2 weeks thereafter."
+    },
+    {
+      "name": "Irinotecan",
+      "type": "DRUG",
+      "description": "The first infusion of irinotecan will occur on Cycle 1 Day 1. Irinotecan will be administered on the same day as panitumumab on Cycle 2 Day 1 and every 2 weeks thereafter."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Pathologically confirmed unresectable metastatic colorectal cancer (mCRC) which has progressed on at least one prior 5-fluorouracil (5FU)-containing chemotherapy regimen\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2\n* Life expectancy of \u2265 3 months as documented by the investigator\n* Baseline actual body weight \u2264 160 kg\n* Competent to comprehend, sign, and date a written Institutional Review Board (IRB) approved informed consent form before any study-specific procedures are performed\n\nExclusion Criteria:\n\n* Treatment with radiotherapy \u2264 14 days before enrollment. Patients must have recovered from all radiotherapy-related toxicities\n* Known presence of central nervous systems (CNS) metastases\n* Any prior malignancy (except for non-melanomatous skin cancer or in situ cervical cancer) other than the study disease, unless treated with curative intent with no evidence of disease \u2264 2 years before enrollment\n* History of interstitial lung disease (eg, pneumonitis or pulmonary fibrosis) or evidence of interstitial lung disease on baseline chest computed tomography (CT) scan\n* Active inflammatory bowel disease or other bowel disease causing chronic diarrhea (defined as \\> Common Terminology Criteria for Adverse Events (CTCAE version 3) grade 2\n* Clinically significant cardiovascular disease (including myocardial infarction, unstable angina, symptomatic congestive heart failure, serious uncontrolled cardiac arrhythmia) \u2264 1 year before enrollment\n* UGT1A1\\*28 TA7/7, TA7/8, TA8/8 genetic polymorphisms; Gilbert's Disease\n* Treatment with CYP3A4 enzyme inhibiting or inducing medications \u2264 2 weeks before enrollment\n* Prior anti-epidermal growth factor receptor (EGFr) antibody therapy (eg, cetuximab) or treatment with small molecule EGFr inhibitors (eg, gefitinib, erlotinib, lapatinib)\n* Systemic chemotherapy, hormonal therapy, immunotherapy, or experimental or approved proteins/antibodies (eg, bevacizumab) \u2264 30 days before enrollment\n* Subjects requiring immunosuppressive agents (eg, methotrexate and cyclosporine), however corticosteroids are allowed\n* Major surgery \\< 28 days prior to enrollment or minor surgery (excluding catheter placement) \\< 14 days before enrollment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum Observed Plasma Concentration (Cmax) of Irinotecan",
+      "timeFrame": "Predose and at 10 minutes, and 0.5, 1, 2, 4, 8, 24, 48, and 72 hours after the end of the irinotecan infusion at cycle 1 (irinotecan alone, week 1 day 1) and cycle 2 (irinotecan with panitumumab, week 3, day 1).",
+      "description": "To analyze the effect, if any, that panitumumab had on the pharmacokinetics of irinotecan, the Cmax of irinotecan administered alone (Cycle 1) and with concomitant panitumumab (Cycle 2) was measured. Plasma samples were assayed by a validated high performance liquid chromatography (HPLC)-fluorescence method for the measurement of irinotecan. The lower limit of quantitation (LLOQ) was 2 ng/mL."
+    },
+    {
+      "measure": "Area Under the Plasma Concentration-time Curve From the Time of Dosing to Infinity (AUCinf) for Irinotecan",
+      "timeFrame": "Predose and at 10 minutes, and 0.5, 1, 2, 4, 8, 24, 48, and 72 hours after the end of the irinotecan infusion at cycle 1 (irinotecan alone, week 1 day 1) and cycle 2 (irinotecan with panitumumab, week 3, day 1).",
+      "description": "To analyze the effect, if any, that panitumumab had on the pharmacokinetics of irinotecan, the AUCinf of irinotecan administered alone (Cycle 1) and with concomitant panitumumab (Cycle 2) was measured."
+    },
+    {
+      "measure": "Area Under the Plasma Concentration-time Curve From the Time of the Last Quantifiable Concentration (AUClast) for Irinotecan",
+      "timeFrame": "Predose and at 10 minutes, and 0.5, 1, 2, 4, 8, 24, 48, and 72 hours after the end of the irinotecan infusion at cycle 1 (irinotecan alone, week 1 day 1) and cycle 2 (irinotecan with panitumumab, week 3, day 1).",
+      "description": "To analyze the effect, if any, that panitumumab had on the pharmacokinetics of irinotecan, the AUClast of irinotecan administered alone (Cycle 1) and with concomitant panitumumab (Cycle 2) was measured."
+    },
+    {
+      "measure": "Number of Participants With Clinically Significant Adverse Events (AEs)",
+      "timeFrame": "The reporting time frame for Adverse Events is from first dose date to 30 days since the last dose date, until the data cut-off date of 16 July 2009. The median time frame is 5.7 months.",
+      "description": "Adverse events of special interest include infusion reactions, integument toxicities, diarrhea, stomatitis, hypomagnesemia, and pulmonary, vascular, and cardiac toxicities. Infusion reactions were defined as 1. Prespecified signs and symptoms indicating a possible infusion reaction (derived from Common Terminology Criteria for Adverse Events (CTCAE) definitions of allergic reaction/hypersensitivity and cytokine release syndrome/acute infusion reaction) with onset day coincident with any study drug infusion and which resolved the day of, or the day after, onset; 2. incidence of AE with terms consistent with the panitumumab US package insert (USPI) (any event within 24 hours of an infusion during the clinical study described as allergic reaction or anaphylactoid reaction, or any event occurring on the first day of dosing described as allergic reaction, anaphylactoid reaction, fever, chills, or dyspnea).\n\nData are summarized overall and by treatment phase."
+    }
+  ],
+  "sponsor": "Amgen",
+  "collaborators": [],
+  "start_date": "2008-03",
+  "completion_date": "2010-06",
+  "last_updated": "2016-03-14"
+}

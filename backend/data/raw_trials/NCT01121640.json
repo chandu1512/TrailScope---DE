@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT01121640",
+  "brief_title": "A Trial Using Novel Markers to Predict Malignancy in Elevated-Risk Women",
+  "official_title": "A Randomized Controlled Trial Using Novel Markers to Predict Malignancy in Elevated-Risk Women",
+  "brief_summary": "The Novel Markers Trial will compare the safety, feasibility and effectiveness of two different epithelial ovarian cancer screening strategies that use CA125 and add HE4 as either a first or second line screen. This study is the next step in a larger research effort to develop a blood test that can be used as a screening method for the early detection of epithelial ovarian cancer.",
+  "detailed_description": "Epithelial ovarian cancer (EOC) is usually lethal unless it is diagnosed at an early stage, thus early detection is likely to play an important role in reducing its mortality. Within the Ovarian Specialized Programs of Research Excellence Pacific Ovarian Cancer Research Consortium (POCRC) researchers have been working for a decade to discover, develop, and validate biomarkers (proteins or substances found in blood) that could help save lives by detecting EOC early. During the last five years several biomarkers, including CA125, have been evaluated for their ability to detect EOC at an earlier stage. The best markers will now be studied in a new randomized controlled trial of ovarian cancer screening.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 854,
+  "conditions": [
+    "Epithelial Ovarian Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "CA125 assay on Abbott Architect i1000SR platform",
+      "type": "PROCEDURE",
+      "description": "Bead-based sandwich ELISA style assay"
+    },
+    {
+      "name": "HE4 assay on Architect i1000SR platform",
+      "type": "PROCEDURE",
+      "description": "Bead-based sandwich ELISA style assay"
+    },
+    {
+      "name": "Transvaginal Ultrasound",
+      "type": "PROCEDURE",
+      "description": "Sonogram will be obtained only if confirmatory markers are elevated. Exam is restricted to ovarian evaluation."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nRisk Group 1, Women ages 25 - 80:\n\n* The subject has tested positive for a deleterious germ line mutation in BRCA1 or BRCA2.\n\nRisk Group 2, Women ages 35 - 80, Pedigree conditions can be satisfied by multiple primary cancers in the same person:\n\n* The subject has a personal history of breast cancer diagnosed before or at age 50.\n* OR the subject has a personal history of bilateral breast cancer\n* OR the subject has one first-degree relative with breast cancer diagnosed before or at age 50.\n* OR the subject has two breast cancers in the first or second degree relatives, same lineage, with at least one breast cancer diagnosed before or at age 50.\n* OR the subject has three or more first or second degree relatives, same lineage, with breast cancer diagnosed at any age.\n* OR The family contains at least one ovarian cancer diagnosed at any age in the first or second degree relatives.\n* OR the subject is of Ashkenazi ancestry and has had breast cancer diagnosed at any age.\n* OR The subject is of Ashkenazi Jewish ethnicity and has one first or second degree relative with breast cancer diagnosed at any age (must be in the same lineage as the Ashkenazi ancestry)\n* OR The subject has a male relative with breast cancer diagnosed at any age\n* OR The subject has a personal history of a positive genetic test result for a deleterious germline mutation in the P53 gene.\n* OR The subject has tested positive for a deleterious germline mutation in one of the DNA mismatch repair (MMR) genes associated with the Hereditary Non-Polyposis Colorectal Cancer Syndrome (HNPCC, also known as Lynch Syndrome) The MMR genes include MLH1, MSH2, MSH6 and PMS2.\n* OR the subject has a first or second degree relative with an identified deleterious germline BRCA1 or BRCA2 mutation, but has not yet undergone testing herself.\n* OR the subject has a first or second degree relative with an identified deleterious germline MMR gene mutation, but has not yet undergone testing herself.\n* OR Probability of carrying a BRCA1 or BRCA2 mutation given family pedigree of breast and ovarian cancers exceeds 20% by any existing BRCA mutational probability model.\n\nRisk Group 3, Women ages 45 - 80:\n\n* Have measurement of CA125, HE4, MMP7 or Mesothelin exceeding the 95th percentile;\n* OR have a relative risk of at least 2 based on the EpiRisk logistic regression model including age, family history, and other risk factors.\n\nExclusion Criteria:\n\n* Removal of both ovaries for any reason.\n* History of ovarian, fallopian tube cancer or peritoneal carcinomatosis.\n* Currently pregnant.\n* Unable or unwilling to provide informed consent.\n* Unwilling to provide the name of a physician.\n* Unwilling to sign informed consent and/or medical records release form.\n* Current untreated malignancy (other than non-melanoma skin cancer).\n* Currently receiving adjuvant chemotherapy or radiation therapy for cancer (except tamoxifen or aromatase inhibitors +/- lupron). Patients who are being treated may enroll 3 months after completion of last treatment.\n* Intraperitoneal surgery within the last 3 months (laparoscopy or laparotomy).\n* A medical condition that would place subject at risk as a result of the blood donation, including but not limited to bleeding disorders, chronic infectious disease, emphysema or serious anemia.\n* Subject has a family member who is a carrier of a BRCA or MMR gene mutation and the subject has undergone genetic testing that included the family mutation and no mutation was found, and there are no cases of ovarian cancer in the family.",
+    "gender": "FEMALE",
+    "min_age": "25 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Positive predictive value of each of the two screening protocols",
+      "timeFrame": "From first screen through remaining study period",
+      "description": "Calculated as number of women with a significant lesion identified at a protocol-indicated procedure divided by number of women with protocol-indicated surgical procedures performed."
+    }
+  ],
+  "sponsor": "Fred Hutchinson Cancer Center",
+  "collaborators": [
+    "The Marsha Rivkin Center for Ovarian Cancer Research",
+    "Canary Foundation",
+    "Swedish Medical Center",
+    "City of Hope Medical Center",
+    "Cedars-Sinai Medical Center",
+    "Stanford University",
+    "Fox Chase Cancer Center"
+  ],
+  "start_date": "2009-11",
+  "completion_date": "2015-05-07",
+  "last_updated": "2018-12-11"
+}

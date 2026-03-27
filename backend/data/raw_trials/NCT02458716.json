@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT02458716",
+  "brief_title": "Cytoreductive Prostatectomy in Treating Patients With Newly Diagnosed, Metastatic Prostate Cancer",
+  "official_title": "Feasibility of Cytoreductive Prostatectomy in Men Newly Diagnosed With Metastatic Prostate Cancer",
+  "brief_summary": "This phase I trial studies the side effects of cytoreductive prostatectomy in treating patients with newly diagnosed prostate cancer that has spread from the primary site to other places in the body. Cytoreductive prostatectomy is a type of surgery that removes the prostate and as much of the tumor as possible. When combined with hormone therapy, robotic assisted radical prostatectomy (RARP) or conventional open retropubic radical prostatectomy (RRP) may prolong survival in patients with prostate cancer that has spread.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine the safety and feasibility of cytoreductive prostatectomy (to remove as much of the primary cancer as possible) in men with newly diagnosed clinical T1-3N1M0 or T1-3N0M1a-b prostate cancer (herein, collectively referred to as metastatic prostate cancer).\n\nSECONDARY OBJECTIVES:\n\nI. Time to prostate specific antigen (PSA) nadir and castration resistance following cytoreductive prostatectomy and subsequent standard systemic therapy, androgen deprivation.\n\nOUTLINE:\n\nPatients undergo RARP or conventional open RRP. Immediately following surgery, patients receive standard systemic androgen deprivation therapy.\n\nAfter completion of study treatment, patients are followed up every 90 days for 3 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 26,
+  "conditions": [
+    "Metastatic Prostate Carcinoma",
+    "Metastatic Prostatic Adenocarcinoma",
+    "Prostate Carcinoma Metastatic to the Bone"
+  ],
+  "interventions": [
+    {
+      "name": "Robotic Assisted Radical Prostatectomy",
+      "type": "PROCEDURE",
+      "description": "Undergo RARP"
+    },
+    {
+      "name": "Conventional open retropubic radical prostectomy",
+      "type": "PROCEDURE",
+      "description": "Undergo conventional open RRP"
+    },
+    {
+      "name": "Laboratory Biomarker Analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "Quality-of-Life Assessment",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "ADT (androgen deprivation therapy) (i.e. leuprolide) plus an androgen receptor inhibitor (i.e. bicalutamide)",
+      "type": "DRUG",
+      "description": "LHRH agonist or antagonist (i.e. leuprolide) plus an androgen receptor inhibitor (i.e. bicalutamide)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically proven adenocarcinoma of the prostate\n* Evidence of lymph node or bone metastasis by magnetic resonance imaging (MRI)/computed tomography (CT), bone scan, or biopsy (N1Mx or NxM1)\n* Give informed consent\n* Clinical stage T3 or less (pelvic MRI shows no rectal and ureteral invasion)\n* Cleared by the primary medical doctor for surgery\n* No prior systemic therapy for metastatic prostate cancer\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n\nExclusion Criteria:\n\n* Refuses to give informed consent\n* Refuses or is unable to have pelvic MRI\n* Clinical stage T4 (pelvic MRI shows rectal and/or ureteral invasion)\n* Deemed a poor surgical risk per primary medical doctor\n* Received prior therapeutic intervention for metastatic prostate cancer\n* Known spinal cord compression or brain or liver metastasis\n* Deep vein thrombosis (DVT)/pulmonary embolism (PE) in the past 6 months",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Rate of major peri-operative complications defined as Clavien-Dindo grade III or higher",
+      "timeFrame": "Within 90 days after cytoreductive prostatectomy",
+      "description": "Rate will be calculated for the primary end point, and one-sided Binomial test will be used to compare the rate to the hypothesized value. Descriptive statistics will be provided. Any further statistical analysis deemed necessary to calculate significant findings will be done with the assistance of the Rutgers Cancer Institute of New Jersey Biostatistics Section."
+    }
+  ],
+  "sponsor": "Rutgers, The State University of New Jersey",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Rutgers Cancer Institute of New Jersey"
+  ],
+  "start_date": "2015-03-06",
+  "completion_date": "2020-01-14",
+  "last_updated": "2021-04-07"
+}

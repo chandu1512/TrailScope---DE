@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT02264990",
+  "brief_title": "Study Comparing Veliparib Plus Carboplatin and Paclitaxel Versus Investigator's Choice of Standard Chemotherapy in Adults Receiving First Cytotoxic Chemotherapy for Metastatic or Advanced Non-Squamous Non-Small Cell Lung Cancer (NSCLC) and Who Are Current or Former Smokers",
+  "official_title": "A Randomized, Open-Label, Multicenter, Phase 3 Trial Comparing Veliparib Plus Carboplatin and Paclitaxel Versus Investigator's Choice of Standard Chemotherapy in Subjects Receiving First Cytotoxic Chemotherapy for Metastatic or Advanced Non-Squamous Non-Small Cell Lung Cancer (NSCLC) and Who Are Current or Former Smokers",
+  "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of veliparib plus carboplatin and paclitaxel versus the Investigator's choice of standard chemotherapy in adults with metastatic or advanced non-squamous non-small cell lung cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 595,
+  "conditions": [
+    "Non-squamous Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Administered by Intravenous infusion on Day 1 of each 21-day cycle"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Administered by Intravenous infusion on Day 1 of each 21-day cycle"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Administered by Intravenous infusion on Day 1 of each 21-day cycle"
+    },
+    {
+      "name": "Veliparib",
+      "type": "DRUG",
+      "description": "Oral capsule, administered twice daily for 7 days in each 21-day cycle"
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": "Administered by Intravenous infusion on Day 1 of each 21-day cycle"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subject must be \u2265 18 years of age with life expectancy \\> 12 weeks.\n* Subject must have cytologically or histologically confirmed advanced or metastatic non-squamous NSCLC and are current or former smokers.\n* Subject must have NSCLC that is not amenable to surgical resection or radiation with curative intent at time of screening.\n* Subject must have at least 1 unidimensional measurable NSCLC lesion on a computed tomography (CT) scan as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1.\n\nExclusion Criteria:\n\n* Subject has a known hypersensitivity to paclitaxel or to other drugs formulated with polyethoxylated castor oil (Cremophor).\n* Subject has a known hypersensitivity to platinum compounds.\n* Subject has peripheral neuropathy \u2265 grade 2.\n* Subject has squamous NSCLC, or an untreated known epidermal growth factor receptor (EGFR) mutation of exon 19 deletion or L858R mutation in exon 21, or a known anaplastic lymphoma kinase (ALK) gene rearrangement.\n* Subject has received prior cytotoxic chemotherapy or chemoradiotherapy for NSCLC.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "MD Anderson Cancer Center at Cooper - Camden /ID# 131490",
+      "city": "Camden",
+      "state": "New Jersey",
+      "zip": "08103",
+      "status": ""
+    },
+    {
+      "facility": "Albert Einstein Medical Center /ID# 134498",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19141",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny General Hospital /ID# 134049",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS) in the Lung Subtype Panel Positive Subgroup",
+      "timeFrame": "From randomization up to the data cut-off date of 15 July 2019; median follow-up time was 44.5 and 45.3 months in LSP+ participants for the investigator's choice chemotherapy and veliparib + C/P arms, respectively.",
+      "description": "Overall survival is defined as the time from the date that the participant was randomized to the date of the participant's death. Overall survival was estimated using Kaplan-Meier methodology. Participants still alive at the data cut-off date were censored at the date they were last known to be alive."
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [],
+  "start_date": "2014-09-30",
+  "completion_date": "2020-02-21",
+  "last_updated": "2021-02-08"
+}

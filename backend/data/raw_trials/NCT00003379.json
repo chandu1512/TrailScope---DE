@@ -1,0 +1,91 @@
+{
+  "nct_id": "NCT00003379",
+  "brief_title": "Radiation Therapy Plus Paclitaxel and Cisplatin in Treating Patients With Cervical Cancer",
+  "official_title": "A Phase I/II Study Of Whole Pelvic Radiation Therapy With Concomitant Paclitaxel and Cisplatin Chemotherapy in Patients With Cervical Carcinoma (Stages I-IV) Limited to the Pelvis",
+  "brief_summary": "RATIONALE: Radiation therapy uses high-energy x-rays to damage tumor cells. Paclitaxel and cisplatin may increase the effectiveness of radiation therapy by making the tumor cells more sensitive to radiation. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining radiation therapy with chemotherapy may kill more tumor cells.\n\nPURPOSE: Phase I/II trial to study the effectiveness of radiation therapy to the pelvis plus paclitaxel and cisplatin in treating patients who have cervical cancer.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the toxicity of radiotherapy plus paclitaxel and cisplatin used as radiosensitization in patients with stage IB2, IIA, IIB, IIIB, or IVA invasive carcinoma of the cervix.\n* Determine the maximum tolerated dose of paclitaxel when combined with cisplatin plus radiotherapy in these patients.\n* Determine the effects of this regimen at the maximum tolerated dose on progression-free survival and overall survival in these patients.\n* Determine the site of local or distant recurrence in these patients after treatment with this regimen.\n\nOUTLINE: This is a dose escalation study of paclitaxel.\n\nPatients undergo external beam radiotherapy (RT) to the pelvic region 5 days a week during weeks 1-5. Patients receive paclitaxel IV over 1 hour immediately followed by cisplatin concurrently with pelvic field radiotherapy on days 1, 8, 15, 22, 29, and 36. Patients undergo low-dose rate (LDR) OR high-dose rate (HDR) brachytherapy. For patients undergoing LDR brachytherapy, intracavitary implants are inserted 1 or 2 times within 3 weeks after completion of external beam RT. For patients undergoing HDR brachytherapy, intracavitary implants are inserted once a week for 5 weeks beginning during week 4 of external beam RT. Patients may receive a parametrial boost.\n\nCohorts of 3-6 patients receive escalating doses of paclitaxel until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity. Once the MTD is determined, additional patients are accrued and treated at the MTD as above.\n\nPatients are followed every 3 months for 2 years, every 6 months for 3 years, and then annually thereafter or at time of recurrence until death.\n\nPROJECTED ACCRUAL: A total of 20-40 patients will be accrued for this study within 3-7 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 40,
+  "conditions": [
+    "Cervical Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "cisplatin",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "paclitaxel",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "brachytherapy",
+      "type": "RADIATION",
+      "description": ""
+    },
+    {
+      "name": "radiation therapy",
+      "type": "RADIATION",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven stage IB2, IIA, IIB, IIIB, or IVA invasive carcinoma of the uterine cervix\n\n  * Any cell type\n* No metastases to para-aortic lymph nodes, scalene nodes, or to other organs outside the radiation field at time of original staging\n* Study entry required within 8 weeks of diagnosis\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nPerformance status:\n\n* GOG 0-2\n\nLife expectancy:\n\n* More than 6 months\n\nHematopoietic:\n\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin no greater than 1.5 times normal\n* SGOT no greater than 3 times normal\n\nRenal:\n\n* Creatinine less than 2.0 mg/dL\n* No renal abnormalities (e.g., pelvic kidney, horseshoe kidney, or renal transplantation) that would require modification of radiation fields\n\nOther:\n\n* Not pregnant\n* No septicemia or severe infection\n* No other invasive malignancy within the past 3 years except nonmelanomatous skin cancer\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No prior biologic therapy\n\nChemotherapy:\n\n* No prior chemotherapy for this or any prior malignancy\n\nEndocrine therapy:\n\n* No prior endocrine therapy\n\nRadiotherapy:\n\n* No prior pelvic or abdominal radiotherapy for this malignancy\n* No prior radiotherapy for any other prior malignancy\n* No more than 1 month interval between surgery and radiotherapy\n\nSurgery:\n\n* See Radiotherapy\n\nOther:\n\n* No other prior therapy for this malignancy\n* Stent or nephrostomy tube required if ureteral obstruction present",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "CCOP - Christiana Care Health Services",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Warren Grant Magnuson Clinical Center - NCI Clinical Studies Support",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892-1182",
+      "status": ""
+    },
+    {
+      "facility": "Cooper University Hospital",
+      "city": "Camden",
+      "state": "New Jersey",
+      "zip": "08103-1489",
+      "status": ""
+    },
+    {
+      "facility": "CCOP - Geisinger Clinic and Medical Center",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822-2001",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Center at Magee-Womens Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213-3180",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [],
+  "sponsor": "Gynecologic Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "1999-11",
+  "completion_date": "",
+  "last_updated": "2013-05-24"
+}

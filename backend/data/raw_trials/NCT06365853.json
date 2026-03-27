@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT06365853",
+  "brief_title": "A Study of Ocular Toxicity Evaluation and Mitigation During Treatment With Mirvetuximab Soravtansine in Participants With Recurrent Ovarian Cancer With High Folate Receptor-Alpha Expression",
+  "official_title": "A Randomized Phase 2 Study of Ocular Toxicity Evaluation and Mitigation During Treatment With Mirvetuximab Soravtansine in Patients With Recurrent Ovarian Cancer With High Folate Receptor-Alpha Expression",
+  "brief_summary": "The purpose of this study is to evaluate the incidence rate and severity of prespecified mirvetuximab soravtansine (MIRV)-related ocular treatment-emergent adverse events (TEAEs) and assess prophylaxis strategies in all participants (symptomatic and asymptomatic) undergoing prospective ophthalmic evaluation with recurrent ovarian cancer (participants with either platinum-sensitive ovarian cancer \\[PSOC\\] or platinum-resistant ovarian cancer \\[PROC\\]) with high folate receptor alpha (FR\u03b1) expression.",
+  "detailed_description": "Participants will be randomized (1:1) to 1 of 2 ocular adverse event (AE) risk mitigation strategy arms (primary prophylactic steroid eye drops versus primary prophylactic vasoconstricting eye drops).",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 100,
+  "conditions": [
+    "Recurrent Ovarian Cancer",
+    "Folate Receptor-Alpha Positive"
+  ],
+  "interventions": [
+    {
+      "name": "Mirvetuximab Soravtansine",
+      "type": "DRUG",
+      "description": "Mirvetuximab soravtansine is an antibody drug conjugate designed to target folate receptor \u03b1 (FR\u03b1). It consists of the humanized anti-FR\u03b1 monoclonal antibody (mAb) M9346A attached via a cleavable disulfide linker to the cytotoxic maytansinoid, DM4."
+    },
+    {
+      "name": "Lubricating Eye Drops",
+      "type": "DRUG",
+      "description": "Lubricating artificial tears should be administered at least 15 minutes after corticosteroid or brimonidine eye drop administration."
+    },
+    {
+      "name": "Prednisolone acetate ophthalmic suspension 1% eye drops",
+      "type": "DRUG",
+      "description": "Self-administration of prednisolone acetate ophthalmic suspension 1% eye drops as prescribed by the treating physician."
+    },
+    {
+      "name": "Brimonidine tartrate ophthalmic solution eye drops",
+      "type": "DRUG",
+      "description": "Self-administration of brimonidine tartrate ophthalmic solution eye drops as prescribed by the treating physician."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants must have a confirmed diagnosis of epithelial ovarian, fallopian tube, and primary peritoneal cancer (EOC) with high FR\u03b1 expression.\n* Participant's tumor must be FR\u03b1 positive (FR\u03b1 high) as defined by either the VENTANA FOLR1 (FOLR-2.1) IUO Assay, or the VENTANA FOLR1 ( FOLR1-2.1) RxDx Assay (hereafter collectively termed VENTANA FOLR1 Assay) (\u2265 75% cells exhibit \u2265 2+ membrane staining intensity).\n* Participants with known breast cancer susceptibility gene (BRCA) mutations (tumor or germline) must have received poly (ADP-ribose) polymerase inhibitors (PARPi).\n* Participants must have completed prior therapy within the specified times below:\n\n  1. Systemic antineoplastic therapy \u2265 5 half-lives or 4 weeks (whichever is shorter) before first dose of MIRV;\n  2. Focal radiation completed \u2265 2 weeks before the first dose of MIRV.\n* Participants must have stabilized or recovered (Grade 1 or baseline) from all prior therapy-related toxicities (except alopecia).\n* Women of childbearing potential (WOCBP) must agree to use highly effective contraceptive method(s) while on MIRV and for \u2265 7 months after the last dose; and must have a negative pregnancy test \u2264 4 days before the first dose of MIRV.\n\nExclusion Criteria:\n\n* Participants with borderline ovarian tumor or non-epithelial histology or mixed histology including borderline or non-epithelial histology will be excluded.\n* PROC participants with primary platinum-refractory disease, defined as disease that did not respond to (complete response \\[CR\\] or partial response \\[PR\\]) or progressed within \u2264 3 months of the last dose of first line platinum-containing chemotherapy.\n* Participants with \\> Grade 1 peripheral neuropathy per National Cancer Institute-Common Terminology Criteria for Adverse Events version 5.0 (NCI-CTCAE v5.0).\n* Participants with significant active or chronic corneal disorders (for example, corneal dystrophies, degenerations, limbal stem cell deficiency), history of corneal transplantation, significant ocular inflammatory conditions (for example, active or recurrent uveitis), or other active ocular conditions requiring ongoing treatment/monitoring, such as uncontrolled glaucoma, active diabetic retinopathy with macular edema, macular degeneration requiring treatment \u2264 90 days before first dose, presence of papilledema, best corrected visual acuity (BCVA) worse than 20/70 in either eye, or monocular vision.\n* Participants receiving corticosteroid or vasoconstricting eyedrops at baseline or within 5 weeks of Cycle 1 Day 1.\n* Participants who received prior treatment with MIRV or other FR\u03b1-targeting agents. Note: Other protocol-defined inclusion and exclusion criteria may apply.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Holy Cross Hospital - Silver Spring /ID# 269344",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20910",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Holy Name Medical Center /ID# 269340",
+      "city": "Teaneck",
+      "state": "New Jersey",
+      "zip": "07666",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With MIRV-related Corneal TEAEs (\u2265 Grade 2) in Asymptomatic Participants",
+      "timeFrame": "Cycle 1 Day 1 up to 18 weeks or at the 30-day follow-up visit, whichever is earlier (cycle length = 21 days)",
+      "description": "This endpoint will be assessed in the participants receiving MIRV who are asymptomatic ."
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [],
+  "start_date": "2024-07-29",
+  "completion_date": "2027-06",
+  "last_updated": "2026-03-23"
+}

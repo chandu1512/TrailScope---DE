@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT03102320",
+  "brief_title": "Phase 1b Multi-indication Study of Anetumab Ravtansine in Mesothelin Expressing Advanced Solid Tumors",
+  "official_title": "Phase 1b Multi-indication Study of Anetumab Ravtansine (BAY94-9343) in Patients With Mesothelin Expressing Advanced or Recurrent Malignancies",
+  "brief_summary": "The key purpose of the main part of the study is to assess efficacy and safety of anetumab ravtansine as monotherapy or combination therapy for mesothelin expressing advanced solid tumors.\n\nThe main purpose of the safety lead-in (dose-finding) part of the study is to determine the safety and tolerability of anetumab ravtansine in combination with cisplatin and in combination with gemcitabine, and to determine the MTD of anetumab ravtansine in combination with cisplatin for mesothelin expressing advanced cholangiocarcinoma and in combination with gemcitabine for mesothelin expressing advanced adenocarcinoma of the pancreas.\n\nPatients will receive anetumab ravtansine every three weeks in monotherapy for most indications. In cholangiocarinoma and adenocarinoma of the pancreas, 3-weekly anetumab ravtansine is administered in combination with cisplatin or gemcitabine respectively (both administered in a 2 week on / 1 week off schedule).\n\nTreatment will continue until disease progression or until another criterion for withdrawal is met. .Efficacy will be measured by evaluating the tumor's objective response rate. Radiological tumor assessments will be performed at defined time points until the patient's disease progresses.\n\nBlood samples will be collected for safety, pharmacokinetic and biomarker analysis. Archival or fresh biopsy tissue will also be collected for mesothelin expression testing and biomarker analyses.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 173,
+  "conditions": [
+    "Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Cisplatin 25 mg/m2 IV administered on day 1 and day 8 of 21 day cycle, for up to maximum 6 cycles"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Gemcitabine 1000 mg/m2 IV administered on days 1 and 8 of a 21-day cycle"
+    },
+    {
+      "name": "Anetumab ravtansine (BAY94-9343)",
+      "type": "DRUG",
+      "description": "Anetumab ravtansine 6.5mg/kg IV in monotherapy indications. For combination indications, the MTD determined in safety lead in phase will be administered"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Availability of tumor tissue for mesothelin expression testing and for further biomarker analysis\n* Histologically-confirmed, mesothelin-expressing metastatic or advanced non-metastatic disease (tumour type specific inclusion criteria)\n* At least one measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST 1.1) (or for thymic carcinoma, at least one measurable lesion per International Thymic Malignancy Interest Group (ITMIG) modified RECIST 1.1 criteria\n* Adequate bone marrow, liver, renal and coagulation function\n* Left ventricular ejection fraction (LVEF) \u2265 50% of the lower limit of normal (LLN) according to local institutional ranges\n* Eastern Cooperative Oncology Group (ECOG) 0 or 1\n\nExclusion Criteria:\n\n* Exposure to more than one prior anti-tubulin/microtubule agent\n* Corneal epitheliopathy or any eye disorder that may predispose the patients to this condition\n* Symptomatic Central nervous system (CNS) metastases and/or carcinomatous meningitis\n* Contraindication to both CT and MRI contrast agents\n* Active hepatitis B or C infection\n* Pregnant or breast-feeding patients\n* Tumor type specific exclusion criteria",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Cancer Institute - Maryland",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of patients in the safety lead-in (SLI) phase who completed Cycle 1 or had a DLT and were not replaced.",
+      "timeFrame": "At least 3 weeks after the last patient starts treatment",
+      "description": "During SLI, patients with cholangiocarcinoma received anetumab ravtansine in combination with cisplatin and patients with pancreatic adenocarcinoma received anetumab ravtansine in combination with gemcitabine. The highest dose of anetumab ravtansine that can be given so that not more than 1 out of 6 patients experiences a dose-limiting toxicity (DLT) during the DLT evaluation period were declared as the MTD for anetumab ravtansine in combination with cisplatin or with gemcitabine."
+    },
+    {
+      "measure": "Objective response (qualitative improvement from baseline) of anetumab ravtansine for monotherapy and combination therapy in mesothelin expressing advanced solid tumors",
+      "timeFrame": "Up to approximately 26 months after patient starts treatment",
+      "description": "A patient is a responder if the patient has a best response compared to baseline of complete response (CR) or partial response (PR) among all post-baseline tumor assessments, as determined per RECIST 1.1 criteria (ITMIG modified RECIST 1.1 criteria for thymic carcinoma)"
+    },
+    {
+      "measure": "Durable disease control (lack of progression from baseline) of anetumab ravtansine in indications pancreatic and gastric cancer (co-primary endpoint)",
+      "timeFrame": "Up to approximately 26 months after patient starts treatment",
+      "description": "A patient experiences durable disease control if the patient has a tumor response compared to baseline of CR, PR or stable disease (SD) among the post-baseline tumor assessments made at least 180 days from first treatment, without prior disease progression"
+    }
+  ],
+  "sponsor": "Bayer",
+  "collaborators": [
+    "ImmunoGen, Inc.",
+    "MorphoSys AG"
+  ],
+  "start_date": "2017-05-26",
+  "completion_date": "2021-07-26",
+  "last_updated": "2022-06-28"
+}

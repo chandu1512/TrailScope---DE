@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT03372057",
+  "brief_title": "A Study of Duvelisib in Participants With Relapsed or Refractory Peripheral T-cell Lymphoma (PTCL)",
+  "official_title": "A Multi-Center, Phase 2, Open-label, Parallel Cohort Study of Efficacy and Safety of Duvelisib in Patients With Relapsed or Refractory Peripheral T-cell Lymphoma (PTCL)",
+  "brief_summary": "This is a multi-center, parallel cohort, open-label, Phase 2 study of duvelisib, an oral dual inhibitor of phosphoinositide-3-kinase-delta, gamma (PI3K-\u03b4,\u03b3), in participants with relapsed/refractory peripheral T-cell lymphoma (PTCL).",
+  "detailed_description": "The study had 2 phases, a Dose Optimization Phase and an Expansion Phase.\n\nIn the Dose Optimization Phase, participants were randomly assigned to 1 of 2 study cohorts, as follows:\n\n* Cohort 1: Duvelisib per oral (PO) twice daily (BID) at a starting dose of 25 milligrams (mg), with potential escalation on a per-participant basis to 50 mg and then 75 mg, based on the participant's response to and tolerance of therapy, in 28-day cycles.\n* Cohort 2: Duvelisib 75 mg PO BID, administered in 28-day cycles.\n\nA total of 20 participants were to be enrolled in the Dose Optimization Phase, with 10 participants per cohort. Based on the safety and activity data obtained in the Dose Optimization Phase of the study, the Expansion Phase dose of duvelisib was to be determined.\n\nIn the Expansion Phase, approximately 100-130 participants were to be enrolled and receive duvelisib dose in 28-day cycles as determined in Dose Optimization Phase.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 156,
+  "conditions": [
+    "Peripheral T-cell Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "Duvelisib",
+      "type": "DRUG",
+      "description": "Duvelisib PO 25 mg BID or 50 mg BID or 75 mg BID in 28-day cycles."
+    },
+    {
+      "name": "Duvelisib",
+      "type": "DRUG",
+      "description": "Duvelisib PO 75 mg BID in 28-day cycles."
+    },
+    {
+      "name": "Duvelisib",
+      "type": "DRUG",
+      "description": "Duvelisib PO BID in 28-day cycles (dose determined in Optimization Phase)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age \u2265 18 years of age\n2. Diagnosis of one of the following histologic subtypes of PTCL, pathologically confirmed, as defined by the World Health Organization:\n\n   1. Peripheral T-cell lymphoma-not otherwise specified;\n   2. Angioimmunoblastic T-cell lymphomas;\n   3. Anaplastic large cell lymphoma (ALCL); or\n   4. Natural-killer/T-cell lymphoma\n3. Received at least 2 cycles of one standard regimen for newly diagnosed advanced PTCL, and one of the following:\n\n   1. failed to achieve at least a PR after 2 or more cycles of standard therapy;\n   2. failed to achieve a CR after completion of standard therapy; and/or\n   3. persistent or progressive disease after an initial response\n4. For participants with CD30+ ALCL, failed or are ineligible or intolerant to brentuximab vedotin\n5. Measurable disease as defined by Lugano for PTCL, that is, at least 1 measurable disease lesion \\> 1.5 centimeters in at least one dimension by conventional techniques (fluorine-18 fluorodeoxyglucose positron emission tomography/computed tomography \\[CT\\], CT with contrast, magnetic imaging resonance)\n\nExclusion Criteria:\n\n1. Primary leukemic PTCL subtypes (that is, T-cell prolymphocytic leukemia, T-cell large granular lymphocytic leukemia, adult T-cell leukemia/lymphoma and aggressive NK-cell leukemia) or transformed mycosis fungoides\n2. Received prior allogeneic transplant\n3. Received prior treatment with a PI3K inhibitor\n4. Known central nervous system involvement by PTCL\n5. Ongoing treatment with chronic immunosuppressants (e.g., cyclosporine) or systemic steroids \\> 20 mg of prednisone (or equivalent) once daily\n6. Ongoing treatment for systemic bacterial, fungal, or viral infection at Screening\n7. Known hypersensitivity to duvelisib and/or its excipients",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "20742",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response Rate (ORR) as Assessed by the Investigator Using the Lugano Criteria",
+      "timeFrame": "56 days (2 cycles; 28-day cycles)",
+      "description": "ORR was defined as the percentage of participants with CR + PR, as assessed by the investigator using the Lugano criteria, for participants receiving the optimal dose of duvelisib for at least one cycle of study therapy."
+    },
+    {
+      "measure": "ORR as Assessed by the Independent Review Committee (IRC) Using the Lugano Criteria",
+      "timeFrame": "56 days (2 cycles; 28-day cycles)",
+      "description": "ORR was defined as the percentage of participants with CR + PR, as assessed by the IRC using the Lugano criteria, for participants receiving the optimal dose of duvelisib for at least one cycle of study therapy."
+    }
+  ],
+  "sponsor": "SecuraBio",
+  "collaborators": [],
+  "start_date": "2018-02-22",
+  "completion_date": "2023-12-22",
+  "last_updated": "2025-03-05"
+}

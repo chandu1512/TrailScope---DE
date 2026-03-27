@@ -1,0 +1,86 @@
+{
+  "nct_id": "NCT00003943",
+  "brief_title": "Combination Chemotherapy Plus Peripheral Stem Cell Transplantation in Treating Patients With Metastatic Cancer.",
+  "official_title": "A Phase II Trial of High Dose Paclitaxel, Carboplatin and Topotecan With Peripheral Blood Stem Cell Support in Extensive Stage Small Cell Cancer",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining chemotherapy with peripheral stem cell transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill more tumor cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combination chemotherapy plus peripheral stem cell transplantation in treating patients who have metastatic cancer.",
+  "detailed_description": "OBJECTIVES: I. Evaluate one year progression free survival, complete response rate, and overall survival in patients with metastatic small cell cancer treated with high dose paclitaxel, carboplatin, and topotecan with peripheral blood stem cell support. II. Assess the safety of this treatment regimen in this patient population.\n\nOUTLINE: Patients receive cyclophosphamide IV over 1 hour, followed by paclitaxel IV over 24 hours on day 1 and filgrastim (G-CSF) subcutaneously beginning on day 3 and continuing through the day prior to the last collection day. Peripheral blood stem cells (PBSC) are collected over 3-5 days. Beginning approximately 21 days following mobilization, patients receive paclitaxel IV over 24 hours on day 1, immediately followed by carboplatin IV over 2 hours and topotecan IV over 24 hours on day 2, then G-CSF subcutaneously beginning on day 4 and continuing until blood counts recover. PBSC are reinfused on day 5. Patients receive 1/3 of PBSC with each course. Treatment repeats every 4 weeks for 3 courses in the absence of unacceptable toxicity. Patients are followed at week 8 after treatment, then every 3 months for 2 years, every 6 months for 2 years, and then annually thereafter.\n\nPROJECTED ACCRUAL: A total of 25 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 3,
+  "conditions": [
+    "Carcinoma of Unknown Primary",
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "filgrastim",
+      "type": "BIOLOGICAL",
+      "description": "5 ug/kg"
+    },
+    {
+      "name": "carboplatin",
+      "type": "DRUG",
+      "description": "AUC 5"
+    },
+    {
+      "name": "cyclophosphamide",
+      "type": "DRUG",
+      "description": "3 gm/m2"
+    },
+    {
+      "name": "paclitaxel",
+      "type": "DRUG",
+      "description": "250 mg/m2"
+    },
+    {
+      "name": "topotecan hydrochloride",
+      "type": "DRUG",
+      "description": "10 mg/m2"
+    },
+    {
+      "name": "peripheral blood stem cell transplantation",
+      "type": "PROCEDURE",
+      "description": "harvest via apheresis"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS: Histologically confirmed small cell carcinoma Any primary site or unknown primary site Extensive or metastatic disease Lung primaries must have at least one of the following: Contralateral hilar adenopathy Contralateral supraclavicular adenopathy Malignant pleural effusion Distant metastases No brain metastases or CNS involvement Stable or responding disease to prior standard therapy allowed Measurable or evaluable disease prior to standard therapy\n\nPATIENT CHARACTERISTICS: Age: 18 and over Performance status: 0-1 Life expectancy: Not specified Hematopoietic: Absolute neutrophil count at least 1,500/mm3 Platelet count at least 100,000/mm3 Hepatic: Bilirubin less than 2.0 mg/dL Transaminases no greater than 2 times upper limit of normal Renal: Creatinine no greater than 1.5 mg/dL OR Creatinine clearance at least 60 mL/min No overt renal failure Cardiovascular: Ejection fraction at least 45% No myocardial infarction within past 6 months No congestive heart failure No significant cardiac arrhythmia No poorly controlled hypertension Pulmonary: FEV1 and DLCO at least 45% predicted No severe pulmonary disease Other: HIV negative No AIDS No other prior or concurrent malignancies within the past 5 years except basal or squamous cell skin cancer No severe medical illness (e.g., active peptic ulcer disease or brittle or uncontrolled insulin dependent diabetes) No severe or uncontrolled psychiatric illness (e.g., severe depression) No history of drug abuse Not pregnant or nursing Negative pregnancy test Fertile patients must use effective contraception 3 months prior to, during and 3 months after study No hypersensitivity to E. coli derivatives\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: 2 prior courses of standard therapy of etoposide and a platinum analog required No other prior chemotherapy Endocrine therapy: Not specified Radiotherapy: Not specified Surgery: At least 3 weeks since prior major surgery",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Oncology Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Determine the one year progression-free survival",
+      "timeFrame": "one year",
+      "description": ""
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "1998-09",
+  "completion_date": "2003-02",
+  "last_updated": "2013-04-16"
+}

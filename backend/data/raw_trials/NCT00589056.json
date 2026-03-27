@@ -1,0 +1,94 @@
+{
+  "nct_id": "NCT00589056",
+  "brief_title": "Nelfinavir, Radiation Therapy, Cisplatin, and Etoposide in Treating Patients With Stage III Non-Small Cell Lung Cancer That Cannot Be Removed By Surgery",
+  "official_title": "A Phase I/II Trial of Protease Inhibitor, Nelfinavir, Given With Concurrent Thoracic Chemoradiotherapy in Patients With Locally-Advanced Non-Small Cell Lung Cancer",
+  "brief_summary": "RATIONALE: Nelfinavir may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Radiation therapy uses high energy x-rays to kill tumor cells. Nelfinavir may make tumor cells more sensitive to radiation therapy. Drugs used in chemotherapy, such as cisplatin and etoposide, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving nelfinavir together with radiation therapy, cisplatin, and etoposide may kill more tumor cells.\n\nPURPOSE: This phase I/II trial is studying the side effects and best dose of nelfinavir when given together with radiation therapy, cisplatin, and etoposide and to see how well they work in treating patients with stage III non-small cell lung cancer that cannot be removed by surgery.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* To determine the dose-limiting toxicities, maximum tolerated dose, and recommended phase II dose of nelfinavir mesylate when administered in combination with concurrent thoracic radiotherapy, cisplatin, and etoposide in patients with unresectable locally advanced non-small cell lung cancer.\n\nSecondary\n\n* To determine the tumor response at 3 months after completion of treatment as measured by RECIST criteria.\n* To assess the inhibition of p-Akt in primary tumor or pathologic lymph nodes and in peripheral blood lymphocytes after 5-10 days of treatment with nelfinavir mesylate.\n* To determine the median overall survival (OS) of patients treated with this regimen.\n* To compare the observed median OS of these patients with the historical median OS of 17 months.\n\nOUTLINE: This is a phase I, dose-escalation study of nelfinavir mesylate followed by a phase II study.\n\n* Phase I: Patients receive oral nelfinavir mesylate twice daily beginning 1-2 weeks before the initiation of chemoradiotherapy and continuing until the completion of radiotherapy. Patients undergo thoracic radiotherapy once daily 5 days a week for 7-8 weeks. Patients also receive cisplatin IV on days 1, 8, 29, and 36 and etoposide IV on days 1-5 and 29-33. After completion of chemoradiotherapy, patients receive two additional courses of cisplatin and etoposide.\n* Phase II: Patients receive nelfinavir mesylate at the maximum tolerated dose determined in phase I and concurrent chemoradiotherapy as in phase I.\n\nPatients undergo blood sample collection periodically for correlative laboratory studies. Patients treated in the phase II portion of the study and those with primary tumors or pathologic lymph nodes easily accessible by core biopsy or mediastinoscopy also undergo tumor tissue biopsies. Blood and tumor tissue samples are analyzed for expression of molecular markers (total Akt and p-Akt ) by immunohistochemistry. The molecular markers are correlated with treatment response.\n\nAfter completion of study treatment, patients are followed at 3, 6, and 12 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 55,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "cisplatin",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "etoposide",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "nelfinavir mesylate",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "protein expression analysis",
+      "type": "GENETIC",
+      "description": ""
+    },
+    {
+      "name": "immunohistochemistry staining method",
+      "type": "OTHER",
+      "description": ""
+    },
+    {
+      "name": "laboratory biomarker analysis",
+      "type": "OTHER",
+      "description": ""
+    },
+    {
+      "name": "biopsy",
+      "type": "PROCEDURE",
+      "description": ""
+    },
+    {
+      "name": "radiation therapy",
+      "type": "RADIATION",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed non-small cell lung cancer\n\n  * Locally advanced (stage III) disease\n  * Unresectable disease\n* Candidate for concurrent definitive chemotherapy and thoracic radiotherapy, as determined by the treating physician\n* No malignant pleural effusion\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-2\n* Absolute neutrophil count \\> 1,500/mm\u00b3\n* Platelet count \\> 100,000/mm\u00b3\n* Bilirubin \u2264 1.5 mg/dL\n* AST or ALT \u2264 2 times upper limit of normal (ULN)\n* Creatinine \u2264 1.5 times ULN\n* FEV\\_1 \\> 600 cc\n* Not pregnant or nursing\n* Negative pregnancy test\n* No weight loss \\> 10% within the past 6 months\n* No known HIV disease\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior thoracic radiotherapy\n* No prior HIV protease inhibitors\n* More than 5 years since prior chemotherapy\n* At least 3 weeks since prior exploratory thoracotomy\n* No concurrent medications that would preclude nelfinavir administration, including any of the following:\n\n  * Amiodarone\n  * Quinidine\n  * Rifampin\n  * Dihydroergotamine\n  * Ergonovine\n  * Ergotamine\n  * Methylergonovine\n  * Hypericum perforatum (St. John's wort)\n  * Lovastatin\n  * Simvastatin\n  * Pimozide\n  * Midazolam\n  * Triazolam",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-4283",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose-limiting Toxicity",
+      "timeFrame": "90 days",
+      "description": "Any grade III or higher toxicity during chemoradiation, per CTCAE"
+    },
+    {
+      "measure": "Maximum Tolerated Dose of Nelfinavir",
+      "timeFrame": "90 days",
+      "description": "As determined by dose escalation rules"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2007-06",
+  "completion_date": "2012-03",
+  "last_updated": "2020-04-22"
+}

@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT01212991",
+  "brief_title": "A Safety and Efficacy Study of Oral MDV3100 in Chemotherapy-Naive Patients With Progressive Metastatic Prostate Cancer",
+  "official_title": "PREVAIL: A MULTINATIONAL PHASE 3, RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED EFFICACY AND SAFETY STUDY OF ORAL MDV3100 IN CHEMOTHERAPY-NA\u00cfVE PATIENTS WITH PROGRESSIVE METASTATIC PROSTATE CANCER WHO HAVE FAILED ANDROGEN DEPRIVATION THERAPY",
+  "brief_summary": "The purpose of this study is to determine the benefit of enzalutamide versus placebo as assessed by overall survival and progression-free survival in patients with progressive metastatic prostate cancer who have failed androgen deprivation therapy but not yet received chemotherapy.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1717,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Enzalutamide",
+      "type": "DRUG",
+      "description": "Participants received enzalutamide 160 mg, administered as four 40-mg capsules, once per day by mouth. Study drug treatment continued until disease progression (evidence of radiographic progression, a skeletal-related event, or clinical progression) and the initiation of a cytotoxic chemotherapy or an investigational agent, unacceptable toxicity, or withdrawal."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Participants received placebo, administered as four capsules, once per day by mouth. Study drug treatment continued until disease progression (evidence of radiographic progression, a skeletal-related event, or clinical progression) and the initiation of a cytotoxic chemotherapy or an investigational agent, unacceptable toxicity, or withdrawal."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Randomized, Double Blind Treatment Period:\n\nInclusion Criteria:\n\n* Histologically confirmed adenocarcinoma of the prostate without neuroendocrine differentiation or small cell features\n* Ongoing androgen deprivation therapy with a GnRH analogue or bilateral orchiectomy\n* Progressive disease despite androgen deprivation therapy as defined by rising PSA levels or progressive soft tissue or bony disease\n* No prior treatment with cytotoxic chemotherapy\n* Asymptomatic or mildly symptomatic from prostate cancer\n\nExclusion Criteria:\n\n* Severe concurrent disease, infection, or co-morbidity that, in the judgment of the Investigator, would make the patient inappropriate for enrollment\n* Known or suspected brain metastasis or active leptomeningeal disease\n* History of another malignancy within the previous 5 years other than curatively treated non-melanomatous skin cancer\n\nOpen-Label Treatment Period:\n\nThe following inclusion criteria apply to patients receiving enzalutamide or placebo during double-blind treatment.\n\nEligible patients must meet all inclusion criteria.\n\n* Received randomized double-blind treatment in PREVAIL;\n* Open-label day 1 visit is within 6 months after this amendment is approved and becomes effective at the study site;\n* Is willing to maintain androgen deprivation therapy with a gonadotropin-releasing hormone (GnRH) agonist/antagonist or has had a bilateral orchiectomy;\n\nThe exclusion criteria apply only to patients starting new treatment with enzalutamide after receiving placebo as randomized treatment. Each patient must not meet any of the following criteria:\n\n* Has taken commercially available enzalutamide (Xtandi);\n* Severe concurrent disease, infection, or co-morbidity that, in the judgment of the Investigator, would make the patient inappropriate for enrollment\n* Known or suspected brain metastasis or active leptomeningeal disease",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania at Perelman Center for Advanced Medicine",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Presbyterian",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "During study period (up to 3 years)",
+      "description": "Overall survival was defined as the time from randomization to death due to any cause. For patients who were alive at the time of the analysis data cutoff, overall survival was censored at the last date the patient was known to be alive or analysis data cutoff date, whichever was first. This included patients who were known to have died after the data analysis cutoff date. Patients with no post-baseline survival information were censored on the date of randomization."
+    },
+    {
+      "measure": "Radiographic Progression-free Survival (rPFS)",
+      "timeFrame": "During study period (up to 20 months)",
+      "description": "Radiographic progression-free survival was defined as the time from randomization to the first objective evidence of radiographic disease progression assessed by independent central radiology review or death due to any cause within 168 days after treatment discontinuation, whichever was first. Radiographic disease progression was evaluated by CT scan or MRI and radionuclide bone scans at regularly scheduled visits. Radiographic disease progression in bone required a confirmatory scan. Radiographic disease progression in soft tissue did not require a confirmatory scan for purposes of analysis. Radiographic disease progression was evaluated by independent central radiology review using RECIST 1.1 for soft tissue disease and PCWG2 guidelines for bone disease. Patients who did not reach the endpoint were censored at their last assessment."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [
+    "Astellas Pharma Inc",
+    "Medivation LLC, a wholly owned subsidiary of Pfizer Inc."
+  ],
+  "start_date": "2010-09-16",
+  "completion_date": "2019-02-14",
+  "last_updated": "2020-03-12"
+}

@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT02768363",
+  "brief_title": "Randomized Controlled Trial of CAN-2409 Immunotherapy During Active Surveillance for Prostate Cancer (ULYSSES)",
+  "official_title": "A Randomized Controlled Trial Of AdV-tk + Valacyclovir Administered During Active Surveillance For Newly Diagnosed Prostate Cancer",
+  "brief_summary": "The purpose of this study is to evaluate the effectiveness of CAN-2409 immunotherapy in patients undergoing active surveillance for localized prostate cancer. CAN-2409 involves the use of aglatimagene besadenovec to kill tumor cells and stimulate a cancer vaccine effect. Killing tumor cells in an immune stimulatory environment induces the body's immune system to detect and destroy cancer cells. CAN-2409 has been well tolerated in previous trials in patients with prostate cancer and other tumor types. Biochemical, pathologic and immune responses have been demonstrated in newly diagnosed and recurrent prostate cancer. The hypothesis is that CAN-2409 can lead to improvement in the clinical outcome for patients with prostate cancer. Participants will be randomized to the CAN-2409 or control arm at a 2:1 ratio. Both arms receive standard of care active surveillance evaluations.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 187,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "aglatimagene besadenovec",
+      "type": "BIOLOGICAL",
+      "description": "Aglatimagene besadenovec will be delivered to the prostate via trans-rectal ultrasound guided injection followed by 14 days of oral prodrug, valacyclovir. The second aglatimagene besadenovec injection will be 2-3 weeks after the first followed by 14 days of valacyclovir."
+    },
+    {
+      "name": "placebo",
+      "type": "BIOLOGICAL",
+      "description": "Placebo will be delivered to the prostate via trans-rectal ultrasound guided injection followed by 14 days of oral prodrug, valacyclovir. The second placebo injection will be 2-3 weeks after the first followed by 14 days of valacyclovir."
+    },
+    {
+      "name": "valacyclovir",
+      "type": "DRUG",
+      "description": "Oral prodrug to be given for 14 days starting the day after each aglatimagene besadenovec or placebo injection."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria include:\n\n* Histologically confirmed adenocarcinoma of the prostate\n* Patients choosing active surveillance\n* Patients meeting definition of NCCN low risk, intermediate risk OR patients having only one NCCN high-risk feature\n\n  * NCCN Low Risk is defined as having all of the following: PSA \\< 10 ng/ml, Gleason \u2264 6, T1-T2a\n  * NCCN Intermediate Risk is defined as having at least one of the following and no high risk features: PSA 10-20 ng/ml, Gleason score =7, T2b-T2c\n  * High Risk with a single high risk feature is defined as having only one of the following: PSA\\>20 ng/ml, Gleason score 8-10, or T3a\n  * Excluded are those in the following risk groups: High risk with more than 1 high risk factor; Locally advanced/very high risk=T3b-T4; Metastatic: N1 or M1\n* Patients must be planning and medically able to tolerate multiple transrectal ultrasound guided injections.\n* ECOG Performance status 0-2\n\nExclusion Criteria include:\n\n* Active liver disease, including known cirrhosis or active hepatitis\n* Patients on systemic corticosteroids (\\>10 mg prednisone per day) or other immunosuppressive drugs\n* Known HIV+ patients\n* Regional lymph node involvement or distant metastases\n* Other current malignancy (except squamous or basal cell skin cancers)\n* Other serious co-morbid illness or compromised organ function that, in the opinion of the investigator, would interfere with treatment or follow up\n* Prior treatment for prostate cancer except TURP. If prior TURP, patients must be deemed able to receive prostate biopsy and multiple intra-prostatic injections by the investigator\n* Patients taking 5-alpha-reductase inhibitors (e.g. finasteride, dutasteride)\n* Patients who had or plan to use ADT or have history of an orchiectomy.\n* Patients who are planning to undergo radical treatment for prostate cancer within 12 months.\n* Known sensitivity or allergic reactions to acyclovir or valacyclovir",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Walter Reed National Military Medical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20889",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Lancaster Urology",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17604",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny Health Network-Triangle Urological Group",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free survival (PFS)",
+      "timeFrame": "Baseline to study completion, approximately 5 years",
+      "description": "Progression-free survival is defined as the time from randomization to evidence of histological disease progression or death due to prostate cancer"
+    }
+  ],
+  "sponsor": "Candel Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2016-05",
+  "completion_date": "2026-12",
+  "last_updated": "2025-07-28"
+}

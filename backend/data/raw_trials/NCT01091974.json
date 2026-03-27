@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT01091974",
+  "brief_title": "Cognitive Behavioral Therapy +/- Armodafinil for Insomnia and Fatigue Following Chemotherapy",
+  "official_title": "Cognitive Behavioral Therapy +/- Armodafinil for Insomnia and Fatigue Following Chemotherapy",
+  "brief_summary": "This is a four-arm, randomized, controlled, clinical trial examining the efficacy of of cognitive behavioral therapy (CBT)-I and armodafinil in reducing insomnia in 226 female breast cancer patients who report sleep disturbances following completion of chemotherapy.",
+  "detailed_description": "Treatment Protocol: CBT-I and armodafinil are being studied in a four-arm, randomized, controlled, clinical trial of 226 cancer survivors with chronic insomnia who are at least one month post treatment. The seven-week intervention is designed to determine the efficacy and acceptability of these treatment strategies in reducing insomnia in cancer survivors. Assessments will be made by questionnaires before, during, and two weeks following the study intervention. All ancillary treatments, as appropriate for control of symptoms caused by the cancer or its treatment may be administered as clinically indicated.\n\nWithdrawal of Sleep Medications: All participants, prior to beginning the baseline data collection phase of the study, must have withdrawn from all sleep medications, including: prescription, over-the-counter, CAM and herbal remedies for at least one week prior to beginning the study.\n\nCBT-I (Arms 3 \\& 4): CBT-I will be provided on an individual basis to all patients in study Arms 3 \\& 4 by a licensed clinical psychologist trained in CBT-I by Dr. Perlis. Subjects in these two study arms will receive 7 weeks of CBT-I, using a structured research grade protocol developed at the UR-SNRL. This manualized intervention, which exists as a published text: Perlis et al., 2005, includes four essential components: Sleep Restriction Therapy, Stimulus Control Instruction, Sleep Hygiene Guidelines, and a session of cognitive therapy.\n\nData Collection: Patients will complete the Insomnia Severity (ISI) at the time of consent and every Friday during weeks 3-11 of the study. A follow-up call by study personnel will be made to each participant not currently receiving CBT-I on each of these Fridays to promote compliance, prompt completion, assess potential side effects of study medication, and answer patient questions.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 138,
+  "conditions": [
+    "Insomnia",
+    "Fatigue",
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "armodafinil",
+      "type": "DRUG",
+      "description": "Armodafinil P.O. daily/47 days (3-days at 50mg, then 40 days at 100mg, then 4 days at 50mg)"
+    },
+    {
+      "name": "Placebo Comparator",
+      "type": "DRUG",
+      "description": "Placebo for 47 days"
+    },
+    {
+      "name": "CBT-I",
+      "type": "BEHAVIORAL",
+      "description": "Seven weekly sessions of cognitive behavioral therapy for insomnia (CBT-I)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Have a diagnosis of cancer.\n2. Be able to understand written and spoken English\n3. Be able to swallow medication\n4. Have preferred sleep phase between 7:30 pm and 11:00 am\n5. Be willing to discontinue any medications/OTCs/Herbals for sleep for the 11-week study period\n6. Be presumed to be in a state of cancer remission; use of tamoxifen, an aromatase inhibitor, and/or Herceptin is permitted\n7. Self-report problems with insomnia for at least three months and that the insomnia began or got worse with the onset of cancer or treatment\n8. Have completed chemotherapy and or radiation not less than one month ago. Note: Both types of treatment must be completed at least one month ago if patient receives chemotherapy and radiation therapy and there is no outer limit to how long ago treatments were completed.)\n9. Report insomnia on the SDS-CL at a frequency of at least 3 days a week\n\nExclusion Criteria:\n\n1. Have ever taken modafinil or had CBT-I therapy. CBT-I therapy for the sake of this protocol will be defined as any cognitive behavioral-based treatment for insomnia that includes a sleep restriction component.\n2. Have an unstable medical or psychiatric illness (Axis I-current or within the last 5 years)\n3. Have a history of seizures or severe headaches, or uncontrolled cardiac disease or hypertension\n4. Be presently taking an anticoagulant or a corticosteroid\n5. Have taken amphetamines (e.g., methylphenidate, pemoline \\[Cylert\u00ae\\] or similar psycho stimulants) within the past 30 days\n6. Be currently pregnant or nursing\n7. Have a history of substance abuse, or meet criteria for current alcohol abuse or dependence as assessed by a CAGE test score \\>=2 or an Alcohol Use Disorders Identification Test (AUDIT) score \\>=13\n8. Have surgery planned within the study period\n9. Have have ever been diagnosed with sleep apnea or have sleep apnea as indicated by endorsing either question 11 (I wake up choking or gasping for air) or question 12 (My bed partner has noticed that I seem to stop breathing) on the Sleep Disorders Symptom Check at the \"Often\" or \"Frequently\" level.",
+    "gender": "ALL",
+    "min_age": "21 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Behavioral Sleep Medicine Program, Department of Psychiatry, University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in Insomnia Severity Index From Baseline to Post-intervention",
+      "timeFrame": "ANCOVA was employed with multiple imputation on the post-intervention score (average of the two post-intervention weeks), controlling for the score at the time of consent (pre).",
+      "description": "The Insomnia Severity Index (ISI) is a commonly used, 7-item psychometrically validated measure used to rate insomnia with 0-7 = absence of insomnia, 8-14 = subthreshold insomnia symptoms, 15-21 = moderate insomnia, and 22-28 = severe insomnia."
+    }
+  ],
+  "sponsor": "University of Rochester",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2008-02",
+  "completion_date": "2013-04",
+  "last_updated": "2016-12-16"
+}

@@ -1,0 +1,99 @@
+{
+  "nct_id": "NCT04685135",
+  "brief_title": "Phase 3 Study of MRTX849 (Adagrasib) vs Docetaxel in Patients With Advanced Non-Small Cell Lung Cancer With KRAS G12C Mutation",
+  "official_title": "A Randomized Phase 3 Study of MRTX849 Versus Docetaxel in Patients With Previously Treated Non-Small Cell Lung Cancer With KRAS G12C Mutation",
+  "brief_summary": "This Phase 3 study will evaluate the efficacy of the investigational agent MRTX849 (adagrasib) versus docetaxel in patients who have been previously treated for metastatic NSCLC with a KRAS G12C mutation.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 453,
+  "conditions": [
+    "Metastatic Non Small Cell Lung Cancer",
+    "Advanced Non Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "MRTX849",
+      "type": "DRUG",
+      "description": "21 day cycles"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "21 day cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of NSCLC with KRAS G12C mutation.\n* Candidacy to receive treatment with docetaxel.\n\nCrossover Inclusion Criteria:\n\n* Evidence of RECIST 1.1 defined disease progression on docetaxel per BICR\n* ECOG performance status 0-2\n\nExclusion Criteria:\n\n* Prior treatment with an agent targeting KRAS G12C (e.g., AMG 510, Sotorasib).\n* Active brain metastases.\n\nCrossover Exclusion Criteria:\n\n* Receipt of any other systemic anti-cancer therapy after last administration of docetaxel on the study.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Frederick Health",
+      "city": "Frederick",
+      "state": "Maryland",
+      "zip": "21702",
+      "status": ""
+    },
+    {
+      "facility": "Astera Cancer Care - East Brunswick",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 012-975 - A",
+      "city": "Edison",
+      "state": "New Jersey",
+      "zip": "08820",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 012-975 - B",
+      "city": "Monroe",
+      "state": "New Jersey",
+      "zip": "08831",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 012-975 - C",
+      "city": "Somerset",
+      "state": "New Jersey",
+      "zip": "08873",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 012-975 - D",
+      "city": "Somerville",
+      "state": "New Jersey",
+      "zip": "08876",
+      "status": ""
+    },
+    {
+      "facility": "Holy Name Medical Center",
+      "city": "Teaneck",
+      "state": "New Jersey",
+      "zip": "07666",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS) as Per Blinded Independent Central Review",
+      "timeFrame": "From randomization to the date of progression or death due to any cause, whichever occurs first (up to approximately 143 weeks)",
+      "description": "Progression-free survival (PFS) is defined as the time from randomization to the date of progression or death due to any cause, whichever occurs first. 95% CI was obtained using Brookmeyer and Crowley method. Participants who are not observed to have progressed or died are censored at the date of last evaluable tumor assessment. Disease progression assessed as per RECISIST 1.1 was defined as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm."
+    }
+  ],
+  "sponsor": "Mirati Therapeutics Inc.",
+  "collaborators": [],
+  "start_date": "2021-02-23",
+  "completion_date": "2026-07-02",
+  "last_updated": "2025-01-20"
+}

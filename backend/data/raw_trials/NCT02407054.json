@@ -1,0 +1,84 @@
+{
+  "nct_id": "NCT02407054",
+  "brief_title": "A Study of Enzalutamide and LY3023414 in Men With Prostate Cancer",
+  "official_title": "A Double-Blinded, Placebo-Controlled, Randomized Phase II Study of Enzalutamide With or Without the PI3 Kinase/mTOR Inhibitor LY3023414 in Men With Metastatic Castration Resistant Prostate Cancer",
+  "brief_summary": "The main purpose of this study is to evaluate the safety and effectiveness of the study drug known as LY3023414 in combination with enzalutamide in men with prostate cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 142,
+  "conditions": [
+    "Prostate Cancer Metastatic"
+  ],
+  "interventions": [
+    {
+      "name": "LY3023414",
+      "type": "DRUG",
+      "description": "Administered orally"
+    },
+    {
+      "name": "Enzalutamide",
+      "type": "DRUG",
+      "description": "Administered orally"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Administered orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate.\n* Metastatic disease documented by positive bone scan or metastatic lesions on computed tomography (CT) or magnetic resonance imaging (MRI) scan.\n* Prostate cancer progression documented by PSA and/or radiographic progression according to prostate cancer working group 2 (PCWG2).\n* Prior abiraterone treatment completed at least 4 weeks prior to cycle 1 day 1. Participants must have failed prior abiraterone treatment.\n* Surgically or medically castrated, with testosterone levels of \\< 50 nanograms/deciliter.\n* Eastern Cooperative Oncology Group (ECOG) Performance status of 0 or 1.\n* Ability to swallow the study drugs whole.\n* Adequate hematologic function.\n* Adequate coagulation parameters, defined as international normalization ratio (INR) \u2264 2.\n* Availability of tumor tissue from any time since diagnosis of prostate cancer disease. If no tumor samples are available the participant might still be eligible following discussion between the investigator and the medical monitor.\n\nExclusion Criteria:\n\n* Prior cytotoxic chemotherapy, immunotherapy, a PI3K/AKT/mTOR agent (including TORC1 and TORC2 inhibitors), or RA 223 dichloride for the treatment of castration resistant prostate cancer (CRPC). Participants may have received docetaxel in the hormone-sensitive setting.\n* Prior investigational new generation potent anti-androgen therapy (such as ARN 509).\n* Prior treatment with enzalutamide.\n* Pathological finding consistent with small cell carcinoma of the prostate.\n* Prior systemic treatment with an azole drug (fluconazole, itraconazole) within 4 weeks of cycle 1 day 1.\n* Known brain metastasis.\n* History of (a) seizure or any condition that may predispose to seizure (prior cortical stroke or significant brain trauma); (b) loss of consciousness or transient ischemic attack within 12 months prior to day 1 of cycle 1.\n* Uncontrolled hypertension (systolic blood pressure \\[BP\\] \u2265 160 millimeters of mercury \\[mmHg\\] or diastolic BP \u2265 95 mmHg).\n* Have serious pre-existing medical conditions (at the discretion of the investigator).\n* Have known acute or chronic leukemia or current hematologic malignancies that, in the judgment of the investigator and sponsor, may affect the interpretation of results.\n* Have insulin-dependent diabetes mellitus. Participants with a type 2 diabetes mellitus are eligible if adequate control of blood glucose level is obtained by oral anti-diabetics as documented by hemoglobin A1c \\<7%.\n* Presence of active gastrointestinal disease or other condition that will interfere significantly with the absorption, distribution, metabolism, or excretion of oral therapy (e.g. ulcerative disease, uncontrolled nausea, vomiting, grade \u22652 diarrhea, and malabsorption syndrome).\n* Have a history of New York Heart Association (NYHA) Class \u22653, QTc interval \\> 480 milliseconds (ms) on screening electrocardiogram (ECG) per Friderica's formula, unstable angina, or myocardial infarction (MI) in 6 months prior to study drug administration.\n* Clinically significant electrolyte imbalance \u2265 grade 2.\n* Currently receiving treatment with therapeutic doses of warfarin sodium.\n* Have initiated treatment with bisphosphonates or approved receptor activator of nuclear factor kappa-B ligand (RANK-L) targeted agents (e.g. denosumab) \u226428 days prior to day 1 of cycle 1.\n* Concurrent serious infections requiring parenteral antibiotic therapy.\n* Have a second primary malignancy that in the judgment of the investigator and medical monitor may affect the interpretation of results.\n* Have an active, known fungal, bacterial, and/or known viral infection.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Garden State Urology",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    },
+    {
+      "facility": "Delaware Valley Urology",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    },
+    {
+      "facility": "Urological Associates of Lancaster",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17604",
+      "status": ""
+    },
+    {
+      "facility": "Univ of Pittsburgh Cancer Inst. (UPCI)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part B: Progression Free Survival (PFS)",
+      "timeFrame": "Randomization to Measured Progressive Disease or Death from Any Cause (Up To 34 Months)",
+      "description": "PFS was defined as the time from randomization until the date of clinical (symptomatic or radiographic) and/or prostate specific antigen (PSA) disease progression per Prostate Cancer Clinical Trials Working Group (PCWG2) or death by any cause regardless of whether the participants withdraws from study drug or receives a subsequent anti-cancer therapy (as determined by the investigator). Participants who have not progressed or died at the time of assessment were censored at the time of the last date of assessment (tumor evaluation or PSA level)."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [
+    "Sarah Cannon"
+  ],
+  "start_date": "2015-04-29",
+  "completion_date": "2020-04-16",
+  "last_updated": "2021-04-17"
+}

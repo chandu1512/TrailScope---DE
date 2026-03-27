@@ -1,0 +1,92 @@
+{
+  "nct_id": "NCT00001832",
+  "brief_title": "Lymphocyte Re-infusion During Immune Suppression to Treat Metastatic Melanoma",
+  "official_title": "Treatment of Patients With Metastatic Melanoma Using Cloned Lymphocytes Following the Administration of a Non-Myeloablative But Lymphocyte Depleting Regimen",
+  "brief_summary": "This experiment will test the safety and effectiveness of a treatment for melanoma in which certain lymphocytes (a type of white blood cell) are taken from the patient, grown in the laboratory, and returned after the patient's immune system has been weakened with immune-suppressing drugs. Some patients will also receive interleukin-2 (IL-2), a drug that may enhance the activity of the re-infused lymphocytes.\n\nPatients with metastatic melanoma (melanoma whose tumor has spread) who have been treated unsuccessfully with gp100 vaccination may participate in this study. They will undergo apheresis or a tumor biopsy, or both, to collect lymphocytes. In apheresis, whole blood is drawn through a needle in the arm. A machine separates the blood components and removes the white cells. The rest of the blood is returned to the donor through a needle in the other arm. A biopsy is a surgical procedure to remove a small piece of tumor tissue.\n\nSeveral weeks before the lymphocytes are collected, patients will receive injections of growth colony stimulating factor (G-CSF) every day for five days. This drug stimulates white cell production, permitting as many cells as possible to be obtained during collection. The lymphocytes will then be grown in larger numbers in the laboratory.\n\nSeven days before the cells are re-infused, the patient is admitted to the hospital and a catheter (small tube) is placed in a large vein in the chest or neck. Two drugs, cyclophosphamide and fludarabine, are given through the tube. These drugs suppress the immune system so that it will not interfere with the work of the reinfused lymphocytes. The lymphocytes are then injected through the catheter over a 30-minute period. After the infusion, patients who receive IL-2 will be given the drug in a high dose over a 15-minute period every eight hours for up to five days. Patients whose condition does not permit high-dose IL-2, such as those with a heart condition or lung problem, may receive a low-dose regimen, with the drug given as a shot under the skin of the thigh or abdomen for five days followed by a 2-day break, continuing for a total of six weeks. These patients receive a higher dose the first week and then half that dose the next five weeks.\n\nBlood and tissue samples will be taken before and during the study to evaluate the size of the tumor and assess treatment. If, 3-5 weeks after therapy is completed, the patient's tumor has stabilized or shrunk, the entire treatment, except for chemotherapy, may be repeated two more times.",
+  "detailed_description": "Patients with metastatic melanoma who are human immunodeficiency virus (HIV) and Hepatitis B negative and who have previously progressed after receiving standard therapy will receive a nonmyeloablative but lymphocyte depleting preparative regimen consisting of cyclophosphamide and fludarabine and then will be treated by the adoptive transfer of lymphocytes reactive with shared antigens on their tumors. This study will evaluate the toxicity, immunologic effects and potential therapeutic role of this treatment.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 170,
+  "conditions": [
+    "Melanoma",
+    "Neoplasm Metastasis"
+  ],
+  "interventions": [
+    {
+      "name": "gp100:209-217 (210M)",
+      "type": "DRUG",
+      "description": "gp100 = gp100:209-217(210M) peptide - 1 mg in IFA SQ (in the subcutaneous tissue of each thigh) on the morning of the cell infusion, plus gp100:209-217(210M) peptide, 1 mg, in IFA injected into the subcutaneous tissue in two equal volumes, 1.0 mL for each injection, within 2cm of each other, in the thigh daily for five days starting on the morning of the cell infusion and then weekly for 3 more injections.\n\nMART-1 = MART-1:26-35(27L) peptide- 1 mg in IFA SQ (in the subcutaneous tissue of each thigh) on the morning of the cell infusion, plus MART-1:26-35(27L) peptide, 1 mg, in IFA injected into the subcutaneous tissue in two equal volumes, 1.0 mL for each injection, within 2cm of each other, in the thigh daily for five days starting on the morning of the cell infusion and then weekly for 3 more injections."
+    },
+    {
+      "name": "Montanide ISA-51",
+      "type": "DRUG",
+      "description": "MART-1 = MART-1:26-35(27L) peptide- 1 mg in IFA SQ (in the subcutaneous tissue of each thigh) on the morning of the cell infusion, plus MART-1:26-35(27L) peptide, 1 mg, in IFA injected into the subcutaneous tissue in two equal volumes, 1.0 mL for each injection, within 2cm of each other, in the thigh daily for five days starting on the morning of the cell infusion and then weekly for 3 more injections."
+    },
+    {
+      "name": "IL-2",
+      "type": "DRUG",
+      "description": "125,000 IU/kg dose intravenous for 5 days for 6 weeks with 2 days rest per week.\n\n720,000 IU/kg intravenous every 8 hours for a maximum of 12 doses."
+    },
+    {
+      "name": "MART-1:26-35(27L)",
+      "type": "DRUG",
+      "description": "MART-1 = MART-1:26-35(27L) peptide- 1 mg in IFA SQ (in the subcutaneous tissue of each thigh) on the morning of the cell infusion, plus MART-1:26-35(27L) peptide, 1 mg, in IFA injected into the subcutaneous tissue in two equal volumes, 1.0 mL for each injection, within 2cm of each other, in the thigh daily for five days starting on the morning of the cell infusion and then weekly for 3 more injections."
+    },
+    {
+      "name": "Abl cells",
+      "type": "BIOLOGICAL",
+      "description": "Abl cells IV = Lymphocytes 10\\^9-10\\^11 IV over 30 minutes on day 0, repeated in 14 to 21 days Abl cells IA = Lymphocytes 10\\^9-10\\^11 IA over 30 minutes on day 0, repeated in 14 to 21 days"
+    },
+    {
+      "name": "Fludarabine",
+      "type": "DRUG",
+      "description": "5x25 mg/m\\^2 intravenous"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "2x30 mg/kg, 2x60 mg/kg intravenous"
+    },
+    {
+      "name": "GCSF (Growth colony stimulating factor)",
+      "type": "BIOLOGICAL",
+      "description": "Beginning on day 1 or 2, GCSF will be administered subcutaneously at a dose of 5mcg/kg/day (not to exceed 300 mcg/day. Filgrastim administration will continue daily until neutrophil count \\> 1.0 x10\\^9/L x 3 days or \\> 5.0 x10\\^9/L."
+    },
+    {
+      "name": "Apheresis",
+      "type": "PROCEDURE",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "* INCLUSION CRITERIA\n* Patients must have evaluable metastatic melanoma that is refractory to standard therapy.\n* Age greater than or equal to 16 years.\n* Patients of both genders must be willing to practice birth control for four months after receiving the preparative regimen.\n* Clinical performance status of Eastern Cooperative Oncology Group (ECOG) 0, 1 at entry to the trial and at the time of chemotherapy induction.\n* Absolute neutrophil count greater than 1000/mm\\^3.\n* Platelet count greater than 100,000/mm\\^3.\n* Hemoglobin greater than 8.0 g/dl.\n* Serum alanine aminotransferase (ALT)/aspartate aminotransferase (AST) less than two times the upper limit of normal.\n* Serum creatinine less than or equal to 1.6 mg/dl.\n* Total bilirubin less than or equal to 1.6 mg/dl, except for patients with Gilbert's Syndrome who must have a total bilirubin less than 3.0 mg/dl.\n* More than four weeks must have elapsed since any prior therapy at the time the patient receives the preparative regimen.\n* Women of child-bearing potential must have a negative pregnancy test because of the potentially dangerous effects of the preparative chemotherapy on the fetus.\n* Life expectancy of greater than three months.\n* No steroid therapy required.\n* Seronegative for human immunodeficiency virus (HIV) antibody. (The experimental treatment being evaluated in this protocol depends on an intact immune system. Patients who are HIV seropositive can have decreased immune competence and thus be less responsive to the experimental treatment and more susceptible to its toxicities.)\n* Seronegative for hepatitis B antigen.\n* Patients to receive high dose interleukin 2 (IL-2) must have no active systemic infections, coagulation disorders or other major medical illnesses of the cardiovascular, respiratory or immune system.\n* Patients who will receive high dose IL-2 as part of the phase I portion of this study or who will be randomized must be eligible to receive high dose IL-2.\n* Any patient receiving IL-2 must sign a durable power of attorney.",
+    "gender": "ALL",
+    "min_age": "7 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "National Cancer Institute (NCI)",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Clinical Response",
+      "timeFrame": "Every three to four weeks after the treatment, for up to 5 years.",
+      "description": "Complete response (CR) is defined as the disappearance of all clinical evidence of disease. Partial response (PR) is a 50% or greater decrease in the sum of the products of perpendicular diameters of all measurable lesions for at least one month. No new lesions may appear, and none may increase. Minor response (MR) is a 25-49% decrease in the sum of the products of the perpendicular diameters of all measurable lesions. Appearance of new lesions following a PR or CR are considered relapses. Patients with progressive disease (PD) and no evidence of stable disease will be taken off study after receiving IL-2."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "1999-08",
+  "completion_date": "2010-05",
+  "last_updated": "2012-12-19"
+}

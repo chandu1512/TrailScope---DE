@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT05259696",
+  "brief_title": "Glycan Mediated Immune Regulation With a Bi-Sialidase Fusion Protein (GLIMMER-01)",
+  "official_title": "A Phase 1/2, Open-Label, Single-Arm, Dose-Escalation and Dose-Expansion Study of the Safety, Tolerability, Pharmacokinetic, and Antitumor Activity of E-602 as a Single Agent and in Combination With Cemiplimab in Patients With Advanced Cancers",
+  "brief_summary": "This is a Phase 1/2, first-in-human, open-label, dose escalation and dose-expansion study of E-602, administered alone and in combination with cemiplimab.",
+  "detailed_description": "This study is being conducted to evaluate the safety, tolerability, PK, pharmacodynamics, and antitumor activity of E-602 in subjects with advanced cancers.\n\nPhase 1 of the study consists of dose escalation cohorts of E-602 as a monotherapy and in combination with cemiplimab. Dose escalation will utilize a modified 3+3 design. Any Phase 1 cohort may be backfilled, up to a total of 15 subjects to obtain additional safety, PK, and pharmacodynamic data at a particular dose level. Phase 1 will treat subjects with melanoma, ovarian cancer, non-small cell lung cancer (NSCLC), colorectal cancer, pancreatic cancer, breast cancer, gastric/esophagogastric junction (EGJ) cancer, head and neck cancer, or urothelial cancer. The safety and pharmacodynamic data will be evaluated to identify the maximum tolerated dose and recommended Phase 2 dose level for E-602 as monotherapy and in combination with cemiplimab.\n\nPhase 2 consists of dose-expansion disease cohorts in subjects with 3 types of advanced tumors: melanoma, NSCLC, and a third type to be determined (ovarian, colorectal, pancreatic, breast, gastric/EGJ, head and neck, or urothelial) based on available data. Phase 2 includes cohorts of E-602 as monotherapy and E-602 in combination with cemiplimab. For each cohort in Phase 2, Simon's minimax 2-stage design will be used.\n\nThe study is seeking to enroll a total of up to 273 subjects (up to 87 in Phase 1 and up to 186 in Phase 2). Subjects will participate in the study for about 16 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 69,
+  "conditions": [
+    "Oncology",
+    "Melanoma",
+    "Ovarian Cancer",
+    "NSCLC",
+    "Non Small Cell Lung Cancer",
+    "Colorectal Cancer",
+    "Pancreatic Cancer",
+    "Cancer",
+    "CRC",
+    "Colon Cancer",
+    "Breast Cancer",
+    "Gastric Cancer",
+    "EGJ",
+    "Esophagogastric Junction Cancer",
+    "Head and Neck Cancer",
+    "Urothelial Cancer",
+    "Bladder Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "E-602",
+      "type": "BIOLOGICAL",
+      "description": "Subjects will receive E-602 (administered weekly, via IV infusion)."
+    },
+    {
+      "name": "Cemiplimab",
+      "type": "BIOLOGICAL",
+      "description": "Subjects will receive cemiplimab (administered once every 3 weeks, via IV infusion)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n1. Subjects with advanced or relapsed/refractory melanoma, ovarian cancer, NSCLC, colorectal cancer, pancreatic cancer, breast cancer, gastric/esophagogastric junction (EGJ) cancer, head and neck cancer, or urothelial cancer who have failed prior therapies.\n\n   a. Subjects with melanoma, NSCLC, head and neck cancer, urothelial cancer, or mMSI-H or dMMR colorectal cancer must have had prior anti-PD-(L)1 pathway therapy and been deemed resistant (had progression on therapy or within 3 months of discontinuation of therapy).\n2. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n3. Subject has disease that is measurable by Response Evaluation Criteria in Solid Tumors (RECIST) v.1.1.\n4. Adequate bone marrow, coagulation, renal function, and liver function as determined by laboratory tests\n\nKey Exclusion Criteria:\n\n1. For cohorts receiving E-602 and cemiplimab combination therapy:\n\n   1. Prior moderate or severe hypersensitivity to cemiplimab or its formulation\n   2. History of severe (\u2265 Grade 3) autoimmune complications or discontinuation due to toxicity following treatment with an anti-PD-(L)1 pathway therapy as a monotherapy, with the exception of asymptomatic Grade 3 elevations in lipase and/or amylase not associated with clinical manifestations of pancreatitis.\n   3. Subject has an active autoimmune disease. The following are not exclusionary: vitiligo, type 1 diabetes, autoimmune endocrinopathies that are stable on hormone replacement therapy, or psoriasis that does not require systemic treatment.\n   4. Previously received idelalisib.\n2. History of age-related macular degeneration (AMD).\n3. Recent surgery, treatment with another investigational agent, active infection, non-healing wound or uncontrolled bleeding/bleeding diathesis.\n4. Received a vaccine or prior radiotherapy within 14 days prior to Cycle 1 Day 1.\n5. Prior history of interstitial lung disease that required steroids or \u2265 Grade 2 immune-related pneumonitis or has current non-infectious pneumonitis or interstitial lung disease. Subject has a history of \u2265Grade 3 radiation pneumonitis, or Grade 2 radiation pneumonitis that has been active within the last 6 months.\n6. Untreated brain metastases.\n7. A known primary malignancy that is progressing or has required active treatment within the past 3 years.\n8. Subject is taking the equivalent of \\>10 mg/day oral prednisone or on systemic immunosuppressive therapy.\n9. Subject has had an allogeneic tissue or organ transplantation.\n10. History of thromboembolic event unless the event occurred \\> 6 months from Cycle 1 Day 1 and the subject is on anti-coagulation treatment.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants Who Experienced AEs or SAEs",
+      "timeFrame": "15 Months",
+      "description": "Number of participants who experienced an adverse events (AEs) or a serious adverse event (SAE)"
+    }
+  ],
+  "sponsor": "Palleon Pharmaceuticals, Inc.",
+  "collaborators": [],
+  "start_date": "2022-02-11",
+  "completion_date": "2024-10-24",
+  "last_updated": "2025-08-03"
+}

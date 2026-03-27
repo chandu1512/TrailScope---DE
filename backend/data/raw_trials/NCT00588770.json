@@ -1,0 +1,565 @@
+{
+  "nct_id": "NCT00588770",
+  "brief_title": "Chemotherapy With or Without Bevacizumab in Treating Patients With Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma",
+  "official_title": "A Phase III Randomized Trial of Chemotherapy With or Without Bevacizumab in Patients With Recurrent or Metastatic Head and Neck Cancer",
+  "brief_summary": "This randomized phase III trial studies chemotherapy to see how well it works with or without bevacizumab in treating patients with head and neck squamous cell carcinoma that has come back (recurrent) or that has spread to other parts of the body (metastatic). Drugs used in chemotherapy, such as docetaxel, cisplatin, carboplatin, and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Monoclonal antibodies, such as bevacizumab, may interfere with the ability of tumor cells to grow and spread. Bevacizumab may also make tumor cells more sensitive to chemotherapy and stop the growth of head and neck cancer by blocking blood flow to the tumor. It is not yet known whether combination chemotherapy is more effective when given with or without bevacizumab in treating patients with head and neck squamous cell carcinoma.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To compare the overall survival of patients with recurrent or metastatic head and neck cancer treated with standard platinum-based chemotherapy with or without bevacizumab.\n\nSECONDARY OBJECTIVES:\n\nI. To assess toxicities with the addition of bevacizumab to each platinum-doublet (cisplatin/docetaxel, carboplatin/docetaxel, cisplatin/fluorouracil \\[5-FU\\], carboplatin/5-FU).\n\nII. To compare the objective response rates and the progression-free survival achieved with the above therapies.\n\nIII. To collect blood samples before and after therapy for future correlative studies.\n\nIV. To collect tumor tissue samples available at baseline from prior diagnostic procedures for future correlative studies.\n\nOUTLINE: After the physician decides which chemotherapy doublet to use, patients are randomized to 1 of 2 treatment arms for that chemotherapy combination.\n\nARM IA: Patients receive chemotherapy comprising docetaxel intravenously (IV) over 1 hour and cisplatin IV over 1-2 hours on day 1. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.\n\nARM IB: Patients receive bevacizumab IV over 30-90 minutes on day 1 and docetaxel and cisplatin as in Arm IA.\n\nARM IIA: Patients receive docetaxel IV over 1 hour and carboplatin IV over 30 minutes on day 1. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.\n\nARM IIB: Patients receive bevacizumab as in arm IB and docetaxel and carboplatin as in Arm IIA.\n\nARM IIIA: Patients receive cisplatin IV over 1-2 hours on day 1 and fluorouracil IV continuously on days 1-4. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.\n\nARM IIIB: Patients receive bevacizumab as in Arm IB and cisplatin and fluorouracil as in Arm IIIA.\n\nARM IVA: Patients receive carboplatin IV over 30 minutes on day 1 and fluorouracil IV continuously on days 1-4. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.\n\nARM IVB: Patients receive bevacizumab as in Arm IB and carboplatin and fluorouracil as in Arm IVA.\n\nAfter completion of study treatment, patients are followed up every 3 months for 2 years and then every 6 months for 3 years.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 403,
+  "conditions": [
+    "Neck Squamous Cell Carcinoma of Unknown Primary",
+    "Recurrent Hypopharyngeal Squamous Cell Carcinoma",
+    "Recurrent Laryngeal Squamous Cell Carcinoma",
+    "Recurrent Laryngeal Verrucous Carcinoma",
+    "Recurrent Lip and Oral Cavity Squamous Cell Carcinoma",
+    "Recurrent Neck Squamous Cell Carcinoma of Unknown Primary",
+    "Recurrent Oral Cavity Verrucous Carcinoma",
+    "Recurrent Oropharyngeal Squamous Cell Carcinoma",
+    "Recurrent Salivary Gland Carcinoma",
+    "Recurrent Sinonasal Squamous Cell Carcinoma",
+    "Salivary Gland Squamous Cell Carcinoma",
+    "Stage IV Hypopharyngeal Squamous Cell Carcinoma AJCC v7",
+    "Stage IV Major Salivary Gland Cancer AJCC v7",
+    "Stage IVA Laryngeal Squamous Cell Carcinoma AJCC v7",
+    "Stage IVA Laryngeal Verrucous Carcinoma AJCC v7",
+    "Stage IVA Lip and Oral Cavity Squamous Cell Carcinoma AJCC v6 and v7",
+    "Stage IVA Major Salivary Gland Cancer AJCC v7",
+    "Stage IVA Oral Cavity Cancer AJCC v6 and v7",
+    "Stage IVA Oropharyngeal Squamous Cell Carcinoma AJCC v7",
+    "Stage IVA Sinonasal Squamous Cell Carcinoma AJCC v7",
+    "Stage IVB Laryngeal Squamous Cell Carcinoma AJCC v7",
+    "Stage IVB Laryngeal Verrucous Carcinoma AJCC v7",
+    "Stage IVB Lip and Oral Cavity Squamous Cell Carcinoma AJCC v6 and v7",
+    "Stage IVB Major Salivary Gland Cancer AJCC v7",
+    "Stage IVB Oral Cavity Cancer AJCC v6 and v7",
+    "Stage IVB Oropharyngeal Squamous Cell Carcinoma AJCC v7",
+    "Stage IVB Sinonasal Squamous Cell Carcinoma AJCC v7",
+    "Stage IVC Laryngeal Squamous Cell Carcinoma AJCC v7",
+    "Stage IVC Laryngeal Verrucous Carcinoma AJCC v7",
+    "Stage IVC Lip and Oral Cavity Squamous Cell Carcinoma AJCC v6 and v7",
+    "Stage IVC Major Salivary Gland Cancer AJCC v7",
+    "Stage IVC Oral Cavity Cancer AJCC v6 and v7",
+    "Stage IVC Oropharyngeal Squamous Cell Carcinoma AJCC v7",
+    "Stage IVC Sinonasal Squamous Cell Carcinoma AJCC v7",
+    "Tongue Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Bevacizumab",
+      "type": "BIOLOGICAL",
+      "description": "Given IV"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Fluorouracil",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Laboratory Biomarker Analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed squamous cell cancer of the head and neck (SCCHN), from any primary site, including unknown primary cancers of the head and neck; patient must not have nasopharyngeal carcinoma of histologic types World Health Organization (WHO) 2 or 3 or squamous cell carcinoma that originated in the skin\n* Patients must have SCCHN that is either (a) recurrent, judged incurable by surgery or radiation or (b) metastatic; NOTE: Patients who refuse radical resection for recurrent disease are eligible; NOTE: A second primary squamous cell carcinoma of the head and neck is allowed if eligibility is based on a recurrent or metastatic first primary squamous cell carcinoma of the head and neck\n* No prior chemotherapy or biologic/molecular targeted therapy for recurrent or metastatic SCCHN\n\n  * Patients may have received one regimen of induction, concomitant chemoradiotherapy and/or adjuvant chemotherapy as part of initial potential curative therapy but must not have received prior chemotherapy for recurrent or metastatic disease\n  * A minimum of 4 months is required between last dose of chemotherapy or chemoradiotherapy and study treatment; in addition patients must be progression-free for at least 4 months after completion of chemotherapy or chemoradiotherapy or radiation plus cetuximab given with a curative intent; (cetuximab therapy: 4 months is required between last dose of chemotherapy or chemoradiotherapy and study treatment if part of concurrent regimen, 8 weeks if part of adjuvant regimen post radiation)\n  * Patients having progression after 2 cycles of induction chemotherapy are not eligible for the study\n* No prior bevacizumab is allowed\n* A maximum of one prior radiotherapy regimen, curative or palliative, to the head and neck is allowed; if the radiation is combined with chemotherapy and/or cetuximab, a minimum of 4 months must elapse between the end of radiotherapy and registration; if the radiation is given alone, a minimum of 8 weeks must elapse between the end of radiotherapy and registration; a minimum of 3 weeks must elapse between prior radiation to other areas and registration\n* Patients must not be receiving any other investigational agent while on the study\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1\n* Patients must have recovered to grade 1 or better from any acute effects of prior surgery, chemotherapy, or radiation therapy, and should be \\> 4 weeks post surgery; chronic late xerostomia, speech and swallowing abnormalities resulting from prior radiation or surgery are permitted if nutritional status is stable\n* Patients must have measurable disease based on Response Evaluation Criteria in Solid Tumors (RECIST); baseline measurements and evaluations of all sites of disease must be obtained =\\< 4 weeks prior to randomization; disease in previously irradiated sites is considered measurable if there has been unequivocal disease progression or biopsy-proven residual carcinoma following radiation therapy; persistent disease after radiotherapy must be biopsy proven at least 8 weeks after completion of radiation therapy; (radiographic findings are acceptable providing that clear-cut measurements can be made)\n* Absolute neutrophil count (ANC) \\>= 1500/mm\\^3\n* Hemoglobin (Hgb) \\>= 8.0 g/dL\n* Platelet count \\>= 100,000/mm\\^3\n* Creatinine clearance of \\>= 60 ml/min; creatinine clearance may be measured or calculated; if calculating, creatinine clearance, use the Cockroft-Gault formula\n* Total bilirubin within normal limits (must be obtained =\\< 2 weeks prior to randomization)\n* Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) must be within the range allowing for eligibility\n\n  * Alkaline phosphatase normal AND AST or ALT =\\< 5 x upper limit of normal (ULN)\n  * Alkaline phosphatase \\> 1 but =\\< 2.5 x ULN AND AST or ALT \\> 1 but =\\< 1.5 x ULN\n  * Alkaline phosphatase \\> 2.5 but =\\< 5 x ULN AND AST or ALT normal\n* Alkaline phosphatase must be within the range allowing for eligibility\n* Urine dipstick must be =\\< 0-1+ within 2 weeks (14 days) of randomization; if urine dipstick result is \\> 1+, a calculation of urine protein creatinine (UPC) ratio is required; patients must have a UPC ratio \\< 1.0 to participate in the study; NOTE: UPC ratio of spot urine is an estimation of the 24 urine protein excretion - a UPC ratio of 1 is roughly equivalent to a 24-hour urine protein of 1 gm\n* No known brain metastases\n* Patients who meet the following criteria will be excluded:\n\n  * Tumors that invade major vessels (e.g. the carotid) as shown unequivocally by imaging studies\n  * Central (i.e. within 2 cm from the hilum) lung metastases that are cavitary as shown unequivocally by imaging studies\n  * Any prior history of bleeding related to the current head and neck cancer\n  * History of gross hemoptysis (bright red blood of 1/2 teaspoon or more per episode of coughing) =\\< 3 months prior to enrollment\n* No history of coagulopathy or hemorrhagic disorders\n* Patients should not have a history of thrombosis (e.g. pulmonary embolism or deep venous thrombosis) currently requiring therapeutic anticoagulation (prophylactic use of warfarin 1 mg per day is allowed) and international normalized ratio (INR) should be \\< 1.5 at registration\n* Patients must not be receiving chronic daily treatment with aspirin (\\> 325 mg/day) or non-steroidal anti-inflammatory agents (NSAID's) known to inhibit platelet function; the use of anti-platelet agents (e.g. dipyridamole \\[Persantine\\], ticlopidine \\[Ticlid\\], clopidogrel \\[Plavix\\]) is allowed only if patient is not receiving aspirin or NSAID's known to inhibit platelet function\n* No hypercalcemia related to head and neck cancer\n* Patients with a prior history of squamous cell or basal carcinoma of the skin or in situ cervical cancer must have been curatively treated; patients with a history of other prior malignancy must have been treated with curative intent and must have remained disease-free for 3 years post diagnosis\n* No current peripheral neuropathy \\>= grade 2 at time of randomization\n* Patients must not have any co-existing condition that would preclude full compliance with the study\n* No prior history of severe hypersensitivity reaction to docetaxel or other drugs formulated with polysorbate 80, if the physician's choice of chemotherapy regimen is docetaxel\n* All patients must have blood pressure =\\< 150/90 =\\< 2 weeks prior to randomization; patients with history of hypertension must be well-controlled upon study entry (=\\< 150/90) on a stable regimen of anti-hypertensive therapy\n* No major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to study enrollment, or anticipation of need for major surgical procedure during the course of the study\n* No unstable angina or myocardial infarction within the previous 6 months; no symptomatic congestive heart failure, New York Heart Association (NYHA) grade II or greater; no history of aortic dissection or presence of aneurysm \\> 6 cm (or at high risk for rupture); no serious cardiac arrhythmia requiring medication (history of chronic atrial fibrillation or other atrial arrhythmia with controlled rate on medication is allowed); no clinically significant peripheral vascular disease manifested by intermittent claudication or need for vascular intervention; no history of aortic dissection; no history of any central nervous system (CNS) cerebrovascular ischemia or stroke within the last 6 months; no active serious infection\n* Patients should not have prior history of a serious human anti-human antibody (HAHA) reaction; patients with known hypersensitivity to Chinese hamster ovary cell products or other recombinant human antibodies are not eligible\n* Women must not be pregnant or breast feeding; pregnant women are excluded from this study; women of child-bearing potential and men must agree to total abstinence or to use adequate hormonal or barrier method of birth control prior to study entry and for the duration of study participation; should a woman become pregnant or suspect she is pregnant while in this study, she should inform her treating physician immediately; all females of childbearing potential must have a blood test or urine study within 2 weeks prior to randomization to rule out pregnancy\n* Human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded from the study; appropriate studies will be undertaken in patients receiving combination anti-retroviral therapy when indicated\n* No history of abdominal fistula, gastrointestinal perforation, or intra-abdominal abscess within 6 months prior to registration",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Bayhealth Hospital Kent Campus",
+      "city": "Dover",
+      "state": "Delaware",
+      "zip": "19901",
+      "status": ""
+    },
+    {
+      "facility": "Beebe Medical Center",
+      "city": "Lewes",
+      "state": "Delaware",
+      "zip": "19958",
+      "status": ""
+    },
+    {
+      "facility": "Delaware Clinical and Laboratory Physicians PA",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Helen F Graham Cancer Center",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Medical Oncology Hematology Consultants PA",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Christiana Care Health System-Christiana Hospital",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19718",
+      "status": ""
+    },
+    {
+      "facility": "Beebe Health Campus",
+      "city": "Rehoboth Beach",
+      "state": "Delaware",
+      "zip": "19971",
+      "status": ""
+    },
+    {
+      "facility": "TidalHealth Nanticoke / Allen Cancer Center",
+      "city": "Seaford",
+      "state": "Delaware",
+      "zip": "19973",
+      "status": ""
+    },
+    {
+      "facility": "Christiana Care Health System-Wilmington Hospital",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19801",
+      "status": ""
+    },
+    {
+      "facility": "Greater Baltimore Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Johns Hopkins University/Sidney Kimmel Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Christiana Care - Union Hospital",
+      "city": "Elkton",
+      "state": "Maryland",
+      "zip": "21921",
+      "status": ""
+    },
+    {
+      "facility": "Frederick Memorial Hospital",
+      "city": "Frederick",
+      "state": "Maryland",
+      "zip": "21701",
+      "status": ""
+    },
+    {
+      "facility": "Cooper Hospital University Medical Center",
+      "city": "Camden",
+      "state": "New Jersey",
+      "zip": "08103",
+      "status": ""
+    },
+    {
+      "facility": "Veterans Adminstration New Jersey Health Care System",
+      "city": "East Orange",
+      "state": "New Jersey",
+      "zip": "07018-1095",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Morristown Medical Center",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    },
+    {
+      "facility": "Inspira Medical Center Mullica Hill",
+      "city": "Mullica Hill",
+      "state": "New Jersey",
+      "zip": "08062",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers New Jersey Medical School",
+      "city": "Newark",
+      "state": "New Jersey",
+      "zip": "07101",
+      "status": ""
+    },
+    {
+      "facility": "Newark Beth Israel Medical Center",
+      "city": "Newark",
+      "state": "New Jersey",
+      "zip": "07112",
+      "status": ""
+    },
+    {
+      "facility": "Overlook Hospital",
+      "city": "Summit",
+      "state": "New Jersey",
+      "zip": "07902",
+      "status": ""
+    },
+    {
+      "facility": "Inspira Medical Center Vineland",
+      "city": "Vineland",
+      "state": "New Jersey",
+      "zip": "08360",
+      "status": ""
+    },
+    {
+      "facility": "Lehigh Valley Hospital-Cedar Crest",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Heritage Valley Health System Beaver",
+      "city": "Beaver",
+      "state": "Pennsylvania",
+      "zip": "15009",
+      "status": ""
+    },
+    {
+      "facility": "Saint Luke's University Hospital-Bethlehem Campus",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": ""
+    },
+    {
+      "facility": "Lehigh Valley Hospital - Muhlenberg",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18017",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Center",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": ""
+    },
+    {
+      "facility": "Delaware County Memorial Hospital",
+      "city": "Drexel Hill",
+      "state": "Pennsylvania",
+      "zip": "19026",
+      "status": ""
+    },
+    {
+      "facility": "Pocono Medical Center",
+      "city": "East Stroudsburg",
+      "state": "Pennsylvania",
+      "zip": "18301",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Centers - Arnold Palmer Pavilion",
+      "city": "Greensburg",
+      "state": "Pennsylvania",
+      "zip": "15601",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Center-Cancer Center Hazleton",
+      "city": "Hazleton",
+      "state": "Pennsylvania",
+      "zip": "18201",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Johnstown/John P. Murtha Regional Cancer Center",
+      "city": "Johnstown",
+      "state": "Pennsylvania",
+      "zip": "15901",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Oncology-Lewisburg",
+      "city": "Lewisburg",
+      "state": "Pennsylvania",
+      "zip": "17837",
+      "status": ""
+    },
+    {
+      "facility": "Lewistown Hospital",
+      "city": "Lewistown",
+      "state": "Pennsylvania",
+      "zip": "17044",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Center at UPMC McKeesport",
+      "city": "McKeesport",
+      "state": "Pennsylvania",
+      "zip": "15132",
+      "status": ""
+    },
+    {
+      "facility": "Riddle Memorial Hospital",
+      "city": "Media",
+      "state": "Pennsylvania",
+      "zip": "19063",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center in Coraopolis",
+      "city": "Moon Township",
+      "state": "Pennsylvania",
+      "zip": "15108",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania/Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Temple University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19140",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny General Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Magee Womens Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Presbyterian Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Saint Margaret",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15215",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Cancer Institute (UPCI)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Shadyside Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Jefferson Regional Radiation Oncology",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15236",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Passavant Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15237",
+      "status": ""
+    },
+    {
+      "facility": "VA Pittsburgh Healthcare System",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15240",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Saint Clair Hospital Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15243",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Cancer Services-Pottsville",
+      "city": "Pottsville",
+      "state": "Pennsylvania",
+      "zip": "17901",
+      "status": ""
+    },
+    {
+      "facility": "Penn State Health Saint Joseph Medical Center",
+      "city": "Reading",
+      "state": "Pennsylvania",
+      "zip": "19605",
+      "status": ""
+    },
+    {
+      "facility": "Guthrie Medical Group PC-Robert Packer Hospital",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    },
+    {
+      "facility": "Mercy Hospital",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18501",
+      "status": ""
+    },
+    {
+      "facility": "Hematology and Oncology Associates of North East Pennsylvania",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18508",
+      "status": ""
+    },
+    {
+      "facility": "Scranton Hematology Oncology",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18510",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Center at UPMC Northwest",
+      "city": "Seneca",
+      "state": "Pennsylvania",
+      "zip": "16346",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Group",
+      "city": "State College",
+      "state": "Pennsylvania",
+      "zip": "16801",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Uniontown Hospital Radiation Oncology",
+      "city": "Uniontown",
+      "state": "Pennsylvania",
+      "zip": "15401",
+      "status": ""
+    },
+    {
+      "facility": "Associates In Hematology Oncology PC-Upland",
+      "city": "Upland",
+      "state": "Pennsylvania",
+      "zip": "19013",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Washington Hospital Radiation Oncology",
+      "city": "Washington",
+      "state": "Pennsylvania",
+      "zip": "15301",
+      "status": ""
+    },
+    {
+      "facility": "Chester County Hospital",
+      "city": "West Chester",
+      "state": "Pennsylvania",
+      "zip": "19380",
+      "status": ""
+    },
+    {
+      "facility": "Reading Hospital",
+      "city": "West Reading",
+      "state": "Pennsylvania",
+      "zip": "19611",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Wyoming Valley/Henry Cancer Center",
+      "city": "Wilkes-Barre",
+      "state": "Pennsylvania",
+      "zip": "18711",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Susquehanna",
+      "city": "Williamsport",
+      "state": "Pennsylvania",
+      "zip": "17701",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "assessed every 3 months within 2 years from study entry, then every 6 months up to 5 years from study entry",
+      "description": "Overall survival (OS) was defined as time from randomization to death from any course. Patients who were alive were censored at the last contact date. Median OS was estimated using the Kaplan-Meier method."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2008-08-08",
+  "completion_date": "2026-02-22",
+  "last_updated": "2026-02-11"
+}

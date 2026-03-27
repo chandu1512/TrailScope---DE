@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT00262834",
+  "brief_title": "Vorinostat in Treating Women Who Are Undergoing Surgery For Newly Diagnosed Stage I -III Breast Cancer",
+  "official_title": "A Pilot Study Evaluating Surrogates of Response to Short Term Oral Suberoylanilide Hydroxamic Acid (SAHA) in Women With Newly Diagnosed Breast Cancer",
+  "brief_summary": "This phase II trial is studying how well vorinostat works in treating women who are undergoing surgery for newly diagnosed stage I, stage II, or stage III breast cancer. Vorinostat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving vorinostat before surgery may shrink the tumor so that it can be removed.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. Determine the safety and tolerability of vorinostat in women undergoing conventional surgery for newly diagnosed stage I-III breast cancer.\n\nOULINE: This is a multicenter, pilot study.\n\nPatients receive oral vorinostat twice daily on days -3 to 0. Approximately 2 hours after the final dose of vorinostat, patients undergo surgical resection of the tumor on day 0.\n\nAfter completion of study treatment, patients are followed for 30 days.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 54,
+  "conditions": [
+    "Breast Cancer",
+    "Stage I Breast Cancer",
+    "Stage II Breast Cancer",
+    "Stage III Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "vorinostat",
+      "type": "DRUG",
+      "description": "Given orally, conventional surgery to follow."
+    },
+    {
+      "name": "conventional surgery",
+      "type": "OTHER",
+      "description": "Undergo conventional surgery"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* No prior or concurrent hormonal therapy for breast cancer\n* Histologically confirmed breast cancer, stage I-III disease, scheduled to undergo definitive surgery or other primary treatment (e.g., preoperative/neoadjuvant systemic treatment) for breast cancer\n* ECOG 0-2 OR Karnofsky 60-100%\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Bilirubin normal\n* AST and ALT \u2264 2.5 times upper limit of normal\n* PT \u2264 14 seconds\n* Creatinine normal\n* No symptomatic congestive heart failure\n* No unstable angina pectoris\n* No cardiac arrhythmia\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No ongoing or active infection\n* No psychiatric illness or social situation that would preclude study compliance\n* No other uncontrolled intercurrent illness\n* No history of allergic reaction attributed to compounds of similar chemical or biologic composition to vorinostat\n* At least 30 days since prior hormone replacement therapy (e.g., estrogen and/or progestin)\n* Concurrent vaginal hormone preparations (e.g., vagifem or estring) allowed\n* No concurrent birth control pills\n* No prior radiotherapy to the ipsilateral breast\n* No prior or concurrent radiotherapy for breast cancer\n* No prior or concurrent novel therapy for breast cancer\n* At least 14 days since prior valproic acid or another histone deacetylase inhibitor\n* No other concurrent investigational agents\n* No concurrent combination antiretroviral therapy for HIV-positive patients\n* No other concurrent therapy for this cancer\n* WBC \u2265 3,000/mm\\^3\n\nExclusion criteria:\n\n* Patients must not be recieving any other investigational agents\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to SAHA.\n* Patients may not be taking valproic acid or another histone deacetylase inhibitor for at least 2 weeks prior to initiating SAHA.\n* Women who are pregnant.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University/Sidney Kimmel Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Adverse Events",
+      "timeFrame": "After 3 days of vorinostat",
+      "description": "Participants were evaluated for adverse events due to vorinostat to assess if it was safe to give the drug prior to surgery. 17 of 25 participants who received vorinostat experienced at least 1 adverse event believed to be related to the study drug; no adverse events were severe, and the treatment was considered safe."
+    },
+    {
+      "measure": "Change in Tissue Proliferation After 3 Days of Treatment",
+      "timeFrame": "After 3 days of vorinostat",
+      "description": "Change in Ki-67 (a marker of tissue proliferation) by IHC compared to baseline in the treated (22 evaluable samples) or untreated patients (15 evaluable samples) were analyzed between groups. Ki-67 is a protein in cells that increases as cellsprepare to divide into new cells. A staining process can measure the percentage of tumor cells that are positive for Ki-67. The more positive cells there are, the more quickly they are dividing and forming new cells."
+    },
+    {
+      "measure": "Change in Tissue Apoptosis After 3 Days of Treatment",
+      "timeFrame": "Baseline and after 3 day of vorinostat",
+      "description": "Change in cleaved caspase-3 (a marker of tissue apoptosis) by IHC compared to baseline in the treated (19 evaluable samples) or untreated patients (12 evaluable samples) were analyzed between groups. Cleaved caspase-3 is a protein in cells involved in apoptosis (cell death)."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2005-10",
+  "completion_date": "2013-05",
+  "last_updated": "2020-02-07"
+}

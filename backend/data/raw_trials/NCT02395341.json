@@ -1,0 +1,52 @@
+{
+  "nct_id": "NCT02395341",
+  "brief_title": "The Longitudinal Ovarian Reserve Study",
+  "official_title": "The Effects of Cancer Treatment on Ovarian Function: A Longitudinal Study by the Oncofertility Consortium",
+  "brief_summary": "Postmenarchal female cancer patients scheduled to undergo cancer therapy may enroll in this study to assess changes in existing and novel surrogate measures of fertility potential before, during and after chemotherapy. Measures of fertility potential to be tested include ultrasound imaging for antral follicle counts and ovarian volumes, endocrine evaluation, and assessment of oxidative stress.",
+  "detailed_description": "Eligible women are asked to complete a structured interview, questionnaires, a monthly menstrual diary, a brief physical examination, a blood test, and an abdominal or pelvic ultrasound at baseline and at 3 month intervals following start of chemotherapy through 6 months post end of treatment.\n\nWithin subject changes in continuous variables (hormones, urinary isoprostane levels, ovarian volume, AFC) will be compared using paired t-tests (nonparametric tests as appropriate). Non-Gaussian-distributed variables will be logarithmically transformed prior to analysis. In general, changes from baseline to every 3 month assessment will be compared individually as well as changes from baseline to post treatment. In addition, regression models for repeated measures will be used to describe the pattern of change in these outcomes over time. Additional models will be constructed to adjust for potential confounding variables including age, chemotherapy type, dose and duration of treatment, radiation treatment, gonadotropin releasing hormone agonist use, and hormone use. Finally, regression models will be used to evaluate the association between changes in urinary isoprostane levels over the study with changes in endocrine measures.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Effects of Chemotherapy"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Females with the diagnosis of cancer schedules to be treated with chemotherapy and or radiation therapy.\n* Age between 15-45 years.\n* Post-menarchal.\n* Presence of a uterus and both ovaries.\n* Ability and willingness to comply with study protocol.\n* Have given written informed concent (or assent with parental consent in minors), prior to any study-related procedure, not part of normal medical care, with the understanding that consent may be withdrawn byt he patient at any time without prejudice to their future medical care.\n\nExclusion Criteria:\n\n* Current pregnancy.\n* Lactation within the previous 3 months.\n* Any medical condition other than cancer, with in the judgment of the investigator is known to be associated with premature ovarian failure (such as Turner's Syndrome or Fragile X) or ovulatory dysfunction (such as thyroid disease, adrenal dysfunction, Cushing's syndrome, hyperprolactinemia, and polycystic ovarian syndrome).",
+    "gender": "FEMALE",
+    "min_age": "15 Years",
+    "max_age": "45 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn Reproductive Research Unit, 3701 Market Street, Suite 810",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Penn Medicine at Radnor, 250 King of Prussia Road",
+      "city": "Radnor",
+      "state": "Pennsylvania",
+      "zip": "19087",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change from baseline in reproductive hormone measures, during and after chemotherapy.",
+      "timeFrame": "18-24 months: pre-chemotherapy baseline and at 3 month intervals from start of chemotherapy through 6 months after end of chemotherapy.",
+      "description": "20 mls blood will be obtained at stated timepoints for determining levels of Follicle Stimulating Hormone (FSH), Luteinizing Hormone (LH), Estradiol (E2), Inhibin B, and Anti-mullerian Hormone (AMH). In menstruating girls and young women hormone measures will be obtained during the early follicular phase of the menstrual cycle (days 1-4). In women with irregular cycles the testing will be done spontaneously without regard for the bleeding pattern."
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [
+    "Children's Hospital of Philadelphia"
+  ],
+  "start_date": "2007-05",
+  "completion_date": "2013-04",
+  "last_updated": "2016-08-19"
+}

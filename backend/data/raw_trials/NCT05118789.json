@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT05118789",
+  "brief_title": "A Study of Zidesamtinib (NVL-520) in Patients With Advanced NSCLC and Other Solid Tumors Harboring ROS1 Rearrangement (ARROS-1)",
+  "official_title": "A Phase 1/2 Study of the Highly Selective ROS1 Inhibitor Zidesamtinib (NVL-520) in Patients With Advanced NSCLC and Other Solid Tumors (ARROS-1)",
+  "brief_summary": "Phase 1/2, dose escalation and expansion study designed to evaluate the safety and tolerability of zidesamtinib (NVL-520), determine the recommended phase 2 dose (RP2D), and evaluate the antitumor activity in patients with advanced ROS1-positive (ROS1+) NSCLC and other advanced ROS1-positive solid tumors.\n\nPhase 1 will determine the RP2D and, if applicable, the maximum tolerated dose (MTD) of zidesamtinib in patients with advanced ROS1-positive solid tumors.\n\nPhase 2 will determine the objective response rate (ORR) as assessed by Blinded Independent Central Review (BICR) of zidesamtinib at the RP2D. Secondary objectives will include the duration of response (DOR), time to response (TTR), progression-free survival (PFS), overall survival (OS), and clinical benefit rate (CBR) of zidesamtinib in patients with advanced ROS1-positive NSCLC and other solid tumors.",
+  "detailed_description": "In Phase 2, study patients will be enrolled into 5 distinct expansion cohorts:\n\n* Cohort 2a: ROS1-positive NSCLC na\u00efve to Tyrosine Kinase Inhibitor (TKI) therapy and up to 1 prior chemotherapy and/or immunotherapy.\n* Cohort 2b: ROS1-positive NSCLC treated with 1 prior ROS1 TKI and no prior chemotherapy or immunotherapy.\n* Cohort 2c: ROS1-positive NSCLC treated with 1 prior ROS1 TKI and 1 prior platinum-based chemotherapy with or without immunotherapy.\n* Cohort 2d: ROS1-positive NSCLC treated with \u22652 prior ROS1 TKIs and up to 1 prior chemotherapy and/or immunotherapy.\n* Cohort 2e: ROS1-positive solid tumor and progressed on any prior therapy.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 359,
+  "conditions": [
+    "Locally Advanced Solid Tumor",
+    "Metastatic Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Zidesamtinib (NVL-520)",
+      "type": "DRUG",
+      "description": "Oral tablet of zidesamtinib (NVL-520)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age \u226518 years (Cohort 2e only: Age \u226512 years).\n2. Disease Criteria:\n\n   1. Phase 1: Histologically or cytologically confirmed locally advanced or metastatic solid tumor with documented ROS1 rearrangement.\n   2. Phase 2: Cohorts 2a, 2b, 2c and 2d: Histologically or cytologically confirmed locally advanced or metastatic NSCLC with ROS1 rearrangement.\n   3. Phase 2: Cohort 2e: Histologically or cytologically confirmed locally advanced or metastatic solid tumor (other than NSCLC) with ROS1 rearrangement.\n3. Prior anticancer treatment (except cohort 2a).\n4. Phase 1: Must have evaluable disease (target or nontarget) according to RECIST 1.1. Phase 2: Must have measurable disease according to RECIST 1.1.\n5. Adequate baseline organ function and bone marrow reserve.\n\nExclusion Criteria:\n\n1. Patient's cancer has a known oncogenic driver alteration other than ROS1.\n2. Known allergy/hypersensitivity to excipients of NVL-520.\n3. Major surgery within 4 weeks of first dose of study drug.\n4. Ongoing anticancer therapy.\n5. Actively receiving systemic treatment or direct medical intervention on another therapeutic clinical study.",
+    "gender": "ALL",
+    "min_age": "12 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum Tolerated Dose (MTD) (Phase 1)",
+      "timeFrame": "Within 28 days of last patient dosed during dose escalation",
+      "description": "Highest dose with dose-limiting toxicity (DLT) rate \u2264 25%"
+    },
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D)",
+      "timeFrame": "Within 28 days of last patient dosed during dose escalation.",
+      "description": "To determine the RP2D"
+    },
+    {
+      "measure": "Objective Response Rate (ORR) (Phase 2)",
+      "timeFrame": "2-3 years after first patient dosed.",
+      "description": "To determine ORR as assessed by BICR"
+    }
+  ],
+  "sponsor": "Nuvalent Inc.",
+  "collaborators": [],
+  "start_date": "2022-01-04",
+  "completion_date": "2028-12-31",
+  "last_updated": "2025-10-22"
+}

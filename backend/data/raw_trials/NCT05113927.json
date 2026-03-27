@@ -1,0 +1,55 @@
+{
+  "nct_id": "NCT05113927",
+  "brief_title": "Wide Field OCT + AI for Positive Margin Rates in Breast Conservation Surgery.",
+  "official_title": "A Prospective, Multi-center, Randomized, Double-arm Trial to Determine the Impact of the SELENE System on Positive Margin Rates in Breast Conservation Surgery.",
+  "brief_summary": "This is a multi-center, randomized, two-arm study designed to measure the effectiveness of the SELENE system in reducing the number of unaddressed positive margins in breast lumpectomy procedures when used in addition to standard intraoperative margin assessment.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 482,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Selene",
+      "type": "DEVICE",
+      "description": "SELENE imaging of all margins, with record of each margin assessment and an opportunity to excise tissue from the lumpectomy cavity post-imaging. The new margin will be imaged with SELENE and the surgeon will record the assessment and may take additional tissue (up to a maximum of six total shaves, including up to two shaves in each orientation) or record why no further tissue may be taken."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Female\n* Age 18 years or older\n* Patients undergoing elective breast conservation surgery for the treatment of Stage 0-III invasive ductal and/or ductal carcinoma in situ\n* May include subjects treated with neo-adjuvant therapy (endocrine and/or chemotherapeutic), but not required for study inclusion\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Male\n* Metastatic cancer (Stage IV)\n* Lobular carcinoma as primary diagnosis\n* Previous ipsilateral breast surgery for benign or malignant disease within two years (this includes implants and breast augmentation)\n* Subjects with multi-centric disease (histologically diagnosed cancer in two different quadrants of the breast), unless resected in a single specimen\n* Subjects with bilateral disease (diagnosed cancer in both breasts)\n* Participating in any other investigational margin assessment study which can influence collection of valid data under this study\n* Use of cryo-assisted localization\n* Currently lactating\n* Current pregnancy\n* Subjects for whom the specimen margins have been destroyed, damaged, or are otherwise not intact prior to imaging (device arm only) imaging",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Holy Redeemer",
+      "city": "Meadowbrook",
+      "state": "Pennsylvania",
+      "zip": "19046",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "The occurrence of at least one unaddressed positive margin for a subject.",
+      "timeFrame": "Pathology report finalization date, usually 3-7 days post-surgery",
+      "description": "Within-subject comparison of the occurrence of subjects with at least one positive margin."
+    }
+  ],
+  "sponsor": "Perimeter Medical Imaging",
+  "collaborators": [
+    "Cancer Prevention Research Institute of Texas",
+    "Proxima CRO",
+    "Biostatistical Consulting, Inc."
+  ],
+  "start_date": "2021-12-01",
+  "completion_date": "2024-10-21",
+  "last_updated": "2024-11-27"
+}

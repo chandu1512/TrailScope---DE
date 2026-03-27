@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT00659373",
+  "brief_title": "Brain Function in Premenopausal Women Receiving Tamoxifen With or Without Ovarian Function Suppression for Early-Stage Breast Cancer on Clinical Trial IBCSG 24-02",
+  "official_title": "Investigating Cognitive Function for Patients Participating in the SOFT Trial in Selected Centers",
+  "brief_summary": "RATIONALE: Learning about the long-term effects of adjuvant tamoxifen (T), adjuvant tamoxifen with ovarian function suppression (T+OFS), and exemestane with ovarian function suppression (E+ OFS) on brain function may help doctors plan cancer treatment.\n\nPURPOSE: This study is looking at brain function in premenopausal women who are receiving adjuvant tamoxifen (T) alone against those receive adjuvant tamoxifen (T+OFS) or exemestane (E+OFS) with ovarian function suppression (OFS) for early-stage breast cancer on clinical trial IBCSG-2402.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary:\n\n\\* To evaluate and compare the changes in cognitive function over one year in premenopausal breast cancer patients who receive adjuvant tamoxifen (T) alone against those receive adjuvant tamoxifen (T+OFS) or exemestane (E+OFS) with ovarian function suppression (OFS).\n\nOUTLINE: This is a multicenter study.\n\nObjective cognitive function was measured with the CogState computerized test battery. The CogState battery consists of seven tasks: Detection, Identification, Monitoring, Memory, Learning, International Shopping List Task (ISLT), and ISLT-Delayed Recall. Performance speed is measured for the Detection, Identification and Monitoring tasks and performance accuracy is measured for the Memory, Learning, ISLT, and ISLT-Delayed Recall. Measures of performance speed are normalized using measures of performance accuracy (%) are normalized using arcsine transformation. The main outcome measure is a composite score which is the average of these task scores (after transformation and standardization by age-specific norms). Patients complete these assessments at baseline (i.e. before start of protocol hormonal therapy) and approximately one year after randomization to the parent IBCSG 24-02 (SOFT) study.\n\nData were collected separately for the T+OFS and E+OFS participants in the parent study, IBCSG 24-02 (SOFT). The sample size for this Co-SOFT substudy was small, so the analysis plan was revised to pre-specify collective analysis for all patients receiving OFS.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 86,
+  "conditions": [
+    "Breast Cancer",
+    "Fatigue",
+    "Sleep Disorders"
+  ],
+  "interventions": [
+    {
+      "name": "Tamoxifen",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "triptorelin",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Exemestane",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * Completely resected disease\n* Registered for clinical trial IBCSG-2402, but not yet started protocol hormonal therapy\n\n  * Has not yet received any of the following adjuvant endocrine therapy, either before or after registration on IBCSG-2402:\n\n    * Tamoxifen, exemestane, or gonadotropin-releasing hormone (GnRH) agonist\n    * Ovarian irradiation\n    * Bilateral oophorectomy\n* Hormone receptor status:\n\n  * Estrogen and/or progesterone receptor positive\n\n    * Each tumor must be hormone receptor positive\n\nPATIENT CHARACTERISTICS:\n\n* Premenopausal\n* Can speak and read the local language(s) fluently\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "gender": "FEMALE",
+    "min_age": "",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-4283",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in Cognitive Function Over 1 Year in Premenopausal Breast Cancer Patients Who Receive Adjuvant Tamoxifen (T) Alone Against Those Receive Adjuvant Tamoxifen (T+OFS) or Exemestane (E+OFS) With Ovarian Function Suppression (OFS)",
+      "timeFrame": "1 year after patient randomization to parent IBCSG 24-02 study",
+      "description": "Objective cognitive function measured with CogState, a computerized test battery of 7 tasks: Detection, Identification, Monitoring, Memory, Learning, International Shopping List Task (ISLT) and ISLT-Delayed Recall. Performance speed is measured for Detection/Identification/Monitoring and performance accuracy is measured for Memory/Learning/ISLT/ISLT-Delayed Recall. Performance speed calculated as mean of the log10 transformed reaction time for correct responses (lower score=better); performance accuracy calculated as arcsine transformation of the proportion of correct responses (higher scores=better). Main outcome measure is a composite score (average of task scores after transformation and standardization by age-specific norms). A positive standardized score indicates that a patient performed better than average; a negative standardized score indicates below average results. Patients complete assessments at baseline and 1 year after randomization to parent IBCSG 24-02 (SOFT) study."
+    }
+  ],
+  "sponsor": "ETOP IBCSG Partners Foundation",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Breast Cancer Trials, Australia and New Zealand",
+    "Cancer and Leukemia Group B"
+  ],
+  "start_date": "2007-12",
+  "completion_date": "2016-04",
+  "last_updated": "2016-07-11"
+}

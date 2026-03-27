@@ -1,0 +1,90 @@
+{
+  "nct_id": "NCT02475213",
+  "brief_title": "Safety Study of Enoblituzumab (MGA271) in Combination With Pembrolizumab or MGA012 in Refractory Cancer",
+  "official_title": "A Phase 1, Open-Label, Dose Escalation Study of MGA271 in Combination With Pembrolizumab and in Combination With MGA012 in Patients With Melanoma, Squamous Cell Cancer of the Head and Neck, Non-Small Cell Lung Cancer, Urothelial Cancer, and Other Cancers",
+  "brief_summary": "The purpose of this study is to evaluate the safety of enoblituzumab (MGA271) in combination with Keytruda (pembrolizumab) when given to patients with B7-H3-expressing melanoma, squamous cell carcinoma of the head and neck (SCCHN), non small cell lung cancer (NSCLC), Urothelial Cancer and other B7-H3 expressing cancers. The study will also evaluate what is the highest dose of enoblituzumab that can be given safely when given with pembrolizumab. Assessments will also be done to see how the drug acts in the body (pharmacokinetics (PK), pharmacodynamics) and to evaluate potential anti-tumor activity of MGA271 in combination with pembrolizumab. Safety and efficacy of enoblituzumab in combination with MGA012 (anti-PD-1 monoclonal antibody; also known as INCMGA00012) will also be evaluated.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 146,
+  "conditions": [
+    "Melanoma",
+    "Head and Neck Cancer",
+    "Non Small Cell Lung Cancer",
+    "Urothelial Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Enoblituzumab Schedule 1",
+      "type": "BIOLOGICAL",
+      "description": "enoblituzumab is administered by IV infusion once per week for up to 51 doses."
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "BIOLOGICAL",
+      "description": "Pembrolizumab is administered by IV infusion every 3 weeks for up to 17 doses."
+    },
+    {
+      "name": "Enoblituzumab Schedule 2",
+      "type": "BIOLOGICAL",
+      "description": "Enoblituzumab is administered by IV infusion every 3 weeks for up to 17 doses"
+    },
+    {
+      "name": "retifanlimab",
+      "type": "BIOLOGICAL",
+      "description": "Retifanlimab is administered by IV infusion every 3 weeks for up to 17 doses"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* To enroll on cohorts 1-4, participants must have a histologically-proven, previously treated, unresectable, locally advanced or metastatic mesothelioma, urothelial cancer, thyroid cancer, pancreatic cancer, ovarian cancer, colon cancer, prostate cancer, soft tissue sarcoma, triple negative breast cancer, renal clear cell cancer, melanoma, squamous cell cancer of the head and neck, or non-small cell lung cancer.\n* Participants on the melanoma cohort must have progressed on or after at least one anti-PD-L1 or anti- PD-1 containing therapy.\n* Participants on the SCCHN cohort must have progressed on or after platinum-based systemic therapy\n* Participants on the NSCLC cohort must have progressed on or after first line systemic therapy\n* Participants on the urothelial cancer cohort must have received at least one platinum-containing regimen and have progressed on or after an anti-PD-L1 or anti-PD-1 containing therapy\n* Measurable disease per RECIST 1.1 criteria\n* Easter Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Acceptable laboratory parameters and adequate organ reserve.\n\nExclusion Criteria:\n\n* Patients with a history of symptomatic central nervous system metastases, unless treated and asymptomatic\n* Patients with history of autoimmune disease with certain exceptions such as vitiligo, resolved childhood atopic dermatitis, psoriasis not requiring systemic therapy within the past 2 years, patients with history of Grave's disease that are now euthyroid clinically and by lab testing\n* History of allogeneic bone marrow, stem cell, or solid organ transplant\n* Treatment with systemic cancer therapy or investigational therapy within 4 weeks of first study drug administration; radiation within 2 weeks; corticosteroids (greater than or equal to 10 mg prednisone or equivalent per day) or other immune suppressive drugs within 2 weeks of first study drug administration\n* Trauma or major surgery within 4 weeks of first study drug administration\n* History of clinically-significant cardiovascular disease; gastrointestinal perforation; gastrointestinal bleeding, acute pancreatitis or diverticulitis within 4 weeks of first study drug administration\n* Active viral, bacterial, or systemic fungal infection requiring parenteral treatment within 7 days of first study drug administration\n* Known history of hepatitis B or C infection or known positive test for hepatitis B surface antigen or core antigen, or hepatitis C polymerase chain reaction (PCR)\n* Known positive testing for human immunodeficiency virus or history of acquired immune deficiency syndrome\n* Known hypersensitivity to recombinant proteins, polysorbate 80, or any excipient contained in the drug or vehicle formulation for MGA271 or pembrolizumab.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Christiana Care Health Services, Inc.",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "University of Maryland Greenbaum Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Hospital of the University of Pennsylvania/Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburg",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Dose-limiting Toxicities (DLT) After Administration of Enoblituzumab and Pembrolizumab or Retifanlimab",
+      "timeFrame": "Study Day 1-42, for Cohorts 1-4.",
+      "description": "Dose-limiting toxicities are severe side effects related to study treatment that may cause dose interruptions, dose reductions, or withdrawal of treatment."
+    }
+  ],
+  "sponsor": "MacroGenics",
+  "collaborators": [],
+  "start_date": "2015-07",
+  "completion_date": "2021-08-18",
+  "last_updated": "2025-08-04"
+}

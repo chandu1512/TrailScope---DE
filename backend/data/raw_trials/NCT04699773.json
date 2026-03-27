@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT04699773",
+  "brief_title": "LITT Followed by Hypofractionated RT for Newly Diagnosed Gliomas (GCC 20138)",
+  "official_title": "Laser Interstitial Thermal Therapy Followed By Hypofractionated Radiation Therapy For Treatment Of Newly Diagnosed High-Grade Gliomas",
+  "brief_summary": "The purpose of this study is to evaluate the treatment regimen of using Laser Interstitial Thermal Therapy (LITT) and Hypo-fractionated Radiation Therapy to treat patients with newly diagnosed gliomas.",
+  "detailed_description": "Radiation therapy is preferably used as an adjunct to surgery for patients with a newly diagnosed or recurrent glioblastoma. LITT offers an alternative to surgical resection, and due to its minimally invasive nature, does not delay initiating radiation therapy. Another advantage of LITT prior to radiation therapy is the ability to obtain a tissue diagnosis of the tumor prior to initiating radiation therapy.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 32,
+  "conditions": [
+    "Glioma",
+    "Glioblastoma",
+    "Brain Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "LITT",
+      "type": "PROCEDURE",
+      "description": "This procedure is done under MRI guidance and employs low-powered thermal energy to achieve tumor ablation through coagulation."
+    },
+    {
+      "name": "Hypofractionated Radiation Therapy",
+      "type": "RADIATION",
+      "description": "Treatments will be delivered once daily on consecutive treatment days (typically 5 fractions per week). Radiation therapy simulation is to be performed within 10 days of the LITT procedure."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients with radiographic evidence of suggestive of a primary high-grade glioma\n2. Brain MRI with contrast demonstrates an enhancing mass within 60 days prior to registration. Patient must be deemed a candidate for LITT from MRI by Neurosurgery in order to be eligible.\n3. History and physical including neurological exam within 30 days prior to registration\n4. Karnofsky performance status \u226550% within 30 days prior to registration\n5. Age \u2265 18 years old\n6. Patients must have signed an approved informed consent\n7. Patients with the potential for pregnancy or impregnating their partner must agree to practice effective contraceptive methods to avoid conception while on study and for 6 months after study completion.\n8. Female patients of child-bearing potential must have a negative pregnancy test within 28 days prior to study registration.\n\nExclusion Criteria:\n\n1. Patients that are not surgical candidates for stereotactic biopsy or laser ablation\n2. Patients with impaired cardiac function or clinically significant cardiac diseases, including any of the following:\n\n   * History or presence of serious uncontrolled ventricular or significant arrhythmias.\n   * Any of the following within 6 months prior to registration: myocardial infarction, severe/unstable angina, coronary artery bypass graft, congestive heart failure, cerebrovascular accident, transient ischemic attack , pulmonary embolism\n3. Infratentorial tumor or evidence of leptomeningeal spread\n4. Inability to undergo a MRI\n5. Pregnant or breast-feeding women",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Proton Treatment Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "University of Maryland Greenebaum Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UCH Kaufman Cancer Center",
+      "city": "Bel Air",
+      "state": "Maryland",
+      "zip": "21014",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Central Maryland Radiation Oncology",
+      "city": "Columbia",
+      "state": "Maryland",
+      "zip": "21044",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Baltimore Washington Medical Center",
+      "city": "Glen Burnie",
+      "state": "Maryland",
+      "zip": "21061",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Adverse Events",
+      "timeFrame": "2 years",
+      "description": "The ability to complete protocol treatment (i.e. LITT and radiation therapy) without undue treatment-related acute toxicity as defined below:\n\n* Safety: \\< 40% rate of irreversible Grade 3 or higher neurologic treatment-related toxicity\n* Early stopping rules: Two or more Grade 2 or higher symptomatic CNS hemorrhages; Eight treatment-related Grade 3 or higher non-hematologic or Grade 4 or higher hematologic treatment related toxicities"
+    }
+  ],
+  "sponsor": "University of Maryland, Baltimore",
+  "collaborators": [
+    "Keep Punching Foundation"
+  ],
+  "start_date": "2021-02-20",
+  "completion_date": "2027-12",
+  "last_updated": "2025-03-18"
+}

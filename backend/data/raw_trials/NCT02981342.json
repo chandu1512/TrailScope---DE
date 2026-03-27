@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT02981342",
+  "brief_title": "A Study of Abemaciclib (LY2835219) Alone or in Combination With Other Agents in Participants With Previously Treated Pancreatic Ductal Adenocarcinoma",
+  "official_title": "An Adaptive, Open-Label, Randomized Phase 2 Study of Abemaciclib as a Monotherapy and in Combination With Other Agents Versus Choice of Standard of Care (Gemcitabine or Capecitabine) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma",
+  "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of abemaciclib alone and in combination with other drugs versus standard of care in participants with previously treated metastatic pancreatic ductal adenocarcinoma (PDAC).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 106,
+  "conditions": [
+    "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Abemaciclib",
+      "type": "DRUG",
+      "description": "Administered orally"
+    },
+    {
+      "name": "LY3023414",
+      "type": "DRUG",
+      "description": "Administered orally"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Capecitabine",
+      "type": "DRUG",
+      "description": "Administered orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histological or cytological diagnosis of ductal adenocarcinoma of the pancreas.\n* Metastatic disease with documented disease progression following previous treatment with at least one, but no more than 2 prior therapies, with one of the prior therapies having been either gemcitabine-based or fluoropyrimidine-based therapy. Neoadjuvant and/or adjuvant therapies for localized resectable or unresectable PDAC each count as a line of therapy if multiagent chemotherapy regimens were administered (and neoadjuvant regimen was different than adjuvant regimen) and if the participant progressed with metastatic disease while taking or within 6 months of completion of (neo)adjuvant therapy.\n* Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Participant for whom treatment with monotherapy chemotherapy such as gemcitabine or capecitabine is a reasonable choice.\n* Discontinued all prior treatment for cancer at least 14 days prior to initial dose of study treatment.\n* Adequate organ function.\n\n  * allow alanine aminotransferase (ALT) or aspartate aminotransferase (AST) up to 5x upper limit of normal (ULN) if liver metastases.\n  * allow bilirubin up to 2.5 times ULN if elevation is not associated with other signs of liver toxicity or can be explained by mechanical obstruction - requires clinical research physician approval.\n\nExclusion Criteria:\n\n* Have a personal history of any of the following conditions: syncope of either unexplained or cardiovascular etiology, ventricular arrhythmia (including but not limited to ventricular tachycardia and ventricular fibrillation), or sudden cardiac arrest. Exception: Participants with controlled atrial fibrillation for \\>30 days prior to study treatment initiation are eligible.\n* Have insulin-dependent diabetes mellitus. Participants with type 2 diabetes mellitus are eligible if adequate control of blood glucose level is obtained by oral anti-diabetics as documented by hemoglobin A1c (HbA1c) \\<7%.\n* Have symptomatic central nervous system metastasis. Screening of asymptomatic participants is not required for enrollment.\n* Have had major surgery within 7 days prior to initiation of study drug to allow for postoperative healing of the surgical wound and site(s).\n* Have previously received treatment with any cyclin-dependent kinase (CDK) 4 and 6 inhibitor or phosphatidylinositol 3-kinase (PI3K) and/or mammalian target of rapamycin (mTOR) inhibitor or have a known hypersensitivity to any component of the investigational products in this study.\n* Have a known hypersensitivity to investigator's choice of standard of care (gemcitabine or capecitabine).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Stage 1: Disease Control Rate (DCR): Percentage of Participants With a Best Overall Response of Complete Response (CR), Partial Response (PR) or Stable Disease (SD)",
+      "timeFrame": "Baseline to Measured Progressive Disease or Start of New Anticancer Therapy (Up to 6 Months)",
+      "description": "Disease control rate (DCR) is the percentage of participants with a best overall response of CR, PR or SD as defined by RECIST v1.1. CR is defined as the disappearance of all target and non-target lesions and no appearance of new lesions. PR is defined as at least a 30% decrease in the sum of the longest diameter (LD) of target lesions (taking as reference the baseline sum LD), no progression of non-target lesions, and no appearance of new lesions. SD is neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for progressive disease (PD) for target lesions, no progression of non-target lesions, and no appearance of new lesions. PD is defined as at least a 20% increase in the sum of the diameters of target lesions, with reference being the smallest sum on study and an absolute increase of at least 5 mm, or unequivocal progression of non-target lesions, or 1 or more new lesions."
+    },
+    {
+      "measure": "Stage 2: Progression Free Survival (PFS)",
+      "timeFrame": "Baseline to Measured Progressive Disease or Death Due to Any Cause (Up to 6 Months)",
+      "description": "PFS was defined as the time from the date of randomization until first observation of objective progressive disease as defined by RECIST v1.1 or death from any cause, whichever comes first. PD is defined as at least a 20% increase in the sum of the diameters of target lesions, with reference being the smallest sum on study and an absolute increase of at least 5 mm, or unequivocal progression of non-target lesions, or 1 or more new lesions. If a patient does not have a complete baseline disease assessment, then the PFS time will be censored at the randomization date, regardless of whether or not objectively determined disease progression or death has been observed for the patient; otherwise, if a patient is not known to have died or have objective progression as of the data inclusion cutoff date for the analysis, the PFS time will be censored at the last complete objective progression-free disease assessment date."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2017-01-12",
+  "completion_date": "2018-11-09",
+  "last_updated": "2019-11-06"
+}

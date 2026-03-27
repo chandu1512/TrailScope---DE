@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT05674175",
+  "brief_title": "Co-administration of CART22-65s and huCART19 for B-ALL",
+  "official_title": "Use of Autologous Anti-CD22 CAR T Cells (CART22-65s) Co-administered With Humanized Anti-CD19 CAR T Cells (huCART19) in Children and Young Adults With Relapsed or Refractory B-ALL",
+  "brief_summary": "This study will evaluate the safety and efficacy of administering two CAR T cell products, huCART19 and CART22-65s, in children with advanced B cell Acute Lymphoblastic Leukemia (B-ALL).",
+  "detailed_description": "CD19-targeted CAR T cell therapy has transformed the treatment landscape for children and young adults with chemo-refractory or relapsed B cell Acute Lymphoblastic Leukemia (B-ALL). Despite remarkable initial response rates, approximately 50% of pediatric patients experience a subsequent disease relapse. The prognosis for these patients is dismal with a median survival of less than one year from the time of post-CART19 relapse. The primary mechanisms contributing to CART19 failure include CD19-antigen escape and loss of CAR T cell surveillance due to short CART persistence. This study aims to counter each driver of relapse by co-administering two next-generation CAR T cell products: an anti-CD22 CART (CART22-65s), designed to overcome CD19-antigen escape; and a humanized anti-CD19 CART (huCART19), designed to overcome immune-mediated rejection of murine CART19.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 93,
+  "conditions": [
+    "B-cell Acute Lymphoblastic Leukemia",
+    "B Lineage Lymphoblastic Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "Autologous, humanized anti-CD22 CAR T cell therapy (CART22-65s)",
+      "type": "BIOLOGICAL",
+      "description": "CART22-65s are autologous T cells that have been engineered to express an extracellular single chain antibody (scFv) with specificity for CD22 linked to an intracellular signaling molecule consisting of a tandem signaling domain comprised of the TCR\u03b6 signaling module linked to the 4-1BB costimulatory domain"
+    },
+    {
+      "name": "Autologous, humanized anti-CD19 CAR T cell therapy (huCART19)",
+      "type": "BIOLOGICAL",
+      "description": "HuCART19 cells are autologous T cells that have been engineered to express an extracellular single chain antibody (scFv) with specificity for CD19 linked to an intracellular signaling molecule consisting of a tandem signaling domain comprised of the TCR\u03b6 signaling module linked to the 4-1BB costimulatory domain"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Signed informed consent form\n2. Patients with documented CD19+ and/or CD22+ ALL/LLy:\n\n   1. Cohort A: Patients with relapsed or refractory ALL/LLy:\n   2. Cohort B: Patients with poor response to prior B cell directed engineered cell therapy\n3. Patients with prior or current history of Central Nervous System 3 disease will be eligible if Central Nervous System disease is responsive to therapy\n4. Documentation of CD19 and/or CD22 tumor expression in bone marrow, peripheral blood, Cerebrospinal fluid, or tumor tissue by flow cytometry at the time of last detectable disease. If the patient has experienced a relapse after CD19-directed and/or CD22-directed therapy, flow cytometry should be evaluated after this therapy to demonstrate CD19 and/or CD22 expression.\n5. Age 0-29 years\n6. Adequate organ function\n7. Adequate performance status defined as Lanksy or Karnofsky performance score \u226550.\n8. Subjects of reproductive potential must agree to use acceptable birth control methods.\n\nExclusion Criteria:\n\n1. Active hepatitis B or active hepatitis C\n2. HIV infection\n3. Active acute or chronic Graft Vs. Host Disease requiring systemic therapy\n4. Concurrent use of systemic steroids or immunosuppression at the time of cell infusion or cell collection, or a condition, in the treating physician's opinion, that is likely to require steroid therapy or immunosuppression during collection or after infusion. Steroids for disease treatment at times other than cell collection or at the time of infusion are permitted. Use of physiologic replacement hydrocortisone or inhaled steroids is permitted as well.\n5. Central nervous system disease that is progressive on therapy, or with Central nervous system parenchymal lesions that might increase the risk of central nervous system toxicity.\n6. Pregnant or nursing (lactating) women\n7. Uncontrolled active infection",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "29 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety of CART22-65s and huCART19 co-administration",
+      "timeFrame": "1 year",
+      "description": "The safety of the administering CART22-65s and huCART19 will be measured by the monitoring the frequency and severity of adverse events in patients with advanced or refractory B-Cell Acute Lymphoblastic Leukemia or B Cell Lymphoblastic Lymphoma (B-LLy), including those previously treated with cell therapy."
+    },
+    {
+      "measure": "Efficacy of CART22-65s and huCART19 co-administration",
+      "timeFrame": "1 year",
+      "description": "The efficacy of CART22-65s and huCART19 co-administration will be measured by the evaluating the overall response rate in patients with advanced or refractory B cell hematologic malignancies, including those previously treated with cell therapy."
+    }
+  ],
+  "sponsor": "Stephan Grupp MD PhD",
+  "collaborators": [
+    "University of Pennsylvania"
+  ],
+  "start_date": "2023-01-25",
+  "completion_date": "2029-01-15",
+  "last_updated": "2026-01-22"
+}

@@ -1,0 +1,47 @@
+{
+  "nct_id": "NCT06135870",
+  "brief_title": "Role of Senescent Cells in Uterine Fibroid Pathogenesis (SOUL Study)",
+  "official_title": "Role of Senescent Cells in Uterine Fibroid Pathogenesis",
+  "brief_summary": "The investigators are evaluating the role of senescent cells in uterine fibroids.",
+  "detailed_description": "Uterine fibroids are prevalent tumors of uterus characterized by excessive fibrotic tissues. Using new cutting-edge computational methods, the investigators have found that small groups of senescent cells in fibroids work in concert with immune cells to produce soluble factors in fibroid tissues to create a feed-forward loop leading to fibrosis. This project seeks to unravel key cell-cell communication networks involving senescent and immune cells in fibroids to develop new treatments for uterine fibroids.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 150,
+  "conditions": [
+    "Fibroid",
+    "Leiomyoma"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subjects must be women above the age of \u226518 - \u226455 years.\n* Women with suspected uterine fibroids.\n* Subject must be or have been sexually active or have had a previous vaginal exam that used a speculum.\n* Subject must be able to understand, read and speak English or Spanish and subsequently, be able to understand what she is consenting to in terms of procedures and use/disclosure of protected health information.\n\nExclusion Criteria:\n\n* Unwilling to sign the consent form or complete questionnaire.\n* Pregnancy.\n* Cancer of the uterus",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "55 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Develop an atlas to comprehensively quantify the rate of senescent cell (SnC) types in fibroid and myometrium tissue samples",
+      "timeFrame": "5 years",
+      "description": "Perform scRNASeq on human fibroids and control myometrium tissue and apply transfer learning algorithm for SnC identification and phenotyping to identify cell-cell communication patterns in fibroids versus control myometrial tissue using Domino to validate computationally predicted senescent cell types. The computationally predicted immune phenotypes will be validated with flow cytometry."
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [
+    "National Institutes of Health (NIH)",
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)"
+  ],
+  "start_date": "2023-11-01",
+  "completion_date": "2027-12-31",
+  "last_updated": "2025-12-05"
+}

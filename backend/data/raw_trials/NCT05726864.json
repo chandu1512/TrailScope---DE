@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT05726864",
+  "brief_title": "A Study of ELI-002 7P in Subjects With KRAS/NRAS Mutated Solid Tumors",
+  "official_title": "First in Human Phase 1/2 Trial of ELI-002 7P Immunotherapy as Treatment for Subjects With Kirsten Rat Sarcoma (KRAS)/Neuroblastoma RAS Viral Oncogene Homolog (NRAS) Mutated Pancreatic Ductal Adenocarcinoma (PDAC) and Other Solid Tumors",
+  "brief_summary": "This is a Phase 1/2 study to assess the safety and efficacy of ELI-002 7P immunotherapy (a lipid-conjugated immune-stimulatory oligonucleotide \\[Amph-CpG-7909\\] plus a mixture of lipid-conjugated peptide-based antigens \\[Amph-Peptides 7P\\]) as adjuvant treatment in subjects with solid tumors with mutated KRAS/NRAS. This study builds on the experience obtained with related product ELI-002 2P, which was studied in protocol ELI-002-001 under IND 26909.",
+  "detailed_description": "The study consists of 3 phases: Phase 1A, Phase 1B, and Phase 2. In Phase 1A, seven Amph modified KRAS and NRAS peptides, G12D, G12R, G12V, G12A, G12C, G12S, G13D (Amph-Peptides 7P) will be evaluated in combination with recommended Phase 2 dose of Amph-CpG-7909 (10.0mg). This Amph-CpG-7909 dose will be evaluated with two Amph-Peptides 7P dose levels (1.4mg and 4.9mg) in 6 subjects per dose level. Following enrollment of these 12 subjects, the independent data monitoring committee (IDMC) will decide if another 6 subjects should be enrolled or if the dose can be determined for Phase 1B and Phase 2 portions of the study to be opened. If another 6 subjects are enrolled to Phase 1A, the IDMC will meet again to decide upon the dose for Phase 1B and Phase 2 prior to opening these portions of the study.\n\nIn Phase 1B, one dose expansion cohort of up to 17 colorectal cancer \\[CRC\\] subjects may be added to evaluate for preliminary evidence of biomarker response, including circulating tumor deoxyribonucleic acid (ctDNA) and/or serum tumor biomarker (such as CA19-9 and CEA) reduction and clearance in KRAS and NRAS.\n\nIn Phase 2, an additional 135 PDAC subjects will be randomized 2:1 (ELI-002 7P versus observation) to further evaluate antitumor activity. Subjects randomized to ELI-002 7P will receive subcutaneous (SC) injections of ELI-002 7P during Immunization and Booster Periods. Subjects randomized to observation will have the same safety and efficacy evaluations and will follow the same assessment schedule as subjects randomized to ELI-002 7P but will not receive study treatment. Subjects randomized to observation will be able to elect to cross-over to ELI-002 7P treatment in the event of confirmed disease progression.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 158,
+  "conditions": [
+    "Pancreatic Ductal Adenocarcinoma",
+    "Colorectal Cancer",
+    "KRAS G12D",
+    "KRAS G12R",
+    "KRAS G12V",
+    "KRAS G12A",
+    "KRAS G12C",
+    "KRAS G12S",
+    "KRAS G13D",
+    "NRAS G12D",
+    "NRAS G12R",
+    "NRAS G12V",
+    "NRAS G12C",
+    "NRAS G12S"
+  ],
+  "interventions": [
+    {
+      "name": "ELI-002 7P",
+      "type": "DRUG",
+      "description": "ELI-002 Amph-CpG-7909 admixed with ELI-002 Amph-Peptides 7P administered via SC injection weekly for 4 consecutive weeks, followed by bi-weekly injections over 4 weeks, during the Immunization Period; additional SC injections weekly for 4 weeks during the Booster Period (the two periods are separated by 2 months of no dosing)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* KRAS/NRAS mutated (G12D, G12R, G12V, G12A, G12C, G12S, G13D) solid tumor\n* Phase 1 only: positive for circulating tumor DNA and/or elevated serum tumor biomarkers (such as CA19-9 and CEA) despite prior standard therapy including surgery and chemotherapy/radiation therapy where applicable\n* Screening CT is negative for recurrent disease\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n\nExclusion Criteria:\n\n* Presence of tumor mutations where specific therapy is approved\n* Known brain metastases\n* Use of immunosuppressive drugs",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Lehigh Valley Health Network",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18003",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1: Evaluate the safety of ELI-002 7P",
+      "timeFrame": "28 days after the first dose of ELI-002 7P",
+      "description": "Safety will be assessed by the incidence of adverse events (AEs) and clinically significant changes in laboratory tests and vital signs"
+    },
+    {
+      "measure": "Phase 2: Compare ELI-002 7P versus standard of care (SOC; observation) in DFS (disease free survival)",
+      "timeFrame": "After the last radiographic assessment at Visit 26 (Week 150)",
+      "description": "DFS is assessed by the investigator through computed tomography (CT) imaging or magnetic resonance imaging (MRI) with contrast and using iRECIST criteria"
+    }
+  ],
+  "sponsor": "Elicio Therapeutics",
+  "collaborators": [],
+  "start_date": "2023-04-14",
+  "completion_date": "2026-11",
+  "last_updated": "2026-03-16"
+}

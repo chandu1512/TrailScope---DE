@@ -1,0 +1,113 @@
+{
+  "nct_id": "NCT04305613",
+  "brief_title": "Cardiotoxicity in Locally Advanced Lung Cancer Patients Treated With Chemoradiation Therapy",
+  "official_title": "Cardiotoxicity in Locally Advanced Lung Cancer Patients Treated With Chemoradiation Therapy: A Prospective Longitudinal Cohort",
+  "brief_summary": "This observational cohort will evaluate the cardiovascular effects of chemoradiation used to treat locally advanced, non-small cell lung cancer. Patients will be enrolled prior to the start of therapy and followed during and for at least 2 years after therapy with echocardiograms, nuclear stress tests, blood sampling, and quality of life surveys.",
+  "detailed_description": "Lung cancer is both the most common malignancy worldwide and the leading cause of cancer death in the US. While radiation therapy is highly effective for many solid tumors, thoracic radiation therapy carries a risk of cardiovascular morbidity and mortality that limits critical gains in cancer control and survival. The investigators will perform detailed cardiovascular phenotyping using biologic and imaging markers to define functional and physiologic perturbations that occur with radiation therapy. The study will provide insights into how cardiovascular risk factors and disease impact these biologic and functional changes. The investigators will also determine which radiotherapy dose-volume metrics are indicative of subclinical cardiotoxicity.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 221,
+  "conditions": [
+    "Cardiotoxicity",
+    "Lung Cancer Stage III",
+    "Lung Cancer Stage II",
+    "Radiation Toxicity"
+  ],
+  "interventions": [
+    {
+      "name": "Chemoradiation",
+      "type": "OTHER",
+      "description": "Patients will be treated with definitive concurrent chemoradiation with curative intent as determined by their medical and radiation oncologists. We will consider timing of initiation and discontinuation, type, and cumulative dose of platinum based chemotherapy. We will also consider dose, duration, and type of immunotherapy. Radiation therapy will be delivered via proton or proton therapy. Our primary radiation therapy dose-volume exposures are whole heart volumetric dose. As secondary exposures, we will comprehensively define radiation therapy dose parameters to the right ventricle, entire left ventricle, left ventricle segments, coronary arteries, and mean heart dose."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* At least 18 years of age\n* Histologically confirmed or clinically diagnosed non-small cell lung cancer where the plan is for definitive treatment that includes radiation\n* Able to give written informed consent\n\nExclusion Criteria:\n\n* Pregnant or breast-feeding\n* Prior treatment with anthracyclines\n* Radiation treatment not expected to involve any heart exposure as determined by treating provider\n* ECOG performance status greater than 2\n* Vulnerable patients, including pregnant women and prisoners\n* Contraindication to rest/vasodilator stress PET/CT, including: asthma with ongoing wheezing at time of enrollment; known Mobitz Type II AV block, 3rd degree AV block, or sick sinus syndrom, without a pacemaker; systolic blood pressure less than 90mmHg; known hypersensitivity to Regadenoson and adenosine; profound sinus bradycardia (heart rate less than 40bpm).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutger's University / Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "Lancaster General Hospital",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17601",
+      "status": ""
+    },
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Chester County Hospital",
+      "city": "West Chester",
+      "state": "Pennsylvania",
+      "zip": "19380",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "High Sensitivity C-Reactive Protein",
+      "timeFrame": "up to 12 months",
+      "description": "Change in hsCRP from baseline"
+    },
+    {
+      "measure": "Growth Differentiation Factor 15",
+      "timeFrame": "up to 12 months",
+      "description": "Change in GDF-15 from baseline"
+    },
+    {
+      "measure": "Placental Growth Factor",
+      "timeFrame": "up to 12 months",
+      "description": "Change in PIGF from baseline"
+    },
+    {
+      "measure": "Left Ventricular Strain",
+      "timeFrame": "up to 12 months",
+      "description": "Change in echo-derived measures of LV peak systolic strain (longitudinal) from baseline"
+    },
+    {
+      "measure": "Ventricular Arterial Coupling",
+      "timeFrame": "up to 12 months",
+      "description": "Change in echo-derived measures of ventricular-arterial coupling (Ea/Ees) from baseline"
+    },
+    {
+      "measure": "Coronary Flow Reserve (CFR_",
+      "timeFrame": "6 months",
+      "description": "Change in PET/CT derived CFR from baseline"
+    },
+    {
+      "measure": "Overall Survival (2 Year)",
+      "timeFrame": "24 months",
+      "description": "All-cause mortality assessed by electronic medical record (EMR) review"
+    },
+    {
+      "measure": "Cardiovascular Specific Mortality (2 Year)",
+      "timeFrame": "24 Months",
+      "description": "Cardiovascular specific mortality assessed by EMR review"
+    },
+    {
+      "measure": "Major Cardiovascular Events (2 Year)",
+      "timeFrame": "up to 24 months",
+      "description": "Incidence of MCE assessed by EMR review and patient interview"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2020-09-14",
+  "completion_date": "2030-12",
+  "last_updated": "2025-09-29"
+}

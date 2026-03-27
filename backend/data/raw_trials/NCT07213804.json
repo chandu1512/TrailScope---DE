@@ -1,0 +1,121 @@
+{
+  "nct_id": "NCT07213804",
+  "brief_title": "A Two-Part Phase 3 Study of Sofetabart Mipitecan (LY4170156) in Participants With Platinum-Resistant (Part A) and Platinum-Sensitive (Part B) Ovarian Cancer",
+  "official_title": "FRAmework-01: A Two-Part Phase 3 Study of Sofetabart Mipitecan (LY4170156) Versus Chemotherapy or Mirvetuximab Soravtansine in Platinum-Resistant Ovarian Cancer, and Sofetabart Mipitecan Plus Bevacizumab Versus Platinum-Based Chemotherapy Plus Bevacizumab in Platinum-Sensitive Ovarian Cancer.",
+  "brief_summary": "This is a clinical study that has two parts. It is testing a potential new medicine called Sofetabart Mipitecan (LY4170156) for people with certain types of ovarian, peritoneal, and fallopian tube cancers. Part A looks at participants whose cancer no longer responds to platinum-based treatments (a type of chemotherapy). Part B looks at participants whose cancer still responds to platinum-based treatments. The researchers want to find out if Sofetabart Mipitecan works better than the usual treatments that doctors use now and to better understand how safe it is. Each participant's time in the study will depend on how they respond to the treatment.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1080,
+  "conditions": [
+    "Ovarian Neoplasms",
+    "Fallopian Tube Neoplasms",
+    "Peritoneal Neoplasms",
+    "Neoplasm Metastasis"
+  ],
+  "interventions": [
+    {
+      "name": "Sofetabart Mipitecan",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Topotecan",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Pegylated liposomal doxorubicin (PLD)",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "MIRV",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Administered IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nPart A and B:\n\n* Have histologically confirmed high-grade serous or high-grade endometrioid ovarian, primary peritoneal, or fallopian tube cancer.\n* Have confirmed availability of tumor tissue block or slides\n* Have radiographic progression on or after most recent line of systemic anticancer therapy\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n* Have measurable disease per RECIST v1.1\n\nPart A:\n\n* Have platinum-resistant disease, defined as radiographic progression less than or equal to (\u2264)6 months of the last administration of platinum therapy.\n* Have previously received greater than or equal to (\u2265)1 but \u22643 prior lines of systemic cytotoxic therapy. Up to 4 lines of prior therapy is allowed if one of those lines is mirvetuximab soravtansine.\n* Have received prior bevacizumab treatment, unless documented contraindication or intolerance.\n* Have received treatment with a poly(ADP-ribose) polymerase inhibitor (PARPi) if known to have a somatic or germline breast cancer gene (BRCA) mutation, if clinically indicated, unless documented contraindication or intolerance.\n\nPart B:\n\n* Have relapsed after first-line platinum-based chemotherapy and have platinum-sensitive disease defined as radiographic progression greater than (\\>)6 months of their last administration of platinum therapy\n* Have previously received \u22651 but \u22642 prior lines of systemic cytotoxic chemotherapy\n* Have previously received a PARPi, per local product label, with progression on, or within 6 months of completion of PARPi treatment.\n\nExclusion Criteria:\n\nPart A and B:\n\n\\- Have received prior antibody-drug conjugate (ADC) with a topoisomerase inhibitor payload.\n\nPart A:\n\n\\- Have primary platinum-refractory disease, defined as disease that progressed \u22643 months since the last dose of first-line platinum-containing chemotherapy.\n\nPart B:\n\n\\- Have clinically significant proteinuria",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Greater Baltimore Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Sinai Hospital Of Baltimore",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21215",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Holy Name Medical Center",
+      "city": "Teaneck",
+      "state": "New Jersey",
+      "zip": "07666",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "University of Pennsylvania Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Asplundh Cancer Pavilion",
+      "city": "Willow Grove",
+      "state": "Pennsylvania",
+      "zip": "19090",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS)",
+      "timeFrame": "Randomization to radiographic progression or death from any cause (up to 70 months)",
+      "description": "PFS per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 by Investigator"
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [
+    "GOG Foundation",
+    "European Network of Gynaecological Oncological Trial Groups (ENGOT)",
+    "Asia-Pacific Gynecologic Oncology Trials Group (APGOT)"
+  ],
+  "start_date": "2025-10-22",
+  "completion_date": "2031-08",
+  "last_updated": "2026-03-19"
+}

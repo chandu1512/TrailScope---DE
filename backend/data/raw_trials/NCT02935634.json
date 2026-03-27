@@ -1,0 +1,104 @@
+{
+  "nct_id": "NCT02935634",
+  "brief_title": "A Study to Test Combination Treatments in Participants With Advanced Gastric Cancer",
+  "official_title": "A Phase 2, Fast Real-time Assessment of Combination Therapies in Immuno-ONcology Study in Participants With Advanced Gastric Cancer (FRACTION-Gastric Cancer)",
+  "brief_summary": "The purpose of this study is to evaluate the preliminary efficacy, safety, and tolerability of Nivolumab in combination with Ipilimumab or other treatment therapies in participants with advanced gastric cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 190,
+  "conditions": [
+    "Advanced Gastric Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Ipilimumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Relatlimab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "BMS-986205",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Rucaparib",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Inoperable, advanced or metastatic esophageal cancer (EC), gastric cancer (GC) or gastroesophageal junction (GEJ) carcinoma and have histologically confirmed predominant adenocarcinoma and/or squamous carcinoma\n* Eastern Cooperative Oncology Group (ECOG) performance status \u2264 1\n* At least 1 lesion with measurable disease\n\nExclusion Criteria:\n\n* HER2-positive tumor and previously untreated with trastuzumab\n* Suspected, known or progressive central nervous system metastases\n* Other active malignancy requiring concurrent intervention\n* Active, known or suspected autoimmune disease\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0006",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0001",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0005",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "UPMC",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR) by Investigator",
+      "timeFrame": "From first dose of study treatment until progression or subsequent anticancer therapy, whichever occurs first (up to approximately 65 months)",
+      "description": "ORR is the percent of participants whose best overall response (BOR) is complete response (CR) or partial response (PR). BOR is the best response from the start of the study treatment until objectively documented progression per RECIST v1.1 or subsequent anticancer therapy, whichever occurs first. CR is the disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) have reduction in short axis to \\<10 mm. PR is at least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. The Response Evaluation Criteria in Solid Tumors (RECIST) is a standard way to measure the response of a tumor to treatment. CR+PR, confidence interval based on Clopper and Pearson method."
+    },
+    {
+      "measure": "Median Duration of Response (DOR)",
+      "timeFrame": "From first dose to date of first documented tumor progression or death due to any cause, whichever occurred first (up to approximately 65 months)",
+      "description": "Duration of Response (DOR) is the time between the date of first response and the date of first documented disease progression as determined by RECIST 1.1 or death due to any cause, whichever occurred first. Complete Response (CR) is the disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\<10 mm. Partial Response (PR) is at least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. Median computed using Kaplan -Meier method."
+    },
+    {
+      "measure": "Kaplan-Meier Analysis of Progression Free Survival Rate (PFSR) at 24 Weeks",
+      "timeFrame": "24 weeks after first dose",
+      "description": "The PFSR at 24 weeks is defined as the proportion of treated participants remaining progression free and surviving at 24 weeks since the first dosing date. Progressive Disease (PD) is at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. Point estimates are derived from Kaplan-Meier analyses, the 95% CIs are derived from Greenwood formula."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "Clovis Oncology, Inc."
+  ],
+  "start_date": "2016-11-29",
+  "completion_date": "2022-05-11",
+  "last_updated": "2023-05-09"
+}

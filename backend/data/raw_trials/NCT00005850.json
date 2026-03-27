@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT00005850",
+  "brief_title": "Combination Chemotherapy Plus Fluoxetine in Treating Patients With Advanced or Recurrent Non-Small Cell Lung Cancer",
+  "official_title": "Fluoxetine in Stage IIIB/IV Non-Small Cell Lung Cancer (NSCLC): A Phase II Pilot Study to Improve Quality of Life During Chemotherapy",
+  "brief_summary": "This trial is designed to test the efficacy of fluoxetine to improve patient's quality of life during chemotherapy. An innovative application of a selective serotonin reuptake inhibitor may modulate the effects of fatigue, anxiety and depression which worsen quality of life.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary Objectives:\n\n1. To preliminarily test the efficacy of fluoxetine to improve the quality of life of patients with advanced non-small cell lung cancer receiving chemotherapy by decreasing anxiety, depression and fatigue.\n2. To test the feasibility of conducting a multi-center clinical trial of fluoxetine administered by oncologists concurrently with chemotherapy in patients with non-small cell lung cancer.\n\nSecondary Objectives:\n\n1. To describe the tumor response rate associated with the administration of gemcitabine/cisplatin in patients with advanced non-small cell lung cancer.\n2. To describe the overall survival and failure-free survival associated with the administration of gemcitabine/cisplatin.\n3. To describe the toxicity associated with the administration of gemcitabine/cisplatin.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 21,
+  "conditions": [
+    "Anxiety Disorder",
+    "Depression",
+    "Fatigue",
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "cisplatin",
+      "type": "DRUG",
+      "description": "80 mg/m2 administered by intravenous (IV) over 30 minutes on Day 1 following the gemcitabine infusion. Treatment repeated every 21 days for a total of 6 cycles."
+    },
+    {
+      "name": "fluoxetine",
+      "type": "DRUG",
+      "description": "10 mg PO QD (by mouth once daily) starting on week 2 (day 8) and continuing for 7 weeks (days 8-57). After 7 weeks of fluoxetine treatment (day 57), further use of fluoxetine is at the discretion of the patient and physician."
+    },
+    {
+      "name": "gemcitabine hydrochloride",
+      "type": "DRUG",
+      "description": "1000 mg/m2 intravenous (IV) administered by IV over 30 minutes on days 1 and 8. Repeat treatment every 21 days for a total of 6 cycles."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Eligibility Criteria:\n\n1. Histologic Documentation: All patients must have histologically or cytologically documented, non-small cell carcinoma of the lung (adenocarcinoma, large cell, squamous, or mixtures of these types).\n2. Extent of Disease: Stage IIIB/IV cancer by the international staging system or any Stage I-IIIA otherwise eligible patient with recurrent or progressive NSCLC after surgery or radiotherapy.\n\n   * Patients with Stage IIIB because of a malignant pleural effusion, supraclavicular node involvement, or contralateral hilar nodes are eligible (IIIB patients eligible for CALGB protocols of combined chemotherapy and chest irradiation are not eligible.\n   * Patients with known CNS metastases are not eligible.\n3. Measurable or Non-Measurable Disease\n\n   * Measurable Disease: Lesions that can be accurately measured in at least one dimension (longest diameter to be recorded) as \u2265 20 mm with conventional techniques or as \u2265 10 mm with spiral CT scan.\n   * Non-measurable Disease: Only those non-measurable disease patients with ill-defined masses associated with post-obstructive changes and diffuse parenchymal malignant disease are eligible. All other lesions, including small lesions (longest diameter \\< 20 mm with conventional techniques or \\< 10 mm with spiral CT scan) and truly non-measurable lesions, are not eligible.\n\n   Lesions that are considered non-measurable include the following:\n   * Bone lesions\n   * Leptomeningeal disease\n   * Ascites\n   * Pleural/pericardial effusion\n   * Abdominal masses that are not confirmed and followed by imaging techniques\n   * Cystic lesions\n4. Prior Treatment:\n\n   * No prior chemotherapy.\n   * \u2265 2 weeks since radiation therapy.\n   * No antidepressant treatment (eg, selective serotonin reuptake inhibitors, tricyclics, novel antidepressants, St. John's Wort or monoamine oxidase inhibitors) currently or within the last month.\n5. If the patient requires pain medication, pain must be managed with non-codeine preparations, including but not limited to: acetaminophen, any morphine based preparation (short or long acting), hydromorphone, fentanyl, levorphanol or methadone.\n6. CTC Performance Status 0-1.\n7. Non-pregnant and non-nursing because of significant risk to the fetus/infant.\n8. Required Initial Laboratory Data:\n\n   * Granulocytes \u2265 1,500/\u00b5l\n   * Platelet count \u2265 100,000/\u00b5l\n   * Serum creatinine \u2264 1.5 mg/dl or Calculated CrCl \u2265 60 ml/min\n   * Bilirubin \u2264 2.0 x Upper Limit of Normal (ULN)\n   * Serum glutamic oxaloacetic transaminase (SGOT) \u2264 2.0 x ULN",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Veterans Affairs Medical Center - Baltimore",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Cooper University Hospital",
+      "city": "Camden",
+      "state": "New Jersey",
+      "zip": "08103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in the MHI-17 global psychological distress subscale",
+      "timeFrame": "Up to 8 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Overall survival",
+      "timeFrame": "Up to 2 years post-treatment",
+      "description": ""
+    },
+    {
+      "measure": "Failure-free survival",
+      "timeFrame": "Up to 2 years post-treatment",
+      "description": ""
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2001-08",
+  "completion_date": "2003-09",
+  "last_updated": "2016-07-01"
+}

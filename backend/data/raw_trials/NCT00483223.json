@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT00483223",
+  "brief_title": "Platinum for Triple-Negative Metastatic Breast Cancer and Evaluation of p63/p73 as a Biomarker of Response",
+  "official_title": "A Phase II Study of Cisplatin or Carboplatin for Triple-Negative Metastatic Breast Cancer and Evaluation of p63/p73 as a Biomarker of Response",
+  "brief_summary": "The purpose of this research study is to :\n\n* Determine how effective cisplatin or carboplatin is in slowing the time it takes for ER negative (estrogen-receptor-negative), PR negative (progesterone receptor-negative), HER2 negative (human epidermal growth factor receptor 2) breast cancer to progress. Cisplatin and carboplatin are anti-cancer chemotherapy drugs that stop cancer cells from growing abnormally and is used to treat other cancers.\n* Evaluate a new biomarker to help determine which breast cancers are most likely to respond to cisplatin chemotherapy\n\nThe hypothesis is that Triple Negative metastatic breast cancer may be particularly sensitive to platinum, and that a subgroup of those patients may have a marker in their tumors that predicts response.",
+  "detailed_description": "This study is a Phase 2 study designed to evaluate cisplatin/carboplatin as first or second line therapy in metastatic triple negative (ER negative, PR negative, Her2 Negative) breast cancer and to evaluate the expression of p63/p73 as a biomarker to predict response.\n\n* Participants will be given a cisplatin or carboplatin infusion intravenously on the first day of each treatment cycle. Each treatment cycle will last 3 weeks. Treating physician will select agent up to 41 patients in each cohort. Final primary endpoint analysis will use combined cis/carbo results.\n* During all treatment cycles participants will have a physical exam (including weight and vital signs) and they will be asked general questions about their health and any medications they may be taking, as well as specific questions about any side effects they may be experiencing while receiving study treatment.\n* During every treatment cycle participants will have standard blood tests to check blood counts, liver and kidney function, and a blood marker for you particular type of cancer.\n* CT scans will be taken of the participants tumor every 2 to 3 cycles to assess the response of the tumor to cisplatin.\n* Participants will be in this study for as long as they tolerate the study treatment and their disease does not get any worse.\n* Participants will be required to have a sample of their original tumor sent to Massachusetts General Hospital for correlative studies, or a sample from a metastatic diagnostic biopsy.\n* Patients with accessible tumor will be asked to provide an optional metastatic tumor biopsy for correlative studies.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 86,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Given intravenously on the first day of each 3-week treatment cycle at 75mg/m2. Participants may continue to receive study treatment as long as their disease does not worsen and they do not experience serious side effects."
+    },
+    {
+      "name": "carboplatin",
+      "type": "DRUG",
+      "description": "Given intravenously on the first day of each 3-week treatment cycle at AUC 6. Participants may continue to receive study treatment as long as their disease does not worsen and they do not experience serious side effects."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive breast cancer with stage IV disease, according to AJCC 6th edition (American Joint Committee on Cancer), either biopsy proven or with unequivocal evidence of metastatic disease by physical examination or radiological study\n* All tumors must be ER-, PGR- and HER2-negative\n* 18 years of age or older\n* Paraffin tissue block is required from the primary tumor tissue or from diagnostic metastatic biopsy at time of relapse\n* Measurable disease by RECIST\n* Performance status of 0,1 or 2 by ECOG criteria (Eastern Cooperative Oncology Group)\n* Life expectancy greater than 12 weeks\n* Normal organ and bone marrow function documented within 14 days prior to enrollment as defined by the protocol\n\nExclusion Criteria:\n\n* More than 1 prior chemotherapy for the treatment of recurrent or metastatic breast cancer\n* Prior treatment with cisplatin, carboplatin, or other platinum chemotherapy agents\n* Active brain metastases or unevaluated neurological symptoms suggestive of brain metastases\n* Intercurrent illness or other major medical condition or comorbid condition that might affect study participation\n* Significant history of uncontrolled cardiac disease such as uncontrolled hypertension, unstable angina, recent myocardial infarction, uncontrolled congestive heart failure, cardiomyopathy either symptomatic or asymptomatic but with decreased ejection fraction \\<45%\n* Renal dysfunction for which cisplatin dose would either require dose modification or would be considered unsafe\n* Pregnant or nursing women\n* History or other malignancy that was not treated with curative intent",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate",
+      "timeFrame": "3 years",
+      "description": "Objective response rate (ORR) (complete response \\[CR\\]+ partial response \\[PR\\]) by RECIST (Response Evaluation Criteria In Solid Tumors).\n\nComplete Response (CR): Disappearance of all target lesions\n\nPartial Response (PR): At least a 30% decrease in the sum of the LD (longest diameter) of target lesions, taking as reference the baseline sum LD\n\nStable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum LD since the treatment started\n\nProgressive Disease (PD): At least a 20% increase in the sum of the LD of target lesions, taking as reference the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions"
+    },
+    {
+      "measure": "Response Rate Categorized by p63/p73 Ratio",
+      "timeFrame": "3 years",
+      "description": "Response rate categorized by pre-specified \u0394Np63/TAp73 expression ratio cutoff in the primary tumors from this patient cohort as a bio-marker to predict response to cisplatin or carboplatin. Response is defined as partial or completed response as determined by RECIST. Expression ratio was measured using quantitative RT-PCR (Reverse transcription polymerase chain reaction)."
+    }
+  ],
+  "sponsor": "Massachusetts General Hospital",
+  "collaborators": [
+    "Beth Israel Deaconess Medical Center",
+    "Dana-Farber Cancer Institute",
+    "North Shore Medical Center"
+  ],
+  "start_date": "2007-06",
+  "completion_date": "2017-06",
+  "last_updated": "2017-07-25"
+}

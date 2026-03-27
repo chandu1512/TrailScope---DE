@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT05653856",
+  "brief_title": "Cu-64-PSMA-I&T Positron Emission Tomography (PET) Imaging of Metastatic PSMA Positive Lesions in Men With Prostate Cancer",
+  "official_title": "A Multi-Center, Open-Label, Randomized Phase 2 Study of Copper Cu 64 PSMA I&T Injection in Patients With Histologically Proven Metastatic Prostate Cancer",
+  "brief_summary": "This is a prospective, open-label Phase 2 study to evaluate copper Cu 64 PSMA I\\&T injection for PET/CT imaging in patients with recurrent metastatic prostate cancer after radical prostatectomy or radiation therapy.",
+  "detailed_description": "The study will include a group of 26 patients with metastatic prostate cancer. Each patient will be administered a 7-9 mCi intravenous dose of copper Cu 64 PSMA I\\&T injection. PET/CT images will be acquired for all patients at 1 hour \u00b1 15 minutes and 4 hours \u00b1 30 minutes post copper Cu 64 PSMA I\\&T injection.\n\nThe PET/CT images will be interpreted independently by three readers blinded to all patient information. Each patient study will be assessed and scored for the detection of prostate cancer. Specifically, each reader will categorize images as \"Disease\" or \"No Disease\" based only on tumor uptake of copper Cu 64 PSMA-I\\&T in each of the four regions: 1) prostate bed or prostate gland, 2) lymph nodes (pelvic and extra pelvic), 3) bone, and 4) viscera/soft tissue. Analysis of the reads will be used for determination of the CLR and CDR for 1 hour and 4-hour post-injection imaging of copper Cu 64 PSMA I\\&T PET/CT by comparison to the Composite Reference Standard.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 26,
+  "conditions": [
+    "Metastasis From Malignant Tumor of Prostate (Disorder)"
+  ],
+  "interventions": [
+    {
+      "name": "64Cu-PSMA I&T",
+      "type": "DRUG",
+      "description": "Radiolabeled Receptor-Targeted Diagnostic Product"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients with histologically proven prostate adenocarcinoma.\n2. Prior radical prostatectomy or radiation therapy with curative intent.\n3. Recurrence of disease defined as:\n\n   1. Prior Radical Prostatectomy: PSA \\> 0.2 ng/mL, or\n   2. Prior Radiation Therapy: 2 ng/mL rise in PSA over post-treatment nadir\n4. Patients with at least one extraprostatic site of disease suspected based on prior imaging or diagnosed by biopsy.\n5. Age greater than or equal to 18 years.\n6. Able to understand and provide signed written informed consent.\n\nExclusion Criteria:\n\n1. Androgen deprivation therapy (ADT) or other therapies targeting the androgen pathway, unless subject has a rising PSA level.\n2. Body weight greater than 350 lb (158 kg).\n3. Investigational therapy within the past 30 days.\n4. Creatinine clearance (ClCr) less than 30 mL/min.\n5. Participants who are capable of fathering a child and who are unwilling to take precautions to prevent pregnancy.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Region-Level Correct Localization Rate (CLR)",
+      "timeFrame": "4 Hours",
+      "description": "To determine the region-level correct localization rate (CLR) of copper Cu 64 PSMA I\\&T injection PET/CT imaging for the detection of recurrent metastatic prostate cancer at 1 hour and 4 hours post injection. The CLR is defined as the percentage of regions containing at least one true PET positive lesion, with exactly localized correspondence between PET/CT imaging and the Composite Reference Standard regardless of any co-existent false positive findings, within the same region, out of all regions containing at least one PET positive finding."
+    },
+    {
+      "measure": "Patient-Level Correct Detection Rate (CDR)",
+      "timeFrame": "4 Hours",
+      "description": "To determine the patient-level correct detection rate (CDR) of copper Cu 64 PSMA I\\&T injection PET/CT imaging for the detection of recurrent metastatic prostate cancer at 1 hour and 4 hours post injection. The CDR is defined as the percentage of patients who have at least one true PET positive lesion, with exactly localized correspondence between PET imaging and the Composite Reference Standard, regardless of any co-existent false positive findings, out of all patients who are scanned."
+    },
+    {
+      "measure": "Incidence of Adverse Events",
+      "timeFrame": "24 Hours",
+      "description": "Adverse events (AEs) were assessed from the time of copper Cu 64 PSMA I\\&T injection throughout the24-hour assessment period. AEs were assessed and graded using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+    }
+  ],
+  "sponsor": "Curium US LLC",
+  "collaborators": [],
+  "start_date": "2022-12-05",
+  "completion_date": "2023-05-17",
+  "last_updated": "2025-01-23"
+}

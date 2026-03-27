@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT05011799",
+  "brief_title": "The Peer Genetic Study",
+  "official_title": "Peer-Based Intervention for Genetic Evaluation for Prostate Cancer Among African American Men: The Peer Genetic Study",
+  "brief_summary": "This trial studies how well a peer-based health education program works in reducing barriers and changing attitudes and beliefs of prostate cancer genetic screening in African American participants with or without a previous personal or family history of prostate cancer. Participating in a peer-based health educational program may help participants learn more about prostate cancer and how their personal or family history of disease may increase their risk of prostate cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 149,
+  "conditions": [
+    "Healthy Subject",
+    "Prostate Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Cancer Educational Materials",
+      "type": "BEHAVIORAL",
+      "description": "Receive prostate cancer educational materials"
+    },
+    {
+      "name": "Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "Educational Intervention",
+      "type": "OTHER",
+      "description": "Attend peer-led education sessions"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Able to read and speak English comfortably\n* With or without a personal or family history of PCA\n* Do not need to be an established patient at CityLife Neighborhood Clinic in order to participate\n\nExclusion Criteria:\n\n* Do not read or speak English comfortably\n* Men who participated in a focus group will be excluded from participating in the intervention",
+    "gender": "MALE",
+    "min_age": "35 Years",
+    "max_age": "69 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in of decisional conflict",
+      "timeFrame": "Baseline up to 2 months",
+      "description": "Will be assessed by the 4-item Sure of myself; Understand information; Risk-benefit ratio; Encouragement (SURE) scale. To compute a summary decisional conflict score, the Likert-scaled responses will be averaged across the SURE item responses provided by a subject completing at least 2 of the 4 questions. The change in decisional conflict scores between baseline and endpoint at 2-months will be calculated and group means for these changes compared between subjects randomized to receive control materials vs. those randomized to receive the peer health education intervention (i.e., by intention to treat). The significance of the difference will be evaluated at the 0.05 level using a two-sided Student's t-test. The assumptions for this test will be carefully evaluated. If the changes are substantially skewed, they will be summarized with group medians and evaluated for significant differences by the nonparametric Wilcoxon's rank sum test."
+    },
+    {
+      "measure": "Awareness of risks and benefits of genetic testing",
+      "timeFrame": "Up to 2 months post study",
+      "description": "Will be summarized in tables with descriptive statistics or graphically in data plots at each time they are assessed along with changes in responses over time. Will investigate imbalances in these data for potential confounding of primary and exploratory endpoint analyses and investigate disparities and intervention effect modification in various subgroups of subjects."
+    },
+    {
+      "measure": "Perceptions of genetic testing",
+      "timeFrame": "Up to 2 months post study",
+      "description": "Will be summarized in tables with descriptive statistics or graphically in data plots at each time they are assessed along with changes in responses over time."
+    },
+    {
+      "measure": "Genetic testing",
+      "timeFrame": "Up to 2 months post study",
+      "description": "Will be summarized in tables with descriptive statistics or graphically in data plots at each time they are assessed along with changes in responses over time."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [
+    "United States Department of Defense"
+  ],
+  "start_date": "2020-01-08",
+  "completion_date": "2024-09-28",
+  "last_updated": "2026-01-23"
+}

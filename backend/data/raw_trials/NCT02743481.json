@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT02743481",
+  "brief_title": "Early Life Exposures in Agriculture",
+  "official_title": "Early Life Exposures in Agriculture",
+  "brief_summary": "Background:\n\nThe Agricultural Health Study (AHS) studied farmers and their spouses in North Carolina and Iowa. It also included people who worked with pesticides in Iowa. They answered a questionnaire and gave data about their children born since 1975. Researchers want to link this data to public data like birth and death certificates. They want to study how early life exposures to farms are linked to cancer and other bad health outcomes.\n\nObjective:\n\nTo study data to find links between early life farm exposure and negative health outcomes.\n\nEligibility:\n\nThere will be no human subjects.\n\nDesign:\n\nResearchers will get public data in the two study states. This will come from things like:\n\nBirth certificates\n\nDriver s licenses\n\nVoter registration\n\nDeath certificates\n\nBased on these plus the AHS data, they will create a study group. It will be called Early Life Exposure in Agriculture (ELEA).\n\nResearchers will link ELEA data to cancer data. This will identify prevalence of cancer.\n\nThey will study parents answers on the AHS. The topics include farm practices and pesticide use. They will determine ELEA exposure to pesticides.\n\nResearchers will analyze the cancer and pesticide results and look for links.",
+  "detailed_description": "There is increasing evidence that early life exposures may influence future health outcomes although there is a critical need to more fully understand how these may differ from exposures received later in life. The farm environment includes pesticides that have been suggested to increase cancer risk in both children and adults. A review of the literature identified crucial gaps in our knowledge and highlighted the need for accurate exposure assessment, including separate parental interviews, specific pesticide exposure questions, and semiquantitative exposure measures that can be used to confirm information obtained through questionnaires 2. Some studies suggest that the timing of exposure may be particularly important. For example, in a study of the insecticide DDT and breast cancer, researchers observed the highest risks among women exposed prior to age 14 compared to later in life 3. The agricultural environment also includes other exposures such as animals, allergens, and endotoxins. These exposures may influence immune function, particularly when exposed at a young age, and subsequently affect later cancer risk.\n\nThe Agricultural Health Study (AHS) is a prospective cohort study of farmers and their spouses residing in North Carolina and Iowa, and commercial pesticide applicators residing in Iowa. At enrollment (1993-7) women (farmers and spouses of farmers) provided information on their children born since 1975, including name, gender, SSN and dates of birth. In previous analyses conducted using Iowa AHS data only for cancer incidence and all-cause mortality in children under the age of 19, findings suggested increased risks of incident cancer among these children associated with the use of certain pesticides by their parents. The mortality analysis focused on fatal injuries sustained, indicative of the dangerous nature of working on the farm6. In collaboration with researchers at the University of Iowa, we are currently updating the previous analysis with new cancer incidence information through 2011 and information provided by the University of Iowa, which has performed a linkage to Iowa birth certificates to identify additional children born to AHS participants from 1975-2009.\n\nWith this proposal, we are proposing to further expand the linkages in Iowa to include children not previously included, and to link to the North Carolina registries for the first time to identify additional 2 births, cancer incidence and mortality. This will establish a unique cohort of agriculturally exposed offspring, with comprehensive information on their parents farming practices, as well as other information. These data will be used to evaluate the hypothesis that early life agricultural exposures influence cancer risk. Previous analyses have only focused on childhood cancers; we will include cancers diagnosed from birth through adulthood.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 60000,
+  "conditions": [
+    "Testicular Cancer",
+    "Leukemia",
+    "Lymphoma",
+    "Brain Cancer"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "* INCLUSION CRITERIA:\n* children born to Agricultural Health Study (AHS) participants from 1975-2009.\n* individuals identified through questionnaire or through the probabilistic and deterministic match to the birth registries as being the offspring of the AHS participants.",
+    "gender": "ALL",
+    "min_age": "7 Years",
+    "max_age": "46 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Cancer Institute (NCI)",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cancer incidence",
+      "timeFrame": "Birth through 2014",
+      "description": "Cancer incidence"
+    },
+    {
+      "measure": "Mortality",
+      "timeFrame": "Birth through 2014",
+      "description": "Death"
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2016-04-14",
+  "completion_date": "2020-04-15",
+  "last_updated": "2020-04-16"
+}

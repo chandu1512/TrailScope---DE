@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT06019988",
+  "brief_title": "Early Point-of-Service Social and Behavioral Determinants of Health (SBDOH) Screening and Enhanced Navigation on Care Delivery for Patients With Breast Cancer",
+  "official_title": "Early Point-of-Service SBDOH Screening in Breast Cancer",
+  "brief_summary": "The overarching goal of this project is to optimize the collection of social and behavioral determinants of health (SBDOH) for patients with a pathological diagnosis of breast cancer at Penn Medicine. The investigators will measure rates of SBDOH data collection by modality and rates of referral to and uptake of social support services, time to evaluation, staff time, acceptability, patient-centered communication, medical mistrust, and clinician acceptability.",
+  "detailed_description": "The investigators will conduct a patient-level, pragmatic opt-out trial to test implementation of a comprehensive, tech-enabled platform for administration of a validated SBDOH screening tool in contrast to the current practice of unstructured social history collection at this institution.\n\nFor internally referred patients, study coordinators - who are functioning as patient navigators - will facilitate a warm handoff from radiology to the New Patient Office as well as study introduction and enrollment. If patients do not wish to have a warm handoff call with a new-patient coordinator (NPC) in the NPO who will schedule the patient's consult with a surgeon and/or oncologist, or if patients are diagnosed external to Penn Medicine, the patient coordinator will follow up directly with the patient to facilitate communication and enrollment within 24 hours of diagnosis.\n\nAll patients who do not opt out will be part of the analytic cohort and randomized to one of three screening assessment tools:\n\n1. Accountable Health Communities Health-Related Social Needs Screening Tool (AHC-HSRN);\n2. Health Leads Social Needs Screening Toolkit (Health Leads);\n3. National Comprehensive Cancer Network (NCCN) Distress Thermometer + Problem List (NCCN DT+PL).\n\n   . The initial request for completion will be administered via the institutional EHR's Epic-based patient portal. Patients will have 48 hours to respond and will receive 2 reminders via a MyPennMedicine message (MPM), through which a patient can also indicate a desire to opt-out if they wish.\n\n   Patients who do not respond and remain enrolled will be randomized to either a bidirectional text-based conversational agent (i.e., \"chatbot\") or interactive voice response (IVR) system administered by phone. Through the first arm, patients will engage with the screening tool through an interactive two-way text messaging chatbot through WaytoHealth\u00a9. Through the second arm, patients will be called over the phone and will receive the screening tool through interactive voice recognition. Patients will again have 48 hours to respond and will receive 2 reminders via the modality to which they have been newly randomized. Patients have the opportunity to opt out through either modality and discontinue study.\n\n   Patients who have not completed the screen via any modality by the time of their first surgical consult at Penn after diagnosis, will be provided the opportunity to complete it electronically though a tablet at the clinic appointment. At any point, patients who report challenges with particular SBDOH domains can be referred prior to initial surgical consultation to Social Services at Abramson Cancer Center.\n\n   Approximately 6 months following diagnosis and initial completion in the study trial (Activity 1), a subset of patients (identified via deviant sampling) will be invited to participate in semi-structured interviews (Activity 2) through which mechanisms contributing to the effectiveness of the SBDOH data collection platform will be evaluated. Additionally, clinicians or clinical leaders will be invited to participate in semi-structured interviews.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 2500,
+  "conditions": [
+    "Breast Cancer",
+    "Social Determinants of Health (SDOH)"
+  ],
+  "interventions": [
+    {
+      "name": "Early Point-of-Service Social and Behavioral Determinants of Health (SBDOH) Screening",
+      "type": "OTHER",
+      "description": "All patients who participate in the trial will receive one of three social and behavioral determinants of health (SBDOH) screening instruments (AHC-HRSN, Health Leads, or NCCN DT + PL). Any patients who do not complete the screening within 48 hours of its administration will be randomized to receive the same screening via one of two modality arms (Chatbot or IVR System)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nBased on available EHR data, patients will be eligible for Activities 1 and 2 if they:\n\n* Are referred to one of the following locations for surgical consult following a new diagnosis of operable (Stage 0-III) breast cancer: the Hospital of the University of Pennsylvania (HUP), Penn Presbyterian Medical Center (PPMC), Pennsylvania Hospital (PAH), and Penn Medicine Radnor\n* Are female\n* Are 18 years of age or older, and\n* Are able to read and speak English or Spanish\n\nClinicians and clinical leaders will be eligible for participation in Activity 2 if they:\n\n* Presently work as a clinician or clinical leader in breast surgery or oncology\n* Access PennChart as an aspect of their clinical duties\n* Are 18 years of age or older\n* Are able to read and speak English or Spanish\n\nExclusion Criteria:\n\nBased on available EHR data, patients will be ineligible if they:\n\n* Are listed as not wanting to be contacted or solicited for research;\n* Have known metastatic disease at time of enrollment; and/or\n* Do not otherwise meet all of the enrollment criteria\n\nClinicians and clinical leaders will be ineligible for participation in Activity 2 if they:\n\n* Are not presently engaged in clinical duties or\n* Do not otherwise meet all of the enrollment criteria\n\nThis study will not exclude men or nonbinary people who may be diagnosed with breast cancer, but investigators anticipate the sample size for these characteristics will be too small to support meaningful analysis.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Rates of SBDOH screen completion prior to initial surgical consult",
+      "timeFrame": "1 year",
+      "description": "Rates of SBDOH screen completion prior to initial surgical consult will be first compared by instrument (Accountable Health Communities Health-Related Social Needs Screening Tool \\[AHC-HRSN\\], Health Leads Social Needs Screening Toolkit \\[Health Leads\\], National Comprehensive Cancer Network Distress Thermometer and Problem List \\[NCCN DT + PL\\]). Only the NCCN DT employs a 10-point Likert scale, where 0 = no distress and 10 = extreme distress. Among patients who do not respond to initial screening administration and who then receive the screening via either chatbot or IVR, rates of SBDOH screen completion will be compared by modality."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "Gilead Sciences"
+  ],
+  "start_date": "2024-03-11",
+  "completion_date": "2026-03-11",
+  "last_updated": "2025-07-22"
+}

@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT01767155",
+  "brief_title": "Zoptarelin Doxorubicin (AEZS 108) as Second Line Therapy for Endometrial Cancer",
+  "official_title": "Randomized Controlled Study Comparing AEZS-108 With Doxorubicin as Second Line Therapy for Locally Advanced, Recurrent or Metastatic Endometrial Cancer.",
+  "brief_summary": "Open-label, randomized, active-controlled, two-arm Phase III study to compare the efficacy and safety of AEZS-108 and doxorubicin.",
+  "detailed_description": "The study will include about 500 patients with endometrial cancer resistant to platinum/taxane-based chemotherapy.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 511,
+  "conditions": [
+    "Endometrial Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "AEZS-108 / zoptarelin doxorubicin",
+      "type": "DRUG",
+      "description": "267 mg/m\\^2 by 2-hour intravenous infusion, on Day 1 of 21-day (3-week) cycles for a maximum of 9 cycles"
+    },
+    {
+      "name": "doxorubicin",
+      "type": "DRUG",
+      "description": "60 mg/m\\^2 by intravenous bolus injection or 1-hour intravenous infusion, on Day 1 of 21-day (3-week) cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Women \u2265 18 years of age\n2. Histologically confirmed endometrial cancer\n3. Advanced (FIGO stage III or IV), recurrent or metastatic disease.\n4. Measurable or non-measurable disease that has progressed since last treatment.\n5. 5\\. Patients with advanced, recurrent or metastatic endometrial cancer who have received one chemotherapeutic regimen with platinum and taxane (either as adjuvant or as first line treatment) and who have progressed.\n6. Availability of fresh or archival FFPE (formalin-fixed and paraffin-embedded) tumor specimens for analysis of LHRH (luteinizing hormone releasing hormone) receptor expression.\n\nExclusion Criteria:\n\n1. ECOG (Eastern Cooperative Oncology Group) performance status \\> 2.\n2. Inadequate hematologic, hepatic or renal function\n3. Red blood cell transfusion within 2 weeks prior to anticipated start of study treatment.\n4. History of myocardial infarction, acute inflammatory heart disease, unstable angina, or uncontrolled arrhythmia within the past 6 months.\n5. Impaired cardiac function defined as left ventricular ejection fraction (LVEF) \\< 50 % (or below the study site's lower limit of normal) as measured by MUGA (multigated radionuclide angiography) or ECHO (echocardiography).\n6. Concomitant use of prohibited therapy (specified in protocol)\n7. Chemo-, immune-, or hormone-therapy within 5 elimination half life times or 4 weeks prior to randomization, whichever is the shorter. Radiotherapy (including pre- or post-operative brachytherapy) within 4 weeks prior to randomization.\n8. Previous anthracycline-based chemotherapy (daunorubicin, doxorubicin, epirubicin, idarubicin, mitoxantrone and valrubicin), in any formulation.\n9. Anticipated ongoing concomitant anticancer therapy during the study.\n10. History of serious co-morbidity or uncontrolled illness that would preclude study therapy, such as active tuberculosis or any other active infection.\n11. Brain metastasis, leptomeningeal disease.\n12. Pregnant or lactating female or female of child-bearing potential not employing adequate contraception.\n13. Subjects with known hypersensitivity to peptide drugs, including LHRH agonists.\n14. Receipt of 2 or more prior cytotoxic chemotherapy regimens for advanced, recurrent, or metastatic endometrial cancer.\n15. Prior treatment with AEZS-108.\n16. Use of LHRH agonist or antagonist treatment within 6 months prior to randomization.\n17. Malignancy within last 5 years except non-melanoma skin cancer.\n18. Any concomitant disease or condition which would interfere with the subjects' proper completion of the protocol assignment.\n19. Concomitant or recent treatment with other investigational drug (within 4 weeks or 5 elimination half life times prior to anticipated start of study treatment).\n20. Lack of ability or willingness to give informed consent.\n21. Anticipated non-availability for study visits/procedures.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Greenebaum Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Compare the Overall Survival (OS) of Patients Treated With AEZS-108 to the OS of Patients Treated With Doxorubicin.",
+      "timeFrame": "From randomization to death from any cause. During ongoing treatment: response evaluation every 3 cycles. For patients gone of treatment: re-assessment every 12 weeks.",
+      "description": "Overall survival was defined as the elapsed time from randomization to death from any cause. For surviving patients, follow-up was to be censored at the date of last contact.\n\nThe final analysis, which was event-based, was conducted after approximately 384 randomized patients had died.\n\nA log-rank test with an overall two sided Type I Error rate of 0.05 after taking the interim analyses into account was used to compare OS between the two treatment arms via a SAS (Statistical Analysis System) LIFETEST procedure. Kaplan Meier estimates were used to calculate median OS and the 95% confidence interval (CI) of the median OS. The proportion of patients alive at 6 and 12 months (from randomization date) and the 95% CIs for these estimated proportions were calculated."
+    }
+  ],
+  "sponsor": "AEterna Zentaris",
+  "collaborators": [],
+  "start_date": "2013-04",
+  "completion_date": "2017-01-30",
+  "last_updated": "2018-07-05"
+}

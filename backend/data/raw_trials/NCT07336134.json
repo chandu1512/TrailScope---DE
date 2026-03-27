@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT07336134",
+  "brief_title": "PopSci CHW4CervixHealth",
+  "official_title": "Uptake of HPV Self-sampling in Underserved Minority Women Using a Community Health Worker Model: Comparison of Evalyn Brush and Copan Floqswab",
+  "brief_summary": "Phase I: Validating self-collection kit by comparing their results with clinical Pap smear results in a cohort of 20 patients.\n\nPhase II: Evaluate the feasibility and acceptability of the CHW4CervicalHealth: Use of a self-collection kit to improve cervical health screening intervention aimed to promote HPV self-collection uptake among screening-eligible and under-screened ethnic minority women in the community.",
+  "detailed_description": "The self-collection kits will be collected at the clinic (Phase I) or at the end of the workshop (Phase II). A chain-of-custody form for each kit will be associated with the specimen and the clinic nurse will label and prepare to transport them via courier to the Jefferson NJ Molecular Virology lab, Cherry Hill, NJ; Richard Sunday, Lab Supervisor, will process according to Roche, the self-collected vaginal specimens suspended in PreservCyt\u00ae may be stored at 2-30\u00b0C (35.6- 86\u00b0F) for up to 1 month after the date of collection.\n\nPhase I: In person accrual, enrollment and study implementation will take 15-30 minutes.\n\n-Clinic staff will collect self-collection kit at appointment.\n\nPhase II: Workshops will take about 30 minutes to complete and another 30 minutes to complete survey and self-collection kit use.\n\n* Conduct educational workshops in participants primary language\n* For those choosing to use the self-sample kit, obtain and document e-consent or paper consent from potential participants in their primary language.\n* Provide participants with self-collection testing kits during workshop along with instructions\n* Collect self-collection kit samples from participants and place in pre-made sample bags with appropriate label. CHW will take custody and coordinate with OBGYN clinic staff to drop off self-collected samples\n* Collect post workshop survey and conduct post workshop interviews or focus group\n* OBGYN staff set-up courier to send samples to NJ lab",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 120,
+  "conditions": [
+    "Cervical Cancer",
+    "Hpv",
+    "Human Papilloma Virus",
+    "HPV Infection"
+  ],
+  "interventions": [
+    {
+      "name": "Evalyn\u00ae Brush",
+      "type": "DEVICE",
+      "description": "Participants use Evalyn\u00ae Brush device to collect a cervical sample for HPV testing."
+    },
+    {
+      "name": "Copan Floqswab",
+      "type": "DEVICE",
+      "description": "Participants use the Copan Floqswab device to collect a cervical sample for HPV testing."
+    },
+    {
+      "name": "CHW4CervicalHealth",
+      "type": "BEHAVIORAL",
+      "description": "The CHW4CervicalHealth intervention is a community health care worker (CHW)-led education and support program designed to promote HPV self-collection among underserved women. Trained bilingual CHWs provide culturally-tailored community workshops about cervical health and cervical cancer prevention, distribution and collection of HPV self-collection, and follow-up from results when appropriate."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nPhase I:\n\n* Women aged 25-65 years\n* Scheduled for a Pap smear test appointment at Jefferson OBGYN Center City location\n* Willing and able to provide informed consent for participation in the study\n* Agree to perform an HPV self-collection collection procedure during the same visit\n* Have not undergone a hysterectomy (intact cervix required)\n\nPhase II:\n\nThis intervention targets under-screened minority individuals who must meet all the following inclusion criteria to be eligible to participate in the study:\n\n* Women aged 25-65 years\n* Who has not had a Pap smear in the past three to five years based on age of prior screening and type of screening. If under the age of 30, in the past 3 years and if over the age of 30, in the past 5 years. Participant will self-report normal pap smear and date.\n* Self-identify as Hispanic, Black/African or Black Caribbean, Chinese, Korean, or Vietnamese\n* Competent to give consent and provide signed and dated informed consent form in their preferred language.\n\nExclusion Criteria:\n\nPhase I:\n\n* Current pregnancy (self-reported or confirmed)\n* Previous participation in an HPV self-collection study within the past 12 months\n* Presence of visible vaginal or cervical infection or symptoms suggestive of a current genital tract infection\n* Inability to comply with study procedures or follow instructions (e.g., due to language barriers or cognitive impairments)\n\nPhase II:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Have a history of hysterectomy, cervical cancer\n* Self-report participation in a cervical cancer screening or other prevention study\n* Pregnant (self-reported)\n* Inability to provide informed consent",
+    "gender": "FEMALE",
+    "min_age": "25 Years",
+    "max_age": "65 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Diagnostic Concordance of Self-Collected vs. Clinically collected sample (Phase I)",
+      "timeFrame": "at the visit (approximately 30 minutes) and analysis completed within 2 weeks",
+      "description": "Concordance rate between self-collection kit results and clinical Pap smear findings (measured as agreement in detection of HPV and/or abnormal cytology). Agreement between the two methods will be evaluated using Cohen's kappa statistic, with values interpreted based on standard benchmarks for strength of agreement. Sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) will be calculated to determine the accuracy of self-collection kits relative to the clinician-collected gold standard."
+    },
+    {
+      "measure": "Feasibility of HPV Self-Collection: Completion of Self-Collection Kit",
+      "timeFrame": "Within 12 months",
+      "description": "Feasibility will be assessed as the number of participants who proceed with HPV self-collection using the study kit out of the total number of participants enrolled in the study."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [
+    "Roche Pharma AG"
+  ],
+  "start_date": "2025-10-22",
+  "completion_date": "2026-07-01",
+  "last_updated": "2026-01-09"
+}

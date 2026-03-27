@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT03397160",
+  "brief_title": "Pioneering Advances in Care and Education (PACE)",
+  "official_title": "Development, Validation, and Dissemination of an Integrated Risk Prediction Model and Decision Aid to Discern Aggressive Versus Indolent Prostate Cancer",
+  "brief_summary": "This clinical trial evaluates the use of novel decision support educational materials and services using health coaches. The study includes men newly diagnosed with low-risk prostate cancer. A 160 men will be recruited. Half of the men will receive a call from a health coach before their initial consultation visit with their urologist to review their treatment concerns and questions. The other half will receive usual care provided by the urologist, such as educational materials and services provided by the urologist.",
+  "detailed_description": "A critical public health need exists for improved prognostic tools to distinguish aggressive from slow growing prostate cancer at diagnosis, and for better support systems to guide patients in decision-making regarding management options.\n\nDecision support interventions that are tailored to specific clinical conditions are known to have increased patient self-efficacy, knowledge, question-asking, and satisfaction; and decreased decisional conflict, regret, anxiety, and distress.\n\nTo reduce the risk of over-treatment, our team has developed individual risk prediction models that we have now integrated into our decision support intervention (DSI).\n\nDelivering such decision support intervention should increase patient knowledge and question-asking by the patient to their doctor.\n\nThe decision support intervention can be delivered by telephone and or the Internet.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 119,
+  "conditions": [
+    "Decision Support Systems, Clinical",
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Decision Support Intervention (DSI)",
+      "type": "BEHAVIORAL",
+      "description": "A question list (QL) that includes areas of patient concern are created by the health coach for use by the patient and the urologist at their first consultation visit where they discuss the extent of their cancer and consider treatment options. The coach uses the Prostate Cancer SCOPED model to complete a \"Prostate Cancer SCOPED Model Form\". The SCOPED model uses concepts such as the situation, choices (treatment), objectives (personal goals and priorities), people (involved in supporting a treatment decision), evaluation and decisions (clarifying which choice is best and next steps)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male \\>=18 years of age and newly diagnosed prostate cancer (PCa) (within 3-months).\n* Documentation of a low-risk PCa diagnosis as evidenced by clinical features of the following criteria:\n\n  * PSA test at diagnosis \\<=15 ng/ml\n  * Localized PCa (cT1/T2,N0,M0)\n  * Biopsy Gleason grade 2-6 OR (or 3+4 AND \\<=33% cores are positive for adenocarcinoma)\n\n    \\*\\*\\*A minimum of 10 diagnostic cores taken by a systematic directed approach. Sampling may be obtained by target transrectal ultrasound (TRUS) or MRI imaging.\n  * No treatment yet\n\n    * No previous radiation or simultaneous use of androgen deprivation\n    * Prior use of 5-alpha reductase inhibitor is allowed if they have been stopped for 6 or more months and biopsy performed when patient was not taking the drug\n  * English language proficient and ability to provide informed consent\n  * Managing urologist considers them a candidate for active surveillance\n* Written informed consent (and assent when applicable) obtained from subject and ability for subject to comply with the requirements of the study, including the ability to read and speak English.\n\nExclusion Criteria:\n\n* Participants will be ineligible if they:\n\n  1. have pursued any active therapy for prostate cancer will be excluded;\n  2. are unable to read/speak English; or\n  3. if their managing urologist does NOT deem them as a candidate for active surveillance.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Lancaster Urology",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17604-3200",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Decision Quality Index (DQI) scores",
+      "timeFrame": "12 months",
+      "description": "The DQI measures patient Knowledge, Concordance, and Decision process. For each fact about prostate cancer item, a correct response = 1 point. Missing responses=0 points. Total score is calculated for all patients who complete at least half of the items and scaled from 0-100%, with higher scores indicating greater knowledge. Patients rate their goals and concerns on an 11-point importance scale from 0 (not important at all) to 10 (extremely important). These questions + one question about patient's treatment preference can be used to calculate a concordance score. Patients are asked about whether they were offered a choice, how much pros and cons were discussed, and whether the health care provider asked for their preferences. Participants get 1 point for a response of \"yes\" / \"a lot/some.\", total points are summed, then divided by total number of items for a decision making process score from 0-100%. Higher scores indicate a more shared decision making process."
+    }
+  ],
+  "sponsor": "University of California, San Francisco",
+  "collaborators": [
+    "CentraCare Adult & Pediatric Urology",
+    "Lancaster Urology",
+    "San Francisco Veterans Affairs Medical Center",
+    "Palo Alto Medical Foundation"
+  ],
+  "start_date": "2018-07-19",
+  "completion_date": "2020-09-30",
+  "last_updated": "2023-06-08"
+}

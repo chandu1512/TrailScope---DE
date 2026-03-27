@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT07234968",
+  "brief_title": "Clinical Trial to Evaluate Post-Operative Outcomes of Ureteral Stent vs Ureteral Stent Free Radical Cystectomy",
+  "official_title": "Randomized Controlled Trial to Evaluate Post-Operative Outcomes of Ureteral Stent vs Ureteral Stent Free Radical Cystectomy",
+  "brief_summary": "Subjects will be randomized into 2 groups (stent or no stent) prior to radical cystectomy with ileal conduit urinary diversion (RCIC). They will follow the standard of care and be enrolled in the study for 12 months post-op. Risk of post-op complications will be analyzed.",
+  "detailed_description": "Patients who are indicated for RCIC will be recruited for this prospective RCT. Ureteral stents will be placed intraoperatively and removed at follow-up visit per surgeon discretion. Either approach would be considered standard of care for muscle invasive bladder cancer, for which radical cystectomy with urinary diversion is the gold standard of treatment.\n\nPatients will be randomized 1:1 to receive stent or no stent during RCIC (Stent: N=35, No Stent: N=35). Randomization will be stratified by surgical approach (open vs. robotic vs. hybrid). The randomization schedule will be created by the study statistician using the method of random permuted blocks.\n\nStent placement, if applicable, will be a one-time occurrence inserted during RCIC, and be removed typically between 7-21 days post-op at the discretion of the surgeon. For this study, subjects will continue to be followed for up to 1-year post-op. Subjects will be enrolled in this study for 12 months.\n\nPost treatment, the patient will have a follow-up visit within 30 days post-operatively, 3 months follow-up visit (+/- 1 week), 6 months follow-up visit (+/- 21 days), and 12 months follow-up visit (+/- 21 days). Patient will be followed for 12 months post treatment or until their death. Additional visits or follow-ups may be indicated for instances of the need for replacement of ureteral stents and catheters or percutaneous nephrostomies. The need for surgical repair for a ureteral leak or stricture may also occur.\n\nThe Principal Investigator hypothesizes that patients with no ureteral stent placement during RCIC will not be associated with a higher risk of post-op complications compared to those with a ureteral stent.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 70,
+  "conditions": [
+    "Bladder Cancer",
+    "Muscle-Invasive Bladder Carcinoma",
+    "Urothelial Carcinoma",
+    "Pelvic Malignancy",
+    "Bladder Transitional Cell Carcinoma",
+    "Bladder Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "Ureteral Stent Placement",
+      "type": "PROCEDURE",
+      "description": "Placement of ureteral stents (double J or single J) intraoperatively during radical cystectomy with ileal conduit urinary diversion (RCIC). Stent placement will be a one-time occurrence inserted during RCIC, and be removed typically between 7-21 days post-op at the discretion of the surgeon."
+    },
+    {
+      "name": "No Ureteral Stent",
+      "type": "PROCEDURE",
+      "description": "Radical cystectomy with ileal conduit urinary diversion (RCIC) performed without ureteral stent placement."
+    },
+    {
+      "name": "Indocyanine Green with Fluorescence Imaging",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Indocyanine green (ICG) with fluorescence imaging is an advanced technique used to enhance the visualization of the ureters during complex pelvic surgeries, such as those for bladder cancer. The technology helps surgeons identify the ureters, which are the tubes connecting the kidneys to the bladder, and distinguish them from surrounding tissues."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Individuals must meet all the following inclusion criteria to be eligible to participate in the study:\n\n  * Provide signed and dated informed consent form\n  * Willing to comply with all study procedures and be available for the duration of the study\n  * Male or female, age 18 to 85\n  * Diagnosed with bladder cancer, other pelvic malignancies necessitating a cystectomy (e.g.: colorectal, prostate, gynecologic) and have elected for a cystectomy with ileal conduit urinary diversion\n\nExclusion Criteria:\n\n* An individual who meets any of the following criteria will be excluded from participation in this study:\n\n  * Current or history of pelvic radiation\n  * Retroperitoneal fibrosis\n  * Untreated urinary tract infection (UTI) within 30 days prior to RCIC\n  * Pregnancy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "85 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Jefferson Einstein Philadelphia Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19141",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of urinary tract infection (UTI)",
+      "timeFrame": "90 days after surgery",
+      "description": "UTI is defined as clinical symptoms consistent with UTI as well as a positive urine culture showing \u2265 10\u2075 CFU/mL of a uropathogen. Subjects who do not complete the 90-day follow-up period but had no evidence of infection at last follow-up will be excluded from the analysis. the Mantel-Haenszel stratified-adjusted estimate of the risk difference for incidence of urinary tract infection (risk in no stent arm - risk in stent arm) will be estimated along with one-sided (upper bound) 80% confidence interval."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2025-12-23",
+  "completion_date": "2028-04-30",
+  "last_updated": "2026-02-12"
+}

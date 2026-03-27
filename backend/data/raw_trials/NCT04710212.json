@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT04710212",
+  "brief_title": "Screening for Colonization With Resistant Enterobacterales in Neutropenic Patients With Hematologic Malignancies",
+  "official_title": "Screening for Colonization With Resistant Enterobacterales in Neutropenic Patients With Hematologic Malignancies (SCENE)",
+  "brief_summary": "This is a prospective, observational cohort study to assess the frequency with which neutropenic patients with hematologic malignancies and hematopoietic cell transplant (HCT) recipients are colonized with fluoroquinolone-resistant Enterobacterales (FQRE) and the clinical impact of FQRE colonization.",
+  "detailed_description": "This is a prospective, observational cohort study to assess the frequency with which neutropenic patients with hematologic malignancies and hematopoietic cell transplant (HCT) recipients are colonized with fluoroquinolone-resistant Enterobacterales (FQRE) and the clinical impact of FQRE colonization.\n\nThe investigator will collect perianal swabs from patients receiving induction chemotherapy for acute leukemia or undergoing hematopoietic stem cell transplantation (HCT), and who are receiving fluoroquinolone (FQ) prophylaxis. FQRE colonization will be assessed by culture, and the investigator will correlate FQRE colonization with the risk of Gram-negative bacteremia during neutropenia.\n\nPopulation: 410 adults with acute leukemia who are receiving induction chemotherapy and HCT recipients who are receiving FQ prophylaxis during neutropenia.\n\nResults of this study will be combined with a portion of subject data from an identically-designed R01-funded study of FQRE colonization. The combined data will be used for study analysis and reporting.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 168,
+  "conditions": [
+    "Hematologic Malignancy",
+    "Leukemia, Acute",
+    "Neutropenia",
+    "Bloodstream Infection"
+  ],
+  "interventions": [
+    {
+      "name": "No intervention.",
+      "type": "OTHER",
+      "description": "Observational study with no intervention."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Ability to provide informed consent\n2. Male or female \u226518 years of age\n3. Receiving intensive induction chemotherapy for acute leukemia or undergoing HCT\n4. Receive fluoroquinolone prophylaxis during neutropenia\n\nExclusion Criteria:\n\n1. Expected to have \\<7 days of neutropenia (absolute neutrophil count \u2264500 cells/\u03bcL) after receipt of chemotherapy (a) (acute leukemia cohort only)\n2. First swab collected \u22655 days after onset of chemotherapy\n3. First swab collected after the day of transplant (HCT cohort only)\n4. Acute promyelocytic leukemia\n5. Receiving chimeric antigen receptor (CAR)-T-cell therapy\n6. Pregnant women as determined by clinician",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack Meridian Health",
+      "city": "Nutley",
+      "state": "New Jersey",
+      "zip": "07110",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Gram-negative bloodstream infection (BSI)",
+      "timeFrame": "Until neutrophil recovery or 30 days after collection of the first swab in patients who do not have neutrophil recovery by 30 days",
+      "description": "Gram-negative BSI during the episode of neutropenia"
+    }
+  ],
+  "sponsor": "Duke University",
+  "collaborators": [
+    "Weill Medical College of Cornell University",
+    "National Institute of Allergy and Infectious Diseases (NIAID)"
+  ],
+  "start_date": "2021-03-12",
+  "completion_date": "2022-02-28",
+  "last_updated": "2022-04-05"
+}

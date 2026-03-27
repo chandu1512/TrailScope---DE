@@ -1,0 +1,121 @@
+{
+  "nct_id": "NCT02732275",
+  "brief_title": "DS-3201b in Participants With Lymphomas",
+  "official_title": "A Phase 1 Multiple Ascending Dose Study of DS-3201b in Subjects With Lymphomas",
+  "brief_summary": "DS-3201b is an experimental drug that is being investigated in clinical research.\n\nAdults with non-Hodgkin lymphoma (NHL) may be able to join this study if their disease has come back after remission or is not responding to current treatment\n\nThis study has three parts. The Dose Escalation part is designed is to find the safe dose of DS-3201b that adults with advanced NHL can tolerate. The Dose Expansion phase will determine how effective DS-3201b is for rare types of NH and collect additional safety data. Last, the Drug-Drug Interaction (DDI) Cohort (US Only) will evaluate the effect of DS-3201b on the pharmacokinetics (PK) of midazolam and digoxin when co-administered to patients with NHL",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 100,
+  "conditions": [
+    "Lymphoma, Malignant",
+    "Non-hodgkin Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "DS-3201b",
+      "type": "DRUG",
+      "description": "DS-3201 to be administered orally once daily in each 28-day cycle."
+    },
+    {
+      "name": "DS-3201b",
+      "type": "DRUG",
+      "description": "DS-3201 to be administered orally once daily in each 28-day cycle at the recommended dose for expansion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Has hematocytological or pathological diagnosis of non- Hodgkin's lymphoma (NHL)\n* Has relapsed from or is refractory to standard treatment or no standard treatment is available\n* Is the age of majority in their country (18 in the US and 20 in Japan) at the time of informed consent\n* Has Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Has at least one evaluable lesion site (not applicable for the DDI cohort)\n* Has preserved organ function based on baseline laboratory data at screening tests\n* If of reproductive potential, agrees to avoid harvesting ova or sperm, and to use a protocol-defined form of contraception or avoid intercourse, during and upon completion of the study, and for at least 3 months after the last dose of study drug\n* Tumor biopsy collections:\n\n  1. willing to provide archived or fresh tumor tissue samples that are sufficient for comprehensive genomic and/or proteomic analyses at baseline\n  2. \\[US only\\] willing to provide fresh on-treatment tumor biopsy if deemed acceptable risk by the investigator\n\n     \\[Japan only\\] fresh on-treatment tumor biopsy should be performed if deemed acceptable risk by the investigator\n  3. willing to provide optional fresh end-of-treatment biopsy\n\nFor ATL subjects:\n\n* Has a positive test result for human T-lymphotropic virus type I antibody\n* Has ATL subtype classified as acute, lymphomatous, or chronic with poor prognostic factor\n* Has diagnosis of relapse (including relapse after partial remission \\[PR\\]) or treatment-resistant ATL at the time of informed consent after prior treatment with at least 1 anti-cancer medication regimen\n\nExclusion Criteria:\n\n* Has been diagnosed with protocol-defined cutaneous T-cell lymphoma or T-cell leukemia. For DDI cohort, CTCL is not exclusionary.\n* Has a history or presence of central nervous system (CNS) involvement\n* Has a medical history, complication or other malignancy considered inappropriate for participation in the study, or a serious physical or psychiatric disease, the risk of which may be increased by participation in the study\n* Has received drugs or other treatments not allowed by the protocol\n* History of treatment with other enhancer of zeste (EZH) inhibitors\n* Has had allogeneic hematopoietic stem cell transplantation (HTCP) within 90 days before scheduled dosing on Cycle 1 Day 1\n* Is pregnant or breastfeeding\n* Is otherwise deemed ineligible to participate by the investigator or sub-investigator\n\nDDI Cohort Only:\n\n* Has received following medications within 14 days prior to study drug administration\n* Any CYP3A inhibitors/inducers including weak CYP3A inhibitors/inducers, and P-gp inhibitors, midazolam as well as digoxin",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose Escalation Period: Number of participants with dose-limiting toxicities (DLTs)",
+      "timeFrame": "within 28 days after the initial dose of the study drug",
+      "description": "Number of DLT-evaluable participants with protocol-defined DLTs"
+    },
+    {
+      "measure": "Dose Escalation Period: Maximum concentration (Cmax) of DS-3201",
+      "timeFrame": "within the first 28-day cycle",
+      "description": "Categories: Cycle 1 Day 1, Cycle 1 Day 15"
+    },
+    {
+      "measure": "Dose Escalation Period: Time of maximum concentration (Tmax) of DS-3201",
+      "timeFrame": "within the first 28-day cycle",
+      "description": "Categories: Cycle 1 Day 1, Cycle 1 Day 15"
+    },
+    {
+      "measure": "Dose Escalation Period: Area under the plasma concentration time curve up to the last quantifiable time (AUClast) for DS-3201",
+      "timeFrame": "Day 1 of the first 28-day cycle",
+      "description": ""
+    },
+    {
+      "measure": "Dose Escalation Period: Area under the plasma concentration time curve during the dosing interval (AUCtau) for DS-3201",
+      "timeFrame": "Day 1 of the first 28-day cycle",
+      "description": ""
+    },
+    {
+      "measure": "Dose Escalation Period: Trough (minimum) plasma concentration (Ctrough)",
+      "timeFrame": "Day 15 of the first 28-day cycle",
+      "description": ""
+    },
+    {
+      "measure": "Dose Escalation Period: Average plasma concentration (Cavg)",
+      "timeFrame": "Day 15 of the first 28-day cycle",
+      "description": ""
+    },
+    {
+      "measure": "DDI cohort only: Maximum concentration (Cmax) of DS-3201, midazolam, digoxin",
+      "timeFrame": "within the first 28-day cycle",
+      "description": "Categories: Day -4, Cycle 1 Day 1, Cycle 1 Day 15"
+    },
+    {
+      "measure": "DDI cohort only: Time of maximum concentration (Tmax) of DS-3201, midazolam, digoxin",
+      "timeFrame": "within the first 28-day cycle",
+      "description": "Categories: Day -4, Day 0 (for alternate schedule), Cycle 1 Day 1, Cycle 1 Day 15"
+    },
+    {
+      "measure": "DDI cohort only: Area under the plasma concentration time curve up to the last quantifiable time (AUClast) for DS-3201,midazolam,digoxin",
+      "timeFrame": "within the first 28-day cycle",
+      "description": "Categories: Day -4, Day 0 (for alternate schedule), Cycle 1 Day 1, Cycle 1 Day 15"
+    },
+    {
+      "measure": "DDI cohort only: Area under the plasma concentration time curve during the dosing interval (AUCtau) for DS-3201, midazolam, digoxin",
+      "timeFrame": "within the first 28-day cycle",
+      "description": "Cycle 1 Day 1, Cycle 1 Day 15"
+    },
+    {
+      "measure": "Number of participants with treatment-emergent adverse events (TEAEs)",
+      "timeFrame": "through the end of the study (within approximately 5 years)",
+      "description": "TEAEs are systematically collected from lab values, physical exams, and other investigations"
+    }
+  ],
+  "sponsor": "Daiichi Sankyo Co., Ltd.",
+  "collaborators": [
+    "Daiichi Sankyo"
+  ],
+  "start_date": "2016-03-31",
+  "completion_date": "2026-12-31",
+  "last_updated": "2025-02-06"
+}

@@ -1,0 +1,92 @@
+{
+  "nct_id": "NCT00528567",
+  "brief_title": "BEATRICE Study: A Study of Bevacizumab (Avastin) Adjuvant Therapy in Triple Negative Breast Cancer",
+  "official_title": "An International Multi-centre Open-label 2-arm Phase III Trial of Adjuvant Bevacizumab in \"Triple Negative\" Breast Cancer.",
+  "brief_summary": "The main objective of the trial is to compare Invasive Disease-Free Survival (IDFS) of patients randomised to treatment with adjuvant chemotherapy alone or to adjuvant chemotherapy with 1 year of bevacizumab.\n\nThe secondary objectives of this trial are to:\n\n* compare Overall Survival (OS), Breast Cancer-Free Interval (BCFI), Disease- Free Survival (DFS) and Distant Disease-Free Survival (DDFS) of patients randomised to treatment with adjuvant chemotherapy alone or to adjuvant chemotherapy in combination with 1 year of bevacizumab\n* evaluate the safety and tolerability of bevacizumab\n\nAn exploratory sub-study (not reported here) was to identify biomarkers (from tumour or serum) predictive of toxicity and for the level of benefit from the addition of bevacizumab to standard adjuvant systemic treatment.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 2591,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "Bevacizumab was administered at a dose equivalent of 5 mg/kg/week using 1 of 3 different scheduling options depending on the schedule of the adjuvant chemotherapy regimen selected for an individual patient."
+    },
+    {
+      "name": "Standard adjuvant chemotherapy",
+      "type": "DRUG",
+      "description": "All chemotherapy schedules and doses for each patient were prescribed according to the labeled indication of the country in which the patient was receiving therapy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* adult patients, \\>=18 years of age;\n* operable primary invasive breast cancer;\n* completed definitive loco-regional surgery;\n* primary tumor centrally confirmed as triple negative.\n\nExclusion Criteria:\n\n* locally advanced breast cancers;\n* previous breast cancer history;\n* clinically significant cardiovascular disease.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21215",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "20850-3348",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Long Branch",
+      "state": "New Jersey",
+      "zip": "07740",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Time to Invasive Disease-free Survival (IDFS) Event",
+      "timeFrame": "Event driven (until data cutoff: 29 February 2012: up to 49 months)",
+      "description": "IDFS, was a composite endpoint defined as the time from randomization until the date of the first occurrence of one of the following events: Ipsilateral invasive breast cancer recurrence (same breast); Ipsilateral (same side of body) local regional invasive breast cancer recurrence (axilla, regional lymph nodes, chest wall, and/or skin); Distant recurrence (evidence of breast cancer in any anatomic site);Death attributable to any cause; Contralateral (opposite side of the body) invasive breast cancer or Second primary non-breast invasive cancer."
+    },
+    {
+      "measure": "Percentage of Participants With Invasive Disease-free Survival (IDFS) Events",
+      "timeFrame": "Event driven (until data cutoff: 29 February 2012 up to 49 months)",
+      "description": "IDFS, was a composite endpoint defined as the time from randomization until the date of the first occurrence of one of the following events: Ipsilateral invasive breast cancer recurrence (same breast); Ipsilateral (same side of body) local regional invasive breast cancer recurrence (axilla, regional lymph nodes, chest wall, and/or skin); Distant recurrence (evidence of breast cancer in any anatomic site);Death attributable to any cause; Contralateral (opposite side of the body) invasive breast cancer or Second primary non-breast invasive cancer. The percentage of participants with and without IDFS Events by the time of the data cutoff is presented."
+    },
+    {
+      "measure": "Time to Invasive Disease-free Survival (IDFS) Event Excluding Second Primary Non-Breast Invasive Cancer",
+      "timeFrame": "Event driven (until data cutoff: 29 February 2012: up to 49 months)",
+      "description": "IDFS, was a composite endpoint defined as the time from randomization until the date of the first occurrence of one of the following events: Ipsilateral invasive breast cancer recurrence (same breast); Ipsilateral (same side of body) local regional invasive breast cancer recurrence (axilla, regional lymph nodes, chest wall, and/or skin); Distant recurrence (evidence of breast cancer in any anatomic site); Death attributable to any cause; Contralateral (opposite side of the body) invasive breast cancer."
+    },
+    {
+      "measure": "Percentage of Participants With Invasive Disease-free Survival (IDFS) Events Excluding Second Primary Non-Breast Invasive Cancer",
+      "timeFrame": "Event driven (until data cutoff: 29 February 2012: up to 49 months)",
+      "description": "IDFS, was a composite endpoint defined as the time from randomization until the date of the first occurrence of one of the following events: Ipsilateral invasive breast cancer recurrence (same breast); Ipsilateral (same side of body) local regional invasive breast cancer recurrence (axilla, regional lymph nodes, chest wall, and/or skin); Distant recurrence (evidence of breast cancer in any anatomic site); Death attributable to any cause; Contralateral (opposite side of the body) invasive breast cancer. Percentage of participants with and without IDFS Events by the time of data cutoff is presented."
+    }
+  ],
+  "sponsor": "Hoffmann-La Roche",
+  "collaborators": [],
+  "start_date": "2007-12",
+  "completion_date": "2014-06",
+  "last_updated": "2015-08-05"
+}

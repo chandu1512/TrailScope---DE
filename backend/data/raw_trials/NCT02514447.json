@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT02514447",
+  "brief_title": "Trilaciclib (G1T28) in Patients With Previously Treated Extensive Stage SCLC Receiving Topotecan Chemotherapy",
+  "official_title": "Phase 1b/2a Safety and Pharmacokinetic Study of G1T28 in Patients With Previously Treated Extensive Stage Small Cell Lung Cancer (SCLC) Receiving Topotecan Chemotherapy",
+  "brief_summary": "This was a study to investigate the potential clinical benefit of trilaciclib (G1T28), a Cyclin Dependent Kinase (CDK) 4/6 inhibitor, in preserving the bone marrow and the immune system, in order to decrease chemotherapy-induced myelosuppression and improve anti-tumor efficacy when administered prior to topotecan in patients previously treated for extensive-stage SCLC.\n\nThe study consisted of 2 parts: a limited open-label, dose-finding portion (Part 1), and a randomized double-blind portion (Part 2). Both parts included 3 study phases: Screening Phase, Treatment Phase, and Survival Follow-up Phase. The Treatment Phase began on the day of first dose with study treatment and completes at the Post-Treatment Visit.",
+  "detailed_description": "Overall, up to 130 patients were planned to be enrolled in the study. In Part 1, approximately 40 patients were planned to be enrolled, assuming 9 to 10 cohorts. Part 1 was open-label, and no randomization or blinding was required. In Part 2A, approximately 45 patients were to be enrolled and randomly assigned (2:1) to trilaciclib (240 mg/m2) and topotecan (0.75 mg/m2) or placebo and topotecan (1.5 mg/m2). In Part 2B, approximately 45 patients were to be enrolled and randomly assigned (2:1) to trilaciclib (240 mg/mg2) and topotecan (1.5 mg/m2) or placebo and topotecan (1.5 mg/m2).\n\nPatients who received placebo in Part 2A and Part 2B were to be combined into a single placebo group for the analysis to compare with trilaciclib+topotecan 1.5 mg/m2 with placebo + topotecan 1.5 mg/m2 (proximately 30 per treatment group).\n\nThe sample size calculation was to demonstrate the superiority of trilaciclib + topotecan 1.5 mg/m2 over placebo + topotecan 1.5 mg/m2 with respect to at least 1 of the primary endpoints. The overall type I error rate was 1-sided 0.10. Using the most conservative Bonferroni procedure for the 2 primary endpoints, a 1-sided individual type I error rate 0.10/2=0.05 was assigned to each outcome variable (DSN in Cycle 1 and occurrence of SN) in the sample size calculation. Assuming a common standard deviation of 2.5, a difference in the duration of SN in Cycle 1 of at least 2 days between the treatment groups, a sample size of 28 per arm was required to have 90% power to detect the assumed treatment effect. For occurrence of SN, assuming the event rate was 45% for placebo group, to detect an absolute reduction of 37% by trilaciclib group with 90% power would require a sample size of at least 29 per arm. Thus, 30 per arm was needed to ensure 90% power to detect assumed treatment effect for DSN in Cycle 1 and occurrence of SN. All calculations were carried out using the POWER procedure in SAS\u00ae, Version 9.4 procedure in SAS\u00ae, Version 9.4 or higher.\n\nThe results from endpoints that were commonly collected at Part 1 and part 2 are presented together in this report.\n\nThe posted results represent the final results of Study G1T28-03, a Phase 1b/2a safety and pharmacokinetic (PK) study of trilaciclib (G1T28) in patients with previously treated extensive-stage small cell lung cancer (SCLC) receiving topotecan chemotherapy in the second/third-line (2/3L) setting. The final myelopreservation efficacy results for both parts and exposure for Part 1 are from database lock 1 (data cut-off \\[DCO\\] for Primary Completion Date \\[PCD\\] 28 September 2018). The final anti-tumor efficacy (BOR, DOR, PFS) for both parts, final overall survival for Part 1 and exposure data from Part 2 are from a second database lock 2 (DCO 31 May 2019) and the final overall survival for Part 2 and safety (adverse events) are through the end of the study on October 4, 2021 which resulted in the final database lock (DCO 01 Nov 2021).\n\nThe maximum time frames provided reflect the time from when the first patient could be evaluated for an endpoint (ie. date of first dose of first patient) to the time when the data from both parts presented for that endpoint was considered final.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 123,
+  "conditions": [
+    "Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Trilaciclib",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Topotecan",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Male or female subjects aged \u226518 years\n* Confirmed diagnosis of SCLC by histology or cytology, preferably including the presence of neuroendocrine features by immunohistochemistry\n* Progression during or after prior first- or second-line chemotherapy and eligible to receive topotecan therapy\n* At least 1 target lesion that is measurable by RECIST, Version 1.1\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 - 2\n* Adequate organ function\n\nKey Exclusion Criteria:\n\n* Presence of brain metastases requiring immediate treatment with radiation therapy or steroids.\n* Uncontrolled ischemic heart disease or uncontrolled symptomatic congestive heart failure\n* Known history of stroke or cerebrovascular accident within 6 months prior to enrollment\n* Other uncontrolled serious chronic disease or conditions that in the investigator's opinion could affect compliance or follow-up in the protocol\n* Concurrent radiotherapy to any site or radiotherapy within 2 weeks prior to enrollment or previous radiotherapy to the target lesion sites\n* Receipt of any systemic chemotherapy regimen within 4 weeks prior to enrollment or a noncytotoxic investigational medication within 2 weeks prior to enrollment\n* History of topotecan treatment for SCLC",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Guthrie Medical Group, PC",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Duration of Severe (Grade 4) Neutropenia in Cycle 1",
+      "timeFrame": "Evaluated for Cycle 1 (i.e., from date of first dose of study drug (Part 1)/randomization (Part 2) to the end of Cycle 1, each cycle = 21 days)",
+      "description": "Duration of severe neutropenia (DSN; days) was defined as the number of days from the date of the first ANC value of \\<0.5 \u00d7 10\\^9/L observed between start of cycle and end of cycle to the date of the first ANC value \u22650.5 \u00d7 10\\^9/L that met the following criteria: (1) occurred after the ANC value of \\<0.5 \u00d7 10\\^9/L and (2) no other ANC values \\<0.5 \u00d7 10\\^9/L occurred between this day and end of cycle. DSN is set to 0 for patients who did not experience SN in a cycle, including those who were randomized but never treated. Data from unscheduled visits and the actual assessment date (rather than visit date) were included in the derivation."
+    },
+    {
+      "measure": "Occurrence of Severe (Grade 4) Neutropenia",
+      "timeFrame": "During the treatment period. From date of first dose (Part 1)/randomization (Part 2), 21 day treatment cycles continue until disease progression, unacceptable toxicity, or discontinuation by the patient or investigator (assessed up to 1090 days).",
+      "description": "Number of Participants with severe (Grade 4) neutropenia (SN) was a binary variable. If a patient had at least 1 absolute neutrophil count value \\<0.5 \u00d7 10\\^9/L during the Treatment Period, the patient was assigned as Yes to the occurrence of SN; otherwise, it was No."
+    },
+    {
+      "measure": "Assess the Dose Limiting Toxicities (DLTs) of G1T28/Trilaciclib Administered With Topotecan in Part 1",
+      "timeFrame": "Evaluated for Cycle 1 (i.e., from date of first dose of study drug (Part 1) to the end of Cycle 1, each cycle = 21 days)",
+      "description": "The percentage of patients experiencing DLTs in Part 1 of the study in each cohort, including:\n\n* Absolute neutrophil count (ANC) \\< 0.5 \u00d7 10\\^9/L lasting for \u2265 7 days\n* \u2265 Grade 3 neutropenic infection/febrile neutropenia\n* Grade 4 thrombocytopenia or \u2265 Grade 3 thrombocytopenia with bleeding\n* Unable to start next cycle of chemotherapy due to lack of recovery to an ANC \u2265 1.5 \u00d7 10\\^9/L and platelet count \u2265 100 \u00d7 10\\^9/L; a delay of up to 1 week from the scheduled start of Cycle 2 is allowed for recovery of ANC and platelet count, and is not considered a DLT\n* \u2265 Grade 3 nonhematologic toxicity (nausea, vomiting, and diarrhea failing maximal medical management; fatigue lasting for \\> 72 hours)"
+    }
+  ],
+  "sponsor": "G1 Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2015-10-05",
+  "completion_date": "2021-10-04",
+  "last_updated": "2025-09-05"
+}

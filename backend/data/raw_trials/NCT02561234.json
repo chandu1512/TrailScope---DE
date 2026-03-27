@@ -1,0 +1,52 @@
+{
+  "nct_id": "NCT02561234",
+  "brief_title": "A Multiple Dose, Dose Escalation Trial of AEB1102 in Patients With Advanced Solid Tumors",
+  "official_title": "A Multiple Dose, Dose Escalation Trial of AEB1102 (Co-ArgI-PEG) in Patients With Advanced Solid Tumors",
+  "brief_summary": "This is the first-in-human study of the safety of increasing dose levels of AEB1102 in patients with advanced cancers. The study will also evaluate the amounts of AEB1102 in blood, the effects of AEB1102 on blood amino acid levels and tumor growth.",
+  "detailed_description": "In this phase I/2 multiple dose, dose escalation study utilizing a classic 3+3 design. Sequential cohorts of patients will receive AEB1102 IV weekly at one of a series of increasing dose levels. Dose escalation will be dependent on the frequency of specific dose-limiting toxicities in the prior cohort of patients. The study will determine the maximum tolerated dose (MTD) of AEB1102, evaluate the safety profile of the compound, assess the pharmacokinetic profile of AEB1102, determine the effect of AEB1102 on blood arginine levels and evaluate the anti-tumor activity of AEB1102.\n\nFollowing the determination of the MTD, additional cohorts of patients with uveal, cutaneous melanoma and small cell lung cancer will be enrolled and treated with AEB1102 at the MTD.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 98,
+  "conditions": [
+    "Advanced Cancers"
+  ],
+  "interventions": [
+    {
+      "name": "Co-ArgI-PEG",
+      "type": "DRUG",
+      "description": "Administered IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nFor patients participating in any part of the trial:\n\n* has an advanced solid tumor previously treated with, or inability to tolerate, standard therapy for the disease, or for which a standard therapy does not exist, and as such is considered a candidate for Phase 1 treatment\n* has adequate organ function: Hgb \u22659 g/dL; absolute neutrophil count (ANC) \u2265 1.5x109/L; plt \u2265 100,000/\u03bcL; AST and ALT \\< 2.5x ULN (\\< 5x ULN in patients with liver metastases); total bilirubin \\< 2.0 mg/dL; serum creatinine \u2264 1.5x ULN\n* ECOG performance score 0-2\n\nFor patients participating in any expansion group:\n\n* has measurable disease based on RECIST 1.1 as determined by the treating investigator. Tumor lesions in a previously irradiated area are considered measurable if progression has been demonstrated in such lesions\n* willing to consent for biopsy is strongly recommended but not mandatory\n* recovery of toxicities related to any prior treatments to at least Grade 1 by CTCAE v 4.03. Exceptions are patients with adverse event(s) that are clinically nonsignificant and/or stable on supportive therapy.\n\nFor patients participating in specific expansion groups:\n\nCutaneous Melanoma:\n\n* unresectable, locally advanced or metastatic (AJCC stage IIIB, IIIC, or IV) cutaneous malignant melanoma\n* relapsed or progressive disease after or unable to tolerate at least one prior systemic anticancer regimen for metastatic disease involving immunotherapy (anti-PD-1, anti-PD-L1, or anti-CTLA-4)\n* in tumors with a relevant BRAF mutation, relapsed, refactory, or unable to tolerate at least one prior systemic anticancer regimen for metastic disease involving a BRAF inhibitor\n\nUveal Melanoma:\n\n* uveal melanoma at metastic stage\n\nSmall Cell Lung Cancer:\n\n* extensive disease previously treated with, or inability to tolerate, platinum-based chemotherapy\n\nExclusion Criteria:\n\n* has primary CNS malignancy\n* history of untreated brain mets or leptomeningeal disease or spinal cord compression\n* effects of prior anticancer therapy recovered to grade \\< 2\n* known HIV\n* active infection\n* major surgery within 2 weeks\n* history of another malignancy within 2 years prior",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "maximum tolerated dose",
+      "timeFrame": "4 weeks",
+      "description": "the dose level at which no more than 1/6 patients experiences dose-limiting toxicity"
+    }
+  ],
+  "sponsor": "Aeglea Biotherapeutics",
+  "collaborators": [],
+  "start_date": "2015-10",
+  "completion_date": "2019-05",
+  "last_updated": "2021-11-03"
+}

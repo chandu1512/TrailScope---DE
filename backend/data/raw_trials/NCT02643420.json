@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT02643420",
+  "brief_title": "SPI-2012 vs Pegfilgrastim in the Management of Neutropenia in Participants With Breast Cancer With Docetaxel and Cyclophosphamide (ADVANCE)",
+  "official_title": "RAnDomized Trial of SPI-2012 Versus Pegfilgrastim in the Management of Chemotherapy Induced Neutropenia in Breast CANCEr Patients Receiving Docetaxel and Cyclophosphamide (TC) (ADVANCE)",
+  "brief_summary": "The purpose of this study was to compare the efficacy of a single dose of SPI-2012 versus pegfilgrastim in participants with early-stage breast cancer receiving docetaxel and cyclophosphamide (TC), as measured by the duration of severe neutropenia (DSN) in Cycle 1.",
+  "detailed_description": "This was a Phase 3, randomized, open-label, active-controlled, multicenter study to compare the efficacy and safety of SPI-2012 vs pegfilgrastim in participants with breast cancer treated with TC chemotherapy.\n\nEach cycle was 21 days. Four cycles were evaluated in this study. On Day 1 of each cycle, participants received TC chemotherapy. On Day 2 of each cycle, participants received study drug (SPI-2012 or pegfilgrastim).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 406,
+  "conditions": [
+    "Neutropenia",
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "SPI-2012",
+      "type": "DRUG",
+      "description": "Single-use syringes for subcutaneous injection, administered on Day 2 of each cycle"
+    },
+    {
+      "name": "Pegfilgrastim",
+      "type": "DRUG",
+      "description": "Single-dose subcutaneous injection administered on Day 2 of each cycle"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Standard therapy"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Standard therapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* New diagnosis of histologically confirmed early-stage breast cancer (ESBC), defined as operable Stage I to Stage IIIA breast cancer\n* Candidate for adjuvant or neoadjuvant TC chemotherapy\n* Eastern Cooperative Oncology Group (ECOG) performance score \u2264 2\n* Absolute neutrophil count (ANC) \u2265 1.5\u00d710\\^9/L\n* Platelet count \u2265 100\u00d710\\^9/L\n* Hemoglobin \\> 9 g/dL\n* Creatinine clearance \\> 50 mL/min\n* Total bilirubin \u2264 1.5 mg/dL\n* Aspartate Aminotransferase per Serum Glutamic-Oxaloacetic Transaminase (AST/SGOT) and Alanine Aminotransferase per Serum Glutamic-Pyruvic Transaminase (ALT/SGPT) \u2264 2.5\u00d7 Upper Limit of Normal (ULN).\n* Alkaline phosphatase \u2264 2.0\u00d7ULN\n\nKey Exclusion Criteria:\n\n* Active concurrent malignancy (except non-melanoma skin cancer or carcinoma in situ of the cervix) or life-threatening disease\n* Locally recurrent or metastatic breast cancer\n* Known sensitivity to E. coli -derived products or to any products to be administered during dosing\n* Concurrent adjuvant cancer therapy\n* Previous exposure to filgrastim, pegfilgrastim, or other G-CSF products in clinical development within 12 months prior to the administration of study drug\n* Active infection, receiving anti-infectives, or any serious underlying medical condition that would impair ability to receive protocol treatment\n* Prior bone marrow or stem cell transplant\n* Use of any investigational drugs, biologics, or devices within 30 days prior to study treatment or plans to use any of these during the course of the study\n* Radiation therapy within 30 days prior to enrollment\n* Major surgery within 30 days prior to enrollment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "RCCA MD LLC/The Center for Cancer and Blood Disorders",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    },
+    {
+      "facility": "New Jersey Hematology Oncology Associates",
+      "city": "Brick",
+      "state": "New Jersey",
+      "zip": "08724",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center (UPMC)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    },
+    {
+      "facility": "Associates in Hematology and Oncology, PC",
+      "city": "Upland",
+      "state": "Pennsylvania",
+      "zip": "19013",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Duration of Severe Neutropenia (DSN) in Cycle 1",
+      "timeFrame": "Day 1 and Days 4-15 in Cycle 1 (each cycle was 21 days)",
+      "description": "DSN was defined as the number of days of severe neutropenia (absolute neutrophil count \\[ANC\\] \\<0.5\u00d710\\^9/L), after the administration of study drug in Cycle 1."
+    }
+  ],
+  "sponsor": "Spectrum Pharmaceuticals, Inc",
+  "collaborators": [],
+  "start_date": "2016-01-19",
+  "completion_date": "2018-10-31",
+  "last_updated": "2022-02-28"
+}

@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT00003127",
+  "brief_title": "S9720 Combination Chemotherapy in Treating Patients With Metastatic, Recurrent, or Refractory Endometrial Cancer",
+  "official_title": "Phase II Trial of Paclitaxel and Carboplatin With Amifostine in Advanced Recurrent or Refractory Endometrial Adenocarcinoma",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining more than one drug may kill more tumor cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combination chemotherapy in treating patients with metastatic, recurrent, or refractory endometrial cancer.",
+  "detailed_description": "OBJECTIVES: I. Evaluate the efficacy of paclitaxel and carboplatin with amifostine on progression free survival and overall survival in patients with metastatic or recurrent epithelial endometrial carcinoma not amenable to surgery or radiotherapy. II. Evaluate response (confirmed and unconfirmed partial response and complete response) rate to this regimen in this patient population. III. Assess the nature and degree of toxicity of this regimen in these patients.\n\nOUTLINE: Patients receive paclitaxel IV over 3 hours, then amifostine IV over 10 minutes, followed fifteen minutes later by carboplatin IV over 30-60 minutes on day 1. Courses repeat every 28 days. Treatment continues for 6 courses in the absence of disease progression. Patients are followed every 6 months for 2 years, then annually thereafter.\n\nPROJECTED ACCRUAL: A total of 35 to 50 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 57,
+  "conditions": [
+    "Endometrial Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "amifostine trihydrate",
+      "type": "DRUG",
+      "description": "740 mg/m2 IV, Day 1, q 28 days X 6 cycles"
+    },
+    {
+      "name": "carboplatin",
+      "type": "DRUG",
+      "description": "target AUC=6, IV Day 1, q 28 days X 6 cycles"
+    },
+    {
+      "name": "paclitaxel",
+      "type": "DRUG",
+      "description": "175 mg/m2, IV, Day 1 q 28 days X 6 cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS: Histologically confirmed metastatic, recurrent, or refractory epithelial endometrial carcinoma Must be one of the following histologic types: Endometrioid adenocarcinoma Villoglandular Secretory Ciliated Endometrioid adenocarcinoma with squamous differentiation Serous carcinoma Clear cell carcinoma Mucinous carcinoma Squamous carcinoma Mixed types of carcinoma Undifferentiated carcinoma Must not be amenable to surgery or radiotherapy Documented evidence of progression at site if the only site of measurable disease has been irradiated Metastatic sites need not be biopsied Measurable disease\n\nPATIENT CHARACTERISTICS: Age: 16 and over Performance status: SWOG 0-2 Life expectancy: Not specified Hematopoietic: Absolute granulocyte count at least 1,500/mm3 Platelet count at least 100,000/mm3 Hepatic: Bilirubin no greater than 2 times upper limit of normal (ULN) SGOT no greater than 2 times ULN Renal: Creatinine no greater than 2.0 mg/dL Creatinine clearance at least 25 mL/min Other: At least 5 years since other prior malignancy except adequately treated basal cell or squamous cell skin cancer, carcinoma in situ of the cervix, or adequately treated stage I or II cancer in complete remission Not pregnant or nursing Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: No concurrent immunotherapy No more than 1 prior biologic therapy regimen Chemotherapy: No concurrent chemotherapy No prior taxane for any reason No more than 2 prior chemotherapy courses used for the sole purpose of radiosensitization during primary definitive therapy allowed No other prior chemotherapy Endocrine therapy: No concurrent hormonal therapy Prior hormonal or other endocrine therapy allowed Radiotherapy: No concurrent radiotherapy except to sites of bone metastases for palliative control of pain Prior radiotherapy to no more than 30% of bone marrow allowed At least 4 weeks since radiotherapy and recovered Surgery: Prior surgery allowed Must have recovered from surgery and any complication therefrom",
+    "gender": "FEMALE",
+    "min_age": "16 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "CCOP - Christiana Care Health Services",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19899",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression free survival",
+      "timeFrame": "6 months",
+      "description": "from date of registration to date of first observation of progressive disease, deathe due to any cause, or early discontinuation of treatment."
+    }
+  ],
+  "sponsor": "SWOG Cancer Research Network",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "1998-02",
+  "completion_date": "2004-07",
+  "last_updated": "2012-06-13"
+}

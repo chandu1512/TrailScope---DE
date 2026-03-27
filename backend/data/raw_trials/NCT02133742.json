@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT02133742",
+  "brief_title": "A Dose Finding Study To Evaluate Safety, Drug Interaction, Tumor Markers Of Axitinib In Combination With MK-3475 In Adult Patients With Previously Untreated Advanced Renal Cell Cancer",
+  "official_title": "A PHASE 1B, OPEN LABEL, DOSE FINDING STUDY TO EVALUATE SAFETY, PHARMACOKINETICS AND PHARMACODYNAMICS OF AXITINIB (AG-013736) IN COMBINATION WITH PEMBROLIZUMAB (MK-3475) IN PATIENTS WITH ADVANCED RENAL CELL CANCER",
+  "brief_summary": "Despite substantial improvements of patients outcome in advanced RCC, durable and complete response is uncommon. The majority of patients eventually develop resistance and exhibit disease progression. Combining a PD-1 inhibitor, which has shown single-agent efficacy with axitinib may provide additional clinical benefit compared to axitinib alone.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 52,
+  "conditions": [
+    "Renal Cell Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Axitinib",
+      "type": "DRUG",
+      "description": "Axitinib at starting dose of 5 mg and 3 mg BID."
+    },
+    {
+      "name": "MK-3475",
+      "type": "DRUG",
+      "description": "MK-3475 with two dose levels: 2 mg/kg every three weeks to find the maximum tolerated dose and continue treatment in a dose expansion phase."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed advanced RCC with predominantly clear-cell subtype with primary tumor resected\n* At least one measureable lesion as defined by Response Evaluation Criteria In Solid Tumors (RECIST) version 1.1.\n* Eastern Cooperative Oncology Group performance status 0 or 1\n* Controlled hypertension\n\nExclusion Criteria:\n\n* Prior treatment with systemic therapy for advanced RCC\n* Prior adjuvant or neoadjuvant therapy if disease progression or relapse has occurred during or within 12 months after the last dose of treatment\n* Prior treatment with any agent specifically targeting T-cell co-stimulation or checkpoint pathways\n* Active seizure disorder or evidence of brain metastases, spinal cord compression, or carcinomatous meningitis\n* Diagnosis of any non-RCC malignancy occurring within 2 years prior to the date of randomization except for adequately treated basal cell or squamous cell skin cancer, or carcinoma in situ of the breast or of the cervix or low grade prostate cancer with no plans for treatment intervention\n* In past 12 months: myocardial infarction, uncontrolled angina, coronary/peripheral artery bypass graft, symptomatic congestive heart failure, cerebrovascular accident, or transient ischemic attack\n* In past 6 months: deep vein thrombosis or pulmonary embolism",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Dose-Limiting Toxicities (DLT): Dose Finding Phase",
+      "timeFrame": "Cycle 1 Day 1 to Cycle 2 Day 21 (up to 42 days)",
+      "description": "DLT was defined as any of the following adverse events (AEs) occurring in the first two cycles of treatment which were attributable to one or both the study drugs: 1) Grade 4 neutropenia, 2) Febrile neutropenia lasting greater than (\\>) 1 hour, 3) Grade greater than or equal to (\\>=) 3 neutropenia with infection, 4) Grade \\>=3 thrombocytopenia with bleeding, 4) Grade 4 thrombocytopenia, 5) Any grade \\>=3 non-hematologic: non-laboratory toxicities despite maximum supportive therapy or hypertension despite maximal medical therapy, 6) Grade \\>=3 non-hematologic toxicities resulted in hospitalisation or medical intervention 7) Inability to complete at least 75 percent (%) of axitinib dosing or 2 infusions of pembrolizumab within the DLT observation period (up to 42 days) due to treatment related toxicity. Severity of AEs was graded according to NCI (National Cancer Institute) Common Terminology Criteria for Adverse Events (CTCAE) version 4.03."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2014-09-16",
+  "completion_date": "2019-07-03",
+  "last_updated": "2021-07-26"
+}

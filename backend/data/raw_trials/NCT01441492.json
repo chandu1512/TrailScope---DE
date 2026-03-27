@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT01441492",
+  "brief_title": "Pancreas Resection With and Without Drains",
+  "official_title": "A Randomized Prospective Multicenter Trial of Pancreas Resection With and Without Routine Intraperitoneal Drainage",
+  "brief_summary": "This randomized prospective trial is designed to test the hypothesis that pancreatectomy without routine intraperitoneal drainage does not increase the severity or frequency of complications within 60 days of surgery.",
+  "detailed_description": "The rate of pancreatic fistula after pancreas resection is about 10% and surgeons have traditionally placed drains near the pancreatic anastomosis to control this potentially very serious complication. In recent years, advances in interventional radiology have allowed safe percutaneous drainage of intra-abdominal fluid collections. Some surgeons have abandoned the routine use of prophylactic drains placed at the time of pancreas resection and rely on percutaneous drainage for the minority of patients who develop a pancreatic fistula.\n\nHypothesis:\n\nThis randomized prospective trial is designed to test the hypothesis that pancreatectomy without routine intraperitoneal drainage does not increase the severity or frequency of complications within 60 days of surgery. The primary endpoint to assess the severity of complications will be the number of patients with any \u2265 Grade II complication. Severity of complications experienced will also be assessed by comparing the number of patients with, any \u2265 Grade III complication, any serious adverse event (SAE), and the median complication severity grade of all complications. The frequency of complications will be assessed by comparing the number of patients with 1, 2, 3, 4, 5, or more than 5 complications of any severity grade.\n\nObjectives:\n\nPrimary: Difference in 60-day \u2265 Grade II complication rate comparison between patients who receive a pancreatectomy without routine intraperitoneal drainage and those who do receive routine intraperitoneal drainage.\n\nSecondary:\n\nA. 60-day \u2265 Grade III complication rate comparison between patients who receive a pancreatectomy without routine intraperitoneal drainage and those who do receive routine intraperitoneal drainage.\n\nB. Serious adverse event (SAE) rate comparison between patients who receive a pancreatectomy without routine intraperitoneal drainage and those who do receive routine intraperitoneal drainage.\n\nC. Median complication severity grade comparison between patients who receive a pancreatectomy without routine intraperitoneal drainage and those who do receive routine intraperitoneal drainage.\n\nD. 60-day frequency of complications (any Grade) between patients who receive a pancreatectomy without routine intraperitoneal drainage and those who do receive routine intraperitoneal drainage.\n\nE. 60-day, and 90-day mortality rate comparison between patients who receive a pancreatetomy without routine intraperitoneal drainage and those who do receive routine intraperitoneal drainage.\n\nF. Rate of specific complications compared between patients who receive a pancreatectomy without routine intraperitoneal drainage and those who do receive routine intraperitoneal drainage.\n\nG. Length of stay (index admission and total within 60 days) comparison between patients who receive a pancreatectomy without routine intraperitoneal drainage and those who do receive routine intraperitoneal drainage.\n\nH. Crude cost comparison between patients who receive a pancreatectomy without routine intraperitoneal drainage and those who do receive routine intraperitoneal drainage.\n\nI. Quality of life comparison between patients who receive a pancreatectomy without routine intraperitoneal drainage and those who do receive routine intraperitoneal drainage.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 399,
+  "conditions": [
+    "Pancreas Tumor",
+    "Pancreatitis"
+  ],
+  "interventions": [
+    {
+      "name": "No Drains",
+      "type": "PROCEDURE",
+      "description": "A closed-suction drain will not be placed near the transection margin at the time of surgery in the experimental group."
+    },
+    {
+      "name": "Drains",
+      "type": "PROCEDURE",
+      "description": "A drain will be placed near the pancreatic transection margin at the time of surgery (standard of care)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* The subject has a surgical indication for distal pancreatectomy.\n* In the opinion of the surgeon, the subject has no medical contraindications to pancreatectomy.\n* At least 18 years of age.\n* The subject is willing to consent to randomization to the intraperitoneal drain vs. no drain group.\n* The subject is willing to comply with 90-day follow-up and answer quality-of-life questionnaires per protocol.\n\nExclusion Criteria:\n\n* The subject does not have a surgical indication for distal pancreatectomy.\n* In the opinion of the surgeon, the subject has medical contraindications to pancreatectomy.\n* Less than 18 years of age.\n* The subject is not willing to consent to randomization to the intraperitoneal drain vs. no drain group.\n* The subject is not willing to comply with 90-day follow-up and answer quality-of-life questionnaires per protocol.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "60-day \u2265 Grade II Complication Rate",
+      "timeFrame": "60 days",
+      "description": "The primary outcome measure was defined as the number of patients with grade 2 or higher grade complications within 60 days of the date of surgery will be meticulously recorded using specific and standardized definitions. Complications will be graded in severity using the Common Terminology Criteria for Adverse Events CTCAE (v4.0) (Grade 1-5) unless otherwise stated below. For grading schemes with A, B, C rather than 1-5, severity scores will be converted to 1-3."
+    }
+  ],
+  "sponsor": "Baylor College of Medicine",
+  "collaborators": [],
+  "start_date": "2011-09",
+  "completion_date": "2017-07-25",
+  "last_updated": "2020-08-27"
+}

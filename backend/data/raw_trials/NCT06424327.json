@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT06424327",
+  "brief_title": "A Registry for People With Lung Cancer",
+  "official_title": "Pulmonary Segmentectomy for Lung Cancer: A Real-World International Registry-TSOG 108",
+  "brief_summary": "Participants will complete questionnaires before surgery, between 2 to 4 weeks after surgery, and 6 months after surgery.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 600,
+  "conditions": [
+    "Lung Cancer",
+    "Lung Cancer Stage I"
+  ],
+  "interventions": [
+    {
+      "name": "Patient-Reported Outcomes Measurement Information System",
+      "type": "OTHER",
+      "description": "Participants-reported outcomes will be collected using the Patient-Reported Outcomes Measurement Information System (PROMIS). PROMIS is a web-based platform developed by the National Institutes of Health. Scoring is standardized on a scale from 0 to 100, with a population mean of 50 and standard deviation of 10 units. High scores mean more of the concept being measured. This study will use PROMIS surveys assessing three domains: physical function (PROMIS bank version 2.0), pain interference (PROMIS bank version 1.1), and dyspnea severity (PROMIS bank version 1.0)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age \u226518 years\n* Clinical Stage I with suspected NSCLC, classified preoperatively based on the AJCC TNM staging manual, 9th edition o Note: Tissue diagnosis of NSCLC is not required before enrollment. A pathologic diagnosis of NSCLC may be confirmed preoperatively with biopsy, intraoperatively with frozen section, or postoperatively on final pathology\n\nExclusion Criteria:\n\n* Actively receiving lung cancer treatment or a history of lung cancer in the previous 5 years\n* History of chemotherapy or radiation therapy for a previous lung cancer\n* Synchronous secondary cancer in the lung or elsewhere in the body at the time of surgery\n* Carcinoid tumors\n* History of other malignancies within the past 3 years, with the exception of non-melanoma skin cancer, superficial bladder cancer, and carcinoma in situ of the cervix\n* Actively receiving treatment for other malignancies\n* Cases of lobectomy in conjunction with segmentectomy from another lobe and \u22652 segmentectomies from different lobes either en bloc or separate will be excluded from the primary analysis.\n\n  * Multi-segmental resection from the same lobe is not a criterion for exclusion.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Memorial Sloan Kettering Basking Ridge (Limited Protocol Activities)",
+      "city": "Basking Ridge",
+      "state": "New Jersey",
+      "zip": "07920",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Memorial Sloan Kettering Monmouth (Limited Protocol Activities)",
+      "city": "Middletown",
+      "state": "New Jersey",
+      "zip": "07748",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Memorial Sloan Kettering Bergen (Limited Protocol Activities)",
+      "city": "Montvale",
+      "state": "New Jersey",
+      "zip": "07645",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Thomas Jefferson University Hospital (Data Collection Only)",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "ALLEGHENY HEALTH NETWORK (Data Collection Only)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Determine 3-year disease-free survival/DFS among patients undergoing pulmonary segmentectomy for lung cancer.",
+      "timeFrame": "3 years",
+      "description": "DFS is measured from the date of surgery to the date of recurrence or death"
+    },
+    {
+      "measure": "Determine 5-year disease-free survival/DFS among patients undergoing pulmonary segmentectomy for lung cancer.",
+      "timeFrame": "5 years",
+      "description": "DFS is measured from the date of surgery to the date of recurrence or death"
+    }
+  ],
+  "sponsor": "Memorial Sloan Kettering Cancer Center",
+  "collaborators": [],
+  "start_date": "2024-05-15",
+  "completion_date": "2029-05-15",
+  "last_updated": "2026-02-18"
+}

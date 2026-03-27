@@ -1,0 +1,606 @@
+{
+  "nct_id": "NCT05929768",
+  "brief_title": "Shorter Chemo-Immunotherapy Without Anthracycline Drugs for Early-Stage Triple Negative Breast Cancer",
+  "official_title": "Shorter Anthracycline-Free Chemo Immunotherapy Adapted to Pathological Response in Early Triple Negative Breast Cancer (SCARLET), A Randomized Phase III Study",
+  "brief_summary": "This phase III trial compares the effects of shorter chemotherapy (chemo)-immunotherapy without anthracyclines to usual chemo-immunotherapy for the treatment of early-stage triple negative breast cancer. Paclitaxel is in a class of medications called anti-microtubule agents. It stops cancer cells from growing and dividing and may kill them. Carboplatin is in a class of medications known as platinum-containing compounds. It works in a way similar to the anticancer drug cisplatin, but may be better tolerated than cisplatin. Carboplatin works by killing, stopping or slowing the growth of cancer cells. Cyclophosphamide is in a class of medications called alkylating agents. It works by damaging the cell's deoxyribonucleic acid (DNA) and may kill cancer cells. It may also lower the body's immune response. Docetaxel is in a class of medications called taxanes. It stops cancer cells from growing and dividing and may kill them. Doxorubicin is an anthracycline chemotherapy drug that damages DNA and may kill cancer cells. Pembrolizumab may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Shorter treatment without anthracycline chemotherapy may work the same as the usual anthracycline chemotherapy treatment for early-stage triple negative breast cancer.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To assess whether participants with early stage triple negative breast cancer (TNBC) randomized to receive anthracycline-free, taxane-platinum neoadjuvant chemotherapy with pembrolizumab have non-inferior breast cancer event-free survival (BC-EFS) compared to participants randomized to taxane-platinum-anthracycline neoadjuvant chemotherapy with pembrolizumab.\n\nSECONDARY OBJECTIVES:\n\nI. To compare pathological complete response (pCR) and residual cancer burden (RCB) rates by randomized arm.\n\nII. To compare pCR and RCB rates between randomized arms by tumor infiltrating lymphocytes (TIL) status.\n\nIII. To compare BC-EFS between randomized arms in the TIL-enriched and non-TIL enriched subgroups.\n\nIV. To compare distant relapse-free survival and overall survival by randomized arm.\n\nV. To compare invasive breast cancer-free survival after surgery between randomized arms in pCR and residual disease groups.\n\nVI. To compare the safety and tolerability by randomized arm among those that initiate therapy.\n\nTRANSLATIONAL MEDICINE OBJECTIVE:\n\nI. To evaluate concordance and accuracy of an automated stromal TIL (sTIL) algorithm versus (vs.) central pathologist assessed sTILs quantification.\n\nPATIENT REPORTED OUTCOME (PRO) OBJECTIVES:\n\nI. To compare patient-reported fatigue at 3 weeks after the last neoadjuvant systemic therapy (NAST) dose and, separately, at 18 months after randomization, using the Patient Reported Outcomes Measurement Information System (PROMIS) Fatigue-7a in participants undergoing NAST with taxane-platinum-anthracycline chemo-immunotherapy vs taxane-platinum chemo-immunotherapy. (Quality of Life, Primary) II. To compare physical function experienced by participants undergoing neoadjuvant systemic chemotherapy (NAST) with taxane-platinum-anthracycline chemo-immunotherapy vs taxane-platinum chemo-immunotherapy, within 3-5 weeks post last neoadjuvant systemic therapy dose using the PROMIS-29 Profile physical function subscale score. (Quality of Life, Secondary) III. To compare physical function experienced by participants undergoing NAST taxane-platinum-anthracycline chemo-immunotherapy vs taxane-platinum chemo-immunotherapy at 18 months post registration using the PROMIS-29 Profile physical function subscale score. (Quality of Life, Secondary) IV. To compare other PROMIS-29 Profile subscale scores (sleep disturbance, depression, anxiety, social, pain interference, and pain sensitivity) and GP5 question response by arm within 3-5 weeks post last neoadjuvant systemic therapy dose and at 18 months post registration. (Quality of Life, Exploratory) V. To compare the GP-5 item scores by arm within 3-5 weeks post last neoadjuvant systemic therapy dose and at 18 months post registration. (Quality of Life, Exploratory) VI. To compare select patient-reported outcomes using the Common Terminology Criteria for Adverse Events (PRO-CTCAE) by arm. (Patient-Reported Symptoms of Treatment)\n\nBANKING OBJECTIVE:\n\nI. To bank physical specimens and digital slides for future correlative studies.\n\nOUTLINE: Patients are randomized to 1 of 2 arms.\n\nARM I: Patients receive paclitaxel intravenously (IV), carboplatin IV, and pembrolizumab IV on study. Patients then receive doxorubicin IV, cyclophosphamide IV, and pembrolizumab IV on study. Patients then undergo surgery. Patients may receive pembrolizumab after surgery. Patients may optionally undergo collection of blood samples throughout the trial.\n\nARM II: Patients receive docetaxel IV, carboplatin IV, and pembrolizumab IV on study. Patients then undergo surgery. Patients may receive pembrolizumab after surgery. Patients may optionally undergo collection of blood samples throughout the trial.\n\nPatients are followed up every 6 months for the first 2 years and then annually until 5 years from registration.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 2400,
+  "conditions": [
+    "Anatomic Stage I Breast Cancer AJCC v8",
+    "Anatomic Stage II Breast Cancer AJCC v8",
+    "Anatomic Stage IIIA Breast Cancer AJCC v8",
+    "Anatomic Stage IIIB Breast Cancer AJCC v8",
+    "Early Stage Triple-Negative Breast Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Biospecimen Collection",
+      "type": "PROCEDURE",
+      "description": "Undergo collection of blood samples"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Doxorubicin",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "BIOLOGICAL",
+      "description": "Given IV"
+    },
+    {
+      "name": "Quality-of-Life Assessment",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "Surgical Procedure",
+      "type": "PROCEDURE",
+      "description": "Undergo surgery"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants must have histologically confirmed estrogen receptor (ER)-negative, progesterone receptor (PR)-negative, and HER2-negative breast cancer (TNBC) defined as ER \\< 5%, PR \\< 5%, and HER2 negative (per 2020 American Society of Clinical Oncology \\[ASCO\\] College of American Pathologists \\[CAP\\] guidelines)\n\n  * NOTE: Participants with weakly ER or PR positive disease, defined as ER and/or PR between 1-4% by immunohistochemistry, are eligible if adjuvant endocrine therapy is not recommended/planned by the treating physician\n* Participants must have American Joint Committee on Cancer (AJCC) 8 anatomic tumor clinical stage either\n\n  * T2-T4, N0, M0 or\n  * T1-T3, N1-2, M0\n  * Note: All participants with clinically suspicious nodes must undergo core needle biopsy or fine needle biopsy per standard clinical practice to pathologically confirm nodal status\n* Participants must have breast and axillary imaging with mammogram and/or ultrasound and/or magnetic resonance imaging (MRI) within 49 days prior to randomization\n\n  * Note: Participants with bilateral invasive breast cancer are eligible if both breast cancers are ER-negative, PR-negative, and HER2-negative provided they meet the other eligibility criteria\n* Participants must not have T4/N+, any N3, or inflammatory breast cancer\n* Participants must not have metastatic disease (M1)\n* Participants must not have received prior systemic therapy or radiation therapy with curative intent for the current breast cancer\n* Participants must not have had previous definitive ipsilateral breast surgery for the current breast cancer\n* Participants must not have current or anticipated use of other investigational agents while participating in this study\n* Participants must not have history of allergic reactions attributed to compounds of similar chemical or biologic composition as study agents\n* Participants must not have severe hypersensitivity (\\>= grade 3) to pembrolizumab or any of its excipients\n* Participants must not have received prior therapy with an anti-PD-1, anti-PD-L1, or anti-PD-L2 agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (e.g. CTLA-4, OX-40, CD137)\n* Participants must not be currently participating in or have participated in a study of an investigational agent or used an investigational device within 28 days prior to randomization\n* Participants must be \\>= 18 years old\n* Participants must have Zubrod performance status of 0-2\n* Participants with evidence of peripheral neuropathy must have it at =\\< grade 1, by Common Terminology Criteria for Adverse Events (CTCAE) version (v.) 5.0, within 28 days prior to randomization\n* Participants must have a complete medical history and physical exam within 28 days prior to randomization\n* Hemoglobin \\>= 9.0 g/dL or \\>= 5.6 mol/L (within 28 days prior to randomization)\n\n  * (Criteria must be met without erythropoietin dependency and without packed red blood cell transfusion within last 2 weeks)\n* Leukocytes \\>= 3 x 10\\^3/uL (within 28 days prior to randomization)\n* Absolute neutrophil count \\>= 1.5 x 10\\^3/uL (within 28 days prior to randomization)\n* Platelets \\>= 100 x 10\\^3/uL (within 28 days prior to randomization)\n* Total bilirubin =\\< 1.5 x institutional upper limit of normal (IULN), OR direct bilirubin =\\< IULN for participants with total bilirubin \\> 1.5 x IULN (unless history of Gilbert's disease. Participants with history of Gilbert's disease must have total bilirubin =\\< 5 x institutional IULN) (within 28 days prior to randomization)\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) =\\< 3 x institutional upper limit of normal (ULN) (within 28 days prior to randomization)\n* Participants must have a serum creatinine =\\< the IULN OR calculated creatinine clearance \\>= 50 mL/min/1.73m\\^2 using the following Cockcroft-Gault Formula. This specimen must have been drawn and processed within 28 days prior to registration\n* Participants must have adequate cardiac function. Participants must have left ventricular ejection fraction \\>= 50% as assessed by either echocardiography (ECHO) or multigated acquisition scan (MUGA) assessed within 28 days prior to registration. Participants with known history or current symptoms of cardiac disease, or history of treatment with cardiotoxic agents, must have a clinical risk assessment of cardiac function using the New York Heart Association Functional Classification and must be class 2B or better\n* Participants with known human immunodeficiency virus (HIV)-infection must be on effective anti-retroviral therapy at randomization and have undetectable viral load test on the most recent test results obtained within 6 months prior to randomization\n* Participants with evidence of chronic hepatitis B virus (HBV) infection must have undetectable HBV viral load while on suppressive therapy on the most recent test results obtained within 6 months prior to randomization, if indicated\n\n  * Note: No testing for Hepatitis B is required unless mandated by local health authority\n* Participants with a history of hepatitis C virus (HCV) infection must have been treated and cured. Participants currently being treated for HCV infection must have undetectable HCV viral load test on the most recent test results obtained within 6 months prior to randomization, if indicated\n\n  * Note: No testing for hepatitis C is required unless mandated by local health authority\n* Participants with history of diabetes must not have uncontrolled diabetes in the opinion of the treating investigator\n* Participants must not have uncontrolled hypertension in the opinion of the treating investigator\n* Participants must not have had a major surgery within 14 days prior to randomization. Participants must have fully recovered from the effects of prior major surgery in the opinion of the treating investigator\n* Participants must not have severe or active infections within 14 days prior to Randomization, including but not limited to hospitalization for infection, bacteremia, or severe pneumonia\n* Participants must not have a diagnosis of immunodeficiency and be receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior to randomization\n* Participants must not have active autoimmune disease that has required systemic treatment in 2 years prior to randomization (i.e., with use of disease modifying agents, corticosteroids or immunosuppressive drugs). Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency) is not considered a form of systemic treatment\n* Participants must not have a history of (non-infectious) pneumonitis that required steroids, or has current (non-infectious) pneumonitis\n* Participants must not have received a live vaccine within 30 days prior to randomization. Examples of live vaccines include, but are not limited to, the following: measles, mumps, rubella, varicella/zoster (chicken pox), yellow fever, rabies, Bacillus Calmette-Guerin (BCG), and typhoid vaccine. Seasonal influenza vaccines for injection are generally killed virus vaccines and are allowed; however, intranasal influenza vaccines (e.g., FluMist \\[registered trademark\\]) are live attenuated vaccines and are not allowed\n* Participants must not have a prior or concurrent malignancy whose natural history or treatment (in the opinion of the treating physician) has the potential to interfere with the safety or efficacy assessment of the treatment regimen\n* Participants must not be pregnant or nursing. Individuals who are of reproductive potential must have agreed to use an effective contraceptive method with details provided as a part of the consent process. A person who has had menses at any time in the preceding 12 consecutive months or who has semen likely to contain sperm is considered to be of \"reproductive potential.\" In addition to routine contraceptive methods, \"effective contraception\" also includes refraining from sexual activity that might result in pregnancy and surgery intended to prevent pregnancy (or with a side-effect of pregnancy prevention) including hysterectomy, bilateral oophorectomy, bilateral tubal ligation/occlusion, and vasectomy with testing showing no sperm in the semen\n* Participants must have one (1) physical 4-5-micron single hematoxylin and eosin (H\\&E) slide from the archival pretreatment diagnostic biopsy available for submission\n* Participants must be offered the opportunity to participate in specimen banking. With participant consent, specimens must be collected and submitted via the Southwest Oncology Group (SWOG) Specimen Tracking System\n* Participants who can complete questionnaires in English, Spanish, or French must be offered the opportunity to participate in the Patient-Reported Outcome study\n* NOTE: As a part of the Oncology Patient Enrollment Network (OPEN) registration process the treating institution's identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study has been entered in the system\n\n  * Participants must be informed of the investigational nature of this study and must sign and give informed consent in accordance with institutional and federal guidelines\n  * For participants with impaired decision-making capabilities, legally authorized representatives may sign and give informed consent on behalf of study participants in accordance with applicable federal, local, and Central Institutional Review Board (CIRB) regulations\n* As part of the registration process the treating institution's identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study has been entered in the system",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Bayhealth Hospital Kent Campus",
+      "city": "Dover",
+      "state": "Delaware",
+      "zip": "19901",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Beebe Medical Center",
+      "city": "Lewes",
+      "state": "Delaware",
+      "zip": "19958",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Bayhealth Hospital Sussex Campus",
+      "city": "Milford",
+      "state": "Delaware",
+      "zip": "19963",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Beebe South Coastal Health Campus",
+      "city": "Millville",
+      "state": "Delaware",
+      "zip": "19967",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Delaware Clinical and Laboratory Physicians PA",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": "SUSPENDED"
+    },
+    {
+      "facility": "Helen F Graham Cancer Center",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Medical Oncology Hematology Consultants PA",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Christiana Care Health System-Christiana Hospital",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19718",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Beebe Health Campus",
+      "city": "Rehoboth Beach",
+      "state": "Delaware",
+      "zip": "19971",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Christiana Care Health System-Wilmington Hospital",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19801",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UM Upper Chesapeake Hematology and Oncology - Aberdeen",
+      "city": "Aberdeen",
+      "state": "Maryland",
+      "zip": "21001",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Luminis Health Anne Arundel Medical Center",
+      "city": "Annapolis",
+      "state": "Maryland",
+      "zip": "21401",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "facility": "University of Maryland/Greenebaum Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UM Upper Chesapeake Medical Center",
+      "city": "Bel Air",
+      "state": "Maryland",
+      "zip": "21014",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Western Maryland",
+      "city": "Cumberland",
+      "state": "Maryland",
+      "zip": "21502",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Christiana Care - Union Hospital",
+      "city": "Elkton",
+      "state": "Maryland",
+      "zip": "21921",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Jefferson Cherry Hill Hospital",
+      "city": "Cherry Hill",
+      "state": "New Jersey",
+      "zip": "08002",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Englewood Hospital and Medical Center",
+      "city": "Englewood",
+      "state": "New Jersey",
+      "zip": "07631",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Virtua Samson Cancer Center",
+      "city": "Moorestown",
+      "state": "New Jersey",
+      "zip": "08057",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Morristown Medical Center",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Riverview Medical Center/Booker Cancer Center",
+      "city": "Red Bank",
+      "state": "New Jersey",
+      "zip": "07701",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Sidney Kimmel Cancer Center Washington Township",
+      "city": "Sewell",
+      "state": "New Jersey",
+      "zip": "08080",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Overlook Hospital",
+      "city": "Summit",
+      "state": "New Jersey",
+      "zip": "07902",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Inspira Medical Center Vineland",
+      "city": "Vineland",
+      "state": "New Jersey",
+      "zip": "08360",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Virtua Voorhees",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Lehigh Valley Hospital-Cedar Crest",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Lehigh Valley Hospital - Muhlenberg",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18017",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Bryn Mawr Hospital",
+      "city": "Bryn Mawr",
+      "state": "Pennsylvania",
+      "zip": "19010",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Christiana Care Health System-Concord Health Center",
+      "city": "Chadds Ford",
+      "state": "Pennsylvania",
+      "zip": "19317",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Chambersburg Hospital",
+      "city": "Chambersburg",
+      "state": "Pennsylvania",
+      "zip": "17201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "WellSpan Medical Oncology and Hematology",
+      "city": "Chambersburg",
+      "state": "Pennsylvania",
+      "zip": "17201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Main Line Health Center-Collegeville",
+      "city": "Collegeville",
+      "state": "Pennsylvania",
+      "zip": "19426",
+      "status": "SUSPENDED"
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center - Passavant - Cranberry",
+      "city": "Cranberry Township",
+      "state": "Pennsylvania",
+      "zip": "16066",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Geisinger Medical Center",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Geisinger Cancer Center Dickson City",
+      "city": "Dickson City",
+      "state": "Pennsylvania",
+      "zip": "18519",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Pocono Medical Center",
+      "city": "East Stroudsburg",
+      "state": "Pennsylvania",
+      "zip": "18301",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Ephrata Cancer Center",
+      "city": "Ephrata",
+      "state": "Pennsylvania",
+      "zip": "17522",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center Erie",
+      "city": "Erie",
+      "state": "Pennsylvania",
+      "zip": "16505",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Main Line Health Center-Exton",
+      "city": "Exton",
+      "state": "Pennsylvania",
+      "zip": "19341",
+      "status": "SUSPENDED"
+    },
+    {
+      "facility": "Adams Cancer Center",
+      "city": "Gettysburg",
+      "state": "Pennsylvania",
+      "zip": "17325",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Cancer Centers - Arnold Palmer Pavilion",
+      "city": "Greensburg",
+      "state": "Pennsylvania",
+      "zip": "15601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Pinnacle Cancer Center/Community Osteopathic Campus",
+      "city": "Harrisburg",
+      "state": "Pennsylvania",
+      "zip": "17109",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Geisinger Medical Center-Cancer Center Hazleton",
+      "city": "Hazleton",
+      "state": "Pennsylvania",
+      "zip": "18201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Lehigh Valley Hospital-Hazleton",
+      "city": "Hazleton",
+      "state": "Pennsylvania",
+      "zip": "18201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Penn State Milton S Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033-0850",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Sechler Family Cancer Center",
+      "city": "Lebanon",
+      "state": "Pennsylvania",
+      "zip": "17042",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Geisinger Medical Oncology-Lewisburg",
+      "city": "Lewisburg",
+      "state": "Pennsylvania",
+      "zip": "17837",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Redeemer Health",
+      "city": "Meadowbrook",
+      "state": "Pennsylvania",
+      "zip": "19046",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center at Rocco And Nancy Ortenzio Cancer Pavilion",
+      "city": "Mechanicsburg",
+      "state": "Pennsylvania",
+      "zip": "17050",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Riddle Memorial Hospital",
+      "city": "Media",
+      "state": "Pennsylvania",
+      "zip": "19063",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center - Monroeville",
+      "city": "Monroeville",
+      "state": "Pennsylvania",
+      "zip": "15146",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Bryn Mawr Health Center",
+      "city": "Newtown Square",
+      "state": "Pennsylvania",
+      "zip": "19073",
+      "status": "SUSPENDED"
+    },
+    {
+      "facility": "Paoli Memorial Hospital",
+      "city": "Paoli",
+      "state": "Pennsylvania",
+      "zip": "19301",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Jefferson Torresdale Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19114",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Reading Hospital McGlinn Cancer Institute at Phoenixville",
+      "city": "Phoenixville",
+      "state": "Pennsylvania",
+      "zip": "19460",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC-Magee Womens Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "University of Pittsburgh Cancer Institute (UPCI)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC-Passavant Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15237",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC-Saint Clair Hospital Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15243",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Pottstown Hospital",
+      "city": "Pottstown",
+      "state": "Pennsylvania",
+      "zip": "19464",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Geisinger Cancer Services-Pottsville",
+      "city": "Pottsville",
+      "state": "Pennsylvania",
+      "zip": "17901",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Penn State Health Saint Joseph Medical Center",
+      "city": "Reading",
+      "state": "Pennsylvania",
+      "zip": "19605",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Guthrie Medical Group PC-Robert Packer Hospital",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Community Medical Center",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18510",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC West Mifflin-Cancer Center Jefferson",
+      "city": "West Mifflin",
+      "state": "Pennsylvania",
+      "zip": "15122",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Reading Hospital",
+      "city": "West Reading",
+      "state": "Pennsylvania",
+      "zip": "19611",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Geisinger Wyoming Valley/Henry Cancer Center",
+      "city": "Wilkes-Barre",
+      "state": "Pennsylvania",
+      "zip": "18711",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Asplundh Cancer Pavilion",
+      "city": "Willow Grove",
+      "state": "Pennsylvania",
+      "zip": "19090",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Lankenau Medical Center",
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "zip": "19096",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Cancer Care Associates of York",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "WellSpan Health-York Cancer Center",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "WellSpan Health-York Hospital",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Breast cancer event-free survival (BC-EFS)",
+      "timeFrame": "Up to 5 years",
+      "description": "Time from randomization to the earliest occurrence of any of the following events: progression prior to surgery, invasive recurrence after surgery, new contralateral breast cancer, or death due to any cause. New non-breast primaries are not included as events. BC-EFS will be compared between the treatment arms using Cox regression with adjustment for nodal status and sTIL enrichment."
+    }
+  ],
+  "sponsor": "SWOG Cancer Research Network",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2023-09-15",
+  "completion_date": "2033-04",
+  "last_updated": "2025-11-04"
+}

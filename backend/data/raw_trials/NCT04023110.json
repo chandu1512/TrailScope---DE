@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT04023110",
+  "brief_title": "Risk-Guided Cardioprotection With Carvedilol in Breast Cancer Patients Treated With Doxorubicin and/or Trastuzumab",
+  "official_title": "A Pilot Study of Risk-Guided Cardioprotection With Carvedilol in Breast Cancer Patients Treated With Doxorubicin and/or Trastuzumab",
+  "brief_summary": "Investigators will evaluate the safety, tolerability, and feasibility of a risk-guided cardioprotective treatment strategy with carvedilol, as compared to usual care, in breast cancer patients undergoing treatment with doxorubicin, trastuzumab, or the combination.",
+  "detailed_description": "This is a single-center, randomized clinical trial that seeks to determine if a risk guided treatment strategy that initiates carvedilol in high risk breast cancer patients prior to doxorubicin and/or trastuzumab is safe, tolerable, and feasible. Subjects who are identified as having elevated CTX Risk by an internally validated clinical risk score (exceeding a pre-specified risk threshold) will be randomized to individually-dosed, open-label carvedilol or usual care. Investigators will use a stratified randomization according to trastuzumab therapy (yes/no) to ensure balance across treatment regimen. Clinical, echocardiographic, and biomarker data will be collected on all patients at baseline and standardized time intervals during and after therapy at approximately 3, 6, 9, 12, and 24 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 68,
+  "conditions": [
+    "Cardiotoxicity",
+    "Risk Factor, Cardiovascular",
+    "Toxicity Due to Chemotherapy",
+    "Breast Cancer",
+    "Cardiomyopathies",
+    "Heart Failure"
+  ],
+  "interventions": [
+    {
+      "name": "Carvedilol",
+      "type": "DRUG",
+      "description": "Individually dosed carvedilol"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Females\n* At least 18 years old\n* Diagnosed with Stage I-III breast cancer with treatment plan to include therapy with anthracyclines and/or trastuzumab in the adjuvant or neo-adjuvant setting\n* Study team is able to obtain all necessary information for calculating Cardiotoxicity Risk Score (including echocardiographic measurement of left ventricular ejection fraction)\n\nExclusion Criteria:\n\n* Pregnant or breast feeding. Due to unknown risks and potential harm to the unborn fetus a negative pregnancy test within 10 days prior to enrollment is required in women with child-bearing potential. Due to the potential nursing infant harm, women who are currently breast feeding are not eligible for this study.\n* Contraindication to carvedilol\n* Baseline systolic blood pressure \\< 90mmHg (if multiple blood pressures are available in the medical record within 1 month prior to screening, the average SBP will be considered)\n* Baseline heart rate \\< 55 bpm consistent with severe bradycardia (if multiple resting heart rates are available in the medical record within 1 month prior to screening, the average heart rate will be considered)\n* Allergy to carvedilol\n* History of bronchial asthma or related bronchospastic conditions\n* Known history of sick sinus syndrome\n* Severe hepatic impairment, defined as serum bilirubin \\> 3.0x ULN, AST or ALT \\> 5.0 ULN within 28 days of enrollment\n* Second- or third-degree AV block, as determined by electrocardiogram\n* Severe bradycardia (unless permanent pacemaker is in place)\n* Patients in cardiogenic shock or decompensated heart failure requiring the use of IV inotropic therapy\n* Current use of: Bupropion (Wellbutrin), Fluoxetine (Prozac), Paroxetine (Paxil), Quinidine (Quinidex), Duloxetine (Cymbalta), Digoxin\n* Current treatment with beta blocker\n* Unable to provide consent",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Left Ventricular Ejection Fraction (LVEF)",
+      "timeFrame": "up to 24 months",
+      "description": "LVEF by echocardiogram. Left ventricular ejection fraction (LVEF) is defined as the left ventricular stroke volume (left ventricular end diastolic volume minus the left ventricular end systolic volume) divided by the left ventricular end diastolic volume. This fraction is multiplied by 100 to yield the LVEF, and is defined as a % (the unit of measure) (J Am Soc Echocardiogr 2015;28:1-39.). 2D left ventricular volumes are estimated according to the biplane method of disks (modified Simpson's rule), as recommended by societal guidelines. Higher values are generally considered more favorable."
+    },
+    {
+      "measure": "Treatment Adherence as Measured by Pill Count",
+      "timeFrame": "12 months",
+      "description": "Rate of compliance with prescribed dose of carvedilol assessed based on pill count. Patients in the elevated-risk carvedilol group were asked to bring their study medications to all study visits and remaining pills were counted by the study coordinator to determine how many pills had been taken. Treatment adherence was calculated as the ratio of number of pills taken to expected number of pills taken, and is reported as a percentage. An adherence rate closer to 100 is better.\n\nTreatment adherence is reported only for those patients who were assigned to the elevated risk/carvedilol group, and therefore expected to take study medication."
+    },
+    {
+      "measure": "Adverse Events",
+      "timeFrame": "Up to 12 months",
+      "description": "Targeted Adverse Events were prospectively assessed according to the CTCAE v5.0. The number of patients experiencing any adverse event (Grade 2-5) was tabulated by risk group and by treatment arm during carvedilol intervention (baseline - 12 months). In the CTCAE, grade refers to the severity of the event. Grade 2 events are moderate, or have non-urgent/non-invasive intervention indicated, or limit age-appropriate instrumental Activities of Daily Living (ADL). Grade 3 events are severe/medically significant but not immediately life-threatening, or have hospitalization or prolongation of hospitalization indicated, or limit self-care ADLs. Grade 4 events have life-threatening consequences or have urgent intervention indicated. Grade 5 indicates a death related to the adverse event."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "National Heart, Lung, and Blood Institute (NHLBI)",
+    "American Heart Association"
+  ],
+  "start_date": "2019-08-09",
+  "completion_date": "2025-01-14",
+  "last_updated": "2025-09-23"
+}

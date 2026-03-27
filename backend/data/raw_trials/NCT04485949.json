@@ -1,0 +1,94 @@
+{
+  "nct_id": "NCT04485949",
+  "brief_title": "A Phase 2b Clinical Study With a Combination Immunotherapy in Newly Diagnosed Patients With Glioblastoma",
+  "official_title": "A Randomized, Multicenter, Double-Blind, Placebo-Controlled, Phase 2b Study to Assess the Safety and Efficacy of IGV-001, an Autologous Cell Immunotherapy With Antisense Oligonucleotide (IMV-001) Targeting IGF-1R, in Newly Diagnosed Patients With Glioblastoma",
+  "brief_summary": "The purpose of this study is to assess progression-free survival (PFS) and overall survival (OS) in newly diagnosed Glioblastoma (GBM) participants treated with IGV-001 as compared with placebo.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 93,
+  "conditions": [
+    "Glioblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "IGV-001 Cell Immunotherapy",
+      "type": "COMBINATION_PRODUCT",
+      "description": "IGV-001, an immunotherapeutic product that combines personalized whole tumor-derived cells with an antisense oligonucleotide (IMV-001) in implantable biodiffusion chambers."
+    },
+    {
+      "name": "Placebo",
+      "type": "COMBINATION_PRODUCT",
+      "description": "Placebo in implantable biodiffusion chambers containing a predetermined inactive solution."
+    },
+    {
+      "name": "Standard of Care (SOC): Radiation Therapy",
+      "type": "PROCEDURE",
+      "description": "Radiation therapy administered per institutional standards."
+    },
+    {
+      "name": "SOC: Temozolomide",
+      "type": "DRUG",
+      "description": "Temozolomide administered orally."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Has a Karnofsky performance scale (KPS) score \u2265 70 at screening\n* Has a new diagnosis of GBM (WHO GRADE III or Grade IV GBM) based on the treating neurosurgeon's best clinical judgement\n* Has a diagnostic contrast-enhanced magnetic resonance imaging (MRI) scan with fluid attenuated inversion-recovery (FLAIR) sequence of the brain at screening. Participants must have a confirmed measurable disease pre-operatively with at least 1 lesion measuring a total bi-perpendicular product of 4 centimeter square (cm\\^2) in 2 different planes (axial, sagittal, or coronal)\n* The tumor must be located in the supratentorial compartment\n* Has adequate bone marrow and organ function at screening\n\nKey Exclusion Criteria:\n\n* Has bi-hemispheric disease, multicentric disease, or disease burden involving the brain stem or cerebellum based on MRI post-gadolinium enhancement\n* Has received any previous surgical resection or any anticancer intervention for glioma\n* Has any history of glioma, a concurrent malignancy, or malignancy within 3 years of randomization, unless definitive therapy is completed, with the exception of basal or squamous cell skin cancer, superficial bladder cancer, or carcinoma in situ of the cervix or breast that has completed curative therapy\n* Has any severe immunocompromised condition (eg, human immunodeficiency virus (HIV) with a cluster of differentiation \\[CD\\] 4+ cell count \\<200\\*10\\^6/liter \\[L\\]) or any active uncontrolled autoimmune disease (eg, Crohn's disease)\n* Has an active cardiac disease or a history of cardiac dysfunction\n* Is receiving any other investigational agent(s) or has received an investigational agent within 30 days or 5 half-lives of investigational agent use, whichever is longer, prior to screening\n* Is partaking in another interventional study. Participants who are partaking in an observational study are eligible\n* Has received a live vaccine within 30 days of screening\n* Has active and uncontrolled/untreated hepatitis B virus (HBV), hepatitis C virus (HCV), HIV, or any other active infections that, in the Investigator's opinion, would impair or prohibit a participant's participation in this study.\n* Is receiving treatment with Tumor Treating Fields or Optune\u00ae",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "John Theurer Cancer Center At Hackensack UMC",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Jersey Shore University Medical Center",
+      "city": "Neptune City",
+      "state": "New Jersey",
+      "zip": "07753",
+      "status": ""
+    },
+    {
+      "facility": "The Pennsylvania State University (Penn State) Milton S. Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19130",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS)",
+      "timeFrame": "Up to 36 months",
+      "description": "PFS is defined as the time from randomization to first progression, as determined by the central radiology review group blinded to the study treatment arm, or death."
+    }
+  ],
+  "sponsor": "Imvax",
+  "collaborators": [],
+  "start_date": "2023-03-20",
+  "completion_date": "2027-07",
+  "last_updated": "2026-02-09"
+}

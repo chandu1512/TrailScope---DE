@@ -1,0 +1,139 @@
+{
+  "nct_id": "NCT03085914",
+  "brief_title": "A Study of Epacadostat in Combination With Pembrolizumab and Chemotherapy in Participants With Advanced or Metastatic Solid Tumors (ECHO-207/KEYNOTE-723)",
+  "official_title": "A Phase 1/2, Open-Label, Safety, Tolerability, and Efficacy Study of Epacadostat in Combination With Pembrolizumab and Chemotherapy in Subjects With Advanced or Metastatic Solid Tumors (ECHO-207/KEYNOTE-723)",
+  "brief_summary": "This was an open-label, nonrandomized, Phase 1/2 study designed to determine the safety, tolerability, and efficacy of epacadostat when given in combination with pembrolizumab and 7 different chemotherapy regimens described as Treatment Groups A through G below (see Study Drug and Background Therapies, Dose, and Mode of Administration). Phase 1 consisted of a 3 + 3 + 3 design intended to determine the MTD or PAD of epacadostat when given in combination with pembrolizumab and chemotherapy; efficacy was also explored.\n\nPhase 2 was designed to enroll efficacy expansion cohorts to further evaluate the safety, tolerability, and efficacy of epacadostat at the MTD or PAD (as selected in Phase 1) when given in combination with pembrolizumab and chemotherapy. Each efficacy expansion cohort was to enroll participants with 1 specific type of advanced or metastatic solid tumor. Additional cohorts (ie, the mandatory biopsy cohorts) were designed to evaluate changes in the tumor microenvironment in participants with any advanced or metastatic solid tumor who had progressed on previous therapy with a PD-1 or a PD-L1 inhibitor.\n\nNo participants were enrolled in any Phase 2 efficacy expansion cohort, or in any Phase 2 mandatory biopsy cohort receiving Treatment A, B, F, or G. Phase 2 mandatory biopsy cohort participants received Treatments C, D, or E (ie, were included in Treatment Groups C, D, or E). Participants were assigned to a treatment group based on the chemotherapy regimen most appropriate for their tumor type.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 70,
+  "conditions": [
+    "Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Epacadostat",
+      "type": "DRUG",
+      "description": "Epacadostat oral twice-daily continuous daily dosing at the protocol-defined dose."
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Pembrolizumab"
+    },
+    {
+      "name": "Oxaliplatin",
+      "type": "DRUG",
+      "description": "Oxaliplatin"
+    },
+    {
+      "name": "Leucovorin",
+      "type": "DRUG",
+      "description": "Leucovorin"
+    },
+    {
+      "name": "5-Fluorouracil",
+      "type": "DRUG",
+      "description": "5-Fluorouracil"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Gemcitabine"
+    },
+    {
+      "name": "nab-Paclitaxel",
+      "type": "DRUG",
+      "description": "nab-Paclitaxel"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Carboplatin"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Paclitaxel"
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": "Pemetrexed"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Cyclophosphamide"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Carboplatin"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Cisplatin"
+    },
+    {
+      "name": "5-Fluorouracil",
+      "type": "DRUG",
+      "description": "5-FU"
+    },
+    {
+      "name": "Investigator's choice of platinum agent",
+      "type": "DRUG",
+      "description": "Investigator's choice of platinum agent: carboplatin or cisplatin"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of selected advanced or metastatic solid tumors.\n* Presence of measurable disease per RECIST v1.1.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n\nExclusion Criteria:\n\n* Laboratory and medical history parameters not within the Protocol-defined range.\n* Receipt of anticancer medications or investigational drugs within the Protocol-defined intervals before the first administration of study drug.\n* Previous radiotherapy within 2 weeks of starting study therapy.\n* Known active central nervous system (CNS) metastases and/or carcinomatous meningitis.\n* Has not recovered to \u2264 Grade 1 from toxic effects of previous therapy and/or complications from previous surgical intervention before starting study therapy.\n* Receipt of a live vaccine within 30 days of planned start of study therapy.\n* Active infection requiring systemic therapy.\n* Subjects who have any active or inactive autoimmune disease or syndrome.\n* Women who are pregnant or breastfeeding.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania Health System",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Cancer Institute",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15237",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phases 1 & 2: Number of Participants With Treatment-emergent Adverse Events (TEAEs) and Serious TEAEs",
+      "timeFrame": "Up to 21 months",
+      "description": "A TEAE is any AE either reported for the first time or worsening of a pre-existing event after first dose of epacadostat, pembrolizumab, or chemotherapy. Serious adverse event is defined as an event that meets 1 of the following criteria: is fatal or life threatening, requires inpatient hospitalization or prolongation of existing hospitalization, results in persistent or significant disability, incapacity, or a substantial disruption of a person's ability to conduct normal life functions, constitutes a congenital anomaly or birth defect,is a medically important event that may jeopardize the participant or may require medical or surgical intervention to prevent 1 of the outcomes listed above."
+    },
+    {
+      "measure": "Phases 1 and 2: Number of Participants With Dose Limiting Toxicities (DLTs)",
+      "timeFrame": "28 days",
+      "description": "A DLT was defined as the occurrence of any of the protocol-specified toxicities occurring up to and including Day 28 for the cohorts where mFOLFOX6 and nab-paclitaxel/gemcitabine are administered and Day 21 for all other chemotherapy regimens in Phase 1, except those with a clear alternative explanation (eg, disease progression) or transient (\u2264 72 hours) abnormal laboratory values without associated clinically significant signs or symptoms based on investigator determination."
+    },
+    {
+      "measure": "Phases 1 and 2: Objective Response Rate (ORR)",
+      "timeFrame": "Up to Week 18",
+      "description": "ORR was defined as the percentage of participants having a complete response (CR) or partial response (PR) as determined by investigator assessment of radiographic disease per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1."
+    }
+  ],
+  "sponsor": "Incyte Corporation",
+  "collaborators": [],
+  "start_date": "2017-05-02",
+  "completion_date": "2020-07-13",
+  "last_updated": "2022-09-12"
+}

@@ -1,0 +1,101 @@
+{
+  "nct_id": "NCT00667342",
+  "brief_title": "A Study of Bevacizumab in Combination With Chemotherapy for Treatment of Osteosarcoma",
+  "official_title": "A Study of Bevacizumab, a Humanized Monoclonal Antibody Against Vascular Endothelial Growth Factor (VEGF), in Combination With Chemotherapy for Treatment of Osteosarcoma",
+  "brief_summary": "This study adopts a novel strategy for first-line treatment of osteosarcoma by combining chemotherapy with anti-angiogenic therapy using bevacizumab (Avastin\u00ae), a humanized monoclonal antibody against vascular endothelial growth factor (VEGF). Chemotherapy for localized disease comprises a 3-drug regimen (cisplatin, doxorubicin, and high-dose methotrexate). Chemotherapy for metastatic or unresectable disease comprises a cisplatin-based regimen that includes high-dose methotrexate, doxorubicin, ifosfamide, and etoposide.",
+  "detailed_description": "This is a comprehensive study that uses a novel agent that targets angiogenesis (bevacizumab) in combination with conventional chemotherapy for the treatment of osteosarcoma. Bevacizumab, a monoclonal antibody against the vascular endothelial growth factor (VEGF), has been shown to stop the growth of new blood vessels of tumors, both in the laboratory and in patients with other types of cancers. Bevacizumab has improved the effect of chemotherapy in adult patients with different types of cancer by increasing tumor response and increasing the chances of survival. This study has two main goals:\n\n* To find out if bevacizumab can be combined safely with chemotherapy for osteosarcoma\n* To find out if adding bevacizumab to chemotherapy will be beneficial in treating osteosarcoma.\n\nThe chemotherapy drugs used in this study are commonly used to treat osteosarcoma. Patients with non-metastatic and resectable tumors receive bevacizumab and chemotherapy comprised of cisplatin, doxorubicin and high-dose methotrexate. Patients with metastatic tumors or tumors that cannot be removed by surgery receive bevacizumab and chemotherapy comprised of cisplatin, doxorubicin and high-dose methotrexate, ifosfamide and etoposide. If the tumor can be removed by surgery, surgery will be performed after 10 weeks of chemotherapy and will be followed by additional chemotherapy. After completion of active therapy, patient's response to therapy will be followed for approximately 5 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 43,
+  "conditions": [
+    "Osteosarcoma",
+    "Malignant Fibrous Histiocytoma (MFH) of Bone"
+  ],
+  "interventions": [
+    {
+      "name": "Bevacizumab",
+      "type": "BIOLOGICAL",
+      "description": "Monoclonal Antibody against vascular endothelial growth factor (VEGF). Given intravenously (IV)."
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Given IV."
+    },
+    {
+      "name": "Doxorubicin",
+      "type": "DRUG",
+      "description": "Given IV."
+    },
+    {
+      "name": "Methotrexate",
+      "type": "DRUG",
+      "description": "Given IV."
+    },
+    {
+      "name": "Ifosfamide",
+      "type": "DRUG",
+      "description": "Given IV."
+    },
+    {
+      "name": "etoposide",
+      "type": "DRUG",
+      "description": "Given IV."
+    },
+    {
+      "name": "Surgery",
+      "type": "PROCEDURE",
+      "description": "Participants undergo definitive surgery and assessment of histologic response at week 10."
+    },
+    {
+      "name": "Radiotherapy",
+      "type": "RADIATION",
+      "description": "Radiation therapy delivered for positive margins or intralesional resections."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patient must have newly diagnosed high-grade, biopsy proven, osteosarcoma or malignant fibrous histiocytoma (MFH) of bone with no history of prior chemotherapy or radiation;\n* Participant is able to perform tasks and daily activities as defined in the study guidelines\n* Patient meets established guidelines for adequate function of the kidney, liver, heart and bone marrow\n* Participants meets other requirements defined in the eligibility portion of the study\n\nExclusion Criteria:\n\n* recent major surgical procedure or injury\n* Known bleeding diathesis, platelet disorder or coagulopathy\n* Thrombosis\n* Cardiac disease or hypertension\n* Significant proteinuria\n* Central nervous system disease\n* Gastrointestinal perforation/abdominal fistula\n* Osteosarcoma or MFH of bone as second malignancy",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "30 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins - Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "NCI/NIH - Pediatric Oncology Branch",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Unacceptable Toxicity",
+      "timeFrame": "After all patients have completed therapy, up to 1 year after last patient is enrolled",
+      "description": "Objective: To study the feasibility of combining: 1) bevacizumab with cisplatin, doxorubicin, and high-dose methotrexate (MAP) in patients with localized resectable osteosarcoma; and 2) bevacizumab with MAP and ifosfamide, and etoposide in patients with unresectable or metastatic osteosarcoma.\n\nThe target unacceptable toxicity is defined as grade 4 hypertension, proteinuria, or bleeding excluding petechiae/purpura, grade 3/4 thrombosis/embolism excluding catheter-related thrombosis. The unacceptable toxicity for major wound complication is defined as grade 2, 3, or 4 major wound complications.\n\nA six-stage group sequential stopping rule was developed for monitoring unacceptable toxicity."
+    },
+    {
+      "measure": "3-Year Event Free Survival",
+      "timeFrame": "After all patients have completed therapy, up to 4 years after last patient is enrolled",
+      "description": "To study the effect of adding bevacizumab to chemotherapy comprised of cisplatin, doxorubicin, and high-dose methotrexate (HDMTX) on the event-free survival (EFS) in patients with localized resectable osteosarcoma. The Kaplan-Meier (K-M) method was used to estimate survival rate."
+    }
+  ],
+  "sponsor": "St. Jude Children's Research Hospital",
+  "collaborators": [
+    "Genentech, Inc."
+  ],
+  "start_date": "2008-06-03",
+  "completion_date": "2017-08",
+  "last_updated": "2023-08-03"
+}

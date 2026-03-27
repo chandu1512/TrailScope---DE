@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT02467738",
+  "brief_title": "Surgical Resection and Intraoperative Cesium-131 Brachytherapy for Head and Neck Cancer",
+  "official_title": "A Pilot Study Using Surgical Resection and Intraoperative Cesium-131 Permanent Interstitial Brachytherapy Implant in Resectable Recurrent Head and Neck Cancer",
+  "brief_summary": "This pilot clinical trial studies cesium Cs 131 brachytherapy in treating patients with head and neck cancer that has come back (recurrent) and can be removed by surgery. Brachytherapy, also known as internal radiation therapy, uses radioactive material placed directly into or near a tumor to kill tumor cells. Radioactive drugs, such as cesium Cs 131, may carry radiation directly to tumor cells and not harm normal cells. Permanently implanting cesium Cs 131 into the wound bed after surgery may help treat microscopic cancer cells that may be in the tissue after surgical removal of the tumor.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. Assess the impact of cesium 131 (cesium Cs 131) on recurrence rate, disease free survival and over all survival.\n\nSECONDARY OBJECTIVES:\n\nI. Assess complications associated with cesium 131 treatment in subjects with head and neck cancer.\n\nOUTLINE:\n\nPatients undergo brachytherapy using cesium Cs 131 during surgical resection.\n\nAfter completion of study treatment, patients are followed up at 30 days and then every 3 months for 24 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "EARLY_PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 30,
+  "conditions": [
+    "Recurrent Head and Neck Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Brachytherapy",
+      "type": "RADIATION",
+      "description": "Undergo brachytherapy with Cesium-131"
+    },
+    {
+      "name": "Cesium-131",
+      "type": "DRUG",
+      "description": "Undergo brachytherapy with Cesium-131"
+    },
+    {
+      "name": "Conventional surgery",
+      "type": "PROCEDURE",
+      "description": "Undergo surgical resection"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Diagnosis: Subjects with a diagnosis of recurrent head and neck cancer\n2. Based on clinical and radiographic evidence the tumor needs to be deemed resectable preoperatively\n3. Age: Subjects must be \u2265 18 years of age and \u2264 90 years old\n4. Informed Consent: All subjects must be able to comprehend and sign a written informed consent document\n\nExclusion Criteria:\n\n1. Subjects who are pregnant or may become pregnant\n2. Unresectable tumor\n3. Other severe acute or chronic medical or psychiatric condition that may increase the risk associated with study participation, and in the judgment of the investigator would make the subject inappropriate for entry into this study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "90 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Disease free survival (DFS)",
+      "timeFrame": "Up to 24 months",
+      "description": "Will assess the impact of cesium Cs 131 on DFS by comparing the cohort to a matched historical control cohort. The distribution of DFS will be estimated using the Kaplan-Meier and a stratified log rank test will be used to test for differences between cohorts. Adjustment for other potential confounders will be performed using stratified Cox proportional hazards regression"
+    },
+    {
+      "measure": "Incidence of toxicity",
+      "timeFrame": "Up to 90 days",
+      "description": "Evaluated using the Radiation Therapy Oncology Group Common Toxicity Criteria\n\nCategories of risk include infection, wound breakdown, inability to heal, fistula formation, bleeding and need for further surgery."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2015-03-17",
+  "completion_date": "2020-05-28",
+  "last_updated": "2025-09-15"
+}

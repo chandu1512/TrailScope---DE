@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT05365997",
+  "brief_title": "Behavioral Nudges to Improve Palliative Care Utilization in Advanced Cancer",
+  "official_title": "Behavioral Nudges to Improve Palliative Care Utilization in Advanced Cancer",
+  "brief_summary": "Patients with cancer often undergo costly therapy and acute care utilization that is discordant with their wishes, particularly at the end of life. Despite early palliative care consultations being a National Comprehensive Cancer Network (NCCN) guideline-concordant practice in advanced cancer, palliative care referral rates for stage IV patients are low. In this project, the investigators will evaluate a health system initiative that uses behavioral nudges to prompt palliative care referrals among outpatients with advanced cancer in terms of successful palliative care referrals and downstream quality of life outcomes. In partnership with the health system, this will be conducted as a 2-arm pragmatic cluster randomized trial.",
+  "detailed_description": "Patients with advanced cancer have poor quality of life and life expectancy. Palliative care is a medical specialty focusing on providing relief from the symptoms and stress of serious illnesses such as cancer. While palliative care referrals often occur in the inpatient setting for acutely ill individuals, early outpatient specialty palliative care concurrent with cancer-directed treatment improves quality of life and survival, is an evidence-based practice, and is endorsed by national guidelines. Palliative care can be provided in the ambulatory, telemedicine, or home-based settings. However, nearly half of patients with advanced cancer do not receive palliative care prior to dying. Lack of standardized referral criteria and screening methods for palliative care contributes to underutilization. There is a high need for strategies to increase use of palliative care in oncology.\n\nClinicians underutilize palliative care, initiating referrals a median of 2 months before death. This status quo bias, which predisposes clinicians to continue current practice even if not the optimal option, may lead to delayed or missed palliative care referrals. Additionally, optimism bias, the cognitive bias that causes clinicians to believe that their own patients are at lesser risk of negative outcomes, may cause clinicians to underestimate a patient's mortality risk or symptom burden, thus delaying palliative care referral. Finally, overconfidence bias, the propensity to overestimate one's desired behaviors when it is not objectively reasonable, may lead clinicians to incorrectly believe they are initiating more palliative care referrals than their peers.\n\nOvercoming suboptimal clinician decision-making biases are key to increasing palliative care referrals. Principles from behavioral economics can inform \"nudges\" that change how clinicians receive information and make choices such as palliative care referral. Default, opt-out nudges that make the optimal choice the path of least resistance can mitigate clinicians' status quo bias. Reframing clinicians' prognoses by providing data-driven life expectancy assessments may combat optimism bias.\n\nEarly palliative care intervention can improve quality of life for patients with advanced cancer. Outpatient palliative care is available at 98% of National Cancer Institute (NCI)-designated cancer centers and 63% of non-NCI centers. Early outpatient palliative care concurrent with cancer-directed treatment improves quality of life, reduces symptom burden, and decreases rates of aggressive end of life care. Nevertheless, only a minority of patients who qualify for palliative care receive it.\n\nThe primary objective of the study is to evaluate the impact of sending behavioral nudges to clinicians, as compared to usual practice, on completion of palliative care referrals among patients with advanced cancer. Our secondary objectives are to identify the impact of prompted palliative care referrals on quality of life, acute care utilization, and end-of-life utilization. This is a 2-arm pragmatic randomized trial among approximately 250 outpatients with advanced cancer to assess response to behavioral nudges to refer to palliative care. The setting will be outpatient oncology at the Ann B. Barshinger Cancer Institute at Lancaster General Health. Eligible clinicians will be randomized in clusters by overlapping clinical team (pod) to receive default electronic medical record-based prompts for palliative care referral among advanced cancer patients (Arm 1) vs no intervention/usual practice (Arm 2). These nudges have been shown to positively influence clinician behavior and are often used to drive value-based oncology care; however, they have never been studied in the context of palliative care referral. The primary outcome is completion of a palliative care referral within 12 weeks of enrollment.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 266,
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Default Nudge",
+      "type": "OTHER",
+      "description": "For patients whose clinician pods are randomized to the intervention arm, the care team pod will receive a message indicating that the patient is eligible for palliative care and that a default referral order has been pended for that patient. Clinicians will be given an opportunity to respond if they do not want their patient to be referred to palliative care. For clinicians who do not respond, after the allotted time, the Clinical Research Coordinator will reach out to the patient to introduce palliative care and ask if staff can schedule an appointment. For clinicians who respond no, the pended order will be removed and no patient contact by the research team will occur."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have a functional telephone number\n* Receive ongoing care from hematology/oncology services within the Ann B. Barshinger Cancer Institute (ABBCI) at Lancaster General Health.\n\nExclusion Criteria:\n\n* Patients appearing for a new patient visit\n* Patients who have previously received palliative care\n* Patients who are enrolled in an ongoing clinical trial of a therapeutic agent\n* Patients who receive primary oncologic care within another institution",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Ann B. Barshinger Cancer Institute at Lancaster General Health",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17601",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Completion of Palliative Care Visit",
+      "timeFrame": "Within 12 weeks of the Index Visit",
+      "description": "Binary outcome (yes/no) measured at the patient level among eligible patients based on the date of documented palliative care encounter"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2022-05-23",
+  "completion_date": "2023-08-08",
+  "last_updated": "2025-01-13"
+}

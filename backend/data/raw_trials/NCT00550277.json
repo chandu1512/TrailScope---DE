@@ -1,0 +1,60 @@
+{
+  "nct_id": "NCT00550277",
+  "brief_title": "LBH589 Treatment for Refractory Clear Cell Renal Carcinoma",
+  "official_title": "A Phase II Study of LBH589 in the Treatment of Patients With Refractory Clear Cell Renal Carcinoma",
+  "brief_summary": "Inhibition of histone deacetylase (HDAC) provides a novel approach for cancer treatment. LBH589, an oral HDAC inhibitor, has been well tolerated in phase I trials and has shown activity against several types of cancer. In this nonrandomized phase II trial, we are investigating the activity of LBH589 in the treatment of patients with refractory clear cell renal carcinoma.",
+  "detailed_description": "Inhibition of histone deacetylase (HDAC) provides a potential target for cancer treatment. Histones are components of the core proteins of nucleosomes, and acetylation and deacetylation of these proteins play a role in the regulation of gene expression. HDAC activity is known to be increased in many types of malignant cells; HDAC inhibitors have been shown to induce differentiation, cell cycle arrest, and apoptosis in cultured tumor cells. Since this tumor-associated mechanism is common to many types of cancer, HDAC may have a broad role in cancer treatment.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Renal Cell Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "LBH589",
+      "type": "DRUG",
+      "description": "LBHLBH589 will be administered orally at a dose of 45 mg (1 - 5 mg capsule and 2 - 20 mg capsules) on Monday and Thursday of each week (twice weekly). To enable patients to undergo cardiac monitoring (Section 3.5.2), all patients must begin treatment on a Monday, and continue Monday/Thursday dosing during subsequent treatment cycles."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically documented metastatic or locally unresectable clear cell renal carcinoma. In patients with mixed histologies, the clear cell component must comprise \\> 75% of the cancer.\n* Documented disease progression or intolerance while receiving treatment with: a) sunitinib, sorafenib, or both, and b) temsirolimus.\n* Maximum of 4 prior systemic regimens allowed and may include other targeted agents, immunotherapy and chemotherapy.\n* Measurable disease by RECIST criteria.\n* ECOG PS 0 or 1.\n* Laboratory values as follows: ANC \\>= 1500/\u03bcL, Hgb \\>= 9 g/dL, Platelets \\>= 100,000/uL, AST/SGOT and ALT/SGPT \\<= 2.5 x ULN or \\<= 5.0 x ULN in patients with liver metastases, Creatinine \\<= 2.0 mg/dL Or Calculated Creatinine Clearance \\>= 50 ml/min, Albumin \\>= 3 g/dL, Potassium \\>= lower limit normal (LLN),Phosphorous \\>= LLN, Calcium \\>= LLN, Magnesium \\> LLN\n* Women of childbearing potential must have a negative serum or urine pregnancy test performed within 7 days prior to start of treatment.\n* Life expectancy \\> 12 weeks.\n* Accessible for treatment and follow-up.\n* All patients must be able to understand the nature of the study and give written informed consent prior to study entry.\n\nExclusion Criteria:\n\n* Age \\< 18 years of age.\n* Prior treatment with an HDAC inhibitor.\n* Impaired cardiac function\n* Ongoing therapy with antiarrhythmics or other medications associated with QTc prolongation.\n* Uncorrected hypokalemia or hypomagnesemia.\n* Uncontrolled hypertension or cardiac arrhythmias.\n* Active parenchymal brain metastases. Patients who have had brain metastases resected, or have received radiation therapy ending \\> 8 weeks prior to study entry are eligible if they meet all of the following criteria: 1) residual neurologic symptoms \\< grade 1, 2) no dexamethasone requirement, 3) follow-up MRI shows regression of lesions after treatment, with no new lesions appearing.\n* Active meningeal metastases.\n* Known diagnosis of human immunodeficiency virus (HIV) infection.\n* Unresolved diarrhea \\> CTCAE grade 1.\n* Concomitant requirement for medication classified as CYP3A4 inducers or inhibitors.\n* Chemotherapy, investigational drug therapy, major surgery \\< 4 weeks prior to starting study drug or patients that have not recovered from side effects of previous therapy.\n* Patient is \\< 5 years free of another primary malignancy except if the other primary malignancy is not currently clinically significant or requiring active intervention, or if other primary malignancy is a basal cell skin cancer or a cervical carcinoma in situ. Existence of any other malignant disease is not allowed.\n* Concomitant use of any anti-cancer therapy or radiation therapy.\n* Pregnant or breast feeding or female of reproductive potential not using 2 effective methods of birth control.\n* Male patients whose sexual partners are women of childbearing potential not using effective birth control.\n* Patients with gastrointestinal (GI) tract disease, causing the inability to take oral medication, malabsorption syndrome, a requirement for intravenous (IV) alimentation, prior surgical procedures affecting absorption, uncontrolled inflammatory GI disease.\n* Other concurrent severe, uncontrolled infection or intercurrent illness\n* Abnormal thyroid function (TSH or free T4) detected at screening. Patients with known hypothyroidism who are stable on thyroid replacement are eligible.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Center for Cancer and Blood Disorders",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    },
+    {
+      "facility": "Hematology Oncology Associates of Northern NJ",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival",
+      "timeFrame": "18 months",
+      "description": "Progression-free survival was defined as the interval from the date of first treatment with panobinostat until the date that disease progression or death occurred. Progressive disease (PD): 20% increase in the sum of diameters of target measurable lesions above the smallest sum observed (over baseline if no decrease in the sum is observed during therapy), with a minimum absolute increase of 5 mm."
+    }
+  ],
+  "sponsor": "SCRI Development Innovations, LLC",
+  "collaborators": [
+    "Novartis"
+  ],
+  "start_date": "2008-01",
+  "completion_date": "2010-06",
+  "last_updated": "2021-10-26"
+}

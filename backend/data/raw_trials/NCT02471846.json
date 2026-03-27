@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT02471846",
+  "brief_title": "A Study of GDC-0919 and Atezolizumab Combination Treatment in Participants With Locally Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase Ib, Open-Label, Dose-Escalation Study of the Safety and Pharmacology of GDC-0919 Administered With Atezolizumab in Patients With Locally Advanced or Metastatic Solid Tumors",
+  "brief_summary": "This study will evaluate the safety, tolerability, and pharmacokinetics of the combination of GDC-0919 and atezolizumab in participants with locally advanced, recurrent, or metastatic incurable solid malignancy that has progressed after available standard therapy or for which standard therapy is ineffective, intolerable, or inappropriate. Participants will be enrolled in two stages, including a dose-escalation stage and an expansion stage.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 158,
+  "conditions": [
+    "Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Atezolizumab",
+      "type": "DRUG",
+      "description": "Participants will receive atezolizumab at a fixed dose of 1200 milligrams (mg) via intravenous (IV) infusion on Day 1 of each 21-day cycle with the exception of biopsy cohort A, where atezolizumab administration will start on Cycle 2 Day 1."
+    },
+    {
+      "name": "GDC-0919",
+      "type": "DRUG",
+      "description": "Participants will receive GDC-0919 by mouth (PO) twice daily (BID), specifically every 12 hours. During the dose-escalation stage, the first cohort will receive GDC-0919 at a starting dose of 50 mg PO BID. Dosing will commence on Day -1 for Cycle 1 and follow subsequent 21-day (Days 1 to 21) dosing cycles. The dose will be modified based upon evaluation of DLTs, with single dose escalations not to exceed 2.5-fold of the previous dose. The proposed dosages for evaluation are 50, 100, 200, 400, 600, and 1000 mg PO BID. During the expansion stage, selected solid tumor types will be treated at the MTD or MAD as determined during the dose-escalation stage."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Life expectancy at least 12 weeks\n* Adequate hematologic and end organ function\n* Negative pregnancy test and willingness to utilize contraception among women of childbearing potential\n* Locally advanced, recurrent, or metastatic incurable solid malignancy with measurable disease per RECIST v1.1\n* Progression following at least one standard therapy; or standard therapy considered ineffective, intolerable, or inappropriate; or use of an investigational agent recognized as a standard of care\n* For the expansion stage, histologically confirmed renal cell cancer (RCC), urothelial bladder cancer (UBC), triple-negative breast cancer (TNBC), non-small cell lung cancer (NSCLC), melanoma, head and neck squamous cell carcinoma (HNSCC), gastric cancer, ovarian cancer, cervical cancer, endometrial cancer, or Merkel cell cancer\n* For the expansion stage, evaluable for PD-L1 expression\n* Anti PD-1/PD-L1 relapsed cohorts (I and II), participants whose most recent anti-cancer therapy consisted of single-agent PD-1/PD-L1 blockade will be enrolled\n\nExclusion Criteria:\n\n* Significant cardiovascular or liver disease\n* Major surgery within 28 days of study drug\n* Any anti-cancer therapy within 3 weeks of study drug\n* Malabsorption syndrome or poor upper gastrointestinal integrity\n* Primary central nervous system (CNS) malignancy or active metastases within 5 years\n* Uncontrolled tumor pain\n* Autoimmune disease other than stable hypothyroidism or vitiligo\n* Human immunodeficiency virus (HIV), active hepatitis B or C, or tuberculosis\n* Signs/symptoms of infection, or use of antibiotics within 2 weeks of study drug\n* Live attenuated vaccine within 4 weeks of study drug\n* Known history or predisposition to QT interval prolongation\n* Prior cancer immunotherapy, specifically indoleamine 2,3-dioxygenase (IDO) or tryptophan 2,3-dioxygenase (TDO) inhibitors, T-cell costimulatory receptor agonist antibodies, or checkpoint inhibitors among certain participants",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Dose-limiting Toxicities (DLTs)",
+      "timeFrame": "From Day -1 to 21 of Cycle 1 (each cycle is 21 days)",
+      "description": ""
+    },
+    {
+      "measure": "Percentage of Participants With Adverse Events",
+      "timeFrame": "From Screening until new anti-cancer therapy or up to 60 days after last dose (up to approximately 3 years)",
+      "description": ""
+    }
+  ],
+  "sponsor": "Genentech, Inc.",
+  "collaborators": [],
+  "start_date": "2015-07-28",
+  "completion_date": "2019-10-02",
+  "last_updated": "2019-10-18"
+}

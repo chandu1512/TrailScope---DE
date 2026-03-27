@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT01973868",
+  "brief_title": "Safety and Pharmacokinetics of Regorafenib and Cetuximab in Combination",
+  "official_title": "A Phase 1b, Multi-center, Non-randomized, Open Label, Dose Escalation Design Study of Regorafenib (BAY73-4506) in Combination With Cetuximab in Subjects With Locally Advanced or Metastatic Solid Tumors Who Are Not Candidates for Standard Therapy or in Whom Regorafenib or Cetuximab is Considered as a Standard Treatment",
+  "brief_summary": "To establish safety, tolerability and pharmacokinetics of regorafenib and cetuximab in combination, and to determine the maximum tolerated dose (MTD) and recommended Phase 2 dose (RP2D)",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 42,
+  "conditions": [
+    "Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Regorafenib (Stivarga, BAY73-4506)",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Cetuximab (ERBITUX)",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients with histologically or cytologically confirmed, locally advanced or metastatic solid tumors who are not candidates for standard therapy or in whom regorafenib or cetuximab is considered a standard treatment. Patients with metastatic colorectal cancer (mCRC) must have a record of K-ras gene mutational analysis available and no K-ras mutation is present.\n* Male or female patients \u2265 18 years of age\n* Women of childbearing potential must have a blood or urine pregnancy test performed a maximum of 7 days before start of study treatment, and a negative result must be documented before start of study treatment\n* Life expectancy of at least 3 months\n* Adequate bone marrow, liver and renal function as assessed by the following laboratory requirements conducted within 7 days of starting the study treatment:\n\n  * Platelet count \u2265 100,000/cubic millimeters (mm3), hemoglobin (Hb) \u2265 8.5 g/dl, leukocyte count \\> 3,000/mm3, absolute neutrophil count (ANC) \u2265 1,000/mm3\n  * Total bilirubin \u2264 1.5 x the upper limit of normal (ULN). Mildly elevated total bilirubin (\\< 6 mg/dL) is allowed if Gilbert's syndrome is documented.\n  * Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) \u2264 2.5 x ULN (\u2264 5 x ULN for subjects with liver involvement of their cancer)\n  * Alkaline phosphatase limit \u2264 2.5 x ULN (\u2264 5 x ULN for subjects whose cancer involves their liver).\n  * Amylase and lipase \u2264 1.5 x ULN\n  * Serum creatinine \u2264 1.5 times ULN and creatinine clearance (CLcr) \u2265 30 mL/min according to the Cockroft-Gault formula\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1\n\nExclusion Criteria:\n\n* Prior treatment with Regorafenib\n* Prior discontinuation of cetuximab treatment due to toxicity or intolerance of cetuximab\n* Major surgical procedure, open biopsy, or significant traumatic injury within 28 days before start of study medication\n* Non-healing wound, ulcer, or bone fracture\n* Systemic anticancer therapy within 28 days\n* Patients unable to swallow and retain oral medications",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Medical Center Health System",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum tolerated dose (MTD) of regorafenib in combination with cetuximab",
+      "timeFrame": "1 month",
+      "description": "MTD is defined as the maximum dose at which the incidence of dose-limiting toxicities (DLTs) during Cycle 1 is below 20 %, or as the maximum dose administered, whichever is achieved first during dose escalation"
+    },
+    {
+      "measure": "Number of participants with Adverse Events as a measure of safety and tolerability",
+      "timeFrame": "Up to 2 years or longer",
+      "description": ""
+    },
+    {
+      "measure": "Cmax,md (Cmax after multiple dose) for regorafenib and cetuximab",
+      "timeFrame": "Multiple time points on Day 15",
+      "description": ""
+    },
+    {
+      "measure": "AUC(0-24)md (AUC from time zero to 24 hours after multiple-dose administration) for regorafenib",
+      "timeFrame": "Multiple time points on Day 15",
+      "description": ""
+    },
+    {
+      "measure": "AUC(0-26)md (AUC from time zero to 26 hours after multiple-dose administration) for cetuximab",
+      "timeFrame": "Multiple time points on Day 15",
+      "description": ""
+    }
+  ],
+  "sponsor": "Bayer",
+  "collaborators": [],
+  "start_date": "2013-11-21",
+  "completion_date": "2018-04-03",
+  "last_updated": "2019-04-05"
+}

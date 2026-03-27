@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT00694382",
+  "brief_title": "Evaluation of AVE5026 in the Prevention of Venous Thromboembolism in Cancer Patients Undergoing Chemotherapy",
+  "official_title": "A Multinational, Randomized, Double Blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of AVE5026 in the Prevention of Venous Thromboembolism (VTE) in Cancer Patients at High Risk for VTE and Who Are Undergoing Chemotherapy",
+  "brief_summary": "The primary objective was to compare the efficacy of once daily subcutaneous injections of Semuloparin sodium (AVE5026) with placebo in the prevention of venous thromboembolism \\[VTE\\] in cancer patients at high risk for VTE and who were undergoing chemotherapy.\n\nThe secondary objectives were to evaluate the safety of Semuloparin sodium (AVE5026), to document Semuloparin sodium (AVE5026) exposures, to try identifying a metagene predictor of VTE and to assess the survival status at one year in this population.",
+  "detailed_description": "Randomization had to take place just prior to the first study drug injection (randomization ratio 1:1).\n\nThe study period per participant was variable depending on the duration of chemotherapy. It included:\n\n* a screening period up to 3 weeks,\n* a double-blind treatment period,\n* a follow-up period of 1 month.\n\nStudy end date was at the latest 7 months following the randomization of the last participant (6 months treatment and 1 month follow-up).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 3212,
+  "conditions": [
+    "Venous Thromboembolism",
+    "Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Semuloparin sodium",
+      "type": "DRUG",
+      "description": "0.4 mL solution in ready-to-use 0.5 ml pre-filled syringe\n\nSubcutaneous injection"
+    },
+    {
+      "name": "Placebo (for semuloparin)",
+      "type": "DRUG",
+      "description": "0.4 mL solution in ready-to-use 0.5 ml prefilled syringe strictly identical in appearance but without active component\n\nSubcutaneous injection"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nCancer patient with metastatic or locally advanced solid tumor of lung, pancreas, stomach, colon/rectum, bladder or ovary initiating a (new) course of chemotherapy with a minimum intent of 3 months therapy\n\nExclusion Criteria:\n\n* Required systematic venous thromboprophylaxis or curative treatment with anti-coagulant or thrombolytic;\n* High risk of bleeding;\n* Severe renal impairment (estimated creatinine clearance \\<30 mL/min);\n* ECOG (Eastern Cooperative Oncology Group) performance status 3 \\& 4;\n* Major surgery within 4 weeks before randomization;\n* Known hypersensitivity to unfractionated heparin \\[UFH\\] or low molecular weight heparin \\[LMWH\\].\n\nThe above information is not intended to contain all considerations relevant to a patient's potential participation in a clinical trial",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Investigational Site Number 840042",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    },
+    {
+      "facility": "Investigational Site Number 840066",
+      "city": "Easton",
+      "state": "Maryland",
+      "zip": "21601",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants Who Experienced Venous Thromboembolism Event [VTE] or VTE-related Death",
+      "timeFrame": "From randomization up to 3 days after last study drug injection",
+      "description": "VTE included any symptomatic Deep Vein Thrombosis \\[DVT\\] of lower or upper limbs and any non-fatal Pulmonary Embolism \\[PE\\] as confirmed by a Central Independent Adjudication Committee \\[CIAC\\] after review of compression ultrasound or venography for DVT, ventilation/perfusion lung scan, pulmonary angiogram or spiral computer tomography lung scan for PE.\n\nVTE-related death included fatal PE and unexplained deaths without confirmatory autopsy. Any sudden death could be classified as fatal PE by the CIAC unless diagnostic test results strongly indicated an alternative diagnosis\"."
+    },
+    {
+      "measure": "Time-to-first Occurrence of VTE or VTE-related Death (Cumulative Incidence Function)",
+      "timeFrame": "From randomization up to 3 days after last study drug injection",
+      "description": "Participants alive and not having experienced VTE were right censored at last study drug injection plus 3 days. In order to correct for competing risks (Deaths other than VTE-related death), a model of cause-specific hazards was used to estimate the Cumulative incidence Function with Prentice non-parametric estimator."
+    }
+  ],
+  "sponsor": "Sanofi",
+  "collaborators": [],
+  "start_date": "2008-06",
+  "completion_date": "2010-11",
+  "last_updated": "2013-01-14"
+}

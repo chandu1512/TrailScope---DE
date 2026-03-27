@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT02757859",
+  "brief_title": "High Volume Washing of the Abdomen in Increasing Survival After Surgery in Patients With Pancreatic Cancer That Can Be Removed by Surgery",
+  "official_title": "The WASH Trial: A Randomized Trial of Abdominal Lavage Using Distilled Water or Saline at High Volumes for Resected Pancreatic Cancer",
+  "brief_summary": "This randomized clinical trial studies how well high volume washing of the abdomen works in increasing survival after surgery in patients with pancreatic cancer that can be removed by surgery. High volume washings may remove free floating cancers present after surgery and help prolong survival in patients with pancreatic cancer.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. Overall survival (OS) (18 to 27 months after resection).\n\nSECONDARY OBJECTIVES:\n\nI. Disease free survival (DFS). II. Complication rate. III. Site of first-recurrence (by site, and distant vs. local). IV. Clearance of malignant cells pre vs. post-lavage.\n\nOUTLINE: Patients are randomized to 1 of 3 arms.\n\nARM I (EIPL-S): Patients undergo pancreaticoduodenectomy, distal pancreatectomy, or total pancreatectomy. Immediately after removal of tumor, patients receive extensive intraoperative peritoneal saline (EIPL-S) lavage 10 times over 15 minutes.\n\nARM II (EIPL-D): Patients undergo pancreaticoduodenectomy, distal pancreatectomy, or total pancreatectomy. Immediately after removal of tumor, patients receive extensive intraoperative peritoneal distilled water (EIPL-D) lavage 10 times over 15 minutes.\n\nARM III (NO LAVAGE): Patients undergo pancreaticoduodenectomy, distal pancreatectomy, or total pancreatectomy with no extensive lavage after removal of tumor.\n\nAfter completion of study treatment, patients are followed up every 3 months.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 845,
+  "conditions": [
+    "Acinar Cell Carcinoma",
+    "Ampulla of Vater Adenocarcinoma",
+    "Cholangiocarcinoma",
+    "Duodenal Adenocarcinoma",
+    "Pancreatic Adenocarcinoma",
+    "Pancreatic Ductal Adenocarcinoma",
+    "Pancreatic Intraductal Papillary Mucinous Neoplasm",
+    "Periampullary Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Pancreatectomy",
+      "type": "PROCEDURE",
+      "description": "Undergo pancreaticoduodenectomy, distal pancreatectomy, or total pancreatectomy"
+    },
+    {
+      "name": "Lavage",
+      "type": "OTHER",
+      "description": "Receive EIPL-S"
+    },
+    {
+      "name": "Pancreatectomy",
+      "type": "PROCEDURE",
+      "description": "Undergo pancreaticoduodenectomy, distal pancreatectomy, or total pancreatectomy"
+    },
+    {
+      "name": "Lavage",
+      "type": "OTHER",
+      "description": "Receive EIPL-D"
+    },
+    {
+      "name": "Pancreatectomy",
+      "type": "PROCEDURE",
+      "description": "Undergo pancreaticoduodenectomy, distal pancreatectomy, or total pancreatectomy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* The subject has a surgical indication for pancreatectomy (pancreaticoduodenectomy, distal pancreatectomy, total pancreatectomy) as determined by the treating physician/surgeon\n* A diagnosis of pancreatic or other periampullary cancer is suspected preoperatively\n* In the opinion of the surgeon, the subject has no medical contraindications to pancreatectomy\n* Age \u226518 years of age.\n* The subject is willing to consent to randomization of EAL-S vs. standard EAL-W vs. no extensive lavage. (SOC)\n\nExclusion Criteria:\n\n* The subject does not have a surgical indication for pancreatectomy\n* In the opinion of the surgeon, the subject has medical contraindications to pancreatectomy\n* Age \\< 18 years of age\n* The subject is not willing to consent to EAL-S vs. EAL-W vs. no extensive lavage (SOC)\n* Known benign or indolent disease, including benign pancreatic cystic tumors or pancreatic endocrine tumors) without possible risk of malignancy\n* Other malignancy within five years, unless the probability of recurrence of the prior malignancy is \\< 5% as determined by the principal investigator based on available information. Patient's curatively treated for squamous and basal cell carcinoma of the skin or patients with a history of malignant tumor in the past that have been disease free for at least five years are also eligible for this study.\n* Evidence of metastatic disease preoperatively.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "Up to 27 months after resection",
+      "description": "Will use a one-sided log-rank test to separately compare lavage (EIPL-S or EIPL=D) to no lavage with respect to OS. Assuming the study is not stopped at the interim analyses, the final comparison will be made with an alpha level of 0.02493. Distribution of OS will be estimated using the Kaplan-Meier method. Secondary analyses will use Cox regression to adjust the lavage/no lavage comparison for other baseline patient and/or characteristics known to be associated with OS."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2016-04-27",
+  "completion_date": "2026-04-27",
+  "last_updated": "2025-05-15"
+}

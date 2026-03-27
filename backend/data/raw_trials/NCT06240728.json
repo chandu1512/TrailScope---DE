@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT06240728",
+  "brief_title": "A Study of NPX887 for Participants With Solid Tumors Known to Express B7-H7/HHLA2",
+  "official_title": "A Phase 1a/1b Dose Escalation and Dose Expansion Study of NPX887 in Participants With Solid Tumor Malignancies Known to Express B7-H7/HHLA2",
+  "brief_summary": "NPX887 is a human, antagonistic immunoglobulin G1 (IgG1) monoclonal antibody targeting B7-H7 (HHLA2) that may potentiate an anti-tumor immune response. The goal of this first-in-human study is to learn whether NPX887 is safe and tolerable and shows a preliminary efficacy in participants with B7-H7 (HHLA2) expressing tumors at selected dose(s). The main questions it aims to answer are:\n\n* what is an appropriate dose to be given to participants?\n* are the side effects of treatment manageable?\n* what is the preliminary anti-tumor activities?\n\nParticipants who are treated will receive an intravenous (IV) infusion of NPX887 if their disease has not progressed, and be closely monitored by the treating physicians.",
+  "detailed_description": "This study is comprised of Phase 1a (Dose Escalation) and Phase 1b including Part 1b (Dose Expansion) and Part 1c (Randomized Dose Comparison). Phase 1a will test different doses of NPX887 to determine the optimal dose(s) to continue with in Phase 1b. In the Phase 1b, more participants will be tested to evaluate preliminary activities in multiple disease-specific cohorts and compare the efficacy of the higher and lower doses chosen in Phase 1a.\n\nThroughout the study, safety and preliminary efficacy data will be collected to characterize the clinical activity of NPX887. Samples of blood will be taken to help in an understanding of how NPX887 behaves in the body by assessing the amount of drug in the blood over time, and changes in blood components. Tumor tissue samples will be collected at screening and on-treatment stages for biomarker analysis and pharmacodynamics (PD) evaluation.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 144,
+  "conditions": [
+    "Metastatic Malignant Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "NPX887",
+      "type": "DRUG",
+      "description": "NPX887 will be administered by IV infusion every 3 weeks until documented disease progression or participant withdrawal for up to 2 years"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed recurrent, metastatic solid tumor refractory to, or intolerant of, standard of care therapy in one of the following indications:\n\n  * Phase 1a (Dose Escalation): Non-small cell lung carcinoma (NSCLC), small cell lung carcinoma (SCLC), renal cell carcinoma (RCC), colorectal carcinoma (CRC), gastric and gastro-esophageal carcinoma, esophageal adenocarcinoma, biliary tract cancers, ovarian carcinoma, and other solid tumor types known to express B7-H7/HHLA2.\n  * Phase 1b including Part 1b (Dose Expansion) and Part 1c (Randomized Dose Comparison): participants who have clear cell RCC, EGFR mutant lung adenocarcinoma, or gastric/GEJ adenocarcinoma.\n  * In Phase 1b, participants must have confirmed B7-H7/HHLA2 expression in their tumor determined via archival tissue IHC testing through a central lab (pre-screening).\n* Phase 1a: Evaluable disease (measurable or non-measurable) by RECIST v.1.1 criteria; Phase 1b: Measurable disease by RECIST v1.1 criteria with additional disease-specific enrollment criteria applied to clear cell RCC, EGFR mutant lung adenocarcinoma, or gastric/GEJ adenocarcinoma.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0, 1, or 2.\n* Ability to understand and the willingness to sign a written informed consent document\n* Willing to use highly effective contraceptive measures throughout the trial.\n\nExclusion Criteria:\n\n* Treatment with any of the following:\n\n  * Systemic anticancer treatment \u226414 days or within 5 half-lives prior to the first dose of study drug, whichever is shorter.\n  * Limited-field radiotherapy \u22647 days or extended-field thoracic radiotherapy \u22648 weeks of the first dose of study drug.\n* Have any unresolved toxicity of \u2265Grade 2 from previous anti-cancer treatment, except for alopecia, chronic stable neuropathy for \\>4 months, changes in skin pigmentation, or requiring replacement therapy for endocrine abnormalities.\n* Participants with known brain metastases are excluded unless they are clinically stable, with no new or enlarging brain metastases as evidenced on MRI during screening.\n* History of Grade 3 immune-related pneumonitis or colitis.\n* Participants who discontinued prior immunotherapy due to immune-related toxicities, or history of unresolved prior immune-related toxicity except for endocrine abnormalities requiring replacement therapy or vitiligo.\n* Known autoimmune disease requiring immunosuppressive treatment requiring the equivalent of more than 10 mg prednisone daily.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "ACTIVE_NOT_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of dose limiting toxicity (DLT)",
+      "timeFrame": "From first dose through 21 days",
+      "description": "Number of participants with DLT in Ph1a"
+    },
+    {
+      "measure": "Incidence of treatment-emergent adverse events (AEs)",
+      "timeFrame": "From first dose up to 24 months",
+      "description": "Number and type of AEs categorized by Common Terminology Criteria for Adverse Events (CTCAE) version 5.0 in Ph1a"
+    },
+    {
+      "measure": "Incidence of discontinuations, dosing interruptions, and dose reductions",
+      "timeFrame": "From first dose up to 24 months",
+      "description": "Number of participants with changes to their dosing schedule as a result of treatment-related AEs in Ph1a"
+    },
+    {
+      "measure": "Objective response rate (ORR)",
+      "timeFrame": "Up to 2 years or until progressive disease, unacceptable toxicity, participant withdraw consent or investigator's decision, whichever occurs first.",
+      "description": "The proportion of participants with best overall response of complete response (CR) or partial response (PR) per RECIST 1.1 in Ph1b"
+    },
+    {
+      "measure": "Duration of response (DOR)",
+      "timeFrame": "Up to 2 years or until progressive disease, unacceptable toxicity, participant withdraw consent or investigator's decision, whichever occurs first.",
+      "description": "The time interval from first occurrence of a documented objective response to the time of disease progression as determined by the Investigator using RECIST 1.1 or death from any cause, whichever comes first, in Ph1b"
+    },
+    {
+      "measure": "Disease control rate (DCR)",
+      "timeFrame": "Up to 2 years or until progressive disease, unacceptable toxicity, participant withdraw consent or investigator's decision, whichever occurs first.",
+      "description": "The proportion of participants with a best ORR + Stable Disease (SD) in Ph1b"
+    },
+    {
+      "measure": "Progression-free Survival (PFS)",
+      "timeFrame": "Up to 2 years or until progressive disease, death, unacceptable toxicity, participant withdraw consent or investigator's decision, whichever occurs first.",
+      "description": "The duration from the start of treatment until tumor progression or death of any cause in Ph1b"
+    }
+  ],
+  "sponsor": "NextPoint Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2024-01-22",
+  "completion_date": "2027-08",
+  "last_updated": "2025-06-25"
+}

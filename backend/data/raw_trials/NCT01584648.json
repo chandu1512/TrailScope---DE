@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT01584648",
+  "brief_title": "A Study Comparing Trametinib and Dabrafenib Combination Therapy to Dabrafenib Monotherapy in Subjects With BRAF-mutant Melanoma",
+  "official_title": "A Phase III, Randomized, Double-blinded Study Comparing the Combination of the BRAF Inhibitor, Dabrafenib and the MEK Inhibitor, Trametinib to Dabrafenib and Placebo as First-line Therapy in Subjects With Unresectable (Stage IIIC) or Metastatic (Stage IV) BRAF V600E/K Mutation-positive Cutaneous Melanoma",
+  "brief_summary": "This was a two-arm, double-blinded, randomized, Phase III study comparing dabrafenib and trametinib combination therapy to dabrafenib administered with a placebo (dabrafenib monotherapy). Subjects with histologically confirmed cutaneous melanoma that is either Stage IIIC (unresectable) or Stage IV, and BRAF V600E/K mutation positive were screened for eligibility. Subjects who had prior systemic anti-cancer treatment in the advanced or metastatic setting were not eligible although prior systemic treatment in the adjuvant setting was allowed. Subjects were stratified according to the baseline lactate dehydrogenase level and BRAF genotype.",
+  "detailed_description": "Dabrafenib and trametinib was administered orally at their recommended monotherapy doses of 150 mg b.i.d and 2 mg q.d., respectively. Subjects in the combination therapy arm received both agents; subjects in the dabrafenib monotherapy arm received dabrafenib and placebo. Treatment was continued in both arms until disease progression, death, unacceptable toxicity, or withdrawal of consent.\n\nAfter treatment discontinuation, subjects were followed for survival and disease progression as applicable to collect data for the secondary objective of overall survival (OS).\n\nCrossover to the combination therapy arm was allowed for subjects still receiving study treatment on the dabrafenib monotherapy arm after the positive result for the final OS analysis.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 423,
+  "conditions": [
+    "Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Dabrafenib",
+      "type": "DRUG",
+      "description": "Dabrafenib 150 mg twice daily"
+    },
+    {
+      "name": "Trametinib",
+      "type": "DRUG",
+      "description": "Trametinib 2 mg once daily"
+    },
+    {
+      "name": "Trametinib placebo",
+      "type": "DRUG",
+      "description": "Dabrafenib 150 mg twice daily and trametinib placebo"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed cutaneous melanoma that is either Stage IIIC (unresectable) or Stage IV (metastatic), and determined to be BRAF V600E/K mutation-positive using the bioMerieux (bMx) investigational use only (IUO) THxID BRAF Assay (IDE: G120011). The assay will be conducted by a central reference laboratory. Subjects with ocular or mucosal melanoma are not eligible.\n* The subject must have a radiologically measurable tumor\n* The subject is able to carry out daily life activities without significant difficulty (ECOG performance status score of 0 or 1).\n* Able to swallow and retain oral medication\n* Sexually active subjects must use acceptable methods of contraception during the course of the study\n* Adequate organ system function and blood counts\n\nExclusion Criteria:\n\n* Prior treatment with a BRAF or a MEK inhibitor\n* Prior systemic anti-cancer treatment for Stage IIIC (unresectable) or Stage IV (metastatic) melanoma. Prior systemic treatment in the adjuvant setting is allowed. (Note: Ipilimumab treatment must end at least 8 weeks prior to randomization.)\n* The subject has received major surgery or certain tyes of cancer therapy with 21 days of starting treatment\n* Current use of prohibited medication listed in the protocol\n* Left ventricular ejection fraction less than the lower limit of normal\n* Uncontrolled blood pressurl\n* History or current evidence of retinal vein occlusion or central serous retinopathy\n* Brain metastases unless previously treated with surgery or stereotactic radiosurgery and the disease has been stable for at least 12 weeks\n* The subject is pregnant or nursing",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Novartis Investigative Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS) as Assessed by the Investigator",
+      "timeFrame": "From randomization until the earliest date of disease progression (PD) or death due to any cause (up to approximately 6 years)",
+      "description": "PFS is defined as the interval between the date of randomization and the earliest date of PD or death due to any cause. PD was based on radiographic or photographic evidence, and assessments were made by the investigator according to RECIST, version 1.1. PD is defined as at least a 20% increase in the sum of the diameters of target lesions, taking as a reference, the smallest sum of diameters recorded since the treatment started. In addition, the sum must have an absolute increase from nadir of 5 mm. The appearance of one or more new lesions, or the worsening of non-target lesions significant enough to require study treatment discontinuation, was also included as PD. Participants who received anti-cancer therapy prior to the date of documented events, were censored at the last adequate assessment prior to the initiation of therapy. If the participant did not have documented progression or death, PFS was censored at the date of the last adequate assessment."
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2012-05-04",
+  "completion_date": "2019-02-28",
+  "last_updated": "2021-02-08"
+}

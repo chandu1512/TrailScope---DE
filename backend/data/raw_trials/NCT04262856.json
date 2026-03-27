@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT04262856",
+  "brief_title": "Study to Evaluate Monotherapy and Combination Immunotherapies in Participants With PD-L1 Positive Non-small Cell Lung Cancer",
+  "official_title": "A Phase 2 Study to Evaluate the Safety and Efficacy of AB122 Monotherapy, AB154 in Combination With AB122, and AB154 in Combination With AB122 and AB928 in Front-Line, Non-Small Cell Lung Cancer",
+  "brief_summary": "This randomized phase 2 open-label study will evaluate the safety and efficacy of zimberelimab (AB122) monotherapy, domvanalimab (AB154) in combination with zimberelimab, and domvanalimab in combination with zimberelimab and etrumadenant (AB928) in front-line, PD-L1 positive, metastatic non-small cell lung cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 151,
+  "conditions": [
+    "Non Small Cell Lung Cancer",
+    "Nonsquamous Non Small Cell Lung Cancer",
+    "Squamous Non Small Cell Lung Cancer",
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Domvanalimab",
+      "type": "DRUG",
+      "description": "Domvanalimab is a humanized monoclonal antibody targeting human TIGIT"
+    },
+    {
+      "name": "Etrumadenant",
+      "type": "DRUG",
+      "description": "Etrumadenant is an A2aR and A2bR antagonist"
+    },
+    {
+      "name": "Zimberelimab",
+      "type": "DRUG",
+      "description": "Zimberelimab is a fully human anti-PD-1 monoclonal antibody"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male or female participants; age \u2265 18 years\n* Histologically confirmed, treatment naive, metastatic squamous or non-squamous NSCLC with documented high PD-L1 expression, with no epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) genomic tumor aberrations.\n* Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1\n* Must have at least 1 measurable lesion per RECIST v1.1\n* Adequate organ and marrow function\n\nExclusion Criteria:\n\n* Use of any live vaccines against infectious diseases within 28 days of first dose of investigational medicinal products (IMPs)\n* Any gastrointestinal condition that would preclude the use of oral medications (eg, difficulty swallowing, nausea, vomiting, or malabsorption)\n* History of trauma or major surgery within 28 days prior to the first dose of IMP\n* Concurrent medical condition requiring the use of supra-physiologic doses of corticosteroids (\\> 10 mg/day of oral prednisone or equivalent) or immunosuppressive medications\n* Positive test results for Hepatitis B surface antigen, Hepatitis C virus antibody with presence of Hepatitis C qualitative RNA or human immunodeficiency virus (HIV-1 and/or HIV-2) antibody at screening\n* Any active autoimmune disease or a documented history of autoimmune disease or syndrome that required systemic treatment in the past 2 years (ie, with use of disease-modifying agents, corticosteroids, or immunosuppressive drugs), except for vitiligo or resolved childhood asthma/atopy.\n* Prior malignancy active within the previous 2 years except for locally curable cancers that have been apparently cured, such as basal or squamous cell skin cancer, superficial bladder cancer, or carcinoma in situ of the cervix, breast, or prostate cancer",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Valley Hospital - Valley Health System - The Robert and Audrey Luckow Pavilion",
+      "city": "Ridgewood",
+      "state": "New Jersey",
+      "zip": "07450",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny General Hospital (AGH)-Alleghney Singer Research Institute",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective response rate (ORR)",
+      "timeFrame": "From randomization until the first documentation of disease progression or death from any cause, whichever occurs first (up to approximately 3-5 years)",
+      "description": "ORR as assessed by RECIST v1.1"
+    },
+    {
+      "measure": "Progression-free survival (PFS)",
+      "timeFrame": "From randomization until the first documentation of disease progression or death from any cause, whichever occurs first (up to approximately 3-5 years)",
+      "description": "PFS as assessed by RECIST v1.1"
+    }
+  ],
+  "sponsor": "Arcus Biosciences, Inc.",
+  "collaborators": [
+    "Gilead Sciences"
+  ],
+  "start_date": "2020-05-28",
+  "completion_date": "2025-07-09",
+  "last_updated": "2025-08-25"
+}

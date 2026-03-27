@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT00107445",
+  "brief_title": "EF5 in Finding Oxygen in Tumor Cells of Patients Who Are Undergoing Surgery or Biopsy for Cervical, Endometrial, or Ovarian Epithelial Cancer",
+  "official_title": "Evaluation of Hypoxia by EF5 Binding in Gynecologic Cancer",
+  "brief_summary": "This phase II trial is studying how well EF5 works in finding oxygen in tumor cells of patients who are undergoing surgery or biopsy for cervical, endometrial, or ovarian epithelial cancer. Diagnostic procedures using the drug EF5 to find oxygen in tumor cells may help in planning cancer treatment",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. Correlate the level of EF5 binding with pre-treatment hemoglobin level and tumor grade and stage in patients undergoing surgery or biopsy for cervical, endometrial, or ovarian epithelial cancer.\n\nSECONDARY OBJECTIVES:\n\nI. Correlate pre-treatment tumor hypoxia (as measured by EF5 binding) with time to progression and time to recurrence in these patients.\n\nII. Correlate EF5 binding with CD-31 expression (tumor vasculature), Ki-67 expression (cellular proliferation), and erythropoietin signaling in these patients.\n\nOUTLINE:\n\nPatients receive EF5 IV over 1-2\u00bd hours on day 1. Approximately 1-2 days later, patients undergo tumor resection or biopsy. Patients' tumor tissue samples undergo immunohistochemistry and flow cytometry to detect EF5 binding levels. Patients' blood is drawn immediately before and 30-60 minutes and 1-2 days after receiving EF5 to measure systemic EF5 binding levels.\n\nPatients are followed at 30-45 days after administration of EF5 and then every 3-6 months thereafter.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "Primary Peritoneal Cavity Cancer",
+    "Stage I Endometrial Carcinoma",
+    "Stage I Ovarian Epithelial Cancer",
+    "Stage IA Cervical Cancer",
+    "Stage IB Cervical Cancer",
+    "Stage II Endometrial Carcinoma",
+    "Stage II Ovarian Epithelial Cancer",
+    "Stage IIA Cervical Cancer",
+    "Stage IIB Cervical Cancer",
+    "Stage III Cervical Cancer",
+    "Stage III Endometrial Carcinoma",
+    "Stage III Ovarian Epithelial Cancer",
+    "Stage IV Endometrial Carcinoma",
+    "Stage IV Ovarian Epithelial Cancer",
+    "Stage IVA Cervical Cancer",
+    "Stage IVB Cervical Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "EF5",
+      "type": "DRUG",
+      "description": "Given IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed\\* diagnosis of 1 of the following:\n\n  * Cervical cancer\n  * Ovarian epithelial cancer\n  * Endometrial cancer\n  * Peritoneal cavity cancer\n* Requires surgery or biopsy for diagnosis or as standard initial treatment for the tumor\n* Performance status - ECOG 0-2\n* WBC \u2265 2,000/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Bilirubin normal\n* Creatinine normal\n* Creatinine clearance \u2265 60 mL/min\n* No significant cardiac condition that would preclude study participation\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for 1 month after study participation\n* Weight \u2264 130 kg\n* No other significant medical condition that would preclude study participation\n* No scheduled chemotherapy for the tumor within the past 3 months\n* No scheduled radiotherapy to the tumor within the past 3 months\n* No other concurrent investigational agents",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of The University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Level of EF5 binding",
+      "timeFrame": "Baseline",
+      "description": "The relationship between the level of EF5 binding and hemoglobin will be summarized by Pearson's correlation coefficient."
+    },
+    {
+      "measure": "Hemoglobin level",
+      "timeFrame": "Baseline",
+      "description": "The relationship between the level of EF5 binding and hemoglobin will be summarized by Pearson's correlation coefficient."
+    },
+    {
+      "measure": "Time to progression",
+      "timeFrame": "Up to 1 year",
+      "description": "Analyzed using Kaplan-Meier procedures."
+    },
+    {
+      "measure": "Time to recurrence",
+      "timeFrame": "Up to 1 year",
+      "description": "Analyzed using Kaplan-Meier procedures."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2005-02",
+  "completion_date": "",
+  "last_updated": "2013-01-15"
+}

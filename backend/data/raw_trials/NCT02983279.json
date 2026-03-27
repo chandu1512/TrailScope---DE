@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT02983279",
+  "brief_title": "Caloric Restriction Before Surgery in Treating Patients With Endometrial, Prostate, or Breast Cancer",
+  "official_title": "Caloric Restriction for Oncology Research: Pre-operative Caloric Restriction Prior to Definitive Oncologic Surgery",
+  "brief_summary": "The purpose of this trial is to determine that sort term calorie restriction will affect tumor biology in biopsy proven breast, endometrial or prostate cancers, which will positively impact biomarkers including miR-21, an onco-miR known to impact cancer outcomes.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\n1\\) Investigate if caloric restriction will change serum micro ribonucleic acid (RNA) 21 (miR-21) expression in patients with prostate, endometrial or breast cancer.\n\nSECONDARY OBJECTIVES:\n\n1. Investigate measurable changes induced by caloric restriction on both patient (host) and tumor characteristics from caloric restriction.\n2. Investigate the adherence of the patient to the diet.\n\n4\\) Weight, height, and body composition will be assessed via BodyMetrix. BodyMetrix uses ultrasound technology to measure subcutaneous fat.\n\n5\\) Patients will have psycho-social evaluation using the Functional Assessment of Cancer Therapy-Prostate (FACT-P) test (prostate cancer), FACT-Breast (B) test (breast cancer), or the FACT-Endometrial Cancer (En) test (endometrial cancer) and the Patient Reported Outcomes Measurement Information System (PROMIS) cancer fatigue short form at baseline, midway through diet, and at the conclusion of the diet.\n\n6\\) Patient's nutritional status (Mini Nutritional Assessment \\[MNA\\] form) will be assessed, and their caloric needs will be calculated.\n\n7\\) Local recurrence, progression free survival, distant metastases and overall survival will be assessed.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 49,
+  "conditions": [
+    "Breast Carcinoma",
+    "Endometrial Carcinoma",
+    "Prostate Carcinosarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "Dietary Intervention",
+      "type": "DIETARY_SUPPLEMENT",
+      "description": "Undergo caloric restriction diet"
+    },
+    {
+      "name": "Counseling",
+      "type": "OTHER",
+      "description": "Undergo counselor-led dietary counseling"
+    },
+    {
+      "name": "Therapeutic",
+      "type": "PROCEDURE",
+      "description": "Undergo standard of care surgery"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Histological documentation of cancer of the endometrium, prostate or breast.\n2. Candidate for definitive cancer surgery as determined by treating physician\n3. The ability for the definitive cancer surgery to be scheduled within 4-12 weeks post initiation of dietary intervention as determined by the enrolling physician (not from diagnosis - but from start of diet).\n4. No other malignancy within the past 6 months unless it was a non-melanomatous skin lesion\n5. BMI \u226521\n6. ECOG Performance Status of 2 or less\n7. Patient must not be on anti-retrovirals since they may alter patient metabolism\n\nExclusion Criteria:\n\n1. Patient is not a candidate for definitive cancer surgery\n2. Definitive cancer surgery can not be performed within 4-12 weeks post study enrollment as determined by the enrolling physician.\n3. Body Mass Index \\< 21\n4. Another malignancy within the past 6 months that was not a non-melanomatous skin lesion\n5. ECOG Performance Status \\>2\n6. Patient on anti-retrovirals since they may alter patient metabolism",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in miR-21 expression assessed in serum",
+      "timeFrame": "Baseline up to 12 weeks",
+      "description": "Will be evaluated by a two-sided paired t-test at significance level 0.05."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2016-09-20",
+  "completion_date": "2022-12-29",
+  "last_updated": "2025-04-28"
+}

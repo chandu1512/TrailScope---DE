@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT02392078",
+  "brief_title": "Laser Ablation of Abnormal Neurological Tissue Using Robotic NeuroBlate System",
+  "official_title": "Laser Ablation of Abnormal Neurological Tissue Using Robotic NeuroBlate System (LAANTERN) Prospective Registry",
+  "brief_summary": "The NeuroBlate\u00ae System (NBS) is a minimally invasive robotic laser thermotherapy tool that is being manufactured by Monteris Medical. Since it received FDA clearance in May 2009, the NBS has been used in over 2600 procedures conducted at over 70 leading institutions across United States. This is a prospective, multi-center registry that will include data collection up to 5 years to evaluate safety, QoL, and procedural outcomes including local control failure rate, progression free survival, overall survival, and seizure freedom in up to 3,000 patients and up to 50 sites.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1153,
+  "conditions": [
+    "Metastatic Brain Tumor",
+    "Primary Brain Tumor",
+    "Epileptic/Seizure Foci",
+    "Movement Disorders"
+  ],
+  "interventions": [
+    {
+      "name": "NeuroBlate System",
+      "type": "DEVICE",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Subject or legally authorized representative provides written authorization and/or consent\n2. Subject who is to undergo thermal therapy by the NeuroBlate\u00ae System for treatment of their neurological disorder\n\nExclusion Criteria:\n\n1. Subject who is, or is expected to be inaccessible for follow-up\n2. Other concurrent medical or other condition (chronic or acute in nature) that in the opinion of the investigator, may prevent participation or otherwise render subject ineligibility for the study",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Geisinger Medical Center",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety (Reportable Adverse Events)",
+      "timeFrame": "up to 5 years or last follow up",
+      "description": "Safety profile described by the NBS and surgical-related AEs"
+    },
+    {
+      "measure": "Reason for NeuroBlate",
+      "timeFrame": "Index procedure",
+      "description": "To identify the primary reason the NeuroBlate system was chosen for subject"
+    },
+    {
+      "measure": "Number of Patients Demonstrating Seizure Freedom (ENGEL and ILAE Classifications)",
+      "timeFrame": "up to 5 years or last follow up",
+      "description": "Collected for all subjects by disease etiology.\n\nSeizure freedom assessed for all subjects with epilepsy at time of last follow-up. The ENGEL surgical outcome scale is composed of four classes of epilepsy (Class I (best), Class II, Class III, Class IV (worst)) categorized by severity. The ILAE outcome scale contains six classes (Class 1 (best), 2, 3, 4, 5, 6 (worst)) categorized by severity."
+    },
+    {
+      "measure": "Change in Quality of Life",
+      "timeFrame": "up to 5 years or last follow-up",
+      "description": "Assessed with following questionnaires:\n\n1. KPS (malignancy subjects only) Scale range 0-100 measuring the ability of patients with cancer to perform ordinary daily activities. Score 0 is dead, 100 is no disease symptoms\n2. FACT-Br (malignancy subjects only) Measure general quality of life across 5 scales- physical well-being, social/family well-being, emotional well-being, functional well-being \\& other. Higher score, better quality of life. Range 0-200\n3. EQ-5D (tumor/epilepsy subjects only) Measure of health consisting of the descriptive system \\& the visual analogue scale (VAS). The system assesses subject mobility, self-care, usual activities, pain/discomfort \\& anxiety/depression. Higher score, better quality of life. Range 0-100\n4. QOLIE-31 (epilepsy subjects only) 7 scales assessing emotional well-being, social functioning, energy/fatigue, cognitive functioning, seizure worry, medication effects, \\& overall quality of life. Higher score, better quality of life. Range 0-100"
+    },
+    {
+      "measure": "Number of Patients Demonstrating Local Control and Overall Survival",
+      "timeFrame": "up to 5 years or last follow up",
+      "description": "Collected for all subjects by disease etiology.\n\nLocal control as measured by time to local tumor recurrence.\n\nOverall survival assessed by Kaplan-Meier method."
+    }
+  ],
+  "sponsor": "Monteris Medical",
+  "collaborators": [],
+  "start_date": "2015-10",
+  "completion_date": "2023-09-30",
+  "last_updated": "2025-04-07"
+}

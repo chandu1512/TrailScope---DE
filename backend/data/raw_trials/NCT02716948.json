@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT02716948",
+  "brief_title": "SRS and Nivolumab in Treating Patients With Newly Diagnosed Melanoma Metastases in the Brain or Spine",
+  "official_title": "A Pilot Study of Stereotactic Radiosurgery Combined With Nivolumab in Patients With Newly Diagnosed Melanoma Metastases in the Brain and Spine",
+  "brief_summary": "This phase I pilot trial studies the side effects of stereotactic radiosurgery and nivolumab in treating patients with newly diagnosed melanoma that has spread to the brain or spine. Stereotactic radiosurgery is a specialized radiation therapy that delivers a single, high dose of radiation directly to the tumor to more precisely target the cancer. Monoclonal antibodies, such as nivolumab may interfere with the ability of tumor cells to grow and spread. Giving stereotactic radiosurgery together with nivolumab may be a better treatment for melanoma.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To assess the safety profile of stereotactic radiosurgery with nivolumab in combination to treat patients with newly diagnosed melanoma brain or spinal metastases.\n\nSECONDARY OBJECTIVES:\n\nI. To estimate local control rate in brain and spine. II. To estimate systematic control rate. III. To estimate progression-free survival.\n\nTERTIARY OBJECTIVES:\n\nI. To explore peripheral blood immune response during and after treatment.\n\nOUTLINE:\n\nPatients receive nivolumab intravenously (IV) over 60 minutes on day 1. Patients then undergo stereotactic radiosurgery on day 8 per standard of care. Courses with nivolumab repeats every 14 days in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 30 days, every 10 weeks, and then every 3 months thereafter.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 17,
+  "conditions": [
+    "Metastatic Malignant Neoplasm in the Brain",
+    "Metastatic Malignant Neoplasm in the Spine",
+    "Stage IV Skin Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Laboratory Biomarker Analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Given IV"
+    },
+    {
+      "name": "Stereotactic Radiosurgery",
+      "type": "RADIATION",
+      "description": "Undergo stereotactic radiosurgery"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have histologically confirmed diagnosis of melanoma; the pathologic confirmation may be from another metastatic site or from metastatic brain or spine lesions\n* Patients must have stage IV melanoma, with newly identified brain or spine metastases\n* Patients must have measurable lesion in the brain or spine that is \\>= 3 mm seen on magnetic resonance imaging (MRI) with contrast; NOTE: contrasted pre-treatment MRI scan must be obtained =\\< 21 days prior to stereotactic radiosurgery treatment\n* Karnofsky performance scale \\>= 70%\n* Leukocytes \\>= 3,000/mcL\n* Absolute neutrophil count \\>= 1,500/mcL\n* Platelets \\>= 100,000/mcL\n* Total bilirubin =\\< 2 x institutional upper limit of normal\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\])/ alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 x institutional upper limit of normal\n* Creatinine within normal institutional limits OR according to Johns Hopkins MRI policy\n* Women of child bearing potential (WOCBP) must use a reliable form of contraception during the study treatment period and for up to 12 weeks following the last dose of study drug\n* Men must agree to the use of male contraception during the study treatment period and for at least 12 weeks after the last dose of study drug\n* Ability to understand and the willingness to sign written informed consent document(s)\n\nExclusion Criteria:\n\n* Prior whole brain radiation or conventional radiation to the spine at the site of new lesion\n* Prior chemotherapy within 28 days of starting treatment\n* Prior therapy with investigational drugs within 28 days or at least 5 half-lives (whichever is longer) before study administration\n* Prior therapy with an anti- programmed cell death 1 (PD-1), anti- programmed cell death-ligand 1 (PD-L1), or anti-PDL-2 antibody\n* Neurologic dysfunction that would confound the evaluation of neurologic and other adverse events\n* Known allergy to compounds of similar chemical or biologic composition to nivolumab\n* Pregnant or breastfeeding women\n* Known history of human immunodeficiency virus\n* Active infection requiring therapy, positive tests for hepatitis B surface antigen or hepatitis C ribonucleic acid (RNA)\n* Active autoimmune disease, history of autoimmune disease or history of syndrome that required systemic steroids or immunosuppressive medications, e.g. organ, tissue, or allogenic hematopoietic stem cell transplant (HSCT) recipients. Exceptions include those with vitiligo or resolved childhood asthma/atopy. Subjects with asthma who require intermittent use of bronchodilators (such as albuterol) will not be excluded from this study\n* Use of any live vaccines against infectious diseases up to 4 weeks (28 days) before receiving nivolumab. (NOTE: Inactivated seasonal influenza vaccines are permitted and do not require a 4-week waiting period before starting study treatment).\n* Prisoners or subjects who are compulsorily detained for treatment of either a psychiatric or physical (e.g. infectious disease) illness\n* Patients with both brain and spine metastases will be excluded from the trial",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University/Sidney Kimmel Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of serious adverse events (SAE) graded according to the National Cancer Institute Common Toxicity Criteria (NCI CTC) version 4.0",
+      "timeFrame": "Up 12 weeks after first dose of study treatment",
+      "description": "All SAEs will be tabulated by type and grade. Proportion of individual type of SAE event will be estimated using the binomial distribution along with 95% confidence interval (exact method)."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Accuray Incorporated"
+  ],
+  "start_date": "2016-06-23",
+  "completion_date": "2021-08-27",
+  "last_updated": "2021-11-29"
+}

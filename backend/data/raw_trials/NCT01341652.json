@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT01341652",
+  "brief_title": "Phase II PAP Plus GM-CSF Versus GM-CSF Alone for Non-metastatic Prostate Cancer",
+  "official_title": "Randomized Phase II Trial of a DNA Vaccine Encoding Prostatic Acid Phosphatase (pTVG-HP) Versus GM-CSF Adjuvant in Patients With Non-Metastatic Prostate Cancer",
+  "brief_summary": "The investigators are trying to find new methods to treat prostate cancer. The approach the investigators are taking is to try to enhance patients' own immune response against the cancer. In this study the investigators will be testing the effectiveness of a vaccine that may be able to help the body fight prostate cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 99,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "pTVG-HP",
+      "type": "BIOLOGICAL",
+      "description": "pTVG-HP (100 \u00b5g) with rhGM-CSF (208 \u00b5g) administered intradermally (i.d.) biweekly for 6 total doses, then every 3 months to complete a 2-year treatment period"
+    },
+    {
+      "name": "rhGM-CSF",
+      "type": "BIOLOGICAL",
+      "description": "rhGM-CSF (208 \u00b5g) administered intradermally (i.d.) biweekly for 6 total doses, then every 3 months to complete a 2-year treatment period"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologic diagnosis of adenocarcinoma of the prostate\n* Completion of local therapy by surgery and/or ablative radiation therapy at least 3 months prior to entry, with removal or ablation of all visible disease, including seminal vesical and/or local lymph node involvement\n* Rising prostate specific antigen (PSA) levels without scan evidence of metastatic disease\n* Asymptomatic or mildly symptomatic and life expectancy of at least 4 months\n\nExclusion Criteria:\n\n* Small cell or other variant prostate cancer histology\n* Evidence of immunosuppression\n* Prior treatment with androgen deprivation except if given neoadjuvantly or adjuvantly with radiation therapy or at time of prostatectomy. In this situation, no more than 24 months of androgen deprivation must have been given and treatment must not have been within 12 months prior to screening for this study.\n* Serum testosterone at screening \\< 50 ng/dL\n* Known bone metastases or lymph node involvement as determined by bone scan or computed tomography (CT) scan of the abdomen and pelvis within 4 weeks of study entry\n* Prior vaccine therapy for prostate cancer\n* Known allergic reactions to granulocyte-macrophage colony-stimulating factor (GM-CSF)\n* Severe intercurrent medical conditions or laboratory abnormalities that would impart, in the judgment of the Medical Monitor, excess risk associated with study participation or study agent administration",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University/Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "2-year Metastasis-Free Survival Rate",
+      "timeFrame": "2 years",
+      "description": "2-year Metastasis-Free Survival (MFS) Rate with the development of metastases by conventional imaging used to define progression (as defined by RECIST 1.1 criteria). The 2-year MFS rate estimates which were obtained using the Kaplan-Meier analysis (taking into account censoring) using the intention-to-treat population."
+    }
+  ],
+  "sponsor": "University of Wisconsin, Madison",
+  "collaborators": [],
+  "start_date": "2011-05-23",
+  "completion_date": "2020-06-30",
+  "last_updated": "2021-01-15"
+}

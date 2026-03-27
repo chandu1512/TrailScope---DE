@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT00005835",
+  "brief_title": "N99-02: Melphalan and Buthionine Sulfoximine",
+  "official_title": "Modulation of Intensive Melphalan (L-PAM) by Buthionine Sulfoximine (BSO) Autologous Stem Cell Support for Resistant or Recurrent High-Risk Neuroblastoma (IND 69-112)",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining chemotherapy with bone marrow or peripheral stem cell transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill more tumor cells.\n\nPURPOSE: Phase I trial to study the effectiveness of melphalan and buthionine sulfoximine followed by bone marrow or peripheral stem cell transplantation in treating children who have resistant or recurrent neuroblastoma.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the maximum tolerated dose of melphalan when combined with buthionine sulfoximine and followed by autologous bone marrow or peripheral blood stem cell support in children with resistant or recurrent high-risk neuroblastoma.\n* Assess the toxic effects of this regimen in these patients.\n* Determine the pharmacokinetics of this regimen in these patients.\n* Determine the response rate of patients treated with this regimen.\n\nOUTLINE: This is a multicenter, dose-escalation study of melphalan.\n\nPatients receive buthionine sulfoximine IV as a bolus over 30 minutes followed by a 72-hour continuous infusion beginning on day -4; melphalan IV over 15 minutes on days -3 and -2; autologous peripheral blood stem cells or bone marrow IV over 15-30 minutes on day 0; and filgrastim (G-CSF) subcutaneously or IV once daily beginning on day 0 and continuing until blood counts recover.\n\nCohorts of 3-6 patients receive escalating doses of melphalan until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity.\n\nPatients are followed at 84 days and then 2 months later if there is a complete and/or partial response. Patients who continue therapy on other protocols are followed before starting the new therapy. All patients are followed for life for any delayed toxic effects to protocol therapy and secondary malignancies.\n\nPROJECTED ACCRUAL: A total of 30 patients will be accrued for this study within 2-3 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 31,
+  "conditions": [
+    "Neuroblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "buthionine sulfoximine",
+      "type": "DRUG",
+      "description": "Dose fixed at a bolus of 3 gm/M2 given over 30 minutes followed by a continuous infusion of 1 gm/M2/hour for 72 hours (total 72.5 hours).Total daily infusion dose (minus the initial bolus)will be 24 gm/m2/day."
+    },
+    {
+      "name": "melphalan",
+      "type": "DRUG",
+      "description": "The dose level of melphalan will be assigned at study entry onto protocol. There will be 6 dose levels ranging from 20mg/m2/day x 2 days (dose level 1a) to 62.5 mg/m2/day x 2 days (dose level 6a). The starting dose level will be 1a, with a decrease to level 0a (15mg/m2/day x2 days) if there is unacceptable toxicity."
+    },
+    {
+      "name": "Peripheral blood stem cell infusion",
+      "type": "PROCEDURE",
+      "description": "Stem cells will be infused intravenously on day 0 , 24 hours after BSO continuous infusion is completed.Infused within 1.5 hours of thawing via a central venous catheter over 15-30 minutes."
+    },
+    {
+      "name": "Filgrastim",
+      "type": "OTHER",
+      "description": "5 microgram/kg/day , subcutaneous or intravenous, given daily beginning day 0. First dose to begin 4 hours after completion of stem cell infusion and then to continue till ANC \\>/= 1500 mm3 for three consecutive days."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients have relapsed neuroblastoma and must have exhausted all other options for treatment before they can be considered for treatment on this study.\n* Relapsed patients who are greater than 6 months since having a stem cell transplant can enter on this study.\n* Patients must have stem cells collected and stored before starting treatment.\n* Patients must have a double lumen central venous line in place.\n* Patients must have adequate kidney and liver function measured by blood tests and test of renal function (creatinine clearance or glomerular filtration rate (GFR)).\n* Patients must have normal heart and lung function measured by lack of physical evidence or clinical history of difficulties breathing and tests of cardiac function (Echocardiogram or MUGA evaluation).\n* Patients must have an essentially normal neurological exam.\n* Patients must have one entire kidney that has not had any radiation at treatment doses. (Xrays and scans are ok).\n* Patients must have recovered from the effects of any prior treatment for their tumor.\n\nExclusion Criteria:\n\n* They have had any radiation therapy to the brain.\n* They have known history of or current tumor found in the brain or surrounding tissues.\n* They have a history of seizures.\n* They have a history of changes in a test of kidney function with antibiotic use in the 6 months immediately before entering on this study.",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "30 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-4318",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To determine the maximum tolerated dose(MTD) and the toxicities of Melphalan (L-PAM) escalated in the presence of Buthionine sulphoxamine (BSO) and followed by autologous stem cells rescue for pediatric patients with high-risk neuroblastoma.",
+      "timeFrame": "Within 4 weeks of completion of BSO/L-PAM therapy",
+      "description": ""
+    }
+  ],
+  "sponsor": "New Approaches to Neuroblastoma Therapy Consortium",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2001-08",
+  "completion_date": "2016-04",
+  "last_updated": "2023-04-06"
+}

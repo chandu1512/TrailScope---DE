@@ -1,0 +1,94 @@
+{
+  "nct_id": "NCT07293351",
+  "brief_title": "A Study to Evaluate the Safety, Tolerability, and Efficacy of Pumitamig Alone or in Combination With Ipilimumab or Cabozantinib in Participants With Advanced Renal Cell Carcinoma (RCC) (ROSETTA RCC-208)",
+  "official_title": "ROSETTA RCC-208: A Phase 1/2 Open-label, Multi-center, Randomized Study of Pumitamig Alone or in Combination With Ipilimumab or Cabozantinib in Participants With Advanced Renal Cell Carcinoma (RCC)",
+  "brief_summary": "The purpose of this study is to evaluate the safety, tolerability, and efficacy of Pumitamig alone or in combination with Ipilimumab or Cabozantinib in participants with advanced Renal Cell Carcinoma (RCC)",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 234,
+  "conditions": [
+    "Advanced Renal Cell Carcinoma (RCC)"
+  ],
+  "interventions": [
+    {
+      "name": "Pumitamig",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Ipilimumab",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Cabozantinib",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\n* Participants must have a histologically confirmed diagnosis of locally advanced, unresectable (not amenable to curative surgery or radiation therapy) or metastatic Renal Cell Carcinoma (RCC).\n* Participants must have clear cell RCC (ccRCC) or non-clear cell RCC (nccRCC) may be enrolled in Part 1. Note: Part 2 may only enroll participants with ccRCC.\n* Participants may have favorable, intermediate or poor risk disease categories.\n* Participants must not have received prior systemic therapy for metastatic RCC, with the following exceptions:\n\n  i) One prior adjuvant or neoadjuvant therapy for completely resectable RCC is allowed if such therapy did not include an agent that targets vascular endothelial growth factor (VEGF) or VEGF receptors and if recurrence occurred at least 6 months after the last dose of adjuvant or neoadjuvant therapy.\n\nii) For Part 1A participants: Prior systemic therapy in the metastatic setting is allowed if the participant has not received any therapy targeting cytotoxic T-lymphocyte antigen 4 (CTLA-4) (e.g., ipilimumab).\n\niii) For Part 1B participants: Prior systemic therapy in the metastatic setting is allowed if the participant has not received prior treatment with cabozantinib.\n\n\\- Participants must have measurable disease as per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.\n\nExclusion Criteria\n\n* Participants must not have any untreated known CNS metastases.\n* Participants must not have a condition requiring systemic treatment with either corticosteroids (\\> 10 mg daily prednisone equivalent) or other immunosuppressive medications within 14 days of Cycle 1 Day1 (C1D1).\n* Participants must not have a history of interstitial lung disease or pneumonitis.\n* Participants must not have an uncontrolled pleural or pericardial effusion requiring recurrent therapeutic drainage procedures.\n* Participants must not have significant cardiovascular disease, such as myocardial infarction, unstable angina, arterial thrombosis, cerebrovascular accident within 6 months prior to C1D1, uncontrolled hypertension (\u2265 150 systolic, \u2265 90 diastolic mm Hg) despite optimal medical management, or congenital long QT syndrome.\n* Participants must not have a urine protein \u2265 2+ and 24 hour urine protein \u2265 1 g at baseline.\n* Participants must not have evidence of major coagulation disorders.\n* Participants must not have a history of deep vein thrombosis, pulmonary embolism, or any other significant thromboembolism within 6 months prior to C1D1.\n* Participants must not have a history of abdominal fistula or gastrointestinal (GI) perforation within 6 months.\n* Participants must not have had a major surgery or trauma within 28 days prior to C1D1.\n* Other protocol-defined Inclusion/Exclusion criteria apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0123",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of participants with adverse events (AEs)",
+      "timeFrame": "Up to approximately 2 years from end of treatment",
+      "description": "Phase 1"
+    },
+    {
+      "measure": "Number of participants with serious adverse events (SAEs) (as per Common Terminology Criteria for Adverse Events v5 (CTCAE v5))",
+      "timeFrame": "Up to approximately 2 years from end of treatment",
+      "description": "Phase 1"
+    },
+    {
+      "measure": "Number of participants with AEs meeting protocol-defined dose-limiting toxicity (DLT) criteria",
+      "timeFrame": "Up to day 21 from first dose",
+      "description": "Phase 1"
+    },
+    {
+      "measure": "Number of participants with AEs leading to discontinuation",
+      "timeFrame": "Up to approximately 2 years from end of treatment",
+      "description": "Phase 1"
+    },
+    {
+      "measure": "Number of participants with AEs leading to death",
+      "timeFrame": "Up to approximately 2 years from end of treatment",
+      "description": "Phase 1"
+    },
+    {
+      "measure": "Objective response rate (ORR) (confirmed complete response (CR) or partial response (PR)) by Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 per investigator assessment",
+      "timeFrame": "Up to approximately 2 years from end of treatment",
+      "description": "Phase 2"
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "BioNTech SE"
+  ],
+  "start_date": "2026-03-26",
+  "completion_date": "2031-11-26",
+  "last_updated": "2026-03-03"
+}

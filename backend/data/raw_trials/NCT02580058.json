@@ -1,0 +1,103 @@
+{
+  "nct_id": "NCT02580058",
+  "brief_title": "A Study Of Avelumab Alone Or In Combination With Pegylated Liposomal Doxorubicin Versus Pegylated Liposomal Doxorubicin Alone In Patients With Platinum Resistant/Refractory Ovarian Cancer (JAVELIN Ovarian 200)",
+  "official_title": "A PHASE 3, MULTICENTER, RANDOMIZED, OPEN-LABEL STUDY OF AVELUMAB (MSB0010718C) ALONE OR IN COMBINATION WITH PEGYLATED LIPOSOMAL DOXORUBICIN VERSUS PEGYLATED LIPOSOMAL DOXORUBICIN ALONE IN PATIENTS WITH PLATINUM-RESISTANT/REFRACTORY OVARIAN CANCER",
+  "brief_summary": "A Phase 3 global study comparing avelumab alone to avelumab plus PLD and to PLD alone to demonstrate that avelumab given alone or in combination with PLD is superior to PLD alone in prolonging Overall Survival in patients with platinum resistant/platinum refractory ovarian cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 566,
+  "conditions": [
+    "Ovarian Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "avelumab",
+      "type": "BIOLOGICAL",
+      "description": "10 mg/kg will be given as a 1 hour intravenous infusion (IV) every 2 weeks (Q2W) in 4 week cycles"
+    },
+    {
+      "name": "PLD",
+      "type": "DRUG",
+      "description": "PLD (Arm B, Arm C) 40 mg/m2 will be given as a 1 hour IV infusion every 4 weeks (Q4W) in 4 week cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed epithelial ovarian, fallopian tube, or peritoneal cancer, including malignant mixed M\u00fcllerian tumors with high grade serous component.\n* Platinum resistant/refractory disease, defined as disease progression within 180 days following the last administered dose of platinum therapy (resistant), or lack of response or disease progression while receiving the most recent platinum based therapy (refractory), respectively.\n* Received up to 3 lines of systemic anticancer therapy for platinum sensitive disease, most recently platinum containing, and no prior systemic therapy for platinum resistant disease\n* Measurable disease by investigator assessment with at least 1 unidimensional measurable lesion by RECIST v.1.1 that has not previously been irradiated\n* Active autoimmune disease that might deteriorate when receiving an immunostimulatory agents. Patients with diabetes type I, vitiligo, psoriasis, hypo or hyperthyroid disease not requiring immunosuppressive treatment are eligible.\n\nMandatory tumor biopsy must be performed prior to enrollment for all patients (unless there is a documented clinical contraindication). In addition, availability of archived FFPE tumor tissue should be confirmed. If a patient underwent tumor tissue collection within 3 months prior to enrollment with no intervening treatment, and the sample is provided, then a new de novo tumor biopsy is not required.\n\nExclusion Criteria:\n\n* Non epithelial tumor or ovarian tumors with low malignant potential (ie, borderline tumors).\n* Prior therapy with an anti PD 1, anti PD L1, anti PD L2, anti CD137, or anti cytotoxic T lymphocyte associated antigen 4 (CTLA 4) antibody (including ipilimumab, tremelimumab or any other antibody or drug specifically targeting T cell co stimulation or immune checkpoint pathways).\n* Known symptomatic brain metastases requiring steroids. Patients with previously diagnosed brain metastases are eligible if they have completed their treatment and have recovered from the acute effects of radiation therapy or surgery prior to study entry, have discontinued corticosteroid treatment for these metastases for at least 4 weeks prior to study entry and are neurologically stable.\n* Diagnosis of any other malignancy within 5 years prior to registration, except for adequately treated basal cell or squamous cell skin cancer, or carcinoma in situ of the breast or of the cervix.\n* Severe gastrointestinal conditions such as clinical or radiological evidence of bowel obstruction within 4 weeks prior to study entry, uncontrolled diarrhea in the last 4 weeks prior to enrollment, or history of inflammatory bowel disease.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Oncology Hematology, P.A.",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    },
+    {
+      "facility": "Maryland Oncology Hematology, P.A.",
+      "city": "Columbia",
+      "state": "Maryland",
+      "zip": "21044",
+      "status": ""
+    },
+    {
+      "facility": "Maryland Oncology Hematology P.A.",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20902",
+      "status": ""
+    },
+    {
+      "facility": "Maryland Oncology Hematology P.A.",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20904",
+      "status": ""
+    },
+    {
+      "facility": "Investigational Drug Services, University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "The University of Pennsylvania Health System",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "From randomization until the date of first documented progression or date of deaths from any cause, whichever came first, assessed up to 30 months (based on cutoff date: 19 September 2018).",
+      "description": "OS is defined as the time from the date of randomization to the date of death due to any cause. OS time was summarized by treatment arm using the Kaplan-Meier method."
+    },
+    {
+      "measure": "Progression Free Survival (PFS) Based on Blinded Independent Central Review (BICR) According to Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1",
+      "timeFrame": "From randomization to date of first documentation of PD or death due to any cause whichever was first (up to 30 months); based on cutoff date: 19 September 2018.",
+      "description": "PFS is defined as the time from date of randomization to the date of the first documentation of progression of disease (PD) or death due to any cause, whichever occurs first. PFS time was summarized by treatment arm using the Kaplan-Meier method. PFS based on BICR assessment was evaluated for this endpoint."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2015-12-21",
+  "completion_date": "2022-07-12",
+  "last_updated": "2023-06-20"
+}

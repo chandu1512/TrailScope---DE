@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT02798406",
+  "brief_title": "Combination Adenovirus + Pembrolizumab to Trigger Immune Virus Effects",
+  "official_title": "A Phase II, Multi-center, Open-label Study of a Conditionally Replicative Adenovirus (DNX-2401) With Pembrolizumab (KEYTRUDA\u00ae) for Recurrent Glioblastoma or Gliosarcoma (CAPTIVE/KEYNOTE-192)",
+  "brief_summary": "Glioblastoma (GBM) and gliosarcoma (GS) are the most common and aggressive forms of malignant brain tumor in adults and can be resistant to conventional therapies. The purpose of this Phase II study is to evaluate how well a recurrent glioblastoma or gliosarcoma tumor responds to one injection of DNX-2401, a genetically modified oncolytic adenovirus, when delivered directly into the tumor followed by the administration of intravenous pembrolizumab (an immune checkpoint inhibitor) given every 3 weeks for up to 2 years or until disease progression.\n\nFunding Source-FDA OOPD",
+  "detailed_description": "In the initial phase of the study, up to 12 evaluable subjects will be enrolled in 3 dose cohorts to determine the best dose of DNX-2401, as follows:\n\n* Cohort 1: Single dose DNX-2401 (5e8 vp) delivered intratumorally by cannula, followed by intravenous pembrolizumab every 3 weeks (Q3W)\n* Cohort 2: Single dose DNX-2401(5e9 vp) delivered intratumorally by cannula, followed by intravenous pembrolizumab every 3 weeks (Q3W)\n* Cohort 3: Single dose DNX-2401 (5e10 vp) delivered intratumorally by cannula, followed by intravenous pembrolizumab every 3 weeks (Q3W)\n\nFollowing the initial phase, up to 36 additional subjects diagnosed with recurrent glioblastoma or gliosarcoma will be enrolled to receive a single of DNX-2401 determined in the initial phase administered intratumorally followed by intravenous pembrolizumab every 3 weeks.\n\nAll subjects will return to the clinic for study follow-up visits at regular intervals for safety monitoring, MRI scans and other assessments, for up to 2 years or until disease progression. All subjects will be followed closely for safety and survival.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 49,
+  "conditions": [
+    "Brain Cancer",
+    "Brain Neoplasm",
+    "Glioma",
+    "Glioblastoma",
+    "Gliosarcoma",
+    "Malignant Brain Tumor",
+    "Neoplasm, Neuroepithelial",
+    "Neuroectodermal Tumors",
+    "Neoplasm by Histologic Type",
+    "Neoplasm, Nerve Tissue",
+    "Nervous System Diseases"
+  ],
+  "interventions": [
+    {
+      "name": "DNX-2401",
+      "type": "BIOLOGICAL",
+      "description": "On Day 0, following brain tumor biopsy and confirmation of recurrent tumor, a single injection of DNX-2401 is administered directly into the brain tumor."
+    },
+    {
+      "name": "pembrolizumab",
+      "type": "BIOLOGICAL",
+      "description": "Sequential intravenous administration every three weeks beginning 7-9 days after Day 0/DNX-2401"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* A single glioblastoma or gliosarcoma tumor with histopathological confirmation for first or presenting second recurrence of glioblastoma or gliosarcoma at the time of consent\n* Gross total or partial tumor resection is not possible or not planned\n* A single measurable tumor that is at least 10.0 mm longest diameter (LDi) X 10.0 mm shortest diameter (SDi) and this tumor does not exceed 40.0 mm in LDi or SDi on Screening MRI\n* Tumor recurrence or progression documented after previously failing surgical resection, chemotherapy or radiation\n* Karnofsky performance status \u2265 70 %\n* Prior anti-tumor therapies must have been completed within time periods specified in the protocol prior to DNX-2401 injection and toxic side effects must be mild, if present\n* Demonstrate adequate organ function via specified laboratory test results\n\nExclusion Criteria:\n\n* Multiple (\u2265 2) separate enhancing tumors\n* Tumor location on both sides of the brain and/or involvement that would present the risk of injecting DNX-2401 into the ventricles of the brain\n* Tumor location in the brain stem\n* Requires or, based upon history, may require treatment with high-dose systemic corticosteroids within 2 weeks of the start of intravenous pembrolizumab infusions and within 2 weeks following the first infusion of pembrolizumab\n* Uncontrolled blood-sugar levels defined as HbA1c \\> 7%\n* Previous treatment with any checkpoint inhibitor such as anti-PD1 or PD-L1 agents including pembrolizumab (KEYTRUDA) or any other checkpoint inhibitor(s) (e.g., ipilimumab, nivolumab, etc.)\n* History of (non-infectious) or current active pneumonitis that required steroids and/or a history of interstitial lung disease\n* Prior gene transfer therapy or prior therapy with a cytolytic virus of any type\n* Brain tumor that is not measurable on MRI or persons who are unable to have MRIs\n* Pregnant or nursing females\n\nNote: Other protocol-defined inclusion and exclusion criteria may apply as outlined in the relevant protocol version",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "Lehigh Valley Health Network",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective response rate (ORR)",
+      "timeFrame": "3.5 years",
+      "description": "Interval tumor size reduction as measured from periodic MRI"
+    }
+  ],
+  "sponsor": "DNAtrix, Inc.",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2016-10-06",
+  "completion_date": "2021-06-30",
+  "last_updated": "2021-07-13"
+}

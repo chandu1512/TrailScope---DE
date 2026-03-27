@@ -1,0 +1,113 @@
+{
+  "nct_id": "NCT04100018",
+  "brief_title": "A Study of Nivolumab or Placebo in Combination With Docetaxel in Men With Advanced Castration-resistant Prostate Cancer",
+  "official_title": "A Phase 3, Randomized, Double-Blind Study of Nivolumab or Placebo in Combination With Docetaxel, in Men With Metastatic Castration-resistant Prostate Cancer",
+  "brief_summary": "The purpose of this study is to assess the safety and effectiveness of nivolumab with docetaxel in men with advanced castration resistant prostate cancer who have progressed after second-generation hormonal manipulation.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1030,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Prednisone",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Placebo",
+      "type": "OTHER",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologic confirmation of adenocarcinoma of the prostate without small cell features\n* Current evidence of metastatic disease documented by either bone lesions on radionuclide bone scan and/or soft tissue lesions on computerized tomography/magnetic resonance imaging (CT/MRI)\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* Ongoing androgen deprivation therapy (ADT) with a gonadotropin-releasing hormone (GnRH) analogue or bilateral orchiectomy\n* Documented prostate cancer progression per Prostate Cancer Working Group (PCWG3) criteria within 6 months prior to screening\n* Chemotherapy-na\u00efve for metastatic castration-resistant prostate cancer (mCRPC), with 1 to 2 prior second generation hormonal therapies in the recurrent non-metastatic setting and/or metastatic setting, and no more than 1 second generation hormonal therapy in the mCRPC setting. Must have progressed during or after second generation hormonal therapy or have documented intolerance to second generation hormonal therapy\n* Participants must meet one of the following criteria regarding tissue submission: Sufficient tumor samples from a newly obtained (\"fresh\") biopsy (obtained during screening); or archival tumor tissue in the form of formalin-fixed paraffin-embedded (FFPE) block or unstained tumor tissue slides. For participants with bone-only disease or inaccessible soft tissue lesions or if the biopsy procedure would pose an unacceptable clinical risk for the participant, submission of tumor tissue obtained from a fresh biopsy is not required.\n* Men must agree to follow specific methods of contraception, if applicable\n\nExclusion Criteria:\n\n* Active brain metastases\n* Active, known, or suspected autoimmune disease\n* Condition requiring systemic treatment with corticosteroids (\\> 10 mg daily prednisone equivalent) or other immunosuppressive medications within 14 days of start of study treatment. Inhaled or topical steroids or adrenal replacement steroid doses are permitted in the absence of active autoimmune disease\n* Prior treatment with an anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA-4 antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways\n* Prior treatment with docetaxel or other chemotherapy for mCRPC. Prior docetaxel for metastatic castration-sensitive prostate cancer is permitted if at least 12 months have elapsed from last dose of docetaxel\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0150",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0332",
+      "city": "Brandywine",
+      "state": "Maryland",
+      "zip": "20613",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0365",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0139",
+      "city": "Florham Park",
+      "state": "New Jersey",
+      "zip": "07932",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0180",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103-6218",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0074",
+      "city": "Bala-Cynwyd",
+      "state": "Pennsylvania",
+      "zip": "19004",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0292",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Radiographic Progressive Free Survival (rPFS) Assessed by Blinded Independent Central Review (BICR) Per Prostate Cancer Working Group 3 (PCWG3)",
+      "timeFrame": "from randomization to the first date of documented progression or death due to any cause, whichever occurs first (up to approximately 31 months)",
+      "description": "rPFS for randomized participants is the time between randomization and the first date of documented progression or death due to any cause, whichever occurs first. The rPFS was censored at the last radiographic tumor assessment up to the start of subsequent cancer therapy for those without progression or death. It was also censored at the date of last radiographic tumor assessment prior to the missed tumor assessments for participants who had progressive disease (PD) or death immediately after more than one consecutive missed tumor assessments. Radiographic progression is defined as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 millimeter (mm). The appearance of one or more new lesions is also considered progression."
+    },
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "From randomization to the date of death from any cause (Up to approximately 31 months)",
+      "description": "OS for all randomized participants is the time between randomization and the date of death from any cause. For participants who are alive, their survival time was censored at the last date that they were known to be alive. OS was censored for participants at the date of randomization if they had no follow-up."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2020-02-06",
+  "completion_date": "2024-06-25",
+  "last_updated": "2025-05-27"
+}

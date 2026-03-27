@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT04799249",
+  "brief_title": "Trilaciclib, a CDK 4/6 Inhibitor, in Patients Receiving Gemcitabine and Carboplatin for Metastatic Triple-Negative Breast Cancer (TNBC)",
+  "official_title": "A Phase 3, Randomized, Double-Blind Study of Trilaciclib or Placebo in Patients Receiving First- or Second-Line Gemcitabine and Carboplatin Chemotherapy for Locally Advanced Unresectable or Metastatic Triple-Negative Breast Cancer (PRESERVE 2)",
+  "brief_summary": "This is a Phase 3, multicenter, randomized, double-blind, placebo-controlled study evaluating the safety and efficacy of trilaciclib versus placebo administered prior to gemcitabine and carboplatin in patients receiving first- or second-line treatment for locally advanced unresectable/metastatic TNBC.",
+  "detailed_description": "This study will have two separate cohorts (Cohort 1 and Cohort 2). Both cohorts will follow the same general study conduct/design with similar primary and key secondary endpoints and identical treatment arms.\n\n* Cohort 1 will evaluate patients receiving first-line therapy, regardless of programmed death-ligand 1 (PD-L1) status, who are programmed cell death protein 1 (PD-1)/PD-L1 inhibitor therapy na\u00efve.\n* Cohort 2 will evaluate PD-L1 positive patients receiving second-line therapy following prior PD-1/PD-L1 inhibitor therapy in the locally advanced unresectable/metastatic setting.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 194,
+  "conditions": [
+    "TNBC - Triple-Negative Breast Cancer",
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Trilaciclib",
+      "type": "DRUG",
+      "description": "Trilaciclib administered IV over 30mins prior to chemotherapy on Day 1 and Day 8 of each 21-day cycle."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Placebo administered IV over 30mins prior to chemotherapy on Day 1 and Day 8 of each 21-day cycle."
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Gemcitabine administered IV on Day 1 and Day 8 of each 21-day cycle."
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Carboplatin administered IV on Day 1 and Day 8 of each 21-day cycle."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age \\>/= 18 years of age with evaluable locally advanced unresectable or metastatic TNBC.\n2. Documentation of triple negative breast cancer (estrogen and progesterone receptor \\<1% and HER2-negative)\n3. Prior systemic therapies (Cohort 1 only):\n\n   1. No prior systemic therapy in the locally advanced unresectable/metastatic setting including chemotherapy, targeted therapy, immunotherapy, or investigational agents.\n   2. Prior PD-1/PD-L1 inhibitor treatment is not permitted in any setting, including in the neoadjuvant setting.\n   3. Time between completion of last treatment with curative intent and first metastatic recurrence must be \u2265 6 months.\n4. Prior systemic therapies (Cohort 2 only):\n\n   1. Documentation of PD-L1 positive status\n   2. Treated with a PD-1/PD-L1 inhibitor for a minimum duration of 4 months in the locally advanced unresectable/metastatic setting and as the most recent therapy.\n5. Radiation therapy for metastatic disease is permitted. There is no required minimum washout period for radiation therapy. Patients should be recovered from the effects of radiation.\n6. Archival tumor tissue must be available or a fresh biopsy must be obtained, unless approved by the Medical Monitor.\n7. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n8. Adequate organ function as demonstrated by normal laboratory values\n\nExclusion Criteria:\n\n1. Prior treatment with gemcitabine in any setting.\n2. Prior treatment with carboplatin in the locally advanced unresectable/metastatic setting.\n\n   Prior carboplatin in the (neo)adjuvant/curative setting is permitted as long as it was completed \u2265 6 months prior to the first metastatic recurrence.\n3. Presence of central nervous system (CNS) metastases and/or leptomeningeal disease requiring immediate treatment with radiation therapy or steroids.\n4. Receipt of any cytotoxic chemotherapy within 14 days prior to the first dose of study drugs.\n5. QTcF interval \\>480 msec at Screening (confirmed in triplicate). For patients with ventricular pacemakers, QTcF \\>500 msec.\n6. Known hypersensitivity to carboplatin or other platinum-containing compounds, or mannitol\n7. Pregnant or lactating women\n8. Prior hematopoietic stem cell or bone marrow transplantation",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Oncology Hematology, P.A.",
+      "city": "Clinton",
+      "state": "Maryland",
+      "zip": "20735",
+      "status": ""
+    },
+    {
+      "facility": "UPC Pinnacle Health Cancer Institute",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Effect on Overall Survival (OS)",
+      "timeFrame": "Cohort 1:From date of randomization up to 39 months",
+      "description": "(Cohort 1):To evaluate the effect of trilaciclib on overall survival (OS) compared with placebo in patients receiving first-line gemcitabine and carboplatin."
+    },
+    {
+      "measure": "Effect on Overall Survival (OS)",
+      "timeFrame": "Cohort 2: From date of randomization up to 28 months",
+      "description": "(Cohort 2): To evaluate the effect of trilaciclib on OS compared with placebo in patients receiving gemcitabine and carboplatin as second-line therapy after treatment with a PD-1/PD-L1 inhibitor in the locally advanced unresectable/metastatic setting"
+    }
+  ],
+  "sponsor": "G1 Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2021-05-14",
+  "completion_date": "2024-05-24",
+  "last_updated": "2024-07-31"
+}

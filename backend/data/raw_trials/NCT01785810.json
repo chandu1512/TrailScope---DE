@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT01785810",
+  "brief_title": "Phase II Maraviroc for GVHD Prevention",
+  "official_title": "A Phase II Study to Assess the Efficacy of Maraviroc in Prophylaxis of GVHD in Patients With Hematologic Malignancies Undergoing Reduced-Intensity Allogeneic SCT From Unrelated Donors",
+  "brief_summary": "RATIONALE: Successful allogeneic stem-cell transplantation is often limited by graft-versus-host disease (GVHD). Migration of donor cells into tissues plays a major role in GVHD. Drugs that block chemokine receptors such as CCR5, can potentially decrease the migration of donor cells into tissues. Blocking CCR5 after allogeneic stem-cell transplantation may therefore reduce the rates of GVHD.\n\nPURPOSE: This study explores the efficacy of pharmacologic inhibition of CCR5 in prevention of GVHDby administering maraviroc during allogeneic stem-cell transplantation with reduced intensity conditioning.",
+  "detailed_description": "Detailed Description:\n\nPRIMARY OBJECTIVES:\n\nTo estimate the cumulative incidence of grade 2-4 acute GVHD by day 180 with the addition of maraviroc to a standard prophylaxis regimen in patients with hematologic malignancies undergoing reduced intensity allogeneic stem-cell transplantation (RIC SCT) from unrelated donors.\n\nSECONDARY OBJECTIVES:\n\n1. To assess the toxicity of a prolonged administration of maraviroc in patients undergoing RIC SCT.\n2. To estimate the rates of severe (grade 3-4) acute GVHD by day 100 and 180, grade 2-4 acute GVHD by day 100, organ-specific acute GVHD, chronic GVHD, relapse, infections, non-relapse mortality, use of immunosuppressive therapies and 1-year survival in patients treated with maraviroc after RIC SCT.\n3. To assess the effect of treatment with maraviroc on immune recovery, engraftment and donor T-cell chimerism in peripheral blood and in target organs.\n4. To assess the effect of donor and recipient CCR5 genotype on the incidence of acute GVHD in patients receiving maraviroc as part of a GVHD prophylaxis regimen.\n\nOUTLINE: Patients receive a standard conditioning regimen with fludarabine and busulfan followed by a peripheral blood stem cell infusion from an unrelated donor, standard GVHD prophylaxis and standard antiviral and antifungal prophylaxis. In addition, all patients receive maraviroc from day -3 to d+ 90.\n\nPatients are followed for 1 year after the stem-cell infusion.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 37,
+  "conditions": [
+    "Hematologic Malignancy"
+  ],
+  "interventions": [
+    {
+      "name": "Maraviroc 300 mg",
+      "type": "DRUG",
+      "description": "Patients enrolled on this trial will receive a standard conditioning regimen with fludarabine and busulfan followed by a peripheral blood stem cell infusion from an unrelated donor, standard GVHD prophylaxis and standard antiviral and antifungal prophylaxis. In addition, all patients will receive maraviroc from day -3 to d+ 90."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients \u226518 years of age with a hematologic malignancy other than aplastic anemia or primary myelofibrosis, scheduled to undergo RIC allogeneic SCT with a peripheral blood stem cell graft from an unrelated donor, using Flu/Bu conditioning and Tac/MTX GVHD prophylaxis. The following diagnoses are included:\n\n  * Acute leukemia - AML, ALL or acute biphenotypic leukemia. Patients will have documentation of complete remission within 6 weeks prior to their transplant. Complete remission is defined as \\<5% blasts on a bone marrow biopsy and absence of any known extramedullary disease.\n  * Chronic myelogenous leukemia in any stage, but with documentation of \\<5% blasts on a bone marrow biopsy within 6 weeks prior to transplant.\n  * Myelodysplastic syndrome of any subtype, but with documentation of \\<5% blasts on a bone marrow biopsy within 6 weeks prior to transplant.\n  * Myeloproliferative disorders other than primary myelofibrosis.\n  * Lymphoma - All types of lymphoma are eligible.\n  * CLL and PLL.\n* Patients who meet institutional eligibility criteria for allogeneic SCT:\n\n  * Renal function: Serum creatinine \u22642.\n  * Hepatic function: Baseline direct bilirubin, ALT or AST lower than three times the upper limit of normal.\n  * Pulmonary disease: FVC or FEV1 \u2265 40% predicted.\n  * Cardiac ejection fraction \u2265 40%.\n* Availability of an unrelated donor, identified and screened by the NMDP. The donor will have at least 7/8 HLA-A, -B, -C and -DRB1 matching by high resolution molecular typing and will meet NMDP eligibility criteria to serve as a peripheral blood stem-cell donor.\n* Karnofsky score \u2265 70% at the time of screening.\n* Capacity to understand and sign the study informed consent form.\n* Negative pregnancy test. Women of childbearing potential (not having had a hysterectomy, a bilateral oophorectomy or bilateral tubal ligation, or be post-menopausal with a total cessation of menses of \\> 1 year) must agree to use documented reliable method(s) of contraception. Men should agree to use condoms during the study period.\n\n  * Co-enrollment in other clinical trials that do not include experimental GVHD therapies is allowed.\n\nExclusion Criteria\n\n* Patients with aplastic anemia or primary myelofibrosis. Patients with marrow fibrosis secondary to MDS, AML or a myeloproliferative disorder other than primary myelofibrosis are eligible.\n* Patients who are not expected to be available for follow-up in our institution for at least 180 days after the transplant.\n* Prior allogeneic SCT.\n* Uncontrolled bacterial, viral or fungal infections.\n* Patients who receive maraviroc for the treatment of HIV infection.\n* Patients receiving other investigational drugs for GVHD.\n* Co-enrollment in other clinical trials that do not include experimental GVHD therapies is allowed.\n* Patients with prior malignancies are excluded unless treated with curative intent and known to be free of disease for at least 2 years.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Day +180 Rate of Grade II-IV Acute GVHD",
+      "timeFrame": "180 days",
+      "description": "The cumulative incidence of grade II-IV acute GVHD by day 180 after the stem-cell infusion. This is based on consensus conference criteria."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2013-02",
+  "completion_date": "2018-07-12",
+  "last_updated": "2020-12-16"
+}

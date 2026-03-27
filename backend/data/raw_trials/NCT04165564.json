@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT04165564",
+  "brief_title": "DECAMP 1 PLUS: Prediction of Lung Cancer Using Noninvasive Biomarkers",
+  "official_title": "DECAMP 1 PLUS: Prediction of Lung Cancer Using Noninvasive Biomarkers",
+  "brief_summary": "DECAMP 1 PLUS aims to improve the efficiency of the diagnostic evaluation of patients with indeterminate pulmonary nodules (8-25 mm). Molecular biomarkers for lung cancer diagnosis measured in minimally invasive and non-invasive biospecimens may be able to distinguish between malignant or benign indeterminate pulmonary nodules in high-risk smokers. Ultimately, this study aims to validate molecular as well as clinical and imaging biomarkers of lung cancer in individuals with indeterminate lung nodules.",
+  "detailed_description": "The Detection of Early lung Cancer Among Military Personnel (DECAMP) consortium is a multidisciplinary and translational research program that previously initiated the DECAMP-1 and DECAMP-2 studies for lung cancer early detection. Now, with the support of Johnson and Johnson, 3 Veterans Administration Hospitals (VAH), 3 Military Treatment Facilities (MTF) and 12 academic hospitals as clinical study sites, several molecular biomarker laboratories, along with Biostatics, Bioinformatics, Pathology and Biorepository cores, we are expanding our work in lung cancer early detection.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 85,
+  "conditions": [
+    "Pulmonary Disease"
+  ],
+  "interventions": [
+    {
+      "name": "Institutional standard of care",
+      "type": "OTHER",
+      "description": "Institutional standard of care may involve the use of LungRADS (screening setting) or Fleischner criteria (either combined 2005, 2013 or 2017 guidelines)"
+    },
+    {
+      "name": "Biosamples of airway and blood",
+      "type": "OTHER",
+      "description": "Identify biomarkers in biosamples from airway and blood for the preclinical detection of lung cancer."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Radiologic diagnosis of solid indeterminate pulmonary nodule (0.8 to 2.5 cm) identified in the past 3 months OR semi-solid (mixed density) nodule with solid component of at least 0.6 cm identified in the past 12 months; must be of appropriate size at enrollment.\n* CT scan completed within 3 months prior to enrollment\n* Able to tolerate all biospecimen collection as required by protocol\n* Able to comply with standard of care follow up visits including clinical exams, diagnostic work-ups, and imaging for approximately three years from enrollment\n* Able to complete the Patient Lung History questionnaire with study staff\n\nArm 1 - Screening\n\n* Age 55-77 years old\n* Current and former smokers with 30 pack-years or more(and quit less than 15 years ago)\n\nArm 2 - Incidental\n\n* Age \\> 45 years old\n* Current and former smokers with 10 pack-years or more(and quit less than 15 years ago)\n\nExclusion Criteria:\n\n* History or previous diagnosis of primary lung cancer, metastatic lung cancer, or any other non-lung cancer within 5 years (not including non-melanoma skin cancer)\n* Symptoms of lung cancer (unexplained weight loss 10 lbs or more in 3 months, recent hemoptysis)\n* Diagnosis of pure ground glass opacities for the target lesion on chest CT within the last 12 months (i.e., mixed features on the target lesion and pure ground glass opacity on non-target lesions are acceptable as mentioned above)",
+    "gender": "ALL",
+    "min_age": "46 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Walter Reed Army Medical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20889",
+      "status": ""
+    },
+    {
+      "facility": "American College of Radiology [Administrative Site]",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania School of Medicine",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Temple University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19140",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of lung cancer",
+      "timeFrame": "3 years",
+      "description": "The number of new cases of lung cancer that developed divided by the population at risk."
+    }
+  ],
+  "sponsor": "Boston University",
+  "collaborators": [
+    "Johnson & Johnson",
+    "American College of Radiology Imaging Network"
+  ],
+  "start_date": "2020-08-24",
+  "completion_date": "2026-12",
+  "last_updated": "2025-04-28"
+}

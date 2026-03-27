@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT00924326",
+  "brief_title": "CAR T Cell Receptor Immunotherapy for Patients With B-cell Lymphoma",
+  "official_title": "An Assessment of the Safety and Feasibility of Administering T-Cells Expressing an Anti-CD19 Chimeric Antigen Receptor to Patients With B-Cell Lymphoma",
+  "brief_summary": "Background:\n\nThe National Cancer Institute (NCI) Surgery Branch has developed an experimental therapy for treating patients with B cell lymphomas or leukemias that involves taking white blood cells from the patient, growing them in the laboratory in large numbers, genetically modifying these specific cells with a type of virus (retrovirus) to attack only the tumor cells, and then giving the cells back to the patient. This type of therapy is called gene transfer. In this protocol, we are modifying the patient s white blood cells with a retrovirus that has the gene for anti-cluster of differentiation 19 (CD19) incorporated in the retrovirus.\n\nObjective:\n\nThe purpose of this study is to determine a safe number of these cells to infuse and to see if these particular tumor-fighting cells (anti-CD19 cells) cause tumors to shrink.\n\nEligibility:\n\n\\- Adults age 18-70 with B cell lymphomas or leukemias expressing the CD19 molecule.\n\nDesign:\n\nWork up stage: Patients will be seen as an outpatient at the National Institutes of Health (NIH) clinical Center and undergo a history and physical examination, scans, x-rays, lab tests, and other tests as needed\n\nLeukapheresis: If the patients meet all of the requirements for the study they will undergo leukapheresis to obtain white blood cells to make the anti-CD19 cells. Leukapheresis is a common procedure, which removes only the white blood cells from the patient.\n\nTreatment: Once their cells have grown, the patients will be admitted to the hospital for the conditioning chemotherapy and the anti-CD19 cells. They will stay in the hospital for about 4 weeks for the treatment.\n\nFollow up: Patients will return to the clinic for a physical exam, review of side effects, lab tests, and scans about every 1-3 months for the first year, and then every 6 months to 1 year as long as their tumors are shrinking. Follow up visits will take up to 2 days.",
+  "detailed_description": "BACKGROUND:\n\n* We have constructed a retroviral vector that encodes an anti-cluster of differentiation 19 (CD19) chimeric antigen receptor (CAR) that recognizes the CD19 antigen. This chimeric receptor also contains the signaling domains of cluster of differentiation 28 (CD28) and cluster of differentiation 3 (CD3)-zeta. The retroviral vector can be used to mediate genetic transfer of this CAR to T cells with high efficiency (\\> 50%) without the need to perform any selection.\n* In co-cultures with CD19-expressing target cells, anti-CD19-CAR-transduced T-cells secreted significant amounts of interferon gamma (IFN-y) and interleukin 2 (IL-2).\n* We have developed a process for cryopreserving the cell product which may lead to the ability for this product to be manufactured at a central location and shipped to other institutions for treatment of a broader patient population\n\nOBJECTIVE:\n\n\\- Primary objective:\n\n--With the approval of amendment S, to determine the safety and feasibility of the administration of cryopreserved anti-CD19-CAR engineered peripheral blood lymphocytes with a non-myeloablative conditioning regimen in patients with Bcell lymphomas.\n\nELIGIBILITY:\n\nPatients of 18 years of age or older must:\n\n* Have a CD19-expressing B-cell lymphoma\n* Be a non-responder to, or recurred after one or more standard chemotherapy-containing regimens for their malignancy\n* Currently require treatment due to progressive malignancy\n* Be deemed to be incurable by standard therapy\n\nPatients may not have:\n\n* A history of allogeneic stem cell transplantation\n* Central nervous system (CNS) disease\n\nDESIGN:\n\n* Peripheral blood mononuclear cells (PBMC) obtained by leukapheresis (approximately 5.0x 10\\^9 cells) will be cultured in the presence of anti-CD3 (muromonab-CD3 (OKT3)) and aldesleukin in order to stimulate T-cell proliferation.\n* Transduction is initiated by exposure of approximately 1.0x 10\\^8 to 5.0x 10\\^8 cells to retroviral vector supernatant containing the anti-CD19 CAR.\n* With the approval of Amendment S, patients will receive fludarabine and cyclophosphamide chemotherapy (NMA) for lymphodepletion, followed by cryopreserved anti-CD19-CAR-transduced T-cells.\n* Patients will be followed until disease progression.\n* Patients who have responded to treatment and then progress may receive one retreatment.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 43,
+  "conditions": [
+    "Primary Mediastinal B-cell Lymphoma",
+    "Diffuse, Large B-cell Lymphoma",
+    "Diffuse Large B-Cell Lymphoma Transformed From Follicular Lymphoma",
+    "Mantle Cell"
+  ],
+  "interventions": [
+    {
+      "name": "Fludarabine",
+      "type": "DRUG",
+      "description": "Days -5 to -1 (after administration of cyclophosphamide): 25 mg/m\\^2 intravenous (IV) over 30 minutes"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Days -5 to -4: 60mg/kg intravenous (IV) over 60 minutes"
+    },
+    {
+      "name": "Anti-cluster of differentiation 19 (CD19)-CAR PBL",
+      "type": "BIOLOGICAL",
+      "description": "Anti-cluster of differentiation 19 (CD19) chimeric antigen receptor (CAR) peripheral blood lymphocytes ( PBL).\n\nDay 0 (two to four days after the last dose of fludarabine); Cells will be infused via intravenous (IV) on the Patient Care Unit over 20-30 minutes."
+    },
+    {
+      "name": "Aldesleukin",
+      "type": "DRUG",
+      "description": "Day 0: 720,000 IU/kg intravenously (IV) every 8 hours for a maximum of 15 doses."
+    },
+    {
+      "name": "Fludarabine",
+      "type": "DRUG",
+      "description": "Days -5 to -3 (after administration of cyclophosphamide): 30 mg/m\\^2 intravenous (IV) over 30 minutes"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Days -5 to -3: 300mg/m\\^2 intravenous (IV) over 60 minutes"
+    }
+  ],
+  "eligibility": {
+    "criteria": "* INCLUSION CRITERIA:\n\n  1. Patient must have a cluster of differentiation 19 (CD19)-expressing B-cell lymphoma. Patients with diffuse large B-cell lymphoma, primary mediastinal B-cell lymphoma, and diffuse large B-cell lymphoma transformed from follicular lymphoma must have measurable disease after at least two prior chemotherapy regimens one of which must have contained doxorubicin and rituximab.\n  2. Confirmation of diagnosis of B-cell malignancy and positivity for CD19 confirmed by the Laboratory of Pathology of the National Cancer Institute (NCI). The choice of whether to use flow cytometry or immunohistochemistry will be determined by what is the most easily available tissue sample in each patient. Immunohistochemistry will be used for lymph node biopsies, flow cytometry will be used for peripheral blood, fine needle aspirates and bone marrow samples.\n  3. Patients must have indications for treatment for their B-cell malignancy at the time of enrollment on this trial.\n  4. Greater than or equal to 18 years of age and less than or equal to age 70.\n  5. Willing to sign a durable power of attorney.\n  6. Able to understand and sign the Informed Consent Document.\n  7. Clinical performance status of Eastern Cooperative Oncology Group (ECOG) 0 or 1.\n  8. Life expectancy of greater than three months.\n  9. Patients of both genders must be willing to practice birth control from the time of enrollment on this study and for four months after treatment.\n  10. Women of child bearing potential must have a negative pregnancy test because of the potentially dangerous effects of the treatment on the fetus.\n  11. Serology:\n\n      * Seronegative for human immunodeficiency virus (HIV) antibody. (The experimental treatment being evaluated in this protocol depends on an intact immune system. Patients who are HIV seropositive can have decreased immune -competence and thus be less responsive to the experimental treatment and more susceptible to its toxicities.).\n      * Seronegative for hepatitis B antigen and hepatitis C antibody unless antigen negative. If hepatitis C antibody test is positive. Then patients must be tested for the presence of antigen by reverse transcription-polymerase chain reaction (RT-PCR) and be hepatitis C virus ribonucleic acid (HCV RNA) negative.\n  12. Hematology:\n\n      * Absolute neutrophil count greater than or equal to 1000/mm\\^3 without the support of filgrastim.\n      * Platelet count greater than or equal to 50,000/mm\\^3.\n      * Hemoglobin greater than 8.0 g/dl.\n      * Lymphocyte count less than or equal to 4,000/ mm\\^3\n  13. Chemistry:\n\n      * Serum alanine aminotransferase (ALT)/aspartate aminotransferase (AST) less or equal to 5 times the upper limit of normal.\n      * Serum creatinine less than or equal to 1.6 mg/dl\n      * Total bilirubin less than or equal to 1.5 mg/dl, except in patients with Gilbert's Syndrome who must have a total bilirubin less than 3.0 mg/dl\n  14. More than three weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patient toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo).\n  15. Normal cardiac ejection fraction and no evidence of pericardial effusion as determined by an echocardiogram.\n\nEXCLUSION CRITERIA:\n\n1. Patients that require urgent therapy due to tumor mass effects such as bowel obstruction or blood vessel compression.\n2. Patients that have active hemolytic anemia.\n3. Patients with active brain metastases, or with a history of any central nervous system (CNS) metastases or cerebrospinal fluid malignant cells.\n\n   Note: patients who are asymptomatic but are found to have malignant cells in the cerebrospinal fluid (CSF) on lumbar puncture prior to treatment will be considered eligible.\n4. Women of child-bearing potential who are pregnant or breastfeeding because of the potentially dangerous effects of the treatment on the fetus or infant.\n5. Active systemic infections, coagulation disorders or other major medical illnesses of the cardiovascular, respiratory or immune system, myocardial infarction, cardiac arrhythmias, obstructive or restrictive pulmonary disease.\n6. Any form of primary immunodeficiency (such as Severe Combined Immunodeficiency Disease).\n7. Concurrent opportunistic infections (The experimental treatment being evaluated in this protocol depends on an intact immune system. Patients who have decreased immune competence may be less responsive to the experimental treatment and more susceptible to its toxicities).\n8. Concurrent systemic steroid therapy.\n9. History of severe immediate hypersensitivity reaction to any of the agents used in this study.\n10. History of allogeneic stem cell transplantation\n11. Patients with cardiac atrial or cardiac ventricular lymphoma involvement.\n\nScreening Evaluation:\n\nWithin 4 weeks prior to starting the chemotherapy regimen:\n\n1. Complete history and physical examination, including, weight and vital signs, noting in detail the exact size and location of any lesions that exist. (Note: patient history may be obtained within 8 weeks.)\n2. Chest x-ray\n3. Electrocardiography (EKG)\n4. Baseline computed tomography (CT) of the chest, abdomen and pelvis, positron emission tomography (PET) scan, and brain magnetic resonance imaging (MRI) to evaluate the status of disease. Additional scans and x-rays may be performed if clinically indicated based on patient signs and symptoms.\n5. HIV antibody titer and Hepatitis B surface antigen (HbsAG) determination, and anti HCV, (Note: May be performed within 3 months of the chemotherapy start date).\n6. Anti cytomegalovirus (CMV) antibody titer, herpes simplex virus (HSV) serology, and Epstein-Barr virus (EBV) panel (Note: patients who are known to be positive for any of the above do not need to be retested; may be performed within 3 months of chemotherapy start date)\n7. Patients with a left ventricular ejection fraction (LVEF) of less than or equal to 55% will not proceed to treatment (Note: may be performed within 8 weeks of treatment).\n8. Cluster of differentiation 19 (CD19) staining of malignant cells by immunohistochemistry or flow cytometry (testing is permitted to be conducted at any time prior to this point).\n9. All patients must have a T cells, B cells, and natural killer cells (TBNK) for Peripheral blood cluster of differentiation 3 (CD3) count and CD19#.\n10. Patients with a history of leptomeningeal disease, or signs/symptoms suggestive of leptomeningeal involvement, or with symptoms of central nervous system malignancy such as new onset severe headaches, neck stiffness, or any focal neurologic findings on physical exam will have lumbar puncture for examination of cerebral spinal fluid.\n11. Patients may undergo lumbar puncture (LP) for flow cytometry of the CSF in order to assess the presence of CD19 positive lymphocytes for potential correlation with neurologic toxicity. Patients who have no neurologic symptoms at the time of LP will be eligible for enrollment regardless of the results of the flow cytometry.\n\n    Within 14 days prior to starting the chemotherapy regimen:\n12. Chem 20: (Sodium (Na), Potassium (K), Chloride (Cl), Total carbon dioxide (CO2) (bicarbonate), Creatinine, Glucose, Urea nitrogen (BUN), Albumin, Calcium total, Magnesium total (Mg), Inorganic Phosphorus, Alkaline Phosphatase, ALT/glutamic pyruvic transaminase (GPT), AST/glutamic oxaloacetic (GOT), Total Bilirubin, Direct Bilirubin, lactate hydrogenase (LD), Total Protein, Total creatine kinase (CK), Uric Acid)\n13. Thyroid panel\n14. Complete blood count (CBC) with differential and platelet count\n15. Prothrombin time (PT)/partial thromboplastin time (PTT)\n16. Urinalysis and culture, if indicated\n\n    Within 7 days prior to starting the chemotherapy regimen:\n17. Beta-human chorionic gonadotropin (\u03b2HCG) pregnancy test (serum or urine) on all women of child-bearing potential\n18. ECOG performance status of 0 or 1",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health Clinical Center, 9000 Rockville Pike",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With a Response Assessed by the Response Criteria for Malignant Lymphoma",
+      "timeFrame": "Scans performed at 6 weeks, 12 weeks and every 3-6 months for approximately 2 years",
+      "description": "Participants were assessed by the Response Criteria for Malignant Lymphoma. Complete Remission (CR) is complete disappearance of all detectable evidence of disease and disease-related symptoms if present before therapy. Partial Remission (PR) requires \u226550% decrease in sum of the product of the diameters (SPD) of up to 6 of the largest dominant nodes or nodal masses; no increase in size of nodes, liver or spleen and no new sites of disease. Progressive disease (PD) is defined by \u226550% increase from nadir in the sum of the products of at least two lymph nodes, or if a single node is involved at least a 50% increase in the product of the diameters of this one node; and appearance of a new lesion greater than 1.5 cm in any axis even if other lesions are decreasing in size. Stable disease (SD) is neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2009-02-17",
+  "completion_date": "2021-11-17",
+  "last_updated": "2021-12-29"
+}

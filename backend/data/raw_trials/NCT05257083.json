@@ -1,0 +1,95 @@
+{
+  "nct_id": "NCT05257083",
+  "brief_title": "A Study of Daratumumab, Bortezomib, Lenalidomide and Dexamethasone (DVRd) Followed by Ciltacabtagene Autoleucel Versus Daratumumab, Bortezomib, Lenalidomide and Dexamethasone (DVRd) Followed by Autologous Stem Cell Transplant (ASCT) in Participants With Newly Diagnosed Multiple Myeloma",
+  "official_title": "A Phase 3 Randomized Study Comparing Daratumumab, Bortezomib, Lenalidomide and Dexamethasone (DVRd) Followed by Ciltacabtagene Autoleucel Versus Daratumumab, Bortezomib, Lenalidomide and Dexamethasone (DVRd) Followed by Autologous Stem Cell Transplant (ASCT) in Participants With Newly Diagnosed Multiple Myeloma Who Are Transplant Eligible",
+  "brief_summary": "The purpose of this study is to compare the efficacy of Daratumumab, Bortezomib, Lenalidomide and Dexamethasone (DVRd) followed by Ciltacabtagene Autoleucel versus Daratumumab, Bortezomib, Lenalidomide and Dexamethasone (DVRd) followed by Autologous Stem Cell Transplant (ASCT) in newly diagnosed multiple myeloma patients.",
+  "detailed_description": "Multiple myeloma (MM) is a malignant plasma cell disorder characterized by the production of monoclonal immunoglobulin (Ig) proteins or protein fragments (M proteins) that have lost their function.\n\nJNJ-68284528 (ciltacabtagene autoleucel \\[cilta-cel\\]) is an autologous chimeric antigen receptor T cell (CAR-T) therapy that targets B-cell maturation antigen (BCMA) that is being evaluated to treat participants with multiple myeloma. The primary hypothesis is that in transplant-eligible participants with newly diagnosed multiple myeloma (NDMM), cilta-cel will significantly improve progression-free survival (PFS) and Sustained MRD-negative CR rate compared with Autologous Stem Cell Transplant (ASCT).\n\nApproximately 750 participants (375 per arm) will be randomly assigned in a 1:1 ratio into 2 arms.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 759,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Daratumumab",
+      "type": "DRUG",
+      "description": "Daratumumab will be administered SC."
+    },
+    {
+      "name": "Bortezomib",
+      "type": "DRUG",
+      "description": "Bortezomib will be administered SC."
+    },
+    {
+      "name": "Lenalidomide",
+      "type": "DRUG",
+      "description": "Lenalidomide will be administered orally."
+    },
+    {
+      "name": "Dexamethasone",
+      "type": "DRUG",
+      "description": "Dexamethasone will be administered orally."
+    },
+    {
+      "name": "Cilta-cel",
+      "type": "DRUG",
+      "description": "Cilta-cel will be administered intravenously"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Cyclophosphamide will be administered intravenously."
+    },
+    {
+      "name": "Fludarabine",
+      "type": "DRUG",
+      "description": "Fludarabine will be administered intravenously."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants with documented NDMM according to IMWG diagnostic criteria, for whom high-dose therapy and ASCT are part of the intended initial treatment plan.\n* Measurable disease, as assessed by central laboratory, at screening as defined by any of the following:\n\n  1. Serum monoclonal paraprotein (M-protein) level \u22651.0 g/dL or urine M-protein level \u2265200 mg/24 hours; or\n  2. Light chain MM without measurable disease in serum or urine: serum Ig free-light chain (FLC) \u226510 mg/dL and abnormal serum Ig kappa lambda FLC ratio.\n* ECOG performance status of grade 0 or 1\n* Clinical laboratory values within prespecified range.\n\nExclusion Criteria:\n\n* Prior treatment with CAR-T therapy directed at any target.\n* Any prior BCMA target therapy.\n* Any prior therapy for MM or smoldering myeloma other than a short course of corticosteroids\n* Received a strong cytochrome P450 (CYP)3A4 inducer within 5 half-lives prior to randomization\n* Received or plans to receive any live, attenuated vaccine (except for COVID-19 vaccines) within 4 weeks prior to randomization.\n* Known active, or prior history of central nervous system (CNS) involvement or clinical signs of meningeal involvement of MM\n* Stroke or seizure within 6 months of signing Informed Consent Form (ICF)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University Of Maryland Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression free survival (PFS)",
+      "timeFrame": "up to 10 years ( or 300 PFS events)",
+      "description": "Progression free survival is defined as the time from the date of randomization to the date of first documented PD, as defined in the IMWG criteria, or death due to any cause, whichever occurs first"
+    },
+    {
+      "measure": "Sustained MRD-negative CR",
+      "timeFrame": "up to 24 months",
+      "description": "Sustained MRD-negative CR is defined as being MRD negative by bone marrow aspirate, as determined by NGS with a sensitivity of at least 10-5, and meeting the IMWG criteria for CR, and with MRD-negativity status confirmed at a minimum 12 months apart and without any examination showing MRD-positive status or PD in between."
+    }
+  ],
+  "sponsor": "Stichting European Myeloma Network",
+  "collaborators": [
+    "Janssen Research & Development, LLC"
+  ],
+  "start_date": "2023-10-10",
+  "completion_date": "2040-08",
+  "last_updated": "2026-03-15"
+}

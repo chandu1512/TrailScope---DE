@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT03620058",
+  "brief_title": "CART22 Alone or in Combination With huCART19 for ALL",
+  "official_title": "Phase 1 Study of Autologous Anti-CD22 Chimeric Antigen Receptor Redirected T Cells (CART22-65s) Alone and When Co-administered With Humanized Anti-CD19 Chimeric Antigen Receptor Redirected T Cells (huCART19) In Patients With Chemotherapy Resistant Or Refractory Acute Lymphoblastic Leukemia",
+  "brief_summary": "This is a single center, open-label, phase 1 study to determine the safety and feasibility of infusing CART22-65s with or without huCART19 after administration of lymphodepleting chemotherapy in adult patients with relapsed or refractory B-ALL.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 23,
+  "conditions": [
+    "Chemotherapy Resistant Acute Lymphoblastic Leukemia",
+    "Refractory Acute Lymphoblastic Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "CART22-65s cells",
+      "type": "BIOLOGICAL",
+      "description": "Autologous T cells transduced with a lentiviral vector to express anti-CD22 scFv TCRz:41BB"
+    },
+    {
+      "name": "huCART19 Cells",
+      "type": "BIOLOGICAL",
+      "description": "Autologous T cells transduced with lentiviral vector to express anti-CD19 scFv TCR\u03b6:4-1BB"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n\\- 1. Patients with relapsed or refractory B cell ALL:\n\na. Patients with 2nd or greater relapse or refractory to 1st salvage as defined by: i. Recurrent disease in the bone marrow identified morphologically, by immunohistochemistry or by Flow cytometry.\n\nii. Patients with extramedullary relapse only (no bone marrow involvement) will be eligible if disease response can be assessed radiographically b. Patients with refractory disease as defined by: i. Failure to achieve remission (\\<5% bone marrow blasts) after 2 cycles of induction chemotherapy ii. Patients that achieve remission but remain MRD+ after \u22652 cycles of induction chemotherapy.\n\nc. Patients with Ph+ ALL are eligible provided they are intolerant to or have failed tyrosine kinase inhibitor therapy.\n\nd. Patients with prior or current history of CNS3 disease\\* will be eligible only if CNS disease is responsive to therapy.\n\ni. \\*CNS disease definitions:\n\n1. CNS1 - no blasts seen on cytocentrifuge (CNS negative);\n2. CNS2 - total nucleated cell count \\<5x106/L, but blasts seen on cytocentrifuge;\n3. CNS3 - total nucleated cell count 5x106/L with blasts on cytocentrifuge and/or signs of CNS leukemia (i.e. cranial nerve palsy).\n\n   * 2\\. For Cohort 1: Documentation of CD22 expression on malignant cells at relapse. For Cohort 2: Documentation of CD22 and/or CD19\n   * 3\\. Adequate vital organ function defined as:\n\n     1. Creatinine \u2264 1.6 mg/dl\n     2. ALT/AST \u2264 3x upper limit of normal range\n     3. Total or Direct bilirubin \u2264 2.0 mg/dl. If Total bilirubin is \u22642.0, Direct bilirubin does not need to be assessed.\n     4. Left Ventricle Ejection Fraction (LVEF) \u2265 40% confirmed by ECHO/MUGA\n   * 4\\. Male or female age \u2265 18 years.\n   * 5\\. ECOG Performance Status that is either 0 or 1.\n   * 6\\. No contraindications for leukapheresis.\n   * 7\\. Subjects of reproductive potential must agree to use acceptable birth control methods.\n\nExclusion Criteria:\n\n* 1\\. Active hepatitis B or active hepatitis C.\n* 2\\. HIV Infection.\n* 3\\. Class III/IV cardiovascular disability according to the New York Heart Association Classification.\n* 4\\. Subjects with clinically apparent arrhythmia or arrhythmias who are not stable on medical management within two weeks of eligibility confirmation by physician-investigator.\n* 5\\. Active acute or chronic graft-versus-host disease (GVHD) requiring systemic therapy.\n* 6\\. Planned concurrent treatment with systemic steroids or immunosuppressant medications. Patients may be on a stable low dose of steroids (\\<10mg equivalent of prednisone) for chronic respiratory conditions or adrenal insufficiency. For additional details regarding use of steroid and immunosuppressant medications.\n* 7\\. CNS3 disease that is progressive on therapy, or with CNS parenchymal lesions that might increase the risk of CNS toxicity.\n* 8\\. Pregnant or nursing (lactating) women.\n* 10\\. Patients with a known history or prior diagnosis of optic neuritis or other immunologic or inflammatory disease affecting the central nervous system.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Assess the safety of CART22-65s in ALL subjects using the common terminology criteria of adverse events (CTCAE) v5.0.",
+      "timeFrame": "15 months",
+      "description": "Frequency and severity of adverse events, including, but not limited to, cytokine release syndrome (CRS)."
+    },
+    {
+      "measure": "Assess the safety of combination CART22-65s and huCART19 in relapsed/refractory ALL Subjects using the common terminology criteria of adverse events (CTCAE) v5.0.",
+      "timeFrame": "15 months",
+      "description": "Frequency and severity of adverse events, including, but not limited to, cytokine release syndrome (CRS)."
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [],
+  "start_date": "2018-09-27",
+  "completion_date": "2036-01",
+  "last_updated": "2025-10-09"
+}

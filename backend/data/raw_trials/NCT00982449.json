@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT00982449",
+  "brief_title": "124I-FIAU Imaging in EBV and KSHV Associated Cancers",
+  "official_title": "Study of Imaging of Viral Thymidine Kinase Activity in EBV-Associated and KSHV-Associated Malignancies",
+  "brief_summary": "This research is being done to determine whether viral thymidine kinase (TK) expression in Epstein-Barr virus (EBV) and Kaposi's sarcoma herpesvirus (KSHV) virus-associated tumors is sufficient to image.",
+  "detailed_description": "EBV and KSHV are associated with a variety of malignancies including some lymphomas, carcinomas and other malignancies. We anticipate that viral TK expression will differ among tumor types and will be adjusted with standard chemotherapies and some investigational agents. This exploratory study is aimed in part at evaluating whether standard regimens or investigational regimens might bring about sufficient activation of the EBV-TK or KSHV-TK in tumors to be therapeutically useful if used in conjunction with FIAU as a radiopharmaceutical.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 12,
+  "conditions": [
+    "Hodgkin Lymphoma",
+    "Non Hodgkin Lymphoma",
+    "Kaposi's Sarcoma",
+    "Gastric Cancer",
+    "Nasopharyngeal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "FIAU-PET-CT-2",
+      "type": "OTHER",
+      "description": "1-3 days after chemotherapy, subject get I-FIAU 2 mCi, then have FIAU-PET-CT done 2 - 4 hours after I-FIAU"
+    },
+    {
+      "name": "FIAU-PET-CT-4",
+      "type": "OTHER",
+      "description": "1-3 days after any chemotherapy that may activate viral TK, 4 mCi, rather than 2 mCi, of I-FIAU are administered, followed 2 - 4 hours later by FIAU-PET-CT"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age 18 years or older.\n2. EBV-positive or KSHV-associated malignancy, including but not limited to:\n\n   * EBV+ Hodgkin lymphoma\n   * EBV+ non-Hodgkin lymphoma or lymphoproliferative disease\n   * Primary effusion lymphoma\n   * Kaposi's sarcoma\n   * EBV+ gastric cancer\n   * EBV+ nasopharyngeal cancer\n3. Measurable disease (at least one lesion measuring \\> 2 cm in longest axis).\n4. ECOG performance status of 0, 1, or 2.\n5. Patients must be able to lie flat for at least 60 minutes and fit on PET-CT scanner.\n6. For post-therapy imaging with FIAU-PET, treatment with standard or investigational agents that can potentially activate herpesvirus TK, including but not limited to the following. Concurrent radiation therapy is permissible:\n\n   * Platinum compounds (for example, cisplatin, carboplatin)\n   * Anthracyclines (for example, doxorubicin or pegylated doxorubicin)\n   * Tubulin disrupting agents (for example, vincristine, vinblastine)\n   * Rituximab\n   * Gemcitabine\n   * Cytarabine\n   * Histone deacetylase inhibitors\n   * Bortezomib NOTE: Patients who would not receive bortezomib as part of their usual care may receive a one-time dose of bortezomib for the purpose of imaging with 124I-FIAU and FIAU-PET-CT.\n7. AST and ALT \\< 3 X upper limit of normal, unless attributed to tumor, obtained within 2 weeks prior to registration.\n8. Serum creatinine \\< 2.0 mg/dL, within 2 weeks prior to registration.\n9. In patients who will receive bortezomib for imaging purposes only:\n\n   * Total bilirubin \\< 1.5 X upper limit of normal, obtained within 2 weeks prior to registration.\n   * Platelet count \\> 70,000 / mm3 obtained within 2 weeks prior to registration.\n   * No pre-existing peripheral neuropathy greater than grade 1.\n\nExclusion Criteria:\n\n1. End-stage liver disease unrelated to tumor.\n2. Known active or chronic hepatitis B or hepatitis C infection.\n3. History of iodine hypersensitivity.\n4. Chronic renal insufficiency requiring dialysis.\n5. Women who are pregnant or breast feeding.\n6. Foreseen inability to comply with study requirements.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To evaluate the potential for enzymatic targeting as evidenced by the ability to image 124I-FIAU tracer uptake in tumor at baseline and following chemotherapy or biologic therapy with agents that may induce viral TK activation.",
+      "timeFrame": "Baseline, Days 1-3 post chemo",
+      "description": ""
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2010-12",
+  "completion_date": "2013-07",
+  "last_updated": "2018-09-13"
+}

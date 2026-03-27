@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT01728805",
+  "brief_title": "Study of KW-0761 Versus Vorinostat in Relapsed/Refractory CTCL",
+  "official_title": "Open-Label, Multi-Center, Randomized Study of Anti-CCR4 Monoclonal Antibody KW-0761 (Mogamulizumab) Versus Vorinostat in Subjects With Previously Treated Cutaneous T-Cell Lymphoma",
+  "brief_summary": "The purpose of this study is to compare the progression free survival of KW-0761 versus vorinostat for subjects with relapsed or refractory CTCL.",
+  "detailed_description": "Phase 3 randomized study to compare the progression free survival of subjects with relapsed/refractory CTCL who receive KW-0761 versus those who receive vorinostat. Subjects who progress on vorinostat will be allowed to cross over to KW-0761 upon progression.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 372,
+  "conditions": [
+    "Cutaneous T-Cell Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "KW-0761",
+      "type": "BIOLOGICAL",
+      "description": "1.0 mg/kg weekly x 4 in cycle 1 then every other week until progression"
+    },
+    {
+      "name": "Vorinostat",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male and female subjects \u2265 18 years of age at the time of enrollment, except in Japan where subjects must be \u2265 20 years of age at the time of enrollment\n* Histologically confirmed diagnosis of mycosis fungoides (MF) or Sezary Syndrome (SS)\n* Stage IB, II-A, II-B, III and IV\n* Subjects who had failed at least one prior course of systemic therapy. Psoralen plus ultraviolet light therapy (PUVA) is not considered to be a systemic therapy\n* Eastern Cooperative Oncology Group (ECOG) performance status score of \u2264 1 at study entry\n* Resolution of all clinically significant toxic effects of prior cancer therapy to grade \u22641 by the National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0 (NCI-CTCAE, v.4.0)\n* Adequate hematological, renal and hepatic function\n* Subjects previously treated with anti-CD4 antibody or alemtuzumab were eligible provided their CD4+ cell counts were \u2265 200/mm3\n* Subjects with mycosis fungoides (MF) and a known history of non-complicated staphylococcus infection/colonization were eligible provided they continued to receive stable doses of prophylactic antibiotics\n* Women of childbearing potential (WOCBP) must have had a negative pregnancy test within 7 days of receiving study medication\n* WOCBP and male subjects as well as their female partners of childbearing potential must have agreed to use effective contraception throughout the study and for 3 months after the last dose of KW-0761\n\nExclusion Criteria:\n\n* Prior treatment with KW-0761 or vorinostat.\n* Large cell transformation. However, subjects with a history of LCT but without current aggressive disease and no current evidence of LCT on pathology in skin and lymph nodes would be eligible.\n* Diagnosed with a malignancy in the past two years. However, subjects with non-melanoma skin cancers, melanoma in situ, localized cancer of the prostate with current PSA of \\<0.1 ng/mL, treated thyroid cancer or cervical carcinoma in situ or ductal/lobular carcinoma in situ of the breast within the past two years could enroll as long as there was no current evidence of disease.\n* Clinical evidence of central nervous system (CNS) metastasis.\n* Psychiatric illness, disability or social situation that would have compromised the subject's safety or ability to provide consent, or limited compliance with study requirements.\n* Significant uncontrolled intercurrent illness\n* Known or tested positive for human immunodeficiency virus (HIV), human T-cell leukemia virus (HTLV-1), hepatitis B or hepatitis C.\n* Active herpes simplex or herpes zoster. Subjects on prophylaxis for herpes who started taking medication at least 30 days prior to study entry, and had no active signs of active infection, and whose last active infection was more than 6 months ago, could enter the study, and should have continued to take the prescribed medication for the duration of the study.\n* Experienced allergic reactions to monoclonal antibodies or other therapeutic proteins.\n* Known active autoimmune disease were excluded. (For example, Grave's disease; systemic lupus erythematosus; rheumatoid arthritis; Crohn's disease; psoriasis).\n* Was pregnant (confirmed by beta human chorionic gonadotrophin \\[\u03b2-HCG\\]) or lactating.\n* History of allogeneic transplant.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh School of Medicine",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15208",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival",
+      "timeFrame": "From date of randomization at every visit until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 36 months",
+      "description": "Progression was defined as follows, based on Olsen (2011):\n\n* Lymph nodes: \u2265 50% increase in SPD from baseline of lymph nodes, any new node \\> 1.5 cm in the long axis or \\> 1 cm in the short axis if 1-1.5 cm in the long axis that is proven to be N3 histologically, or \\> 50% increase from nadir in SPD of lymph nodes in those with PR\n* Skin: \u2265 25% increase in skin disease from baseline, new tumors (T3) in patients with T1, T2 or T4 only skin disease, or in those with CR or PR, increase of skin score of greater than the sum of nadir plus 50% baseline score\n* Blood: B0 to B2, \\> 50% increase from baseline and at least 5,000 neoplastic cells/\u03bcL36, or \\> 50% increase from nadir and at least 5,000 neoplastic cells/\u03bcL\n* Viscera: \\> 50% increase in size (SPD) of any organs involved at baseline, new organ involvement, or \\> 50% increase from nadir in the size (SPD) of any previous organ involvement in those with PR"
+    }
+  ],
+  "sponsor": "Kyowa Kirin, Inc.",
+  "collaborators": [],
+  "start_date": "2012-11",
+  "completion_date": "2021-02-17",
+  "last_updated": "2024-04-23"
+}

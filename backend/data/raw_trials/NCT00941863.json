@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT00941863",
+  "brief_title": "Study to Determine the Safety, Maximum Tolerated Dose, Pharmacokinetics of Sorafenib (BAY43-9006)",
+  "official_title": "Phase I Study to Determine the Safety, Maximum Tolerated Dose, PK of BAY43-9006 in Repeated Cycles of 18 Days On/3 Days Off in Combination With Paclitaxel and Carboplatin Chemotherapy in Patients With Advanced, Refractory Solid Tumors",
+  "brief_summary": "The primary objective of the study was to define the safety profile and maximum tolerated dose (MTD) of sorafenib tablets in combination with carboplatin and paclitaxel chemotherapy in patients with advanced, refractory solid tumors.\n\nThe secondary objectives were evaluation of pharmacokinetics (PK) and tumor response of these patients being treated with sorafenib in combination with paclitaxel and carboplatin.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 158,
+  "conditions": [
+    "Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Sorafenib 100 mg (50-mg tablet)",
+      "type": "DRUG",
+      "description": "Sorafenib (Nexavar, BAY43-9006) 100 mg twice daily (50-mg tablet)"
+    },
+    {
+      "name": "Sorafenib 200 mg (50-mg tablet)",
+      "type": "DRUG",
+      "description": "Sorafenib (Nexavar, BAY43-9006) 200 mg twice daily (50-mg tablet)"
+    },
+    {
+      "name": "Sorafenib 400 mg (50-mg tablet)",
+      "type": "DRUG",
+      "description": "Sorafenib (Nexavar, BAY43-9006) 400 mg twice daily (50-mg tablet)"
+    },
+    {
+      "name": "Sorafenib 400 mg (200-mg tablet)",
+      "type": "DRUG",
+      "description": "Sorafenib (Nexavar, BAY43-9006) 400 mg twice daily (200-mg tablet)"
+    },
+    {
+      "name": "Sorafenib 400 mg (Expansion)",
+      "type": "DRUG",
+      "description": "Sorafenib (Nexavar, BAY43-9006) 400 mg twice daily (200-mg tablet) expansion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed solid tumors\n* Evaluable disease\n* Eastern Cooperative Oncology Group (ECOG) 0 or 1\n* Life expectancy minimum 12 weeks\n\nExclusion Criteria:\n\n* Congestive heart failure\n* Serious arrhythmias\n* Coronary artery disease (CAD) or ischemia\n* HIV (human immunodeficiency virus)\n* Hepatitis B or C\n* Serious active infection\n* Metastatic brain or meningeal tumors",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum Tolerated Dose (MTD) of Sorafenib in Combination With Paclitaxel and Carboplatin",
+      "timeFrame": "21 days",
+      "description": "MTD was determined by testing increasing doses up to 400 mg twice daily (bid) on dose escalation cohorts 1 to 3 with 3 patients each. MTD reflects highest dose of drug that did not cause an unacceptable side effect (= Dose Limiting Toxicity (DLT) in more than 30% of patients; e.g., hematologic toxicities like Common Toxicity Criteria (CTC) Grade 4 Neutropenia in specific conditions, platelets \\< 25,000 cells/mL; specific non-hematologic/biochemical toxicities CTC Grade 3 or 4; additionally, any toxicity considered by the investigator severe enough was designated a DLT); CTC Version 2 were used."
+    },
+    {
+      "measure": "Participants With Hematological and Biochemical Toxicities",
+      "timeFrame": "Start of treatment until death or within 14 days last study drug intake",
+      "description": "Participants are considered at risk for toxicity if participants had a lab measurement for the toxicity \\>= National Cancer Institute Common Toxicity Criteria (NCI CTC) Grade 3 as defined by the NCI CTC version 2; SGOT: Serum Glutamic-Oxaloacetic Transaminase, SGPT: Serum Glutamic-Pyruvic Transaminase, AST: Aspartate Aminotransferase, ALT: Alanine Aminotransferase."
+    }
+  ],
+  "sponsor": "Bayer",
+  "collaborators": [
+    "Amgen"
+  ],
+  "start_date": "2002-07",
+  "completion_date": "2008-04",
+  "last_updated": "2016-02-24"
+}

@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT04288687",
+  "brief_title": "A Trial of Niraparib in Platinum-Sensitive Castration-Resistant Prostate Cancer With DNA Repair Defects",
+  "official_title": "PLATPARP: A Phase II Single-Arm Trial of Niraparib in Platinum-Sensitive Castration-Resistant Prostate Cancer With DNA Repair Defects",
+  "brief_summary": "This study is designed to evaluate the initial safety and effectiveness of an investigational drug, niraparib, given to patients who have recently received platinum-based chemotherapy for the treatment of prostate cancer. The study enrolls participants with history of advanced prostate cancer that is growing despite standard hormonal therapies, such as androgen-deprivation therapy.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 11,
+  "conditions": [
+    "Prostate Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Niraparib Pill",
+      "type": "DRUG",
+      "description": "Niraparib 200 mg by mouth daily (2 x 100 mg pills)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Histologically or cytologically confirmed diagnosis of prostate adenocarcinoma (mixed histology will be acceptable, but pure small cell histology is to be excluded).\n2. \u2265 18 years of age.\n3. No prior therapy with PARP inhibitor therapy.\n4. Patients must have received at least 9 weeks of platinum-based chemotherapy for the treatment of mCRPC as the proximal treatment regimen prior to study screening. Patients must not have evidence of clinical or radiographic disease progression (per Investigator assessment) and should have adequately recovered from chemotherapy-related toxicities (at least 4 weeks following completion of chemotherapy, with treatment-related toxicities \u2264 grade 1 per CTCAE version 5).\n5. ECOG performance status of \u2264 2.\n6. Documented evidence of a pathogenic or likely pathogenic DNA repair aberration in BRCA1/2, ATM, FANCA, PALB2, CHEK2, HDAC2, or BRIP1 through either somatic or germline testing from a CLIA certified laboratory.\n7. Radiographic evidence for metastatic disease. Measureable disease (per RECIST) is not required for enrollment. (i.e. bone-only metastatic disease is permitted).\n8. Patients with history of treated brain metastases are eligible if off systemic corticosteroids for at least 2 weeks.\n9. Clinical evidence for castration-resistance, with total testosterone \\< 50 ng/dL. Patients who have not undergone bilateral orchiectomy must plan to continue ongoing androgen deprivation therapy for the duration of the trial therapy.\n10. Patients must have adequate organ function, as confirmed by laboratory values obtained \u2264 14 calendar days prior to the first day of study therapy:\n\n    Hematologic: Absolute neutrophil count (ANC) \u2265 1.5 \u00d7 109/L, platelet count \u2265 100 \u00d7 109/L, and hemoglobin \u2265 9 g/dL (may have been transfused)\n\n    Hepatic: Total bilirubin level \u2264 1.5 \u00d7 the upper limit of normal (ULN) range and AST and ALT levels \u2264 2.5 \u00d7 ULN or AST and ALT levels \u2264 5 x ULN (for subjects with documented metastatic disease to the liver). (Note: In subjects with Gilbert's syndrome, if total bilirubin is \\>1.5 \u00d7 ULN, measure direct and indirect bilirubin and if direct bilirubin is \u22641.5 \u00d7 ULN, subject may be eligible)\n\n    Renal: Estimated creatinine clearance \u2265 45 mL/min using Cockcroft Gault formula.\n11. Patients must have a projected life expectancy of at least 3 months.\n\nExclusion Criteria:\n\n1. Prior therapy with a PARP inhibitor.\n2. Presence of clinically significant (i.e., active) cardiovascular disease: cerebral vascular accident/stroke (\\< 6 months prior to enrollment), myocardial infarction (\\< 6 months prior to enrollment), unstable angina, congestive heart failure (\u2265 New York Heart Association Classification Class II), or serious cardiac arrhythmia requiring medication.\n3. Presence of known significant immunodeficiency, as determined by the treating investigator.\n4. Presence of clinically significant active infections, as determined by the treating investigator.\n5. Known allergy to niraparib or any of its components.\n6. Prostate cancer with histologic evidence for pure small cell histology",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "6-Month Radiographic Progression-Free Survival (rPFS6)",
+      "timeFrame": "6 months from initiation of maintenance niraparib therapy",
+      "description": "Proportion of participants alive without radiographic progression (per PCWG2 criteria), clinical deterioration (as assessed by the investigator), or death from any cause, measured from the start of maintenance niraparib therapy using Kaplan-Meier analysis."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2020-10-19",
+  "completion_date": "2024-02-20",
+  "last_updated": "2026-02-12"
+}

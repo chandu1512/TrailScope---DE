@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT03098030",
+  "brief_title": "Dinutuximab and Irinotecan Versus Irinotecan to Treat Subjects With Relapsed or Refractory Small Cell Lung Cancer",
+  "official_title": "A Two-part, Open-label, Randomized, Phase 2/3 Study of Dinutuximab and Irinotecan Versus Irinotecan for Second Line Treatment of Subjects With Relapsed or Refractory Small Cell Lung Cancer",
+  "brief_summary": "This is a 2-part, multicenter, open-label, randomized study of dinutuximab and irinotecan versus irinotecan alone in subjects with relapsed or refractory small cell lung cancer (SCLC). Part 1 of the study involves intrasubject dose escalation to evaluate the safety and tolerability of dinutuximab in combination with irinotecan. Part 2 of the study is designed to determine whether dinutuximab plus irinotecan prolongs overall survival (OS) compared with irinotecan alone. Subjects in Part 2 will be randomized in a 2:2:1 fashion to 1 of 3 treatment groups: (A) irinotecan; (B) dinutuximab plus irinotecan; or (C) topotecan. Randomization will be stratified by duration of response to prior platinum therapy (relapse-free period \\<3 months or \u22653 months).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 483,
+  "conditions": [
+    "Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Dinutuximab",
+      "type": "BIOLOGICAL",
+      "description": "Dinutuximab injection, for intravenous (IV) use"
+    },
+    {
+      "name": "Irinotecan",
+      "type": "DRUG",
+      "description": "Irinotecan injection, IV infusion"
+    },
+    {
+      "name": "Topotecan",
+      "type": "DRUG",
+      "description": "Topotecan for injection"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Have histologically or cytologically confirmed SCLC (undifferentiated small-cell carcinoma arising in or consistent with lung cancer origin).\n2. Documented relapse or disease progression during or after first-line platinum-based therapy (subjects refractory to initial platinum-based therapy are eligible).\n3. Have no curative therapy available.\n4. Have a life expectancy of at least 12 weeks.\n5. Have Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n6. Have adequate bone marrow and hepatic function.\n7. Have calculated creatinine clearance (CrCL) \u226530 mL/minute or serum creatinine \u22641.5 times below the upper limit of normal.\n8. Women of reproductive potential must not be pregnant or breastfeeding and have a negative urine or serum pregnancy test obtained within 7 days prior to the first dose of study treatment.\n9. Subjects must agree to consistently use 2 forms of highly effective contraception/birth control between signing of the informed consent and 60 days after the last study drug administration.\n\nExclusion Criteria:\n\n1. Candidate for re-treatment with original platinum-based regimen as second-line therapy.\n2. Prior treatment with irinotecan, topotecan, or dinutuximab.\n3. Have active brain metastases. Subjects with brain metastases are allowed if they completed definitive brain therapy, are asymptomatic and radiologically stable, and if they are not currently receiving corticosteroids or radiation.\n4. Have mixed small cell and non-small cell histologic features.\n5. Have a previous or concurrent cancer that is distinct in primary site or histology from the cancer being evaluated in this study, except cervical carcinoma in situ, treated basal cell carcinoma, superficial bladder tumors (Ta and Tis \\[carcinoma in situ\\]) or any previous cancer curatively treated \\<3 years ago.\n6. Have a history or current evidence of uncontrolled cardiovascular disease.\n7. Have not recovered from prior surgery, significant trauma, systemic anticancer therapy, radiation therapy or investigational therapy to Grade 1 or better toxicity prior to enrollment (Part 1) or randomization (Part 2).\n8. Have had organ allograft or hematopoietic transplantation.\n9. Known to be human immunodeficiency virus (HIV) positive.\n10. Have an active infection requiring treatment or one that is clinically serious in the Investigator's opinion.\n11. Have received a live vaccine within 6 months of enrollment (Part 1) or randomization (Part 2).\n12. Exposure to strong CYP3A4 and/or UGT1A1 inhibitors and strong CYP3A4 inducers within 14 days of enrollment (Part 1) or randomization (Part 2).\n13. Have any clinical condition that is considered unstable or might jeopardize the safety of the subject and/or influence the subject's compliance in the study.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center Office of Clinical Research",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Treatment Centers of America at Eastern Regional Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19124",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "Up to approximately 2.5 years",
+      "description": "OS will be derived as: (date of death - date of randomization) + 1. Subjects who are alive or permanently lost to follow-up at the cut-off date for the analysis will be censored at the last date the subject was known to be alive."
+    }
+  ],
+  "sponsor": "United Therapeutics",
+  "collaborators": [],
+  "start_date": "2017-06-01",
+  "completion_date": "2020-03-26",
+  "last_updated": "2020-11-12"
+}

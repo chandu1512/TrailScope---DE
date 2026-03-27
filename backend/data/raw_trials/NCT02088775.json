@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT02088775",
+  "brief_title": "PET-CT in Determining the Radioembolization Dose Delivered to Patients With Liver Metastasis, Primary Liver Cancer, or Biliary Cancer",
+  "official_title": "Intrinsic Dosimetry for Radioembolization Utilizing PET-CT Imaging Data: A Prospective Registry Study",
+  "brief_summary": "This clinical trial studies positron emission tomography (PET)-computed tomography (CT) in determining the radiation dose delivered with radioactive spheres to patients with liver metastasis or primary liver or biliary cancer. Comparing results of diagnostic procedures dose before and after delivery of radioactive spheres to the liver may help determine radioembolization dose and plan the best treatment for liver metastasis or primary liver or biliary cancer.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine the relationship between radiation dose to 70% of the tumor volume as determined by post-treatment positron emission tomography (PET)-computed tomography (CT) and local control at 6 months.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the ability of PET-CT to reproducibly determine dose to tumor, normal liver, and other surrounding organs.\n\nII. To determine the stability of microsphere location by examining the changes in dose in a subset of patients with PET-CT scans performed on day 0 and day 1.\n\nIII. To determine the relationship of dose predicted by technetium-99m (Tc-99m) labeled Macro-aggregated albumin (MAA) imaged using single-photon emission computed tomography (SPECT) versus post-treatment dosimetry.\n\nIV. To determine the effect of dose delivered on local control and normal tissue complications.\n\nV. To measure the perfusion of the tumor for correlation with dose deposition, based on arterial phase CT measurements.\n\nOUTLINE:\n\nPatients undergo PET-CT scan before and after standard radioembolization on day 0. A subset of patients undergo PET-CT scan on day 1, 24 hours after the day 0 post-treatment PET-CT.\n\nAfter completion of study treatment, patients are followed up at 1 week, 1 and 3 months, every 3 months for 1 year, every 6 months for 1 year and then annually for 3 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 44,
+  "conditions": [
+    "Adult Primary Hepatocellular Carcinoma",
+    "Advanced Adult Primary Liver Cancer",
+    "Metastatic Extrahepatic Bile Duct Cancer",
+    "Recurrent Adult Primary Liver Cancer",
+    "Recurrent Extrahepatic Bile Duct Cancer",
+    "Stage D Adult Primary Liver Cancer (BCLC)",
+    "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "interventions": [
+    {
+      "name": "PET scan",
+      "type": "PROCEDURE",
+      "description": "Undergo PET-CT scan"
+    },
+    {
+      "name": "CT Scan",
+      "type": "PROCEDURE",
+      "description": "Undergo PET-CT scan"
+    },
+    {
+      "name": "hepatic artery embolization",
+      "type": "PROCEDURE",
+      "description": "Undergo standard radioembolization"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have liver-dominant or liver-only metastatic disease from any primary histology; patients with primary hepatocellular or biliary cancer are also eligible\n* Patients must be clinical candidates for radioembolization with either SIR-spheres or TheraSphere due to metastatic or primary malignancies of the liver\n* Women of child bearing potential must have a negative serum pregnancy test no more than 72 hours prior to registration\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0, 1 or 2\n* Ability to understand and willingness to sign a written informed consent and Health Insurance Portability and Accountability Act (HIPAA) authorization for release of medical information\n* Complete blood count (CBC) and chemistry panel (CMP) no greater than 4 weeks prior to visit 1\n* Diagnostic imaging of the abdomen utilizing either CT with contrast, magnetic resonance imaging (MRI), or PET/CT no greater than 4 weeks prior to visit 1\n\nExclusion Criteria:\n\n* Patients not undergoing radioembolization to the liver\n* Women of childbearing potential (WOCBP) and men who refuse to comply with appropriate contraception\n* Women who are either pregnant or breast feeding",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Radiation dose to 70% of the tumor volume, evaluated using PET-CT",
+      "timeFrame": "Up to day 1",
+      "description": "Standard summary measures such as means, medians, ranges, and standard deviations will be used to characterize the dosages received by tumor and other tissue. The relationship between radiation dose and local control will be determined using regression models with Generalized Estimating Equations (GEE) to account for within-patient correlation. Logistic regression will be used to adjust for potentially confounding factors such as tumor volume, primary histology, and SIR-Spheres versus Therasphere intervention."
+    },
+    {
+      "measure": "Local control",
+      "timeFrame": "At 6 months",
+      "description": "The relationship between radiation dose and local control will be determined using regression models with GEE to account for within-patient correlation."
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [],
+  "start_date": "2014-02",
+  "completion_date": "2021-07-30",
+  "last_updated": "2024-01-11"
+}

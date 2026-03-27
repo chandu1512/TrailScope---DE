@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT01840150",
+  "brief_title": "Study to Evaluate NA-NOSE for Monitoring and Detecting Recurrence in Early Stage Lung Cancer",
+  "official_title": "A Single-center Study to Evaluate the Feasibility of a Novel NA-NOSE for Monitoring Response to and Detecting Recurrence After Surgery or Radiation in Early Stage Lung Cancer",
+  "brief_summary": "This clinical trial studies nanoscale artificial nose (NA-NOSE) in monitoring response and detecting recurrence after surgery or radiation therapy in patients with stage I or stage II non-small cell lung cancer (NSCLC). Using the NA-NOSE breath test may be an effective way to monitor response and detect recurrence of NSCLC after surgery or radiation therapy.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. Determine if a suitable fraction of patients become NA-NOSE negative within three years post treatment. We will test the hypothesis that this fraction is at most 30% versus the alternative that it is at least 50%.\n\nSECONDARY OBJECTIVES:\n\nI. Determine if patients who become NA-NOSE negative post treatment then become NA-NOSE positive prior to clinical recurrence.\n\nII. Estimate the time post treatment needed to become NA-NOSE negative. III. Estimate the lead time gained between a negative to positive NA-NOSE transition and clinical recurrence.\n\nOUTLINE:\n\nPatients undergo breath sample collection for the NA-NOSE breath test at baseline (2 pre-treatment samples), and post treatment samples at regularly scheduled follow up visits, for 2 years in the absence of disease progression.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 41,
+  "conditions": [
+    "Stage IA Non-small Cell Lung Cancer",
+    "Stage IB Non-small Cell Lung Cancer",
+    "Stage IIA Non-small Cell Lung Cancer",
+    "Stage IIB Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "breath test",
+      "type": "PROCEDURE",
+      "description": "Undergo NA-NOSE breath test"
+    },
+    {
+      "name": "laboratory biomarker analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must either have histologic or pathologically confirmed non-small cell lung cancer (NSCLC) or suspicious nodules/lesions which are going to be surgically resected before they are pathologically confirmed\n* Patients must have stage I or II disease based on the parameters for staging NSCLC found in the American Joint Committee on Cancer (AJCC) cancer staging handbook seventh edition\n* Patients must be deemed to be eligible candidates for either surgery or stereotactic radiation\n* Stereotactic radiation treatment of stage I disease or adjuvant chemotherapy is allowed at the discretion of treating physician for the participating subject\n* Patients who will have surgical resections must consent to the use of post-surgery tumor samples for correlative molecular studies\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2\n* Ability to travel to appointments and willingness to participate in this study\n* Ability to understand and willingness to sign a consent and Health Insurance Portability and Accountability Act (HIPAA) authorization form\n\nExclusion Criteria:\n\n* Patients who have had a prior lung cancer within the last five years from the current diagnosis\n* Patients having a prior malignancy within the past 3 years other than resected of basal or squamous cell carcinoma of the skin, any in situ malignancy, or low-risk prostate cancer after curative therapy\n* Patients with any prior systemic therapy for the current diagnosis of lung cancer\n* Patients with a diagnosis of advanced stage disease (stage III or IV)\n* Patients who are unable to comply with study and/or follow up procedures\n* Patients who have uncontrolled intercurrent illness including, but not limited to psychiatric illness/social situations that would limit compliance with study requirements\n* Patients who are pregnant or are breast feeding",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Successful evaluation of gas samples taken from lung cancer patients",
+      "timeFrame": "Up to 3 years",
+      "description": ""
+    },
+    {
+      "measure": "Percent of patients that become nanoscale artificial nose negative within 3 years post-surgery",
+      "timeFrame": "Up to 3 years",
+      "description": "We will test the null hypothesis that at most 30% of patients will become nanoscale artificial nose negative within 3 years post- surgery. The alternative will be that this fraction will be at least 50%. If at least 15/35 patients become nanoscale artificial nose negative within 3 years post treatment follow up we will reject the null. The test has 84.5% power and 7.31% type I error."
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2012-08-23",
+  "completion_date": "2019-07-05",
+  "last_updated": "2023-03-09"
+}

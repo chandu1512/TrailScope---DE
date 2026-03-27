@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT01000259",
+  "brief_title": "Study of Tumor Tissue Samples From Patients Who Have Undergone Surgery for Advanced Stage III or Stage IV Ovarian Epithelial Cancer",
+  "official_title": "Validation of Tumor-Infiltrating T-Cells as a Biomarker for Advanced Epithelial Ovarian Cancer",
+  "brief_summary": "This research study is looking at tumor tissue samples from patients who have undergone surgery for advanced stage III or stage IV ovarian epithelial cancer. Studying samples of tumor tissue from patients with cancer in the laboratory may help doctors learn how tumor infiltrating T cells can predict how patients will respond to treatment.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To validate the ability of intratumoral tumor-infiltrating T lymphocytes (TILs) to predict progression-free survival (PFS) in patients with suboptimally debulked advanced stage III or IV ovarian epithelial cancer.\n\nII. To validate the ability of intratumoral TILs to predict PFS in patients with optimally debulked disease.\n\nSECONDARY OBJECTIVES:\n\nI. To validate the ability of intratumoral TILs to predict overall survival of patients with suboptimally debulked disease.\n\nII. To validate the ability of intratumoral TILs to predict overall survival of patients with optimally debulked disease.\n\nOUTLINE:\n\nPatients are stratified according to status of debulked disease (suboptimal vs optimal).\n\nPreviously collected tumor tissue samples are analyzed for tumor-infiltrating lymphocytes (TIL) via immunohistochemistry and double immunofluorescence assays using standard immunostaining.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 174,
+  "conditions": [
+    "Stage IIIA Ovarian Cancer",
+    "Stage IIIB Ovarian Cancer",
+    "Stage IIIC Ovarian Cancer",
+    "Stage IV Ovarian Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Laboratory Biomarker Analysis",
+      "type": "OTHER",
+      "description": "Samples are analyzed in laboratory studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Diagnosis of stage III or IV ovarian epithelial cancer and enrolled on Gynecologic Oncology Group (GOG)-0136 and a GOG front-line platinum/taxol chemotherapy trial (GOG-0114, GOG-132, GOG-0158, or GOG-0162)\n* Must have fixed and paraffin-embedded tissue from primary surgery available from 1 of the following sources:\n\n  * Patients enrolled on GOG-0136 and a GOG front-line platinum/taxol chemotherapy trial(GOG-0114, GOG-0132, GOG-0158, and GOG-0162)\n  * Patients who have had either optimal or suboptimal cytoreductive surgery\n  * Patients for whom adequate demographic data, including major prognostic factors and follow-up information, were collected\n* Evaluable patients must have had measurable or nonmeasurable disease\n* Demographic and follow-up data available",
+    "gender": "FEMALE",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Gynecologic Oncology Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall survival curves",
+      "timeFrame": "Baseline",
+      "description": "The Kaplan-Meier method will be used to estimate the survival curves, and the log-rank test will be used to test the difference between survival curves for TIL positive and negative patients. All of the tests will be two-sided and the significant levels will be set a 0.05."
+    },
+    {
+      "measure": "Progression-free survival curves",
+      "timeFrame": "Baseline",
+      "description": "The Kaplan-Meier method will be used to estimate the survival curves, and the log-rank test will be used to test the difference between survival curves for TIL positive and negative patients. All of the tests will be two-sided and the significant levels will be set a 0.05."
+    }
+  ],
+  "sponsor": "Gynecologic Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2004-09",
+  "completion_date": "",
+  "last_updated": "2017-05-02"
+}

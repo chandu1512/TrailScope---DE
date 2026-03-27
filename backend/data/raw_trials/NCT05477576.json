@@ -1,0 +1,96 @@
+{
+  "nct_id": "NCT05477576",
+  "brief_title": "Study of RYZ101 Compared With SOC in Pts w Inoperable SSTR+ Well-differentiated GEP-NET That Has Progressed Following 177Lu-SSA Therapy",
+  "official_title": "Phase 1b/3 Global, Randomized, Controlled, Open-label Trial Comparing Treatment With RYZ101 to Standard of Care Therapy in Subjects With Inoperable, Advanced, SSTR+, Well-differentiated GEP-NETs That Have Progressed Following Prior 177Lu-SSA Therapy",
+  "brief_summary": "This study aims to determine the safety, pharmacokinetics (PK) and recommended Phase 3 dose (RP3D) of RYZ101 in Part 1, and the safety, efficacy, and PK of RYZ101 compared with investigator-selected standard of care (SoC) therapy in Part 2 in subjects with inoperable, advanced, well-differentiated, somatostatin receptor expressing (SSTR+) gastroenteropancreatic neuroendocrine tumors (GEP-NETs) that have progressed following treatment with Lutetium 177-labelled somatostatin analogue (177Lu-SSA) therapy, such as 177Lu-DOTATATE or 177Lu-DOTATOC (177Lu-DOTATATE/TOC), or 177Lu-high affinity \\[HA\\]-DOTATATE.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 288,
+  "conditions": [
+    "GEP-NET",
+    "Gastroenteropancreatic Neuroendocrine Tumor",
+    "Gastroenteropancreatic Neuroendocrine Tumor Disease",
+    "Neuroendocrine Tumors",
+    "Carcinoid",
+    "Carcinoid Tumor",
+    "Pancreatic NET"
+  ],
+  "interventions": [
+    {
+      "name": "RYZ101",
+      "type": "DRUG",
+      "description": "RP3D as determined in Phase 1b"
+    },
+    {
+      "name": "Everolimus",
+      "type": "DRUG",
+      "description": "Everolimus"
+    },
+    {
+      "name": "Sunitinib",
+      "type": "DRUG",
+      "description": "Sunitinib"
+    },
+    {
+      "name": "Octreotide",
+      "type": "DRUG",
+      "description": "High-dose octreotide"
+    },
+    {
+      "name": "Lanreotide",
+      "type": "DRUG",
+      "description": "Lanreotide"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion:\n\n* Histologically proven, Grade 1-2 well differentiated, inoperable, advanced GEP-NETs (Ki67 \u226420%) Eastern Cooperative Oncology Group (ECOG) status 0-2. Ki67% \\<20% is not required for the ad hoc subcohort of the PK/ECG substudy.\n* Progressive, SSTR-PET positive (i.e., Krenning score 3 or 4) GEP-NET (GI or pancreas) following 2-4 cycles of treatment with 177Lu-labeled SSA. Must have achieved disease control for at least 6 months following Lu-177 SSA (archival tissue is not required for the ad hoc subcohort of the PK/ECG substudy). No time limit is defined between 177Lu-SSA treatment and randomization. There must be at least 1 SSTR-PET imaging-positive measurable site of disease (according to RECIST v1.1) and no RECIST v1.1 measurable metastatic lesions that are SSTR imaging-negative.\n* Adequate renal function, as evidenced by estimated glomerular filtration rate (eGFR) \u226560 mL/min/1.73 m2 (calculated using the Chronic Kidney Disease Epidemiology Collaboration \\[CKD-EPI\\]) (Levey et al. 2009)\n* Adequate hematologic function, defined by the following laboratory results:\n* Part 2: Hemoglobin concentration \u22655.0 mmol/L (\u22658.0 g/dL); ANC \u22651000 cells/\u00b5L (\u22651000 cells/mm3); platelets \u226575 x 109/L (75 x 103/mm3).\n* Total bilirubin \u22643 x upper limit normal (ULN)\n* Serum albumin \u22653.0 g/dL unless prothrombin time is within the normal range\n\nExclusion:\n\n* Prior radioembolization\n* Significant cardiovascular disease, such as New York Heart Association (NYHA) Class \u2265II heart failure, left ventricular ejection fraction (LVEF) \\<40% or QT interval corrected for heart rate using Fridericia's formula (QTcF) \\>450 ms for males and \\>470 ms for females.\n* Resistant hypertension, defined as uncontrolled blood pressure (BP) \\>140/90 mmHg while on optimal doses of at least 3 antihypertensive medications with 1 being a diuretic (Whelton et al. 2018)\n* Uncontrolled diabetes mellitus as defined by hemoglobin A1C (HgB A1C) \u22658%\n* PRRT other than Lu-177 SSA (not applicable for ad hoc subcohort of the PK/ECG substudy)\n* Any condition requiring systemic treatment with high-dose glucocorticoids within 14 days prior to first dose of study treatment and/or which cannot be stopped while on study. Inhaled or topical steroids are permitted.\n* Prior history of liver cirrhosis or liver transplantation",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Facility",
+      "city": "Glen Burnie",
+      "state": "Maryland",
+      "zip": "21061",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Research Facility",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "facility": "Research Facility",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1b: RP3D",
+      "timeFrame": "56 days of study treatment",
+      "description": "Incidence of DLTs during the first 56 days of study treatment will be assessed."
+    },
+    {
+      "measure": "Phase 3: PFS as determined by BICR",
+      "timeFrame": "After the target number of 143 PFS events have occurred",
+      "description": "PFS will be defined as the time from the date of randomization until the date of progression (as determined by BICR from tumor assessments using RECIST v1.1) or death due to any cause, whichever occurs earlier."
+    }
+  ],
+  "sponsor": "RayzeBio, Inc.",
+  "collaborators": [],
+  "start_date": "2022-03-24",
+  "completion_date": "2028-07",
+  "last_updated": "2026-01-15"
+}

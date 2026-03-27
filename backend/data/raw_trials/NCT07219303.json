@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT07219303",
+  "brief_title": "Adaptive Radiation Therapy for Men With Intermediate- or High-Risk Prostate Cancer",
+  "official_title": "Dose Escalated CT-Based Adaptive Stereotactic Body Radiation Therapy Among Patients With Intermediate- and Favorable High- Risk Prostate Cancer (DE-CART)",
+  "brief_summary": "The goal of this clinical trial is to evaluate if adaptive stereotactic body radiation therapy (SBRT) is a safe and effective way to treat prostate cancer in adults. It will assess the safety profile of adaptive SBRT over time.\n\nThe main questions this trial aims to answer are:\n\n* What is highest dose of adaptive SBRT without causing serious side effects?\n* Can adaptive SBRT more precisely targeting the prostate while reducing radiation exposure to nearby organs?\n* What side effects do participants experience during treatment, right after treatment, and over the five years post-treatment?\n* Can adaptive SBRT reduce urination-related side effects and support quality of life during and after treatment?\n\nParticipants will:\n\n* Receive adaptive SBRT treatment every other day, for a total of 5 treatment sessions (called fractions). The full course of treatment typically takes 2 to 3 weeks.\n* Have a follow-up phone call about 6 weeks after treatment to check on side effects and overall wellbeing.\n* Visit the clinic for check-ups and tests:\n\n  * At 90 days (about 3 months) after treatment\n  * Then every 3 months for the first year\n  * Then every 6 months after that",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 80,
+  "conditions": [
+    "Prostate Cancer (Adenocarcinoma)"
+  ],
+  "interventions": [
+    {
+      "name": "adaptive stereotactic body radiation therapy (SBRT) with a SIB",
+      "type": "RADIATION",
+      "description": "This is a phase 1 dose finding study investigating escalated doses of adaptive prostate SBRT for patients with intermediate and favorable high risk prostate cancer. There will be a Bayseian Optimal Interval Design (BOIN) defining the dose escalation parameters and the dose will escalate as per Section 5.0. Treatment is 5 fractions every other day and will be expected to be typically completed in 2-3 calendar weeks."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Subjects must have histologically confirmed intermediate- and favorable high risk (AJCC 8th ed stage IIA-IIC) adenocarcinoma of the prostate.\n2. Age \\> 18 years.\n3. ECOG performance status \u2264 2\n4. Prostate volume (segmented) \u2264 100 cc determined by MRI and/or US within 24 mo of treatment for patients not on ADT and within 6 mo for patients on prior ADT. A simulation MRI is acceptable.\n5. Subjects must have had a pre-treatment diagnostic multiparametric MRI prostate (mpMRI) showing a PI-RADS3, 4 or 5 lesion or a 68Ga- or 18F-PSMA (TLX591-CDx or piflufolastat F18) PET/CT within 12 mo of study registration.\n6. Baseline International Prostate Symptom Score (IPSS) is \u2264 15. Baseline alpha blocker use is allowed.\n7. Subjects must have full capacity to understand and be willing to sign the informed consent document.\n\nExclusion Criteria:\n\n1. Subjects must not be experiencing toxicity CTCAE grade \u2265 3 GU or GI toxicity at baseline.\n2. Subjects must not be receiving any other investigational agents.\n3. Subjects must not have had prior pelvic radiation therapy.\n4. Subjects must not have node-positive disease.\n5. Subjects must not have extraprostatic extension determined by MRI prostate within 24 mo of treatment. For patients receiving ADT, the prostate MRI must have been obtained prior to the start of ADT.\n6. Subjects must not have had prior ablative therapies for prostate cancer including cryosurgery, HIFU and nanoknife.\n7. Subjects with prior TURP or laser enucleation are eligible. However, patients that have undergone prior simple prostatectomy are excluded.\n8. Subjects that are receiving other antineoplastic agents including methotrexate are ineligible. Subjects that have received prior ADT are eligible if they have received \\< 6 mo total of ADT, if last administration of ADT was \\> 6 mo prior to registration and serum total testosterone levels have recovered to at least 100 ng/dL. Subjects with prior cancer diagnoses are eligible provided that treatment was completed and no evidence of disease status achieved at least 2 years prior to study registration.\n9. Subjects must not have uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n10. Any condition or significant co-morbidity that prevents safe delivery of SBRT per the discretion of the treating physician(s).\n11. Subjects with active inflammatory bowel disease or active collagen vascular disorder.\n12. Subjects that cannot undergo prostate fiducial placement.\n13. Subjects that cannot undergo rectal spacer placement are excluded. Please, note that a rectal spacer incorporating iodine or similar CT contrast is preferred. However, patients that are able to only have a non-contrast rectal spacer due to iodine allergy or similar contraindication remain eligible.\n14. Subjects that cannot undergo prostate MRI.\n15. Subjects with bilateral prosthetic hips will be excluded. Subjects with unilateral prosthetic hips will be eligible only if the initial treatment plan meets all target and normal tissue constraints without protocol violation.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Severe (CTCAE grade \u2265 3) treatment-related (possibly, probably or definitely) toxicity occurring within 90 days of treatment.",
+      "timeFrame": "From initiation of treatment to 90 days after end of treatment, for a duration of ~100 days.",
+      "description": ""
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [],
+  "start_date": "2025-09-25",
+  "completion_date": "2033-11-01",
+  "last_updated": "2025-10-27"
+}

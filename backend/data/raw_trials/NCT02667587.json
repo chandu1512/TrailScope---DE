@@ -1,0 +1,101 @@
+{
+  "nct_id": "NCT02667587",
+  "brief_title": "An Investigational Immuno-therapy Study of Temozolomide Plus Radiation Therapy With Nivolumab or Placebo, for Newly Diagnosed Patients With Glioblastoma (GBM, a Malignant Brain Cancer)",
+  "official_title": "A Randomized Phase 3 Single Blind Study of Temozolomide Plus Radiation Therapy Combined With Nivolumab or Placebo in Newly Diagnosed Adult Subjects With MGMT-Methylated (Tumor O6-methylguanine DNA Methyltransferase) Glioblastoma",
+  "brief_summary": "The purpose of this study is to evaluate patients with glioblastoma that is MGMT-methylated (the MGMT gene is altered by a chemical change). Patients will receive temozolomide plus radiation therapy. They will be compared to patients receiving nivolumab in addition to temozolomide plus radiation therapy.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 716,
+  "conditions": [
+    "Brain Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Temozolomide",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Radiotherapy",
+      "type": "RADIATION",
+      "description": ""
+    },
+    {
+      "name": "Nivolumab Placebo",
+      "type": "OTHER",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "For more information regarding Bristol-Myers Squibb Clinical Trial participation, please visit www.BMSStudyConnect.com\n\nInclusion Criteria:\n\n* Males and Females, age \u2265 18 years old\n* Newly diagnosed brain cancer or tumor called glioblastoma or GBM\n* Karnofsky performance status of \u2265 70 (able to take care of self)\n* Substantial recovery from surgery resection\n* Tumor test result shows MGMT methylated or indeterminate tumor subtype\n\nExclusion Criteria:\n\n* Biopsy-only of GBM with less than 20% of tumor removed\n* Prior treatment for GBM (other than surgical resection)\n* Any known tumor outside of the brain\n* Recurrent or secondary GBM\n* Active known or suspected autoimmune disease\n\nOther protocol defined inclusion/exclusion criteria could apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0020",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0017",
+      "city": "Edison",
+      "state": "New Jersey",
+      "zip": "08820",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0012",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0098",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0016",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS) Determined by BICR",
+      "timeFrame": "From randomization to the date of the first documented tumor progression or death by any cause. (up to approximately 4.5 years)",
+      "description": "The time from randomization to the date of the first documented tumor progression or death by any cause. PFS will be determined by a Blinded Independent Central Review (BICR) assessed based on Radiologic Assessment in Neuro-Oncology (RANO) criteria. Specifically, RANO response criteria indicates that within the first 12 weeks of completion of radiotherapy, progression can only be assessed if the majority of the new enhancement is outside of the radiation field or if there is pathologic confirmation of progressive disease."
+    },
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "From randomization to date of death (up to approximately 4.5 years)",
+      "description": "The time from the date of randomization to the date of death. who have not died by the end of the study will be censored to last known date alive. OS is assessed in the randomized population with no corticosteroids at baseline population and in the overall randomized population."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "Ono Pharmaceutical Co. Ltd"
+  ],
+  "start_date": "2016-05-09",
+  "completion_date": "2024-04-09",
+  "last_updated": "2025-06-16"
+}

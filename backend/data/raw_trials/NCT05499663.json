@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT05499663",
+  "brief_title": "Title: Leveraging Technology to Address Health Outcomes of Cancer Survivors",
+  "official_title": "Leveraging Technology to Address POST-Treatment Health Outcomes of Cancer Survivors (POSTHOC-II): A Phase II Survivorship Care Plan Randomized Controlled Trial",
+  "brief_summary": "At the end of cancer treatment, many patients are still dealing with symptoms of cancer and side effects of treatment. Many are also left in a surreal mental state with uncertainty regarding the future of their health. Survivorship Care Plans are plans that are provided to individuals at the completion of cancer treatment (i.e., chemotherapy, surgery, radiation). Survivorship Care Plans describe the details of a person's diagnosis and treatment, as well as provide recommendations for follow-up appointments, referrals, and healthy behaviors to accelerate recovery and prevent recurrence (e.g., diet, exercise, smoking cessation). Survivorship Care Plans are currently static documents that are provided via paper and become outdated as soon as the person's health status changes. Therefore, there is a need to digitize Survivorship Care Plans to improve the accessibility, modifiability, and longevity of the plan. In addition, with current technology, there is an opportunity for Survivorship Care Plans to be linked with mobile devices and activity trackers so that people can track health behaviors and compare them to their clinical goals, enabling people to take charge of their own health. Charles River Analytics developed an app called POSTHOC (POST-treatment Healthcare Outcomes for Cancer survivors) that digitizes the Survivorship Care Plan with goals to integrate it into the digital medical record.\n\nHerein, phase I/II feasibility/preliminary efficacy randomized controlled trial is being conducted among 54 patients with cancer who recently completed adjuvant treatment for cancer (e.g., chemotherapy, radiotherapy, surgery) to compare 12 weeks of the POSTHOC app as part of the Survivorship Care Plan vs. the usual care Survivorship Care Plan on total symptom burden. Participants will be randomized 2:1, POSTHOC:usual care. All participants will be asked to download the POSTHOC app to assess technical compatibility and for data collection purposes (i.e., step count via Fitbit, ecological momentary assessment). All participants will have a \"lite\" version of the app for baseline. Upon randomization, those randomized to the POSTHOC group will be provided with their Survivorship Care Plan via the app, and will choose to focus on nutrition or exercise for the duration of the study, based on their individual plan and personal preferences. These features will also become accessible in the app. At baseline, 6 weeks, and 12 weeks, patient-reported outcomes will be evaluated including total symptom burden, diet, and physical activity. Extensive quantitative and qualitative feedback will also be collected on the usability of the app from those in the POSTHOC arm in order to improve the app for future implementation studies.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 51,
+  "conditions": [
+    "Survivorship",
+    "Cancer",
+    "Symptoms and Signs"
+  ],
+  "interventions": [
+    {
+      "name": "POSTHOC app",
+      "type": "BEHAVIORAL",
+      "description": "The POSTHOC app is a smartphone application that will deliver the Survivorship Care Plan and promote healthy lifestyle behaviors consistent with the individual's Care Plan"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have had a cancer diagnosis (any type)\n* Will soon or have recently completed treatment (within the past 12 weeks) with chemotherapy, radiotherapy, or surgery with curative intent\n* Must have received, plans to receive, or open to receiving a Survivorship Care Plan (SCP) as per their provider\n* Have access to a device capable of running the POSTHOC app and Fitbit app (e.g., Android or Apple smartphone) and reliable Internet access\n* Be at least 18 years of age\n* Be able to read and understand English, and\n* Be able to provide written informed consent\n\nExclusion Criteria:\n\n* Have planned surgery, radiotherapy, or surgery during the study period (hormonal and biologic therapy is allowed)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland, Baltimore",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants Who Logged Data at Least Three Times in the POSTHOC App",
+      "timeFrame": "12 weeks",
+      "description": "Number of participants who logged data at least three times in the POSTHOC app"
+    },
+    {
+      "measure": "Usefulness of POSTHOC App",
+      "timeFrame": "6 weeks",
+      "description": "7-point Likert scale for usefulness flanked by 1=not at all useful and 7=extremely useful"
+    },
+    {
+      "measure": "Usefulness of POSTHOC App",
+      "timeFrame": "12 weeks",
+      "description": "7-point Likert scale for usefulness flanked by 1=not at all useful and 7=extremely useful"
+    },
+    {
+      "measure": "Likely to Recommend the POSTHOC App",
+      "timeFrame": "6 weeks",
+      "description": "7-point Likert scale flanked by 1=not at all likely to recommend to others and 7=extremely likely"
+    },
+    {
+      "measure": "Likely to Recommend the POSTHOC App",
+      "timeFrame": "12 weeks",
+      "description": "7-point Likert scale flanked by 1=not at all likely to recommend to others and 7=extremely likely"
+    }
+  ],
+  "sponsor": "University of Maryland, Baltimore",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Charles River Analytics"
+  ],
+  "start_date": "2024-03-05",
+  "completion_date": "2025-03-20",
+  "last_updated": "2026-02-05"
+}

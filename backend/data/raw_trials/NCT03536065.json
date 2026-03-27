@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT03536065",
+  "brief_title": "Post-Discharge Opioid Reduction Intervention for Open, Laparoscopic, and Endoscopic Surgery",
+  "official_title": "Post-Discharge Opioid Reduction Intervention for Open, Laparoscopic, and Endoscopic Surgery (ORIOLES): A Quality Improvement Study of Prescribing Habits and Patient Education",
+  "brief_summary": "ORIOLES is a non-randomized, pre-post intervention study designed to improve quality of opioid prescribing and use after discharge for patients undergoing urologic surgery. The study will initially focus on a pre-defined cohort of patients undergoing radical prostatectomy. After the predefined study period for the pre-intervention arm, a three-part intervention is employed to assess the effect on opioid prescribing and use in the post-intervention arm. Pending results, the intervention may be applied to all surgeries in the department for routine clinical care.",
+  "detailed_description": "The goal of the study is to reduce the amount of opioid analgesia prescribed after urologic surgery in the Department of Urology at Johns Hopkins. The initiative focuses on patients undergoing surgery for prostate cancer with radical prostatectomy including patients enrolled in IRB00123618/NCT03006562. The pre-intervention arm will consist of patients enrolled August 2017 to January 2018. The intervention arm will consist of patient enrolled January 2018 to completion of the study.\n\nThe intervention consists of a information discharge sheet, a standardized prescribing guideline at discharge, and nurses providing improved education for patients at discharge about appropriate use of opioid medication, routes for disposal, and potential side effects. Data on prescriptions written (amount and type of mediation) and use of opioid and other pain medication after surgery will be compared before and after the quality improvement initiative is started. Outcomes are assessed via 30-day phone call follow-up with data on perioperative outcomes, postoperative medication use, and symptoms already assessed in IRB00123618/NCT03006562. At the completion of the pre-intervention arm, providers in the urology department are informed about the average and distribution of usage of post-discharge opioids. Education and standardized prescribing (allowing for provider judgment) may help reduce/personalize the amount of opioids prescribed at discharge to reduce wasted medication entering circulation. The initiative may then be expanded to encompass all surgeries in the department to reduce opioid prescribing and use for routine clinical care.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 443,
+  "conditions": [
+    "Prostate Cancer",
+    "Opioid Use"
+  ],
+  "interventions": [
+    {
+      "name": "Opioid Reduction Intervention",
+      "type": "BEHAVIORAL",
+      "description": "Patient education discharge sheet, nursing education, opioid prescription reduction based on Pre-Intervention data"
+    },
+    {
+      "name": "Current Care",
+      "type": "BEHAVIORAL",
+      "description": "Current unchanged care provided; unchanged provider prescribing and unchanged education of patients prior to intervention"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* All patients diagnosed with prostate cancer and enrolled in NCT03006562\n\nExclusion Criteria:\n\n* Patients not undergoing radical prostatectomy (for the primary pre-post ORIOLES study)",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Opioid Use",
+      "timeFrame": "30 days",
+      "description": "The total oral morphine equivalents (OMEQ) used by the patient up to 30 days after discharge from the hospital"
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [],
+  "start_date": "2017-08-01",
+  "completion_date": "2019-03-01",
+  "last_updated": "2020-07-27"
+}

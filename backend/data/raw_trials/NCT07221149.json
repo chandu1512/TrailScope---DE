@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT07221149",
+  "brief_title": "A Study to Evaluate the Safety and Efficacy of Pumitamig in Combination With Chemotherapy Versus Nivolumab in Combination With Chemotherapy in Participants With Previously Untreated Advanced or Metastatic Gastric, Gastroesophageal Junction, or Esophageal Adenocarcinoma (ROSETTA Gastric-204)",
+  "official_title": "ROSETTA Gastric-204: A Blinded, Randomized, Phase 2/3 Study of Pumitamig in Combination With Chemotherapy Versus Nivolumab in Combination With Chemotherapy in Participants With Previously Untreated Advanced or Metastatic Gastric, Gastroesophageal Junction, or Esophageal Adenocarcinoma",
+  "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of Pumitamig in combination with chemotherapy versus Nivolumab in combination with chemotherapy in participants with previously untreated advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 690,
+  "conditions": [
+    "Untreated Advanced or Metastatic Gastric, Gastroesophageal Junction, or Esophageal Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Pumitamig",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Folfox",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Capox",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\n* Participants must be previously untreated with systemic treatment for advanced/metastatic disease, histologically or cytologically confirmed advanced or metastatic gastric cancer (GC), gastroesophageal junction adenocarcinoma (GEJC) or distal esophageal adenocarcinoma (EAC). GEJ involvement can be confirmed via biopsy, endoscopy, or imaging.\n* Participants must have a documented programmed cell death-(ligand)1 (PD-L1) \u2265 1.\n* Participants must have documented human epidermal growth factor receptor 2 (HER2)-negative cancer, as determined according to local guidelines.\n* Participants must have measurable disease as defined by RECIST v1.1.\n\nExclusion Criteria\n\n* Participants must not have untreated known central nervous system (CNS) metastases.\n* Participants must not have significant cardiovascular disease, such as myocardial infarction, unstable angina, arterial thrombosis, cerebrovascular accident within 6 months prior to randomization, uncontrolled hypertension (\u2265 160 systolic, \u2265 100 diastolic mm Hg) despite optimal medical management, or congenital long QT syndrome.\n* Participants must not have evidence of major coagulation disorders (eg, hemophilia).\n* Participants must not have a history of deep vein thrombosis, pulmonary embolism, or any other significant thromboembolism within 3 months prior to randomization, unless the participant has been fully treated (eg, inferior vena cava filter placed) and/or adequately anticoagulated on a prophylactic dose.\n* Participants must not have a history of abdominal fistula or gastrointestinal (GI) perforation within 6 months of randomization.\n* Participants must not have had major surgery, open biopsy, or significant traumatic injury within 28 days prior to randomization, or anticipation of the need for major surgery during the course of study intervention.\n* Other protocol-defined Inclusion/Exclusion criteria apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0407",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response (OR) (confirmed complete response (CR) or partial response (PR)) by Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 per investigator assessment",
+      "timeFrame": "Up to 2 years after the last participant is randomized",
+      "description": "Phase 2"
+    },
+    {
+      "measure": "Progression Free Survival (PFS) by RECIST v1.1 per blinded independent central review (BICR)",
+      "timeFrame": "Up to approximately 33 months",
+      "description": "Phase 3"
+    },
+    {
+      "measure": "Overall survival (OS)",
+      "timeFrame": "Up to approximately 47 months",
+      "description": "Phase 3"
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "BioNTech SE"
+  ],
+  "start_date": "2026-03-31",
+  "completion_date": "2032-09-11",
+  "last_updated": "2026-03-03"
+}

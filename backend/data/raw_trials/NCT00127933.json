@@ -1,0 +1,92 @@
+{
+  "nct_id": "NCT00127933",
+  "brief_title": "XeNA Study - A Study of Xeloda (Capecitabine) in Patients With Invasive Breast Cancer",
+  "official_title": "An Open-label Study of Xeloda Plus Taxotere on Treatment Response in Patients With HER2-neu-negative, and the Addition of Herceptin for HER2-neu-positive Breast Cancer",
+  "brief_summary": "This single arm study stratified patients into two treatment cohorts based on HER2-neu overexpression/amplification. Each cohort will be independently powered for the primary endpoint. The study will evaluate the efficacy, safety and impact on quality of life of treatment with oral Xeloda plus intravenous (iv) Taxotere (docetaxel). Patients with HER2-neu negative breast cancer will receive chemotherapy alone with oral Xeloda plus intravenous (iv) Taxotere (docetaxel). Patients with HER2-neu positive breast cancer, will receive the same chemotherapy in combination with intravenous (iv) Herceptin (trastuzumab). Patients will receive 3-weekly cycles of treatment with Xeloda (825mg/m2 oral administration \\[po\\] twice daily (bid) on days 1-14) + Taxotere (75mg/m2 iv on day 1). HER2-neu positive patients will also receive Herceptin (loading dose of 4mg/kg iv followed by 2mg/kg iv weekly). The anticipated time on study treatment is 3-12 months, and the target sample size is 100-500 individuals.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE4"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 157,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "capecitabine [Xeloda]",
+      "type": "DRUG",
+      "description": "825mg/m2 po bid on days 1-14 of each 3 week cycle"
+    },
+    {
+      "name": "Taxotere",
+      "type": "DRUG",
+      "description": "75mg/m2 iv on day 1 of each 3 week cycle"
+    },
+    {
+      "name": "Herceptin (HER2-neu positive patients only)",
+      "type": "DRUG",
+      "description": "4mg/kg iv (loading dose) followed by 2mg/kg iv weekly"
+    },
+    {
+      "name": "capecitabine [Xeloda]",
+      "type": "DRUG",
+      "description": "825mg/m2 po bid on days 1-14 of each 3 week cycle"
+    },
+    {
+      "name": "Taxotere",
+      "type": "DRUG",
+      "description": "75mg/m2 iv on day 1 of each 3 week cycle"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* women \\>=18 years of age;\n* newly diagnosed;\n* infiltrating (invasive) HER2-neu-negative or HER2-neu-positive breast cancer.\n\nExclusion Criteria:\n\n* evidence of metastatic disease, except ipsilateral (same side) axillary lymph nodes;\n* previous systemic or local primary treatment.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Neptune City",
+      "state": "New Jersey",
+      "zip": "07754",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Pottsville",
+      "state": "Pennsylvania",
+      "zip": "17901",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants Assessed for Pathological Complete Response (pCR) Plus Near Complete (npCR) in Primary Breast Tumor at Time of Definitive Surgery",
+      "timeFrame": "at the time of definitive surgery; after four 3-week cycles (3-4 months)",
+      "description": "Pathological complete response was defined as the absence of histological evidence of invasive breast cancer cells in the tissue specimen removed from the breast after 4 cycles of preoperative treatment. Near pCR (npCR) was defined as the presence of invasive tumor cells with a size of 5 mm or less in aggregate in the tissue specimen removed from the breast after 4 cycles of preoperative treatment. Only pathological assessments occurring prior to the first date of adjuvant treatment were included in the analysis of pCR rate."
+    }
+  ],
+  "sponsor": "Hoffmann-La Roche",
+  "collaborators": [],
+  "start_date": "2005-08",
+  "completion_date": "2009-07",
+  "last_updated": "2011-07-13"
+}

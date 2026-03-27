@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT05220501",
+  "brief_title": "Optimization of Prostate Biopsy - Micro-Ultrasound Versus MRI",
+  "official_title": "Optimization of Prostate Biopsy - Micro-Ultrasound Versus MRI: A 3-arm Randomized Controlled Trial Evaluating the Role of 29MHz Micro-ultrasound in Guiding Prostate Biopsy in Men With Clinical Suspicion of Prostate Cancer.",
+  "brief_summary": "OPTIMUM is a study designed to compare the ability of ultra-high resolution transrectal micro-ultrasound (microUS) and multiparametric MRI (mpMRI)/US fusion to guide prostate biopsy.",
+  "detailed_description": "The purpose of the Clinical Investigation Plan and Study Protocol is to present information for the OPTIMUM clinical investigation, including the scientific basis for the study, the procedural details, the ExactVu High Resolution Micro-Ultrasound System, its safety details, and administrative details. It has been designed in such a way as to optimize the scientific validity and reproducibility of the results of the study in accordance with current clinical knowledge and practice so as to fulfill the objectives of the investigation.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 804,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Microultrasonography Targeted Biopsy",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "All subjects will be biopsied no matter their arm randomization. In this group, MicroUS targets will be identified and sampled."
+    },
+    {
+      "name": "MRI Targeted Biopsy",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "All subjects will be biopsied no matter their arm randomization. In this group, mpMRI targets will be identified and sampled."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Men indicated for prostate biopsy due to elevated Prostate Specific Antigen and/or abnormal Digital Rectal Examination\n* No history of prior prostate biopsy\n* No history of genitourinary cancer, including prostate cancer\n* 18 years or older\n* No contraindications to biopsy\n* No contraindications to mpMRI\n* No history of mpMRI for clinical investigation of prostate cancer within 12 months prior to screening and enrollment in the study\n\nExclusion Criteria:\n\n* History of prior prostate biopsy\n* History of genitourinary cancer, including prostate cancer\n* Contraindications to biopsy\n* Contraindications to mpMRI",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21205",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Difference in Detection of Gleason Grade Group 2 or Higher Cancers Using Microultrasonography Plus Systematic Biopsy vs mpMRI/Conventional Ultrasonography Plus Systematic Biopsy",
+      "timeFrame": "Post biopsy",
+      "description": "As per protocol, the microultrasonography group for the primary outcome is defined as the microultrasonography-guided biopsy group and the blinded portion (microultrasound targets are identified prior to the unblinding of the MRI targets identified in the microultrasonography/mpMRI group).\n\nDifference in the detection rate of clinically significant prostate cancer (defined as equal to Gleason Grade Group 2 or higher) found using microultrasonography-guided biopsy, including targeted and systematic samples from the microultrasonography group and the mpMRI-blinded portion of the microultrasonography/mpMRI group, versus mpMRI/conventional ultrasonography-guided biopsy, including targeted and systematic samples from the mpMRI/conventional ultrasonography group."
+    }
+  ],
+  "sponsor": "Sunnybrook Health Sciences Centre",
+  "collaborators": [
+    "Exact Imaging"
+  ],
+  "start_date": "2021-12-15",
+  "completion_date": "2024-09-06",
+  "last_updated": "2025-10-22"
+}

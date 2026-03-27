@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT04439279",
+  "brief_title": "Testing Trametinib as a Potential Targeted Treatment in Cancers With BRAF Genetic Changes (MATCH-Subprotocol R)",
+  "official_title": "MATCH Treatment Subprotocol R: Phase II Study of Trametinib in Patients With BRAF Fusions, or With NonV600E, Non-V600K BRAF Mutations",
+  "brief_summary": "This phase II MATCH treatment trial identifies the effects of trametinib in patients with cancer having genetic changes called BRAF mutations and fusions. Trametinib may block proteins called MEK1 and MEK2, which may be needed for growth of cancer cells that express BRAF mutations. Researchers hope to learn if giving trametinib will shrink this type of cancer or stop its growth.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate the proportion of patients with objective response (OR) to targeted study agent(s) in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the proportion of patients alive and progression free at 6 months of treatment with targeted study agent in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nII. To evaluate time until death or disease progression. III. To identify potential predictive biomarkers beyond the genomic alteration by which treatment is assigned or resistance mechanisms using additional genomic, ribonucleic acid (RNA), protein and imaging-based assessment platforms.\n\nIV. To assess whether radiomic phenotypes obtained from pre-treatment imaging and changes from pre- through post-therapy imaging can predict objective response and progression free survival and to evaluate the association between pre-treatment radiomic phenotypes and targeted gene mutation patterns of tumor biopsy specimens.\n\nOUTLINE:\n\nPatients receive trametinib dimethyl sulfoxide (trametinib) orally (PO) once daily (QD) on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up every 3 months if less than 2 years from study entry, and then every 6 months for year 3 from study entry.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 35,
+  "conditions": [
+    "Advanced Lymphoma",
+    "Advanced Malignant Solid Neoplasm",
+    "Hematopoietic and Lymphoid Cell Neoplasm",
+    "Refractory Lymphoma",
+    "Refractory Malignant Solid Neoplasm",
+    "Refractory Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Trametinib Dimethyl Sulfoxide",
+      "type": "DRUG",
+      "description": "Given PO"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have met applicable eligibility criteria in the Master MATCH Protocol prior to registration to treatment subprotocol\n* Patients must have a BRAF non-V600 mutation or BRAF fusion, or another aberration, as identified via the MATCH Master Protocol\n* Patients must have an electrocardiogram (ECG) within 8 weeks prior to treatment assignment and must have NONE of the following cardiac criteria:\n\n  * Clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g. complete left bundle branch block, third degree heart block)\n  * Treatment-refractory hypertension defined as a blood pressure of systolic \\> 140 mmHg and/or diastolic \\> 90 mmHg which cannot be controlled by anti-hypertensive therapy\n* Patients must have an echocardiogram (ECHO) or a nuclear study (multigated acquisition scan \\[MUGA\\] or First Pass) within 4 weeks prior to registration to treatment and must not have a left ventricular ejection fraction (LVEF) \\< the institutional lower limit of normal (LLN). If the LLN is not defined at a site, the LVEF must be \\> 50% for the patient to be eligible\n* Patients who previously received monoclonal antibody therapy (e.g. ipilimumab, nivolumab, pembrolizumab and others) must have stopped the prior therapy for 8 or more weeks before starting on trametinib\n\nExclusion Criteria:\n\n* Patients with a history of interstitial lung disease or pneumonitis are excluded\n* Patients must not have known hypersensitivity to trametinib or compounds of similar chemical or biologic composition or to dimethyl sulfoxide (DMSO)\n* Patients must not have a history or current evidence/risk of retinal vein occlusion (RVO). An eye exam is required at baseline\n* Patients who previously received MEK inhibitors (including, but not limited to, trametinib, binimetinib, cobimetinib, selumetinib, RO4987655 (CH4987655), GDC-0623 and pimasertib) will be excluded",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "ECOG-ACRIN Cancer Research Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response Rate (ORR)",
+      "timeFrame": "assessed at baseline, then every 2 cycles until disease progression, up to 3 years post registration",
+      "description": "Overall response rate was defined as the proportion of patients with best overall response of complete response (CR) or partial response (PR) among all eligible and treated patients. Best overall response was evaluated using the Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. The 90% two-sided binomial exact confidence interval was calculated for ORR."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2015-08-12",
+  "completion_date": "2026-03-19",
+  "last_updated": "2025-11-06"
+}

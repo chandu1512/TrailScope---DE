@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT00890955",
+  "brief_title": "Amrubicin + Cyclophosphamide in Advanced Solid Organ Malignancies",
+  "official_title": "A Phase I Study of Amrubicin and Cyclophosphamide in Patients With Advanced Solid Organ Malignancies",
+  "brief_summary": "Amrubicin has shown single-agent activity in lung cancer. The combination of cyclophosphamide and anthracyclines has been studied and concluded that the combination was tolerable, could be given safely, and therapeutically useful.\n\nThis Phase I study will evaluate the combination of cyclophosphamide with amrubicin in relapsed solid tumors and will define the MTD of the combination in a US population.",
+  "detailed_description": "OUTLINE: This is a multi-center study.\n\nThis study will follow the 3+3 design with the following dose levels:\n\n* Dose Level -1: Amrubicin 20mg/m2, Cyclophosphamide 500mg/m2\n* Dose Level 1: Amrubicin 25mg/m2, Cyclophosphamide 500mg/m2\n* Dose Level 2: Amrubicin 30mg/m2, Cyclophosphamide 500mg/m2\n* Dose Level 3: Amrubicin 35mg/m2, Cyclophosphamide 500mg/m2\n* Dose Level 4: Amrubicin 40mg/m2, Cyclophosphamide 500mg/m2\n\nDose escalation starts from dose level 1.\n\nAmrubicin will be given as a slow IV push or infusion over approximately 5 minutes once daily for 3 consecutive days starting on day 1 of each 21 day cycle.\n\nCyclophosphamide will be given at a fixed dose as an IV infusion over 30-60 minutes on day 1 of each 21 day cycle (following amrubicin).\n\nECOG Performance Status: 0-1\n\nLife expectancy: not specified\n\nHematopoietic:\n\n* Hemoglobin (Hgb) \\> 9 g/dL.\n* Platelets \\> 100 K/mm3\n* Absolute Neutrophil Count (ANC) \\> 1.5 K/mm3\n\nHepatic:\n\n* Aspartate transaminase (AST) \u2264 2.5 x ULN\n* Alanine transaminase (ALT) \u2264 2.5 x ULN\n* Total bilirubin \\< 1.5 x ULN\n\nRenal:\n\n* Calculated creatinine clearance \u2265 60cc/min\n\nCardiovascular:\n\n* Left Ventricular Ejection Fraction (LVEF) \u2265 LLN for institution within 60 days prior to registration for protocol therapy.\n* No history of cardiomyopathy or uncontrolled heart arrhythmia.\n\nPulmonary:\n\n* No suspected, diffuse idiopathic interstitial lung disease or history of pulmonary fibrosis.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 36,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Amrubicin",
+      "type": "DRUG",
+      "description": "* Dose Level -1: 20mg/m2\n* Dose Level 1: 25mg/m2\n* Dose Level 2: 30mg/m2\n* Dose Level 3: 35mg/m2\n* Dose Level 4: 40mg/m2\n\nAmrubicin will be given as a slow IV push or infusion over approximately 5 minutes once daily for 3 consecutive days starting on day 1 of each 21 day cycle."
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Cyclophosphamide will be given at a fixed dose as 500mg/m2 IV infusion over 30-60 minutes on day 1 of each 21 day cycle (following amrubicin)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed advanced solid organ malignancy that is refractory to currently available therapies or for which no effective therapy exists.\n* Must have measurable or evaluable disease per RECIST as evaluated by imaging within 30 days prior to registration for protocol therapy.\n* Must have completed chemotherapy at least 28 days prior to registration for protocol therapy and recovered from the acute toxic effects.\n* Prior radiation therapy is allowed to \\< 25% of the bone marrow. Patients must have recovered from the acute toxic effects of radiation prior to registration for protocol therapy.\n* Must be willing to consent to the blood sample collection for SNP analysis.\n* Females of childbearing potential and males must be willing to use an effective method of contraception (hormonal or barrier method of birth control; abstinence) from the time of consent until at least 30 days following completion of protocol therapy.\n* Females of childbearing potential must have a negative pregnancy test within 7 days prior to registration for protocol therapy. Patients are considered not of child bearing potential if they are surgically sterile (they have undergone a hysterectomy, bilateral tubal ligation, or bilateral oophorectomy) or they are postmenopausal.\n* Written informed consent and HIPAA authorization for release of personal health information.\n* Age \\> 18 years.\n\nExclusion Criteria:\n\n* No prior therapy with cyclophosphamide or anthracyclines.\n* No treatment with any investigational agent within 28 days prior to registration for protocol therapy.\n* No suspected, diffuse idiopathic interstitial lung disease or history of pulmonary fibrosis.\n* No evidence of severe or uncontrolled other systemic disease or any concurrent condition which in the investigator's opinion makes it undesirable for the patient to participate in the trial or which would jeopardize compliance with the protocol.\n* No symptomatic brain metastases. Patients with treated brain metastasis must be off steroids and must have completed radiation at least 21 days prior to registration for protocol therapy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Helen F. Graham Cancer Center",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center Extramural Research Program",
+      "city": "Rockledge",
+      "state": "Pennsylvania",
+      "zip": "19046",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To determine the maximum tolerated dose (MTD) and dose limiting toxicities (DLTs) of the combination of amrubicin and cyclophosphamide in patients with advanced solid tumors.",
+      "timeFrame": "24 months",
+      "description": ""
+    }
+  ],
+  "sponsor": "Lawrence Einhorn",
+  "collaborators": [
+    "Celgene Corporation",
+    "Hoosier Cancer Research Network"
+  ],
+  "start_date": "2009-03",
+  "completion_date": "2010-07",
+  "last_updated": "2015-12-21"
+}

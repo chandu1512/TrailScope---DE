@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT07224971",
+  "brief_title": "Impact of Circadian Rhythm on Immunotherapy",
+  "official_title": "Assessing the Impact of Circadian Rhythm on Anti-PD-1/PD-L1 Immunotherapy",
+  "brief_summary": "This study aims to determine whether morning versus afternoon treatment impacts efficacy of (standard of care) immunotherapy in a broad patient population. Patients with any type of advanced/metastatic malignancy are eligible to enroll in this study, as long as first-line anti-PD-1/PD-L1 immunotherapy is on label for their condition. Participants will then be randomized to either the early treatment group (administration must start and conclude by 11:00 AM +1 hour window) or the late treatment group (administration must start after 12:00 PM).",
+  "detailed_description": "The US market has many FDA approved options for anti-PD-1/PD-L1 immunotherapies, including pembrolizumab, nivolumab, cemiplimab, durvalumab, dostarlimab, avelumab, and atezolizumab, among others that are in development. With an estimated 56.55% of cancer patients eligible for treatment with anti-PD-1/PD-L1 immunotherapy (as of 2023), the impact of timing on immunotherapy efficacy should be delineated in order to provide the best care possible to patients This study will be implemented at a large regional cancer center in the United States. Three patient cohorts will be investigated: Non-Small Cell Lung Cancer (NSCLC) patients who receive first-line ICI therapy (Cohort A), NSCLC patients with stable disease or response after induction therapy receiving maintenance ICI therapy (Cohort B), and solid tumor patients receiving first-line ICI therapy (Cohort C).\n\nTo the best the knowledge of this principal investigator, this is the first prospective time-of-day immunotherapy study to take place in the US. Key endpoints include real-world progression free survival (rwPFS)\\[26\\], overall survival (OS), safety, quality of life (QoL), and pharmacoeconomic outcomes.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 350,
+  "conditions": [
+    "Advanced/Metastatic NSCLC"
+  ],
+  "interventions": [
+    {
+      "name": "Immunotherapy - PD-1 Blocker",
+      "type": "DRUG",
+      "description": "Standard of Care Drugs (at investigator's discretion) may include: pembrolizumab, nivolumab, cemiplimab, durvalumab, dostarlimab, avelumab, and atezolizumab, or other immune checkpoint inhibitors used in cancer treatment that targets cancer cells by blocking the PD-1 receptor on T cells."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Cohort Specific Criteria\n\n   * Cohort A: Advanced/metastatic NSCLC patients for which 1st line PD-1/PD-L1 therapy is on-label either alone or in combination.\n   * Cohort B: Advanced/metastatic NSCLC patients who have completed up to 4 cycles of induction therapy who have stable disease or responsive disease and for which maintenance anti-PD-1/PD-L1 therapy is on-label either alone or in combination.\n   * Cohort C: Advanced/metastatic solid tumor malignancy for which first-line anti-PD-1/PD-L1 therapy is on-label either alone or in combination.\n2. Prior and concurrent therapy criteria\n\n   o Patients should be ICI-na\u00efve (this should be first-line therapy) (Cohorts A and C), or should have received ICI induction therapy and are now eligible for ICI maintenance therapy (Cohort B).\n3. Must be willing to be randomized to complete therapy at assigned time of day, which may be early in the morning OR later in the day/into the evening.\n4. Must be eligible to receive anti-PD-1/PD-L1 therapy singly or in combination with other FDA-approved agents according to standard of care practices, as determined by the clinical judgment of the investigator but according to approved label indications\n5. Must have the ability to understand and the willingness to sign a written informed consent document.\n6. Able to read and write in English.\n\nExclusion Criteria:\n\n1\\. Participant unable to receive anti-PD-1/PD-L1 therapy due to prior allergic reactions to therapy or any therapy ingredients.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Real-world progression-free survival (rwPFS) - Cohort A",
+      "timeFrame": "Up to 4.5 years",
+      "description": "Time from first dose of 1st line treatment to clinician documented clinical disease progression, initiation of new line of therapy, or death from any cause, whichever comes first. Real-world progression-free survival (rwPFS), defined as the time from first dose of 1st line treatment to clinician documented clinical disease progression, initiation of new line of therapy, or death from any cause, whichever came first. Per RECISIT v1.1, Progressive Disease: \u226520% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). The sum must also demonstrate an absolute increase of \u22655 mm. The appearance \u22651 new lesion(s) is considered progression."
+    }
+  ],
+  "sponsor": "Liza Villaruz, MD",
+  "collaborators": [],
+  "start_date": "2025-12-02",
+  "completion_date": "2030-05-01",
+  "last_updated": "2025-12-02"
+}

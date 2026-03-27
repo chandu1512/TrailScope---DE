@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT00600015",
+  "brief_title": "Sorafenib/Erlotinib Versus Erlotinib Alone in Previously Treated Advanced Non-Small-Cell Lung Cancer (NSCLC)",
+  "official_title": "A Randomized Double-Blind Placebo-Controlled Phase II Trial of Sorafenib and Erlotinib or Erlotinib Alone in Previously Treated Advanced Non-Small Cell Lung Cancer",
+  "brief_summary": "This trial will investigate the use of the newer targeted agents erlotinib and sorafenib in patients with stage IIIB or stage IV NSCLC who have received 1-2 prior chemotherapy regimens. Patients will be randomized to receive erlotinib (150 mg/day) and sorafenib (400 mg twice daily), or erlotinib (150 mg/day) and a placebo.",
+  "detailed_description": "The rationale of this study is to combine two distinct kinase inhibitors to evaluate synergistic inhibition of angiogenesis and epidermal growth factor receptor (EGFR) signaling. Erlotinib is a oral tyrosine kinase inhibitor that targets EGFR. Sorafenib is a oral tyrosine kinase inhibitor targeting vascular endothelial growth factor receptor (VEGFR), platelet derived growth factor receptor beta, Raf-1, Flt-3, and C-kit. These agents also do not exhibit overlapping adverse event profiles which provided additional support for studying this combination therapy.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 166,
+  "conditions": [
+    "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Erlotinib + Sorafenib",
+      "type": "DRUG",
+      "description": "Patients who are randomized to Cohort A will take sorafenib 400 mg (2 x 200-mg tablets) orally twice a day, and erlotinib 150 mg orally once a day."
+    },
+    {
+      "name": "Erlotinib + Placebo",
+      "type": "DRUG",
+      "description": "Patients who are randomized to Cohort B will take erlotinib 150 mg orally once a day and placebo orally twice a day."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed locally advanced or metastatic NSCLC (unresectable stage IIIB or stage IV). Eligible histologies include adenocarcinoma and squamous cell carcinoma. Patients with recurrent disease after treatment for localized NSCLC are also eligible. Cytologic specimens obtained by brushings, washings, or needle aspiration are acceptable.\n* At least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded) as \\>= 20 mm with conventional techniques, or as \\>= 10 mm with spiral computerized tomography (CT) scan according to the Response Evaluation Criteria in Solid Tumors (RECIST).\n* Failure of at least one, and no more than two prior cytotoxic chemotherapy regimens for advanced disease (either due to progressive disease or toxicity).\n* Recovery from any toxic effects of prior therapy to \\<= grade 1.\n* Completion of radiation therapy at least 28 days prior to the start of study treatment (not including palliative local radiation). Previously irradiated lesions in the advanced setting cannot be included as target lesions unless clear tumor progression has been observed since the end of radiation.\n* An ECOG performance status of 0-2.\n* Absolute neutrophil count (ANC) \\>= 1,500, platelets \\>= 75,000.\n* Hemoglobin \\>= 9 g/dL (within 7 days prior to study treatment).\n* International normalized ratio (INR) \\<= 1.5 or prothrombin time (PT)/partial thromboplastin time (PTT) within normal limits (WNL) of the institution\n* Serum creatinine \\<= 1.5 x institutional upper limit of normal (ULN) within 7 days prior to study treatment.\n* Transaminases \\<= 3 x institutional ULN\n* Agreement of female patients of childbearing potential and male patients who have partners of childbearing potential to use an effective form of contraception to prevent pregnancy during treatment, and for a minimum of 90 days thereafter.\n* Patients who have treated brain metastases \\>= 4 weeks out (with surgery and/or radiation therapy) and no evidence of CNS progression.\n\nExclusion Criteria:\n\n* Past or current history of neoplasm (other than the entry diagnosis), with the exception of treated non-melanoma skin cancer or carcinoma in-situ of the cervix, or other cancers cured by local therapy alone, and a disease-free survival (DFS) \\>= 3 years.\n* Patients who have mixed tumors with small-cell elements are ineligible.\n* Pregnancy or lactation.\n* Prior treatment with EGFR TKIs or VEGFR TKIs for NSCLC. \\[NOTE: prior cetuximab and/or bevacizumab use is permitted\\].\n* Significant cardiac disease within 90 days of starting study treatment\n* Myocardial infarction within 6 months prior to initiation of study treatment.\n* Cardiomegaly on chest imaging or ventricular hypertrophy on electrocardiogram (ECG)\n* Poorly controlled hypertension\n* Unstable angina (anginal symptoms at rest).\n* Cardiac ventricular arrhythmias requiring anti-arrhythmic therapy.\n* Presence of cardiac disease that, in the opinion of the investigator, increases the risk of ventricular arrhythmia.\n* A serious underlying medical condition that would impair the ability of the patient to receive protocol treatment.\n* A major surgical procedure, open biopsy, or significant traumatic injury within 28 days of beginning treatment, or anticipation of the need for major surgery during the course of the study.\n* Stroke or transient ischemic attack (TIA) within the past 6 months.\n* Any prior history of hypertensive crisis or hypertensive encephalopathy.\n* Pulmonary hemorrhage/bleeding event \\>= grade 2 within 28 days of study treatment.\n* Any other non-pulmonary hemorrhage/bleeding event \\>= grade 3 within 28 days of study treatment.\n* Evidence or history of bleeding diathesis or coagulopathy.\n* Serious non-healing wound, ulcer, or bone fracture.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Center for Cancer and Blood Disorders",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Objective Response Rate (ORR)",
+      "timeFrame": "18 months",
+      "description": "Overall response rate (ORR) is defined as the percentage of patients who have a partial or complete response to therapy. Responses were assessed by the Response Evaluation Criteria in Solid Tumors (RECIST; version 1.0).\n\nComplete Response: Disappearance of all target lesions, and disappearance of all non-target lesions.\n\nPartial Response: At least a 30% decrease in the sum of the longest diameter of target lesions (taking as reference the baseline sum of longest diameters)"
+    },
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "18 months",
+      "description": "Progression-free survival is defined as the time from the first day of treatment until the day tumor progression was documented. Response was evaluated using the Response Evaluation Criteria in Solid Tumors (RECIST).\n\nProgressive Disease (PD): Appearance of one or more new lesions and/or unequivocal progression of existing non-target lesions"
+    },
+    {
+      "measure": "Disease Control Rate (DCR)",
+      "timeFrame": "18 months",
+      "description": "Disease Control Rate (DCR) is defined as the percentage of patients who have a partial/complete/stable response to therapy. Responses were assessed by the Response Evaluation Criteria in Solid Tumors (RECIST; version 1.0).\n\nComplete Response: Disappearance of all target lesions, and disappearance of all non-target lesions.\n\nPartial Response: At least a 30% decrease in the sum of the longest diameter of target lesions (taking as reference the baseline sum of longest diameters) Stable Response: Neither sufficient shrinkage to qualify for partial response, nor sufficient increase to qualify for progressive disease (taking as reference the smallest sum of diameters since the treatment started)."
+    }
+  ],
+  "sponsor": "SCRI Development Innovations, LLC",
+  "collaborators": [
+    "Bayer"
+  ],
+  "start_date": "2008-02",
+  "completion_date": "2009-02",
+  "last_updated": "2022-02-15"
+}

@@ -1,0 +1,55 @@
+{
+  "nct_id": "NCT02852252",
+  "brief_title": "Solid Tumor Cancer Surgery With or Without Intraoperative Imaging: A Registry",
+  "official_title": "Solid Tumor Cancer Surgery With or Without Intraoperative Imaging: A Registry Optional Sub-Study I: ICG Optional Sub-Study II: OTL38",
+  "brief_summary": "The study objective is to collect prospective data on cancer patients who undergo surgery and intraoperative imaging. The registry will include (but not limited to) cancer type, stage, intraoperative challenges to the surgeon, usage and results of intraoperative imaging, and recurrence surveillance.",
+  "detailed_description": "Our objective is to collect prospective data on cancer subjects who undergo surgery and intraoperative imaging. The registry will include (but not limited to) cancer type, stage, intraoperative challenges to the surgeon, usage and results of intraoperative imaging, and recurrence surveillance.\n\nIn this protocol, subjects that receive intraoperative imaging will provide us the opportunity to record what tissues fluoresce in the operating room, and then to identify if these lesions are cancer when the histopathology is performed. Also, we will monitor any side effects or potential toxicities that may occur. This data can then be used to predict if a subject is more likely to develop a local recurrence due to missed cancer cells, metastatic lymph nodes or synchronous lesions.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 291,
+  "conditions": [
+    "Bladder Cancer",
+    "Gastric Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "OTL38",
+      "type": "DRUG",
+      "description": "Patients will be given imaging agent 2-3 hours before surgery to assist in imaging."
+    },
+    {
+      "name": "ICG",
+      "type": "DRUG",
+      "description": "Patients will be given imaging agent 24 hours before surgery to assist in imaging."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adult patients \\>/= 18 years of age.\n* Patients presenting with esophagogastric or bladder cancer.\n* Good operative candidate as determined by the treating physician and/or multidisciplinary team.\n* Subject capable of giving informed consent and participating in the process of consent.\n\nExclusion Criteria:\n\n* Pregnant women as determined by urinary or serum beta hCG within 72 hours of surgery.\n* Vulnerable patient population.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Tissue to Background Ratio",
+      "timeFrame": "2 years",
+      "description": "Enhance ability to detect malignant tissues in situ and ex vivo."
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [],
+  "start_date": "2016-07",
+  "completion_date": "2020-02",
+  "last_updated": "2021-06-11"
+}

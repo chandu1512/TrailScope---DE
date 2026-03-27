@@ -1,0 +1,89 @@
+{
+  "nct_id": "NCT05679349",
+  "brief_title": "Support and Outreach to Increase Screening for Lung Cancer in Patients With a History of Smoking",
+  "official_title": "Provider Support and Patient Outreach in Lung Cancer Screening",
+  "brief_summary": "This clinical trial tests how well providing education improves screening for lung cancer in patients with a history of smoking. Screenings may help doctors find lung cancer sooner when it may be easier to treat. Education and counseling may be an effective method to help providers and patients learn about lung cancer screening. Providing education and decision counseling to providers and patients may increase lung cancer screening.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. Assess intervention impact on lung cancer screening (LCS). II. Assess intervention impact on shared decision making (SDM).\n\nSECONDARY OBJECTIVES:\n\nI. Identify mediators and moderators of LCS. II. Assess intervention implementation barriers and facilitators.\n\nEXPLORATORY OBJECTIVES:\n\nI. Assess intervention impact on:\n\nIa. LCS referral; Ib. Tobacco treatment services referral; Ic. Repeat annual LCS among participants with a normal initial screening result; Id. Follow-up diagnostic evaluation for participants with an abnormal screening result.\n\nOUTLINE: Providers are randomized to 1 of 2 groups. Patients are randomized to 1 of 2 groups.\n\nPROVIDERS:\n\nGROUP A: PROVIDER SUPPORT GROUP: Participants complete survey on study. Participants undergo online educational activity on study. Participants undergo distance learning on study.\n\nGROUP B: PROVIDER CONTROL GROUP: Participants complete survey at baseline and end of study survey.\n\nPATIENTS:\n\nGROUP A: Patients undergo electronic health records (EHR) review on study. Patients undergo educational activity on study. Patients also undergo SDM counseling once on study.\n\nGROUP B: Patients undergo EHR review on study and complete telephone survey throughout the trial.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 822,
+  "conditions": [
+    "Lung Carcinoma",
+    "Tobacco-Related Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Survey Administration",
+      "type": "OTHER",
+      "description": "Complete survey"
+    },
+    {
+      "name": "Educational Activity",
+      "type": "OTHER",
+      "description": "Undergo online shared decision making training and distance learning"
+    },
+    {
+      "name": "Survey Administration",
+      "type": "OTHER",
+      "description": "Complete survey"
+    },
+    {
+      "name": "Electronic Health Record Review",
+      "type": "OTHER",
+      "description": "Undergo electronic health record review"
+    },
+    {
+      "name": "Educational Activity",
+      "type": "OTHER",
+      "description": "Undergo online shared decision making training and distance learning"
+    },
+    {
+      "name": "Counseling",
+      "type": "OTHER",
+      "description": "Undergo shared decision making counseling"
+    },
+    {
+      "name": "Survey Administration",
+      "type": "OTHER",
+      "description": "Complete survey"
+    },
+    {
+      "name": "Electronic Health Record Review",
+      "type": "OTHER",
+      "description": "Undergo electronic health record review"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* PRACTICE LEVEL:\n* Primary care practice (family medicine, geriatrics, internal medicine) in one of the 4 participating health systems\n* Practice using the main electronic medical record (EMR) of each system, in order to run appropriate patient recruitment reports\n* Practice with at least 50% of practice providers (physicians and advanced care providers) consenting to participate\n* PATIENT LEVEL:\n* Have an office or telemedicine established patient visit scheduled with a primary care provider in one of the participating practices within next 14 to 25 days\n* 50 to 77 years of age\n* Have at least a 20-pack-year smoking history (based on self-report at baseline eligibility assessment)\n* Currently smoke or have quit smoking within the past 15 years (based on self-report at baseline eligibility assessment)\n* Able to communicate in English or Spanish (determined at baseline eligibility assessment)\n\nExclusion Criteria:\n\n* PATIENT OUTREACH:\n* Any lung computed tomography (CT) or low-dose computed tomography (LDCT) scan in the past 11 months, current procedural terminology (CPT) Codes are as follows\n\n  * G0297 - LDCT screening\n  * 71250 - CT w/o contrast\n  * 71260 - CT w/ contrast\n  * 71270 - CT with and w/o contrast\n  * 71275 - CT angiography chest\n  * 78815 - Positron emission tomography computed tomography (PET CT) skull base to mid-thigh\n  * 78816 - PET CT whole body\n* Prior history of lung cancer (The patient's problem list includes a problem with an international classification of diseases (ICD10) code of \"Z85.118\" or one beginning with \"C34.\", or by self-report at baseline eligibility assessment)\n* Recent hospitalization (Admission date within the last 60 days listed in electronic health record (EHR), or by self-report at baseline eligibility assessment)\n* Dementia (diagnosis codes F03.90 or F03.91) in EHR",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "77 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Completion of initial lung cancer screening (LCS)",
+      "timeFrame": "Within 4 months of randomization",
+      "description": "LCS will be assessed through an endpoint electronic medical records (EMR) search, supplemented with a question on the participant endpoint survey to capture any LCS performed outside the health system and/or not captured in the EMR."
+    }
+  ],
+  "sponsor": "Ronald Myers",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2024-04-01",
+  "completion_date": "2027-04-30",
+  "last_updated": "2025-04-29"
+}

@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT01125800",
+  "brief_title": "A Phase I Dose Finding and Safety Study of Oral LDE225 in Children and a Phase II Portion to Assess Preliminary Efficacy in Recurrent or Refractory MB",
+  "official_title": "A Phase I/II Study of LDE225 in Pediatric Patients With Recurrent or Refractory Medulloblastoma or Other Tumors Potentially Dependent on the Hedgehog-signaling Pathway and Adult Patients With Recurrent or Refractory Medulloblastoma",
+  "brief_summary": "Phase I dose-escalation study to characterize the safety, tolerability, pharmacokinetics and pharmacodynamics of LDE225 given orally on a daily dosing schedule in children with recurrent or refractory medulloblastoma, or other tumors potentially dependent on Hedgehog signaling pathway.\n\nPhase II study is to assess preliminary efficacy in both adult and pediatric patients with recurrent or refractory MB.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 76,
+  "conditions": [
+    "Medulloblastoma",
+    "Rhabdomyosarcoma",
+    "Neuroblastoma",
+    "Hepatoblastoma",
+    "Glioma",
+    "Astrocytoma"
+  ],
+  "interventions": [
+    {
+      "name": "LDE225",
+      "type": "DRUG",
+      "description": "LDE225/sonidegib capsules were supplied to the Investigators at dose strengths of 50 mg, 100 mg, 200 mg, and 250 mg."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Phase I - Patients aged \u226512 months and \\<18 years, Phase II - Patients \u226512 months\n* Phase I - Histologically confirmed diagnosis of medulloblastoma, rhabdomyosarcoma, neuroblastoma, hepatoblastoma, high grade glioma, or osteosarcoma, that has progressed despite treatment with standard therapies, or for which no standard treatments are available (patients with brainstem gliomas are excluded). Phase II - Histologically confirmed diagnosis of recurrent or relapsed medulloblastoma with at least one measurable lesion.\n* Performance Status: Karnofsky \u226560% for patients \\>10 yrs, Lansky \u226550 for patients less than or equal to 10 yrs\n* Protocol-defined renal , liver and bone marrow function\n* Negative pregnancy test before starting study treatment. If of child bearing potential must use 'highly effective' methods of contraception.\n* All patients must consent to provide a tumor sample\n\nExclusion Criteria:\n\n* Systemic anti-cancer treatment within 2 weeks prior to first dose (6 weeks for nitrosourea, mitomycin and monoclonal antibodies).\n* Focal radiotherapy within 4 weeks prior to first dose, or full spinal radiotherapy within 3 months of first dose.\n* Unresolved toxicity greater than CTCAE grade 1 from previous anti-cancer therapy or radiotherapy (excluding neurotoxicity, alopecia, ototoxicity, lymphopenia or other specifications in the eligibility criteria for this study), or incomplete recovery from previous surgery, unless agreed by Novartis and the Principal Investigator (PI) and documented.\n* Major surgery, serious illness or traumatic injury within 2 weeks of starting study therapy. Patients anticipated to require major surgery within the first 2 cycles of treatment.\n* Patients requiring a nasogastric tube for drug administration (G-tubes are permitted)\n* Impaired cardiac function\n* Pregnant or breast-feeding females\n* Impairment of gastrointestinal (GI) function or GI disease\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "gender": "ALL",
+    "min_age": "12 Months",
+    "max_age": "18 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center/Johns Hopkins Med. John Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Dose-limiting Toxicities (DLT) in Phase I",
+      "timeFrame": "Baseline, End of dose escalation part (Day 42)",
+      "description": "DLT was defined as an adverse event (AE) or abnormal laboratory value assessed as unrelated to disease, disease progression, intercurrent illness, or concomitant medications. DLT included any grade 3 or 4 clinically-evident toxicity, Hematology: \u2265 CTCAE grade 3 neutropenia (ANC \\<1.0x10\\^9/L); \u2265 CTCAE grade 3 thrombocytopenia (platelets \\<50x10\\^9/L); \u2265 CTCAE grade 3 anemia (Hgb \\<80 g/L); Febrile neutropenia (ANC \\<1x10\\^9/L, fever \u2021 38.5\u00b0C), Renal: \u2265 CTCAE grade 3 serum creatinine (\\>3xULN), Hepatic: \u2265 CTCAE grade 3 total bilirubin (\\>3xULN); \u2265 10xULN ALT elevation; grade 2 total bilirubin (\\>1.5ULN) together with \u2265 grade 3 ALT elevation (\\>5xULN), Cardiac: \u2265 CTCAE grade 3, Other AEs: \u2265 CTCAE grade 3 vomiting or nausea despite optimal antiemetic therapy, diarrhea despite optimal antidiarrheal treatment."
+    },
+    {
+      "measure": "Maximum Tolerated Dose (MTD) of Sonidegib for Prolonged Use",
+      "timeFrame": "Baseline, End of dose escalation part (Day 42)",
+      "description": "MTD was defined as highest dose level for which no more than 1 participant in a dose cohort experienced dose-limiting toxicity (DLT), based on Bayesian logistic regression model (BLRM) employing the escalation with overdose control (EWOC) principle. DLT was defined as an adverse event (AE) or abnormal laboratory value assessed as unrelated to disease, disease progression, intercurrent illness, or concomitant medications.k"
+    },
+    {
+      "measure": "Percentage of Participants With Objective Response Rate (ORR) by Treatment",
+      "timeFrame": "Baseline, Day 28 of Cycle 2, End of treatment (Within 14 days of last dose)",
+      "description": "The tumor response to the sonidegib treatment was measured by ORR. The ORR was defined as the percentage of participants with partial response or complete response as their best overall response. Participants with stable disease, progressive disease tumor assessment were considered as non-responders. Response evaluation criteria was gadolinium chelate-enhanced brain tumor magnetic resonance imaging (Gd-MRI) for Medulloblastoma and central nervous system (CNS) tumors and response evaluation criteria in solid tumors (RECIST) version 1.0 for non-CNS tumors assessed by MRI. Complete Response (CR), Progressive Disease (PD) and Incomplete Response/Stable Disease (SD) were defined as disappearance of all non-target lesions, unequivocal progression of existing non-target lesions and Neither CR nor PD, respectively."
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2011-02",
+  "completion_date": "2014-10",
+  "last_updated": "2017-02-13"
+}

@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT01885299",
+  "brief_title": "RSSearch Patient Registry-Long Term Study of Use of SRS/SBRT",
+  "official_title": "Multi-Institution Registry of SRS/SBRT Procedures",
+  "brief_summary": "The RSSearch\u00ae Registry is an international multi-year database designed to track SRS/SBRT (Stereotactic Radiosurgery/Stereotactic Body Radiation Therapy) utilization, treatment practices and outcomes to help determine, over time, the most effective use of these systems in management of patients with life threatening tumors and other diseases. (This study was formally called ReCKord and included the CyberKnife only; The ReCKord study continues as a CyberKnife subset of RSSearch.)",
+  "detailed_description": "The Registry is designed to help SRS/SBRT (Stereotactic Radiosurgery/Stereotactic Body Radiation Therapy) users to understand utilization of and key treatment outcomes for these treatment approaches. Some of the objectives include:\n\nAllow participants to record information about usage of SRS/SBRT in everyday practice, including patient characteristics and disease information, treatment plans and outcomes Provide participants with ready access to data for publication of their own experience and as a tool for establishing collaborations with other participating sites Facilitate quality improvement efforts for individual treatment providers Understand the effectiveness of different treatment plans for different types of lesions, diseases and treatments\n\nThe Registry tracks select outcomes for each condition treated by SRS/SBRT (for example, PSA for prostate cancer); the Registry also provides individual participants the ability to add additional outcomes for each and any condition of specific interest to their institutions.\n\nThe Registry is hosted by Vision Tree, Inc who is an independent vendor of electronic registries; they are responsible for HIPAA compliance, including all security mechanisms.\n\nPatients will be enrolled prospectively. Some retrospective patient data is likely to be included in order to capture both short and longer term outcomes data.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 50000,
+  "conditions": [
+    "Neoplasms",
+    "Arteriovenous Malformation of Central Nervous System",
+    "Trigeminal Neuralgia"
+  ],
+  "interventions": [
+    {
+      "name": "SRS/SBRT",
+      "type": "RADIATION",
+      "description": "Intervention varies by condition being treated."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Diagnosis of benign or malignant tumors or other conditions deemed treatable by stereotactic radiosurgery or stereotactic body radiotherapy\n* Willingness to sign an Informed Consent Document or verbally agree to participation\n\nExclusion Criteria:\n\n* There are no specific exclusion criteria, but patients who are unwilling to sign the ICD or who decline participation will not be included",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "AtlantiCare Regional Medical Center and AtlantiCare Cancer Care Institute",
+      "city": "Egg Harbor",
+      "state": "New Jersey",
+      "zip": "08234",
+      "status": "ENROLLING_BY_INVITATION"
+    },
+    {
+      "facility": "Riverview Medical Center",
+      "city": "Red Bank",
+      "state": "New Jersey",
+      "zip": "07701",
+      "status": "ENROLLING_BY_INVITATION"
+    },
+    {
+      "facility": "NJ Cyberknife at Community Medical Center",
+      "city": "Toms River",
+      "state": "New Jersey",
+      "zip": "08755",
+      "status": "ENROLLING_BY_INVITATION"
+    },
+    {
+      "facility": "Geisinger Health System",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": "ENROLLING_BY_INVITATION"
+    },
+    {
+      "facility": "Philadelphia CyberKnife",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19083",
+      "status": "ENROLLING_BY_INVITATION"
+    },
+    {
+      "facility": "Pottstown Memorial Medical Center",
+      "city": "Pottstown",
+      "state": "Pennsylvania",
+      "zip": "19464",
+      "status": "ENROLLING_BY_INVITATION"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall survival",
+      "timeFrame": "Up to 5 years",
+      "description": "Survival from time of treatment to death"
+    }
+  ],
+  "sponsor": "The Radiosurgery Society",
+  "collaborators": [
+    "VisionTree"
+  ],
+  "start_date": "2012-03",
+  "completion_date": "2030-12",
+  "last_updated": "2024-09-17"
+}

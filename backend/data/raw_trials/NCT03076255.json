@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT03076255",
+  "brief_title": "Using a Head and Neck Maskless Immobilization Device For Patients With Intracranial Tumors",
+  "official_title": "A Single Institution Pilot Study Using a Head and Neck Maskless Immobilization Device (MID) for Patients With Head and Neck Cancer or Intracranial Tumors",
+  "brief_summary": "This pilot clinical trial studies how well head and neck maskless immobilization device works in immobilizing patients with head and neck cancers or intracranial tumors undergoing radiation therapy. Maskless immobilization device may help to prevent movement of head during radiation therapy and immobilize patients with the same accuracy and reliability as the standard thermoplastic mask routinely used for patients receiving radiation therapy.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To assess the setup accuracy and reproducibility of the maskless immobilization device (MID) in patients being treated for head and neck cancers or intracranial tumors who require radiation therapy\n\nSECONDARY OBJECTIVES:\n\nI. To assess the patient comfort and quality of life with the MID compared to the thermoplastic mask.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 12,
+  "conditions": [
+    "Brain and Nervous System",
+    "Intracranial Neoplasm",
+    "Head and Neck Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Computed Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo CT simulation"
+    },
+    {
+      "name": "Medical Device",
+      "type": "DEVICE",
+      "description": "Given thermoplastic mask"
+    },
+    {
+      "name": "Medical Device",
+      "type": "DEVICE",
+      "description": "Given MID"
+    },
+    {
+      "name": "Cone-Beam Computed Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo CBCT imaging"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients being treated for head and neck cancers who require radiation therapy or intracranial tumors, over a 2 to 7 week period of time\n* Age \u2265 18 years old\n* Subjects are capable of giving informed consent or have an acceptable surrogate capable of giving consent on the subject's behalf\n* Provide signed and dated informed consent form\n\nExclusion Criteria\n\n* History of prior trauma or orthopedic surgery to the cervical vertebral column/spine, which may interfere with the RT planning process\n* Patient requires a neck brace for medical reasons\n* Skull or bony defect in the area contacting the immobilization straps\n* RT delivered by clinical setup only (no CT simulation)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Accuracy Measured by Quantifying the Difference in Translational Shifts From the Daily Setup to Planning CT Scan Digitally Reconstructed Radiograph",
+      "timeFrame": "Baseline to Day 15, an average of 31 days",
+      "description": "The primary endpoints are to assess the setup accuracy and reproducibility with the Maskless Immobilization Device. Accuracy will be measured by quantifying the difference in translational shifts from the daily setup to planning CT scan digitally reconstructed radiograph (DRR). The magnitude of shifts will be compared to the shifts required using the gold standard thermoplastic mask. Translational shifts is defined as measuring the shifts in cm between the daily setup and the planning setup."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2017-02-24",
+  "completion_date": "2020-11-03",
+  "last_updated": "2025-09-25"
+}

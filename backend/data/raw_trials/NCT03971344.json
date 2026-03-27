@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT03971344",
+  "brief_title": "Impact of Serious Pediatric Illness on Parent and Sibling Health",
+  "official_title": "Impact of Serious Pediatric Illness on Parent and Sibling Health",
+  "brief_summary": "To estimate the impact of having a child with serious illness (SI) on the health and healthcare of other members of the child's family.",
+  "detailed_description": "Although standard pediatric practice, when caring for a child with serious illness, is to provide support to the child's parents and any siblings, little quantitative information exists regarding what could be considered the \"collateral impact\" on other family members of having a child with serious illness in the family. This study seeks to provide such information, using existing claims data from the health insurance company, Cigna, to identify children with serious illness and then examining the health and health care of their family members. The investigators hypothesize that, compared to control families without a sick child, parents and siblings of children with serious pediatric illness (SPI) will have more new mental and physical health diagnoses, more new prescriptions, increased levels of Emergency Department (ED) and acute care services, and reduced levels of use of recommended chronic disease management for pre-existing conditions and of preventative services.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 161000,
+  "conditions": [
+    "Family Members of: Newborns Extremely Premature",
+    "Family Members of: New Pediatric Oncology Patients",
+    "Family Members of: Critical Congenital Heart Defect Patients",
+    "Family Members of: Children Severe Neurological Impairment"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Cigna customers as follows:\n\n  1. Neonatal Intensive Care Unit (NICU) cohort: infants born at 30 weeks gestational age or less, or with a birthweight less than 1500 grams.\n  2. Critical Congenital Heart Disease (CCHD) cohort: Newborns with critical congenital heart defects who undergo surgery by 12 months of life.\n  3. Oncology cohort: Patients with new onset (not relapses) pediatric oncologic diagnoses including liquid, solid, and brain cancer.\n  4. Severe Neurological Impairment (NI) cohort: Patients with severe neurologic impairments, associated with substantial functional impairment, relentless progressive deterioration, or substantially shortened life-spans.\n* For each index patient in a particular SPI cohort, Investigators randomly identified up to four children of the same ages as the index patient but who do not have the specific SPI. The matching by age was as follows: in months if \\< 3 years; and in years if age \\> or = 3 years. Cigna then identified all family members, using both definitions of \"family members\" described above.\n\nExclusion Criteria:\n\n\\-",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "New mental health diagnoses among parents",
+      "timeFrame": "3 years",
+      "description": "Outcome will be assessed based on diagnoses in de-identified claims data"
+    },
+    {
+      "measure": "New mental health diagnoses among siblings",
+      "timeFrame": "3 years",
+      "description": "Outcome will be assessed based on diagnoses in de-identified claims data"
+    },
+    {
+      "measure": "New physical health diagnoses among parents",
+      "timeFrame": "3 years",
+      "description": "Outcome will be assessed based on diagnoses in de-identified claims data"
+    },
+    {
+      "measure": "New physical health diagnoses among siblings",
+      "timeFrame": "3 years",
+      "description": "Outcome will be assessed based on diagnoses in de-identified claims data"
+    },
+    {
+      "measure": "New mental health prescriptions among parents",
+      "timeFrame": "3 years",
+      "description": "Outcome will be assessed based on prescription data in de-identified claims data"
+    },
+    {
+      "measure": "New mental health prescriptions among siblings",
+      "timeFrame": "3 years",
+      "description": "Outcome will be assessed based on prescription data in de-identified claims data"
+    },
+    {
+      "measure": "New physical health prescriptions among parents",
+      "timeFrame": "3 years",
+      "description": "Outcome will be assessed based on prescription data in de-identified claims data"
+    },
+    {
+      "measure": "New physical health prescriptions among siblings",
+      "timeFrame": "3 years",
+      "description": "Outcome will be assessed based on prescription data in de-identified claims data"
+    }
+  ],
+  "sponsor": "Children's Hospital of Philadelphia",
+  "collaborators": [
+    "Cigna Foundation"
+  ],
+  "start_date": "2020-01-30",
+  "completion_date": "2020-07-31",
+  "last_updated": "2020-08-27"
+}

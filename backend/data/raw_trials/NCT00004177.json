@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT00004177",
+  "brief_title": "Radiolabeled Monoclonal Antibody Plus Peripheral Stem Cell Transplantation in Treating Patients With Refractory or Recurrent Ovarian Epithelial Cancer",
+  "official_title": "Phase I/II Radioimmunotherapy With High-Dose 90Y-Labeled Humanized MN-14 in Advanced Ovarian Cancer Using Autologous Peripheral Blood Stem Cell Rescue (PBSCR) to Control Myelotoxicity",
+  "brief_summary": "RATIONALE: Radiolabeled monoclonal antibodies can locate tumor cells and either kill them or deliver tumor-killing substances to them without harming normal cells. Peripheral stem cell transplantation may be able to replace immune cells that were destroyed by therapy used to kill tumor cells.\n\nPURPOSE: Phase I/II trial to study the effectiveness of radiolabeled monoclonal antibody plus peripheral stem cell transplantation in treating patients who have refractory or recurrent ovarian epithelial cancer.",
+  "detailed_description": "OBJECTIVES: I. Determine the normal organ and tumor dosimetry with yttrium Y 90 monoclonal antibody MN-14 using indium In 111 monoclonal antibody MN-14 as pretherapy in patients with advanced ovarian epithelial cancer. II. Evaluate the extent and duration of antitumor response in these patients on this regimen.\n\nOUTLINE: This is a dose escalation study of yttrium Y 90 monoclonal antibody MN-14 (90Y hMN-14). Patients receive filgrastim (G-CSF) subcutaneously (SQ) on days -17 to -13, followed by leukapheresis on days -14 to -12. If an adequate number of CD34+ cells are not harvested, bone marrow is also collected. Patients receive pretherapy targeting consisting of indium In 111 monoclonal antibody MN-14 over 30 minutes on day -7. At least 1 confirmed tumor site must be targeted. Patients receive 90Y hMN-14 IV over 30-45 minutes on day 0. PBSC is reinfused within 7 to 14 days after 90 hMN-14 administration. Patients receive G-CSF SQ or IV until blood counts recover. Cohorts of 3-6 patients receive escalating doses of 90Y hMN-14 until the maximum tolerated dose (MTD) is determined. The MTD is defined as either the dose at which no more than 1 of 6 patients experiences dose limiting toxicity or the threshold radiation doses to lungs, kidney, and liver are reached. Patients are followed weekly for 1 month, every 2 weeks for 2 months, monthly for 3 months, every 3 months for 2 years, and then every 6 months for 5 years.\n\nPROJECTED ACCRUAL: Approximately 48-51 patients will be accrued for this study within 5 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 15,
+  "conditions": [
+    "Ovarian Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "filgrastim",
+      "type": "BIOLOGICAL",
+      "description": "as prescribed by physician"
+    },
+    {
+      "name": "peripheral blood stem cell transplantation",
+      "type": "PROCEDURE",
+      "description": "1-2 weeks from treatment"
+    },
+    {
+      "name": "indium In 111 monoclonal antibody MN-14",
+      "type": "RADIATION",
+      "description": "intravenous infusion over 30 min; single dose"
+    },
+    {
+      "name": "yttrium Y 90 monoclonal antibody MN-14",
+      "type": "RADIATION",
+      "description": "intravenous infusion over 30 min; single dose"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS: Histologically or cytologically refractory or recurrent ovarian epithelial cancer Resistant to platinum or taxane containing chemotherapy within past 6 months Autologous peripheral blood stem cells (PBSC) or bone marrow available At least 1 measurable site confirmed by CT targeted pretherapy indium In 111 monoclonal antibody MN-14 imaging No bone marrow involvement\n\nPATIENT CHARACTERISTICS: Age: 18 to 80 Performance status: Karnofsky 70-100% ECOG 0-2 Life expectancy: At least 3 months Hematopoietic: WBC at least 3,000/mm3 Granulocyte count at least 1,500/mm3 Platelet count at least 100,000/mm3 Hepatic: Bilirubin no greater than 2.0 mg/dL SGOT less than 2.0 times upper limit of normal (ULN) Renal: Creatinine less than 1.5 times ULN Creatinine clearance at least 50 mL/min Cardiovascular: LVEF at least 50% by MUGA Pulmonary: FVC, FEV1, and DLCO at least 70% of predicted Other: Not pregnant Fertile patients must use effective contraception during and for 3 months after study No AIDS-related illness No concurrent significant medical complications that would preclude compliance No severe anorexia, nausea, or vomiting No history of allergy or antibodies to 90Y hMN-14\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: No prior imaging studies with murine monoclonal antibodies showing reactivity with yttrium Y 90 monoclonal antibody MN-14 (90Y hMN-14) Chemotherapy: At least 4 weeks since prior chemotherapy and recovered Endocrine therapy: Not specified Radiotherapy: At least 4 weeks since prior radiotherapy to index lesion and recovered No prior radiotherapy to greater than 25% of red marrow No prior radiotherapy to maximum tolerated levels for any critical organ (e.g., lung, liver, or kidney) Surgery: At least 4 weeks since prior major surgery Other: No concurrent antiretroviral medication",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Garden State Cancer Center",
+      "city": "Belleville",
+      "state": "New Jersey",
+      "zip": "07103",
+      "status": ""
+    },
+    {
+      "facility": "St. Joseph's Hospital and Medical Center",
+      "city": "Paterson",
+      "state": "New Jersey",
+      "zip": "07503",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "maximum tolerated dose",
+      "timeFrame": "12 weeks",
+      "description": ""
+    }
+  ],
+  "sponsor": "Garden State Cancer Center at the Center for Molecular Medicine and Immunology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "1999-08",
+  "completion_date": "",
+  "last_updated": "2011-06-21"
+}

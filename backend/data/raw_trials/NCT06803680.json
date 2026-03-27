@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT06803680",
+  "brief_title": "A Study of BGB-B455 in Adults With Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase 1, Open-Label Study Investigating the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Antitumor Activity of BGB-B455 in Patients With Selected Advanced or Metastatic Solid Tumors",
+  "brief_summary": "The goal of this clinical trial is to learn if BGB-B455 can treat advanced or metastatic solid tumors expressing claudin 6 (CLDN6), a protein that is found on some tumors.\n\nThe main questions it aims to answer are:\n\n* What is the recommended dosing for BGB-B455?\n* What medical problems do participants have when taking BGB-B455?\n\nThe study has two parts:\n\n* Phase 1a: dose escalation and safety expansion\n* Phase 1b: dose expansion",
+  "detailed_description": "Claudin proteins are cell proteins that can play an important role in how cancer starts and progresses. Because of its preferential expression in tumors compared to normal tissues, CLDN6 is an ideal tumor antigen to target for treatment. BGB-B455 is a bispecific antibody (BsAbs) that targets CLDN6 on tumor cells and the CD3 receptor on T cells, which may provide a CLDN6-dependent antitumor immune response in a more tolerable manner without undue systemic toxicity.\n\nThis new study will check how safe and helpful this potential anticancer drug is. In addition, this study will explore the recommended dosing level for BGB-B455. This drug will be tested by itself or in combination with investigator-selected chemotherapy in participants with selected solid tumors expressing the CLDN6 protein.\n\nThis study is an open label study, meaning that both you and your study doctor will know what study drug/treatment you are given. This study has two parts:\n\n* Phase 1a consists of a dose escalation part where increasing amounts of the study treatment are given to different dose cohorts, and a safety expansion part that will enroll additional participants at selected doses for further assessments.\n* Phase 1b (dose expansion) will enroll participants at the best dose found in Phase 1a to see if it helps people with certain solid tumors.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 90,
+  "conditions": [
+    "Advanced Solid Tumor",
+    "Metastatic Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "BGB-B455",
+      "type": "DRUG",
+      "description": "Planned doses administered on specified days per protocol."
+    },
+    {
+      "name": "Chemotherapy",
+      "type": "DRUG",
+      "description": "Administered in accordance with relevant local guidelines and/or prescribing information."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed advanced or metastatic, and unresectable solid tumors who have previously received standard systemic therapy for advanced or metastatic disease or for whom treatment is not available or not tolerated.\n* Agreement for collection of formalin-fixed paraffin-embedded (FFPE) tumor tissue for central CLDN6 testing and other biomarker assessments.\n* Tumor CLDN6 expression (CDLN6+) by central immunohistochemistry testing is required for certain cohorts.\n* \u2265 1 measurable lesion as assessed by RECIST v1.1.\n* Stable Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.\n* Adequate organ function.\n\nExclusion Criteria:\n\n* Prior systemic anticancer therapy, including chemotherapy, immunotherapy (eg, interleukin, interferon, thymosin), targeted therapy, and antibody drug conjugates (ADCs) that are standard or investigational agents (including herbal medicine or Chinese \\[or other country\\] patent medicines, \u2264 14 days or 5 half-lives (whichever is shorter) before the first dose of study drug(s).\n* Palliative radiation treatment or other locoregional therapies \u2264 14 days before the first dose of study drug(s).\n* Live vaccine \u2264 28 days before the first dose of study drug(s). Vaccines for COVID-19 are allowed except for any live vaccine that may become available. Seasonal vaccines for influenza are generally inactivated vaccines and are allowed. Intranasal vaccines are live vaccines and are not allowed.\n* Any major surgical procedure \u2264 28 days before the first dose of study drug(s).\n* History of prior \u2265 Grade 3 cytokine release syndrome (CRS).\n* Participants with toxicities (because of prior anticancer therapy) that have not recovered to baseline or stabilized, except for adverse events not considered a likely safety risk (eg, alopecia, neuropathy, and specific laboratory abnormalities).\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107-4307",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1a: Number of participants with adverse events (AEs) and serious adverse events (SAEs)",
+      "timeFrame": "From the first dose of study drug(s) to 30 days after the last dose or initiation of a new anticancer therapy, whichever occurs first; up to approximately 7 months",
+      "description": "Number of participants with AEs and SAEs, including laboratory abnormalities, and AEs that meet protocol-defined dose-limiting toxicity (DLT) criteria or protocol-defined adverse events of special interest (AESI) criteria."
+    },
+    {
+      "measure": "Phase 1a: Maximum Tolerated Dose (MTD) or Maximum Administered Dose (MAD) of BGB-B455",
+      "timeFrame": "Approximately 1 month",
+      "description": "MTD is defined as the highest dose evaluated for which estimated toxicity rate is the closest to the target toxicity rate. MAD is defined as the highest dose administered if MTD is not reached."
+    },
+    {
+      "measure": "Phase 1a: RDFE of BGB-B455",
+      "timeFrame": "Approximately 1 month",
+      "description": "RDFE of BGB-B455 will be determined based upon the MTD or MAD."
+    },
+    {
+      "measure": "Phase 1b: Overall Response Rate (ORR)",
+      "timeFrame": "Approximately 18 months",
+      "description": "ORR is defined as the percentage of participants with best overall response of complete response (CR) or partial response (PR), as determined from tumor assessments by investigator per Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v1.1). CR and PR must be confirmed by repeat assessments."
+    }
+  ],
+  "sponsor": "BeiGene",
+  "collaborators": [],
+  "start_date": "2025-03-18",
+  "completion_date": "2027-10-30",
+  "last_updated": "2026-03-03"
+}

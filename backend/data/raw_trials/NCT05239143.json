@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT05239143",
+  "brief_title": "P-MUC1C-ALLO1 Allogeneic CAR-T Cells in the Treatment of Subjects With Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase 1 Dose Escalation and Expanded Cohort Study of P-MUC1C-ALLO1 in Adult Subjects With Advanced or Metastatic Solid Tumors",
+  "brief_summary": "A Phase 1, open label, dose escalation and expanded cohort study of P-MUC1C-ALLO1 in adult subjects with advanced or metastatic epithelial derived solid tumors, including but not limited to the tumor types listed below.",
+  "detailed_description": "This is an open label, multi-center Phase 1 study that will follow a 3 + 3 design of dose-escalating cohorts of single and multiple doses of P-MUC1C-ALLO1 to determine a Recommended Phase 2 Dose (RP2D). P-MUC1C-ALLO1 is an allogeneic chimeric antigen receptor (CAR) T cell therapy designed to target cancer cells expressing Mucin1 cell surface associated C-Terminal (MUC1-C) antigen. Additional participants will be treated with P-MUC1C-ALLO1 at the determined RP2D.\n\nFollowing enrollment, subjects will be treated with P-MUC1C-ALLO1 and will undergo serial measurements of safety, tolerability and response. Rimiducid may be administered as indicated.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 180,
+  "conditions": [
+    "Breast Cancer",
+    "Ovarian Cancer",
+    "Non Small Cell Lung Cancer",
+    "Colorectal Cancer",
+    "Pancreatic Cancer",
+    "Renal Cell Carcinoma",
+    "Nasopharyngeal Cancer",
+    "Head and Neck Squamous Cell Carcinoma",
+    "Gastric Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "P-MUC1C-ALLO1 CAR-T cells",
+      "type": "BIOLOGICAL",
+      "description": "P-MUC1C-ALLO1 is an allogeneic CAR-T cell therapy designed to target cancer cells expressing MUC1-C."
+    },
+    {
+      "name": "Rimiducid",
+      "type": "DRUG",
+      "description": "Rimiducid (safety switch activator) may be administered as indicated."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Males or females, Subjects \u226518 years with life expectancy \\>3 months\n* Must have a confirmed diagnosis of unresectable, locally advanced or metastatic epithelial-derived cancer\n* Must have progressed during or after last therapy, developed intolerance/toxicity to current treatment, or ineligible or refused other existing treatment options, and have measurable disease\n* Must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1 or Karnofsky performance status \u226570%\n* Must have adequate vital organ function within pre-determined parameters\n* Must have archived tumor tissue available or consent to a biopsy collection\n* Must be willing to practice birth control\n* Must have a negative pregnancy test at screening and prior to initiating lymphodepletion chemotherapy or study drug administration\n* Must have recovered from toxicities due to prior therapies\n\nExclusion Criteria:\n\n* Has inadequate venous access\n* Has an active second malignancy (not disease free for at least 5 years) in addition to the studied malignancy, excluding low-risk neoplasms such as non-metastatic basal cell or squamous cell skin carcinoma\n* Is pregnant or lactating\n* Has a history of or active autoimmune disease\n* Has a history of significant central nervous system (CNS) disease, such as stroke, epilepsy\n* Has an active systemic (viral, bacterial, or fungal) infection\n* Has New York Heart Association (NYHA) Class III or IV heart failure, unstable angina, or a history of myocardial infarction or significant arrhythmia\n* Has any psychiatric or medical disorder that would preclude safe participation in and/or adherence to the protocol\n* Has received anticancer medications within 2 weeks of the time of initiating lymphodepletion\n* Has received immunosuppressive medications within 2 weeks of administration of P-MUC1C-ALLO1, and/or expected to require them while enrolled in the study\n* Has received systemic corticosteroid therapy within 1 week of the administration of P-MUC1C-ALLO1 or is expected to require it during the course of the study\n* Has known CNS metastases or symptomatic CNS involvement\n* Has a history of significant liver disease or active liver disease\n* Has a history of known genetic predisposition to HLH/MAS\n* Has received anti-cancer monoclonal antibody therapy within 4 weeks of initiating LD therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Determine the maximum tolerated dose (MTD) and/or recommended phase 2 dose (RP2D) of P-MUC1C-ALLO1",
+      "timeFrame": "Baseline through Day 28",
+      "description": "Number of subjects with a dose limiting toxicity (DLT)"
+    },
+    {
+      "measure": "Evaluate the overall safety and tolerability profile of P-MUC1C-ALLO1",
+      "timeFrame": "Baseline through 15 years",
+      "description": "Frequency and severity of adverse events"
+    },
+    {
+      "measure": "Evaluate the preliminary efficacy of P-MUC1C-ALLO1",
+      "timeFrame": "Baseline through 15 years",
+      "description": "According to the Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1, secondarily Immune Response Evaluation Criteria in Solid Tumors (iRECIST): Overall Response Rate (ORR)"
+    }
+  ],
+  "sponsor": "Poseida Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2022-02-15",
+  "completion_date": "2039-04",
+  "last_updated": "2026-02-06"
+}

@@ -1,0 +1,117 @@
+{
+  "nct_id": "NCT02726581",
+  "brief_title": "An Investigational Immuno-therapy Study of Nivolumab, Pomalidomide and Dexamethasone Combinations in Patients With Multiple Myeloma",
+  "official_title": "An Open-Label, Randomized Phase 3 Trial of Combinations of Nivolumab, Pomalidomide and Dexamethasone in Relapsed and Refractory Multiple Myeloma",
+  "brief_summary": "The purpose of this study is to evaluate the safety and effectiveness of several combination therapies for Multiple Myeloma. Upon entry into the study, patients will be randomized (assigned by chance) to receive either:\n\nGroup 1: nivolumab, pomalidomide and dexamethasone OR Group 2: pomalidomide and dexamethasone OR Group 3: nivolumab, elotuzumab, pomalidomide and dexamethasone.\n\nEnrollment is closed for all groups.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 170,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days, IV (intravenous)"
+    },
+    {
+      "name": "Elotuzumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days, IV"
+    },
+    {
+      "name": "Pomalidomide",
+      "type": "DRUG",
+      "description": "Specified dose on specified days, PO (by mouth)"
+    },
+    {
+      "name": "Dexamethasone",
+      "type": "DRUG",
+      "description": "Specified dose on specified days, PO"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Refractory or relapsed and refractory multiple myeloma\n* Measurable disease\n* Have received \u2265 2 lines of prior therapy which must have included an immune modulatory drug (IMiD) and a proteasome inhibitor alone or in combination\n\nExclusion Criteria:\n\n* Solitary bone or extramedullary plasmacytoma disease only\n* Active plasma cell leukemia\n\nOther protocol defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0018",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0076",
+      "city": "Flemington",
+      "state": "New Jersey",
+      "zip": "08822",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0002",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0095",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0142",
+      "city": "Paramus",
+      "state": "New Jersey",
+      "zip": "07652",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0136",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17604",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0021",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0036",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "From randomization to the date of the first documented tumor progression or death due to any cause, whichever occurred first (Up to approximately 64 month)",
+      "description": "Randomization to first documented tumor progression or death due to any cause, whichever occurred first. Participants who die without reported prior progression are considered to have progressed on date of their death. Participants who did not progress or die will be censored at their last efficacy assessment. Participants who did not have on study efficacy assessments and alive will be censored on randomization date. Participants who started subsequent anti-cancer therapy without prior reported progression will be censored at last efficacy assessment prior to subsequent anti-cancer therapy. Progression is 1) increase of 25% from lowest confirmed response value in specific Serum M-protein and Urine M-protein criteria and increase of FLC for patients with no measurable M protein in blood or urine at baseline and/or 2) appearance of a new lesion(s), \\>/= 50% increase from nadir in SPD of \\> 1 lesion, or \\>/= 50% increase in the longest diameter of a previous lesion \\> 1 cm in short axis."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "AbbVie"
+  ],
+  "start_date": "2016-08-10",
+  "completion_date": "2022-03-09",
+  "last_updated": "2023-02-28"
+}

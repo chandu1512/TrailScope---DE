@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT04439240",
+  "brief_title": "Testing AZD4547 as a Potential Targeted Treatment in Cancers With FGFR Genetic Changes (MATCH-Subprotocol W)",
+  "official_title": "MATCH Treatment Subprotocol W: Phase II Study of AZD4547 in Patients With Tumors With Aberrations in the FGFR Pathway",
+  "brief_summary": "This phase II MATCH treatment trial identifies the effects of AZD4547 in patients whose cancer has genetic changes called FGFR gene alterations. AZD4547 may stop the growth of cancer cells by blocking FGFR proteins which may be needed for cell growth. Researchers hope to learn if AZD4547 will shrink this type of cancer or stop its growth.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate the proportion of patients with objective response (OR) to targeted study agent(s) in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the proportion of patients alive and progression free at 6 months of treatment with targeted study agent in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nII. To evaluate time until death or disease progression. III. To identify potential predictive biomarkers beyond the genomic alteration by which treatment is assigned or resistance mechanisms using additional genomic, ribonucleic acid (RNA), protein and imaging-based assessment platforms.\n\nIV. To assess whether radiomic phenotypes obtained from pre-treatment imaging and changes from pre- through post-therapy imaging can predict objective response and progression free survival and to evaluate the association between pre-treatment radiomic phenotypes and targeted gene mutation patterns of tumor biopsy specimens.\n\nOUTLINE:\n\nPatients receive FGFR inhibitor AZD4547 (AZD4547) orally (PO) twice daily (BID) on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up every 3 months if less than 2 years from study entry, and then every 6 months for year 3 from study entry.\n\nTHE MATCH SCREENING TRIAL:\n\nPlease see NCT02465060 for information on the MATCH Screening Protocol and applicable documents.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 52,
+  "conditions": [
+    "Advanced Lymphoma",
+    "Advanced Malignant Solid Neoplasm",
+    "Hematopoietic and Lymphoid Cell Neoplasm",
+    "Refractory Lymphoma",
+    "Refractory Malignant Solid Neoplasm",
+    "Refractory Plasma Cell Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "FGFR Inhibitor AZD4547",
+      "type": "DRUG",
+      "description": "Given PO"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have met applicable eligibility criteria in the Master MATCH Protocol prior to registration to treatment subprotocol\n* Patients must have FGFR 1-3 mutation or translocation as determined by the MATCH screening assessment\n* Patients must have an electrocardiogram (ECG) within 8 weeks prior to treatment assignment and must have no clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g. complete left bundle branch block, third degree heart block)\n* Patients must have an echocardiogram (ECHO) or a nuclear study (multigated acquisition scan \\[MUGA\\] or First Pass) within 4 weeks prior to registration to treatment and must not have a left ventricular ejection fraction (LVEF) \\< institutional lower limit of normal (LLN). If the LLN is not defined at a site, the LVEF must be \\> 50% for the patient to be eligible\n* Patients must have a pre-study eye exam by an ophthalmologist. Patients with current evidence of corneal or retinal disorder/keratopathy are excluded\n\nExclusion Criteria:\n\n* Patients must not have known hypersensitivity to AZD4547 or compounds of similar chemical or biologic composition\n* Patients must not have received prior FGFR specific inhibitors (e.g. BGJ398, erdafitinib, BAY1163877, LY2874455). Prior non-selective FGFR inhibitor treatment (e.g. pazopanib, dovitinib, ponatinib, brivanib, lucitanib, lenvatinib) will be allowed\n* Patients must not have any history of or current evidence of renal or endocrine alterations of calcium/phosphate homeostasis, or history of or current evidence of extensive tissue calcification (by evaluation of the clinician), including but not limited to, the soft tissue, kidneys, intestine, myocardium and lung with the exception of calcified lymph nodes and asymptomatic vascular calcification per investigators' judgment\n* Patients must not be currently using medications that can elevate serum phosphorous and/or calcium levels\n\n  * Medications that increase serum calcium should be avoided. Over the counter calcium supplements, antacids that contain calcium (Tums) and vitamin D supplements (cholecalciferol and ergocalciferol) should be avoided. Prescription medications including lithium, hydrochlorothiazide and chlorthalidone must be used with caution\n  * Medications that increase serum phosphate should be avoided. Over the counter laxatives that contain phosphate such as Fleets Oral or Fleets enema and Miralax should be avoided",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "ECOG-ACRIN Cancer Research Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response Rate (ORR)",
+      "timeFrame": "Assessed at baseline, then every 2 cycles for the first 26 cycles, and every 3 cycles thereafter until disease progression, up to 3 years post registration",
+      "description": "Overall response rate was defined as the proportion of patients with a best overall response of complete response (CR) or partial response (PR) among all eligible and treated patients. Best overall response was evaluated using the Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. The 90% two-sided binomial exact confidence interval was calculated for ORR."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2016-05-31",
+  "completion_date": "2020-06-30",
+  "last_updated": "2021-06-08"
+}

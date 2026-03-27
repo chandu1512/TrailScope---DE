@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT00715793",
+  "brief_title": "Combination of Decitabine and Temozolomide in the Treatment of Patients With Metastatic Melanoma",
+  "official_title": "Phase I/II Trial of the Combination of Decitabine and Temozolomide in the Treatment of Patients With Metastatic Melanoma",
+  "brief_summary": "The combination of TMZ and DAC may effect dual modulation of DNA repair genes resulting in improved clinical response.",
+  "detailed_description": "Primary Objectives:\n\n* Phase I: To determine the safety, tolerability, and Phase II recommended dose of the combination of extended schedule TMZ and DAC.\n* Phase II: To determine the efficacy, as measured by overall response rate, of the combination of extended schedule TMZ and DAC given at the Phase II recommended dose to patients with metastatic melanoma.\n\nSecondary Objectives:\n\n* To determine pharmacokinetics of the combination of TMZ and DAC in patients with metastatic melanoma.\n* To determine, in peripheral blood mononuclear cells (PBMC) and tumor tissue, the pharmacodynamic effects of the combination of TMZ and DAC on promoter methylation and expression of selected genes and correlate these with response.\n* To determine the progression-free survival of patients treated with the combination of TMZ and DAC.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 39,
+  "conditions": [
+    "Malignant Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Decitabine",
+      "type": "DRUG",
+      "description": "In Part I patients will be treated on a standard \"3+3\" phase I dose-escalation design starting at 0.075 mg/kg until a decitabine dose level of 0.15 mg/kg is reached, or, in case unacceptable toxicities are observed, at the maximum tolerated dose (Phase II recommended dose). Decitabine will be administered at the specified dose level, intravenously, daily 5 days a week for the first 2 weeks of a 6-week cycle."
+    },
+    {
+      "name": "Temozolomide",
+      "type": "DRUG",
+      "description": "Temozolomide is available in 25 mg and 100 mg tablets that will be administered orally; doses will be rounded to the nearest 25 mg. Temozolomide will be administered orally at 75 mg/m2 daily for 4 weeks starting on week 2 of a 6-week cycle."
+    },
+    {
+      "name": "biopsy",
+      "type": "PROCEDURE",
+      "description": "Fine needle aspirates (FNA) and/or core biopsies of tumor samples will be obtained from consenting patients with accessible, evaluable disease, on days 1, 8, 15, and 29 of the first cycle and when patients go off study. Biopsies are optional in Phase I and required for all consenting subjects in Phase II."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients who have non-resectable Stage IIIB or stage IV metastatic melanoma that have progressed despite prior therapies.\n* Life expectancy of at least 12 weeks.\n* ECOG performance status of 0, 1 and 2.\n* \u226518 years of age.\n* Patients who have not received any other chemotherapeutic, biological or investigational agent within 28 days of study drug administration.\n* First line and active brain metastases (metastatic lesions to the brain that have been adequately treated with surgery and/or appropriate radiation therapy and that have documented stability for \\>4 weeks or \\>2 weeks if treated with stereotactic radiosurgery, remain eligible)\n\nExclusion Criteria:\n\n* Any evidence of renal dysfunction (proteinuria, estimated creatinine clearance from serum creatinine test of \\<60 ml/min).\n* Impaired hepatic function (liver enzymes greater than twice the upper limit of normal or bilirubin \\> 2.0 except in patients with Gilbert's syndrome).\n* Prior treatment with alkylating agents (including TMZ and DTIC).\n* Active brain metastases (metastatic lesions to the brain that have been adequately treated with surgery and/or appropriate radiation therapy and that have documented stability for \\>4 weeks remain eligible).\n* Active infections or serious general medical conditions.\n* Female patients of child-bearing age who are not on adequate contraception, or are pregnant or breast-feeding.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Cancer Centers",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants That Experienced a Dose Limiting Toxicity (DLT)",
+      "timeFrame": "Up to 26 months",
+      "description": "Dose-limiting toxicities (DLTs) were defined as grade 4 neutropenia or thrombocytopenia which lasts \\>7 days; grade 3 or 4 febrile neutropenia; grade 3 or greater non-hematological toxic effects."
+    },
+    {
+      "measure": "Overall Response Rate (ORR)",
+      "timeFrame": "Up to 30 months",
+      "description": "Using RECIST v1.0 criteria, overall response rate (ORR) was determined by the number of participants with complete response (CR) + the number of participants with partial response (PR) / the number of participants with complete response (CR) + the number of participants with partial response (PR) + the number of participants with stable disease (SD) + the number of participants with progressive disease (PD), multiplied by 100. Per RECIST v1.0 criteria (assessed by MRI or CT): Partial Response (PR), \\>=30% decrease in the sum of the longest diameter of target lesions; Stable Disease (SD), neither sufficient shrinkage to qualify for a Partial Response (PR) nor sufficient increase to to qualify for Progressive Disease (PD); PD, 20% increase in the sum if target lesion or the appearance of new lesions; Complete Response (CR), Disappearance of all target lesions."
+    },
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D) of DAC + TMZ",
+      "timeFrame": "Up to 26 months",
+      "description": "Toxicity assessments used CTCAE v3.0. Two dose levels were explored in the phase I portion of the study. A modified 3 + 3 'up and down' design was used. Given the knowledge that DAC exhibits its epigenetic effects at 30-fold lower doses than at its maximum-tolerated dose (MTD), escalation of DAC to the MTD was not done."
+    }
+  ],
+  "sponsor": "Hussein Tawbi",
+  "collaborators": [
+    "Eisai Inc.",
+    "Schering-Plough"
+  ],
+  "start_date": "2008-06",
+  "completion_date": "2015-08",
+  "last_updated": "2017-09-05"
+}

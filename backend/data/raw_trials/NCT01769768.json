@@ -1,0 +1,107 @@
+{
+  "nct_id": "NCT01769768",
+  "brief_title": "Phase I Study to Evaluate the Effect of LDE225 on the Pharmacokinetics of Bupropion and Warfarin in Patients",
+  "official_title": "A Phase Ib, Multi-center, Two Parallel Group, Open-label, Drug-drug Interaction Study to Assess the Effect of LDE225 on the Pharmacokinetics of Bupropion and Warfarin in Patients With Advanced Solid Tumors",
+  "brief_summary": "This is a multi center, open-label study to evaluate the drug-drug interaction of LDE225 on the PK of bupropion and warfarin patients with advanced solid tumors. Subjects will receive 800mg daily of LDE225 and two separate doses of either bupropion or warfarin.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 114,
+  "conditions": [
+    "Advanced Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "LDE225",
+      "type": "DRUG",
+      "description": "LDE225 800 mg once daily dosing will begin on Cycle 1 Day 1 of a 28-day cycle.Treatment with LDE225 for both groups will continue until the patient experiences unacceptable toxicity that precludes further treatment, disease progression, withdrawal of consent and/or at the discretion of the investigator."
+    },
+    {
+      "name": "Wafarin",
+      "type": "DRUG",
+      "description": "15 mg single dose of warfarin (oral tablet) will be given to patients."
+    },
+    {
+      "name": "Bupropion",
+      "type": "DRUG",
+      "description": "75 mg single dose of bupropion(oral tablet, from an immediate release formulation) will be given to patients"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adults\n* Patients with cytopathologically or histopathologically confirmed diagnosis of an advanced solid tumor which has progressed despite standard therapy, or for which no standard therapy exists or patients with locally advanced or metastatic basal cell carcinoma who are not amendable or eligible for standard therapy.\n* Protocol-defined renal , liver and bone marrow function\n\nExclusion Criteria:\n\n* CNS (Central Nervous System) tumors as well as history of brain metastases\n* Systemic anticancer treatment (including biologic therapy/antibodies) within 2 weeks before first dose of study treatment (6 weeks for nitrosourea, mitomycin, and monoclonal antibodies).\n* Radiation therapy within 4 weeks before first dose\n* Investigational agents within 4 weeks before start of study therapy\n* Patients with known allergy/hypersensitivity to warfarin or bupropion and/or related compounds\n* Patients with a history of/or active bleeding disorders\n* Patients receiving treatment with vitamin K, Coumadin or other agents containing warfarin and heparin. Heparin flush to maintain patency of a central venous access device is allowed.\n* Patients receiving treatment with bupropion.\n* Patients who have neuromuscular disorders that are associated with elevated CK (Creatine phosphokinase) (e.g., inflammatory myopathies, muscular dystrophy, amyotrophic lateral sclerosis, spinal muscular atrophy).\n* Known diagnosis of human immunodeficiency virus (HIV), Hepatitis B or C (testing is not mandatory for study entry)\n* Patients currently receiving systemic corticosteroids\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center Dept.of HackensackUniv.MedCtr.",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania--Abramson Cancer Center Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Cancer Institute UPMC Cancer Pavilion",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Pharmacokinetics (PK) parameter AUClast for S- and R-warfarin",
+      "timeFrame": "7 days",
+      "description": "Pharmacokinetics of warfarin : Maximum observed plasma concentration after drug administration"
+    },
+    {
+      "measure": "PK parameter AUClast for bupropion",
+      "timeFrame": "7 days",
+      "description": "Pharmacokinetics bupropion : Maximum observed plasma concentration after drug administration"
+    },
+    {
+      "measure": "PK parameter AUCinf for bupropion",
+      "timeFrame": "7 days",
+      "description": "Pharmacokinetics of bupropion : Maximum observed plasma concentration after drug administration"
+    },
+    {
+      "measure": "PK parameter AUCinf for S- and R-warfarin",
+      "timeFrame": "7 days",
+      "description": "Pharmacokinetics of warfarin and bupropion : Maximum observed plasma concentration after drug administration"
+    },
+    {
+      "measure": "PK parameter Cmax for S- and R-warfarin",
+      "timeFrame": "7 days",
+      "description": "Pharmacokinetics of warfarin : Maximum observed plasma concentration after drug administration"
+    },
+    {
+      "measure": "PK parameters Cmax for bupropion",
+      "timeFrame": "7 days",
+      "description": "Pharmacokinetics of Bupropion : Maximum observed plasma concentration after drug administration"
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2013-04",
+  "completion_date": "2016-08",
+  "last_updated": "2020-12-16"
+}

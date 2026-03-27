@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT07130487",
+  "brief_title": "Project CARE: CAncer Risk Evaluation",
+  "official_title": "Project CARE: CAncer Risk Evaluation (CARE)",
+  "brief_summary": "The purpose of Project CARE (cancer risk assessment and evaluation) research study is to explore the acceptance and feasibility of a study-initiated proactive outreach and digital care delivery model for conducting hereditary cancer risk assessment in primary care settings and facilitating genetic risk evaluation for patients flagged as high risk. Potential participants will be recruited from Rutgers Health primary care sites (family practice and general internal medicine). EPIC will be used to identify all potential participants and they will be invited to participate in the study. Consented participants will be provided a link via email, and or text message to engage with a Relational Agent (RA, chatbot), through the patient portal for cancer risk assessment and genetic education. Those identified as high risk will be offered genetic counseling and testing.\n\nThe research questions the study aims to answer are:\n\n1. What percent of patients who completed the RA are identified as high risk?\n2. What percent of patients who engaged with the risk assessment were identified as high risk?\n3. What percent of high-risk patients had genetic counseling or genetic testing within 4 months of completing the risk assessment?",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 210,
+  "conditions": [
+    "Primary Care"
+  ],
+  "interventions": [
+    {
+      "name": "Relational Agent ( RA) Alex",
+      "type": "BEHAVIORAL",
+      "description": "The intervention is an RA (chatbot) integrated into a genetic care delivery portal for primary care patients. The RA provides hereditary cancer education and risk evaluation through an interactive interface. Primary care patients will use the RA to complete questionnaires about their hereditary cancer risk, track their progress through the education component and assessment process, and obtain downloadable summaries of their cancer risk and family tree. Additionally, the chat feature stores past conversations, and a menu guides participants through key steps."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\n1. Age 18 to 70 years\n2. Able to read and speak English\n3. Have an email address or mobile phone number in EPIC and/or are enrolled in MyChart\n4. Receiving health care in Family Medicine or General Internal Medicine at Rutgers Health within the past 2 years\n5. Have not opted out of receiving research-related communications\n6. Have internet access (via smartphone, tablet, or computer)\n\nExclusion Criteria\n\n1. Dementia (e.g., Alzheimer's disease) as indicated in EPIC\n2. Unable to access the Internet (via smartphone, tablet, or computer)\n3. Previous germline genetic testing for hereditary cancer risk\n4. Opted out of research participation in EPIC\n5. Have a personal history of cancer",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Rutgers, The State University of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of Patients Completing the Hereditary Cancer Risk Assessment",
+      "timeFrame": "Up to 3 months from enrollment",
+      "description": "The proportion of patients who successfully complete the hereditary cancer risk assessment within the genetic care delivery portal. Completion is defined as receiving a final result statement, regardless of whether all assessment questions in the risk assessment module were answered."
+    },
+    {
+      "measure": "Proportion of Patients Identified as High Risk",
+      "timeFrame": "Through study completion, an average of 12 months.",
+      "description": "The percent of patients who completed the RA and are identified as high risk."
+    }
+  ],
+  "sponsor": "Anita Y. Kinney, PhD, RN",
+  "collaborators": [],
+  "start_date": "2025-11-19",
+  "completion_date": "2026-11",
+  "last_updated": "2025-11-19"
+}

@@ -1,0 +1,97 @@
+{
+  "nct_id": "NCT01479283",
+  "brief_title": "Prophylactic Antibiotic Regimens in Tumor Surgery (PARITY)",
+  "official_title": "Prophylactic Antibiotic Regimens in Tumor Surgery (PARITY): A Multi-Center International Randomized Controlled Trial Comparing Alternative Antibiotic Regimens in Patients Undergoing Tumor Resections With Endoprosthetic Replacements",
+  "brief_summary": "The Prophylactic Antibiotic Regimens in Tumor Surgery (PARITY) trial is the first ever international multi-center randomized controlled trial in bone cancer surgery. In order to avoid amputation for bone cancer in the leg, complex limb-saving operations are performed. However, infections with devastating complications following surgery are common. Surgeons from across the world will randomize patients to receive either short- or long-duration antibiotic regimens after surgery with the goal of identifying the best regimen to reduce these infections.",
+  "detailed_description": "Long-bone sarcomas were historically managed with amputation. In the current era of osteosarcoma management, amputations are generally avoided by complex surgeries in which the malignancy is removed and the limb is reconstructed with advanced surgical techniques. This process of limb salvage is possible with improvements in chemotherapeutic regimens, advanced imaging techniques and surgical innovations such as modular metallic implants. However, the risk for surgical complications is high due to the complexity of the surgeries themselves. The most common and devastating complication is a surgical site infection. Background work and data from our pilot study indicates that infection rates approach 15%. Multiple surgical attempts at eradication of the infection fail in 50% of these cases, resulting in amputation. Published guidelines for post-operative antibiotic prophylaxis following many standard and less complex elective surgical procedures dictate that prophylactic antibiotics be discontinued after 24 hours. However, the most effective duration of treatment in sarcoma surgery has not previously been examined. Given the limitations of the evidence, it has not been possible for orthopaedic oncologists to draw firm conclusions and, therefore, clinical practice is highly varied, particularly with respect to antibiotic duration. Our international, multi-center randomized controlled trial will determine whether a 5-day regimen of post-operative prophylactic antibiotics in comparison to a standard 24-hour regimen decreases the rate of surgical site infections after limb salvage surgery within 1-year follow-up.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 602,
+  "conditions": [
+    "Infection",
+    "Bone Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "24-Hour Prophylactic Cefazolin* Antibiotic Regimen",
+      "type": "DRUG",
+      "description": "Pre-Operative Antibiotic Regimen: Patients will receive 2g (or a weight-based dose based on 100mg/kg/day with a maximum single dose of 2g if \\< 18 years old) of IV cefazolin within 60 minutes prior to the procedure. No other pre-operative antibiotics will be administered.\n\nIntra-Operative Antibiotic Regimen: Patients will receive 2g (or a weight-based dose based on 100mg/kg/day with a maximum single dose of 2g if \\< 18 years old) of IV cefazolin every 3-4 hours. No other intra-operative antibiotics will be administered.\n\nPost-Operative Antibiotic Regimen: Patients will receive 2g (or a weight-based dose based on 100mg/kg/day with a maximum single dose of 2g if \\< 18 years old) of IV cefazolin every 8 hours for 24 hours followed by IV saline for 4 days. No other post-operative antibiotics will be administered."
+    },
+    {
+      "name": "5-Days Prophylactic Cefazolin* Antibiotic Regimen",
+      "type": "DRUG",
+      "description": "Pre-Operative Antibiotic Regimen: Patients will receive 2g (or a weight-based dose based on 100mg/kg/day with a maximum single dose of 2g if \\< 18 years old) of IV cefazolin within 60 minutes prior to the procedure. No other pre-operative antibiotics will be administered.\n\nIntra-Operative Antibiotic Regimen: Patients will receive 2g (or a weight-based dose based on 100mg/kg/day with a maximum single dose of 2g if \\< 18 years old) of IV cefazolin every 3-4 hours. No other intra-operative antibiotics will be administered.\n\nPost-Operative Antibiotic Regimen: Patients will receive 2g (or a weight-based dose based on 100mg/kg/day with a maximum single dose of 2g if \\< 18 years old) of IV cefazolin every 8 hours for 5 days. No other post-operative antibiotics will be administered."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* primary bone malignancies or aggressive benign bone tumors of the femur or tibia, soft-tissue sarcomas which have invaded the femur or tibia, or oligometastatic bone disease of the femur or tibia in a patient expected to live at least one year post-operatively; and\n* treatment by surgical excision and endoprosthetic replacement of the femur or tibia.\n\nExclusion Criteria:\n\n* current known Methicillin-resistant Staphylococcus Aureus (MRSA) colonization;\n* current known Vancomycin Resistant Enterococcus (VRE) colonization;\n* documented anaphylaxis or angioedema to penicillin or cefazolin (Ancef);\n* current surgical procedure is a revision surgery for implant failure or infection;\n* prior local infection within the surgical field of the affected limb;\n* current known immunologically-deficient disease conditions (not including recent chemotherapy);\n* known renal insufficiency with estimated creatinine clearance (eGRF) of less than 54 mL/min;\n* reconstruction to include structural allograft;\n* enrolled in a competing study; and\n* weight of less than or equal to 45 kg (for sites using cefuroxime only).",
+    "gender": "ALL",
+    "min_age": "12 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Sinai Hospital of Baltimore",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21215",
+      "status": ""
+    },
+    {
+      "facility": "Franklin Square Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "The Rothman Institute at Jefferson",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Surgical Site Infections",
+      "timeFrame": "1 year",
+      "description": "the development of a surgical site infection according to the criteria established by the Center for Disease Control (CDC)"
+    }
+  ],
+  "sponsor": "McMaster University",
+  "collaborators": [
+    "Orthopedic Research and Education Foundation",
+    "The Physicians' Services Incorporated Foundation",
+    "Canadian Cancer Society (CCS)",
+    "Canadian Institutes of Health Research (CIHR)"
+  ],
+  "start_date": "2013-01",
+  "completion_date": "2021-03",
+  "last_updated": "2021-03-09"
+}

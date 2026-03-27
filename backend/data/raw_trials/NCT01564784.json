@@ -1,0 +1,122 @@
+{
+  "nct_id": "NCT01564784",
+  "brief_title": "A Study Of Inotuzumab Ozogamicin Versus Investigator's Choice Of Chemotherapy In Patients With Relapsed Or Refractory Acute Lymphoblastic Leukemia",
+  "official_title": "AN OPEN-LABEL, RANDOMIZED PHASE 3 STUDY OF INOTUZUMAB OZOGAMICIN COMPARED TO A DEFINED INVESTIGATOR'S CHOICE IN ADULT PATIENTS WITH RELAPSED OR REFRACTORY CD22-POSITIVE ACUTE LYMPHOBLASTIC LEUKEMIA (ALL)",
+  "brief_summary": "This study will compare the efficacy, in terms of complete responses and overall survival, of inotuzumab ozogamicin versus investigator's choice of chemotherapy.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 326,
+  "conditions": [
+    "Acute Lymphoblastic Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "inotuzumab ozogamicin",
+      "type": "DRUG",
+      "description": "Dose: inotuzumab ozogamicin 0.8-0.5 mg/m\\^2 IV, weekly, 3 times per cycle Cycle length: 21-28 days Total number of cycles: 6"
+    },
+    {
+      "name": "FLAG (fludarabine, cytarabine and G-CSF)",
+      "type": "DRUG",
+      "description": "Dose: cytarabine 2.0 g/m\\^2/day IV days 1-6 fludarabine30 mg/m\\^2/day IV days 2-6 Cycle length: 28 days Total number of cycles: 4"
+    },
+    {
+      "name": "HIDAC (high dose cytarabine)",
+      "type": "DRUG",
+      "description": "cytarabine 3 g/m\\^2 IV every 12 hours for up to 12 times"
+    },
+    {
+      "name": "cytarabine and mitoxantrone",
+      "type": "DRUG",
+      "description": "mitoxantrone 12 mg/m\\^2 IV days 1-3 cytarabine 200 mg/m\\^2/day IV over 7 days cycle length: 15-20 days Total number of cycles: 4"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* CD22 expression\n* Adequate liver and renal functions\n\nExclusion Criteria:\n\n* Isolated extramedullary disease\n* Active Central Nervous System \\[CNS\\] disease",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Oncology Investigational Drug Service",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    },
+    {
+      "facility": "The Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "John Theurer Cancer Center at Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "IDS-investigational drug pharmacy Penn State Milton S. Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    },
+    {
+      "facility": "Penn State Milton S. Hershey Medical Center,",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Hematologic Remission (Complete Remission [CR]/Complete Remission With Incomplete Hematologic Recovery [CRi]) as Assessed by the Endpoint Adjudication Committee (EAC)",
+      "timeFrame": "Screening, Day 16 to 28 of Cycles 1, 2 and 3, then every 1 to 2 cycles (or as clinically indicated) up to approximately 4 weeks (end of treatment [EoT]) from the last dose",
+      "description": "CR was the disappearance of leukemia indicated by less than (\\<) 5 percent (%) marrow blasts \\& absence of peripheral blood leukemic blasts, with recovery of hematopoiesis defined by absolute neutrophil count (ANC) greater than or equal to (\u2265)1000 per microliter (/\u03bcL) \\& platelets \u2265100,000/\u03bcL. C1 extramedullary disease status (i.e. complete disappearance of measurable \\& non-measurable extramedullary disease with the following exceptions: for participants with at least 1 measurable lesion, all nodal masses greater than (\\>) 1.5 centimeters (cm) in greatest transverse diameter (GTD) at baseline must have regressed to less than or equal to (\u2264) 1.5 cm in GTD; all nodal masses \u22651 cm \\& \u22641.5 cm in GTD at baseline must have regressed to \\<1 cm GTD or reduced by 75% in sum of products of greatest diameters, no new lesions, spleen \\& other previously enlarged organs must have regressed in size \\& must not be palpable) was required. CRi was defined as CR except ANC \\<1000/\u03bcL \\&/or platelets \\<100,000/\u03bcL."
+    },
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "Up to 5 years after randomization or 2 years from randomization of the last participant, whichever occurs first.",
+      "description": "OS was defined as the time from randomization to date of death due to any cause. Participants last known to be alive were censored at date of last contact."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [
+    "UCB Pharma"
+  ],
+  "start_date": "2012-08-02",
+  "completion_date": "2017-01-04",
+  "last_updated": "2018-12-20"
+}

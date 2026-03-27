@@ -1,0 +1,53 @@
+{
+  "nct_id": "NCT04114370",
+  "brief_title": "Evaluation of 18F-fluciclovine (FACBC) PET/MR Uptake in Participants With Glioma",
+  "official_title": "Evaluation of 18F-fluciclovine (FACBC) PET/MR Uptake in Participants With Glioma",
+  "brief_summary": "This is a pilot study to assess the ability of \\[F-18\\]fluciclovine to differentiate pseudoprogression from progression in participants after therapy, at imaging time points within the 12 week interval post chemoradiation. \\[F-18\\]fluciclovine. PET will be obtained at the time point in the 12 week interval in which MRI demonstrates increase in enhancing volume with the differential diagnosis of pseudoprogression versus tumor progression. At the same time point (at least 6 hours after \\[F-18\\]fluciclovine or up to 3 days) F-18 FDG will also be performed consistent with standard clinical practice. The verification of pseudoprogression versus tumor progression will be determined by the regression of enhancing lesion on subsequent MRI imaging obtained as part of standard care.",
+  "detailed_description": "In this pilot study the investigators propose to image 10 participants who have been previously diagnosed by resection or biopsy with grade 3 or 4 glioma.\n\nAll glioma cases undergoing resection at UPMC are evaluated by immunohistochemistry for mutations in p53, nuclear localization of ATRX, and the presence of IDH1R132H mutation as part of standard neuropathologic integrated diagnosis using the WHO 2016 diagnostic criteria. All glioma cases resected at UPMC undergo genetic profiling using next generation sequencing.\n\nMRI imaging will be obtained as part of standard clinical care. The MRI sequences include T1 pre and post contrast, T2 FLAIR, DWI, ADC and perfusion sequences using the imaging algorithm for evaluating treatment response in glioma treatment trials. Radiogenomic analysis will be performed using the MRI imaging sequences obtained as standard clinical care.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "EARLY_PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 9,
+  "conditions": [
+    "Glioma"
+  ],
+  "interventions": [
+    {
+      "name": "18F-fluciclovine",
+      "type": "DRUG",
+      "description": "Prior to beginning PET imaging, 18F-fluciclovine will be administered as an intravenous bolus injection followed by a 10mL saline flush. 18F-fluciclovine will be injected through a cannula (or indwelling catheter) in an antecubital vein or another vein that will provide access. The administration site will be evaluated pre- and post-administration for any reaction. Documentation of administration to a participant will be recorded or as part of the scan upload, including date, prescription number, dose activity (as measured at time of administration), total volume, and start/stop time of administration."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 1\\. Age \u2265 18 years old.\n\n  2\\. Been previously diagnosed by resection or biopsy with grade 3 or 4 glioma.\n\n  3\\. Agree to use adequate contraception as indicated in this protocol.\n\n  4\\. Consent to PET scanning and receipt of one injection of 18F-fluciclovine.\n\n  5\\. Able to comply with study procedures.\n\n  6\\. Able to give written consent.\n\n  7\\. Subject has had a standard of care, diagnostic MRI study which was indeterminate due to the inability to differentiate pseudoprogression versus tumor progression.\n\nExclusion Criteria:\n\n* 1\\. Are a pregnant or breastfeeding female.\n\n  2\\. Are participating in a clinical trial of another unlicensed product.\n\n  3\\. Are undergoing 18F-fluciclovine PET for reason(s) other than newly diagnosed or recurrent glioma.\n\n  4\\. Have a hypersensitivity to 18F-fluciclovine.\n\n  5\\. Have acute renal failure or moderate/severe renal impairment, according to local clinical guidelines.\n\n  6\\. Have a non-MRI compatible implantable device or another contraindication for MRI scan.\n\n  7\\. Are deemed ineligible to participate for other reasons by an investigator.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hospitals",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To assess the ability of [F-18]fluciclovine to differentiate radionecrosis (pseudoprogression) from tumor recurrence (progression) in patients after therapy, at imaging time points within the 12 week interval post chemoradiation.",
+      "timeFrame": "90 minutes",
+      "description": "To assess the ability of \\[F-18\\]fluciclovine to differentiate pseudoprogression from progression as compared to F-18 FDG, regions of interest will be drawn around MRI anatomically defined enhancing tumor regions and translated to both the F-18 FDG and F-18 fluciclovine PET scans to obtain SUV for each tracer. The SUV values will be correlated with the diagnosis of pseudoprogression versus tumor progression as determined by the regression of lesion enhancement on subsequent standard clinical follow up MRI imaging, as described in the protocol."
+    }
+  ],
+  "sponsor": "James Mountz",
+  "collaborators": [
+    "Blue Earth Diagnostics"
+  ],
+  "start_date": "2019-10-22",
+  "completion_date": "2021-09-30",
+  "last_updated": "2022-12-05"
+}

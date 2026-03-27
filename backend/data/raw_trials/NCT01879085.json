@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT01879085",
+  "brief_title": "Study of Vorinostat in Combination With Gemcitabine and Docetaxel in Advanced Sarcoma",
+  "official_title": "Phase 1b/2 Study of Vorinostat in Combination With Gemcitabine and Docetaxel in Advanced Sarcoma",
+  "brief_summary": "This is a Phase Ib/II experimental, open-label, dose escalation, active treatment study designed to determine the safety, tolerability, and recommended dose of the combination.\n\nDuring the Phase 2 portion of the study, we will assess progression-free survival (PFS), overall survival (OS),overall response rate (ORR), correlative endpoints, DNA methylation measured by microarray, and expression level of the genes as measured by microarray",
+  "detailed_description": "Phase 1b\n\n* To determine the dose of vorinostat that can be safely combined with gemcitabine and docetaxel in patients with advanced sarcomas.\n* To characterize the Pharmacokinetics (PK) and Pharmacodynamics (PD) of vorinostat when combined with gemcitabine and docetaxel in patients with advanced sarcomas (Exploratory Aim).\n\nPhase 2\n\n* To determine the safety and efficacy of gemcitabine and docetaxel in combination with vorinostat in patients with advanced sarcomas. The hypothesis is that gemcitabine and docetaxel + vorinostat will be safe and will improve the 6-months progression-free rates (PFR) of the combination by 20% (from 20% to 40%).\n* To determine the objective response rate, progression-free, and overall survival of patients with advanced sarcomas treated with gemcitabine and docetaxel + vorinostat;\n* To develop a predictive molecular signature of response to treatment in advanced sarcomas.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 37,
+  "conditions": [
+    "Sarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "75 mg/m2 IV given over 60 minutes on day 8 every 21 days (1 cycle)"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "given on days 1 and 8 at 900 mg/m2 IV over 90 minutes (fixed dose infusion rate at 10 mg/m2/min) every 21 days (1 cycle). For dose level -2, given over 67.5 minutes at 10 mg/m2/min"
+    },
+    {
+      "name": "Vorinostat",
+      "type": "DRUG",
+      "description": "given orally at the specified dose levels (either 300 mg/daily or 200 mg twice per day) on days -1 to +2 and days +7-9 every 21 days (treatment for 3 days starting one day prior to chemotherapy on every cycle)"
+    },
+    {
+      "name": "Pegfilgrastim",
+      "type": "DRUG",
+      "description": "administered on day 9 subcutaneously at 6 mg"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have histologically confirmed soft tissue sarcoma with evidence of metastatic or unresectable disease.\n* Patients must have measurable disease by RECIST 1.1.\n* Up to 32 prior cytotoxic chemotherapy regimens in the metastatic setting are allowed. Adjuvant chemotherapy or targeted therapy will not be considered a prior line of treatment.\n* Age \u226518 years.\n* ECOG performance status \u22642 (Karnofsky \u226560%).\n* Life expectancy of greater than 12 weeks.\n* Patients must have normal organ and marrow function as defined below:\n\n  * leukocytes \u22653,000/\u00b5L\n  * absolute neutrophil count \u22651,500/\u00b5L\n  * platelets \u2265100,000/\u00b5L\n  * total bilirubin within normal institutional limits\n  * AST(SGOT)/ALT(SGPT) \u22641.5 X institutional upper limit of normal (ULN)\n  * creatinine \u22641.5 X institutional upper limit of normal (ULN)\n* Peripheral neuropathy, if present, should be \u2264grade 1.\n* Women of Child bearing potential MUST use contraceptives.\n* Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n* The following specific histologic subtypes of soft tissue sarcomas will be excluded: GIST, Kaposi's sarcoma, mesothelioma, dermatofibrosarcoma, chordoma, alveolar soft-part sarcoma. Also, all bone sarcomas are excluded including Ewing's sarcoma, osteosarcoma, GIST, low grade chondrosarcoma, and chordoma.\n* Patients who have had treatment with chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to starting study treatment or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier.\n* Patients who are receiving any other investigational agents.\n* Patients with known brain metastases.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to gemcitabine, docetaxel, vorinostat, or G-CSF.\n* Patients who have received and progressed on the combination of gemcitabine and docetaxel in the metastatic setting.\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Pregnant and breastfeeding women\n* Patients taking concomitant HDAC inhibitors.\n* HIV-positive patients on combination antiretroviral treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase I: Recommended Phase II Dose of Vorinostat",
+      "timeFrame": "During Cycle 1 of treatment",
+      "description": "Recommended Phase ll dose of vorinostat that can be safely combined with gemcitabine and docetaxel. Gemcitabine and docetaxel were given at a fixed dose while vorinostat was dose-escalated using a standard '3+3' design. Dose-limiting toxicity (DLT) is defined as specific study drug-related events experienced during Cycle 1; only DLTs observed in a patient during the first cycle of treatment will be used for the dose escalation decision."
+    },
+    {
+      "measure": "Six-month Progression-free Survival (PFS)",
+      "timeFrame": "Up to 6 months (per patient)",
+      "description": "Proportion of participants whose disease does not progress within 6 months of start of treatment (number of patients without progressive disease/total number of patients). Per RECIST v1.1, progressive disease (PD) is defined as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5mm. For non-target lesions, PD: Unequivocal progression of existing non-target lesions. The appearance of one or more new lesions is also considered progression."
+    }
+  ],
+  "sponsor": "Melissa Burgess, MD",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2013-09-24",
+  "completion_date": "2021-04-15",
+  "last_updated": "2022-08-24"
+}

@@ -1,0 +1,89 @@
+{
+  "nct_id": "NCT04102020",
+  "brief_title": "A Study of Oral Venetoclax Tablets and Oral Azacitidine as Maintenance Therapy in Adult Participants With Acute Myeloid Leukemia in First Remission After Conventional Chemotherapy",
+  "official_title": "Multicenter, Phase 3 Study of Venetoclax and Azacitidine as Maintenance Therapy for Patients With Acute Myeloid Leukemia in First Remission After Conventional Chemotherapy",
+  "brief_summary": "This study will be conducted in two parts. Part 1 will be the Dose Confirmation portion to determine recommended Phase 3 dose (RPTD) of venetoclax in combination with azacitidine (AZA). Part 3 will be the Dose Finding portion to determine RPTD of venetoclax in combination with AZA. Part 2 and Part 3 Randomization of the study were removed.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 112,
+  "conditions": [
+    "Acute Myeloid Leukemia (AML)"
+  ],
+  "interventions": [
+    {
+      "name": "Venetoclax",
+      "type": "DRUG",
+      "description": "Tablet: Oral"
+    },
+    {
+      "name": "Azacitidine",
+      "type": "DRUG",
+      "description": "Subcutaneous (SC) or intravenous (IV) injection"
+    },
+    {
+      "name": "Azacitidine",
+      "type": "DRUG",
+      "description": "Oral Tablet"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Diagnosis of newly diagnosed acute myeloid leukemia (AML).\n* Participant meets the following disease activity criteria:\n\n  * Confirmation of AML by World Health Organization (WHO) criteria (2016) and have confirmed complete remission (CR) or complete remission with incomplete blood count recovery (CRi) following completion of intensive induction and consolidation chemotherapies.\n  * Achieved first CR + CRi within 120 days of first dose of study drug or be no more than 75 days since last dose of intensive conventional (including both induction and consolidation) chemotherapies.\n  * AML has intermediate or poor risk cytogenetics per National Comprehensive Cancer Network (NCCN) 2016 criteria.\n* Eastern Cooperative Oncology Group (ECOG) performance status \\<= 2.\n* Participant must have adequate hematologic, renal, and liver function laboratory values as described in the protocol.\n\nExclusion Criteria:\n\n* History of acute promyelocytic leukemia (APL).\n* History of active central nervous system involvement with acute myeloid leukemia (AML).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The John Theurer Cancer /ID# 215191",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey /ID# 239708",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center /ID# 239372",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Ctr /ID# 214051",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Dose-Limiting Toxicities (DLTs) of Venetoclax in Combination With Azacitidine (AZA) (Part 1)",
+      "timeFrame": "Up to 28 days (Cycle 1)",
+      "description": "DLTs are any of the hematologic, nonhematologic toxicities, adverse events (AEs) occurring following administration of venetoclax as described in the protocol and evaluated by the Investigator and the sponsor."
+    },
+    {
+      "measure": "Number of Participants With DLTs of Venetoclax in Combination With Oral AZA (Part 3 Dose Finding Portion)",
+      "timeFrame": "Up to 28 days (Cycle 1)",
+      "description": "DLTs are hematologic toxicities consisting of any Grade \u2265 3 neutropenia or thrombocytopenia lasting more than 7 days and nonhematologic toxicities as described in the protocol and evaluated by the Investigator and the Sponsor. In addition, AEs that lead to omitting \\> 20% of the scheduled dose within the cycle is considered as a DLT unless clearly related to underlying disease. Treatment delay due to toxicity lasting greater than 14 days since the last dose of Venetoclax is also considered a DLT."
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [
+    "Roche-Genentech"
+  ],
+  "start_date": "2020-03-26",
+  "completion_date": "2026-06",
+  "last_updated": "2025-08-19"
+}

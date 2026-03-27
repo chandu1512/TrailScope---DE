@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT05804370",
+  "brief_title": "Gleolan for Visualization of Newly Diagnosed or Recurrent Ovarian Cancer (OVA-302)",
+  "official_title": "A Phase 3 Multicenter Study of Gleolan\u2122 (Aminolevulinic Acid Hydrochloride) to Enhance Visualization of Tumor in Patients With Suspected Newly Diagnosed or Recurrent Epithelial Ovarian Cancer",
+  "brief_summary": "This Phase 3 study is designed to investigate the safety, diagnostic performance, and clinical usefulness of Gleolan for the real-time detection and visualization of epithelial ovarian cancer tumors during debulking surgery. The study is planned to run for about 18 months with individual study participation lasting about two (2) weeks.",
+  "detailed_description": "The study will be conducted in the following phases:\n\n* Part A1 is an open-label training phase of the study to optimize workflow and collect data on the tumor-to-background ratio (TBR) of images of Gleolan-induced fluorescence (FL). Participants will receive Gleolan followed by blue light (BL) assessment and bulk tumor biopsy with imaging to establish TBR.\n* Part A2 is an open-label training phase of the study to optimize workflow and obtain data to optimize the sample size estimate for Part B. Participants in Part A2 receive Gleolan and undergo Standard of Care (SoC) ovarian cancer debulking, followed by BL assessment and biopsy collection.\n* Part B is the randomized pivotal portion of the study for the evaluation of safety, diagnostic performance, and clinical usefulness of Gleolan for the real-time detection and visualization of epithelial ovarian cancer tumors during debulking surgery.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 170,
+  "conditions": [
+    "Ovarian Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Gleolan",
+      "type": "DRUG",
+      "description": "Gleolan is a prodrug that is metabolized intracellularly to form the fluorescent molecule Protoporphyrin IX (PpIX). The oral provision of Gleolan leads to a highly selective accumulation of PpIX in tumor cells. Following excitation with blue light (BL) (wavelength \\[\u03bb\\] = 375 - 450 nm), the PpIX, which has accumulated selectively in tumor tissue, emits a red-violet light."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Study will be limited to patients with the following diagnoses who plan to undergo surgical cytoreduction or interval debulking: a. primary diagnosis or high clinical suspicion of primary epithelial ovarian cancer, b. suspected epithelial, peritoneal, or fallopian tube cancer, c. recurrent epithelial ovarian cancer.\n\n   Note: participants with a diagnosis of (a) or (b) may be treatment-na\u00efve or have received neoadjuvant therapy, as clarified in Exclusion Criteria 6 and 9.\n2. A pre-operative magnetic resonance image (MRI), positron emission tomography (PET), or computed tomography (CT) \u2264 30 days of study enrollment documenting a suspected tumor or suspected recurrence of tumor for which surgical debulking is indicated and has been planned.\n3. Females (only) age \u2265 18 years.\n4. Study participants must have normal organ and bone marrow function and be appropriate surgical candidates per site SoC.\n5. Study participant must have recording of each parameter as defined below:\n\n   Bilirubin: Below upper limit of normal AST (SGOT): \\< 2.5 X institutional upper limit of normal ALT (SGPT): \\< 2.5 X institutional upper limit of normal Creatinine: Below upper limit of normal OR Creatinine clearance: \\>60 mL/min/1.73 m2 for participants with creatinine levels above institutional normal\n6. The study subject t must demonstrate the ability to understand the informed consent document and the willingness and ability to sign a written informed consent document. The study consent documents will be prepared in English and Spanish. Translation for non-English speaking participants will be provided as appropriate by institution, as required.\n7. Women of childbearing potential must agree to use highly effective forms of contraception for at least 42 days after the one-time use of the Gleolan study drug.\n\nExclusion Criteria:\n\n1. Patient is to undergo laparoscopy and their surgeon believes it is unlikely that laparotomy/debulking will occur.\n2. Hypersensitivity to aminolevulenic acid (ALA) or porphyrins.\n3. Acute or chronic types of porphyria.\n4. Uncontrolled concurrent illness, including but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness.\n5. Patient has had chemotherapy, tumor resection or radiation treatment within 21 days prior to surgery.\n6. Social or medical situations that would limit compliance with study requirements (e.g. ability to travel for follow-up or inability to obtain appropriate pre-op MRI, PET, or CT.\n7. Women who are pregnant or plan to become pregnant during study participation.\n8. Simultaneous participation in another investigational treatment trial in the 21 days directly preceding or after study drug administration.\n9. Simultaneous use of other potentially phototoxic substances (e.g., St. John's wort, griseofulvin, thiazide diuretics, sulfonylureas, phenothiazines, sulphonamides, quinolones and tetracyclines), and topical preparations containing ALA for 24 hours during the perioperative period.\n10. Unwillingness by study participant to sign consent or return for subsequent visits following surgery.\n11. Any condition that in the opinion of the Investigator would exclude the study participant as a viable candidate for this study.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Luminis Health Anne Arundel Medical Center",
+      "city": "Annapolis",
+      "state": "Maryland",
+      "zip": "21401",
+      "status": "TERMINATED"
+    },
+    {
+      "facility": "University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "WellSpan Health",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To determine the clinical usefulness of Gleolan to detect epithelial ovarian cancer tissue not detected during SoC debulking surgery.",
+      "timeFrame": "Surgery (Day 1)",
+      "description": "Percentage of participants with at least one suspected ovarian cancer lesion (including lymph nodes) where Gleolan-induced FL is confirmed by central histopathology (Standard of Truth) to be tumor that was not detected during SoC debulking, among all participants who meet the eligibility criteria for the study and receive any amount of Gleolan."
+    }
+  ],
+  "sponsor": "NX Development Corp",
+  "collaborators": [],
+  "start_date": "2024-05-30",
+  "completion_date": "2027-05",
+  "last_updated": "2025-09-26"
+}

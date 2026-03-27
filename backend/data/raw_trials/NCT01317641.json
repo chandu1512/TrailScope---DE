@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT01317641",
+  "brief_title": "Safety and Pharmacokinetics Study of ODM-201 in Castrate Resistant Prostate Cancer",
+  "official_title": "Safety and Pharmacokinetics of ODM-201 in Patients With Castrate Resistant Prostate Cancer: Open, Non-randomised, Uncontrolled, Multicentre, Multiple Dose Escalation Study With a Randomised Phase II Expansion Component",
+  "brief_summary": "The purpose of this study is to evaluate safety, tolerability and pharmacokinetics of ODM-201 in patients with castrate resistant prostate cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 136,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "ODM-201",
+      "type": "DRUG",
+      "description": "ODM-201 administered orally daily"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Written informed consent\n* Histologically confirmed adenocarcinoma of prostate\n* Ongoing androgen deprivation therapy with a LHRH analogue or antagonist or bilateral orchiectomy\n* Progressive metastatic disease\n* Adequate bone marrow, hepatic, and renal function\n\nExclusion Criteria:\n\n* Known metastases in the brain\n* History of other malignancy within the previous 5 years\n* Known gastrointestinal disease or procedure that affects the absorption\n* Not able to swallow the study drug",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Chesapeake Urology Research Associates",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21327",
+      "status": ""
+    },
+    {
+      "facility": "Delaware Valley urology, LLC",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1: Number of Participants Who Experienced Dose Limiting Toxicity (DLT)",
+      "timeFrame": "Up to 28 days for each cohort",
+      "description": "A DLT was any Grade 3 or more toxicity (by National Cancer Institute Common Terminology Criteria for Adverse Events \\[NCI CTCAE version 4.03\\]) excluding less than Grade 4 neutropenia or thrombocytopenia, hematological toxicity lasting less than 7 days, and nausea, vomiting, diarrhea controlled with antiemetic and/or anti-diarrheal treatment."
+    },
+    {
+      "measure": "Phase 1: Number of Dose Limiting Toxicities Used to Determine the Maximum Tolerated Dose",
+      "timeFrame": "Up to 28 days for each cohort",
+      "description": "The MTD is defined as dose level at which 2 or more out of 6 participants experience a dose limiting toxicity (DLT)"
+    }
+  ],
+  "sponsor": "Orion Corporation, Orion Pharma",
+  "collaborators": [
+    "Endo Pharmaceuticals"
+  ],
+  "start_date": "2011-03",
+  "completion_date": "2013-07",
+  "last_updated": "2017-02-09"
+}

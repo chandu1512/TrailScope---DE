@@ -1,0 +1,55 @@
+{
+  "nct_id": "NCT02384382",
+  "brief_title": "A Positron Emission Tomography/Computed Tomography (PET/CT) Bone Imaging Study in Patients Receiving Enzalutamide for Castration-Resistant Prostate Cancer (CRPC)",
+  "official_title": "A PHASE 2, OPEN-LABEL, SINGLE-ARM STUDY OF 18F-SODIUM FLUORIDE PET/CT BONE IMAGING IN ENZALUTAMIDE-TREATED CHEMOTHERAPY-NA\u00cfVE PATIENTS WITH BONE-METASTATIC CASTRATION-RESISTANT PROSTATE CANCER",
+  "brief_summary": "The purpose of this study is to evaluate 18F-sodium fluoride positron-emission tomography / computed tomography (18F-NaF PET/CT) imaging as a method for determining treatment response in metastatic bone lesions in patients who are receiving enzalutamide for castration-resistant prostate cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 23,
+  "conditions": [
+    "Prostate Carcinoma Metastatic to the Bone",
+    "Castration Resistant Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Enzalutamide",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate without neuroendocrine differentiation, or signet cell or small cell features;\n* Presence of bone metastatic disease as assessed by at least two lesions on whole body metastable technetium-methylene diphosphonate (99mTc-MDP) bone scintigraphy;\n* Throughout the study, ongoing androgen deprivation therapy with a luteinizing hormone-releasing hormone (LHRH) analogue or prior bilateral orchiectomy (medical or surgical castration);\n* Testosterone \u2264 1.73 nmol/L (\u2264 50 ng/dL) at screening;\n* Progressive disease on androgen deprivation therapy at screening defined as a minimum of two sequentially rising prostate-specific antigen (PSA) values (PSA1 \\< PSA2 \\< PSA3);\n* The screening PSA (PSA3) must be \u2265 2 \u03bcg/L (\u2265 2 ng/mL).\n\nExclusion Criteria:\n\n* Prior enzalutamide, abiraterone acetate, aminoglutethimide, ketoconazole, radium Ra 223 dichloride or other bone-targeting radionuclides, or cytotoxic chemotherapy in the CRPC setting for the treatment of prostate cancer or participation in a clinical trial of an investigational agent that inhibits the androgen receptor or androgen synthesis (unless treatment was placebo);\n* Treatment with hormonal therapy (eg, androgen receptor inhibitors, 5-alpha reductase inhibitors) or biologic therapy for prostate cancer (other than LHRH analogue therapy) within 4 weeks before enrollment;\n* Initiation of new treatment with denosumab, bisphosphonates, or systemic corticosteroids for treatment of prostate cancer within 4 weeks before enrollment;\n* Use of an investigational agent within 4 weeks before the screening visit;\n* Radiation therapy to bone within 4 weeks before enrollment;\n* Use of opiate analgesics for prostate cancer pain within 4 weeks before enrollment;\n* Screening 99mTc-MDP bone scintigraphy showing a superscan;\n* Visceral (eg, lung, liver) metastatic disease. Adenopathy is allowed;\n* Current or previously treated brain metastasis or active leptomeningeal disease;\n* History of seizure any time in the past for any reason or any condition that may predispose to seizures.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With at Least (>=) 1 Responding Bone Lesion Assessed by Total Sodium Fluoride (NaF) Standardized Uptake Value [SUVtotal] at Third 18F-NaF PET/CT Imaging (NaF-3) Schedule",
+      "timeFrame": "At NaF-3 schedule: at time of PSA, or radiographic(bone or soft tissue), or clinically relevant progression, or at 2years without progression after treatment initiation, whichever occurred first(From first dose of study drug up to maximum of 34.1 months)",
+      "description": "Bone lesion responded: if its change from baseline in SUVtotal is below limit of agreement (LOA, no specific value, based upon test/retest analysis using software). SUVtotal: total NaF uptake,indicated tumor burden across all bone lesions/in individual lesions reflecting bone-metastatic prostate cancer.NaF-3 performed on any of these: 1) prostate-specific antigen (PSA) progression(increase of \\>=25% and absolute increase of \\>=2.0 ng/mL above nadir); 2) bone progressive disease(PD)(appearance of \\>=2 new lesions after screening assessed by technetium Tc 99m medronate \\[99mTc-MDP\\] bone scintigraphy); 3) soft tissue PD; 4) clinically relevant progression by investigator; 5) at 2 years without progression after treatment initiation. PD, RECIST1.1:\\>=20% increase in sum of diameters of target lesions,(reference smallest sum on study, included baseline sum if that is smallest on study),relative increase of 20%,sum of diameters indicated absolute increase of \\>=5mm, appearance of \\>=1 new lesions."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [
+    "Astellas Pharma Inc",
+    "Medivation LLC, a wholly owned subsidiary of Pfizer Inc."
+  ],
+  "start_date": "2015-11-30",
+  "completion_date": "2019-05-03",
+  "last_updated": "2020-04-20"
+}

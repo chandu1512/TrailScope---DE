@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT06133816",
+  "brief_title": "Lung Cancer Screening Eligibility Assessment",
+  "official_title": "Using a Simplified Tool to Predict Lung Cancer Screening (LCS) Eligibility: Experiment to Test Effects of Messaging on Response Rates",
+  "brief_summary": "The primary purpose of this study evaluate if different messaging impacts response rates to a brief survey (i.e., the simplified eligibility tool) that is designed to estimate pack-year eligibility for lung cancer screening (LCS). This will help inform the best way to increase response rates to the tool in future intervention studies designed to increase LCS, and expand upon survey methodology in general.",
+  "detailed_description": "Despite growing evidence that lung cancer screening (LCS) reduces lung cancer-specific mortality, LCS across the United States is remarkably low. This is due in part to challenges with identifying adults who meet eligibility criteria for lifetime smoking intensity (i.e., 20 pack-years or greater), which is often missing from the electronic medical record. We have developed a simplified eligibility tool that has shown accuracy in estimating pack-years. But given the potential for low response rates, there is a great need to identify effective strategies to increasing response rates equitably prior to using it in practice or in future studies. The primary purpose of this study evaluate if different messaging impacts response rates to a brief survey (i.e., the simplified eligibility tool) that is designed to estimate pack-year eligibility for lung cancer screening (LCS). This will help to identify the best way to increase response rates to the tool in future intervention studies designed to increase LCS, and expand upon survey methodology in general.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 6125,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Framed Introductory Message A",
+      "type": "BEHAVIORAL",
+      "description": "Randomly assign patients to receive introductory message encouraging them to complete the survey (version A)."
+    },
+    {
+      "name": "Framed Introductory Message B",
+      "type": "BEHAVIORAL",
+      "description": "Randomly assign patients to receive introductory message encouraging them to complete the survey (version B)."
+    },
+    {
+      "name": "Framed Introductory Message C",
+      "type": "BEHAVIORAL",
+      "description": "Randomly assign patients to receive introductory message encouraging them to complete the survey (version C)."
+    },
+    {
+      "name": "Framed Tobacco Use Message A",
+      "type": "BEHAVIORAL",
+      "description": "Randomly assign patients to receive norming message related to tobacco use (version A)."
+    },
+    {
+      "name": "Framed Tobacco Use Message B",
+      "type": "BEHAVIORAL",
+      "description": "Randomly assign patients to receive norming message related to tobacco use (version B)."
+    },
+    {
+      "name": "Financial Incentive",
+      "type": "BEHAVIORAL",
+      "description": "Randomly assigned patients to be entered into a drawing to receive a $100 gift card."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. meet age eligibility (50-80 years old) for LCS based on 2021 USPSTF guidelines; and\n2. have completed at least one primary care visit at Penn Medicine in 2020-2025\n\nExclusion Criteria:\n\n1. have a documented history of lung cancer;\n2. have a documented history of completing LCS at Penn Medicine;\n3. are listed as not wanting to be contacted or solicited for research; or\n4. do not otherwise meet inclusion criteria.",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Full Survey Completion",
+      "timeFrame": "7 days",
+      "description": "The proportion of participants that answers all three survey questions via text message among all those randomized."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "National Institutes of Health (NIH)",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2023-07-31",
+  "completion_date": "2024-01-31",
+  "last_updated": "2025-05-29"
+}

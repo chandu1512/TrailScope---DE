@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT02000089",
+  "brief_title": "The Cancer of the Pancreas Screening-5 CAPS5)Study",
+  "official_title": "The Cancer of the Pancreas Screening-5 CAPS5)Study",
+  "brief_summary": "Johns Hopkins clinical research office quality assurance group will monitor and audit this study at Johns Hopkins. The Sub Investigator at each site will be responsible for internal monitoring at their site.",
+  "detailed_description": "The Sub Investigator at each site will be responsible for internal monitoring at their site. The site sub Investigator and study team will report any serious adverse events to Principal Investigator and annually report adverse events.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 9000,
+  "conditions": [
+    "Pancreas Cancer",
+    "Peutz-Jeghers Syndrome (PJS)",
+    "Gene Mutation",
+    "Germline Mutation Carrier",
+    "Lynch Syndrome"
+  ],
+  "interventions": [
+    {
+      "name": "Secretin",
+      "type": "DRUG",
+      "description": "inject Secretin to stimulate pancreatic digestive fluid, which is collected in duodenum near ampulla via endoscope suction port. This fluid will be assessed for biomarkers."
+    },
+    {
+      "name": "MRI",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "MRI abdomen with contrast (MRCP) will be clinically indicated for abnormal novel CA-19-9 lab results."
+    },
+    {
+      "name": "Tumor marker gene test with CA19-9",
+      "type": "OTHER",
+      "description": "A tumor marker gene test that will be used to stratify individuals into one of several circulating tumor marker reference ranges for CA19-9. The variants in the genes FUT3 and FUT2 affect the levels of CA19-9."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Hereditary Pancreatitis or\n* Peutz-Jeghers Syndrome or\n* Strong family history of pancreas cancer on one side of the family tree or\n* Confirmed germline mutation carrier (BRCA2, FAMMM (CDKN2A/p16), PALB2, BRCA1, ATM, HNPCC, Lynch Syndrome (hMLH1, hMSH2, PMS2, hMSH6, EpCAM) PRSS1, PRSS2, R122H, N291l, SPINK1, CFTR\n* Endoscopic evaluation of pancreas scheduled\n\nExclusion Criteria:\n\n* Medical comorbidities or coagulopathy that contraindicate endoscopy\n* Prior surgery that prevent optimal endoscopic ultrasound such as partial or complete gastrectomy with Bilroth or Roux-en-Y anastomosis\n* Stricture or obstruction in the upper GI tract that does not allow passage of the echoendoscope\n* Poor performance status\n* Inability to provide informed consent\n* Pregnancy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "University of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Evaluate pancreatic juice for early cancer markers.",
+      "timeFrame": "10 years",
+      "description": "Aim #1: To evaluate pancreatic fluid mutations and circulating pancreatic epithelial cells as accurate markers of neoplasia by comparing their prevalence in cases with sporadic pancreatic neoplasia to healthy and disease controls."
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "National Institutes of Health (NIH)",
+    "American Association for Cancer Research"
+  ],
+  "start_date": "2014-01-06",
+  "completion_date": "2029-06",
+  "last_updated": "2025-10-08"
+}

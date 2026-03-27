@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT04439253",
+  "brief_title": "Testing Crizotinib as a Potential Targeted Treatment in Cancers With ROS1 Genetic Changes (MATCH-Subprotocol G)",
+  "official_title": "MATCH Treatment Subprotocol G: Phase II Study of Crizotinib in Patients With ROS1 Translocations (Other Than Patients With Non-Small Cell Lung Cancer)",
+  "brief_summary": "This phase II MATCH treatment trial identifies the effects of crizotinib in patients whose cancer has a genetic change called ROS1 translocation. Crizotinib may block a protein called ROS1, which may be needed for cancer cell growth. Researchers hope to learn if crizotinib will shrink this type of cancer or stop its growth.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate the proportion of patients with objective response (OR) to targeted study agent(s) in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the proportion of patients alive and progression free at 6 months of treatment with targeted study agent in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nII. To evaluate time until death or disease progression. III. To identify potential predictive biomarkers beyond the genomic alteration by which treatment is assigned or resistance mechanisms using additional genomic, ribonucleic acid (RNA), protein and imaging-based assessment platforms.\n\nIV. To assess whether radiomic phenotypes obtained from pre-treatment imaging and changes from pre- through post-therapy imaging can predict objective response and progression free survival and to evaluate the association between pre-treatment radiomic phenotypes and targeted gene mutation patterns of tumor biopsy specimens.\n\nOUTLINE:\n\nPatients receive crizotinib orally (PO) twice daily (BID) on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up every 3 months if less than 2 years from study entry, and then every 6 months for year 3 from study entry.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 4,
+  "conditions": [
+    "Advanced Lymphoma",
+    "Advanced Malignant Solid Neoplasm",
+    "Hematopoietic and Lymphoid Cell Neoplasm",
+    "Refractory Lymphoma",
+    "Refractory Malignant Solid Neoplasm",
+    "Refractory Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Crizotinib",
+      "type": "DRUG",
+      "description": "Given PO"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have met applicable eligibility criteria in the Master MATCH Protocol prior to registration to treatment subprotocol\n* Patients must be positive for translocation or inversion events involving the ROS1 gene via the MATCH Master Protocol\n* Patients must have an electrocardiogram (ECG) within 8 weeks prior to treatment assignment and must have no clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g. complete left bundle branch block, third degree heart block)\n\nExclusion Criteria:\n\n* Patients must not have NSCLC with ROS1 rearrangements\n* Patients with a history of interstitial lung disease or pneumonitis are excluded\n* Patients must not have known hypersensitivity to crizotinib or compounds of similar chemical or biologic composition\n* Patients using drugs or foods that are known potent CYP3A4 inhibitors or inducers will be excluded\n* Patients must not have had prior therapy with any ROS1 inhibitor including crizotinib, ceritinib, foretinib, cabozantinib, AP26113, ASP3026, WZ-5-126, TAE684, KIST301072, KIST301080, AZD1480, PF-06463922, RXDX-101 and PF-3922",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "ECOG-ACRIN Cancer Research Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "timeFrame": "Tumor assessments occurred at baseline, then every 2 cycles for the first 26 cycles and every 3 cycles thereafter until disease progression, up to 3 years post registration",
+      "description": "Overall response rate was defined as the proportion of patients with best overall response of complete response (CR) or partial response (PR) among all eligible and treated patients. Best overall response was evaluated using the Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. Please refer to the protocol for the detailed definitions of response criteria. The 90% two-sided binomial exact confidence interval was calculated for ORR."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2015-08-12",
+  "completion_date": "2026-03-17",
+  "last_updated": "2025-09-17"
+}

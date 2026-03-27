@@ -1,0 +1,91 @@
+{
+  "nct_id": "NCT01978184",
+  "brief_title": "Randomized Phase II Trial of Pre-Operative Gemcitabine and Nab Paclitacel With or With Out Hydroxychloroquine",
+  "official_title": "Randomized Phase II Trial of Pre-Operative Gemcitabine and Nab Paclitacel With or With Out Hydroxychloroquine",
+  "brief_summary": "This is a randomized phase II trial that will examine the ability of the hydroxychloroquine to improve the clinical activity of a pre-operative regimen of gemcitabine and nab-paclitaxel in subjects with potentially resectable adenocarcinoma of the pancreas. Eligible subjects will receive 2 cycles of gemcitabine and nab-paclitaxel (day 1, 8, 15) with or without hydrocychloroquine followed by surgical resection. Primary endpoint will be histologic response as graded by Evans criteria. Secondary endpoints will be CA19-9 response and PET response. Pre and post treatment tissue biopsies will be obtained to assess for levels of autophagy in tumor, liver and peripheral blood.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 104,
+  "conditions": [
+    "Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "gemcitabine",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "abraxane",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "hydroxychloroquine",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subjects with biopsy-proven potentially resectable or borderline adenocarcinoma of the pancreas as determined by National Comprehensive Cancer Network (NCCN) criteria\n* Karnofsky performance status of 70-100%\n* No active second malignancy except for basal cell carcinoma of the skin\n* Patient has adequate biological parameters as demonstrated by the following blood counts at screening\n* Absolute neutrophil count (ANC) \u22651.5 \u00d7 109/L;\n* Platelet count \u2265100,000/mm3 (100 \u00d7 109/L);\n* Hemoglobin (Hgb) \u22659 g/dL.\n* Patient has the following blood chemistry levels at Baseline\n* aspartate aminotransferase (AST) (SGOT), Alanine transaminase (SGPT) \u22642.5 \u00d7 upper limit of normal range (ULN)\n* Total bilirubin \u2264ULN\n* Serum Creatinine \u2264 1.5mg/dl OR calculated creatinine clearance \u2265 50 for those patients with creatinine greater than 1.5\n* Prothrombin time (PT)within normal limits (WNL). If patient is on warfarin for prophylactic clot presentation for indwelling catheter, Partial PT/PTT may be +/- 15 %\n* thromboplastin time (PTT) WNL. If patient on warfarin for prophylactic clot presentation for indwelling catheter, PT/PTT may be +/- 15 %\n* Age \\>18 years.\n* Patient must be able to swallow enteral medications with no requirement for a feeding tube. Patient's must not have intractable nausea or vomiting which prohibits the patient from oral medications\n* Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n* Subjects deemed surgically unresectable or subjects unwilling to undergo surgical resection.\n* Subjects who have received chemotherapy within 12 months prior to randomization.\n* Prior use of radiotherapy or investigational agents for pancreatic cancer.\n* Any evidence of metastasis to distant organs (liver, lung, peritoneum).\n* Symptomatic evidence of gastric outlet obstruction\n* Inability to adhere to study and/or follow-up procedures\n* History of allergic reactions or hypersensitivity to the study drugs (hydroxychloroquine, gemcitabine, abraxane).\n* Women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation. All females of childbearing potential must have a blood test or urine study within two weeks prior to randomization to rule out pregnancy.\n* Patients with porphyria are ineligible.\n* Patients with psoriasis are ineligible unless the disease is well controlled and they are under the care of a specialist who agrees to monitor the patient for exacerbations.\n* Patients requiring the use of enzyme-inducing anti-epileptic medication that includes: phenytoin, carbamazepine, phenobarbital, primidone or oxcarbazepine are excluded.\n* Patients with previously documented macular degeneration or diabetic retinopathy are excluded.\n* Baseline electrocardiogram (EKG) with corrected QT interval (QTc) \\>470 msec (including subjects on medication). Subjects with ventricular pacemaker for whom QT interval is not measurable will be eligible on a case-by-case basis.\n* Patient with a history of interstitial lung disease, history of slowly progressive dyspnea, sarcoidosis, silicosis, idiopathic pulmonary fibrosis or pulmonary hypersensitivity pneumonitis\n* Patient with known active infection with HIV, Hepatitis B or Hepatitis C\n* Patients requiring use of warfarin for therapeutic purposes.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Evans Grade Histopathologic Response",
+      "timeFrame": "Up to 4 years",
+      "description": "The number of patients who exhibited an Evans grade Histologic response (I, IIA, IIB, or III) to pre-operative gemcitabine / nab-paclitaxel. Histological response validated scoring system by Evans is as follows: Grade I: 1-9% tumor destruction, Grade II: 10 - 90%, Grade III: \\>90% tumor destruction (Grade IIA = 10-50% of tumor cells destroyed; Grade IIB = 50-90% of tumor cells destroyed), Grade IV: Absence of viable tumor cells."
+    },
+    {
+      "measure": "Age at Diagnosis",
+      "timeFrame": "Baseline - At the time of diagnosis, prior to treatment",
+      "description": "The mean age of patients at the time of diagnosis of disease (as a variable in the proportional odds logistic regression, secondary analysis of Evans Grade)."
+    },
+    {
+      "measure": "CT Tumor Size",
+      "timeFrame": "Baseline - At the time of diagnosis, prior to treatment",
+      "description": "Tumor size as measured via computerized tomography (CT) scan (as a variable in the proportional odds logistic regression, secondary analysis of Evans Grade)."
+    },
+    {
+      "measure": "Cancer Diagnosis Stage",
+      "timeFrame": "Baseline - At the time of diagnosis, prior to treatment",
+      "description": "The number of participants in cancer diagnosis stage groups. Stage 0: cancer hasn't spread to nearby tissues/located in the same of origin.Stage I: cancers hasn't grown deeply into nearby tissues or spread to lymph nodes or other parts of the body. Stage II and III: cancers have grown more deeply into nearby tissues (may have metastasized to lymph nodes but not other parts of the body). Stage IV: most advanced stage (metastatic cancer) ; cancer has spread to other parts of the body. Stages subdivided further into the categories \"A\" (less agressive disease) and \"B\" (more advanced cancer). Example: stage IIA is less aggressive than stage IIB, but stage IIIA is more aggressive than stage IIB. (Stage variable used in the proportional odds logistic regression, secondary analysis of Evans Grade)."
+    },
+    {
+      "measure": "Type of Surgical Procedure (Operation)",
+      "timeFrame": "At the time of surgery (\u22652 weeks and \u22646 weeks post chemotherapy)",
+      "description": "The number of participants in having each type of surgical resection procedure: Celiac Axis Resection With Distal Pancreatectomy (DPCAR) (Modified Appleby), Distal Pancreatectomy, Total Pancreatectomy, or Whipple. (Operation variable used in the proportional odds logistic regression, secondary analysis of Evans Grade)."
+    },
+    {
+      "measure": "Robotic Resection Surgery",
+      "timeFrame": "At the time of surgery (\u22652 weeks and \u22646 weeks post chemotherapy)",
+      "description": "The number of participants who had robotic resection surgery. (Robotic surgery variable used in the proportional odds logistic regression, secondary analysis of Evans Grade)."
+    },
+    {
+      "measure": "Age-Adjusted Charlson Comorbidity Index",
+      "timeFrame": "Prior to treatment",
+      "description": "The Charlson Comorbidity Index is a method of categorizing comorbidities of patients based on the International Classification of Diseases (ICD) diagnosis codes found in administrative data, such as hospital abstracts data. Each comorbidity category has an associated weight (from 1 to 6), based on the adjusted risk of mortality or resource use, and the sum of all the weights results in a single comorbidity score for a patient. A score of zero indicates that no comorbidities were found. The higher the score, the more likely the predicted outcome will result in mortality or higher resource use. Up to 12 comorbidities with various weightings can result in a maximum score of 24. The minimum score is zero."
+    }
+  ],
+  "sponsor": "Nathan Bahary, MD",
+  "collaborators": [],
+  "start_date": "2013-11",
+  "completion_date": "2018-02-28",
+  "last_updated": "2019-03-25"
+}

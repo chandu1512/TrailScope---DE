@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT02057107",
+  "brief_title": "SBRT With Cetuximab +/- Docetaxel Followed by Adjuvant Cetuximab +/- Docetaxel in Recurrent, Previously-Irradiated SCCHN",
+  "official_title": "Randomized Phase II Trial of Stereotactic Body Radiation Therapy (SBRT) With Cetuximab +/- Docetaxel Followed by Adjuvant Cetuximab +/- Docetaxel in Recurrent, Previously-Irradiated Squamous Cell Carcinoma of the Head and Neck (SCCHN)",
+  "brief_summary": "The aim of this trial is to examine the addition of docetaxel on disease progression, metastasis and survival of patients otherwise treated with SBRT and cetuximab alone. To better resolve the impact of the experimental treatment the presence/absence of prior cetuximab treatment will be determine before assigning treatment to either cetuximab and SBRT only or cetuximab, SBRT, and docetaxel.",
+  "detailed_description": "The aim of this trial is to examine the addition of docetaxel on the overall survival of patients otherwise treated with SBRT and cetuximab alone. In addition, we will determine the difference in progression free survival (PFS), the rate of local recurrence (LR) and of distant metastases (DM) across the SBRT and cetuximab + docetaxel arm and the arm receiving SBRT and cetuximab alone. To better resolve the impact of the experimental treatment on PFS, LR, and DM, patients will be stratified by the presence/absence of prior cetuximab treatment and then randomized to either the control arm (cetuximab and SBRT only) or the experimental arm (cetuximab, SBRT, and docetaxel).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 40,
+  "conditions": [
+    "Previously-Irradiated",
+    "Squamous Cell Carcinoma of the Head and Neck Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "SBRT",
+      "type": "RADIATION",
+      "description": "8.8-10 Gy per fraction (total: 44-50 Gy)"
+    },
+    {
+      "name": "Cetuximab",
+      "type": "DRUG",
+      "description": "Day -7 (One week prior to commencement of stereotactic radiosurgery):\n\nCetuximab, 400 mg/m2\n\nDays 0 and 8 (The 1st and 2nd week of radiosurgery):\n\nCetuximab, 250 mg/m2 Cetuximab, 250 mg/m2 will be given weekly ( following radiosurgery)"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Days 0 and 8 (The 1st and 2nd week of radiosurgery) Docetaxel, 25 mg/m2 Docetaxel, 25 mg/m2 will be given weekly (following radiosurgery)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically-proven recurrent squamous cell carcinoma of the head and neck (SCCHN), who has received prior radiotherapy with or without chemotherapy. New primary is allowed if location is in a previously irradiated field. Biopsy is recommended for each recurrence but is not mandated per study. This will be at the discretion of the principal investigator.\n* Prior radiation dose of at least 50 Gy.\n* Disease confined to locoregional site and can be encompassed in a stereotactic body radiosurgery \"portal\"\n* Tumor must be deemed to be inoperable or unresectable either by clinical or radiographic criteria. These criteria include encasement of great vessels, vertebral invasion or undue peri-operative risk.\n* Prior surgery for recurrent or new SCCHN is allowed in previously irradiated patients. A minimum of 4 weeks should elapse between any surgery and treatment on study. However, high-risk pathologic features should be present, such as positive margins, positive lymphadenopathy, perineural or angiolymphatic invasion.\n* Karnofsky performance status \\> 60 (ECOG 0-1)\n* Prior treatment with an EGFR Inhibitor is allowed if it was a part of prior curative therapy and was completed at least 30 days prior to commencement of study therapy\n* Any number of prior chemotherapy regimens are allowed\n* Measurable disease on imaging studies (MRI, CT, PET-CT or physical exam)\n* Age \\> 18\n* Estimated life expectancy \\> 12 weeks\n* No prior radiation therapy or chemotherapy within 1 month of study enrollment\n* ANC \\> 1000, PLT\\>75,000, Serum creatinine\\<2.5 mg/dL, Bilirubin \\<1.5 x upper limits of normal (ULN)\n* Diabetes must be controlled prior to PET-CT scanning (blood glucose \\<200 mg/dL)\n* Ability to provide written informed consent\n\nExclusion Criteria:\n\n* Evidence of distant metastasis on upright chest x-ray (CXR), computed tomography (CT) or other staging studies\n* Patients in their reproductive age group should use an effective method of birth control. Patients who are breast-feeding, or have a positive pregnancy test will be excluded from the study\n* Any co-morbidity or condition of sufficient severity to limit full compliance with the protocol per assessment by the investigator\n* Concurrent serious infection\n* History of known hypersensitivity to cetuximab, docetaxel or similar agents",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center - Radiation Oncology",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "1-Year Locoregional Progression-free survival (PFS)",
+      "timeFrame": "Up to 12 months",
+      "description": "The proportion of previously-irradiated patients treated with SBRT, cetuximab, and/or docetaxel, evaluated by PET/CT per RECIST Criteria v1.1 that do not experience locoregional disease progression within one year. Per RECIST, Progressive Disease is defined as at least a 20% increase in the sum of the longest diameters of target lesions, taking as reference the smallest sum longest diameter recorded since the baseline measurements, or the appearance of one or more new lesion(s)."
+    },
+    {
+      "measure": "Incidence of distant disease",
+      "timeFrame": "Up to 12 months",
+      "description": "The proportion of patients with distant disease evaluated by PET/CT or CT per RECIST Criteria v1.1. Malignant disease that has spread to other organs or to lymph nodes other than those near the primary tumor. Per RECIST, Progressive Disease is defined as at least a 20% increase in the sum of the longest diameters of target lesions, taking as reference the smallest sum longest diameter recorded since the baseline measurements, or the appearance of one or more new lesion(s)."
+    },
+    {
+      "measure": "Acute toxicities",
+      "timeFrame": "Up to 3 months after SBRT treatment",
+      "description": "Adverse Events and Serious Adverse Events determined by patient follow up per CTCAE v4.0 criteria."
+    },
+    {
+      "measure": "Late toxicities",
+      "timeFrame": "From 3 months after SBRT treatment, up to 3 years",
+      "description": "Adverse Events and Serious Adverse Events determined by patient follow up per CTCAE v4.0 criteria."
+    }
+  ],
+  "sponsor": "Heath Skinner",
+  "collaborators": [],
+  "start_date": "2013-07-03",
+  "completion_date": "2019-12-31",
+  "last_updated": "2023-06-01"
+}

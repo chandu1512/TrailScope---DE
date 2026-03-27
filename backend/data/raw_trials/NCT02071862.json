@@ -1,0 +1,92 @@
+{
+  "nct_id": "NCT02071862",
+  "brief_title": "Study of the Glutaminase Inhibitor CB-839 in Solid Tumors",
+  "official_title": "Ph1 Study of the Safety, PK, and PDn of Escalating Oral Doses of the Glutaminase Inhibitor CB-839, as a Single Agent and in Combination With Standard Chemotherapy in Patients With Advanced and/or Treatment-Refractory Solid Tumors",
+  "brief_summary": "Many tumor cells, in contrast to normal cells, have been shown to require the amino acid glutamine to produce energy for growth and survival. To exploit the dependence of tumors on glutamine, CB-839, a potent and selective inhibitor of the first enzyme in glutamine utilization, glutaminase, will be tested in this Phase 1 study in patients with solid tumors.\n\nThis study is an open-label Phase 1 evaluation of CB-839 in patients with advanced solid tumors. The study will be conducted in 2 parts. Part 1 is a dose escalation study enrolling patients with locally-advanced, metastatic and/or refractory solid tumors to receive CB-839 capsules orally twice or three times daily.\n\nIn Part 2, patients with each of the following diseases will be enrolled: A) Triple-Negative Breast Cancer, B) Non-Small Cell Lung Cancer (adenocarcinoma), C) Renal Cell Cancer, D) Mesothelioma, E) Fumarate hydratase (FH)-deficient tumors, F) Succinate dehydrogenase (SDH)-deficient gastrointestinal stromal tumors (GIST), G) SDH-deficient non-GIST tumors, H) tumors harboring mutations in isocitrate dehydrogenase-1 (IDH1) or IDH2, and I) cMyc mutation tumors.\n\nAs an extension of Parts 1 \\& 2, patients will be treated with CB-839 in combination with standard chemotherapy. Combination groups include: Pac-CB, CBE, CB-Erl, CBD, and CB-Cabo. Pac-CB: patients with locally-advanced or metastatic TNBC will be treated with paclitaxel and CB-839. CBE: patients with advanced clear cell RCC or papillary RCC will be treated with everolimus in combination with CB-839. CB-Erl: patients with advanced NSCLC lacking the T790M EGFR mutation will be treated with erlotinib and CB-839. CBD: patients with NSCLC harboring KRAS mutation will be treated with docetaxel and CB-839. CB-Cabo: patients with histologically confirmed diagnosis of locally-advanced, inoperable or metastatic RCC treated with cabozantinib in combination with CB-839.\n\nAll patients will be assessed for safety, pharmacokinetics (plasma concentration of drug), pharmacodynamics (inhibition of glutaminase), biomarkers (biochemical markers that may predict responsiveness in later studies), and tumor response.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 210,
+  "conditions": [
+    "Solid Tumors",
+    "Triple-Negative Breast Cancer",
+    "Non Small Cell Lung Cancer",
+    "Renal Cell Carcinoma",
+    "Mesothelioma",
+    "Fumarate Hydratase (FH)-Deficient Tumors",
+    "Succinate Dehydrogenase (SDH)-Deficient Gastrointestinal Stromal Tumors (GIST)",
+    "Succinate Dehydrogenase (SDH)-Deficient Non-gastrointestinal Stromal Tumors",
+    "Tumors Harboring Isocitrate Dehydrogenase-1 (IDH1) and IDH2 Mutations",
+    "Tumors Harboring Amplifications in the cMyc Gene"
+  ],
+  "interventions": [
+    {
+      "name": "CB-839",
+      "type": "DRUG",
+      "description": "CB-839 monotherapy"
+    },
+    {
+      "name": "Pac-CB",
+      "type": "DRUG",
+      "description": "CB-839 in combination with standard dose paclitaxel"
+    },
+    {
+      "name": "CBE",
+      "type": "DRUG",
+      "description": "CB-839 in combination with standard dose everolimus"
+    },
+    {
+      "name": "CB-Erl",
+      "type": "DRUG",
+      "description": "CB-839 in combination with standard dose erlotnib"
+    },
+    {
+      "name": "CBD",
+      "type": "DRUG",
+      "description": "CB-839 in combination with standard dose docetaxel"
+    },
+    {
+      "name": "CB-Cabo",
+      "type": "DRUG",
+      "description": "CB-839 in combination with standard dose cabozantinib"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria\n\n* Advanced malignancy that is relapsed and/or refractory to all available therapies that will confer clinical benefit. Newly diagnosed patients who refuse standard treatment regimens are also eligible\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0-1\n* Life Expectancy of at least 3 months\n* Adequate hepatic, renal, cardiac, and hematologic function\n* Measurable disease by RECIST criteria\n* Ability to provide written informed consent in accordance with federal, local, and institutional guidelines\n\nExclusion Criteria\n\n* Any other current or previous malignancy\n* Chemotherapy, radiation therapy, hormonal therapy, immunotherapy or biological therapy, or investigational agent within 21 days\n* Unable to receive medications oral medications\n* Major surgery within 28 days before Cycle 1 Day 1\n* Active infection requiring within 2 weeks prior to first dose of study drug\n* Patients who have HIV, Hepatitis A, B or C or CMV reactivation\n* Significant neurotoxicity/neuropathy (Grade 3 or higher) within 14 days of first dose of study drug\n* Conditions that could interfere with treatment or protocol-related procedures",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "NIH - NCI - Center for Cancer Research",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania, Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety and tolerability of CB-839: Incidence of adverse events",
+      "timeFrame": "Every 21 days from study start until disease progression or unacceptable toxicity, assessed for an expected average of 6 months",
+      "description": ""
+    }
+  ],
+  "sponsor": "Calithera Biosciences, Inc",
+  "collaborators": [],
+  "start_date": "2014-02",
+  "completion_date": "2019-03",
+  "last_updated": "2022-07-18"
+}

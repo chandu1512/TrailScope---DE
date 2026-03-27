@@ -1,0 +1,87 @@
+{
+  "nct_id": "NCT06879522",
+  "brief_title": "Maximizing Energy and Reducing Fatigue in Breast Cancer Survivors",
+  "official_title": "Feasibility and Early Efficacy of the Maximizing Energy Intervention for Decreasing Fatigue Impact in Breast Cancer Survivors",
+  "brief_summary": "This study is testing a program called Maximizing Energy to see if it can help women who have finished breast cancer treatment manage their fatigue. The study has two main goals:\n\n1. Check if the program can be successfully delivered - Researchers will see if women are willing to join and stay in the study, if they follow the program, and if they find it helpful.\n2. See if the program works - Researchers will compare Maximizing Energy to a general health education program to see which one helps reduce cancer-related fatigue better.\n\nParticipant will:\n\n1. Take tests to see if they qualify and to measure their fatigue.\n2. Be randomized to receive Maximizing Energy or Health Education Interventions for 6 sessions over the internet\n3. After the sessions and again one month later, repeat some tests to see if their fatigue has improved.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Breast Cancer Survivor",
+    "Cancer Related Fatigue"
+  ],
+  "interventions": [
+    {
+      "name": "Maximizing Energy Intervention",
+      "type": "BEHAVIORAL",
+      "description": "A licensed occupational therapist will deliver the intervention. The Maximizing Energy program combines problem-solving therapy (PST) and energy conservation education. Participants will participate in 6 virtual once/week sessions for 30 minutes. The introductory session, they will track their fatigue and identify three key fatigue-related problems. In session 2, they will prioritize one problem and practice problem-solving steps. They then implement an action plan and review progress in the next session. If the solution is ineffective, the therapist helps modify it or create a new one. If successful, the participant moves to the next problem. A MAX workbook supports learning, covering intervention details, fatigue education, energy conservation strategies, and problem-solving worksheets. The goal is to help participants apply these strategies to improve daily life and return to work."
+    },
+    {
+      "name": "Health Education",
+      "type": "BEHAVIORAL",
+      "description": "To control for the effects of interactions with an interventionist, participants in the attention control group will receive the Health Education intervention. The interventionists will review a workbook covering fatigue, energy conservation, healthy eating, exercise, and relaxation. Like the MAX intervention, Health Education will be delivered virtually in weekly 30-minute one-on-one sessions for six weeks. The interventionist provides education on breast cancer-related fatigue, diet, safe physical activities, and energy conservation strategies tailored to individual needs. A workbook will support learning."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* adult (18 years and older) pre and post-menopausal female at birth diagnosed with Stages I-IIIa breast cancer,\n* completed primary treatment for breast cancer (surgery, chemotherapy, radiation) at least 6 months prior to ensure that fatigue is stable and chronic, - moderate to severe fatigue based on score \u2265 4 on the 7-point Fatigue Severity Scale,\n* able to speak and understand English\n* has a mobile device that runs on the Apple or Android platform\n\nExclusion Criteria:\n\n* major depressive disorder, mania, hypomania, psychosis, or substance abuse in the past 3 months and\n* disability due to diagnoses other than breast cancer.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15219",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Retention in the study",
+      "timeFrame": "Baseline to Week 11 (4 weeks post-intervention)",
+      "description": "The proportion of participants who remain in the study until its completion relative to those initially enrolled.\n\nThe retention rate will be calculated separately for the Maximizing Energy and Control Groups using the following formula: (number of participants who completed the study/number of participants initially enrolled)X 100"
+    },
+    {
+      "measure": "Participant Adherence to treatment: Receipt",
+      "timeFrame": "Week 7 (post-6-week intervention)",
+      "description": "The investigators will collect data on the number of intervention sessions attended by participants"
+    },
+    {
+      "measure": "Participant Adherence to treatment: Receipt",
+      "timeFrame": "Week 7 (post-6-week intervention)",
+      "description": "Interventionists will rate participant's active engagement in the interventions on the Pittsburgh Participant Rating Scale. Each session will be scored 1 (no engagement, refusal) to 6 (excellent engagement) by the interventionist conducting the sessions."
+    },
+    {
+      "measure": "Participant Adherence to treatment: Enactment",
+      "timeFrame": "Week 7(post-6-week intervention)",
+      "description": "The investigators will collect interventionist rating of whether participant completed action plan from previous session (3-point scale; 0 = not completed, 2 = plan completed) for the MAX Intervention group only."
+    },
+    {
+      "measure": "Participant Satisfaction with Intervention",
+      "timeFrame": "Week 7(post-6-week intervention)",
+      "description": "Client satisfaction is measured using the Client Satisfaction Questionnaire. The Clients Satisfaction Questionnaire is an 8-item assessment of satisfaction with the intervention program, rated on a 4-point scale that ranges from 1 to 4 in each item. Higher scores indicate greater satisfaction with the intervention."
+    },
+    {
+      "measure": "Intervention Fidelity",
+      "timeFrame": "Week 7(post-6-week intervention)",
+      "description": "All intervention sessions will be video recorded and a random 20 percent will be rated by independent evaluators trained by the principal investigator. Intervention fidelity for both groups will be assessed using the PST Provider Checklist. The a priori criterion for adequate fidelity was that equal or greater than 80 percent of intervention sessions are rated with equal or greater than 80 percent of adequate fidelity for the MAX Intervention group while less than 20 percent of intervention sessions are rated with equal or lesser than 20 percent of adequate fidelity for the Health Education group."
+    },
+    {
+      "measure": "Changes in fatigue",
+      "timeFrame": "Baseline to Week 11 (4 weeks post-intervention)",
+      "description": "The PROMIS\u00ae Item Bank v1.0 - Fatigue - Short Form 13a (FACIT-Fatigue) is a 13-item questionnaire designed to assess fatigue levels and their impact on daily activities and quality of life. Each item is scored on a 5-point Likert scale (1 = not at all to 5 = very much), with a total score ranging from 13 to 65. Higher scores indicate greater fatigue, while lower scores suggest less fatigue and better energy levels."
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [],
+  "start_date": "2025-05-14",
+  "completion_date": "2026-03-15",
+  "last_updated": "2026-02-04"
+}

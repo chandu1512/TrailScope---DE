@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT05676099",
+  "brief_title": "TSC Biosample Repository and Natural History Database",
+  "official_title": "TSC Alliance Tuberous Sclerosis Complex (TSC) Biosample Repository and Natural History Database",
+  "brief_summary": "The TSC Biosample Repository collects and stores samples of blood, DNA, and tissues that scientists can request to use in their research. The samples we collect are all linked to clinical data in the TSC Natural History Database. The TSC Natural History Database captures clinical data to document the impact of the disease on a person's health over his or her lifetime. This data may be collected retrospectively or prospectively.",
+  "detailed_description": "The purpose of the project which is sponsored by the TSC Alliance is to learn more about tuberous sclerosis complex (TSC) which may lead to new treatments for conditions that affect different areas of the body such as the brain, kidney, heart, lungs, and skin. The TSC Alliance TSC Biosample Repository (BSR) was established to provide a central biobank at the Van Andel Institute (VAI) Biorepository in Grand Rapids, Michigan for the collection of blood, tissues, and cells from a vast number of individuals with TSC.\n\nThe TSC Alliance Natural History Database (NHD), established in 2006, will serve as the central repository of de-identified clinical data associated with biosamples collected from individuals with TSC. The NHD research project involves collection of retrospective and prospective private information on individuals with a diagnosis of TSC over their lifespan (i.e., a longitudinal study). The VAI Biorepository will distribute biosamples and NHD data to researchers as approved by the TSC Alliance.\n\nThis project also aims to collect biosamples and clinical data on people affected by sporadic lymphangioleiomyomatosis (sporadic LAM). LAM is a common symptom reported in TSC that may occur outside the context of a TSC diagnosis (i.e., sporadic LAM patients).\n\nThe collection of biosamples will be at a clinical study site (CSS) such as a TSC Alliance recognized TSC clinic, a non-CSS such as a participant's home, an educational meeting, or by other clinical partners (CP) with institutional review board (IRB) approval of this protocol and informed consent forms. Collection of biosamples may also occur at a non-CSS or by a licensed phlebotomist (e.g., via partnership with mobile phlebotomy companies). The VAI Biorepository will provide collection kits, instructions, and materials to the CSS, non-CSS, CP, or directly to participant.\n\nThe CSS, CP, non-CSS, or authorized representative will ship collected biosamples to the VAI Biorepository for processing and storage according to their IRB-approved standard operating procedures. The VAI Biorepository will distribute biosamples to investigators as approved by the TSC Alliance. Their accreditation under the Biorepository Accreditation Program of the College of American Pathologists (CAP) will stand as the governing rules for best practices. Distribution of biosamples will require receipt of the investigator's IRB approval and a material transfer agreement (MTA) executed between the approved investigator and the TSC Alliance.\n\nClinical data in the NHD associated with a biosample will be provided to an investigator as approved by the Natural History Database-Biosample Repository (NHD-BSR) Steering Committee.\n\nThis project is open to individuals of all ages with a diagnosis of tuberous sclerosis complex or lymphangioleiomyomatosis.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 5000,
+  "conditions": [
+    "Tuberous Sclerosis",
+    "Lymphangioleiomyomatosis"
+  ],
+  "interventions": [
+    {
+      "name": "Phlebotomy",
+      "type": "PROCEDURE",
+      "description": "Participants may elect to submit a blood sample to the Biosample Repository."
+    },
+    {
+      "name": "Buccal (cheek) swab",
+      "type": "PROCEDURE",
+      "description": "Participants may elect to submit a buccal swab sample to the Biosample Repository."
+    },
+    {
+      "name": "Genetic Testing",
+      "type": "GENETIC",
+      "description": "Biosamples may be processed and analyzed for genetic variants using whole genome sequencing (WGS) or other sequencing methods. Participants whose samples are processed in this manner may be contacted and provided the option to receive TSC1 or TSC2 genetic variant results by opting in using Consent to Return of Genetic Results Form. Participants will be offered a one-time genetic counseling session to review their results, free of charge. CLIA-certified, TSC1 or TSC2 genetic variant results will be returned to participants who opt in to receive such results. Additionally, negative results and results not able to be clinically certified will also be offered to participants with a one-time genetic counseling session to review their results, free of charge using the Return of Genetic Research Results Template Letter. CSS will be responsible for informing clinic participants that their samples have been sequenced and offer to connect participant to the TSC Alliance for further information."
+    },
+    {
+      "name": "Tissue donation after routine clinical procedure",
+      "type": "OTHER",
+      "description": "Participants may elect to submit a tissue sample to the Biosample Repository following a medical procedure."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Diagnosis of tuberous sclerosis complex or lymphangioleiomyomatosis (sporadic LAM).\n\nExclusion Criteria:\n\n\\-",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "TSC Alliance",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20910",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "University of Pennsylvania Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": "ACTIVE_NOT_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Natural History data and biosamples including blood, tissue, or other types of biological samples from individuals with TSC",
+      "timeFrame": "Average 15 years",
+      "description": "The purposes of this project are to:\n\n* Collect biosamples such as blood, tissue, fluid, or other types of bodily samples from people with TSC.\n* Collect information about people with TSC over their lifetime."
+    }
+  ],
+  "sponsor": "National Tuberous Sclerosis Association",
+  "collaborators": [],
+  "start_date": "2016-01",
+  "completion_date": "2050-12",
+  "last_updated": "2025-07-07"
+}

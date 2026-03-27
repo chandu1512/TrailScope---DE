@@ -1,0 +1,183 @@
+{
+  "nct_id": "NCT03005782",
+  "brief_title": "Study of REGN3767 (Anti-LAG-3) With or Without REGN2810 (Anti-PD1) in Advanced Cancers",
+  "official_title": "A Phase 1, Open-Label, Dose-Escalation and Cohort Expansion First-in-Human Study of the Safety, Tolerability, Activity and Pharmacokinetics of REGN3767 (Anti-LAG-3 mAb) Administered Alone or in Combination With REGN2810 (Anti-PD-1 mAb) in Patients With Advanced Malignancies",
+  "brief_summary": "The primary objectives in the dose escalation phase are to evaluate safety and pharmacokinetics (PK) in order to determine the selected dose level(s) for expansion of REGN3767 as monotherapy and in combination with cemiplimab in patients with advanced malignancies, including lymphoma.\n\nThe primary objectives in the dose expansion phase are to assess preliminary anti-tumor activity of REGN3767 alone and in combination with cemiplimab (separately by cohort) as measured by objective response rate (ORR).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 333,
+  "conditions": [
+    "Malignancies"
+  ],
+  "interventions": [
+    {
+      "name": "REGN3767",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "cemiplimab",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Dose escalation cohorts: Patients with histologically or cytologically confirmed diagnosis of malignancy (including lymphoma) with demonstrated progression of a tumor for whom there is no available therapy likely to convey clinical benefit AND who have not been previously treated with a PD-1/PD-L1 inhibitor. These patients do not require measurable disease\n* Dose expansion cohorts: Patients with histologically or cytologically confirmed diagnosis of 1 of specified tumors with measurable disease per RECIST 1.1 or Lugano criteria. Some patients may have been previously treated with a PD-1 or PD-L1 inhibitor\n* Eastern Cooperative Oncology Group performance status of 0 or 1\n* Adequate organ and bone marrow function\n\nKey Exclusion Criteria:\n\n* Prior treatment with any LAG-3 targeting biologic or small molecule\n* Radiation therapy within 2 weeks prior to randomization and not recovered to baseline from any AE due to radiation\n* Untreated or active central nervous system metastases - Ongoing or recent (within 5 years) evidence of significant autoimmune disease\n* Corticosteroid therapy (\\>10 mg prednisone/day or equivalent) within 1 week prior to the first dose of study drug\n* Myocardial infarction within 6 months\n\nNote: Other protocol defined Inclusion / Exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "John Theurer Cancer Center, Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Rate of dose limiting toxicities (Dose Escalation Phase)",
+      "timeFrame": "Baseline to 28 days",
+      "description": ""
+    },
+    {
+      "measure": "Rate of adverse events (Dose Escalation Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Rate of serious adverse events (Dose Escalation Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Occurrence of death (Dose Escalation Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Number of patients with laboratory abnormalities (grade 3 or higher per Common Terminology Criteria for Adverse Events [CTCAE]) (Dose Escalation Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Area under the curve (AUC) computed from time zero to the time of the last concentration [AUCall] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "AUCall-to-dose ratio [AUCall/Dose] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "AUC from time zero extrapolated to infinity [AUCinf] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "AUCinf-to-dose ratio [AUCinf/dose] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "AUC computed from time zero to the time of the last positive concentration [AUClast] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "AUClast-to-dose ratio [AUClast/dose] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Clearance [CL] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Maximum Plasma Concentration [Cmax] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to week 51",
+      "description": ""
+    },
+    {
+      "measure": "Cmax-to-dose ratio [Cmax/dose] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Last positive (quantifiable) concentration [Clast] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Mean residence time extrapolated to infinity [MRTinf] (Dose Escalation Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Mean residence time when the drug concentration profile is based on values up to and including the last positive concentration [MRTlast] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Observed terminal half-life [t1/2] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "t1/2 beta (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Time of the last positive (quantifiable) concentration [tlast] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Time to Cmax [tmax] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Volume of distribution at steady state [Vss] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Volume of distribution of the terminal phase [Vz] (Primary: Dose Escalation Phase; Secondary: Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Objective response rate based on RECIST 1.1 for Solid Tumors (Dose Expansion phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Objective response rate by Lugano criteria for Lymphoma (Dose Expansion Phase)",
+      "timeFrame": "Baseline to 51 weeks",
+      "description": ""
+    }
+  ],
+  "sponsor": "Regeneron Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2016-11-07",
+  "completion_date": "2024-04-02",
+  "last_updated": "2024-04-29"
+}

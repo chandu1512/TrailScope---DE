@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT06566079",
+  "brief_title": "Study of ISM6331 in Participants With Advanced/Metastatic Malignant Mesothelioma or Other Solid Tumors",
+  "official_title": "A Phase 1, Open-Label, Multicenter, FIH Study to Evaluate the Safety, Tolerability, Pharmacokinetics/Pharmacodynamics, and Preliminary Efficacy of ISM6331 in Participants With Advanced/Metastatic Malignant Mesothelioma or Other Solid Tumors",
+  "brief_summary": "This is a Phase 1, open-label, multicenter, FIH study to evaluate the safety, tolerability, recommended Phase 2 dose (RP2D), PK/PD, and preliminary anti-tumor activity of ISM6331 in participants with advanced or metastatic malignant mesothelioma or other solid tumors. The study consists of two parts, a dose escalation part (Part 1) and a dose selection optimization part (Part 2).",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 100,
+  "conditions": [
+    "Malignant Mesothelioma",
+    "Metastatic Malignant Solid Tumor",
+    "Advanced Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "ISM6331",
+      "type": "DRUG",
+      "description": "Dosage form: Capsule for oral administration.\n\nFrequency of administration: Once daily overall of treatment."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Male or female participants with age \u226518 years at the time of signing the informed consent.\n2. Histologically confirmed unresectable advanced or metastatic malignant mesothelioma or other solid tumors, who have failed standard therapy or for whom no effective standard therapy exists, participants for part 1 is regardless of the presence or absence of the genetic alterations of the Hippo pathway, but for part 2 participants with solid tumors other than mesothelioma, genetic testing documentation must demonstrate Hippo signaling pathway dysregulation.\n3. Participants with malignant mesothelioma must have prior exposure to at least immune checkpoint therapy and platinum-based chemotherapy.\n4. Presence of at least one evaluable lesion in Part 1 or one measurable target lesion in Part 2 according to Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v1.1) for participants with non-pleural mesothelioma or other solid tumors and modified RECIST (mRECIST) v1.1 for participants with malignant pleural mesothelioma.\n5. Eastern Cooperative Oncology Group (ECOG) performance status (PS) \u22641.\n6. Life expectancy of \u226512 weeks as judged by the investigator.\n7. Adequate organ function as determined by medical assessment (within 7 days prior to the first dose of study treatment).\n8. Capable of providing signed informed consent form (ICF) and complying with the requirements and restrictions listed in the ICF and in this study protocol.\n\nExclusion Criteria:\n\n1. Participants who have previously received a TEAD inhibitor.\n2. Participation in other therapeutic clinical studies within 28 days or 5 half-lives (whichever is shorter) prior to first dose of study treatment.\n3. Anti-tumor therapy within 28 days or 5 half-lives (whichever is shorter) prior to first dose of study treatment.\n4. Known active central nervous system (CNS) primary tumor or untreated CNS metastases.\n5. As judged by the investigator, any evidence of severe or uncontrolled systemic diseases.\n6. Unwillingness or unable to comply with the requirements of oral drug administration, or presence of a gastro-intestinal condition\n7. Have prior or ongoing clinically significant illness, medical condition, surgical history, physical finding, laboratory abnormality or any other conditions that, in the investigator's opinion, would not be in the best interest of the participant; or that could alter the absorption, distribution, metabolism, or excretion of the study treatment; or impair the assessment of study result.\n8. Currently receiving any of Strong inhibitors or inducers of P-gp, or Sensitive substrates of P-gp, CYP1A2, CYP2B6, and CYP3A4 that cannot be discontinued 14 days or 5 half-lives for inhibitors or substrates (whichever is shorter) prior to the first dose of study treatment.\n\nOther protocol inclusion and exclusion criteria may apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania - Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of dose-limiting toxicity (DLT).",
+      "timeFrame": "Day 1 up to Day 31",
+      "description": "DLT is defined as any adverse event which meets DLT criteria unless it is clearly related to disease progression or intercurrent illness during the first 31 days after the initiation of treatment in the dose escalation part (Part 1)."
+    },
+    {
+      "measure": "Incidence and severity of adverse events (AEs)",
+      "timeFrame": "Approximately 12 months.",
+      "description": "Adverse events are assessed based on the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0 \\[NCI CTCAE v5.0\\]"
+    },
+    {
+      "measure": "Incidence of clinically significant abnormalities in laboratory values, vital signs, physical examination, and electrocardiogram (ECG) measurements.",
+      "timeFrame": "Approximately 12 months.",
+      "description": "Regular monitoring and assessment of vital signs (pulse rate, blood pressure, respiratory rate, and temperature), physical examinations, laboratory values, ECG, and other safety examinations by investigators."
+    },
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D)",
+      "timeFrame": "Approximately 40 months",
+      "description": "The RP2D will be recommended by safety review committee (SRC) upon reviewing all available safety, tolerability, pharmacokinetics/pharmacodynamics, and preliminary efficacy data from Part 1 and Part 2."
+    }
+  ],
+  "sponsor": "InSilico Medicine Hong Kong Limited",
+  "collaborators": [],
+  "start_date": "2024-12-27",
+  "completion_date": "2028-02-28",
+  "last_updated": "2026-02-12"
+}

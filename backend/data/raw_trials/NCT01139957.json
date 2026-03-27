@@ -1,0 +1,154 @@
+{
+  "nct_id": "NCT01139957",
+  "brief_title": "Incidence of Cancer in Women at Increased Genetic Risk of Ovarian Cancer",
+  "official_title": "Prospective Study of Risk-Reducing Salpingo-Oophorectomy (RRSO) and Longitudinal CA-125 Screening Among Women at Increased Genetic Risk of Ovarian Cancer: Extended Follow-Up of Select GOG-0199 Study Participants",
+  "brief_summary": "This clinical trial is studying the incidence of cancer in women at increased genetic risk of ovarian cancer. Gathering information about genetic factors in women with an increased risk of ovarian cancer over time may help doctors learn more about the disease and find better methods of treatment and on-going care.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine the prospective incidence of ovarian cancer, fallopian tube cancer, breast cancer, primary peritoneal cancer, and all cancer among women at increased risk of ovarian cancer, with a special emphasis on women who are known breast cancer susceptibility gene (BRCA)1/2 mutation carriers.\n\nII. To develop precise point estimates of these cancer rates among women who have undergone risk-reducing salpingo-oophorectomy and women who have elected screening.\n\nIII. To compare the cancer rates between these two groups of women. IV. To better characterize the similarities and differences in cancer risk between BRCA mutation-positive families and BRCA mutation-negative/family history-positive families.\n\nV. To develop preliminary estimates of overall and cancer-specific mortality, stratified by mutation status (BRCA1-positive, BRCA2-positive, BRCA1/2-negative).\n\nOUTLINE: This is a multicenter study.\n\nPatients complete the Health Update Questionnaire annually for up to 5 years. The questionnaire focuses specifically on cancer risk, incidence, and mortality. Patients also receive ongoing communication (e.g., periodic newsletters, copies of study-related publications, etc.) to keep them informed regarding study-related research results, new research findings, new research opportunities for which patients may be eligible, and evolving clinical recommendations regarding hereditary breast/ovarian cancer.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1916,
+  "conditions": [
+    "Breast Carcinoma",
+    "Fallopian Tube Carcinoma",
+    "Ovarian Neoplasm",
+    "Primary Peritoneal Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Evaluation of Cancer Risk Factors",
+      "type": "PROCEDURE",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "Quality-of-Life Assessment",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "Study of High Risk Factors",
+      "type": "PROCEDURE",
+      "description": "Ancillary studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Enrolled on GOG-0199\n\n  * Completed the original 5-year follow-up period OR is off-study due to pregnancy or development of a new cancer\n  * Completed the Off-Study form (Form Q0-0199 submitted via SEDES)\n  * No patients who were off-study before the end of the initial 5-year follow-up period (found to be ineligible or consent withdrawal)",
+    "gender": "FEMALE",
+    "min_age": "30 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Beebe Medical Center",
+      "city": "Lewes",
+      "state": "Delaware",
+      "zip": "19958",
+      "status": ""
+    },
+    {
+      "facility": "Christiana Care Health System-Christiana Hospital",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19718",
+      "status": ""
+    },
+    {
+      "facility": "Greater Baltimore Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "MedStar Franklin Square Medical Center/Weinberg Cancer Institute",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Walter Reed National Military Medical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20889-5600",
+      "status": ""
+    },
+    {
+      "facility": "National Institutes of Health Clinical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    },
+    {
+      "facility": "Union Hospital of Cecil County",
+      "city": "Elkton",
+      "state": "Maryland",
+      "zip": "21921",
+      "status": ""
+    },
+    {
+      "facility": "Bryn Mawr Hospital",
+      "city": "Bryn Mawr",
+      "state": "Pennsylvania",
+      "zip": "19010",
+      "status": ""
+    },
+    {
+      "facility": "Paoli Memorial Hospital",
+      "city": "Paoli",
+      "state": "Pennsylvania",
+      "zip": "19301",
+      "status": ""
+    },
+    {
+      "facility": "Lankenau Medical Center",
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "zip": "19096",
+      "status": ""
+    },
+    {
+      "facility": "Main Line Health NCORP",
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "zip": "19096",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Prospective incidence of ovarian cancer (including fallopian tube cancer), primary peritoneal cancer, breast cancer, and all cancer",
+      "timeFrame": "Up to 5 years",
+      "description": ""
+    },
+    {
+      "measure": "Ovarian cancer mortality rates",
+      "timeFrame": "Up to 5 years",
+      "description": "Cox proportional hazards models will be used to compare the incidence rates between the risk-reducing salpingo-oophorectomy (RRSO) and screening groups, adjusting for appropriate covariates. If necessary, modeling will be carried out in order to use non-proportional hazards models."
+    },
+    {
+      "measure": "Breast cancer mortality rates",
+      "timeFrame": "Up to 5 years",
+      "description": ""
+    },
+    {
+      "measure": "Quality of life",
+      "timeFrame": "Up to 5 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "Gynecologic Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2010-06-07",
+  "completion_date": "2020-04-10",
+  "last_updated": "2020-08-31"
+}

@@ -1,0 +1,89 @@
+{
+  "nct_id": "NCT01885195",
+  "brief_title": "MEK162 for Patients With RAS/RAF/MEK Activated Tumors",
+  "official_title": "Modular Phase II Study to Link Targeted Therapy to Patients With Pathway Activated Tumors: Module 3 - MEK162 for Patients With RAS/RAF/MEK Activated Tumors",
+  "brief_summary": "The purpose of this signal seeking study is to determine whether treatment with MEK162 demonstrates sufficient efficacy in select pathway-activated solid tumors and/or hematologic malignancies to warrant further study",
+  "detailed_description": "This is a phase II, open label study to determine the efficacy and safety of treatment with MEK162 in patients with a diagnosis of select solid tumors or hematological malignancies that have been pre-identified (prior to study consent) to have activations of the RAS/RAF/MEK pathway and whose disease has progressed on or after standard treatment.\n\nGenomic profiling is becoming more accessible to patients and their physicians. This is a signal-seeking study to match patients with mutations in RAF, RAS, NF1 or MEK to the ATP-noncompetitive MEK 1/2 inhibitor, MEK162. Pre-identification of these mutations or activations in the pathway will be performed locally at a CLIA certified laboratory prior to screening for participation on the trial.\n\nOnce the patient has been identified, treating physicians who are qualified investigators may contact Novartis to consider enrollment in this study. For the purpose of this study, genomic profiling is not considered part of screening. Informed consent must be signed before any screening activities take place. Once eligibility (screening criteria met) has been confirmed by Novartis, the patient will initiate therapy with single agent MEK162. The patient may not receive any additional anti-cancer therapy during treatment with MEK162.\n\nPatients will continue to receive study treatment until disease progression (assessed by RECIST 1.1 or appropriate hematologic response criteria), unacceptable toxicity, death or discontinuation from study treatment for any other reason (e.g., withdrawal of consent, start of a new anti-neoplastic therapy or at the discretion of the investigator), otherwise known as End of Treatment. All patients who discontinue from study treatment due to disease progression must have their progression clearly documented.\n\nDisease assessment (per RECIST 1.1 or appropriate hematological response criteria) will be performed every 8 weeks (\u00b14 days) after first dose of study drug (Day 1 of every odd cycle), until disease progression or end of treatment, whichever occurs first. The frequency of disease assessment may be reduced to every 12 weeks for patients who have at least 4 post-baseline disease assessments and are clinically stable (except AML and MM patients). Scans will be assessed locally by the investigator. After discontinuation of treatment, patients, regardless of reason for treatment discontinuation, will be followed for safety for 30 days after the last dose.\n\nAll patients will be followed for survival status every 3 months for 2 years after the last patient has enrolled in the study regardless of treatment discontinuation reason (except if consent is withdrawn or patient is lost to follow-up.)",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 110,
+  "conditions": [
+    "Solid Tumor and Hematologic Malignancies"
+  ],
+  "interventions": [
+    {
+      "name": "MEK162",
+      "type": "DRUG",
+      "description": "MEK162 will be dosed on a flat scale of 45 mg twice daily on a continuous dosing schedule."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patient has a confirmed diagnosis of a select solid tumor (except for primary diagnosis of pancreatic cancer, biliary cancer, colorectal cancer, low grade serous ovarian cancer, melanoma) or hematologic malignancy (except for primary diagnosis of chronic myelomonocytic leukemia).\n* Patients must be pre-identified as having a tumor with a mutation in RAF, RAS, NF1 or MEK at a CLIA certified laboratory\n* Patient must have received at least one prior treatment for recurrent, metastatic and /or locally advanced disease and for whom no standard therapy options are anticipated to result in a durable remission.\n* Patient must have progressive and measurable disease as per RECIST 1.1. or other appropriate hematological guidelines.\n* Patient has an Eastern Cooperative Oncology Group (ECOG) performance status \u2264 1\n\nExclusion Criteria:\n\n* Patient has received prior treatment with MEK162.\n* Patients with primary CNS tumor or CNS tumor involvement\n* History of retinal degenerative disease\n* History or current evidence of central serous retinopathy (CSR) or retinal vein occlusion (RVO)\n* Any ophthalmopathy visible at screening that would be considered a risk factor for CSR or RVO by the ophthalmologist\n* Patients who have neuromuscular disorders that are associated with elevated CK",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Oncology Hematology, P.A. Oncology Hematology",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "20850",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey CINJ",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "St. Luke's Hospital and Health Network St Luke's (2)",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "West Penn Allegheny Oncology Network",
+      "city": "Natrona Heights",
+      "state": "Pennsylvania",
+      "zip": "15065",
+      "status": ""
+    },
+    {
+      "facility": "Abington Hematology Oncology Associates, Inc Abington Hem Onc Assoc (5)",
+      "city": "Willow Grove",
+      "state": "Pennsylvania",
+      "zip": "19090",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Clinical Benefit Rate (CBR) for Solid Tumors at Week 16 as Per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1",
+      "timeFrame": "Week 16",
+      "description": "CBR: participants with complete response (CR), partial response (PR) or stable disease (SD) for at least 16 weeks. As per RECIST 1.1, CR: disappearance of all target and non-target lesions, normalization of tumor marker level, pathological lymph nodes assigned as target or non-target lesions must have a reduction in short axis to less than (\\<) 10 millimeter (mm); PR: at least a 30 percent (%) decrease in sum of diameter of all target lesions, taking as reference the baseline sum of diameters; SD: neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for progressive disease (PD), taking as reference the smallest sum diameters; PD: at least a 20% increase in sum of diameter of all measured target lesions, taking as reference smallest sum of diameter of all target lesions recorded at or after baseline, sum was also an absolute increase of at least 5 mm. Unequivocal progression of existing non-target lesions. Appearance of \\>=1 new target or non-target lesions."
+    },
+    {
+      "measure": "CBR for Hematologic Tumors at Week 16: Multiple Myeloma",
+      "timeFrame": "Week 16",
+      "description": "CBR: participants with stringent complete response(sCR), CR, very good partial response(VGPR), PR/SD for at least 16 weeks. For hematologic tumors (multiple myeloma), sCR: negative immunofixation on serum, urine, disappearance of any soft tissue plasmacytomas and \\<5% plasma cells in bone marrow plus normal free light chain(FLC) ratio and absence of clonal cells in bone marrow by immunohistochemistry/immunofluorescence; CR: negative immunofixation on the serum, urine, disappearance of any soft tissue, plasmacytomas and \\<5% plasma cells in bone marrow; VGPR: serum,urine M-component detectable by immunofixation but not on electrophoresis or\\>=90% reduction in serum M-component plus urine M-component \\<100 mg/24 hr; PR: \\>50% reduction of serum M-protein and reduction in 24hr urinary M-protein by \\>90%/to \\<200 mg/24 hr; SD: not meeting criteria for CR, VGPR, PRor PD; PD: increase of \\>25% from lowest response value in serum M-component, urine M-component and bone marrow plasma cell percentage."
+    },
+    {
+      "measure": "CBR for Hematologic Tumors at Week 16: Acute Myeloid Leukemia",
+      "timeFrame": "Week 16",
+      "description": "CBR: participants with complete remission (CR), CR with incomplete blood count recovery (CRi), partial remission (PR) and no resposne for at least 16 weeks. For hematologic tumors (acute myeloid leukemia); CR: as bone marrow- \\< 5% blasts, no blasts with auer rods, peripheral blood- neutrophils \u22651.0\\*10\\^9/L and/or platelets \u2265100\\*10\\^9/L, \u22641% blasts, no evidence of extramedullary disease (such as CNS or soft tissue involvement), transfusion independent; CRi: all the CR criteria were involved but platelet and neutrophil transfusions were also allowed; PR: bone marrow- 50% or greater decrease (absolute range 5-25% blasts), \\< 5% of blasts contain auer rods, peripheral blood- neutrophils \\<1.0\\*10\\^9/L and/or platelets \\<100\\*10\\^9/L, no evidence of extramedullary disease; no response: in case a patient did not achieve CR, CRi, PR or relapse for an individual response assessment."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2013-10-10",
+  "completion_date": "2017-04-11",
+  "last_updated": "2021-02-02"
+}

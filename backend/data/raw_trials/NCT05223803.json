@@ -1,0 +1,104 @@
+{
+  "nct_id": "NCT05223803",
+  "brief_title": "TERPS Trial for de Novo Oligometastic Prostate Cancer",
+  "official_title": "Phase 2 Randomized Total Eradication of Metastatic Lesions Following Definitive Radiation to the Prostate in de Novo oligometaStatic Prostate Cancer (TERPS) Trial",
+  "brief_summary": "This research is being done to see if we can improve the outcome of prostate cancer patients who present with metastatic lesions at initial diagnosis.",
+  "detailed_description": "This study will compare the effects, good and/or bad, of using the standard of care treatment (systemic therapy + primary prostate radiation) compared to standard of care treatment plus stereotactic ablative radiation therapy (SABR) to metastatic lesions for prostate patients. The researchers are also trying to learn if the addition of SABR will affect recurrence rates. Presence of circulating tumor cells, gut bacteria, and quality of life will be assessed for both groups.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 122,
+  "conditions": [
+    "Prostate Cancer",
+    "Oligometastatic Disease"
+  ],
+  "interventions": [
+    {
+      "name": "Prostate radiation (XRT)",
+      "type": "RADIATION",
+      "description": "Both arms will receive prostate radiation. Multiple treatment regimens are allowed per protocol."
+    },
+    {
+      "name": "Systemic Therapy",
+      "type": "DRUG",
+      "description": "All systemic therapy is provided as best prescribed for patient per their medical oncologist."
+    },
+    {
+      "name": "Stereotactic ablative radiation therapy (SABR)",
+      "type": "RADIATION",
+      "description": "SABR is delivered to those randomized to Arm 2."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patient must have at least one and up to three asymptomatic metastatic tumor(s) of the bone or soft tissue (with at least one bone metastasis) develop within the past 6-months that are seen on imaging. Up to five lesions are allowed on advanced functional imaging such as fluciclovine (Axumin), choline or PSMA PET-CT scan.\n\n   1. CT or MRI scan within 6 months of enrollment\n   2. Bone scan within 6 months of enrollment\n   3. Fluciclovine (Axumin), choline, or PSMA PET-CT scan within 6 months of enrollment (PET-CT scan is reasonable for study entry imaging as an alternative to CT/MRI scan and bone scan)\n2. Histologic confirmation of malignancy (primary or metastatic tumor).\n3. Patient may have had prior systemic therapy and/or ADT associated with treatment within 9-months of enrollment.\n4. PSA \\> 0.5 but \\<100.\n5. Patient must be \u2265 18 years of age.\n6. Patient must have a life expectancy \u2265 12 months.\n7. Patient must have an ECOG performance status \u2264 2.\n8. Patient must have the ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n1. Castration-resistant prostate cancer (CRPC).\n2. Prior radiation therapy to an overlapping site of a target lesion that would preclude further radiation therapy\n3. Spinal cord compression or impending spinal cord compression.\n4. Suspected pulmonary and/or liver metastases (greater \\>10 mm in largest axis).\n5. Patient receiving any other investigational agents.\n6. Inability to receive any form of systemic therapy in the opinion of a treating medical oncologist .\n7. Unable to lie flat during or tolerate PET/MRI, PET/CT or SABR.\n8. No radiographical evidence of cranial metastasis.\n9. Refusal to sign informed consent.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Proton Treatment Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UMMC",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Upper Chesapeake Health",
+      "city": "Bel Air",
+      "state": "Maryland",
+      "zip": "21014",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Central Maryland Radiation Oncology",
+      "city": "Columbia",
+      "state": "Maryland",
+      "zip": "21044",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Baltimore Washington Medical Center",
+      "city": "Glen Burnie",
+      "state": "Maryland",
+      "zip": "21061",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Sidney Kimmel Cancer Center at Jefferson Health",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To determine the 2-year failure-free survival (FFS) of men who have oligometastatic prostate cancer with BST+XRT versus BST+XRT+SABR MDT.",
+      "timeFrame": "2 years",
+      "description": "Cross-over to the SABR MDT is allowed following failure."
+    }
+  ],
+  "sponsor": "University of Maryland, Baltimore",
+  "collaborators": [],
+  "start_date": "2022-10-18",
+  "completion_date": "2027-07-31",
+  "last_updated": "2025-11-05"
+}

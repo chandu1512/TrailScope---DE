@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT03322566",
+  "brief_title": "A Study of Pembrolizumab Plus Epacadostat With Platinum-based Chemotherapy Versus Pembrolizumab Plus Platinum-based Chemotherapy Plus Placebo in Metastatic Non-Small Cell Lung Cancer (KEYNOTE-715-06/ECHO-306-06)",
+  "official_title": "A Randomized Phase 2 Study of the Combination of Pembrolizumab (MK-3475) Plus Epacadostat (INCB024360) With Platinum-based Chemotherapy Versus Pembrolizumab Plus Platinum-based Chemotherapy Plus Placebo as First-Line Treatment in Patients With Metastatic Non-Small Cell Lung Cancer",
+  "brief_summary": "The purpose of this study was to evaluate the efficacy and safety of pembrolizumab plus epacadostat with platinum-based chemotherapy versus pembrolizumab plus platinum-based chemotherapy plus placebo as first-line therapy in participants with metastatic non-small cell lung cancer (NSCLC).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 233,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Pembrolizumab administered intravenously every 3 weeks."
+    },
+    {
+      "name": "Epacadostat",
+      "type": "DRUG",
+      "description": "Epacadostat administered orally twice daily."
+    },
+    {
+      "name": "Platinum-based chemotherapy",
+      "type": "DRUG",
+      "description": "Investigator selected one of the following regimens: pemetrexed + cisplatin, pemetrexed + carboplatin, or paclitaxel + carboplatin, depending on histology."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Matching placebo administered orally twice daily."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of stage IV NSCLC without epidermal growth factor receptor (EGFR)-sensitizing mutation, ROS1 and/or anaplastic lymphoma kinase (ALK) translocation\n* Measurable disease based on RECIST 1.1\n* Life expectancy of at least 3 months.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate organ function per protocol-defined criteria.\n* Provide tumor tissue sample.\n\nExclusion Criteria:\n\n* Known untreated central nervous system metastases and/or carcinomatous meningitis\n* History of (non-infectious) pneumonitis that required systemic steroids or current pneumonitis/interstitial lung disease.\n* Symptomatic ascites or pleural effusion.\n* Known history of an additional malignancy, except if the participant has undergone potentially curative therapy with no evidence of that disease recurrence for 5 years since initiation of that therapy.\n* Active autoimmune disease that has required systemic treatment in past 2 years.\n* Has had an allogeneic tissue/solid organ transplant.\n* Has a known history of human immunodeficiency virus (HIV) infection. HIV testing is not required unless mandated by the local health authority.\n* Has known history of or is positive for active Hepatitis B (HBsAg reactive) or has active Hepatitis C (HCV RNA). Note: Testing must be performed to determine eligibility.\n* History or presence of an abnormal electrocardiogram (ECG) that, in the Investigator's opinion, is clinically meaningful.\n* Use of protocol-defined prior/concomitant therapy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "St. Luke's Hospital - Anderson Campus",
+      "city": "Easton",
+      "state": "Pennsylvania",
+      "zip": "18045",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny General Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR) of Pembrolizumab + Chemotherapy + Epacadostat Versus Pembrolizumab + Chemotherapy + Placebo",
+      "timeFrame": "Assessed every 12 weeks up to 24 months",
+      "description": "ORR is defined as the percentage of participants who have a confirmed complete response (CR) or partial response (PR) per Response Evaluation Criteria in Solid Tumors (RECIST 1.1) based on blinded independent central review (BICR)."
+    }
+  ],
+  "sponsor": "Incyte Corporation",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2018-01-09",
+  "completion_date": "2020-10-16",
+  "last_updated": "2022-01-19"
+}

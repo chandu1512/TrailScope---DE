@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT06061328",
+  "brief_title": "Project OASIS: Optimizing Approaches to Select Implementation Strategies",
+  "official_title": "Project OASIS: Optimizing Approaches to Select Implementation Strategies",
+  "brief_summary": "Barriers that prevent healthcare methods supported by science from being adopted in the real world have led to low-quality, inequitable medical care. Implementation science aims to bridge the evidence-to-practice gap but still lacks simple and convenient methods to identify implementation barriers, systematically track which strategies work to improve care, and provide accessible data and expert recommendations to guide implementation strategy selection for use in research and practice. Project OASIS (Optimizing Approaches to Select Implementation Strategies) will conduct a hybrid type-III, cluster-randomized trial of a new decision aid tool that matches site variables and barriers to successful implementation strategies.",
+  "detailed_description": "Implementation science aims to improve the uptake of evidence-based health care practices (EBPs) by defining barriers that prevent their use, offering strategies to overcome these barriers, and developing methods that help clinicians and researchers choose strategies that best address the barriers they encounter. With strategy selection often being inefficient and idiosyncratic, experts have called for methods to make strategy selection scientific, data-driven, and \"precise.\" This \"precision implementation\" causes a critical need to identify implementation barriers and facilitators quickly and uniformly, track implementation strategy use and effectiveness, and incorporate data and expert knowledge into the process of matching strategies to barriers. Without these improvements, there is a risk of perpetuating implementation failures and health care disparities.\n\nProject OASIS (Optimizing Approaches to Select Implementation Strategies) will conduct a cluster-randomized, hybrid type III trial to compare a machine learning derived decision aid (DA) for selecting implementation strategies with a current expert opinion-based tool in 20 VA medical centers. The investigators will apply the Reach, Effectiveness, Adoption, Implementation, Maintenance (RE-AIM) evaluative framework and assess rates of hepatocellular carcinoma screening (an EBP) for Veterans with cirrhosis at these sites. As this is a facility-level intervention, Veterans with cirrhosis will be cluster randomized to the DA vs. Current Tool arms. The investigators anticipate that Veterans at sites in the DA arm will be significantly more likely to receive screening than Veterans at sites in the Current Tool arm.",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 8020,
+  "conditions": [
+    "Cirrhosis",
+    "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "OASIS DA training",
+      "type": "BEHAVIORAL",
+      "description": "The OASIS decision aid is a novel implementation strategy selection tool developed by a multidisciplinary team of experts using machine learning algorithms and user-centered design approaches."
+    },
+    {
+      "name": "Current DA Tool training",
+      "type": "BEHAVIORAL",
+      "description": "The CFIR-ERIC Matching Tool is a currently available decision aid tool for selecting implementation strategies that is based on expert opinion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nVeterans:\n\n* Veterans with two outpatient or one inpatient codes for cirrhosis or its complications who had an encounter in the prior 18 months at a participating VA medical center\n\nVA clinicians:\n\n* Physicians, advance practice providers, nurses, leadership, and staff engaged with selecting and applying implementation strategies to improve care at a participating VA medical center\n\nExclusion Criteria:\n\n* Veterans post-transplant or with active hepatocellular carcinoma",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "VA Pittsburgh Healthcare System University Drive Division, Pittsburgh, PA",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15240",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Reach as assessed by hepatocellular carcinoma (HCC) screening rates",
+      "timeFrame": "measured quarterly 1 year pre-intervention through 6 months post-intervention",
+      "description": "Reach of an intervention refers to the absolute number, proportion, and representativeness of individuals who are willing to participate in a given intervention. The reach outcome will be the percentage of active VA patients with a diagnosis of cirrhosis receiving guideline-concordant abdominal imaging every 6 months."
+    },
+    {
+      "measure": "Effectiveness as assessed by patient outcomes",
+      "timeFrame": "measured quarterly 1 year pre-intervention through 6 months post-intervention",
+      "description": "Effectiveness is the impact of an intervention on important individual outcomes. Patient outcomes such as cancers detected and linkage to curative treatment will be used to assess effectiveness."
+    },
+    {
+      "measure": "Adoption as assessed by % improvement in HCC screening performance",
+      "timeFrame": "measured quarterly 1 year pre-intervention through 6 months post-intervention",
+      "description": "Adoption is the absolute number, proportion, and representativeness of settings/people who are willing to initiate a program. The investigators will assess adoption by the percent improvement in screening performance at intervention sites from pre- to post-intervention."
+    },
+    {
+      "measure": "Implementation as assessed by fidelity to HCC screening recommendations",
+      "timeFrame": "measured quarterly 1 year pre-intervention through 6 months post-intervention",
+      "description": "Implementation is the extent to which an intervention is delivered as intended. The investigators will assess implementation by the proportion of patients at an intervention site receiving all hepatocellular carcinoma screening as recommended (correct timing and modality)."
+    },
+    {
+      "measure": "Maintenance as assessed by maintenance of other measures",
+      "timeFrame": "6 months post-intervention",
+      "description": "Maintenance is the extent to which a program becomes part of routine organizational practices. The investigators will assess maintenance by sustainment of all above outcomes at 6 months post-intervention."
+    }
+  ],
+  "sponsor": "VA Office of Research and Development",
+  "collaborators": [
+    "VA Pittsburgh Healthcare System",
+    "VA Palo Alto Health Care System"
+  ],
+  "start_date": "2024-02-01",
+  "completion_date": "2027-10-31",
+  "last_updated": "2026-02-03"
+}

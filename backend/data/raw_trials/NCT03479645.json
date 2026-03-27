@@ -1,0 +1,52 @@
+{
+  "nct_id": "NCT03479645",
+  "brief_title": "Serial SMS Reminders and an Opt-out Mailed FIT Kits to Improve Colorectal Screening Participation: A Single Center RCT",
+  "official_title": "Can a Multimodal Approach Using SMS Reminders and an Opt-out Mailed FIT Kits Improve Participation in Colorectal Cancer Screening? A Single Center Randomized Controlled Trial",
+  "brief_summary": "This pilot study is a 2-armed randomized controlled trial assessing the impact of a multimodal approach on colorectal cancer screening participation rates in a Federally Qualified Health Center. The trial will test serial text message reminders and opt-out mailed fecal immunochemistry test (FIT) home kits against a simple reminder text message control. Patients aged 50-74 years, who are registered at a Family Practice and Counselling Network (FPCN) clinic and are overdue for colorectal cancer screening will be recruited. The primary outcome is the rate of FIT kits being returned at 12 weeks.",
+  "detailed_description": "It is estimated that colorectal cancer (CRC) screening can reduce the risk of dying from bowel cancer by approximately 15%. Yet despite this, the national participation rate is only approximately 62.9%, highlighting that the national target of 70.5% set out in the Healthy People 2020 Objectives remains well out of reach. The US Preventative Task Force (USPSTF) recommends colorectal screening for adults aged 50-75 years through either annual fecal occult blood testing (FOBT), flexible sigmoidoscopy every 5 years or colonoscopy every 10 years. However, many service providers rely on the opportunistic offer of screening at existing health touch-points. This requires the patient to see their healthcare provider, usually for a different clinical reason, the provider to recognize that the patient is overdue for CRC screening and the provider to recommend and book the patient for CRC screening. This process identifies a number of barriers encountered at the system, provider and patient level, to completing a screening test regularly. Furthermore, much evidence indicates that public participation in colorectal screening is heavily influences by socioeconomic factors. Lower participation rates are seen in individuals without health insurance, without a medical home, who are more deprived and from ethnic minority groups. These individuals are more likely to present with later stage disease and experience poorer outcomes. Fecal immunochemistry testing (FIT) is a stool sample based test kit that uses antibodies to detect the human haemoglobin protein in the stool sample and can be completed in the privacy of the home. Research has showed that mailed home test kits such as FOBT or FIT kits can improve CRC participation by reducing the effort required to see a provider in order to arrange CRC screening. Evidence has also shown that text message reminders can improve participation in cancer screening. Furthermore, the message content of text messages can differentially change behavior, for example reducing the 'did not attend rate' in hospital outpatient appointments but also in the context of participation in cervical cancer screening. Therefore this trial will test a multimodal outreach approach, which uses serial SMS reminders with different word contents and mailed FIT kits on the participation rates of CRC screening.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 440,
+  "conditions": [
+    "Bowel Cancer",
+    "Colon Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Serial text messages and mailed FIT kit",
+      "type": "BEHAVIORAL",
+      "description": "1. Pre-alert SMS offering Opt-out of mailed FIT kit\n2. Mailed home FIT kit\n3. SMS A - Reciprocity message\n4. SMS B - Offer for second FIT kit if lost/did not receive\n\n   * Plus SMS A + C if second mailed FIT is requested.\n5. SMS C - Salience message"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. aged 50-74\n2. at least 1 clinic visit to the FPCN within the previous 12 months\n3. due or overdue for colorectal screening\n4. Asymptomatic for bowel cancer\n5. mobile phone number available\n\nExclusion Criteria:\n\n1. Has had prior colonoscopy within 10 years, sigmoidoscopy within 5 years, and FOBT/FIT within twelve months of the chart review (We will exclude patients who self-report undergoing any of the above procedures)\n2. Has a history of CRC\n3. Has a history of other GI cancer\n4. Has history of confirmed Inflammatory Bowel Disease (IBD) (e.g. Crohns disease, ulcerative colitis) Irritable bowel syndrome does not exclude patients.\n5. Has history of colitis other than Crohns disease or ulcerative colitis\n6. Has had a colectomy\n7. Has been diagnosed with Lynch Syndrome (i.e. HNPCC)\n8. Has been diagnosed with Familial Adenomatous Polyposis (FAP)\n9. Has metastatic (Stage IV) blood or solid tumor cancer\n10. Has end stage renal disease\n11. Has dementia\n12. Has liver cirrhosis\n13. Has any other condition that, in the opinion of the investigator, excludes the patient from participating in this study.",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "74 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Family Practice and Councelling Network",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19142",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Colorectal screening rate",
+      "timeFrame": "12 weeks",
+      "description": "The rate patients with who completed colorectal screening within the trial period"
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [],
+  "start_date": "2018-03-23",
+  "completion_date": "2018-06-16",
+  "last_updated": "2019-07-18"
+}

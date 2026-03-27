@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT03298945",
+  "brief_title": "Comparative Effectiveness of Split-Dose Colonoscopy Bowel Preparation Regimens",
+  "official_title": "Comparative Effectiveness of Split-Dose Colonoscopy Bowel Preparation Regimens",
+  "brief_summary": "From the patients' perspective, the most formidable part of the colonoscopy experience is the process of bowel cleansing. A poorly tolerated bowel preparation regimen often leads to incompletion of scheduled colonoscopies which in turn undermines the effectiveness of colonoscopy, increases cost, and decreases patient satisfaction. The current standard bowel preparation in the VA is of larger volume and less palatable than another commonly used bowel preparation regimen. The investigators propose to compare these two commonly used bowel preparations with respect to the overall completion rate of scheduled colonoscopies in a real-world VA practice setting. The results of the study can be immediately applied to maximize the effectiveness of colonoscopy and increase patient satisfaction in the VA.",
+  "detailed_description": "Anticipated Impacts on Veterans Health Care: by identifying a colonoscopy bowel preparation regimen which is the most effective in real-world VA practice and can be immediately implemented on a VA-wide scale, the proposed study will maximize the effectiveness of colonoscopy in reducing colorectal cancer (CRC) risk among Veterans, increase Veteran satisfaction, and reduce VA healthcare cost. Background: CRC is a leading cause of cancer-related death among Veterans. Colonoscopy can effectively reduce CRC incidence and mortality. However, non-adherence to screening colonoscopy substantially undermines this benefit. Existing evidence indicates that a disagreeable bowel preparation is a leading barrier to completing a colonoscopy from the patients' perspective. The taste and the volume of the bowel preparation determine patient tolerability and compliance to the preparation instructions, which in turn affects the incompletion (e.g., cancellation/no-show/reschedule) rate of scheduled colonoscopies as well as the effectiveness of the completed colonoscopies and patient satisfaction. The two most commonly used preparations currently in the US are the split-dose 4L polyethylene glycol (PEG) and the split-dose 2L MiraLAX/Gatorade preparations. While a high-volume regimen may in theory be more effective than a lower volume one, it may be associated with lower tolerability and adherence in real-world practice. Three small trials have compared these two preparations. However, data from these explanatory trials cannot inform policy decisions because they were conducted under artificial conditions, restricted among narrow patient populations, and most importantly not designed to capture the full impact of bowel preparation on the completion rate or effectiveness of colonoscopy. To address this critical knowledge gap, the investigators are proposing a pragmatic trial to determine the optimal split-dose bowel preparation in the general Veteran population. Objectives: to compare the real-world effectiveness of the two most commonly used split-dose colonoscopy bowel preparation regimens in the US (i.e., 4L PEG and 2L MiraLAX/Gatorade) with respect to the completion rate of scheduled colonoscopies, adenoma detection rate and secondarily preparation quality, cancellation/no-show rate and patient-oriented outcomes (e.g., willingness to repeat the preparation).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE4"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 2239,
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Miralax-Gatorade Prep",
+      "type": "DRUG",
+      "description": "2-L split-dose Miralax-Gatorade bowel prep for colonoscopy"
+    },
+    {
+      "name": "Golytely",
+      "type": "DRUG",
+      "description": "4-L split dose Golytely is the current standard prep at the VA"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* \\> 18 years of age, and\n* being scheduled for outpatient elective screening, surveillance or diagnostic colonoscopies, and\n* the provider ordering the colonoscopy giving permission to enroll the patient.\n\nExclusion Criteria:\n\n* Patients who are \\<18 years\n* undergoing inpatient colonoscopy\n* those with contra-indications to receiving the standard 4L PEG-ELS colonoscopy bowel preparation (e.g., allergy to PEG) will be excluded\n* Those with a preference for a specific bowel preparation will be excluded.\n\n  * The investigators are excluding inpatient colonoscopies because they account for a very small fraction of the total colonoscopies performed.\n  * Also, inpatient colonoscopies are often performed for urgent reasons such that rapid bowel preparation procedures are followed.\n* In addition, because the objective of inpatient colonoscopy is often not to look for small polyps, the threshold for \"adequate\" bowel preparation quality might be different from that for outpatient procedures.\n* In addition, for patients undergoing more than 1 colonoscopy during the study period, only their first colonoscopy will be included in the primary analysis.\n* Patients who are undergoing a repeat colonoscopy for to a recent inadequate colonoscopy examination with poor bowel preparation will be excluded.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Corporal Michael J. Crescenz VA Medical Center, Philadelphia, PA",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-4551",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Colonoscopy Completion Rate",
+      "timeFrame": "This outcome is determined within 1 month after colonoscopy",
+      "description": "The completion rate of scheduled colonoscopy will be defined as the proportion of patients who show up for their scheduled colonoscopy and have endoscopist-rated \"adequate\" bowel preparation quality, among those scheduled for a colonoscopy."
+    },
+    {
+      "measure": "Population Level Adenoma Detection Rate (ADR)",
+      "timeFrame": "within 1 month of colonoscopy",
+      "description": "the ADR is estimated as the proportion of patients with at least one adenoma detected among all patients scheduled for colonoscopy."
+    }
+  ],
+  "sponsor": "VA Office of Research and Development",
+  "collaborators": [],
+  "start_date": "2018-12-13",
+  "completion_date": "2024-06-30",
+  "last_updated": "2025-01-22"
+}

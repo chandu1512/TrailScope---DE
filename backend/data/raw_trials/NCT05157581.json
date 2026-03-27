@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT05157581",
+  "brief_title": "Extracorporeal Photopheresis in Sezary Syndrome",
+  "official_title": "Open Label, Single-cohort, and Multi-center Phase II Study Evaluating Tumor-specific Immunity After Extracorporeal Photopheresis in Patients With S\u00e9zary Syndrome at Single-cell Resolution",
+  "brief_summary": "The primary endpoint is to determine if ECP induces a decrease in % of tumor cells after treatment. 20 patients with Sezary Syndrome will receive ECP weekly x4, then bi-weekly for 5 months. Each patient will donate 5 samples to determine immune responses in peripheral blood. Additional clinical assessments will be a modified skin weighted assessment and flow cytometry at baseline and months 3 and 6. A CT scan will be obtained at baseline and only repeated if pathology is present at baseline. The tumor microenvironment will be studied by comparing transcriptomics of the blood samples before, 1 day after first ECP treatment, cycle 1, 1, 3 and 6 months after ECP treatment by scRNAseq (5 samples total per patient ).",
+  "detailed_description": "Cutaneous T-cell lymphoma (CTCL) is a group of skin lymphomas in which malignant lymphocytes infiltrate the skin and, in the later stages, spread to the lymph nodes and blood (leukemia). In the early stages, CTCL generally has a slow course, but in advanced diseases, such as Sezary syndrome (the leukemic form of the disease), there is rapid deterioration. Sezary syndrome is an end-stage variant of CTCL with a mean survival of 1.5 years despite aggressive therapies. Treatment options for the advanced disease are severely limited.\n\nIn this study, informed consent will be offered to patients who are candidates for standard of care ECP and have a diagnosis of Sezary Syndrome. Participating patients will undergo ECP twice weekly for 4 weeks then twice monthly for 5 more months (month 6 of therapy). Research blood samples to assess immune responses will be obtained from a blood draw at baseline (before starting ECP), one day after first ECP, and at months 1, 3, and 6. Standard of care assessments to determine the objective response will include measurement of skin tumor burden (mSWAT), blood tumor burden (flow cytometry) and CT scan at baseline and only repeated at month 3 and 6 if lymph node or visceral (organ) involvement identified at baseline.\n\nThe investigators propose to establish changes in the tumor microenvironment after ECP, compare transcriptomic differences in malignant lymphocytes, monocytes, DC, and CD8 effectors before and after ECP to test the hypothesis that anti-tumor immune responses can be induced by ECP. We will employ a highly innovative technology such as single-cell RNA sequencing (scRNAseq) coupled with TCR sequencing to characterize ECP-related change in malignant cells utilizing a custom gene set and validate the single-cell protein data by antibody-oligo conjugates. To better understand the relevance of biomarker changes to disease progression, the observed ECP-related changes in tumor microenvironment will be correlated with clinical outcomes.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Sezary Syndrome"
+  ],
+  "interventions": [
+    {
+      "name": "Extracorporeal photopheresis (ECP)",
+      "type": "DEVICE",
+      "description": "Extracorporeal photopheresis is a process that exposes a collection of white blood cells and plasma to a light sensitizing agent, methoxsalen, and returns that compartment to the body."
+    },
+    {
+      "name": "Methoxsalen Injection",
+      "type": "DRUG",
+      "description": "Methoxsalen is a light-sensitizing sterile compound added to the collected white blood cells and plasma during ECP."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patient with an established diagnosis of Sezary syndrome (stage IVA1)\n2. Patients amenable for ECP\n3. The patient must have a minimum wash-out period of 3 weeks between the last dose of prior systemic therapy\n4. Patients should have recovered from all adverse events related to prior therapy to \u2264 grade 1\n5. Signed informed consent form prior to any protocol-specific procedures.\n\nExclusion Criteria:\n\n1. Visceral metastasis of lymphoma\n2. Concomitant administration of radiotherapy or systemic anti-cancer therapy including but not restricted to: chemotherapy, biological agents, or immunotherapy\n3. Patients with known NCI CTCAE grade 3 or higher active systemic or cutaneous viral, bacterial, or fungal infection.\n4. Patients with any serious underlying medical condition that would impair their ability to receive or tolerate the planned treatment and/or comply with study protocol.\n5. Patients with dementia or altered mental status that would preclude understanding and rendering of informed consent document.\n6. Patients with known allergy to Methoxsalen or heparin (as part of SOC ECP procedure).\n7. Patients who are pregnant. -",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Cutaneous Translational Research Program - Johns Hopkins Medicine",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change from baseline in tumor-specific immunity",
+      "timeFrame": "Up to 3 months post baseline",
+      "description": "Evaluate immune responses post ECP using innovative technology such as single-cell RNA sequencing (scRNAseq) coupled with TCR sequencing to characterize ECP-related change in malignant cells"
+    },
+    {
+      "measure": "Change from baseline in tumor-specific immunity",
+      "timeFrame": "Up to 6 months post baseline",
+      "description": "Evaluate immune responses post ECP using innovative technology such as single-cell RNA sequencing (scRNAseq) coupled with TCR sequencing to characterize ECP-related change in malignant cells"
+    }
+  ],
+  "sponsor": "Oleg E. Akilov, MD, PhD",
+  "collaborators": [
+    "Therakos"
+  ],
+  "start_date": "2023-04-04",
+  "completion_date": "2028-12",
+  "last_updated": "2025-12-23"
+}

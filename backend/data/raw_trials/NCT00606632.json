@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT00606632",
+  "brief_title": "Pre-surgical Detection of Clear Cell Renal Cell Carcinoma (ccRCC) Using Radiolabeled G250-Antibody",
+  "official_title": "A Comparative Study of PET/CT Versus Diagnostic CT for the Detection of Clear Cell Renal Cell Carcinoma in Pre-surgical Patients With Renal Masses Using Iodine-124 Labeled Chimeric G250 (124I-cG250)",
+  "brief_summary": "This is a multicenter Phase III study to demonstrate the diagnostic utility of 124I-cG250 PET/CT pre-surgical imaging in patients with operable renal masses.",
+  "detailed_description": "A preoperative 124I-cG250 PET scan may distinguish between clear cell and non-clear cell renal carcinoma in patients with renal masses. Studies of imaging characteristics of 124I by a variety of PET cameras, quantification of tumor uptake of 124I-labeled antibody and correlation with biopsy measurement of tumor and normal tissue have met with encouraging results. As clear cell renal cancers are associated with an aggressive phenotype their a priori determination may help guide appropriate surgical/therapeutic management.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 226,
+  "conditions": [
+    "Renal Cell Carcinoma",
+    "Kidney Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "124-Iodine-cG250 (124I-cG250)",
+      "type": "DRUG",
+      "description": "i.v. and PET/CT scan 4+/-2 days after administration"
+    },
+    {
+      "name": "CT",
+      "type": "PROCEDURE",
+      "description": "contrast enhanced CT scan"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subject is over 18 years of age.\n* Presence of a renal mass.\n* Scheduled for surgical resection of renal mass (partial or total nephrectomy, open or laparoscopic technique).\n* Expected survival of at least 3 months.\n* Eastern Cooperative Oncology Group (ECOG) performance status \\< 2.\n* The following laboratory results should be within the following limits within the last 2 weeks prior to study day 1:\n\n  * Absolute neutrophil count (ANC) \u2265 1.5 x 109/L\n  * Platelet count \u2265 100 x 109/L\n  * Serum bilirubin \u2264 2.0 mg/dL\n  * Aspartate aminotransaminase (AST) \u2264 2.5 x ULN\n  * Alanine aminotransferase (ALT) \u2264 2.5 x ULN\n  * Serum creatinine \u2264 2.0 mg/dL (calculated creatinine clearance \\>45 ml/min)\n* Negative serum pregnancy test; to be performed on female patients of childbearing potential within 24 hours prior to receiving investigational product. All females of childbearing potential must indicate intent to avoid pregnancy and must use an accepted, effective method of contraception for the duration of the study.\n* Recovered from toxicity of any prior therapy.\n* Able and willing to give valid written informed consent.\n\nExclusion Criteria:\n\n* Metastasis of primary tumor other than Renal Cell Carcinoma (RCC).\n* Prior history of malignancy within the last 5 years.\n* Prior exposure to murine proteins or chimeric antibodies.\n* Intercurrent medical condition that may limit the amount of antibody to be administered.\n* Intercurrent medical condition that renders the patient ineligible for surgery.\n* New York Heart Association Class III/IV cardiac disease.\n* History of autoimmune hepatitis.\n* Chemotherapy, radiotherapy, or immunotherapy within 4 weeks prior to 124I-cG250 infusion on day 1.\n* Mental impairment that may compromise the ability to give informed consent and comply with the requirements of the study.\n* Lack of availability for immunological and clinical follow-up assessments.\n* Participation in any other clinical trial involving another investigational product within 4 weeks prior to enrolment.\n* Women who are pregnant or breastfeeding.\n* Allergy to iodine, hyperthyroidism, or Grave's Disease.\n* Known allergic reaction to human serum albumin.\n* Contraindication for contrast-enhanced CT or PET/CT.\n* Contraindication to potassium iodide intake (see package insert).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-4283",
+      "status": ""
+    },
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-4283",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Sensitivity and Specificity of 124I-cG250 PET/CT Versus Diagnostic CT.",
+      "timeFrame": "6 months",
+      "description": "Average estimate of three independent, blinded central readers per imaging modality on the proportion of participants that were correctly identified on the 124I-cG250 PET/CT Images of having (sensitivity) or not having (specificity) clear cell renal carcinoma (ccRCC) compared to CT images.\n\nHistopathology provided the standard-of-truth because it is the only definitive method for accurately identifying ccRCC."
+    }
+  ],
+  "sponsor": "Heidelberg Pharma AG",
+  "collaborators": [],
+  "start_date": "2008-03",
+  "completion_date": "2009-12",
+  "last_updated": "2018-09-03"
+}

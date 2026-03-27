@@ -1,0 +1,90 @@
+{
+  "nct_id": "NCT04913285",
+  "brief_title": "A Study to Evaluate KIN-2787 in Participants With BRAF and/or NRAS Mutation Positive Solid Tumors",
+  "official_title": "A Phase 1/1b Open-label, Multicenter Study to Investigate the Safety, Tolerability, Pharmacokinetics, and Antitumor Activity of KIN-2787 in Participants With BRAF and/or NRAS Mutation-positive Solid Tumors.",
+  "brief_summary": "The purpose of this study is to evaluate the safety, tolerability, pharmacokinetics (PK), and preliminary efficacy of KIN-2787 in adults with BRAF/NRAS-mutated advanced or metastatic solid tumors.",
+  "detailed_description": "This is a two-part, open-label, multi-center, dose escalation and dose expansion study in participants with BRAF mutation-positive and/or NRAS mutation-positive tumors designed to evaluate the safety, tolerability, and pharmacokinetics (PK) of KIN-2787, a RAF small molecule kinase inhibitor, to determine a recommended Phase 2 dose (RP2D) of KIN-2787, and to assess the objective response to KIN-2787 therapy alone and in combination with binimetinib, a mitogen-activated protein kinase (MEK) inhibitor.\n\nThe dose expansion phase (Part B) will assess the safety and efficacy of KIN-2787 at the recommended dose and schedule in patients with cancers that contain BRAF Class I, II or III mutations, including lung cancer, melanoma, and other selected solid tumors.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 400,
+  "conditions": [
+    "Solid Tumor, Adult",
+    "Non-small Cell Lung Cancer",
+    "Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "KIN-2787",
+      "type": "DRUG",
+      "description": "KIN-2787 will be administered orally twice daily in 28-day cycles"
+    },
+    {
+      "name": "KIN-2787 and binimetinib",
+      "type": "DRUG",
+      "description": "Continuous and Ramp-Up cohorts: KIN-2787 (exarafenib) and binimetinib will be administered orally twice daily in 28-day cycles Intermittent Cohort: KIN-2787 will be administered orally twice daily and binimetinib will be administered twice daily for 5 days on, 2 days off for 28-day cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Provide written informed consent prior to initiation of any study-specific procedures.\n* Metastatic or advanced stage solid tumor\n* Known BRAF Class I, Class II, or Class III alteration or melanoma with an NRAS mutation as confirmed by previous genomic analysis of tumor tissue or ctDNA.\n* Measurable (Part A and B) or evaluable (Part A only) disease by RECIST v1.1.\n* ECOG performance status 0-1\n* Adequate organ function, as measured by laboratory values (criteria listed in protocol).\n* Able to swallow, retain, and absorb oral medications.\n\nExclusion Criteria:\n\n* Known participants who have received local therapy with either surgery and/or radiation therapy (participants with asymptomatic untreated brain metastasis may be eligible if met with certain criteria)\n* In Part B Dose Expansion, previous treatment with any approved or in-development small molecule BRAF-, MEK-, or MAPK-directed inhibitor therapy.\n* GI tract disease causing an inability to take oral medication, malabsorption syndrome, requirement for intravenous alimentation, or uncontrolled inflammatory GI disease.\n* Active, uncontrolled bacterial, fungal, or viral infection.\n* Participant with a positive test result for SARS-CoV2 infection, is known to have asymptomatic infection or is suspected of having SARS-CoV2, is excluded\n* Women who are lactating or breastfeeding, or pregnant.\n* Participants with any other active treated malignancy within 3 years prior to enrollment\n\nComplete inclusion and exclusion criteria are listed in the clinical study protocol.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Atlantic Health",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part A1 Dose escalation monotherapy:",
+      "timeFrame": "Initiation of study drug through 28 days after last dose (up to approximately 18 months)",
+      "description": "To determine the safety and tolerability of oral administration of KIN-2787 including dose-limiting toxicities (DLTs), and to identify the maximum tolerated dose (MTD) and/or the appropriate dose for further clinical investigation in Part B Dose Expansion."
+    },
+    {
+      "measure": "Part A2 Dose Escalation: KIN-2787 + Binimetinib Combination",
+      "timeFrame": "Initiation of study drug through 28 days after last dose (up to approximately 18 months)",
+      "description": "To determine the safety and tolerability of oral administration of KIN-2787 + binimetinib including DLTs, and to identify the MTD and/or the appropriate dose for further clinical investigation."
+    },
+    {
+      "measure": "In Part B (Dose Expansion) - objective response rate (ORR) using RECIST v1.1.",
+      "timeFrame": "Initiation of study drug until disease progression (up to approximately 36 months)",
+      "description": "To assess preliminary evidence of the anti-cancer activity of KIN-2787 and for (B2) KIN-2787 + binimetinib"
+    },
+    {
+      "measure": "In Part B (Dose Expansion) - disease control rate (DCR).",
+      "timeFrame": "Initiation of study drug until disease progression (up to approximately 36 months)",
+      "description": ""
+    },
+    {
+      "measure": "In Part B (Dose Expansion) - duration of overall response (DOR).",
+      "timeFrame": "Initiation of study drug until disease progression (up to approximately 36 months)",
+      "description": "Measure of clinical benefit, defined as the time from initial tumor response to documented tumor progression"
+    },
+    {
+      "measure": "In Part B (Dose Expansion) - duration of stable disease.",
+      "timeFrame": "Initiation of study drug until disease progression (up to approximately 36 months)",
+      "description": ""
+    }
+  ],
+  "sponsor": "Pierre Fabre Medicament",
+  "collaborators": [],
+  "start_date": "2021-08-04",
+  "completion_date": "2029-03-30",
+  "last_updated": "2025-12-17"
+}

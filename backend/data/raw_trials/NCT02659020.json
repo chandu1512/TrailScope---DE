@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT02659020",
+  "brief_title": "A Study of Olaratumab (LY3012207) in Participants With Advanced Soft Tissue Sarcoma",
+  "official_title": "A Phase 1b (Open-Label)/Phase 2 (Randomized, Double-Blinded) Study Evaluating Gemcitabine and Docetaxel With or Without Olaratumab in the Treatment of Advanced Soft Tissue Sarcoma",
+  "brief_summary": "The main purpose of this study is to evaluate the safety and efficacy of two anti-cancer drugs (gemcitabine and docetaxel) with and without the study drug known as olaratumab in participants with advanced soft tissue sarcoma (STS) or STS that has spread to another part(s) of the body.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 310,
+  "conditions": [
+    "Soft Tissue Sarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "Olaratumab",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Administered IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* The participant may have no more than 2 prior lines of systemic therapies (neoadjuvant and adjuvant therapies will not be considered as a prior line of therapy) for advanced or metastatic disease and is suitable to receive gemcitabine and docetaxel therapy. All previous therapies must have completed \u2265 3 weeks (21 days) prior to first dose of study drug.\n* In the Phase 2 part, prior olaratumab/doxorubicin combination therapy in 1 prior treatment line is allowed.\n\n  * Prior olaratumab therapy must have been received with doxorubicin as indicated on the olaratumab label.\n  * Prior olaratumab therapy must have included at least 2 full cycles of olaratumab/doxorubicin (that is, a minimum of 4 doses of olaratumab).\n  * Participants, who completed at least 2 cycles of combination olaratumab/doxorubicin therapy then discontinued doxorubicin due to toxicity or maximum dosing and proceeded to olaratumab monotherapy, are eligible.\n  * The most recent dose of olaratumab must have been received within 180 days of randomization in this study.\n* Availability of tumor tissue is mandatory for study eligibility. The participant must have consented to provide archived formalin-fixed paraffin-embedded tumor tissue or be subject to a pre-treatment re-biopsy of primary or metastatic tumor tissue for future central pathology review and translational research (if archived tissue is unavailable).\n* The participant has adequate hematologic, organ, and coagulation function within 2 weeks (14 days) prior to enrollment (Phase 1b) or randomization (Phase 2).\n\nExclusion Criteria:\n\n* The participant is diagnosed with gastrointestinal stromal tumor (GIST) or Kaposi sarcoma.\n* The participant has active central nervous system (CNS) or leptomeningeal metastasis (brain metastasis) at the time of enrollment (Phase 1b) or randomization (Phase 2). Participants with a history of a CNS metastasis previously treated with curative intent (for example, stereotactic radiation or surgery) that have not progressed on follow-up imaging, have been asymptomatic for at least 60 days, and are not receiving systemic corticosteroids and or/anticonvulsants, are eligible. Participants with signs or symptoms of neurological compromise should have appropriate radiographic imaging performed before enrollment (Phase 1b) /randomization (Phase 2) to rule out brain metastasis.\n* The participant has received prior treatment with gemcitabine or docetaxel. Note: Participants previously enrolled in the I5B-MC-JGDJ (NCT02451943) or any other blinded study with olaratumab are not eligible to participate in this trial.\n* The participant has electively planned or will require major surgery during the course of the study.\n* Females who are pregnant or breastfeeding.\n* The participant has an active fungal, bacterial, and/or known viral infection including human immunodeficiency virus (HIV) or viral (A, B, or C) hepatitis (screening is not required).",
+    "gender": "ALL",
+    "min_age": "16 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University School of Medicine",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1b: Number of Participants With Dose Limiting Toxicity (DLT)",
+      "timeFrame": "Cycle 1 (Up To 21 Days)",
+      "description": "A Dose Limiting Toxicity is defined as an Adverse Event (AE) that is likely related to the study medication or combination, and fulfils any one of the following criteria, graded according to the NCI-CTCAE Version 4.0:\n\n1. Febrile neutropenia with documented Grade \u22653 infection or sepsis\n2. Grade 4 neutropenia lasting 7 days or longer.\n3. Grade 4 thrombocytopenia, or Grade 3 thrombocytopenia complicated by hemorrhage.\n4. Nonhematologic Grade \u22653 toxicity, except for toxicities such as nausea, vomiting, transient electrolyte abnormalities, or diarrhoea that can be controlled with optimal medical management within 48 hours."
+    },
+    {
+      "measure": "Phase 2: Overall Survival (OS) (Olaratumab-Naive)",
+      "timeFrame": "Baseline to Date of Death Due to Any Cause (Up To 38 Months)",
+      "description": "OS was defined as the time from the date of randomization to the date of death from any cause. For each participant who is not known to have died as of the data-inclusion cut-off date for a particular analysis, overall survival duration was censored for that analysis at the date of last prior contact."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2016-03-01",
+  "completion_date": "2021-04-27",
+  "last_updated": "2022-04-15"
+}

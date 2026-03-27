@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT01876784",
+  "brief_title": "Evaluation of Efficacy, Safety of Vandetanib in Patients With Differentiated Thyroid Cancer",
+  "official_title": "A Randomized, Double-Blind, Placebo-Controlled, Multi-Centre Phase III Study to Assess the Efficacy and Safety of Vandetanib (CAPRELSA\u2122; SAR390530 (Formerly AstraZeneca ZD6474)) 300 mg in Patients With Differentiated Thyroid Cancer That Is Either Locally Advanced or Metastatic Who Are Refractory or Unsuitable for Radioiodine (RAI) Therapy",
+  "brief_summary": "Primary Objective:\n\nTo determine the efficacy (as assessed by progression-free survival \\[PFS\\]) of vandetanib when compared to placebo in participants with differentiated thyroid cancer that is either locally advanced or metastatic who are refractory or unsuitable for radioiodine therapy.\n\nSecondary Objectives:\n\n* To determine the efficacy of vandetanib when compared to placebo in this participant population as assessed by efficacy variables including duration of response (DOR), objective response rate (ORR), change in tumour size (TS) and overall survival (OS).\n* To evaluate the pharmacokinetics (PK) of vandetanib in this participant population and potentially investigate any influence of participant demography and pathophysiology on vandetanib PK.\n* To demonstrate an improvement in time to worsening of pain (TWP) in participants treated with vandetanib when compared to placebo in this participant population.\n* To evaluate the safety and tolerability of vandetanib treatment in this participant population.",
+  "detailed_description": "Participants who received vandetanib as randomized treatment were allowed, upon re-consent, to continue on open-label vandetanib if in the opinion of the Investigator the participant received benefit. Placebo participants who experienced disease progression within 60 days of unblinding were offered the option of treatment with open-label vandetanib if, in the Investigator's opinion, such treatment was of clinical benefit to the participant. Approximately 2 years; duration depends on individual participant response.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 238,
+  "conditions": [
+    "Differentiated Thyroid Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Vandetanib (SAR390530)",
+      "type": "DRUG",
+      "description": "Pharmaceutical form: tablet\n\nRoute of administration: oral"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Pharmaceutical form: tablet\n\nRoute of administration: oral"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Provision of informed consent to participate in the study as well as provision of informed consent to provide a sample of a previously obtained archival tumor biopsy.\n* Female or male aged 18 years and older with previously confirmed histological diagnosis of locally advanced or metastatic differentiated (excluding minimally invasive follicular) thyroid cancer not amenable to surgical resection, external beam radiotherapy or local therapy.\n* Measurable disease defined as at least one lesion, not irradiated within 12 weeks of the date of randomization, that can be accurately measured at baseline.\n* Participants must have experienced progression within 14 months and be RAI-refractory/resistant or unsuitable for RAI.\n* Thyroid-stimulating hormone (TSH) suppression below 0.5 mU/L is required.\n* World Health Organization (WHO) or Eastern Cooperative Oncology Group (ECOG) Performance status 0-2.\n* Negative pregnancy test (urine or serum) for female participants of childbearing potential.\n\nExclusion Criteria:\n\n* Inadequate organ function as defined by: (1) Alanine aminotransferase (ALT), aspartate aminotransferase (AST), or alkaline phosphatase (ALP) greater than 2.5\\*upper limit of normal (ULN), or greater than 5.0\\*ULN if judged by the Investigator to be related to liver metastases. (2) Serum bilirubin greater than 1.5\\*ULN. This criterion does not apply to participants with known Gilbert's Disease. (3) Creatinine clearance \\<50 mL/min (calculated by Cockcroft-Gault formula).\n* Risk of prolonged interval between Q and T (QT) on an electrocardiogram (ECG) corrected for heart rate (QTc) as defined by: (1) Current therapy with any medication known to be associated with Torsades de pointes or potent inducers of cytochrome CYP3A4. (2) History of QT prolongation. (3) Congenital long QT syndrome. (4) QT interval corrected for heart rate by the Bazett's method (QTcB) correction unmeasurable or greater than 480 ms on screening ECG.\n* Previous therapy with approved or investigational tyrosine kinase or anti- vascular endothelial growth factor (VEGF) receptor inhibitors or targeted therapies (e.g. multi-targeted kinase inhibitors such as sorafenib, AMG-706, sunitinib, pazopanib, lenvatinib).\n* RAI therapy within 12 weeks prior to first dose of study drug, and radiation therapy other than RAI, including external beam, if not completed prior to randomization.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19014",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS)",
+      "timeFrame": "Randomization until disease progression or death, assessed every 12 weeks (up to 22 months)",
+      "description": "The PFS was defined as the time (in months) from randomization until the date of first documented disease progression or death (from any cause), whichever came first. Disease progression as per Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1.1) was defined as: at least a 20% increase and absolute increase of 5 mm in the sum of the longest diameter (LD) of target lesions, taking as reference the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions. Analysis was performed by Kaplan-Meier method."
+    }
+  ],
+  "sponsor": "Genzyme, a Sanofi Company",
+  "collaborators": [],
+  "start_date": "2013-09-17",
+  "completion_date": "2022-01-22",
+  "last_updated": "2024-06-26"
+}

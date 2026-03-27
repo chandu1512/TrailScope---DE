@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT04165798",
+  "brief_title": "KEYMAKER-U01 Umbrella Master Study: Studies of Investigational Agents With Either Pembrolizumab (MK-3475) Alone or With Pembrolizumab PLUS Chemotherapy in Participants With Non-small Cell Lung Cancer (NSCLC) (MK-3475-U01/KEYMAKER-U01)",
+  "official_title": "KEYMAKER-U01 Master Study: A Phase 1/2, Umbrella Study With Rolling Arms of Investigational Agents, Pembrolizumab, and Chemotherapy, Alone or in Combination, in Participants With Non-small Cell Lung Cancer (NSCLC)",
+  "brief_summary": "This study is referred to as the \"umbrella master protocol\" for pembrolizumab (MK-3475) in the treatment of non-small cell lung cancer (NSCLC). This pembrolizumab NSCLC umbrella master protocol uses a platform design and consists of this master screening study and additional substudies. Each substudy will enroll a different population of NSCLC participants.",
+  "detailed_description": "The following pembrolizumab substudies will evaluate the efficacy of different investigational agents in combination with pembrolizumab given in sequence or in combination with pembrolizumab PLUS chemotherapy:\n\n* KEYMAKER-U01 Substudy 01A: A Phase 1/2, Umbrella Study With Rolling Arms of Investigational Agents, With Pembrolizumab With or Without Chemotherapy in Treatment-Naive Participants With Stage IV Non-small Cell Lung Cancer (NSCLC) (MK-3475-01A) - NCT04165070\n* KEYMAKER-U01 Substudy 2: A Phase 2, Umbrella Study with Rolling Arms of Investigational Agents in Combination with Pembrolizumab in Treatment Na\u00efve Patients with PD-L1 Positive Advanced Non-small Cell Lung Cancer (NSCLC) (MK-3475-01B) - NCT04165083\n* KEYMAKER-U01 Substudy 3: A Phase 2, Umbrella Study with Rolling Arms of Investigational Agents in Combination with Pembrolizumab in Patients with Advanced Non-small Cell Lung Cancer (NSCLC) Previously Treated with anti-PD-(L)1 Therapy (MK-3475-01C) - NCT04165096\n* KEYMAKER-U01 Substudy 01E: A Phase 2 Umbrella Study With Rolling Arms of Investigational Agents With or Without Chemotherapy in Combination With Pembrolizumab in Treatment of Participants With Newly Diagnosed Resectable Stages II-IIIB (N2) Non-small Cell Lung Cancer (NSCLC) (MK-3475-01E) - NCT06788912\n* KEYMAKER-U01 Substudy 01F: A Phase 1b/2 Umbrella Study With Rolling Arms of Investigational Agents for Second-line Treatment of Participants With Advanced or Metastatic Nonsquamous Non-small Cell Lung Cancer (NSCLC) With KRAS G12C Mutations (MK-3475-01F) - NCT number pending\n* KEYMAKER-U01 Substudy 01G: A Phase 2, Umbrella Study With Rolling Arms of Investigational Agents in Combination With Pembrolizumab With or Without Platinum-based Chemotherapy in Treatment-Na\u00efve Participants With Stage IV Non-small Cell Lung Cancer (NSCLC) (MK-3475-01G) - NCT06731907\n* KEYMAKER-U01 Substudy 01H: A Phase 2, Randomized, Umbrella Study With Rolling Arms of Investigational Agents in Participants with Previously Treated Stage IV Nonsquamous Non-small Cell Lung Cancer (NSCLC) (MK-3475-01H) - NCT06780085\n* KEYMAKER-U01 Substudy 01I: A Phase 2, Randomized, Umbrella Study With Rolling Arms of Investigational Agents in Participants With Previously Treated Stage IV Squamous Non-small Cell Lung Cancer (NSCLC) (MK-3475-01I) - NCT06780098\n* KEYMAKER-U01 Substudy 01J: A Randomized Phase 2 Umbrella Study With Rolling Arms of Investigational Agents for First-line Treatment of Participants With Advanced or Metastatic Nonsquamous Non-small Cell Lung Cancer (NSCLC) With KRAS G12C Mutations (MK-3475-01J) - NCT number pending",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1065,
+  "conditions": [
+    "Carcinoma, Non-Small-Cell Lung"
+  ],
+  "interventions": [
+    {
+      "name": "Tumor Imaging",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Participants will undergo tumor imaging using either a magnetic resonance imaging (MRI) scan or a computed tomography (CT) scan."
+    },
+    {
+      "name": "Tumor Tissue Collection",
+      "type": "PROCEDURE",
+      "description": "Participants without archival tumor tissue samples will undergo tumor tissue collection for newly obtained tumor tissue."
+    },
+    {
+      "name": "Blood Sample Collection",
+      "type": "PROCEDURE",
+      "description": "Participants will have blood samples drawn for analysis of:\n\n* genetics\n* ribonucleic acid (RNA)\n* serum biomarker\n* plasma biomarker\n* circulating tumor DNA (ctDNA)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nThe main inclusion criteria include but are not limited to the following:\n\n* Has histologically- or cytologically-confirmed diagnosis of Stage IV squamous or nonsquamous NSCLC\n* Has measurable disease per Response Evaluation Criteria in Solid Tumors version 1.1\n\nExclusion Criteria:\n\nThe main exclusion criteria include but are not limited to the following:\n\n* Has an active autoimmune disease that has required systemic treatment in the past 2 years\n* Has a history of (noninfectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease\n* Has an active infection requiring systemic therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "MedStar Franklin Square Medical Center ( Site 0033)",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": "COMPLETED"
+    },
+    {
+      "facility": "John Theurer Cancer Center at Hackensack University Medical Center ( Site 0037)",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "COMPLETED"
+    },
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania ( Site 0010)",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Programmed Cell Death-Ligand 1 (PD-L1) Tumor Expression Level: Tumor Proportion Score (TPS) <1% vs. TPS =1%",
+      "timeFrame": "Up to approximately 1 month",
+      "description": "Participants' tumors will be evaluated for their PD-L1 tumor expression level using archival tumor tissue samples or newly obtained tumor tissue. The percentage of participants who have a Tumor Proportion Score (TPS) \\<1% vs. a TPS =1% will be presented."
+    },
+    {
+      "measure": "Tumor Histology Status: Squamous Non-small Cell Lung Cancer (NSCLC) vs. Nonsquamous NSCLC",
+      "timeFrame": "Up to approximately 1 month",
+      "description": "Participants' tumors will be evaluated for their tumor histology status as being either squamous vs. nonsquamous NSCLC using archival or newly obtained tumor tissue samples. The percentage of participants who have squamous vs. nonsquamous NSCLC will be presented."
+    }
+  ],
+  "sponsor": "Merck Sharp & Dohme LLC",
+  "collaborators": [
+    "Daiichi Sankyo"
+  ],
+  "start_date": "2019-12-19",
+  "completion_date": "2032-02-13",
+  "last_updated": "2026-03-13"
+}

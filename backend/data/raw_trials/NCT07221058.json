@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT07221058",
+  "brief_title": "Adaptive Radiation Boost for Rectal Cancer",
+  "official_title": "Adaptive Radiation BOost for Rectal Cancer: a Phase I Dose Escalation Study (ARBOR)",
+  "brief_summary": "The goal of this clinical trial is to find out if giving extra adaptive radiation therapy after standard chemoradiation treatment is safe and helpful for people with rectal cancer.\n\nThe main questions the study aims to answer are:\n\n* Can this approach help target the most aggressive cancer cells more accurately, while protecting nearby healthy tissue?\n* Can it reduce the side effects that people may experience during treatment?\n\nParticipants will:\n\n* First receive standard treatment: radiation (45 Gy in 25 sessions) along with a chemotherapy pill called capecitabine.\n* Then get extra radiation using MRI scans every two weeks to adjust the treatment based on how the tumor responds.\n* Use a small balloon during treatment to help aim the radiation and protect healthy areas.\n* Finally, receive additional chemotherapy (such as FOLFOX) for four months.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 37,
+  "conditions": [
+    "Rectum Cancer, Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Adaptive Radiotherapy Boost",
+      "type": "RADIATION",
+      "description": "Patients will receive one boost fraction every two weeks, targeting the primary tumor within the rectum plus a 2 mm Planning Target Volume (PTV) margin. Any regional lymph nodes that measure at least 5 mm in short axis on the day of treatment will receive treatment with the ART dose being given to the primary rectal tumor."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Subjects must have histologically or cytologically confirmed rectal adenocarcinoma.\n2. Subjects must have T2-3, N0-1, M0 rectal cancer. Staging will be done by MRI pelvis and CT chest and abdomen with contrast. PET-CT will be an acceptable alternative for the CT chest and abdomen.\n3. Subjects must be willing to undergo MRI scans.\n4. Age \u226518 years.\n5. ECOG performance status 0 or 1.\n6. Estimated survival of \u2265 12 months.\n7. Subjects must have normal organ and marrow function as defined below\n\n   * Absolute neutrophil count \\> =1,000/mcL\n   * Platelets \\>= 75,000/mcL\n   * Total bilirubin \\< 3 mg/dL\n8. Subjects must be able to tolerate the chemotherapy regimens outlined in the treatment plan (Section 5.0), both before and after ART.\n\n   * Before ART: Capecitabine at a dose of 825 mg/m\u00b2\n   * After ART: FOLFOX combination chemotherapy, or 5-FU, or capecitabine\n9. Subjects must possess the ability to understand and willingness to sign a written informed consent and HIPAA consent document. Translation services including translation of informed consent documents will be provided, as feasible, to encourage diversity of inclusion of eligible patients.\n\nExclusion Criteria:\n\n1. Subjects who have been previously treated for rectal cancer are excluded.\n2. Subjects with rectal cancer involving the anal canal are excluded. (Rectal cancer abutting the anal canal will be allowed.)\n3. Subjects must not be receiving any other investigational agents.\n4. Subjects may not have had prior pelvic radiation.\n5. Subjects should not have had a cancer actively treated within the last 3 years, excluding non-melanoma skin cancer.\n6. Subjects must not have uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n7. Any condition or significant co-morbidity that prevents safe delivery of ART per the discretion of the treating physician(s).\n8. Subjects must not be pregnant or breast-feeding.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "MTD will be evaluated by monitoring the rate of dose limiting toxicities (DLTs) defined as acute Grade 2+ gastrointestinal toxicity probably or definitely related to radiation.",
+      "timeFrame": "From the initiation of rectal adaptive radiotherapy boost to 90 days after the last dose of boost, for a total of ~ 120 days.",
+      "description": ""
+    },
+    {
+      "measure": "Feasibility of a rectal boost that targets at least 90% of the rectal planning tumor volume with the 80% prescribed dose while limiting the outer 3 mm of the rectal wall to no more than 50% of the prescription dose delivered to 0.1cc.",
+      "timeFrame": "From the ART boost initiation to the end of the ART boost, for a period of ~ 5 weeks",
+      "description": "Feasibility will be determined based on successful implementation and completion of standard chemoradiotherapy followed by experimental rectal adaptive radiotherapy boost utilizing CT-MR fusion that targets at least 90% of the rectal PTV\\_Eval with the 80% prescribed dose while limiting the outer 3 mm of the rectal wall to no more than 50% of the prescription dose delivered to 0.1cc in \u2265 70% of ART fractions for the patient population enrolled in the study. This will be assessed at the MTD."
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [
+    "Varian Medical Systems"
+  ],
+  "start_date": "2025-10-24",
+  "completion_date": "2029-11-01",
+  "last_updated": "2025-12-02"
+}

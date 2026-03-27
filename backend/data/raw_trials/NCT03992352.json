@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT03992352",
+  "brief_title": "Composite Health Assessment Risk Model (CHARM) for Older Adults (BMT CTN 1704)",
+  "official_title": "Composite Health Assessment Risk Model (CHARM) for Older Adults: Applying Pre-Transplant Comorbidity, Geriatric Assessment, and BioMarkers on Non-Relapse Mortality After Allogeneic Transplant (BMT CTN 1704)",
+  "brief_summary": "Prospective observational multicenter study of allogeneic Hematopoietic Stem Cell Transplantation (HCT) in recipients 60 years and older to assess important determinants of health status to be combined into a composite health risk model to improve risk assessment of non-relapse mortality (NRM).",
+  "detailed_description": "At baseline, standardized Geriatric Assessment (GA) tools incorporating subject reported data and bedside testing will be collected. HCT-Comorbidity Index (CI) scores will be assigned and C-reactive protein (CRP) and albumin will be measured locally. Serial measures at 3, 6, and 12 months for frailty, skilled facility admission, and quality of life (QOL) using PROMIS measures for physical function, depression and anxiety will be determined. Graft Versus Host Disease (GVHD) through one year, serious toxicities through day 100, cognitive status at day 100 and causes of death will be captured.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1229,
+  "conditions": [
+    "Hematologic Malignancy"
+  ],
+  "interventions": [
+    {
+      "name": "Age 60+ with planned HCT for Hematologic Malignancy",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "questionnaires, geriatric assessments"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Subject is \\> 60.0 years old at time of enrollment.\n2. Hematological malignancy as an indication for allogeneic transplantation.\n3. Eligible for allogeneic transplantation based on institutional standards\n4. First allogeneic transplant planned. Any conditioning regimen and allogeneic donor is acceptable.\n5. Able to speak and read English. Spanish, and Mandarin will be acceptable when sites have ability to perform healthcare provider tests in those languages.\n6. Written informed consent\n\nExclusion Criteria:\n\n1\\. Prior allogeneic HCT",
+    "gender": "ALL",
+    "min_age": "60 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21205",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "One Year Non-Relapse Mortality",
+      "timeFrame": "1 year",
+      "description": "To determine the set of assessments and biomarkers that could together constitute a robust and valid composite health risk model for accurate personalized estimation of NRM by analyzing data collected from all measures pre and post transplant."
+    }
+  ],
+  "sponsor": "Center for International Blood and Marrow Transplant Research",
+  "collaborators": [
+    "National Institutes of Health (NIH)",
+    "National Heart, Lung, and Blood Institute (NHLBI)",
+    "National Cancer Institute (NCI)",
+    "Blood and Marrow Transplant Clinical Trials Network",
+    "National Marrow Donor Program"
+  ],
+  "start_date": "2019-07-19",
+  "completion_date": "2023-05-30",
+  "last_updated": "2024-02-05"
+}

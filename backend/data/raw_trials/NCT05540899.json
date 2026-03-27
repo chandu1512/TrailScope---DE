@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT05540899",
+  "brief_title": "Testing the Safety of Giving a Standard Dose of Radiation Over a Shorter Period of Time for Patients Who Had Surgery for Intermediate-Risk Head and Neck Cancer",
+  "official_title": "Phase I Safety Assessment of Hypofractionated Postoperative Radiotherapy (H-PORT) for Intermediate-Risk Head and Neck Cancer",
+  "brief_summary": "This phase I trial is looking to determine if hypofractionated radiation therapy can be given safely after surgery for intermediate-risk head and neck cancer.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To determine if a hypofractionated postoperative radiotherapy (H-PORT) schedule for patients with intermediate-risk head and neck cancer (squamous cell carcinoma of the oral cavity, oropharynx, or larynx) who have undergone surgery is safe and feasible for further evaluation in a phase II clinical trial.\n\nSECONDARY OBJECTIVES:\n\nI. To assess H-PORT treatment-related and unrelated adverse events during treatment and within one year after treatment completion.\n\nII. To assess H-PORT tolerability and compliance, as measured by treatment interruptions and discontinuations, and to assess the reasons for those modifications.\n\nARM I: Patients undergo surgery per standard of care followed by hypofractionated radiotherapy. Patients receive 50 Gy over 4 weeks (i.e., 2.5 Gy per day x 20 fractions). Radiation therapy should start after there is adequate healing and no evidence of gross residual/recurrent cancer.\n\nPatients are followed up at 1 month, 3 months, 6 months and 12 months post H-PORT therapy.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 14,
+  "conditions": [
+    "Head and Neck Cancer",
+    "Head and Neck Squamous Cell Carcinoma",
+    "Squamous Cell Carcinoma of the Larynx",
+    "Squamous Cell Carcinoma of the Oropharynx",
+    "Squamous Cell Carcinoma of the Oral Cavity"
+  ],
+  "interventions": [
+    {
+      "name": "Hypofractionated Postoperative Radiotherapy",
+      "type": "RADIATION",
+      "description": "Hypofractionated Postoperative Radiation Therapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Pathologically (histologically) proven diagnosis of squamous cell carcinoma (including variants such as verrucous carcinoma, spindle cell carcinoma, carcinoma NOS, etc.) of the head/neck (oral cavity, oropharynx or larynx); Note: Hypopharynx primaries are excluded because these patients have both a poor prognosis and high likelihood of post- radiation complications.\n* Clinical stage I-IVA squamous cell carcinoma of the oral cavity, oropharynx or larynx (AJCC 8th edition), including no distant metastases.\n\n  * General history and physical examination prior to registration;\n  * Chest X-ray (at a minimum) or chest CT scan (with or without contrast) or PET/CT of chest (with or without contrast) prior to registration.\n* Total resection of the patient's cancer (i.e. no residual disease after total resection of the patient's cancer).\n* One or more indications for postoperative radiotherapy, based upon pathologic findings:\n\n  * Perineural invasion;\n  * Lymphovascular invasion;\n  * Single lymph node \u2265 3 cm or \u2265 2 lymph nodes (no extracapsular Extension);\n  * Close margin(s) of resection (close margins defined as cancer extending to within 5 mm of a surgical margin);\n  * Pathologically confirmed T3 or T4a primary tumor;\n  * T2 oral cavity cancer with \u2265 5 mm depth of invasion.\n* Zubrod Performance Status 0-1.\n* Age 18-80.\n* Negative pregnancy test within 14 days prior to registration for participants who may become pregnant.\n* Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety assessment of the investigational regimen are eligible for this trial.\n* The patient or a legally authorized representative must provide study-specific informed consent prior to study entry.\n\nExclusion Criteria:\n\n* Recurrence of the study cancer.\n* History of systemic lupus erythematosus or systemic sclerosis (scleroderma).\n* Pregnancy and individuals unwilling to discontinue nursing.\n* Reliant on a feeding tube (gastric or jejuno) to maintain adequate nutrition at the time of registration\n* Anticipated need for high-dose systemic chemotherapy (e.g., high dose q3-week cisplatin), multiple systemic therapy agents or immunotherapy. Weekly single-agent systemic therapy with cisplatin, carboplatin, or cetuximab is allowable.\n* Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields; prior chemotherapy for study cancer is not allowed.\n* Per the operative and/or pathology report, positive margin(s) \\[defined as tumor present at the cut or inked edge of the tumor\\], nodal extracapsular extension, and/or gross residual disease after surgery; Note: Patients whose tumors had focally positive margins in the main specimen but negative margins from re-excised samples in the region of the positive margin are eligible.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Milton S. Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose-Limiting Toxicity (DLT)",
+      "timeFrame": "From the start of H-PORT up 12 months post-radiation",
+      "description": "All grades are based on Common Terminology Criteria for Adverse Events (CTCAE v.5). H-PORT in this population will be deemed safe if 0-2 patients out of the first 12 evaluable patients experience DLTs. Should 3 or more patients experience DLTs at any time point during the DLT evaluation period, then accrual to the trial will be stopped, if applicable.\n\nOnce 12 evaluable eligible patients have completed their DLT assessment, the rate of unacceptable DLTs and 95% confidence interval will be summarized using proportions for binary outcomes and the exact binomial method."
+    }
+  ],
+  "sponsor": "American College of Radiology",
+  "collaborators": [
+    "RTOG Foundation, Inc."
+  ],
+  "start_date": "2023-11-08",
+  "completion_date": "2028-11",
+  "last_updated": "2025-07-21"
+}

@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT06397040",
+  "brief_title": "The Use of Remote Monitoring to Improve Patient-Reported Outcomes and Readmission Rates Following Radical Cystectomy",
+  "official_title": "The Use of Remote Monitoring to Improve Patient-Reported Outcomes and Readmission Rates Following Radical Cystectomy",
+  "brief_summary": "Following radical cystectomy for bladder cancer, nearly two-thirds of patients experience a complication and almost a third are readmitted. Thus, intensified monitoring of this vulnerable group represents an opportunity for improved quality of care in the post-operative setting. By gathering biomarkers passively and continuously, wearable activity monitors augment remote patient monitoring. Further, they facilitate the collection of patient-reported outcomes frequently.\n\nDespite the proven impact of remote monitoring on patient care, there is limited data on the feasibility and impact of employing this technology to trigger real-time provider assessment following cystectomy. The investigators plan to conduct a randomized control trial examining such. The intervention group of participants will receive continuous biomarker monitoring via FitBits and daily patient-reported outcome assessments via connected smartphones. Abnormalities in remote data will trigger automated alerts to providers. Providers will respond in real-time to these alerts and patients will receive education materials discussing preventative measures to mitigate the main risk factors for readmissions. The investigators will evaluate the feasibility of integrating this technology into the post-operative period, as well as the impact of real-time provider attention to abnormal remote data on patient-reported outcomes and rates of readmission. The investigators hypothesize that early assessment of and intervention on remote abnormalities will promote the use of outpatient or reduced intensity therapies, such as oral antibiotics or oral hydration, thus curtailing the severity of patient symptoms, intensity of complications, and need for hospitalizations. Ultimately, this trial builds upon prior research, applying patient-centered technology to improve the quality of care following cystectomy.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 38,
+  "conditions": [
+    "Bladder Cancer",
+    "Quality of Life"
+  ],
+  "interventions": [
+    {
+      "name": "provider monitoring and feedback to remote data",
+      "type": "DEVICE",
+      "description": "provider monitoring of remote data and feedback to changes in remote data"
+    },
+    {
+      "name": "participant monitoring of remote data",
+      "type": "DEVICE",
+      "description": "participant monitoring of remote data, based upon post-operative instructions"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* undergoing cystectomy at three hospitals within the University of Pittsburgh Medical Center system\n* English speaking\n* owns smart phone\n\nExclusion Criteria:\n\n* unwilling or unable to participate\n* non-English speaking\n* does not own smart phone",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "patient engagement",
+      "timeFrame": "4 weeks following hospital discharge",
+      "description": "percent of patients who utilized the application daily and wore the device for 8hrs daily"
+    },
+    {
+      "measure": "provider response",
+      "timeFrame": "4 weeks following hospital discharge",
+      "description": "time from alert to provider response to patient"
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [],
+  "start_date": "2024-10-01",
+  "completion_date": "2025-06-30",
+  "last_updated": "2025-11-03"
+}

@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT07223424",
+  "brief_title": "Patient Preference for Subcutaneous vs. Intravenous Immune Therapy",
+  "official_title": "Patient Preference for Subcutaneous vs. Intravenous Immune Therapy (PSI-Immune)",
+  "brief_summary": "The study will evaluate patient and Health Care Professional- reported preference for Subcutaneous (SC) compared with IV nivolumab administration or similarly for SC compared with IV pembrolizumab.",
+  "detailed_description": "The development of SC nivolumab and SC pembrolizumab was intended to provide patients, physicians and health care systems compelling advantages to reduce the burden associated with ICI administration. However, despite the results of CheckMate 76K, Hillman Cancer Center utilization of SC nivolumab is poor. This study aims to formally assess, from the patients' perspective, whether SC administration of ICI agents is preferable to IV administration. Key secondary objectives include physician experience with SC vs. IV administration, cancer-related efficacy endpoints, and safety. Patients who are pending initiation of nivolumab monotherapy or nivolumab-based chemotherapy or targeted therapy combinations (Cohort A-1) will be enrolled. However, patients who are already receiving nivolumab or other ICI but are willing to be switched to nivolumab monotherapy or nivolumab-based combinations may be eligible to enroll in a separate cohort (Cohort B-1). US FDA has accepted a Biologics License Application from Merck for SC pembrolizumab for an FDA action date of 9/23/2025. Should SC pembrolizumab achieve FDA approval, we will aim to open 2 separate cohorts to evaluate patient preference for SC vs. IV pembrolizumab.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 480,
+  "conditions": [
+    "Renal Cell Carcinoma",
+    "Non Small Cell Lung Cancer",
+    "Melanoma",
+    "Colo-rectal Cancer (dMMR/MSI-H CRC)",
+    "Hepatocellular Carcinoma",
+    "Ulcerative Colitis",
+    "Esophageal Cancer",
+    "Squamous Cell Carcinoma",
+    "Gastric/GEJ",
+    "Cervical Cancer",
+    "Gastro-Esophageal Adenocarcinoma",
+    "Esophageal Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "nivolumab",
+      "type": "DRUG",
+      "description": "IV nivolumab (480mg Q4W), SC nivolumab (1200mg Q4W)"
+    },
+    {
+      "name": "pembrolizumab",
+      "type": "DRUG",
+      "description": "IV pembrolizumab (400mg Q6W) or SC pembrolizumab (790mg Q6W)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Able to understand and willing to sign a written informed consent document.\n* Able to read and write in English.\n* Must be eligible to receive nivolumab (Cohorts A-1, B-1) or pembrolizumab (Cohorts A-2, B-2) singly or in combination with other FDA-approved agents (TKIs or chemotherapy) according to standard of care practices, as determined by the clinical judgment of the investigator.\n* Prior and concurrent therapy criteria\n\n  o Patients should either be ICI-na\u00efve (Cohorts A-1, A-2) or be currently receiving adjuvant or front-line PD-(L)1 based therapy singly or in combination with FDA-approved agents (TKIs or chemotherapy) (Cohorts B-1, B-2).\n* Locally advanced or advanced/metastatic solid tumor for which nivolumab OR pembrolizumab is on-label.\n\n  * NOTE: IV nivolumab is FDA-approved in the following indications: RCC, melanoma, NSCLC, SCCHN, UC, dMMR/MSI-H CRC, HCC, esophageal cancer, and gastric, gastroesophageal and esophageal adenocarcinoma (gastric/GEJ).\n  * NOTE: IV pembrolizumab is FDA-approved in the following indications: RCC, melanoma, NSCLC, SCCHN, UC, dMMR/MSI-H CRC, HCC, esophageal cancer, gastric/GEJ, cervical cancer, cutaneous squamous cell carcinoma (cSCC), Merkel cell carcinoma (MCC), endometrial carcinoma, tumor mutational burden-high (TMB-H) cancers, triple negative breast cancer (TNBC).\n* Cohort-specific criteria.\n\n  * Cohort A-1: Patients who are treatment-naive (i.e. for whom nivolumab is planned but has not yet been initiated) are eligible to enroll.\n  * Cohort B-1: Patients who are already receiving treatment with nivolumab (singly or in combination with TKI or chemotherapy) OR a different ICI-therapy but are willing to switch to nivolumab monotherapy or nivolumab based combinations may eligible to enroll if nivolumab is on-label for their cancer.\n  * Cohort A-2: Patients who are treatment-naive (i.e. for whom pembrolizumab is planned but has not yet been initiated) are eligible to enroll.\n  * Cohort B-2: Patients who are already receiving treatment with pembrolizumab (singly or in combination with TKI or chemotherapy) OR a different ICI-therapy but are willing to switch to pembrolizumab monotherapy or pembrolizumab based combinations may eligible to enroll if pembrolizumab is on-label for their cancer.\n  * NOTE: Patients who are currently receiving nivolumab + ipilimumab combination as induction may be eligible to enroll in Cohort B-1 following induction (i.e. during planned maintenance) in indications including but not limited to advanced/metastatic melanoma, ccRCC, MSI-H/dMMR mCRC.\n  * NOTE: Patients for whom nivolumab + ipilimumab combination is planned as maintenance are not eligible (i.e. NSCLC patients being treated per CheckMate-227 or CheckMate-9LA).\n  * NOTE: Patients for whom anti-PD-1 based immunotherapy is planned as neoadjuvant therapy are not appropriate. Such patients may be considered for enrollment at the time of commencing adjuvant therapy in cohorts A-2 or B-2 as appropriate.\n\nExclusion Criteria:\n\n* Participant unable to receive nivolumab (or pembrolizumab) due to prior allergic reactions to nivolumab (or pembrolizumab) or any of its ingredients.\n* Has severe hypersensitivity (\u2265Grade 3) to nivolumab (or pembrolizumab) and/or any of its excipients.\n* Has had an allogenic tissue/solid organ transplant.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Preference for Subcutaneous Nivolumab Treatment",
+      "timeFrame": "Up to 48 months",
+      "description": "The proportion of patients with locally advanced or advanced/metastatic solid tumors who prefer SC to IV nivolumab."
+    },
+    {
+      "measure": "Preference for Subcutaneous Pembrolizumab Treatment",
+      "timeFrame": "Up to 48 months",
+      "description": "The proportion of patients with locally advanced or advanced/metastatic solid tumors who prefer SC to IV pembrolizumab."
+    }
+  ],
+  "sponsor": "Diwakar Davar",
+  "collaborators": [],
+  "start_date": "2025-11-04",
+  "completion_date": "2030-11-30",
+  "last_updated": "2025-11-05"
+}

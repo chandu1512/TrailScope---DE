@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT00002768",
+  "brief_title": "Chemotherapy Plus Peripheral Stem Cell Transplantation in Treating Patients With Acute Myeloid Leukemia in Second Remission",
+  "official_title": "AUTOLOGOUS STEM CELL TRANSPLANTATION FOR ACUTE MYELOID LEUKEMIA IN SECOND REMISSION: A PHASE II STUDY",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining chemotherapy with peripheral stem cell transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill more cancer cells.\n\nPURPOSE: Phase II trial to study the effectiveness of peripheral stem cell transplantation following chemotherapy in treating patients with acute myeloid leukemia in second remission.",
+  "detailed_description": "OBJECTIVES: I. Determine the ability of mobilization using cytarabine, etoposide, and filgrastim (G-CSF), conditioning using busulfan and etoposide, and autologous peripheral blood stem cell transplantation to generate a 2-year disease-free survival rate in at least 30% of patients with acute myeloid leukemia (AML) in second complete remission. II. Determine whether the treatment-related mortality can be limited to less than 20% in patients treated with this regimen. III. Determine whether adequate numbers of PBSC can be collected in these patients. IV. Determine the engraftment kinetics of primed PBSC obtained from these patients.\n\nOUTLINE: Mobilization/harvest: Patients receive cytarabine IV over 2 hours every 12 hours and etoposide IV continuously on days 1-4. Filgrastim (G-CSF) is administered subcutaneously (SC) beginning on day 14 and continuing until peripheral blood stem cells (PBSC) are harvested. When blood counts recover, PBSC are harvested and selected for CD34+ cells. Conditioning: Beginning at least 4 weeks after hospital discharge for mobilization and harvest and when blood counts recover, patients receive oral busulfan every 6 hours on days -7 to -4 and etoposide IV over 4 hours on day -3. PBSC are reinfused on day 0. G-CSF is administered SC beginning on day 0 and continuing until blood counts recover. Patients with documented CNS disease at first relapse receive methotrexate intrathecally at intervals of 1 week or greater before and/or after PBSC transplantation for a total of 6 doses. Patients are followed every 3 months for 2 years and then every 6 months for 3 years.\n\nPROJECTED ACCRUAL: A total of 26-48 patients will be accrued within 2 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 51,
+  "conditions": [
+    "Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "filgrastim",
+      "type": "BIOLOGICAL",
+      "description": "10 microgram/kg body wt subcutaneously daily beginning on d 14 and con't until peripheral blood collection is completed"
+    },
+    {
+      "name": "busulfan",
+      "type": "DRUG",
+      "description": "1 mg/kg PO q 6 hrs for 16 doses on days -7 thru -4."
+    },
+    {
+      "name": "cytarabine",
+      "type": "DRUG",
+      "description": "2000 mg/ sq meter IV over 2 hours q 12 hrs x 8 doses on days 1-4"
+    },
+    {
+      "name": "etoposide",
+      "type": "DRUG",
+      "description": "40 mg/kg (total dose) IV cont infusion over 96 hrs on days 1-4 of consolidation therapy and 60 mg/kg IV over 4 hrs on day -3 of transplant"
+    },
+    {
+      "name": "methotrexate",
+      "type": "DRUG",
+      "description": "For patients with documented CNS disease at first relapse, 12 mg intrathecal for a total of 6 doses given before and/or after transplantation"
+    },
+    {
+      "name": "peripheral blood stem cell transplantation",
+      "type": "PROCEDURE",
+      "description": "Infusion on Day 0"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS: Diagnosis of acute myeloid leukemia (AML) in second complete remission (CR) for 30 days to less than 1 year before study entry Second CR defined by the following: Neutrophil count at least 1,000/mm3 Platelet count at least 100,000/mm3 Normal bone marrow morphology with no excess blasts (greater than 5%) No myelodysplasia No extramedullary or CNS leukemia Initial diagnosis of de novo AML (M0-M7) No prior myelodysplasia No myeloproliferative disease No secondary AML Cytogenetics not required No cytogenetic evidence of persistent leukemia if cytogenetics performed\n\nPATIENT CHARACTERISTICS: Age: 15 to 69 Hematopoietic: See Disease Characteristics Granulocyte count at least 1,000/mm3 Hepatic: Bilirubin less than 1.5 mg/dL AST less than 3 times normal Alkaline phosphatase less than 3 times normal No cirrhosis or chronic hepatitis Biopsy required if chronic liver disease suspected (history of alcohol abuse or possible hepatitis) Renal: Creatinine less than 2.0 mg/dL Other: Not pregnant or nursing Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: No prior bone marrow/stem cell transplantation Chemotherapy: Prior non-ablative chemotherapy at initial diagnosis, during initial remission, or as reinduction therapy (to produce current second remission) allowed At least 4 weeks since hospital discharge after reinduction therapy Endocrine therapy: Not specified Radiotherapy: Not specified Surgery: Not specified Other: No prior post-remission therapy for second remission",
+    "gender": "ALL",
+    "min_age": "15 Years",
+    "max_age": "69 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Marlene & Stewart Greenebaum Cancer Center, University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "St. Joseph's Hospital and Medical Center",
+      "city": "Paterson",
+      "state": "New Jersey",
+      "zip": "07503",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Disease free survival",
+      "timeFrame": "2 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "1996-06",
+  "completion_date": "2009-03",
+  "last_updated": "2016-06-27"
+}

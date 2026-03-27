@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT06796543",
+  "brief_title": "Targeted Oligometastatic Radiation in Pediatric and Young Adult Patients With Soft Tissue and Bone Sarcoma",
+  "official_title": "Targeted Oligometastatic Radiation in Pediatric and Young Adult Patients With Soft Tissue and Bone Sarcoma",
+  "brief_summary": "This study is designed for children, adolescents and young adults undergoing radiation therapy for metastatic sarcoma. The aim of the study is to investigate if the investigators can improve the overall survival of these patients by targeting metastatic sites with radiation.",
+  "detailed_description": "Children, adolescents and young adults (AYA) with metastatic sarcoma have poor event free survival (EFS) and overall survival (OS). Recent retrospective studies suggest there is both an EFS and OS benefit to consolidating all sites of disease with radiation therapy (RT), referred to as consolidative radiation therapy (cRT). However, results from such retrospective studies might be confounded by selection bias as patients with a small burden of metastatic disease are most likely to undergo cRT. Thus far, ongoing prospective studies evaluating the benefit of cRT in the oligometastatic sarcoma setting have been limited to the adults and include sarcoma histologies that are not relevant to children and AYA. Therefore, to address this question in children and AYA, the investigators are proposing a single arm phase II study to estimate the preliminary efficacy of cRT in oligometastatic pediatric bone or soft tissue sarcoma. Given the investigators historical patient population, the investigators expect that approximately 70% of patients enrolled on the study will be diagnosed with either Ewing sarcoma (EWS) or rhabdomyosarcoma (RMS). The investigators primary hypothesis is that the hazard ratio (HR) for EFS of those receiving cRT compared to those did not receive cRT, constructed using historical control data, is less than or equal to 0.5. To address this hypothesis, 32 evaluable patients will need to be enrolled. The investigators will also determine the feasibility of longitudinal quantification of circulating tumor DNA (ctDNA). This may serve as a biomarker of response to therapy and provide additional prognostic value to existing anatomic and metabolic imaging. This trial seeks to enhance outcomes for metastatic sarcoma in the pediatric and AYA setting and may potentially redefine treatment paradigms for this challenging disease.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 70,
+  "conditions": [
+    "Metastatic Sarcoma",
+    "Radiation Therapy Patient",
+    "Ewing Sarcoma",
+    "Rhabdomyosarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "Consolidative radiation therapy (cRT)",
+      "type": "RADIATION",
+      "description": "Treatment that is given after cancer has disappeared following the initial therapy. Consolidation therapy is used to kill any cancer cells that may be left in the body. It may include radiation therapy, a stem cell transplant, or treatment with drugs that kill cancer cells. Also called intensification therapy and postremission therapy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Stratum A Inclusion Criteria:\n\n* Patients must be aged \\< 39 years at time of enrollment.\n* Patients must have a Karnofsky or Lansky performance score of 70 or greater or Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n* Patients must have newly diagnosed histologically or molecularly confirmed soft tissue or bone sarcoma at any site.\n* Patients must have metastatic disease that is measurable and this is defined as at least one lesion discontinuous from the primary that can be accurately measured in at least one dimension (longest diameter to be recorded) as \\> 3mm with CT scan within 3 weeks from treatment start.\n\nStratum B Inclusion Criteria:\n\n* Patients must have a Karnofsky or Lansky performance score of 70 or greater or ECOG performance status of 0-1.\n* Patients must have radiographic, histologic or molecular confirmation of progressive soft tissue or bone sarcoma at any site that was initially diagnosed at age \\< 39 years. Progression includes progression at a new site or known sites of prior disease (e.g. recurrent).\n* Patients must have metastatic disease that is measurable and this is defined as at least one lesion discontinuous from the primary that can be accurately measured in at least one dimension (longest diameter to be recorded) as \\> 3mm with CT scan\n* Radiation to at least one site is being recommended as part of second line therapy.\n\nStratum A Exclusion Criteria:\n\n* Brain or intracranial metastases, including leptomeningeal disease\n* Clinical or radiologic evidence of spinal cord compression requiring emergent radiation treatment\n* Positive bone marrow biopsy for non-pelvic primary and greater than eight bone metastases. Presence of parenchymal lung metastases is considered as one metastasis, irrespective of how many lung nodules are present.\n* Evidence of any non-measurable metastatic disease including but not limited to leptomeningeal disease, malignant ascites and malignant pleural or pericardial effusions.\n* Pregnancy\n\nStratum B Exclusion Criteria:\n\n* Brain or intracranial metastases, including leptomeningeal disease\n* Clinical or radiologic evidence of spinal cord compression requiring emergent radiation treatment\n* Evidence of any non-measurable metastatic disease including but not limited to leptomeningeal disease, malignant ascites and malignant pleural or pericardial effusions.\n* Pregnancy",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "39 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Event free survival",
+      "timeFrame": "2 years",
+      "description": "2-year event free survival (EFS1) after cRT in patients with oligometastatic sarcoma as compared to historical control (applies to newly diagnosed (Stratum A) patients."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Clark Charitable Foundation"
+  ],
+  "start_date": "2025-03-25",
+  "completion_date": "2030-03",
+  "last_updated": "2025-04-16"
+}

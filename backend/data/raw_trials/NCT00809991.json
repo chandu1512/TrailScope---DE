@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT00809991",
+  "brief_title": "Hypofractionated Adaptive Image-Guided Radiation Therapy for Localized Adenocarcinoma of the Prostate",
+  "official_title": "Hypofractionated Adaptive Image-Guided Radiation Therapy for Localized Adenocarcinoma of the Prostate",
+  "brief_summary": "This will be a Phase II study evaluating the effectiveness and toxicity of a specific radiation therapy regimen. This choice of daily dose is based on the prior published experience showing safety and efficacy of hypofractionated regimens. The total dose is calculated to be effective for late effects which has been shown to be effective and safe in a large prospective Phase II study. If the hypothesis for the prostate is is true, then this regimen should be at least as effective or more effective for tumor control than the current conventional therapy.",
+  "detailed_description": "Radiation therapy is an effective and frequently utilized modality for the treatment of clinically localized prostate cancer. Traditionally, external beam radiation has been delivered in a fractionated manner using daily doses of 1.8-2.0 Gy. This daily dose was derived from early animal experiments and clinical experience, supported by mathematical models of normal tissue and tumor response to fraction size. The most widely used of these models is the linear-quadratic formula, which predicts responses to different fraction sizes based on the alpha/beta ratio of any given tissue.\n\nOne of the main motivations for delivering a treatment at low dose rate or with many fractions is that late-responding normal tissue are generally more sensitive than early-responding tissues (i.e. tumor) to increases in fraction size. So increasing the number of fractions generally spares late-responding tissues more than the tumor. This can be quantified in terms of the alpha/beta ratio:\n\n* Small alpha/beta ratio (2-4 Gy), typical of late sequelae, means high sensitivity to fractionation changes.\n* Large alpha/beta ratio (\\>8 Gy), typical of tumor control, means low sensitivity to fractionation changes.\n\nIt is generally assumed that the mechanistic basis for the different fractionation response of tumors and late-responding normal tissues relates to the larger proportion of cycling cells in tumors. But prostate tumors contain unusually small fractions of cycling cells. Brenner and Hall as well as Duchesne and Peters have reasoned that prostate tumors might not respond to changes in fractionation in the same way as other cancers; both papers hypothesize that prostate tumors might respond to changes in fractionation or dose rate more like a late-responding normal tissue. , In mathematical terms, the suggestion is that the alpha/beta ratio for prostate cancer might be low, comparable to that for late-responding tissues or even lower. Previous estimates of alpha/beta ratios of normal tissue and tumor tissue have generally been 3 and 10, respectively. Recent evidence has estimated the alpha/beta ratio of prostate cancer to be as low as 1.5. If these hypotheses are true, then the optimal therapeutic ratio for prostate cancer would be achieved using daily doses higher than 2 Gy.\n\nSeveral preliminary clinical reports have found reasonable PSA control rates and no increase in late toxicity using doses of 2.5 to 3 Gy. Kupelian from the Mayo Clinic found PSA-free survival rates of 97%, 88%, and 70% in low-, intermediate-, and high-risk patients, respectively. The dose regimen used was 70 Gy in 2.5 Gy daily fractions. Both acute and late toxicity were not higher than seen with typical dose regimens. A group from Christie Hospital reported 82%, 56%, and 39% 5-year biochemical disease free survival rates (low, intermediate, and high risk, respectively) in patients treated with 50 Gy in 16 fractions (3.125 Gy per fraction), with acceptable bowel and bladder toxicity.\n\nThese results, although promising, require further validation. If the hypothesis that prostate cancer alpha/beta ratio is lower than normal tissue is correct, then the optimal fractional dose is likely to be even higher than the doses tested thus far, but if incorrect, the result may be increased normal tissue toxicity.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 91,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "hypofractionation",
+      "type": "RADIATION",
+      "description": "3.6 Gy per day to a total dose of 57.6 Gy (16 fractions)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed, locally confined adenocarcinoma of the prostate\n* Clinical stages T1a to T2b PSA of less than 10 ng per ml\n* Gleason score of less than 3+4=7\n* The patient has decided to undergo external beam radiation as treatment choice for his prostate cancer\n* Signed study-specific consent form prior to registration\n\nExclusion Criteria:\n\n* Stage T3 to 4 disease\n* Gleason 4+3=7 or higher score\n* PSA greater than 10 ng per ml\n* Clinical or Pathological Lymph node involvement N1\n* Evidence of distant metastases M1\n* Radical surgery for carcinoma of the prostate\n* Previous Chemotherapy or pelvic radiation therapy\n* Previous or concurrent cancers other than basal or squamous cell skin cancers or superficial bladder cancer unless disease free for at least 5 years\n* History of inflammatory bowel disease\n* Major medical or psychiatric illness which, in the investigator's opinion, would prevent completion of treatment and would interfere with follow up",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Johns Hopkins University School of Medicne",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Grade 2 or Greater GU and GI Toxicity",
+      "timeFrame": "Up to 5 years",
+      "description": "Assess the number of participants of grade 2 or greater GU and GI toxicity"
+    },
+    {
+      "measure": "Self-reported Quality of Life Data With Image-guided Radiation Therapy in Doses of 3.6 Gy Per Day to a Total Dose of 57.6Gy (16 Fractions) -IPSS",
+      "timeFrame": "Baseline, 12 -, 24 -, and 36-month follow-up",
+      "description": "The International Prostate Symptom Score (IPSS) is a useful subjective assessment tool for BPH patients; it is a modification of the American Urological Association (AUA) Symptom Index. The questionnaire assesses degree of LUTS and quality of life. Patients can fill out the IPSS form before examinations, but minimal interference from health care providers must be ensured. Total score range 0-35; A score of 7 or less is mildly symptomatic, 8 to 19 is moderately symptomatic, and 20 to 35 is severely symptomatic."
+    },
+    {
+      "measure": "The Sexual Health Inventory for Men (SHIM) SCORE - Self-reported Quality of Life Data With Image-guided Radiation Therapy in Doses of 3.6 Gy Per Day to a Total Dose of 57.6Gy (16 Fractions)",
+      "timeFrame": "Baseline, 12 months, 24 months, and 36-month follow-up",
+      "description": "The SHIM serves several key functions within clinical and research settings. Its core purpose involves screening for and evaluating the severity of erectile dysfunction. Total score range 5 to 25; higher scores indicate better erectile function. A total score of 21 or less indicates erectile dysfunction. 22-25: No erectile dysfunction, 17-21: Mild ED, 12-16: Mild-to-moderate ED, 8-11: Moderate ED, 5-7: Severe ED."
+    },
+    {
+      "measure": "EPIC Sexual Score - Self-reported Quality of Life Data With Image-guided Radiation Therapy in Doses of 3.6 Gy Per Day to a Total Dose of 57.6Gy (16 Fractions)",
+      "timeFrame": "Baseline, 12 months, 24 months, and 36-month follow-up",
+      "description": "The EPIC-26 (Expanded Prostate Cancer Index Composite-Short Form) is a validated questionnaire for measuring health related quality of life. Score range from 1 to 100, with higher scores better score."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [],
+  "start_date": "2008-12-22",
+  "completion_date": "2025-09",
+  "last_updated": "2026-01-29"
+}

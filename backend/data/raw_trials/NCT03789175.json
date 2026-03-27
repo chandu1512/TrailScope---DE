@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT03789175",
+  "brief_title": "Nicotinamide Riboside on Mitochondrial Function in Li-Fraumeni Syndrome",
+  "official_title": "Exploratory Study of Nicotinamide Riboside on Mitochondrial Function in Li-Fraumeni Syndrome",
+  "brief_summary": "Background:\n\nNicotinamide riboside (NR) is a vitamin B3 dietary supplement. It may help improve muscle function, that may in turn may improve a person s exercise capacity. Researchers want to study how skeletal muscle responds to NR in an individual who has Li-Fraumeni Syndrome and slow muscle energy recovery after exercise.\n\nObjective:\n\nTo study how nicotinamide riboside affects skeletal muscle after exercise.\n\nEligibility:\n\nOne person at least 18 years old with Li-Fraumeni syndrome and a certain gene mutation\n\nDesign:\n\nThe participant will be screened with a medical history, physical exam, and blood and urine tests.\n\nThe participant may also have a heart test.\n\nThe participant will maintain their regular diet and supplements during the study.\n\nThe participant will take the study drug as 1-4 tablets twice a day for 12 weeks. The participant may be contacted with reminders and questions about side effects.\n\nThe participant will have 4-5 visits over 18-30 weeks. At visits, the participant will repeat screening tests. At some visits they will also have:\n\n* Ultrasound of the heart with a wand placed on the chest.\n* Test of oxygen used at rest and exercise, while wearing a face mask.\n* Exercise test on a treadmill or bicycle with electrodes on the skin.\n* Magnetic resonance spectroscopy. The participant will have no caffeine for 12 hours. Then they will lie in a machine for about 2 hours. Sometimes they will lie still. Sometimes they will be asked to move.\n\nHealth questionnaire\n\nThe participant may have a skin sample taken by needle.\n\nThe participant will be withdrawn from the study if they become pregnant.",
+  "detailed_description": "We have previously reported that inherited mutations of TP53, which causes the premature cancer disorder Li-Fraumeni syndrome (LFS), can promote mitochondrial function both in patients and mouse models. In the course of our follow up studies, we encountered a LFS patient with a long-standing history of fatigue and muscle weakness of unclear etiology. Notably, we observed in vivo evidence of markedly decreased mitochondrial function in her leg skeletal muscle during exercise using noninvasive phosphorus-31 magnetic resonance spectroscopy (31P-MRS), a technique that has previously been used to study patients with primary mitochondrial disorders. The decrease in mitochondrial function was also confirmed by the patients skin fibroblasts in vitro using standard biochemical measurements.\n\nThere is growing evidence that nicotinamide adenine dinucleotide (NAD+) homeostasis plays a significant role in maintaining the mitochondria through various mechanisms and that it is possible to improve mitochondrial function by dietary supplementation with the vitamin B3 analogue nicotinamide riboside (NR), an intermediate in the NAD+ salvage pathway. Remarkably, we observed that culturing the LFS patients fibroblasts in medium containing NR rescued the severe deficit in mitochondrial respiration. While continuing our investigations into the molecular mechanism(s) underlying the mitochondrial dysfunction observed in this patient, the in vitro rescue of the respiratory deficiency by NR presents a unique opportunity to investigate whether it can also be observed in vivo using skeletal muscle 31P-MRS. We propose to explore the effect of NR, currently available as a dietary supplement, on in vivo mitochondrial function in this LFS patient.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1,
+  "conditions": [
+    "Cancer",
+    "Skin Fibroblasts",
+    "Muscle Weakness"
+  ],
+  "interventions": [
+    {
+      "name": "Nicotinamide Riboside (NR)",
+      "type": "DIETARY_SUPPLEMENT",
+      "description": "Niacin is a form of vitamin B3 and has been used to treat hypercholesterolemia for many years. There is growing evidence that nicotinamide adenine dinucleotide (NAD+ can maintain mitochondria through various mechanisms and that it is possible to improve mitochondrial function by dietary supplementation with the vitamin B3 analogue nicotinamide riboside (NR), an intermediate in the NAD+ salvage pathway. We have observed that culturing the fibroblasts of a LFS patient with mitochondrial deficiency in medium containing NR rescues the defect in mitochondrial respiration."
+    }
+  ],
+  "eligibility": {
+    "criteria": "* INCLUSION CRITERIA:\n* At least 18-years of age and able to give informed consent\n* Have delayed phosphocreatine (PCr) recovery time constant \\>45 sec by 31P-magnetic resonance spectroscopy (MRS) testing and a history of fatigue symptoms\n* Ability to undergo study procedures, including scheduled visits, blood draws and skeletal muscle exercise Nuclear Magnetic Resonance (NMR)\n* Have Li-Fraumeni syndrome and confirmed TP53 mutation by genetic testing\n* Committed to using reliable contraception which may include abstinence during study participation\n* Female participants of child-bearing ability and potential willing to commit to reliable contraception while participating in the study\n\nEXCLUSION CRITERIA:\n\n* Current systemic treatment for cancer\n* Unable to perform required study visits or procedures\n* Magnetic resonance imaging (MRI) incompatible hardware\n* Pregnant or breastfeeding women\n* History of intolerance to NR precursor compounds, including niacin or nicotinamide",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health Clinical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in PCr Recovery Tc Measurement From Baseline to 12 Week NR Supplementation Using the 31P-MRS Skeletal Muscle Submaximal Exercise.",
+      "timeFrame": "Baseline to 12 weeks",
+      "description": "The effect of nicotinamide riboside (NR) supplementation on the phosphocreatine (PCr) recovery time constant (Tc) of skeletal muscle after exercise as a marker of mitochondrial oxidative phosphorylation capacity.\n\nThe phosphocreatine level will be measured using 31P-magnetic resonance spectroscopy (MRS) during the following sequence of 3-minute rest, 2-minute exercise, and 6-minute recovery periods. The 31P spectra will be obtained during these periods and analyzed with the use of SAGE 7 (GE Healthcare) and IDL, version 6.4 (Exelis Visual Information Solutions), software. The single exponential recovery time constant (Tc) is calculated from the post-exercise recovery period data."
+    }
+  ],
+  "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+  "collaborators": [],
+  "start_date": "2019-03-25",
+  "completion_date": "2019-11-01",
+  "last_updated": "2020-11-16"
+}

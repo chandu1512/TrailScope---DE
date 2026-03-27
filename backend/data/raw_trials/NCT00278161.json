@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT00278161",
+  "brief_title": "Rituximab, Cyclophosphamide, and Pegfilgrastim in Treating Patients With Leukemia or Non-Hodgkin's Lymphoma",
+  "official_title": "Phase II Study of High Dose Cyclophosphamide and Rituximab in Low Grade and Mantle Cell Lymphoma",
+  "brief_summary": "RATIONALE: Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Drugs used in chemotherapy, such as cyclophosphamide, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Colony-stimulating factors, such as pegfilgrastim, may increase the number of immune cells found in bone marrow or peripheral blood and may help the immune system recover from the side effects of chemotherapy. Giving rituximab and cyclophosphamide together with pegfilgrastim may be effective in treating leukemia or non-Hodgkin's lymphoma.\n\nPURPOSE: This phase II trial is studying how well giving rituximab and cyclophosphamide together with pegfilgrastim works in treating patients with B-cell leukemia, low-grade non-Hodgkin's lymphoma, or mantle cell lymphoma.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the safety of high-dose cyclophosphamide, rituximab, and pegfilgrastim in patients with B-cell leukemia or low-grade or mantle cell lymphoma.\n* Determine the molecular response rate in patients treated with this regimen.\n\nOUTLINE: This is an open-label study.\n\nPatients receive rituximab IV over 30-60 minutes on days 1, 4, 8,11, 45, and 52, cyclophosphamide IV over 1 hour on days 15-18, and pegfilgrastim subcutaneously on day 19 or 20 in the absence of unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed periodically.\n\nPROJECTED ACCRUAL: A total of 32 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 94,
+  "conditions": [
+    "Leukemia",
+    "Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "Pegfilgrastim",
+      "type": "BIOLOGICAL",
+      "description": "6 mg SQ 24-48 hours after last dose of cyclophosphamide."
+    },
+    {
+      "name": "Rituximab",
+      "type": "BIOLOGICAL",
+      "description": "375 mg/m\\^2/day on Days 1, 4, 8, 11, 45, and 52."
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "50 mg/kg/day on Days 15, 16, 17, and 18."
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* One of the following B-cell leukemias or lymphomas, as defined by World Health Organization criteria:\n\n  * Chronic lymphocytic leukemia/small lymphocytic lymphoma\n  * B-cell prolymphocytic leukemia\n  * Lymphoplasmacytic leukemia\n  * Marginal zone lymphoma (splenic, extranodal, or nodal)\n  * Follicular lymphoma (grade 1 or 2)\n  * Mantle cell lymphoma\n* No more than minimal (approximately 10%) morphologically identifiable cancer cells on bone marrow biopsy\n\n  * When cancer cells are morphologically difficult to distinguish from normal cells, flow cytometry must show no more than 10% identifiable cancer cells\n* Must have received \u2264 12 months of prior cytotoxic therapy, achieving at least a partial response NOTE: A new classification scheme for adult non-Hodgkin's lymphoma has been adopted by PDQ. The terminology of \"indolent\" or \"aggressive\" lymphoma will replace the former terminology of \"low\", \"intermediate\", or \"high\" grade lymphoma. However, this protocol uses the former terminology.\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-1\n* WBC \u2265 3,000/mm\\^3\n* Hemoglobin \u2265 10.0 g/dL\n* Platelet count \u2265 75,000/mm\\^3\n* Serum creatinine \u2264 2.0 mg/dL\n* Total bilirubin \u2264 2 mg/dL unless secondary to tumor\n* AST or ALT \\< 2 times upper limit of normal\n* Normal (\u2265 45%) left ventricular cardiac ejection fraction (determined by echocardiogram or MUGA scan)\n* DLCO \\> 50% predicted\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No known sensitivity to E. coli-derived products (e.g. filgrastim \\[G-CSF\\], insulin, asparaginase, growth hormone, or recombinant interferon alfa-2b) or any treatment study drugs\n* No active infections requiring oral or intravenous antibiotics\n* No other second malignancy other than basal cell or squamous cell carcinoma of the skin or in situ carcinoma of the cervix unless the malignancy was localized and treated or resected with \\> 90% probability of cure\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Prior anti-CD20 therapy allowed provided patient achieved a partial or complete response\n* No concurrent steroids during rituximab administration",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Engraftment",
+      "timeFrame": "Up to 43 days",
+      "description": "Median days to neutrophil and platelet recovery. Neutrophil recovery is defined as absolute neutrophil count \\>= 500 cells per microliter; platelet recovery is defined as untransfused platelet count \\>= 20 \\* 10\\^9 cells per liter."
+    },
+    {
+      "measure": "Non-relapse Mortality",
+      "timeFrame": "5 years",
+      "description": "Number of participants who died for reasons related to protocol treatment."
+    },
+    {
+      "measure": "Event-free Survival",
+      "timeFrame": "5 years",
+      "description": "Percentage of participants alive without disease relapse."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2005-01",
+  "completion_date": "2011-07",
+  "last_updated": "2018-10-31"
+}

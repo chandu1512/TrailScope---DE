@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT03578224",
+  "brief_title": "Contrast-Enhanced Ultrasound Identification of Sentinel Nodes in Esophageal Cancer",
+  "official_title": "Contrast-Enhanced Ultrasound Identification of Sentinel Nodes in Esophageal Cancer",
+  "brief_summary": "This pilot trial studies how well an ultrasound with a contrast agent (perflubutane microbubble \\[Sonazoid\\]) works in identifying sentinel lymph nodes in participants with esophageal cancer. Sentinel lymph nodes are lymph nodes to which the cancer is likely to spread from the primary tumor. Diagnostic procedures, such as contrast-enhanced ultrasound, may work better in identifying sentinel lymph nodes and finding out how far the disease has spread.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To assess the accuracy of contrast-enhanced endoscopic lymphosonography guided fine-needle aspiration (FNA) of sentinel lymph nodes compared with unenhanced endoscopic ultrasonography (EUS) guided FNA in the characterization of esophageal cancer-associated lymph nodes using pathology as the reference standard.\n\nSECONDARY OBJECTIVES:\n\nI. To assess the ability of contrast-enhanced endoscopic lymphosonography guided FNA compared with unenhanced EUS guided FNA in the overall detection of biopsy proven cancer-involved sentinel lymph nodes.\n\nII. To assess the impact of overall tumor staging by contrast-enhanced endoscopic lymphosonography compared with unenhanced EUS.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "EARLY_PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 35,
+  "conditions": [
+    "Esophagus"
+  ],
+  "interventions": [
+    {
+      "name": "Endoscopic Ultrasound-Guided Fine-Needle Aspiration (EUS-FNA)",
+      "type": "PROCEDURE",
+      "description": "Undergo EUS-FNA"
+    },
+    {
+      "name": "Contrast-Enhanced Ultrasound",
+      "type": "PROCEDURE",
+      "description": "Undergo CEUS"
+    },
+    {
+      "name": "Fine-Needle Aspiration",
+      "type": "PROCEDURE",
+      "description": "Undergo FNA"
+    },
+    {
+      "name": "Sonazoid (Perflubutane)",
+      "type": "DRUG",
+      "description": "Sonazoid (ultrasound contrast agent) will be injected in 0.25 mL increments at 12, 3, 6, and 9 o'clock positions around the tumor using a 19 - 22 gauge needle system under EUS guidance"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Newly diagnosed with esophageal cancer.\n* Be scheduled for staging endoscopic ultrasound with the intent for lymph node evaluation.\n* Provide signed and dated informed consent form.\n* Willing to comply with all study procedures and be available for the duration of the study.\n* Be medically stable.\n* If a female and pre-menopausal, must have a negative pregnancy test.\n\nExclusion Criteria:\n\n* Females who are pregnant or nursing.\n* Patients with other primary cancers requiring systemic treatment.\n* Patients who are medically unstable, patients who are seriously or terminally ill, and patients whose clinical course is unpredictable.\n* Patients with known hypersensitivity or allergy to any component of Sonazoid.\n* Patients with cardiac shunts or unstable cardiopulmonary conditions.\n* Patients with congenital heart defects.\n* Patients with severe emphysema, pulmonary vasculitis, pulmonary hypertension, respiratory distress syndrome, or a history of pulmonary embolism.",
+    "gender": "ALL",
+    "min_age": "21 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Accuracy rate of traditional endoscopic ultrasonography (EUS) with suspicious node biopsy and lymphosonography for sentinel node identification",
+      "timeFrame": "Up to 2 years",
+      "description": "The number and locations of the nodes identified by the two imaging approaches (contrast-enhanced ultrasound \\[CEUS\\] and unenhanced EUS) will be compared using McNemar's test for correlated proportions as well as using a one-sided t-test with a Wilcoxon non-parametric adjustment (normal distribution will be tested) with pathology as the reference standard for sentinel lymph node detection and considering exact binomial p-values less than 0.05 to be significant. The findings of lymphosonography will be correlated to pathological findings (including degree of metastatic involvement) to determine sensitivity and specificity and the rate of cancerous nodes identified by CEUS relative to those of unenhanced EUS using a clustered conditional logistic regression analysis of correlated proportions (equivalent to a clustered McNemar's test)."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2018-09-06",
+  "completion_date": "2022-08-25",
+  "last_updated": "2025-05-14"
+}

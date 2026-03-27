@@ -1,0 +1,100 @@
+{
+  "nct_id": "NCT02551159",
+  "brief_title": "Phase III Open Label Study of MEDI 4736 With/Without Tremelimumab Versus Standard of Care (SOC) in Recurrent/Metastatic Head and Neck Cancer",
+  "official_title": "A Phase III Randomized, Open-label, Multi-center, Global Study of MEDI4736 Alone or in Combination With Tremelimumab Versus Standard of Care in the Treatment of First-line Recurrent or Metastatic Squamous Cell Head and Neck Cancer Patients",
+  "brief_summary": "This is a randomized, open-label, multi-center, 3-arm, global Phase III study to determine the efficacy and safety of MEDI4736 + tremelimumab combination or MEDI4736 monotherapy versus SoC (EXTREME regimen) in the treatment of patients with SCCHN who have not received prior systemic chemotherapy for recurrent or metastatic disease.",
+  "detailed_description": "Patients will be randomized in a 2:1:1 ratio to MEDI4736 + tremelimumab combination therapy, MEDI4736 monotherapy, or SoC. Patients in all arms will continue therapy until progression. Tumor assessments will be performed on computed tomography scans or magnetic resonance imaging scans, preferably with intravenous (IV) contrast. Efficacy for all patients will be assessed by objective tumor assessments every 6 weeks for the first 24 weeks, then every 8 weeks thereafter until treatment discontinuation due to progression or toxicity. All patients will be followed every 3 months for survival after progression is confirmed.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 823,
+  "conditions": [
+    "Squamous Cell Carcinoma of the Head and Neck"
+  ],
+  "interventions": [
+    {
+      "name": "MEDI4736",
+      "type": "BIOLOGICAL",
+      "description": "Anti-PD-L1 antibody"
+    },
+    {
+      "name": "Tremelimumab",
+      "type": "BIOLOGICAL",
+      "description": "Anti-CTLA-4 Antibody"
+    },
+    {
+      "name": "MEDI4736+Tremelimumab",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "Cetuximab",
+      "type": "BIOLOGICAL",
+      "description": "Monoclonal Antibody"
+    },
+    {
+      "name": "5-fluorouracil (5FU)",
+      "type": "DRUG",
+      "description": "Chemotherapy Agent"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Chemotherapy agent"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Chemotherapy Agent"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age \u226518 years at the time of screening\n2. Documented evidence of recurrent or metastatic SCCHN (oral cavity, oropharynx, hypopharynx, or larynx).\n3. A fresh tumor biopsy for the purpose of screening or an available archival tumor sample. Tumor lesions used for fresh biopsies should not be the same lesions used as RECIST target lesions, unless there are no other lesions suitable for biopsy.\n4. No prior systemic chemotherapy for recurrent or metastatic disease\n5. World Health Organization (WHO)/Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 at enrollment\n6. No prior exposure to immune-mediated therapy,\n\nExclusion Criteria:\n\n1. Histologically or cytologically confirmed head and neck cancer of any other primary anatomic location in the head and neck not specified in the inclusion criteria including patients with SCCHN of unknown primary or non-squamous histologies (eg, nasopharynx or salivary gland)\n2. Tumor progression or recurrence within 6 months of last dose of platinum therapy in the primary treatment setting\n3. Receipt of any radiotherapy or hormonal therapy for cancer treatment within 30 days prior to first dose of study treatment\n4. Active or prior documented autoimmune or inflammatory disorders (including inflammatory bowel disease \\[eg, colitis, Crohn's disease\\], diverticulitis",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS) Status in the PD-L1 TC/IC High Subgroup - Durvalumab Versus Standard of Care (SOC)",
+      "timeFrame": "From date of randomization until time of final analysis, an average of approximately 4 years",
+      "description": "Number of participants with Overall Survival (OS)"
+    },
+    {
+      "measure": "Overall Survival (OS) Median Duration in the PD-L1 TC/IC High Subgroup",
+      "timeFrame": "From date of randomization until time of final analysis, an average of approximately 4 years",
+      "description": "Time from the date of randomization until death due to any cause (i.e., date of death or censoring - date of randomization + 1)"
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2015-10-15",
+  "completion_date": "2021-05-21",
+  "last_updated": "2021-09-16"
+}

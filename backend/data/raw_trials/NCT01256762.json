@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT01256762",
+  "brief_title": "Imetelstat in Combination With Paclitaxel (With or Without Bevacizumab) in Patients With Locally Recurrent or Metastatic Breast Cancer",
+  "official_title": "A Randomized Phase II Study Of Imetelstat (GRN163L) In Combination With Paclitaxel (With Or Without Bevacizumab) in Patients With Locally Recurrent Or Metastatic Breast Cancer",
+  "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of treatment with imetelstat + paclitaxel (with or without bevacizumab) versus paclitaxel (with or without bevacizumab) alone for patients with locally recurrent or metastatic breast cancer who have not received chemotherapy or have received one non-taxane based chemotherapy for metastatic breast cancer.",
+  "detailed_description": "Patients will be randomized in a 1:1 ratio to imetelstat + paclitaxel (with or without bevacizumab) versus paclitaxel (with or without bevacizumab) alone.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 166,
+  "conditions": [
+    "Locally Recurrent or Metastatic Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Imetelstat sodium",
+      "type": "DRUG",
+      "description": "Imetelstat is administered at a dose of 300 mg/m2 on day one of a 21 day cycle."
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "Bevacizumab is administered at 15 mg/kg on day one of a 21 day cycle"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Paclitaxel is administered at 90 mg/m2 on days one and eight of a 21 day cycle"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\n* Histologically or cytologically confirmed adenocarcinoma of the breast that is either locally recurrent or metastatic. Locally recurrent disease must not be amenable to surgical resection or radiation with curative intent\n* Either have not received chemotherapy or may have had one prior non-taxane chemotherapy regimen for metastatic disease (there are no restrictions on prior hormonal therapy)\n* Prior use of bevacizumab is allowed provided that it was not administered in combination with a taxane\n* ECOG performance status 0-1\n* Adequate bone marrow reserve as indicated by:\n\n  * ANC \\> 1500/uL (without use of growth factors within 7 days)\n  * Platelet count \\> 100,000 (without transfusion in prior 7 days)\n  * Hemoglobin \\> 9.0 g/dL\n\nExclusion Criteria:\n\n* Women who are pregnant or breast feeding\n* Locally recurrent disease amenable to resection with curative intent\n* HER-2-positive breast cancer\n* Active central nervous system (CNS) metastatic disease including those patients receiving radiotherapy and/or steroid treatment (within the last 3 months)\n* Prior adjuvant or neoadjuvant taxane chemotherapy within 12 months prior of first relapse\n* Investigational therapy within 4 weeks of first study drug administration\n* Prior radiation, cytotoxic, or hormonal therapy within 2 weeks of first study drug administration\n* Therapeutic anti-coagulation or regular use of anti-platelet therapy within 2 weeks prior to first study drug administration (low dose anti-coagulant therapy to maintain patency of a vascular access device is allowed)\n* Grade \u2265 2 neuropathy\n* Uncontrolled clinically significant atrial or ventricular arrhythmias (unless pacemaker in place)\n* Severe conduction disturbance including clinically significant QTC prolongation \\> 450 ms (unless pacemaker in place)\n* Active or chronically recurrent bleeding (e.g., active peptic ulcer disease)\n* Clinically relevant active infection\n* Known positive serology for human immunodeficiency virus (HIV)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pinnacle Health",
+      "city": "Harrisburg",
+      "state": "Pennsylvania",
+      "zip": "17110",
+      "status": ""
+    },
+    {
+      "facility": "Penn. State Univ.",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free survival",
+      "timeFrame": "Occurring post randomization through end of study period (9 mos. after the last participant is randomized)",
+      "description": "Defined as the time from randomization to documented disease progression, as determined by the investigator's assessment according to RECIST, or death from any cause, whichever occurs first."
+    }
+  ],
+  "sponsor": "Geron Corporation",
+  "collaborators": [],
+  "start_date": "2010-11",
+  "completion_date": "2012-12",
+  "last_updated": "2015-12-22"
+}

@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT01946139",
+  "brief_title": "Anal HPV Tests in Screening for Cell Changes in the Anus in Patients With HIV",
+  "official_title": "Screening HIV-Infected Women for Anal Cancer Precursors",
+  "brief_summary": "This clinical trial studies anal human papillomavirus (HPV) tests in screening for cell changes in the anus in patients with human immunodeficiency virus (HIV). Screening tests may help doctors find cancer cells early and plan better treatment for anal cancer. Completing multiple screening tests may help find the best method for detecting cell changes in the anus.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine the sensitivity and specificity of HPV testing using different methods of detection, including HPV Hybrid Capture 2 (HC2), HPV messenger ribonucleic acid (mRNA) assays (APTIMA) and OncoHealth HPV E6/E7 oncoprotein assay and whether they improve the screening performance of routine anal cytology for the detection of anal high-grade squamous intraepithelial lesions (HSIL) when measured against the gold standard, biopsy-proven HSIL.\n\nII. To determine the prevalence and risk factors for prevalent HSIL in HIV-infected women.\n\nIII. To determine incidence and risk factors associated with anal HSIL and HPV over 2 years among HIV infected women undergoing semi-annual anal evaluations.\n\nEXPLORATORY OBJECTIVES:\n\nI. To evaluate the acceptability of anal cancer screening among HIV-infected women.\n\nII. To collect data on quality of life and health care costs (including non-direct health care costs and time costs) for an economic evaluation of the cost-effectiveness of anal cancer screening strategies in HIV-positive women.\n\nOUTLINE:\n\nPatients undergo screening for the detection of HSIL using anal cytology, HPV hybrid capture 2, HPV mRNA assays, and OncoHealth HPVE6/E7 oncoprotein at baseline, at 12 and 24 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 276,
+  "conditions": [
+    "Anal Cancer",
+    "HIV Infection",
+    "Human Papilloma Virus Infection"
+  ],
+  "interventions": [
+    {
+      "name": "comparison of screening methods",
+      "type": "PROCEDURE",
+      "description": "Undergo HPV screening using HC2, APTIMA and OncoHealth HPV E6/E7 assays"
+    },
+    {
+      "name": "laboratory biomarker analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "questionnaire administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "quality-of-life assessment",
+      "type": "PROCEDURE",
+      "description": "Ancillary studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* HIV positive; HIV-1 infection, as documented by any federally approved, licensed HIV rapid test performed in conjunction with screening (or enzyme-linked immunosorbent assay \\[ELISA\\], test kit, and confirmed by Western blot or other approved test); alternatively, this documentation may include a record that another physician has documented that the participant has HIV infection based on prior ELISA and Western blot, or other approved diagnostic tests\n* Karnofsky performance status \\> 70%\n* Absolute neutrophil count \\>= 750 cells/mm\\^3 within 120 days of study entry\n* Platelet count \\>= 75,000 cells/mm\\^3 within 120 days of study entry\n\nExclusion Criteria:\n\n* Current or history of anal or perianal carcinoma\n* History of anal HSIL cytology or histology\n* Known permanent or irreversible bleeding disorder, or any illness that, in the opinion of the clinical investigator, would contraindicate any biopsy of the anal canal\n* For women able to conceive, evidence of pregnancy by a positive urinary pregnancy test; pregnant women are excluded from enrollment in this study\n* Serious medical or psychiatric illness that in the opinion of the site Investigator will interfere with the ability of the subject to give informed consent or adhere to the protocol\n* Ongoing use of anticoagulant therapy other than aspirin, clopidogrel or non-steroidal anti-inflammatory drugs (NSAIDS)\n* Inability to provide informed consent\n* Treatment of anal and/or perianal HPV associated disease (i.e., condyloma or low-grade anal intraepithelial neoplasia \\[AIN\\]) within 4 months of study entry",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh School of Medicine",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15261",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Specificity of Each Other Methods of HSIL Detection for APTIMA Assay",
+      "timeFrame": "at baseline",
+      "description": "Among patients who are HRA negative for HSIL, the number of participants who tested negative for HSIL on the APTIMA assay"
+    },
+    {
+      "measure": "Prevalence of HSIL",
+      "timeFrame": "at baseline",
+      "description": "The prevalence of HSIL will be estimated as the proportion of women who are HRA positive for HSIL at entry and its 95% confidence interval. Logistic regression analysis will be used to evaluate the association of potential risk factors with diagnosis of HSIL."
+    },
+    {
+      "measure": "Sensitivity of Each of the Methods of APTIMA Assay at Baseline",
+      "timeFrame": "at baseline",
+      "description": "Among patients whose high resolution anoscopy (HRA) results were positive for HSIL and had APTIMA assays at baseline, the number whose APTIMA assay results were positive."
+    },
+    {
+      "measure": "Incidence of HSIL Among Women Who Were HRA Negative for HSIL at Study Entry",
+      "timeFrame": "Up to 2 years",
+      "description": "The Poisson rate and its 95% confidence interval will be estimated from the number of HSIL cases detected divided by the cumulative years of follow-up across these cases."
+    }
+  ],
+  "sponsor": "AIDS Malignancy Consortium",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2013-12-04",
+  "completion_date": "2018-10-31",
+  "last_updated": "2023-10-24"
+}

@@ -1,0 +1,90 @@
+{
+  "nct_id": "NCT01923168",
+  "brief_title": "Study of Letrozole With or Without BYL719 or Buparlisib, for the Neoadjuvant Treatment of Postmenopausal Women",
+  "official_title": "A Phase II Randomized, Double-blind Placebo Controlled, Study of Letrozole With or Without BYL719 or Buparlisib, for the Neoadjuvant Treatment of Postmenopausal Women With Hormone Receptor-positive HER2-negative Breast Cancer",
+  "brief_summary": "The purpose of the study was to determine whether treatment with a PI3K inhibitor plus letrozole led to an increase in pathologic clinical response and Objective Response Rate compared to treatment with placebo plus letrozole in patients with Breast cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 340,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "alpelisib",
+      "type": "DRUG",
+      "description": "BYL719 + Letrozole"
+    },
+    {
+      "name": "buparlisib",
+      "type": "DRUG",
+      "description": "BKM120 + Letrozole"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Placebo (of BYL719 or BKM120) + Letrozole"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patient is an adult, female \u2265 18 years old at the time of informed consent\n2. Patient has a histologically and/or cytologically confirmed diagnosis of breast cancer\n3. Patient is postmenopausal.\n4. Patient has T1c-T3, any N, M0, operable breast cancer\n5. Patients must have measurable disease\n6. Patient has diagnostic biopsy available for the analysis of PIK3CA mutation and Ki67 level.\n7. Patient has estrogen-receptor and/or progesterone positive breast cancer as per local laboratory testing\n8. Patient has HER2 negative breast cancer defined as a negative in situ hybridization test or an IHC status of 0 or 1+ as per local laboratory testing\n\nExclusion Criteria:\n\n1. Patient has locally recurrent or metastatic disease\n2. Patient has received any systemic therapy (e.g. chemotherapy, targeted therapy, immunotherapy) or radiotherapy for current breast cancer disease before randomization.\n3. Patient with type 1 diabetes mellitus or not adequately controlled type 2 diabetes mellitus\n4. History of acute pancreatitis within 1 year of study entry\n5. Uncontrolled hypertension",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Mercy Medical Center Medical Oncology & Hematology",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21202",
+      "status": ""
+    },
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center/Johns Hopkins Med. Johns Hopkins Med. BYL719A2201",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Pathological Complete Response (pCR) Per Investigator Assessment for Alpelisib vs. Placebo for PIK3CA Mutant Cohort",
+      "timeFrame": "After 24 weeks of treatment",
+      "description": "Pathologic complete response (pCR) defined as absence of any residual invasive cancer on hematoxylin and eosin evaluation of the resected breast specimen and all sampled ipsilateral lymph nodes following completion of 24 weeks of treatment by local assessment (ypT0/Tis ypN0). Patients who experienced progression of disease while undergoing neoadjuvant therapy, or who did not receive surgery for any reason, or received antineoplastic treatment other than study drug(s) before surgery were considered as non-responders for the calculation of pCR rate."
+    },
+    {
+      "measure": "Pathological Complete Response (pCR) Per Investigator Assessment for Alpelisib vs. Placebo for PIK3CA Wild-type Cohort",
+      "timeFrame": "After 24 weeks of treatment",
+      "description": "Pathologic complete response (pCR) defined as absence of any residual invasive cancer on hematoxylin and eosin evaluation of the resected breast specimen and all sampled ipsilateral lymph nodes following completion of 24 weeks of treatment by local assessment (ypT0/Tis ypN0). Patients who experienced progression of disease while undergoing neoadjuvant therapy, or who did not receive surgery for any reason, or received antineoplastic treatment other than study drug(s) before surgery were considered as non-responders for the calculation of pCR rate."
+    },
+    {
+      "measure": "Objective Response Rate Per Investigator Assessment According to RECIST 1.1 for Alpelisib vs. Placebo - PIK3CA Mutant Cohort",
+      "timeFrame": "After 24 weeks of treatment",
+      "description": "Objective Response Rate (ORR) defined as the proportion of patients with a Best Overall Response (BOR) of Complete Response (CR) or Partial Response (PR) based on local investigator's assessment according to Response Evaluation Criteria In Solid Tumors Criteria (RECIST) 1.1.\n\nBOR was assessed per MRI or Ultrasound and defined as per RECIST 1.1 as CR for a disappearance of all non-nodal target lesions (TL)/non-target lesions (NTL) and a reduction in short axis to \\< 10 mm of any pathological lymph nodes assigned as TL/NTL and no new lesion; as PR if not qualifying for CR but with a decrease from baseline \u2265 30% in the sum of diameter of all TL, no progression of NTL and no new lesion."
+    },
+    {
+      "measure": "Objective Response Rate According to RECIST 1.1 Per Investigator Assessment for Alpelisib vs. Placebo - PIK3CA Wild-type Cohort",
+      "timeFrame": "After 24 weeks of treatment",
+      "description": "Objective Response Rate (ORR) defined as the proportion of patients with a Best Overall Response (BOR) of Complete Response (CR) or Partial Response (PR) based on local investigator's assessment according to Response Evaluation Criteria In Solid Tumors Criteria (RECIST) 1.1.\n\nBOR was assessed per MRI or Ultrasound and defined as per RECIST 1.1 as CR for a disappearance of all non-nodal target lesions (TL)/non-target lesions (NTL) and a reduction in short axis to \\< 10 mm of any pathological lymph nodes assigned as TL/NTL and no new lesion; as PR if not qualifying for CR but with a decrease from baseline \u2265 30% in the sum of diameter of all TL, no progression of NTL and no new lesion."
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2014-03-11",
+  "completion_date": "2017-07-08",
+  "last_updated": "2018-08-13"
+}

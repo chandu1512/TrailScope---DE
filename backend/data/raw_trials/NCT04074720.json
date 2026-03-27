@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT04074720",
+  "brief_title": "Prospective Breast Cancer Biospecimen Collection",
+  "official_title": "Prospective Breast Cancer Biospecimen Collection",
+  "brief_summary": "Tissue will be procured during a standard of care procedure the patient will already be scheduled to undergo. A one time blood draw will be performed at this time and an optional rectal swab for biome analysis may occur. Follow Up will only consist of chart review to determine date of recurrence, metastases, and/or death",
+  "detailed_description": "This is a breast cancer biospecimen and possible metastasis procurement study with the goal of obtaining specimens appropriately for genomic and proteomic analysis. Other than reviewing and signing the consent form by the participants in the study, and the study-specific blood tissue procurement and blood draw (and optional biome specimen), all care and clinical encounters will be as per standard of care. There are four times when tissue may be procured and an optional biome specimen collection depending on the treatment course the treating team decides upon. The technique will be chosen based on physician discretion, patient medical treatment, and patient preference. Treatment regimen will consist of tumor sampling/extraction, one blood draw, optional biome specimen collection, and sample storing. This is a single arm study; all participants will have tissue and blood sample procured for biospecimen analysis and repository. Patients have the option to donate a biome specimen as well. Providing the biome sample is optional and will not influence eligibility to patient participation in this study. There will be no assignment or randomization to different treatment groups.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "Breast Cancer",
+    "Invasive Breast Cancer",
+    "Carcinoma in Situ of the Breast"
+  ],
+  "interventions": [
+    {
+      "name": "Tissue Sample collection",
+      "type": "PROCEDURE",
+      "description": "Tissue sample collected following standard of care procedure patient was already scheduled to have"
+    },
+    {
+      "name": "Blood Sample Collection",
+      "type": "OTHER",
+      "description": "A one time sample of blood will be collected on day of standard of care procedure"
+    },
+    {
+      "name": "Rectal Swab",
+      "type": "OTHER",
+      "description": "optional rectal swab may be collected on day of standard of care procedure"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adults \\>18 years old at time of consent\n* Subject must be capable to giving informed consent or have an acceptable surrogate capable of giving consent on the subject behalf.\n* Patients with carcinoma in situ or invasive breast cancer\n* Patient must be undergoing one of the following:\n\n  * definitive surgical tumor resection for breast cancer OR\n  * placement of a vascular access device as a prelude to neoadjuvant therapy for breast cancer OR\n  * neurosurgical resection of a brain metastasis from primary breast cancer.\n\nExclusion Criteria:\n\n* \\<18 years old\n* Not able to give informed consent and does not have acceptable surrogate capable to giving informed consent.\n* Active drug/alcohol dependence or abuse history",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Tumor biomarker identification",
+      "timeFrame": "Up to 5 years",
+      "description": "Collected biospecimens will be analyzed using current laboratory techniques to identify the presence of breast cancer biomarkers such as estrogen receptor (ER) and human epidermal growth factor receptor 2 (HER2)."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2018-05-10",
+  "completion_date": "2028-07-01",
+  "last_updated": "2025-11-25"
+}

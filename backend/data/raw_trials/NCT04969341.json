@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT04969341",
+  "brief_title": "Improving Lung Cancer Screening Adherence by Overcoming Barriers for Vulnerable Populations",
+  "official_title": "Improving Lung Cancer Screening Barriers for Vulnerable Populations",
+  "brief_summary": "This study investigates multi-level barriers to lung cancer screening uptake and adherence to lung cancer screening. Identifying cost- and convenience-related barriers to lung cancer screening may help researchers develop targeted strategies to facilitate screening adherence specifically among vulnerable populations.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 947,
+  "conditions": [
+    "Lung Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Survey Administration",
+      "type": "OTHER",
+      "description": "Complete survey"
+    },
+    {
+      "name": "Electronic Health Record Review",
+      "type": "OTHER",
+      "description": "Review of medical records"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* All patients referred to the Jefferson LCSP and eligible for lung cancer screening by our standard criteria (United States Preventive Services Task Force, Center for Medicaid and Medicare Services, and/or National Comprehensive Cancer Network group II guidelines) will be eligible for inclusion in the study\n* Additionally, individuals must provide a signed and dated informed consent form to participate in the survey portion of this study\n\nExclusion Criteria:\n\n* Non-English-speaking individuals\n* Individuals who lack consent capacity",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Associations between health insurance availability and financial burdens as factors in lung cancer screening adherence",
+      "timeFrame": "Up to study completion; 15 months",
+      "description": "Individual-level insurance status will be analyzed for association with lung cancer screening adherence. Descriptive analyses of neighborhood factors will be conducted to characterize residential computed tomography (CT)s. Multilevel logistic regression models examining the relationship between screening adherence and each neighborhood factor (i.e., one per model for each CT) and will be adjusted for important individual-level covariates, such as patient age, sex, and smoking status. To address the dependence of the neighborhood factors on race in predicting screening adherence, the modeling results will be focused on interaction terms to examine interactions between race and neighborhood factors."
+    },
+    {
+      "measure": "Individual-level cost-related factors associated with screening adherence",
+      "timeFrame": "Up to study completion; 15 months",
+      "description": "Will use generalized linear mixed effects logistic regression to model the longitudinal adherence to lung cancer screening as a function of cost-related variables, race, and their interactions. The model will be used to estimate odds ratios representing how adherence associated with financial variables depends on race at each follow-up CT scan."
+    },
+    {
+      "measure": "Convenience-related factors that impact lung cancer screening adherence",
+      "timeFrame": "Up to study completion; 15 months",
+      "description": "Will assess convenience-related factors that may affect lung cancer screening uptake and adherence. Survey items will address technology and internet accessibility; preferred methods for patient communication; effectiveness of patient navigation; and identification of logistical barriers along each step of the screening workflow including referral, eligibility assessment, scheduling, shared decision-making (SDM) visit, low dose CT (LDCT), results review, and follow-up instructions."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [
+    "Prevent Cancer Foundation"
+  ],
+  "start_date": "2021-05-05",
+  "completion_date": "2023-05-30",
+  "last_updated": "2025-05-15"
+}

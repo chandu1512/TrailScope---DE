@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT07100080",
+  "brief_title": "Study of Izalontamab Brengitecan (BMS-986507) Versus Platinum-Pemetrexed for EGFR-mutated Non-small Cell Lung Cancer After Failure of EGFR TKI Therapy (IZABRIGHT-Lung01)",
+  "official_title": "IZABRIGHT-Lung01: A Randomized, Open-label, Phase 2/3 Study of Izalontamab Brengitecan (BMS-986507) Versus Platinum-based Chemotherapy in Patients With EGFR-mutated Non-small Cell Lung Cancer and Disease Progression on EGFR Tyrosine Kinase Inhibitor Therapy",
+  "brief_summary": "A Study of Izalontamab Brengitecan (BMS-986507) versus Platinum-Pemetrexed for EGFR-mutated Non-small Cell Lung Cancer after failure of EGFR TKI Therapy",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 596,
+  "conditions": [
+    "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Iza-bren",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Non-squamous NSCLC, not amenable to treatment in curative intent.\n* Documented evidence of EGFR mutation (exon 19 deletion, L858R mutation).\n* Progressive disease on a 3rd-generation (such as osimertinib, furmonertinib, lazertinib,...) EGFR-TKI-based mono- or combination therapy regimen as the most recent line of therapy in an adjuvant, locally advanced, or metastatic treatment setting.\n* Eligible to receive a platinum-based doublet chemotherapy regimen (either cisplatin or carboplatin in combination with pemetrexed).\n\nExclusion criteria:\n\n* Inadequate organ function and/or bone marrow reserve.\n* Leptomeningeal metastases or spinal cord compression.\n* Poorly controlled systemic medical conditions.\n* Other protocol-defined inclusion/exclusion criteria apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Local Institution - 0088",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Recommended Phase 3 Dose (RP3D) of BMS-986507",
+      "timeFrame": "Approximately 3 months after the first dose",
+      "description": "Phase 2"
+    },
+    {
+      "measure": "Progression-Free Survival (PFS) Assessed by Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v1.1) per blinded independent central review (BICR)",
+      "timeFrame": "Up to 3 years",
+      "description": "Phase 3"
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2025-11-05",
+  "completion_date": "2031-05-15",
+  "last_updated": "2026-03-18"
+}

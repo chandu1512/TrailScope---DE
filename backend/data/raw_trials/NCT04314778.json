@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT04314778",
+  "brief_title": "FITBIT Study on Mobility and Readmissions After Radical Cystectomy",
+  "official_title": "Using Patient Centered Data and Behavioral Economics to Improve Mobility and Reduce Readmissions After Major Abdominal Surgery for Cancer",
+  "brief_summary": "This is a two-arm randomized, controlled trial during the postoperative period after major abdominal surgery for cancer, including for example radical cystectomy, nephrectomy, colectomy, comparing a control group that uses a wearable device to track physical activity to an intervention group that uses the same wearable devices and receives a supportive social incentive-based gamification intervention to adhere to a step goal program.",
+  "detailed_description": "We will conduct a two-arm randomized, controlled trial during the postoperative period after a radical cystectomy for bladder cancer, comparing a control group that uses a wearable device to track physical activity to an intervention group that uses the same wearable devices and receives a supportive social incentive-based gamification intervention to adhere to a step goal program. Patients will be enrolled after being diagnosed with bladder cancer and scheduled to undergo a radical cystectomy. The median length of stay after a radical cystectomy is 8 days, with 90% being discharged within two weeks. Postoperatively, the baseline step count will be averaged by taking the steps taken during the first two days outside of the intensive care unit. There will be two postoperative phases: Phase I will be while the patient is hospitalized postoperatively. Phase II will be when the patient is discharged for three months.\n\n5.2 Study",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 64,
+  "conditions": [
+    "Bladder Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "social incentive-based gamification",
+      "type": "BEHAVIORAL",
+      "description": "At the beginning of each week, starting from postoperative day 3, the participant receives 70 points (10 points for each day that week). If the participant does not meet their daily step goal, they lose 10 points from their balance. This leverages loss aversion, which has been demonstrated to motivate behavior change more effectively with losses than gains. At the end of each week if the participant has at least 40 points, they will move up a level (levels from lowest to highest: blue, bronze, silver, gold, platinum). If not, the participant will drop a level. All participants begin at the silver level. Each week, participants get a fresh set of 70 points. Participants will receive daily feedback for the step counts, and weekly feedback for their levels. Participants in the intervention arm will be asked to identify a family member or friend to be their support sponsor. A weekly report will be sent to this person with the participant's performance (points and level)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* diagnosis of cancer undergoing definitive surgical treatment\n\nExclusion Criteria:\n\n* Inability to provide consent\n* does not have daily access to a smartphone compatible with the wearable device and not willing to use a device that the investigators can provide them\n* any other medical conditions that would prohibit participation in a physical activity program",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in Mean Daily Step Count From the Baseline Step Count During Two Days After the Surgery to the Hospital Discharge",
+      "timeFrame": "From baseline step count after a two-day run-in period after the surgery to the time of hospital discharge postoperatively. As the time to discharge was variable, this time period was up to 60 days after surgery",
+      "description": "Change in mean daily step count"
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [],
+  "start_date": "2019-11-15",
+  "completion_date": "2022-08-15",
+  "last_updated": "2024-11-04"
+}

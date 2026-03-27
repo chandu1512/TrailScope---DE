@@ -1,0 +1,126 @@
+{
+  "nct_id": "NCT06112379",
+  "brief_title": "A Phase III Randomised Study to Evaluate Dato-DXd and Durvalumab for Neoadjuvant/Adjuvant Treatment of Triple-Negative or Hormone Receptor-low/HER2-negative Breast Cancer",
+  "official_title": "A Phase III, Open-label, Randomised Study of Neoadjuvant Datopotamab Deruxtecan (Dato-DXd) Plus Durvalumab Followed by Adjuvant Durvalumab With or Without Chemotherapy Versus Neoadjuvant Pembrolizumab Plus Chemotherapy Followed by Adjuvant Pembrolizumab With or Without Chemotherapy for the Treatment of Adult Patients With Previously Untreated Triple-Negative or Hormone Receptor-low/HER2-negative Breast Cancer (D926QC00001; TROPION-Breast04)",
+  "brief_summary": "This is a Phase III, 2-arm, randomised, open-label, multicentre, global study assessing the efficacy and safety of neoadjuvant Dato-DXd plus durvalumab followed by adjuvant durvalumab with or without chemotherapy compared with neoadjuvant pembrolizumab plus chemotherapy followed by adjuvant pembrolizumab with or without chemotherapy in participants with previously untreated TNBC or hormone receptor-low/HER2-negative breast cancer.",
+  "detailed_description": "The primary objectives of the study are to demonstrate superiority of neoadjuvant Dato-DXd plus durvalumab followed by adjuvant durvalumab with or without chemotherapy relative to neoadjuvant pembrolizumab plus chemotherapy followed by adjuvant pembrolizumab with or without chemotherapy in participants with previously untreated TNBC or hormone receptor-low/HER2-negative breast cancer, by investigator assessment of EFS.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1902,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Dato-DXd",
+      "type": "DRUG",
+      "description": "Experimental drug IV infusion"
+    },
+    {
+      "name": "Durvalumab",
+      "type": "DRUG",
+      "description": "Experimental drug IV Infusion"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "IV Infusion Active comparator"
+    },
+    {
+      "name": "Doxorubicin",
+      "type": "DRUG",
+      "description": "IV infusion Experimental/Active Comparator"
+    },
+    {
+      "name": "Epirubicin",
+      "type": "DRUG",
+      "description": "IV Infusion Experimental/Active Comparator"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "IV infusion Experimental/Active Comparator"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "IV infusion Experimental/Active Comparator"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "IV infusion Experimental/Active Comparator"
+    },
+    {
+      "name": "Capecitabine",
+      "type": "DRUG",
+      "description": "Tablet Oral route of administration Experimental/Active Comparator"
+    },
+    {
+      "name": "Olaparib",
+      "type": "DRUG",
+      "description": "Tablet Oral route of administration Experimental/Active Comparator"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participant must be \u2265 18 years, at the time of signing the ICF.\n* Histologically confirmed Stage II or III unilateral or bilateral primary invasive TNBC or hormone receptor-low/HER2-negative breast cancer\n* ECOG PS of 0 or 1\n* Provision of acceptable tumor sample\n* Adequate bone marrow reserve and organ function\n* Contraceptive use by males or females should be consistent with local regulations regarding the methods of contraception for those participating in clinical studies and aligned with protocol requirements.\n\nExclusion criteria:\n\n* History of any prior invasive breast malignancy\n* History of another primary malignancy except for malignancy treated with curative intent with no known active disease within 5 years before randomization.\n* active or prior documented autoimmune or inflammatory disorders.\n* Evidence of distant disease.\n* Clinically significant corneal disease.\n* Has active or uncontrolled hepatitis B or C virus infection.\n* Known HIV infection that is not well controlled.\n* Uncontrolled infection requiring i.v. antibiotics, antivirals or antifungals; suspected infections; or inability to rule out infections.\n* Known to have active tuberculosis infection\n* Mean resting corrected QTcF interval \\> 470 ms obtained from ECG\n* Uncontrolled or significant cardiac disease.\n* History of non-infectious ILD/pneumonitis\n* Has severe pulmonary function compromise\n* Any prior or concurrent surgery, radiotherapy or systemic anticancer therapy for TNBC or hormone receptor-low/HER2-negative breast cancer\n* For females only: is pregnant (confirmed with positive serum pregnancy test) or breastfeeding, or planning to become pregnant.\n* Female participants should refrain from breastfeeding from enrolment throughout the study and for at least 7 months after last dose of study intervention, or as dictated by local PI for SoC if longer.\n* Concurrent use of systemic hormone replacement therapy or oral hormonal contraception",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Annapolis",
+      "state": "Maryland",
+      "zip": "21401",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Event-free survival (EFS) in the experimental vs control arms",
+      "timeFrame": "Date of randomization to date of the EFS event, up to 93 months after the first subject randomized",
+      "description": "EFS is defined as the time from the date of randomisation until the date of the first occurrence of any of the following events: disease progression precluding surgery, disease recurrence (local, regional, distant, or contralateral), second primary invasive cancer (other than squamous or basal cell skin cancer), or relapse from prior malignancy, or death by any cause (in the absence of recurrence). Non-invasive breast cancers and positive margins in the surgical sample do not count as an event for EFS. EFS will be determined by the investigator based on all available clinical assessments.\n\nThe analysis will include all randomised participants, as randomised, regardless of whether the participant withdraws from randomised therapy or receives another anticancer therapy.\n\nThe measure of interest will be the Hazard Ratio of EFS."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [
+    "Daiichi Sankyo"
+  ],
+  "start_date": "2023-11-14",
+  "completion_date": "2032-09-23",
+  "last_updated": "2025-12-11"
+}

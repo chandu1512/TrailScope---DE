@@ -1,0 +1,86 @@
+{
+  "nct_id": "NCT03338790",
+  "brief_title": "An Investigational Immunotherapy Study of Nivolumab in Combination With Rucaparib, Docetaxel, or Enzalutamide in Metastatic Castration-resistant Prostate Cancer",
+  "official_title": "A Phase 2 Study of Nivolumab in Combination With Either Rucaparib, Docetaxel, or Enzalutamide in Men With Castration-resistant Metastatic Prostate Cancer",
+  "brief_summary": "The purpose of this study is to assess safety and efficacy of nivolumab in combination with rucaparib, docetaxel, or enzalutamide in participants with castration-resistant prostate cancer that has spread.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 292,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "docetaxel",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "enzalutamide",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "rucaparib",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "prednisone",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologic confirmation of adenocarcinoma of the prostate\n* Evidence of stage IV disease on previous bone, CT, and/or MRI scan\n* Ongoing androgen deprivation therapy (ADT) with a gonadotropin-releasing hormone (GnRH) analogue or bilateral orchiectomy\n* Mandatory plasma and fresh or archival tumor tissue must be submitted\n\nExclusion Criteria:\n\n* Prior malignancy active within the previous 3 years except for locally curable cancers that have been apparently cured, such as basal or squamous cell skin cancer, superficial bladder cancer, or carcinoma in situ of the breast\n* Participants with active brain metastases\n* Participants must have recovered from the effects of major surgery requiring general anesthesia or significant traumatic injury at least 14 days before treatment arm assignment\n\nOther protocol defined inclusion/exclusion criteria could apply",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0040",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "20850",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0053",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate Per Prostate Cancer Clinical Trials Working Group 3 (ORR-PCWG3)",
+      "timeFrame": "Up to approximately 36 months",
+      "description": "Objective response rate per prostate cancer clinical trials working group 3 (ORR-PCWG3) for target lesions and assessed by MRI is the percentage of participants who have a confirmed complete or partial best overall response (BOR) per PCWG3 among treated participants who have measurable disease"
+    },
+    {
+      "measure": "Prostate-Specific Antigen Response Rate (RR-PSA)",
+      "timeFrame": "Up to approximately 36 months",
+      "description": "Prostate-specific antigen response rate (RR-PSA) is the percentage of treated participants with a 50% or greater decrease in PSA from baseline to the lowest post-baseline PSA result"
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "Clovis Oncology, Inc.",
+    "Astellas Pharma Inc"
+  ],
+  "start_date": "2017-12-19",
+  "completion_date": "2025-01-10",
+  "last_updated": "2026-01-08"
+}

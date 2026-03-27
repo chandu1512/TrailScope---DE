@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT06529302",
+  "brief_title": "The OPBC-07/microNAC Study",
+  "official_title": "Association of Axillary Lymph Node Dissection With Oncological Outcomes in Patients With Residual Micrometastases After Neoadjuvant Chemotherapy: The OPBC-07/microNAC Study",
+  "brief_summary": "The aim of this multicenter retrospective cohort study is to determine the safety of omission of axillary lymph node dissection in patients with residual micrometastases after neoadjuvant chemotherapy.",
+  "detailed_description": "Chemotherapy before surgery, known as neoadjuvant chemotherapy (NAC), is often used to treat patients with advanced breast cancer or aggressive early-stage breast cancer. Research shows that about one in four early-stage breast cancer patients receives this treatment.\n\nFor patients undergoing NAC, standard of care includes checking the lymph nodes under the arm (axillary lymph nodes) using a procedure called Sentinel lymph node biopsy to determine if the cancer has spread. In cases where the cancer has spread to the lymph nodes but then shrinks or disappears after chemotherapy, special techniques like dual tracer mapping, targeted axillary dissection, or the Marking Axillary Lymph Nodes with Iodine Seeds procedure are used to ensure accurate biopsy results.\n\nFor patients whose cancer shrinks completely in the lymph nodes, it is generally safe to skip further surgery to remove more lymph nodes, a procedure called axillary lymph node dissection (ALND). However, if cancer remains in the lymph nodes, more lymph nodes are typically removed because there is a high chance that cancer is still present.\n\nAn increasing number of surgeons are starting to omit ALND, especially when only tiny amounts of cancer (micrometastases) remain. To ensure this practice is safe, real-world data on patient outcomes over time is needed.\n\nThis multicenter retrospective cohort study aims to assess the safety of omitting ALND in patients with residual micrometastases after NAC for breast cancer. The study analyzes data of breast cancer patients treated between 2013 and 2024 at more than 50 centers that are part of the Oncoplastic Breast Consortium.\n\nThe results of this study will provide valuable information to help doctors determine the best treatment approach for their patients.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 2000,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Consecutive women and men aged 18 years or older with a diagnosis of stage I-III breast cancer (any histological and receptor subtype)\n* For Clinically Node negative (cN0) at presentation: any axillary staging technique including palpation is allowed. Dual tracer mapping is not required for Sentinel Lymph Node Biopsy (SLNB)\n* For Clinically Node positive (cN+) at presentation: Biopsy proven confirmation is required. Staging techniques include: SLNB with dual mapping or targeted axillary dissection (Targeted Axillary Dissection, TAD: imaging-guided localization of sampled node in combination with Sentinel Lymph Node procedure with or without dual mapping) or the Marking Axillary Lymph Nodes with Iodine Seeds (MARI) procedure\n* Completed neoadjuvant chemotherapy\n* Residual micrometastases detected on SLNB or TAD or MARI (on frozen section or final pathology)\n* Concomitant presence of Isolated Tumor Cells (ITCs) and micrometastases in other sentinel lymph nodes is allowed\n* Received axillary treatment with completion axillary lymph node dissection (ALND), axillary Radiotherapy (ART), both or none\n* At least 1-year follow-up (inclusion should end in May 2023)\n* Had surgery at any time point until May 2023 at the latest\n* Prior history of stage I-III (not stage IV) breast cancer is allowed\n\nExclusion Criteria:\n\n* Did not undergo SLNB/TAD/MARI (e.g., went straight to ALND or ART)\n* Presence of ITCs alone or macrometastases on the sentinel nodes (or TAD nodes or MARI node)\n* Stage IV disease at presentation\n* Inflammatory breast cancer at presentation\n* Neoadjuvant endocrine therapy\n* Micrometastases detected by One-step nucleic acid amplification (OSNA)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15219",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "5-year rate of any axillary recurrence",
+      "timeFrame": "5 years",
+      "description": "Assessment of the incidence of any axillary recurrence, which is defined as isolated or combined with local or distant recurrence."
+    },
+    {
+      "measure": "5-year rate of isolated axillary recurrence",
+      "timeFrame": "5 years",
+      "description": "Assessment of the incidence of isolated axillary recurrence."
+    },
+    {
+      "measure": "Comparison of 5-year rate of axillary recurrence in patients treated with and without axillary dissection",
+      "timeFrame": "5 years",
+      "description": "The incidence of axillary recurrence is compared between patients that were treated with and without axillary dissection."
+    }
+  ],
+  "sponsor": "University Hospital, Basel, Switzerland",
+  "collaborators": [
+    "Memorial Sloan Kettering Cancer Center"
+  ],
+  "start_date": "2024-05-15",
+  "completion_date": "2025-06",
+  "last_updated": "2025-01-23"
+}

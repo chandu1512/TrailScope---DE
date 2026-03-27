@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT03068052",
+  "brief_title": "Behavioral Economic Incentives and Cancer Health Risk Assessment",
+  "official_title": "Behavioral Economic Incentives and Cancer Health Risk Assessment",
+  "brief_summary": "This is an RCT among UPHS employees between ages 50-64 comparing no incentive and a loss-framed incentive for completing cancer health risk assessment. Those eligible will receive the phone number for direct colonoscopy scheduling, with the incentive arm receiving an additional unconditional incentive. The primary outcome is completion of screening colonoscopy. Secondary outcomes include scheduling of colonoscopy and completion of risk assessment.",
+  "detailed_description": "Colorectal cancer (CRC) is the second leading cause of cancer death in the United States. Despite effective screening and treatment strategies, screening rates remain at 59-65%. UPHS employees have similarly limited rates of CRC screening despite having awareness, access, and insurance coverage. There is a need to identify those who are not up-to-date on screening and eligible for outreach in this population. Financial incentives informed by behavioral economic principles could be used to encourage self-report about screening status and completion of CRC screening. This research utilizes a digital health platform, Way to Health, to evaluate the feasibility of a cancer health risk assessment. This is a single-center RCT among UPHS employees between ages 50-64 that will randomize eligible participants into one of two study arms: (1) no incentive to complete cancer health risk assessment (no incentive) or (2) loss-framed incentive to complete cancer health risk assessment (incentive). Those that are eligible for screening will receive a direct access phone number to schedule colonoscopy, with an additional unconditional incentive for those in incentive arm. The primary outcome is completion of screening colonoscopy, with secondary outcomes of colonoscopy scheduling and completion of risk assessment.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 2000,
+  "conditions": [
+    "Cancer of the Colon"
+  ],
+  "interventions": [
+    {
+      "name": "No incentive",
+      "type": "BEHAVIORAL",
+      "description": "Each participant will receive an email describing the importance of colorectal cancer screening and that they have been selected to receive a risk assessment. They will directed to an online platform where they will be asked about age, family history, and prior screening history. Those who are eligible for screening will be offered the VIP access phone number to schedule an appointment."
+    },
+    {
+      "name": "Incentive",
+      "type": "BEHAVIORAL",
+      "description": "Each participant will receive an email describing the importance of colorectal cancer screening and that they have been selected to receive a risk assessment, for which they will received a loss-framed incentive. They will directed to an online platform where they will be asked about age, family history, and prior screening history. Those who are eligible for screening will be offered the VIP access phone number to schedule an appointment and will receive an additional unconditional pro-social incentive."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria:\n\n* male and female UPHS employees between the ages 50-64\n* those who live within 30 miles of the main endoscopy sites\n\nExclusion criteria:\n\n-minimal exclusion criteria",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "64 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania Health System",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Colonoscopy participation",
+      "timeFrame": "3 months",
+      "description": "The percent of participants who complete screening colonoscopy"
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [
+    "National Center for Advancing Translational Sciences (NCATS)"
+  ],
+  "start_date": "2017-05-08",
+  "completion_date": "2017-11-08",
+  "last_updated": "2019-02-19"
+}

@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT01712217",
+  "brief_title": "A Study of AT13387 in Patients With Non-Small Cell Lung Cancer (NSCLC) Alone and in Combination With Crizotinib",
+  "official_title": "A Study of HSP90 Inhibitor AT13387 Alone and in Combination With Crizotinib in the Treatment of Non-small Cell Lung Cancer (NSCLC)",
+  "brief_summary": "The purpose of the study is to evaluate safety and efficacy of AT13387 Alone and in Combination with Crizotinib in the Treatment of Non-small Cell Lung Cancer.",
+  "detailed_description": "This is a 3-part phase 1-2 study in patients with anaplastic lymphoma kinase (ALK) + or other potentially crizotinib-sensitive NSCLC who have been receiving crizotinib. Part A is a single-arm, Phase 1, open-label, dose escalation design in patients with NSCLC who have already been receiving crizotinib for at least 8 weeks and continue to tolerate therapy. Part B is a Phase 2, open-label, randomized continuation design comparing crizotinib alone versus the combination of crizotinib + AT13387 at the maximum tolerated dose established in Part A. Part C is an open-label, randomized, Phase 2, Simon's 2 stage design evaluating single agent AT13387 or combination AT13387 + crizotinib at the MTD established in Part A in patients who progressed on crizotinib at any time.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 220,
+  "conditions": [
+    "Non-small Cell Lung Cancer(NSCLC)"
+  ],
+  "interventions": [
+    {
+      "name": "AT13387",
+      "type": "DRUG",
+      "description": "HSP90 inhibitor"
+    },
+    {
+      "name": "Crizotinib",
+      "type": "DRUG",
+      "description": "ALK (anaplastic lymphoma kinase) and ROS1 (c-ros oncogene1, receptor tyrosine kinase) inhibitor"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Men or women 18 years of age or older\n2. Must have Non-small Cell Lung Cancer with ALK+ mutation or other mutations or rearrangements potentially sensitive to crizotinib\n3. Measurable disease\n4. Must have been receiving or have received crizotinib\n5. Have adequate cardiac, bone marrow, liver and kidney function\n6. Must be willing and able to provide written informed consent and comply with the protocol and study procedures\n\nExclusion Criteria:\n\n1. Prior anti-cancer treatment with any HSP90 inhibitor\n2. Have received chemotherapy, radiation therapy or other anticancer treatment other than crizotinib within 3 weeks prior to the first dose of study drug\n3. Prior malignancy other than adequately treated basal or squamous cell carcinoma of the skin, superficial bladder cancer, low-grade cervical cancer, non-metastatic prostate cancer, or have been disease-free for at least 3 years\n4. Abnormal heart function\n5. Presence of a life-threatening illness, medical condition, organ system dysfunction, or other factors\n6. Hypersensitivity of AT13387 or other components of the drug product\n7. Treatment with an investigational drug within 3 weeks prior to the first dose of study drug\n8. Severe systemic diseases or active uncontrolled infections\n9. Known history of human immunodeficiency virus (HIV) or seropositive test for hepatitis C virus or hepatitis B virus",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Christiana Hospital",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "The Pennsylvania State University-Penn State",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033-0850",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part A: The incidence of dose limiting toxicities when AT13387 is administered in combination with crizotinib.",
+      "timeFrame": "12 months",
+      "description": "\\- Number of patients with adverse events"
+    },
+    {
+      "measure": "Part B: The comparison of objective response rate by RECIST 1.1 between crizotinib alone and the combination of crizotinib + AT13387.",
+      "timeFrame": "18 months",
+      "description": "\\- Change in tumor measurements by RECIST 1.1 every 8 weeks"
+    },
+    {
+      "measure": "Part C: The objective overall response rate for AT13387 alone and the objective response rate (CR+PR) for AT13387 + crizotinib at Stage 1 and Stage 2 of the Simon's 2-stage design.",
+      "timeFrame": "18 months",
+      "description": "\\- Change in tumor measurements by RECIST 1.1 every 8 weeks"
+    }
+  ],
+  "sponsor": "Astex Pharmaceuticals, Inc.",
+  "collaborators": [],
+  "start_date": "2012-10",
+  "completion_date": "2017-05-16",
+  "last_updated": "2024-08-01"
+}

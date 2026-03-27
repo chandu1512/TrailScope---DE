@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT02872701",
+  "brief_title": "OTL38 Injection for Intraoperative Imaging of Folate Receptor Positive Lung Nodules",
+  "official_title": "A Phase 2, Single Dose, Open-Label, Exploratory Study to Investigate the Safety and Efficacy of OTL38 Injection for Intraoperative Imaging of Folate Receptor Positive Lung Nodules",
+  "brief_summary": "This is a phase 2, multi-center, single dose, open-label, exploratory study in suspected lung cancer patients scheduled to undergo endoscopic or thoracic surgery per CT/positron emission tomography imaging based on standard of care. This study aims to assess the efficacy of OTL38 and Near Infrared Imaging (NIR) at identifying pulmonary nodules within the operating theater, and to assess the safety and tolerability of single intravenous doses of OTL38.",
+  "detailed_description": "This is a phase 2, multi-center, single dose, open-label, exploratory study in suspected lung cancer patients scheduled to undergo endoscopic or thoracic surgery per CT/positron emission tomography (PET) imaging based on standard of care.\n\nTwo to three hours prior to surgery, patients will be infused with OTL38. After the patient is intubated and surgical site incised, the surgeon will locate and document all nodules identifiable by white light, manual palpation, and Near-Infrared Imaging (NIR). This will be documented and recorded. Surgery will be completed per surgeon's standard of care, afterwards the area will be reviewed under standard and infrared light. All samples will be sent for pathology and immunohistochemistry (IHC) evaluation.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 100,
+  "conditions": [
+    "Lung Neoplasms",
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "OTL38 for Injection",
+      "type": "DRUG",
+      "description": "Folate analog ligand conjugated with an indole cyanine-like green dye as a solution in vials containing 3 mL at 2 mg/mL"
+    },
+    {
+      "name": "Near infrared camera imaging system",
+      "type": "DEVICE",
+      "description": "Near infrared camera imaging system"
+    },
+    {
+      "name": "Endoscopic or Thoracic Surgery",
+      "type": "PROCEDURE",
+      "description": "Endoscopic or Thoracic Surgery"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Male and Female patients 18 years of age and older\n2. Confirmed diagnosis of adenocarcinoma lung cancer OR,\n3. Have a primary diagnosis, or at high clinical suspicion, of lung nodule(s) warranting surgery based on CT and/or PET imaging\n4. Who are scheduled to undergo endoscopic or thoracic surgery surgery\n5. A negative serum pregnancy test at Screening followed by a negative urine pregnancy test on the day of surgery or day of admission for female patients of childbearing potential\n6. Female patients of childbearing potential or less than 2 years postmenopausal agree to use an acceptable form of contraception from the time of signing informed consent until 30 days after study completion\n7. Ability to understand the requirements of the study, provide written informed consent and authorization of use and disclosure of protected health information, and agree to abide by the study restrictions and to return for the required assessments\n\nExclusion Criteria:\n\n1. Previous exposure to OTL38\n2. Known Folate Receptor-negative lung nodules\n3. Any medical condition that in the opinion of the investigators could potentially jeopardize the safety of the patient\n4. History of anaphylactic reactions or severe allergies\n5. History of allergy to any of the components of OTL38, including folic acid\n6. Pregnancy, or positive pregnancy test\n7. Clinically significant abnormalities on electrocardiogram (ECG) at screening.\n8. Presence of any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule\n9. Impaired renal function defined as epidermal growth factor receptor (eGFR) \\< 50 mL/min/1.73m2\n10. Impaired liver function defined as values \\> 3x the upper limit of normal (ULN) for alanine aminotransferase (ALT) or aspartate aminotransferase (AST), alkaline phosphatase (ALP), or total bilirubin.\n11. Received an investigational agent in another investigational drug or vaccine trial within 30 days prior to surgery\n12. Known sensitivity to fluorescent light",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "85 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Sensitivity or True Positive Rate (TPR)",
+      "timeFrame": "1 day",
+      "description": "Sensitivity or True Positive Rate (TPR) for OTL38 in combination with fluorescent light, defined as the proportion of fluorescent light positive tissue samples (nodule, synchronous lesion, and margin but excluding lymph nodes) that are histologically confirmed to be FR+ and lung cancer by central pathology relative to the total number of tissue samples confirmed to be FR+ and lung cancer by central pathology.\n\nSensitivity = (True Positive)/(True Positive +False Negative)"
+    },
+    {
+      "measure": "False Positive Rate (FPR)",
+      "timeFrame": "1 day",
+      "description": "False positive rate (FPR) for OTL38 in combination with fluorescent light, for the purpose of this protocol, will be calculated as 1 - the Positive Predictive Value (PPV) and is defined as the proportion of fluorescent light positive tissue samples removed (nodule, synchronous lesion, and margin but excluding lymph nodes) that are histologically confirmed to be non-cancerous, or if cancerous, not FR+ and lung cancer, by central pathology relative to the total number of tissue samples removed with fluorescent light imaging. False Positive Rate = (False Positives) / (True Positives + False Positives)"
+    }
+  ],
+  "sponsor": "On Target Laboratories, LLC",
+  "collaborators": [
+    "Medelis Inc."
+  ],
+  "start_date": "2017-05-04",
+  "completion_date": "2018-11-30",
+  "last_updated": "2023-03-23"
+}

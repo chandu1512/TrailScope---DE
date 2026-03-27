@@ -1,0 +1,94 @@
+{
+  "nct_id": "NCT02719574",
+  "brief_title": "Open-label Study of FT-2102 With or Without Azacitidine or Cytarabine in Patients With AML or MDS With an IDH1 Mutation",
+  "official_title": "A Phase 1/2, Multicenter, Open-label Study of FT-2102 as a Single Agent and in Combination With Azacitidine or Cytarabine in Patients With Acute Myeloid Leukemia or Myelodysplastic Syndrome With an IDH1 Mutation",
+  "brief_summary": "This Phase 1/2 study will evaluate the safety, efficacy, PK, and PD of FT-2102 (olutasidenib) as a single agent or in combination with azacitidine or cytarabine. The Phase 1 stage of the study is split into 2 distinct parts: a dose escalation part, which will utilize an open-label design of FT-2102 (olutasidenib) (single agent) and FT-2102 (olutasidenib) + azacitidine (combination agent) administered via one or more intermittent dosing schedules followed by a dose expansion part. The dose expansion part will enroll patients in up to 5 expansion cohorts, exploring single-agent FT-2102 (olutasidenib) activity as well as combination activity with azacitidine or cytarabine. Following the completion of the relevant Phase 1 cohorts, Phase 2 will begin enrollment. Patients will be enrolled across 8 different cohorts, examining the effect of FT-2102 (olutasidenib) (as a single agent) and FT-2102 (olutasidenib) + azacitidine (combination) on various AML/MDS disease states.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 336,
+  "conditions": [
+    "Acute Myeloid Leukemia",
+    "Acute Myelogenous Leukemia",
+    "Myelodysplastic Syndrome"
+  ],
+  "interventions": [
+    {
+      "name": "FT-2102 (olutasidenib)",
+      "type": "DRUG",
+      "description": "FT-2102 (olutasidenib) will be supplied as 50 mg or 150 mg capsules and will be administered per the protocol defined frequency and dose level"
+    },
+    {
+      "name": "Azacitidine",
+      "type": "DRUG",
+      "description": "azacitidine will be administered per site's standard of care"
+    },
+    {
+      "name": "Cytarabine",
+      "type": "DRUG",
+      "description": "low-dose cytarabine will be administered per site's standard of care"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Pathologically proven acute myeloid leukemia (AML) (except acute promyelocytic leukemia \\[APL\\] with the t(15;17) translocation) or intermediate, high-risk, or very high risk Myelodysplastic Syndrome (MDS) as defined by the World Health Organization (WHO) criteria or Revised International Prognostic Scoring System (IPSS-R) which is relapsed or refractory (R/R) to standard therapy and/or for which standard therapy is contraindicated or which has not adequately responded to standard therapy.\n* Patients must have documented IDH1-R132 gene-mutated disease as evaluated by the site\n* Good performance status\n* Good kidney and liver function\n\nExclusion Criteria:\n\n* Patients with symptomatic central nervous system (CNS) metastases or other tumor location (such as spinal cord compression, other compressive mass, uncontrolled painful lesion, bone fracture, etc.) necessitating an urgent therapeutic intervention, palliative care, surgery or radiation therapy\n* Congestive heart failure (New York Heart Association Class III or IV) or unstable angina pectoris. Previous history of myocardial infarction within 1 year prior to study entry, uncontrolled hypertension or uncontrolled arrhythmias\n* Active, uncontrolled bacterial, viral, or fungal infections, requiring systemic therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Greenebaum Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1: Number of Participants With Treatment Emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs)",
+      "timeFrame": "Phase 1: From start of drug administration (Day 1) up to 28 days after last dose of study drug (up to 82 months)",
+      "description": "A TEAE was defined as an adverse event (AE) that emerges during treatment, having been absent pre-treatment, or worsens relative to the pre-treatment state. An AE was defined as any unfavourable and unintended sign (including an abnormal laboratory finding), symptom or disease temporally associated with the use of a product, whether or not considered related to the product. A serious adverse event (SAE) is defined as any untoward medical occurrence that at any dose results in death, or is life-threatening, or requires inpatient hospitalization or causes prolongation of existing hospitalization results in persistent or significant disability/incapacity, or may have caused a congenital anomaly/birth defect, or requires intervention to prevent permanent impairment or damage. Number of participants with TEAEs and SAEs is reported. Safety analysis set (SAS) included all the participants who have received at least one dose of study drug (FT-2102, azacitidine, or cytarabine)."
+    },
+    {
+      "measure": "Phase 1: Number of Participants With Change From Baseline in Clinically Significant Abnormal Laboratory Values",
+      "timeFrame": "Phase 1: From Baseline up to 28 days after last dose of study drug (up to 82 months)",
+      "description": "Number of participants with change from baseline in clinically significant abnormal laboratory values for hematology, chemistry and coagulation with Grade \\<1 to 4 is reported. National Cancer Institute - Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 4.03 toxicity grade used to determine severity of AE. Grade 1: mild;asymptomatic/mild symptoms; Grade 2: moderate; minimal; Grade 3: severe/medically significant; Grade 4: life-threatening consequences, Grade 5: death."
+    },
+    {
+      "measure": "Phase 1: Number of Participants With Change From Baseline in Clinically Significant Abnormal Electrocardiogram (ECG)",
+      "timeFrame": "Phase 1: From Baseline up to 28 days after last dose of study drug (up to 82 months)",
+      "description": "Number of participants with change from baseline in clinically significant abnormal ECG parameter (QTcF) is reported. QT interval was the time between the start of the Q wave and the end of the T wave in the cardiac electrical cycle. QTcF was the QT interval corrected for heart rate using Fridericia's formula: QTcF = QT divided by cube root of 60/heart rate."
+    },
+    {
+      "measure": "Phase 2, Cohort 1: Percentage of Participants With Complete Remission (CR) Plus Complete Remission With Partial Hematological Recovery (CRh) for Acute Myeloid Leukemia Assessed by Investigator Based on International Working Group (IWG) Response Criteria",
+      "timeFrame": "Phase 2: up to 3 weeks post last dose of study drug or until the introduction of new anticancer therapy, whichever is earlier (up to 82 months)",
+      "description": "Percentage of participants with CR plus CRh (CR, Molecular CR \\[CRm\\], Cytogenetic CR \\[CRc\\], CRh) is re-ported. CR is defined as bone marrow blasts less than (\\<) 5 percent (%) (in aspirate with spicules and 200 nucleated cells), no blasts with auer rods, no extramedullary disease, absolute neutrophil count (ANC) greater than or equal to (\\>=) 1000/\u03bcL, platelet count \\>=100,000/\u03bcL and transfusion independ-ence. CRc is defined as CR with no residual cytogenetic abnormalities. CRm is defined as CR with unde-tectable IDH1m minimal residual disease (MRD) and CRh is defined as bone marrow blasts and partial recovery of peripheral blood counts (platelet count \\>50 \u00d7 10\\^9/L and ANC \\> 0.5 \u00d7 10\\^9/L)."
+    },
+    {
+      "measure": "Phase 2, Cohort 3, 4, 5, 6, 7, 8: Percentage of Participants With CR Plus CRh for Acute Myeloid Leukemia Assessed by Investigator Based on IWG Response Criteria",
+      "timeFrame": "Phase 2: up to 3 weeks post last dose of study drug or until the introduction of new anticancer therapy, whichever is earlier (up to 82 months)",
+      "description": "Percentage of participants with CR plus CRh (CR, Molecular CR \\[CRm\\]), Cytogenetic CR \\[CRc\\], CRh) is re-ported. CR is defined as bone marrow blasts \\<5 % (in aspirate with spicules and 200 nucleated cells), no blasts with auer rods, no extramedullary disease, ANC \\>=1000/\u03bcL, platelet count \\>=100,000/\u03bcL and transfusion independ-ence. CRc is defined as CR with no residual cytogenetic abnormalities. CRm is de-fined as CR with undetectable IDH1m MRD and CRh is defined as bone marrow blasts and partial recovery of peripheral blood counts (platelet count \\>50 \u00d7 10\\^9/L and ANC \\> 0.5 \u00d7 10\\^9/L)."
+    },
+    {
+      "measure": "Phase 2, Cohort 4 and 5: Percentage of Participants With CR for MDS Assessed by IWG Response Criteria",
+      "timeFrame": "Phase 2: up to 3 weeks post last dose of study drug or until the introduction of new anticancer therapy, whichever is earlier (up to 82 months)",
+      "description": "Percentage of participants with complete remission (CR) is reported. CR is defined as bone marrow blast \u2264 5% myeloblasts with normal maturation of all cell lines, peripheral blood: Hgb \u226511 grams per deciliter (g/dL), platelets \u2265 100 \u00d7 10\\^9/L, neutrophils \u2265 1.0 \u00d7 10\\^9/L and blasts 0%."
+    },
+    {
+      "measure": "Phase 2, Cohort 2: Four-month Relapse Free Survival (RFS) Rate",
+      "timeFrame": "Phase 2: From the date of first dose until relapse or death from any cause, whichever occurs first (up to 4 months)",
+      "description": "RFS is defined as the time between the date of first dose until relapse or death from any cause, whichever occurs first. RFS is calculated for all participants in Phase 2 Cohort 2. 4-Month RFS rate is defined as the percentage of participants in Phase 2 Cohort 2 who have not relapsed or died on or before their 4-month response evaluation."
+    }
+  ],
+  "sponsor": "Forma Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2016-04-30",
+  "completion_date": "2024-01-24",
+  "last_updated": "2025-06-06"
+}

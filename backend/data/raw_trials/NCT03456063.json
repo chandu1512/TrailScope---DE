@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT03456063",
+  "brief_title": "A Study of Neoadjuvant Atezolizumab Plus Chemotherapy Versus Placebo Plus Chemotherapy in Patients With Resectable Stage II, IIIA, or Select IIIB Non-Small Cell Lung Cancer (IMpower030)",
+  "official_title": "A Phase III, Double-Blinded, Multicenter, Randomized Study Evaluating the Efficacy and Safety of Neoadjuvant Treatment With Atezolizumab or Placebo in Combination With Platinum-Based Chemotherapy in Patients With Resectable Stage II, IIIA, or Select IIIB Non-Small Cell Lung Cancer",
+  "brief_summary": "This is a randomized, double-blinded study designed to evaluate the efficacy, safety, pharmacokinetics, and immunogenicity of neoadjuvant treatment with atezolizumab (MPDL3280A) or placebo in combination with platinum-based chemotherapy in participants with resectable Stage II, IIIA, or select IIIB non-small cell lung cancer (NSCLC) followed by open-label adjuvant/postoperative atezolizumab or best supportive care and monitoring.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 453,
+  "conditions": [
+    "Non-Small-Cell Lung"
+  ],
+  "interventions": [
+    {
+      "name": "Atezolizumab (MPDL3280A), an engineered anti-PD-L1 antibody",
+      "type": "DRUG",
+      "description": "Atezolizumab will be administered as intravenous (IV) infusion at a dose of 1200 milligrams (mg) on Day 1 of each 21-day cycle (every 3 weeks) for 4 cycles during the neoadjuvant treatment phase\n\nAtezolizumab will be administered as IV infusion at a dose of 1200 milligrams (mg) every 3 weeks for 16 cycles during the post-operative adjuvant phase"
+    },
+    {
+      "name": "Placebo Comparator",
+      "type": "DRUG",
+      "description": "Placebo will be administered as IV infusion at a dose of 1200 milligrams (mg) on Day 1 of each 21-day cycle for 4 cycles during the neoadjuvant treatment phase"
+    },
+    {
+      "name": "Nab-paclitaxel",
+      "type": "DRUG",
+      "description": "Nab-paclitaxel 100 mg/m\\^2 will be administered intravenously on Days 1, 8, and 15 of each 21 day cycle for 4 cycles during the neoadjuvant treatment phase"
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": "Pemetrexed 500 mg/m\\^2 will be administered intravenously on Day 1 of each 21-day cycle for 4 cycles during the neoadjuvant treatment phase"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Carboplatin initial target AUC of 6 mg/mL/min will be administered intravenously on Day 1 of each 21-day cycle for 4 cycles during the neoadjuvant treatment phase"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Cisplatin 75 mg/m\\^2 will be administered intravenously on Day 1 of each 21-day cycle for 4 cycles during the neoadjuvant treatment phase"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Gemcitabine 1250 mg/m\\^2 will be administered intravenously on Day 1 and 8 of each 21-day cycle for 4 cycles during the neoadjuvant treatment phase"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Histologically or cytologically confirmed, resectable Stage II, IIIA, or Select IIIB (T3N2 only) NSCLC of squamous or non-squamous histology. Staging should be based on the 8th edition of the AJCC/UICC staging system\n* Evaluation by an attending thoracic surgeon to confirm eligibility for an R0 resection with curative intent\n* Adequate pulmonary and cardiac function to undergo surgical resection\n* Measurable disease as defined by RECIST v1.1\n* Adequate hematologic and end organ function\n* Negative HIV test at screening\n* Negative for active HBV and HCV at screening\n* Adequate tissue for PD-L1 IHC assessment\n\nExclusion criteria:\n\n* NSCLC with histology of large cell neuroendocrine carcinoma or sarcomatoid carcinoma\n* Mixed NSCLC and small cell lung cancer histology\n* Any prior therapy for lung cancer\n* Malignancies other than NSCLC within 5 years prior to randomization, with the exception of those with a negligible risk of metastasis or death treated expected curative outcome\n* Non-squamous NSCLC histology with activating ALK and EGFR mutation\n* Pregnant or lactating women\n* History of autoimmune disease\n* History of idiopathic pulmonary fibrosis, organizing pneumonia, drug-induced pneumonitis, or evidence of active of active pneumonitis on screening chest Computed Tomography (CT) scan\n* Prior treatment with cluster of differentiation 137 (CD137) agonist or immune checkpoint blockade therapies, anti-programmed-death-1 (anti-PD-1), and anti-PD-L1 therapeutic antibody\n* Severe infection within 4 weeks prior to randomization\n* Significant history of cardiovascular disease",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Uni of Maryland Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Lehigh Valley Health Network",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Independent Review Facility (IRF)-Assessed Event Free Survival (EFS)",
+      "timeFrame": "Up to approximately 96 months",
+      "description": "IRF-assessed EFS is defined as the time from randomization to the first documented disease progression per RECIST v1.1 that precludes surgery, local or distant disease recurrence, or death from any cause, whichever occurs first."
+    }
+  ],
+  "sponsor": "Hoffmann-La Roche",
+  "collaborators": [],
+  "start_date": "2018-04-24",
+  "completion_date": "2025-12-31",
+  "last_updated": "2026-01-21"
+}

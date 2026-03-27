@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT04158336",
+  "brief_title": "A Study of Azenosertib (ZN-c3) in Participants With Solid Tumors",
+  "official_title": "A Phase 1 Study of ZN-c3 as a Single Agent in Subjects With Solid Tumors",
+  "brief_summary": "This is a Phase 1 open-label, multicenter study of ZN-c3 (also known as Azenosertib) monotherapy which consists of Dose Escalation, a Food Effect Cohort, and Dose Expansion.",
+  "detailed_description": "This study will evaluate the safety, tolerability, efficacy, pharmacokinetics (PK) and pharmacodynamics of ZN-c3.\n\nIn Dose Escalation, the study will identify the Maximum Tolerated Dose (MTD) of ZN-c3 monotherapy in solid tumors.\n\nThe Food Effect cohort sub-study will examine ZN-c3 PK after a single dose and determine the bioavailability of ZN-c3 under fed and fasted conditions.\n\nIn Dose Expansion, single agent ZN-c3 will be evaluated at the RP2D in subjects with recurrent or persistent uterine serous carcinoma (USC) or subjects with locally advanced or metastatic solid tumor malignancies harboring biomarkers related to deoxyribonucleic acid (DNA) damage pathways.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 274,
+  "conditions": [
+    "Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Azenosertib",
+      "type": "DRUG",
+      "description": "Azenosertib (ZN-c3) is a study drug"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Major Eligibility Criteria:\n\n1. Age \u2265 18 years or the minimum legal adult age (whichever is greater) at the time of informed consent.\n2. Eastern Cooperative Oncology Group (ECOG) performance status \u22642.\n3. Adequate hematologic and organ function.\n4. Female subjects of childbearing potential and male subjects must agree to use an effective method of contraception and for 6 months and 90 days, respectively, after the last dose of ZN-c3.\n\nDose Escalation Inclusion Criteria:\n\n1. Subjects must have a solid tumor with advanced or metastatic disease, refractory to standard therapy or for whom no standard therapy is available, or the subject is ineligible for standard therapy(ies).\n2. Measurable or evaluable disease per RECIST version 1.1.\n\nFood Effect Cohort Inclusion Criteria:\n\n1. Subjects with solid tumors with advanced or metastatic disease who are refractory or ineligible to standard therapy(ies) or for whom no standard therapy is available.\n2. Subjects must have no relevant dietary restrictions, and be willing to consume a high-calorie, high-fat breakfast and other standard meals provided during the study.\n\nDose Expansion Inclusion Criteria:\n\n1. Measurable disease, defined as at least one lesion that can be accurately measured per RECIST version 1.1 criteria.\n2. Recurrent or persistent USC or locally advanced or metastatic malignancy with one or more relevant biomarkers related to deoxyribonucleic acid (DNA) damage pathways.\n\nMajor Exclusion Criteria:\n\n1. Prior therapy with ZN-c3 or known hypersensitivity to any drugs similar to ZN-c3 in class or any inactive ingredients present in ZN-c3.\n2. Prior therapy with a WEE1 inhibitor.\n3. A serious illness or medical condition(s).\n4. Unresolved toxicity of Grade \\>1 attributed to any prior therapies (excluding Grade \u22642 neuropathy, alopecia or skin pigmentation).\n5. Pregnant or lactating females (including the cessation of lactation) or females of childbearing potential who have a positive serum pregnancy test within 14 days prior to C1D1.\n6. Subjects with active (uncontrolled, metastatic) second malignancies or requiring therapy.\n7. 12-lead ECG demonstrating a corrected QT interval using Fridericia's formula (QTcF) of \\>480 ms, except for subjects with atrioventricular pacemakers or other conditions (e.g., right bundle branch block) that render the QT measurement invalid.\n8. History or current evidence of congenital or family history of long QT syndrome or Torsade de Pointes (TdP).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Site 0179",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose Escalation",
+      "timeFrame": "Through completion, average of 1 year",
+      "description": "To investigate the safety and tolerability of single agent ZN-c3, including identification of the maximum tolerated dose (MTD)/recommended Phase 2 dose (RP2D), based on the incidence and severity of adverse events (AEs) and dose-limiting toxicities (DLTs) in DLT-evaluable subjects."
+    },
+    {
+      "measure": "Food Effect Cohort",
+      "timeFrame": "Through completion, approx 6 months",
+      "description": "To characterize and compare the PK (Cmax.) of ZN-c3 following a single dose of ZN-c3 under fed and fasting conditions."
+    },
+    {
+      "measure": "Food Effect Cohort",
+      "timeFrame": "Through completion, approximately 6 months",
+      "description": "To characterize and compare the PK (Tmax) of ZN-c3 following a single dose of ZN-c3 under fed and fasting conditions."
+    },
+    {
+      "measure": "Food Effect Cohort",
+      "timeFrame": "Through completion approximately 6 month",
+      "description": "To characterize and compare the PK (AUC0-last,AUC0-\u221e) of ZN-c3 following a single dose of ZN-c3 under fed and fasting conditions."
+    },
+    {
+      "measure": "Food Effect Cohort",
+      "timeFrame": "Through completion, approximately 6 mth",
+      "description": "To characterize and compare the PK (T1/2) of ZN-c3 following a single dose of ZN-c3 under fed and fasting conditions."
+    },
+    {
+      "measure": "Dose Expansion",
+      "timeFrame": "Through completion, approximately 43 month",
+      "description": "To investigate the clinical activity of WEE1 inhibition based on the objective response rate (ORR) as defined by the revised Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1"
+    }
+  ],
+  "sponsor": "K-Group, Beta, Inc., a wholly owned subsidiary of Zentalis Pharmaceuticals, Inc",
+  "collaborators": [],
+  "start_date": "2019-11-01",
+  "completion_date": "2025-05-06",
+  "last_updated": "2026-03-16"
+}

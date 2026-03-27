@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT05061134",
+  "brief_title": "A Study of Ceralasertib Monotherapy and Ceralasertib Plus Durvalumab in Patients With Melanoma and Resistance to PD-(L)1 Inhibition",
+  "official_title": "A Randomised, Open-Label, Phase 2 Study of Ceralasertib Monotherapy and Ceralasertib Plus Durvalumab in Patients With Unresectable or Advanced Melanoma and Primary or Secondary Resistance to PD-(L)1 Inhibition",
+  "brief_summary": "Main study: This is an open-label, phase 2 study that aims to evaluate the efficacy and safety/tolerability of ceralasertib, when administered as monotherapy and in combination with durvalumab in participants with unresectable or advanced melanoma and primary or secondary resistance to PD-(L)1 inhibition.",
+  "detailed_description": "Biopsy sub-study: This is an open-label, non-randomised, sub-study planned in participants suitable for 3 mandatory biopsies. Serial tumour biopsies are mandated in participants recruited into the sub-study and will be taken at baseline during the screening period, during treatment with ceralasertib monotherapy and during the off-treatment period of ceralasertib monotherapy.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 194,
+  "conditions": [
+    "Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Ceralasertib",
+      "type": "DRUG",
+      "description": "Ceralasertib (240 mg) will be administered orally twice daily."
+    },
+    {
+      "name": "Durvalumab",
+      "type": "BIOLOGICAL",
+      "description": "Durvalumab (1500 mg) will be administered intravenously once every 28 days for participants who weight above \\> 30 kgs. For participants who weigh below \u2264 30 kgs, weight-based dosing equivalent to 20 mg/kg of durvalumab will be administered."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants must have a histologically or cytologically confirmed diagnosis of unresectable or metastatic melanoma of cutaneous, acral or mucosal subtype\n* Availability of an archival tumour sample and a fresh tumour biopsy taken at screening\n* Patient must have received at least 1 prior immunotherapy (anti-PD-(L)1 \u00b1 anti-CTLA-4 \\[Cytotoxic T-lymphocyte-associated protein 4\\]) for a minimum of 6 weeks and no more than 2 prior regimens in the metastatic setting. Patients must have confirmed progression during treatment with a PD-(L)1 inhibitor +/- a CTLA-4 inhibitor.\n* The interval between the last dose of anti-PD-(L)1, BRAF/MEK (B-Rapidly Accelerated Fibrosarcoma gene/mitogen-activated protein kinase gene) inhibitor and the first dose of the study regimen must be a minimum of 14 days\n* Measurable disease by RECIST 1.1.\n* Patients must have a life expectancy \u22653 months from proposed first dose date.\n* Biopsy Sub-study: Consent to the provision of 3 mandatory tumour biopsies.\n\nExclusion Criteria:\n\n* Patients must not have experienced a toxicity that led to permanent discontinuation of prior checkpoint inhibitors (CPI) treatment.\n* History of another primary malignancy except for malignancy treated with curative intent with no known active disease \u2265 3 years before the first dose of study treatment\n* Uveal melanoma\n* Must not have experienced a Grade \u2265 3 immune-related AE or an immune-related neurologic or ocular AE of any grade while receiving prior immunotherapy\n* History of symptomatic congestive heart failure, unstable angina pectoris, uncontrolled cardiac arrhythmia, which is symptomatic or requires treatment (CTCAE Grade 3), symptomatic or uncontrolled atrial fibrillation despite treatment, or asymptomatic sustained ventricular tachycardia. Patients with atrial fibrillation controlled by medication or arrhythmias controlled by pacemakers may be permitted upon discussion with the study clinical lead.\n* History of organ transplant that requires use of immunosuppressive medications\n* Inadequate bone marrow and impaired hepatic or renal function\n* Known active infection requiring systemic therapy, active hepatitis infection, positive hepatitis C virus antibody, hepatitis B virus (HBV) surface antigen or HBV core antibody (anti-HBc), at screening\n* Patients with confirmed COVID-19 infection by polymearse chain reaction test who have not made a full recovery.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Lutherville-Timonium",
+      "state": "Maryland",
+      "zip": "21093",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Main Study: Objective Response Rate (ORR)",
+      "timeFrame": "Cycle 1 Day 1 (Each Cycle is 28 days) until objective disease progression or the last evaluable assessment in the absence of progression, or data cut-off (1 year 8 months)",
+      "description": "ORR was defined as the proportion of participants who had a complete response (CR) or partial response (PR) prior to any evidence of progression (as defined by Response Evaluation Criteria in Solid Tumours \\[RECIST\\] 1.1) that is confirmed at least 4 weeks later.\n\nAs per planned in protocol, this outcome measure was assessed only for main study."
+    },
+    {
+      "measure": "Biopsy Study: Change From Baseline in CD8+ T-cells Tumour Infiltration-area in the Center Tumor Region",
+      "timeFrame": "Baseline, On-treatment (Cycle 0 Day 7), and Off-treatment (Cycle 0 Day 15-28) (each cycle is 28 days)",
+      "description": "Changes in CD8+ T-cell infiltration of tumours induced by ceralasertib monotherapy was assessed in baseline, on-treatment and off-treatment tumour biopsies As per planned in protocol, this outcome measure was assessed only for biopsy study."
+    },
+    {
+      "measure": "Biopsy Study: Change From Baseline in CD8+ T-cells Tumour Infiltration-area in the Invasive Margin Region",
+      "timeFrame": "Baseline, Off-treatment (Cycle 0 Day 15-28) (each cycle is 28 days)",
+      "description": "Changes in CD8+ T-cell infiltration of tumours induced by ceralasertib monotherapy was assessed in baseline and off-treatment tumour biopsies As per planned in protocol, this outcome measure was assessed only for biopsy study."
+    },
+    {
+      "measure": "Biopsy Study: Change From Baseline in CD8+ T-cells Tumour Infiltration-density in the Center Tumor Region",
+      "timeFrame": "Baseline, On-treatment (Cycle 0 Day 7), and Off-treatment (Cycle 0 Day 15-28) (each cycle is 28 days)",
+      "description": "Changes in CD8+ T-cell infiltration of tumours induced by ceralasertib monotherapy was assessed in baseline, on-treatment and off-treatment tumour biopsies As per planned in protocol, this outcome measure was assessed only for biopsy study."
+    },
+    {
+      "measure": "Biopsy Study: Change From Baseline in CD8+ T-cells Tumour Infiltration-density in the Invasive Margin Region",
+      "timeFrame": "Baseline, and Off-treatment (Cycle 0 Day 15-28) (each cycle is 28 days)",
+      "description": "Changes in CD8+ T-cell infiltration of tumours induced by ceralasertib monotherapy was assessed in baseline and off-treatment tumour biopsies As per planned in protocol, this outcome measure was assessed only for biopsy study."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2022-08-11",
+  "completion_date": "2026-11-02",
+  "last_updated": "2025-07-21"
+}

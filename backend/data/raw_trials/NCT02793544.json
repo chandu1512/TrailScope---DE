@@ -1,0 +1,141 @@
+{
+  "nct_id": "NCT02793544",
+  "brief_title": "HLA-Mismatched Unrelated Donor Bone Marrow Transplantation With Post-Transplantation Cyclophosphamide",
+  "official_title": "A Multi-Center, Phase II Trial of HLA-Mismatched Unrelated Donor Bone Marrow Transplantation With Post-Transplantation Cyclophosphamide for Patients With Hematologic Malignancies",
+  "brief_summary": "This is a multi-center, single arm Phase II study of hematopoietic cell transplantation (HCT) using human leukocyte antigen (HLA)-mismatched unrelated bone marrow transplantation donors and post-transplantation cyclophosphamide (PTCy), sirolimus and mycophenolate mofetil (MMF) for graft versus host disease (GVHD) prophylaxis in patients with hematologic malignancies.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 80,
+  "conditions": [
+    "Myelodysplastic Syndrome (MDS)",
+    "Chronic Lymphocytic Leukemia (CLL)",
+    "Chemotherapy-sensitive Lymphoma",
+    "Acute Lymphoblastic Leukemia (ALL)/T Lymphoblastic Lymphoma",
+    "Acute Myelogenous Leukemia (AML)",
+    "Acute Biphenotypic Leukemia (ABL)",
+    "Acute Undifferentiated Leukemia (AUL)"
+  ],
+  "interventions": [
+    {
+      "name": "Fludarabine",
+      "type": "DRUG",
+      "description": "* Fludarabine 30 mg/m2/day (adjusted for renal function) is administered over a 30-60 minute IV infusion on Days -6 through -2 (maximum cumulative dose, 150 mg/m2).\n* The body surface area (BSA) for fludarabine dosing is based on adjusted ideal body weight (IBW) (Appendix K).\n* creatinine clearance may change during the days fludarabine is given. Adjustment in fludarabine dose due to creatinine changes during conditioning is permitted."
+    },
+    {
+      "name": "Cyclophosphamide 14.5 mg/kg/day IV on Days -6, -5",
+      "type": "DRUG",
+      "description": "* Cy 14.5 mg/kg/day is administered as a 1-2 hour IV infusion on Days -6 and -5 after hydration.\n* Use of Mesna and dosing will be done according to institutional standards. A recommended approach is as follows: Mesna IV dose of \u2265 80% of the total daily dose of Cy and given in divided doses 30 minutes before and at 3, 6, and 8-9 hours after completion of Cy.\n* Hydration prior to Cy may be given according to institutional guideline.\n* Cy and mesna are dosed according to adjusted IBW (Appendix K), unless the subject weighs less than IBW, in which case these drugs will be dosed according to actual weight."
+    },
+    {
+      "name": "Total Body Irradiation (TBI) 200cGy on Day -1",
+      "type": "RADIATION",
+      "description": "* 200 cGy TBI is administered in a single fraction on Day -1.\n* Radiation sources, dose rates, and shielding follow institutional practice."
+    },
+    {
+      "name": "Infusion of non-T-cell depleted bone marrow on Day 0",
+      "type": "PROCEDURE",
+      "description": "* On Day 0, the harvested bone marrow is infused.\n* Donor bone marrow will be harvested with a target yield of 4 x 108 nucleated cells/kg recipient weight.\n* The lowest acceptable nucleated cells yield is 1.5 x 108 cells/kg recipient weight."
+    },
+    {
+      "name": "Busulfan",
+      "type": "DRUG",
+      "description": "* Busulfan \u2265 9mg/kg total dose (IV or PO) on Days -6, -5, -4, -3 (PK monitoring required to achieve a daily area under the curve (AUC) target of 4800-5300 \u03bcM\\*min (Perkins et al., 2012))\n* Busulfan dosing is based on adjusted IBW (Appendix K)"
+    },
+    {
+      "name": "Cyclophosphamide 50mg/kg/day IV on Days -2,-1",
+      "type": "DRUG",
+      "description": "* Cy 50mg/kg/day is administered as a 1-2 hour IV infusion on Days -2 and -1 after hydration.\n* Use of Mesna and dosing will be done according to institutional standards. A recommended approach is as follows: Mesna IV dose of \u2265 80% of the total daily dose of Cy and given in divided doses 30 minutes before and at 3, 6, and 8-9 hours after completion of Cy.\n* Hydration prior to Cy may be given according to institutional guideline.\n* Cy and mesna are dosed according to adjusted IBW (Appendix K), unless the subject weighs less than IBW, in which case these drugs will be dosed according to actual weight."
+    },
+    {
+      "name": "Cyclophosphamide 50mg/kg/day IV on Days -5,-4",
+      "type": "DRUG",
+      "description": "* Cy 50mg/kg/day is administered as a 1-2 hour IV infusion on Days -5 and -4 after hydration.\n* Use of Mesna and dosing will be done according to institutional standards. A recommended approach is as follows: Mesna IV dose of \u2265 80% of the total daily dose of Cy and given in divided doses 30 minutes before and at 3, 6, and 8-9 hours after completion of Cy.\n* Hydration prior to Cy may be given according to institutional guideline.\n* Cy and mesna are dosed according to adjusted IBW (Appendix K), unless the subject weighs less than IBW, in which case these drugs will be dosed according to actual weight."
+    },
+    {
+      "name": "Total Body Irradiation (TBI) 200cGy twice a day on Days -3, -2, -1",
+      "type": "RADIATION",
+      "description": "* 200cGy TBI is administered in twice daily on Days -3, -2, and -1.\n* Radiation sources, dose rates, and shielding follow institutional practice."
+    },
+    {
+      "name": "Post-HCT Cyclophosphamide 50mg/kg IV on Day+3, +4",
+      "type": "DRUG",
+      "description": "* Cy 50mg/kg IV, over 1-2 hours (depending on volume), is given on Day+3 (ideally between 60 and 72 hours after bone marrow infusion) and on Day+4 (approximately 24 hours after Day+3 Cy).\n* Hydration with Cy, management of volume status, and monitoring for hemorrhagic cystitis will follow institutional standards.\n* Mesna is required. Mesna IV dose must be \u2265 80% of the total daily dose of Cy and given in divided doses 30 minutes before and at 3, 6, and 8-9 hours after completion of Cy.\n* Cy is dosed according to IBW, unless the subject weighs less than IBW, in which case these drugs will be dosed according to actual body weight."
+    },
+    {
+      "name": "Sirolimus",
+      "type": "DRUG",
+      "description": "* Sirolimus dosing is based on adjusted IBW (Appendix K).\n* Sirolimus prophylaxis is discontinued after the last dose on Day+180, or may be continued if there is GVHD.\n\nFor subjects \u2265 18 years old:\n\n* A one-time sirolimus loading dose, 6 mg PO, is given on Day+5, at least 24 hours after Cy completion.\n* Sirolimus is then continued at a maintenance dose (starting dose 2 mg PO QD), with dose adjustments to maintain a trough of 5 - 15 ng/mL as measured by high performance liquid chromatography (HPLC) or immunoassay.\n\nFor subjects \\< 18 years old:\n\n* A one-time sirolimus loading dose, 3 mg/m2 PO with the dose not to exceed 6 mg, is given on Day+5, at least 24 hours after Cy completion.\n* Sirolimus is then continued at a maintenance dose (starting dose 1 mg/m2 PO QD, maximum 2 mg PO QD), with dose adjustments to maintain a trough of 5 - 15 ng/mL as measured by HPLC or immunoassay."
+    },
+    {
+      "name": "Mycophenolate mofetil",
+      "type": "DRUG",
+      "description": "MMF begins on Day+5, at least 24 hours after completion of PTCy. MMF dose is 15 mg/kg PO TID (adjusted IBW (Appendix K)) with total daily dose not to exceed 3 grams (i.e. maximum 1 g PO TID).\n\nAn equivalent IV dose (1:1 conversion) may instead be given. MMF prophylaxis is discontinued after the last dose on Day+35, or may be continued if there is GVHD."
+    },
+    {
+      "name": "G-CSF",
+      "type": "DRUG",
+      "description": "Granulocyte-colony stimulating factor (G-CSF): filgrastim or a biosimilar begins on Day+5 at a dose of 5 mcg/kg/day (actual body weight) IV or subcutaneously (SC) (rounding to the nearest vial dose is allowed), until the absolute neutrophil count (ANC) is \u2265 1,000/mm3 over the course of 3 consecutive days.\n\nAdditional G-CSF may be administered as warranted."
+    },
+    {
+      "name": "Pre-HCT Mesna on Days -6 and -5",
+      "type": "DRUG",
+      "description": "Use of Mesna and dosing will be done according to institutional standards. A recommended approach is as follows: Mesna IV dose of \u2265 80% of the total daily dose of Cy and given in divided doses 30 minutes before and at 3, 6, and 8-9 hours after completion of Cy.\n\nMesna is dosed according to adjusted IBW (Appendix K), unless the subject weighs less than IBW, in which case Mesna will be dosed according to actual weight."
+    },
+    {
+      "name": "Pre-HCT Mesna on Days -2 and -1",
+      "type": "DRUG",
+      "description": "Use of Mesna and dosing will be done according to institutional standards. A recommended approach is as follows: Mesna IV dose of \u2265 80% of the total daily dose of Cy and given in divided doses 30 minutes before and at 3, 6, and 8-9 hours after completion of Cy.\n\nMesna is dosed according to adjusted IBW (Appendix K), unless the subject weighs less than IBW, in which case Mesna will be dosed according to actual weight."
+    },
+    {
+      "name": "Pre-HCT Mesna on Days -5 and -4",
+      "type": "DRUG",
+      "description": "Use of Mesna and dosing will be done according to institutional standards. A recommended approach is as follows: Mesna IV dose of \u2265 80% of the total daily dose of Cy and given in divided doses 30 minutes before and at 3, 6, and 8-9 hours after completion of Cy.\n\nMesna is dosed according to adjusted IBW (Appendix K), unless the subject weighs less than IBW, in which case Mesna will be dosed according to actual weight."
+    },
+    {
+      "name": "Post-HCT Mesna",
+      "type": "DRUG",
+      "description": "Mesna is required. Mesna IV dose must be \u2265 80% of the total daily dose of Cy and given in divided doses 30 minutes before and at 3, 6, and 8-9 hours after completion of Cy on Day+3 and Day+4.\n\nMesna is dosed according to IBW, unless the subject weighs less than IBW, in which case Mesna will be dosed according to actual body weight."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age \u2265 15 years and \\< 71 years at the time of signing the informed consent form\n2. Partially HLA-mismatched unrelated donor: HLA typing will be performed at high resolution (allele level) for the HLA-A, -B, -C, and -DRB1 loci; a minimum match of 4/8 at HLA-A, -B, -C, and -DRB1 is required\n3. Product planned for infusion is bone marrow\n4. Disease and disease status:\n\n   1. Acute Leukemias or T lymphoblastic lymphoma in 1st or subsequent complete remission (CR): Acute lymphoblastic leukemia (ALL)/T lymphoblastic lymphoma; acute myelogenous leukemia (AML); acute biphenotypic leukemia (ABL); acute undifferentiated leukemia (AUL)\n   2. Myelodysplastic Syndrome (MDS), fulfilling the following criteria: Subjects with de novo MDS who have or have previously had Intermediate-2 or High risk disease as determined by the International Prognostic Scoring System (IPSS). Current Intermediate-2 or High risk disease is not a requirement; Subjects must have \\< 20% bone marrow blasts, assessed within 60 days of informed consent; Subjects may have received prior therapy for the treatment of MDS prior to enrollment\n   3. Chronic Lymphocytic Leukemia (CLL) in CR if RIC is to be used; in CR or partial response (PR) if FIC is to be used\n   4. Chronic myeloid leukemia (CML) in 1st or subsequent chronic phase characterized by \\<10% blasts in the blood or bone marrow.\n   5. Chemotherapy-sensitive lymphoma in status other than 1st CR\n5. Performance status: Karnofsky or Lansky score \u2265 60% (Appendix A)\n6. Adequate organ function defined as:\n\n   1. Cardiac: left ventricular ejection fraction (LVEF) at rest \u2265 35% (RIC cohort) or LVEF at rest \u2265 40% (FIC cohort), or left ventricular shortening fraction (LVFS) \u2265 25%\n   2. Pulmonary: diffusing capacity of the lungs for carbon monoxide (DLCO), forced expiratory volume (FEV1), forced vital capacity (FVC) \u2265 50% predicted by pulmonary function tests (PFTs)\n   3. Hepatic: total bilirubin \u2264 2.5 mg/dL, and alanine aminotransferase (ALT), aspartate aminotransferase (AST), and alkaline phosphatase (ALP) \\< 5 x upper limit of (ULN) (unless disease related)\n   4. Renal: serum creatinine (SCr) within normal range for age (see table 2.3). If SCr is outside normal range for age, creatinine clearance (CrCl) \\> 40 mL/min/1.73m2 must be obtained (measured by 24-hour (hr) urine specimen or nuclear glomerular filtration rate (GFR), or calculated GFR (by Cockcroft-Gault formula for those aged \u2265 18 years; by Original Schwartz estimate for those \\< 18 years))\n7. Subjects \u2265 18 years of age must have the ability to give informed consent according to applicable regulatory and local institutional requirements. Legal guardian permission must be obtained for subjects \\< 18 years of age. Pediatric subjects will be included in age appropriate discussion in order to obtain assent.\n8. Subjects with documentation of confirmed HIV-1 infection (i.e. HIV-positive), and a hematologic malignancy who meets all other eligibility requirements must:\n\n   1. Receive only RIC regimen (i.e. Regimen A)\n   2. Be willing to comply with effective antiretroviral therapy (ARV)\n   3. Have achieved a sustained virologic response for 12 weeks after cessation of hepatitis C antiviral treatment (in HIV-positive subjects with hepatitis C)\n\nExclusion Criteria:\n\n1. HLA-matched related or 8/8 allele matched (HLA-A, -B, -C, -DRB1) unrelated donor available. This exclusion does not apply to HIV-positive subjects who have a CCR5delta32 homozygous donor.\n2. Autologous HCT \\< 3 months prior to the time of signing the informed consent form\n3. Females who are breast-feeding or pregnant\n4. HIV-positive subjects:\n\n   1. Acquired immunodeficiency syndrome (AIDS) related syndromes or symptoms that may pose an excessive risk for transplantation-related morbidity as determined by the Treatment Review Committee (see Appendix D).\n   2. Untreatable HIV infection due to multidrug ARV resistance. Subjects with a detectable or standard viral load \\> 750 copies/mL should be evaluated with an HIV drug resistance test (HIV-1 genotype). The results should be included as part of the ARV review (described in Appendix D).\n   3. May not be currently prescribed ritonavir, cobacistat and/or zidovudine\n5. Current uncontrolled bacterial, viral or fungal infection (currently taking medication with evidence of progression of clinical symptoms or radiologic findings)\n6. Prior allogeneic HCT\n7. History of primary idiopathic myelofibrosis\n8. MDS subjects may not receive RIC and must be \\< 50 years of age at the time of signing the informed consent form",
+    "gender": "ALL",
+    "min_age": "15 Years",
+    "max_age": "70 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Greenebaum Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "365 days post transplant",
+      "description": "Death from any cause. The time to this event is the time from HCT to death, loss to follow-up, or end of study (whichever comes first).\n\nThe overall survival probability and 90% CI will be calculated by the Kaplan Meier product limit estimator."
+    }
+  ],
+  "sponsor": "Center for International Blood and Marrow Transplant Research",
+  "collaborators": [
+    "National Marrow Donor Program"
+  ],
+  "start_date": "2016-12",
+  "completion_date": "2020-03",
+  "last_updated": "2025-07-18"
+}

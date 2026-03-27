@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT01954641",
+  "brief_title": "Accountability for Cancer Care Through Undoing Racism and Equity",
+  "official_title": "Accountability for Cancer Care Through Undoing Racism and Equity",
+  "brief_summary": "Purpose: African American cancer patients, as compared to their White counterparts, continue to initiate treatment later and remain less apt to undergo complete treatment; fueling worse treatment outcomes including shorter survival. The concepts of \"transparency\" and \"accountability,\" as mechanisms of systems change have been applied for decades by anti-racism organizations to civil rights and social change. Yet, the application of these concepts to health systems' change and unequal treatment has rarely been done. The Greensboro Health Disparities Collaborative and two Cancer Centers have joined together to specify structures built into cancer care systems that make cancer care vulnerable to institutional racism and investigate how they can be changed to reduce racial inequity in quality and completion of treatment for Stage 1-2 breast and lung cancer patients.\n\nParticipants: White and African American patients with first diagnosis of Stage 1-2 breast and lung cancer, with intention to treat, and their cancer care staff at 2 cancer centers. The 2 cancer centers are Cone Health Cancer Center (CHCC) in Greensboro, North Carolina and the University of Pittsburgh Medical Center (UPMC) Hillman Comprehensive Cancer Center in Pittsburgh, Pennsylvania.\n\nProcedures (methods): Using a 5-year interrupted time-series, with an embedded randomized control trial (RCT) study design, we will test the effectiveness of the ACCURE intervention components. Having received Institutional Review Board approval for Phase 1, we completed a 5-year, retrospective review of de-identified Electronic Medical Record data to establish a baseline of repeated outcome measures, convening of an expert committee to design the intervention, and design of the real-time, electronic breast and lung cancer registry coupled with dummy testing of the registry system.\n\nThe randomized trial will compare patients who receive usual care to those who receive visits and calls from a trained ACCURE Navigator, who is well versed in issues specific to breast and lung cancer and trained to serve as a two-way communication bridge to optimize the cancer care system's accountability and transparency for equity in quality of care. Given unintended, but likely variation in implementation of the ACCURE intervention by the two Cancer Centers (at our two research sites), 6 elements of implementation and their potential effect on outcomes will be documented through a process evaluation.",
+  "detailed_description": "The ACCURE Interventions include:\n\n1. Quality Improvement / Race specific feedback for providers regarding breast and lung surgery and adjuvant treatments.\n2. A real time registry with automated electronic health record feeds that provides warning signs if milestones in cancer care have not been met or if patients miss scheduled appointments\n3. Health Equity Training for cancer center staff at quarterly intervals\n4. Accure Navigation (based on special training regarding trust, culturally appropriate communication, and Kleinman's Patient Model of Illness)\n5. Additional efforts will be made to collect information on symptoms and side effect management from patients and medical charts.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 300,
+  "conditions": [
+    "Breast Cancer",
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "ACCURE Navigator",
+      "type": "OTHER",
+      "description": "The ACCURE Real-Time Registry will automatically alert the ACCURE Navigator to follow a schedule of patient-interactions. The Navigator has been trained to employ the \"teachback\" method of patient education as appropriate per encounter. For instance: (1) initial face-to-face interaction, after the patient's first visit with the oncologist; (2) telephone call 3 business days after the initial visit; (3) contact the patient 10-21 days after the initial visit; and (4) after treatment has begun, contacting the patient every 8 weeks.It is projected that 50% of the staff will attend the Healthcare Equity Training (HET) and Booster Sessions."
+    },
+    {
+      "name": "Usual Care by Cancer Center Care Team",
+      "type": "OTHER",
+      "description": "The Usual Care group will receive the support and care that is usually given to patients at their designated cancer center."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* White or African American patients aged 18 or older\n* Recently received a first diagnosis of stage 1 or 2 breast or lung cancer\n* Patient plans to initiate oncology treatment with curative intent\n\nExclusion Criteria:\n\n* Have cognitive impairments or limited English proficiency that would preclude their ability to comprehend survey questions",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Medical Center, Hillman Comprehensive Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Lung Cancer - Lung Resection Surgery within 4 months of diagnosis or stereotactic radiation Breast Cancer - Completion of surgery, radiation if surgery is breast conserving, and adjuvant chemotherapy (when indicated) within 6 months of diagnosis",
+      "timeFrame": "Chart review 6 to 8 months after patient enrollment and continuous Electronic Health Record (EHR) downloads into the real time registry for the 3 years of follow up.",
+      "description": "Changes in race-specific proportions of quality and completion of breast and lung cancer treatment. Will examine the influence of Quality Improvement/race-specific feedback and the real time registry compared to historical controls using an interrupted time series analysis and will compare the ACCURE Navigator component to Usual Care control groups (the randomized portion of the study)."
+    }
+  ],
+  "sponsor": "University of North Carolina, Chapel Hill",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Partnership Project, Inc.",
+    "Cone Health System Cancer Center",
+    "University of Pittsburgh",
+    "North Carolina Translational and Clinical Sciences Institute"
+  ],
+  "start_date": "2013-04",
+  "completion_date": "2018-03",
+  "last_updated": "2018-07-30"
+}

@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT07038343",
+  "brief_title": "AVENTINE-1: Study of AVZO-1418 as a Single Agent and in Combination Therapy in Patients With Locally Advanced or Metastatic Solid Tumors (AVZO-1418-1001)",
+  "official_title": "A Phase 1/2, First-in-human Study to Assess the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Antitumor Activity of AVZO-1418 as a Single Agent and in Combination Therapy in Patients With Locally Advanced or Metastatic Solid Tumors",
+  "brief_summary": "This study, the first clinical trial of AVZO-1418, aims to determine the safety, tolerability, pharmacokinetics, pharmacodynamics, maximum tolerated dose, and antitumor activity of AVZO-1418 when administered intravenously as a monotherapy and potentially in combination therapy to patients with locally advanced or metastatic epithelial solid tumors.",
+  "detailed_description": "This first-in-human, Phase 1/2 study will aim to obtain safety and tolerability data when AVZO-1418 is administered intravenously to patients with locally advanced or metastatic epithelial solid tumors.\n\nPhase 1 is a dose escalation phase which will assess the safety and tolerability of AVZO-1418 and determine the maximum tolerated dose (MTD) and preliminary recommended Phase 2 dose (RP2D) of AVZO-1418 as a monotherapy. This data can guide selection of combination schedules and agents.\n\nPhase 2 is a dose expansion phase that will aim to assess the antitumor activity of AVZO-1418 as a monotherapy and potentially in combination therapy.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 430,
+  "conditions": [
+    "Solid Tumor Cancer",
+    "Locally Advanced",
+    "Metastatic Solid Tumors",
+    "Lung Cancers",
+    "Epithelial Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "AVZO-1418",
+      "type": "DRUG",
+      "description": "Specific dose in protocol specified schedule"
+    },
+    {
+      "name": "Combination Agent 1",
+      "type": "DRUG",
+      "description": "Per label based on combination agent used"
+    },
+    {
+      "name": "Combination Agent 2",
+      "type": "DRUG",
+      "description": "Per label based on combination agent used"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria\n\n* Patient must be an adult, between 18 and 75 years of age with an Eastern Cooperative Oncology Group (ECOG) Performance Status of \u2264 1 and a life expectancy of \\> 3 months.\n* Patients with histologically or cytologically confirmed locally advanced/metastatic malignancies for tumor types of preferred indications:\n\n  o Locally advanced or metastatic epithelial solid tumors (as specified in the protocol).\n* Measurable disease as assessed by Investigator using RECIST v1.1.\n* Agree to provide molecular test report results to confirm eligibility and archival tumor samples and/or fresh biopsy, as applicable.\n* Other protocol-defined Inclusion criteria apply.\n\nKey Exclusion Criteria\n\n* Uncontrolled hypertension.\n* Patients with active central nervous system (CNS) metastases are not eligible. Patients with asymptomatic and treated brain metastases may participate if they are radiologically stable for at least 4 weeks prior to the first dose of this study and do not require steroid treatment. Patients with suspected or confirmed leptomeningeal disease are not eligible, even if treated.\n* History of drug-induced interstitial lung disease (ILD).\n* History of any serious cardiovascular condition.\n* Infection requiring IV antibiotics, antivirals, or antifungals within 2 weeks prior to first dose.\n* History of a solid organ transplant.\n* Other protocol-defined Exclusion criteria apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Avenzo Therapeutics Recruiting Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Occurrence of Dose Limiting Toxicities (DLTs) during the first cycle (Phase 1)",
+      "timeFrame": "Approximately 2 years",
+      "description": "Number of participants with DLTs assessed for severity using CTCAE v5.0 criteria will be summarized by dose level."
+    },
+    {
+      "measure": "Determine the maximum tolerated dose (MTD) and/or preliminary recommended Phase 2 dose (RP2D) (Phase 1)",
+      "timeFrame": "Approximately 16 months",
+      "description": ""
+    },
+    {
+      "measure": "Number of Participants with Treatment Emergent Adverse Events (TEAEs) and lab abnormalities (Phase 1)",
+      "timeFrame": "From baseline until end of study treatment or study completion (approximately 2 years)",
+      "description": ""
+    },
+    {
+      "measure": "Objective Response Rate (ORR) (Phase 2)",
+      "timeFrame": "From baseline through disease progression or study completion (approximately 2 years)",
+      "description": "Defined as the proportion of patients with a confirmed Complete Response (CR) or Partial Response (PR), as determined by the investigator by radiographic disease assessment according to RECIST v1.1."
+    }
+  ],
+  "sponsor": "Avenzo Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2025-06-04",
+  "completion_date": "2030-12",
+  "last_updated": "2026-02-18"
+}

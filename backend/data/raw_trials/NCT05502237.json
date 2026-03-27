@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT05502237",
+  "brief_title": "Zimberelimab and Domvanalimab in Combination With Chemotherapy Versus Pembrolizumab With Chemotherapy in Patients With Untreated Metastatic Non-Small Cell Lung Cancer",
+  "official_title": "A Randomized, Open-Label, Phase 3 Study to Evaluate Zimberelimab and Domvanalimab in Combination With Chemotherapy Versus Pembrolizumab With Chemotherapy for the First-Line Treatment of Patients With Metastatic Non-Small Cell Lung Cancer With No Epidermal Growth Factor Receptor or Anaplastic Lymphoma Kinase Genomic Tumor Aberrations",
+  "brief_summary": "The primary objective of this study is to compare the effect of zimberelimab (ZIM) and domvanalimab (DOM) in combination with chemotherapy relative to pembrolizumab (PEMBRO) in combination with chemotherapy on overall survival (OS) in patients with untreated metastatic non-small cell lung cancer with no actionable genomic alteration.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1021,
+  "conditions": [
+    "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Zimberelimab",
+      "type": "DRUG",
+      "description": "Administered intravenously"
+    },
+    {
+      "name": "Domvanalimab",
+      "type": "DRUG",
+      "description": "Administered intravenously"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Administered intravenously"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Administered intravenously"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Administered intravenously"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Administered intravenously"
+    },
+    {
+      "name": "Nab-paclitaxel",
+      "type": "DRUG",
+      "description": "Administered intravenously"
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": "Administered intravenously"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Life expectancy \u2265 3 months.\n* Pathologically documented NSCLC that meets both of the criteria below:\n\n  * Have documented evidence of Stage IV NSCLC disease at the time of enrollment (based on American Joint Committee on Cancer (AJCC), Eighth Edition).\n  * Have documented negative test results for epidermal growth factor receptor (EGFR) and anaplastic lymphoma kinase (ALK) mutations.\n* Have no actionable genomic alterations such as ROS proto-oncogene 1 (ROS1), neurotrophic tyrosine receptor kinase (NTRK), proto-oncogene B-raf (BRAF), RET mutations, or other driver oncogenes with approved frontline therapies.\n* Have not received prior systemic treatment for metastatic NSCLC.\n* Measurable disease per RECIST v1.1 criteria by investigator assessment.\n* Eastern Cooperative Oncology Group performance status (ECOG PS) score of 0 or 1.\n* Have adequate organ functions.\n\nKey Exclusion Criteria:\n\n* Have mixed small-cell lung cancer (SCLC) and NSCLC histology.\n* Positive serum pregnancy test or individuals who are breastfeeding or have plans to breastfeed during the study period.\n* Received prior treatment with any anti-PD-1, anti-PD-L1, or any other antibody targeting an immune checkpoint.\n* Known hypersensitivity to the study drug, its metabolites, or formulation excipient.\n* Have an active second malignancy or have had an active second malignancy within 3 years prior to enrollment.\n* Have an active autoimmune disease that required systemic treatment in past 2 years (i.e., with use of disease-modifying agents, corticosteroids, or immunosuppressive drugs).\n* Are receiving chronic systemic steroids.\n* Have significant third-space fluid retention.\n* Have untreated central nervous system (CNS) metastases and/or carcinomatous meningitis.\n* Active chronic inflammatory bowel disease (ulcerative colitis, Crohn's disease) or gastrointestinal perforation within 6 months of enrollment.\n* Has a history of (noninfectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease.\n* Has had an allogenic tissue/solid organ transplant.\n* Have received a live-virus vaccination within 30 days of planned treatment start. Seasonal flu and COVID-19 vaccines that do not contain live virus are permitted.\n* Have known active hepatitis B virus (HBV) or hepatitis C virus (HCV) infection.\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "AHN Allegheny General Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS) in Participants With Positive Programmed Cell Death-Ligand 1 (PD-L1) Expression (\u22651%Tumor Cells) and in all Randomized Participants.",
+      "timeFrame": "Up to 68 months",
+      "description": "OS is defined as the time from the date of randomization to the date of death from any cause."
+    }
+  ],
+  "sponsor": "Gilead Sciences",
+  "collaborators": [
+    "Arcus Biosciences, Inc."
+  ],
+  "start_date": "2022-10-12",
+  "completion_date": "2029-01",
+  "last_updated": "2026-01-28"
+}

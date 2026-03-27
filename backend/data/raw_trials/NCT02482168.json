@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT02482168",
+  "brief_title": "Study of the CD40 Agonistic Monoclonal Antibody APX005M",
+  "official_title": "Phase 1 Study to Evaluate the Safety and Tolerability of the CD40 Agonistic Monoclonal Antibody APX005M in Subjects With Solid Tumors",
+  "brief_summary": "This study is a phase 1 open-label dose escalation study of the immuno-activating monoclonal antibody APX005M in adults with solid tumors. Study is intended to establish the maximum tolerated dose and the overall safety and tolerability of APX005M in 3 different administration schedules.",
+  "detailed_description": "APX005M-001 is an open-label study and comprises a dose-escalation portion of approximately 8 dose level cohorts, plus an expansion cohort.\n\nEligible subjects with solid tumors will receive intravenous APX005M every 3 week, every 2 week or every 1 week until disease progression, unacceptable toxicity or death, whichever occurs first.\n\nStudy objectives include:\n\n* Evaluate safety of APX005M\n* Determine the maximum tolerated dose of APX005M\n* Determine the pharmacokinetic parameters of APX005M: the maximal drug concentration (Cmax), area under the curve of serum concentration over time (Area Under the Curve/ AUC), and half-life (t\u00bd).\n* Preliminary assessment of clinical response",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 43,
+  "conditions": [
+    "Cancer",
+    "NSCLC",
+    "Melanoma",
+    "Urothelial Carcinoma",
+    "MSI-H",
+    "Head and Neck Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "APX005M",
+      "type": "DRUG",
+      "description": "APX005M is a CD40 agonistic monoclonal antibody"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Histologically documented diagnosis of solid tumor\n* For subjects in the every 2 week and every 1 week dosing cohorts histologically or cytologically documented diagnosis of urothelial carcinoma, melanoma, squamous cell carcinoma of the head and neck, non-small cell lung cancer, or any solid tumor with high microsatellite instability status (MSI-high)\n* No known effective therapy options are available\n* Measurable disease by RECIST 1.1\n* ECOG performance status of 0 or 1\n* Adequate bone marrow, liver and kidney function\n* No toxicities related to prior treatment related toxicities with the exception of alopecia and neuropathy\n* Negative pregnancy test for women of child bearing potential\n\nKey Exclusion Criteria:\n\n* Any history of or current hematologic malignancy\n* Major surgery or treatment with any other investigational agent within 4 weeks\n* Uncontrolled diabetes or hypertension\n* History of arterial thromboembolic event\n* History of congestive heart failure, symptomatic ischemia, conduction abnormalities uncontrolled by conventional intervention, or myocardial infarction\n* Active known clinically serious infections",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of The University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of dose limiting toxicities",
+      "timeFrame": "Up to 28 days following first dose of APX005M",
+      "description": "The rate of DLTs will be assessed in approximately 56 subjects. DLTs will include Grade 4 neutropenia, anemia, thrombocytopenia, Grade 3or 4 nausea, cytokine release syndrome and other Grade 3 non-hematological toxicity"
+    },
+    {
+      "measure": "Incidence of adverse events",
+      "timeFrame": "Through up to approximately 4 weeks following last dose of APX005M",
+      "description": "Incidence and severity of AEs and specific laboratory abnormalities graded according to NCI-CTCAE, v4.03"
+    }
+  ],
+  "sponsor": "Apexigen America, Inc.",
+  "collaborators": [],
+  "start_date": "2015-05",
+  "completion_date": "2018-06-19",
+  "last_updated": "2023-12-19"
+}

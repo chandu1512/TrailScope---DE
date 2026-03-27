@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT02791594",
+  "brief_title": "Imaging FDG Flare in Melanoma",
+  "official_title": "Imaging the Flare Response With FDG PET/CT in Patients With Advanced Metastatic Melanoma on Pembrolizumab.",
+  "brief_summary": "Up to 35 adult patients with metastatic melanoma planning to start pembrolizumab will be enrolled in this study with a target enrollment of 30 evaluable subjects. Subjects will complete a baseline FDG PET/CT and an on-treatment FDG PET/CT after 1 week of pembrolizumab therapy. Subjects may also be a part of the Penn Melanoma Tissue Collection Program and then will be asked to have one additional tumor biopsy and one additional blood draw for the purposes of this imaging study. Changes in tumor FDG uptake between the baseline and early on-treatment FDG PET/CT scans will be correlated with blood and tissue results from the patient's medical records and from the data collected as part of the Penn Melanoma Tissue Collection Program and with outcomes including objective response, progression free survival, and overall survival.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 21,
+  "conditions": [
+    "Metastatic Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Patients were treated with pembrolizumab according to standard of care."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* The subject must be informed of the investigational nature of this study and provide written informed consent in accordance with institutional and federal guidelines prior to study-specific procedures.\n* The subject must be \u2265 18 years of age on day of signing informed consent.\n* The subject must have biopsy proven or clinically documented advanced stage metastatic melanoma.\n* The subject must have measurable disease (per RECIST 1.1) that is seen on CT, MRI, or FDG PET/CT.\n* The subject must be recommended to start pembrolizumab.\n\nExclusion Criteria:\n\n* Females who are pregnant or breast-feeding at the time of screening will not be eligible for this study. Female participants of child-bearing potential will have a urine pregnancy test at the time of the screening visit.\n* Subject is not able to tolerate imaging procedures in the opinion of the investigator or treating physician.\n* Subject has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the trial, interfere with the subject's participation for the full duration of the trial, or is not in the best interest of the subject to participate, in the opinion of the treating investigator.\n* Subject has received prior therapy with an anti-PD-1, anti-PD-L1, or anti-PD-L2 agent as assessed by medical record review and/or self-reported.\n* Subject has a known history of Human Immunodeficiency Virus (HIV) (HIV 1/2 antibodies) as determined by medical record review.\n* Subject has a diagnosis of immunodeficiency or is receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of trial treatment.\n* Subject has known active Hepatitis B (e.g., HBsAg reactive) or Hepatitis C (e.g., HCV RNA \\[qualitative\\] is detected) as determined by medical record review.\n* Subject has known active central nervous system metastases and/or carcinomatous meningitis.\n\nNote: Subjects with previously treated brain metastases will be eligible to participate provided they are stable (without evidence of progression by imaging for at least four weeks prior to receiving pembrolizumab and any neurologic symptoms have returned to baseline), have no evidence of new or enlarging brain metastases, and are not using steroids for at least 7 days prior to trial treatment.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response by RECIST Version 1.1",
+      "timeFrame": "6 months",
+      "description": "Objective response is defined as the proportion of patients with a complete response or partial response by RECIST version 1.1. A complete response is defined as the disappearance of all tumor lesions, and a decrease in size of all pathological lymph nodes to \\<10 mm along the short axis. A partial response is at least a 30% decrease in the sum of diameters of target tumor lesions, taking as reference the baseline sum diameters."
+    },
+    {
+      "measure": "Number of Participants With Change in Tumor FDG Uptake Between Baseline FDG PET/CT and Early On-Treatment FDG PET/CT Obtained 1 Week After Initiation of Pembrolizumab",
+      "timeFrame": "Baseline and 1 week after initiation of pembrolizumab",
+      "description": "FDG PET scans were evaluated for changes in maximum standardized uptake value (SUVmax) for up to 5 RECIST-measurable lesions (2 per organ) for each patient. The percentage change in SUVmax was defined as (sum of PET1 SUVmax - sum of PET0 SUVmax)/(sum of PET0 SUVmax) x 100, where PET0 was the baseline FDG PET/CT and PET1 was the on-treatment FDG PET/CT acquired at \\~1 week after starting pembrolizumab. A metabolic flare (MF) was defined as \\>70% increase in tumor SUVmax between baseline and follow-up scans, and a metabolic response (MR) was defined as a \\>30% decrease in tumor SUVmax. If the change in tumor SUVmax was neither MF or MR it was classified as stable metabolism (SM)."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2016-06",
+  "completion_date": "2020-07-01",
+  "last_updated": "2024-11-07"
+}

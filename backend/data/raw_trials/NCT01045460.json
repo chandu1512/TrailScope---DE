@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT01045460",
+  "brief_title": "Trial of Activated Marrow Infiltrating Lymphocytes Alone or in Conjunction With an Allogeneic Granulocyte Macrophage Colony-stimulating Factor (GM-CSF)-Based Myeloma Cellular Vaccine in the Autologous Transplant Setting in Multiple Myeloma",
+  "official_title": "Randomized Trial of Activated Marrow Infiltrating Lymphocytes Alone or in Conjunction With an Allogeneic GM-CSF-based Myeloma Cellular Vaccine in the Autologous Transplant Setting in Multiple Myeloma",
+  "brief_summary": "Patient Population: Patients with active myeloma (Stage II/III) that have completed induction therapy and are eligible for an autologous stem cell transplant.\n\nNumber of Patients: Will treat a total of 32 evaluable patients in a 1:1 randomization of aMILs vs aMILs plus vaccine. An evaluable patient is defined as one which has received the activated MILs and is at least 6 months post-transplant.\n\nStudy Objectives:\n\nDisease response as determined by the Blade' criteria will be the primary endpoint of the trial at one year.\n\nAdditional study endpoints include progression free survival, parameters of T cell reconstitution, anti-tumor immune responses as well as the effect on osteoclastogenesis and clonogenic myeloma precursor cells.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 36,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Activated marrow infiltrating lymphocytes",
+      "type": "BIOLOGICAL",
+      "description": "Administered on Days 3 and 4."
+    },
+    {
+      "name": "Allogeneic Myeloma Vaccine",
+      "type": "BIOLOGICAL",
+      "description": "Allogeneic granulocyte macrophage colony-stimulating factor (GM-CSF)-based myeloma cellular vaccine. Administered on Days 21, 60, 180, and 300."
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Administered at 2.5 g/m\\^2."
+    },
+    {
+      "name": "Filgrastim",
+      "type": "BIOLOGICAL",
+      "description": "Administered post cyclophosphamide daily until leukapheresis."
+    },
+    {
+      "name": "Leukapheresis",
+      "type": "PROCEDURE",
+      "description": "Performed approximately 12 days post cyclophosphamide. Exact date depends on peripheral blood CD34+ cell counts."
+    },
+    {
+      "name": "Melphalan",
+      "type": "DRUG",
+      "description": "100 mg/m\\^2/day given on Days -2 and -1."
+    },
+    {
+      "name": "Autologous stem cell transplant",
+      "type": "BIOLOGICAL",
+      "description": "Infused on Day 0."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Durie-Salmon Stage II or III multiple myeloma\n* Newly diagnosed either prior to receiving treatment or having completed induction therapy\n* Relapsed myeloma not previously transplanted within the past 5 years\n* Measurable serum and/or urine M-protein from prior to induction therapy documented and available. A positive serum free lite assay is acceptable\n* Age greater than 18 years old\n* ECOG performance status of 0 - 2\n* Meet all institutional requirements for autologous stem cell transplantation\n* The patient must be able to comprehend and have signed the informed consent\n\nExclusion Criteria:\n\n* Diagnosis of any of the following plasma cell disorders: POEMS syndrome (plasma cell dyscrasia with polyneuropathy, organomegaly, endocrinopathy, monoclonal protein \\[M-protein\\] and skin changes) Non-secretory myeloma (no measurable protein on Serum Free Lite Assay)\n* Plasma cell leukemia\n* Amyloidosis\n* Use of corticosteroids (glucocorticoids) within 21 days of pre-transplant vaccine or bone marrow collection\n* Use of any myeloma-specific therapy other than lenalidomide within 21 days of pre-transplant vaccine\n* In a complete remission at the time of bone marrow collection\n* Infection requiring treatment with antibiotics, antifungal, or antiviral agents within seven days of vaccination or bone marrow collection\n* Participation in any clinical trial, within four weeks prior to vaccination or bone marrow collection on this trial, which involved an investigational drug or device\n* History of malignancy other than multiple myeloma within five years of vaccination or bone marrow collection, except adequately treated basal or squamous cell skin cancer\n* Active autoimmune disease (e.g., rheumatoid arthritis, multiple sclerosis, systemic lupus erythematosis) requiring systemic treatment. Hypothyroidism without evidence of Grave's Disease or Hashimoto's thyroiditis is permitted\n* Evidence of spinal cord compression at time of transplant",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Response Rates by Blade Criteria",
+      "timeFrame": "Up to 1 year",
+      "description": "Number of participants with each disease response category utilizing the Blade criteria:\n\n* Complete Response (CR): Defined as negative serum and urine immunofixation and a bone marrow aspirate with \\< 5% plasma cells.\n* Near Complete Response (nCR): Defined as negative serum and urine paraprotein, positive serum and/or urine immunofixation, and a bone marrow aspirate with \\< 5% plasma cells.\n* Very Good Partial Response (VGPR): Defined as negative serum and urine paraprotein with positive serum and/or urine immunofixation; or a 90% decrease in serum paraprotein with urine paraprotein \\< 100 mg/24 hours.\n* Partial Response (PR): Defined as a 50-89% decrease in serum paraprotein.\n* Minimal Response (MR): Defined as a 25-49% decrease in serum paraprotein.\n* Stable Disease (SD): Defined as not falling into any other response category.\n* Overall response rate (ORR): Total of CR, nCR, VGPR, and PR."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [],
+  "start_date": "2010-01-15",
+  "completion_date": "2020-06",
+  "last_updated": "2021-03-16"
+}

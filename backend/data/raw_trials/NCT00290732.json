@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT00290732",
+  "brief_title": "Liposomal Doxorubicin Before Mastectomy in Treating Women With Invasive Breast Cancer",
+  "official_title": "A Phase I Study Assessing the Feasibility and Safety of Intraductal Administration of Pegylated Liposomal Doxorubicin (Doxil) in Women With Breast Cancer",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as liposomal doxorubicin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving chemotherapy in different ways, such as into the breast ducts, may kill more tumor cells. Giving chemotherapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.\n\nPURPOSE: This phase I trial is studying the side effects and best dose of liposomal doxorubicin when given before mastectomy in treating women with invasive breast cancer.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* Evaluate the feasibility, safety, and maximum tolerated dose of intraductal pegylated doxorubicin HCl liposome in women with invasive breast cancer awaiting mastectomy.\n\nSecondary\n\n* Determine the pharmacokinetics of intraductal pegylated doxorubicin HCl liposome, including serial plasma concentrations of doxorubicin and doxorubicinol and tissue concentrations in different portions of the breast at the time of surgery.\n\nOUTLINE: This is a dose-escalation study.\n\nPatients receive an intraductal injection of pegylated doxorubicin HCl liposome\\* on day 1. Patients undergo mastectomy 2-4 weeks later.\n\nCohorts of 3-6 patients receive escalating doses of pegylated doxorubicin HCl liposome\\* until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity. At least 6 patients are treated at the MTD.\n\nNOTE: \\*The first cohort of 3 patients receive intraductal dextrose only followed by surgery as a feasibility study. An additional 3 patients receiving intravenous PLD will be enrolled in a pharmacokinetic control portion of the study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Intraductal arm",
+      "type": "DRUG",
+      "description": "Patients will receive PLD intraductally according to the dose escalation schema (Dose Level -1=1 mg, Dose Level 1=2 mg, Dose Level 2= 5mg, Dose Level 3=10 mg). The PLD dose will be diluted in 5% dextrose in water and will be mixed for a total volume of 5 ml. The PLD will be administered via a breast duct (i.e., intraductally) using a microcatheter"
+    },
+    {
+      "name": "Intravenous arm",
+      "type": "DRUG",
+      "description": "Blood samples and a breast tissue biopsy collected to look at levels of doxorubincol from patients receiving intravenous pegylated liposomal doxorubin to compare to the group receiving drug intraductally."
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed infiltrating carcinoma of the breast meeting any of the following criteria:\n\n  * T1-3, any N disease\n  * Proven ductal carcinoma in situ\n* Unresected disease\n\n  * Planned mastectomy as definitive surgical procedure\n\n    * Known or suspected metastatic disease allowed provided mastectomy is planned\n* Nonpalpable tumor allowed (e.g., initial T2-3 tumor that responded to preoperative therapy)\n* No inflammatory breast cancer or other T4 features\n* Successful baseline ductogram\n\n  * Baseline nipple aspiration procedure must identify a duct productive of nipple aspirate fluid\n  * No severe nipple retraction\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female patients\n* Menopausal status not specified\n* ECOG performance status 0-2\n* Absolute neutrophil count \u22651,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Hemoglobin \u2265 9.0 g/dL\n* Creatinine \u2264 2 times upper limit of normal (ULN)\n* Bilirubin \u2264 2 times ULN\n* AST and ALT \u2264 2.5 times ULN\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No significant history of severe allergy to iodinated contrast material or debilitating anxiety that may not allow for a ductogram\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Prior preoperative chemotherapy, trastuzumab (Herceptin\u00ae), or hormonal therapy allowed provided it was completed 7-14 days prior to study treatment\n* No prior radiation therapy, excisional biopsy, breast reduction, areolar surgery, or breast implant (present or past history of implant that was removed)\n* No other prior procedure that may have altered the breast ductal system in the ipsilateral breast\n* No other concurrent chemotherapy, radiotherapy, endocrine therapy, or biologic agents for breast cancer\n* No other concurrent investigational drugs\n* Concurrent bisphosphonates allowed",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum Tolerated Dose (MTD)",
+      "timeFrame": "Until up to 30 days after PLD administration",
+      "description": "Maximum tolerated dose (MTD) of administering pegylated liposomal doxorubicin (PLD) into one duct of women with breast cancer awaiting mastectomy. MTD reflects highest dose of drug that did not cause Dose Limiting Toxicity (DLT) in more than 30% of patients."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2005-11",
+  "completion_date": "2011-10",
+  "last_updated": "2013-10-07"
+}

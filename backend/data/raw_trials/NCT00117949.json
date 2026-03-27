@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT00117949",
+  "brief_title": "Study Investigating the Pharmacokinetics, Pharmacodynamics and Safety of FE200486",
+  "official_title": "An Open-Label, Multi-Center, Ascending, Single Dose Study Investigating the Pharmacokinetics, Pharmacodynamics and Safety of FE200486",
+  "brief_summary": "Population pharmacokinetic and pharmacodynamic data from Study FE200486 CS06 and FE200486 CS02 provided further knowledge of the optimal dose regimens for FE200486 (degarelix). Both studies were to guide dose selection for phase III. In addition, safety and tolerance data were generated.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 82,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Degarelix",
+      "type": "DRUG",
+      "description": "One dose (2 x 2 mL) of degarelix 40 mg (10 mg/mL), subcutaneous injection."
+    },
+    {
+      "name": "Degarelix",
+      "type": "DRUG",
+      "description": "One dose (2 x 2 mL) of degarelix 80 mg (20 mg/mL), subcutaneous injection."
+    },
+    {
+      "name": "Degarelix",
+      "type": "DRUG",
+      "description": "One dose (2 x 2 mL) of degarelix 120 mg (30 mg/mL), subcutaneous injection."
+    },
+    {
+      "name": "Degarelix",
+      "type": "DRUG",
+      "description": "One dose (2 x 2 mL) of degarelix 160 mg (40 mg/mL), subcutaneous injection."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nEach patient must meet the following inclusion criteria before entry into the study:\n\n* Has given written consent before any study related activity is performed (A study related activity is defined as any procedure that would not have been performed during the normal management of the patient.)\n* Is a male patient with histologically proven adenocarcinoma of the prostate (all stages) in whom endocrine treatment is indicated, except for neoadjuvant hormonal therapy. For patients, prostate-specific antigen (PSA) increases on two consecutive determinations at least 2 weeks apart prior to Visit 1 must be documented.\n* Is at least 18 years.\n* Has an ECOG score of 2.\n* Has a baseline testosterone level within the age specific normal range as measured by the central laboratory.\n* Has a PSA value of 2 ng/mL as measured by the central laboratory.\n* Has a life expectancy of at least 6 months.\n\nExclusion Criteria:\n\nAny patient meeting one or more of the following exclusion criteria will not be entered into the study:\n\n* Previous or present hormonal management of prostate cancer (surgical castration or other hormonal manipulation, e.g. GnRH agonists, GnRH antagonists, antiandrogens, estrogens, PC-Spec) except for neoadjuvant hormonal therapy of \\< 6 months duration and completed \\> 6 months prior to Visit 1.\n* Requires hormonal therapy for neoadjuvant purposes.\n* Is recently (within the last 12 weeks preceding Visit 1) or presently treated with any other drug modifying the testosterone level or function.\n* Is considered to be a candidate for curative therapy, i.e., radical prostatectomy or radiotherapy within 6 months after Visit 1.\n* Has a history of severe asthma requiring daily treatment with inhalation steroids, angioedema or anaphylactic reactions.\n* Has hypersensitivity towards any component of the investigational product.\n* Has had a cancer disease within the last 10 years except for prostate cancer, and surgically removed basocellular or squamous cell carcinoma of the skin.\n* Has a clinically significant neurologic, gastrointestinal, renal, hepatic, cardiovascular, psychological, pulmonary, metabolic, endocrine, hematological, dermatological or infectious disorder or any other condition, including excessive alcohol or drug abuse, which may interfere with trial participation, or which may affect the conclusion of the study, as judged by the investigator.\n* Any clinically significant laboratory abnormalities which, in the judgment of the investigator, would interfere with the patient's participation in this study or evaluation of study results (liver transaminases must be within normal limits).\n* Has a mental incapacity or language barrier precluding adequate understanding or co-operation.\n* Has received an investigational drug within the last 12 weeks preceding Visit 1.\n* Has previously participated in this study.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Drs. Werner, Murdock & Francis, PA",
+      "city": "Greenbelt",
+      "state": "Maryland",
+      "zip": "20770",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Time to Meet Insufficient Testosterone Response",
+      "timeFrame": "3 months",
+      "description": "Figures in the table are Kaplan-Meier estimates of the time to meeting insufficient testosterone response. Insufficient testosterone response was defined as testosterone \\>1.0 ng/mL at one visit or testosterone 0.5-1.0 at two consecutive visits."
+    },
+    {
+      "measure": "Number of Participants With Testostestone Serum Levels Below 0.5 ng/mL for at Least 28 Days",
+      "timeFrame": "28 days",
+      "description": "The number of participants suppressed for at least 28 days was defined as the estimated \"survival probability\" at time=Day 28."
+    }
+  ],
+  "sponsor": "Ferring Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2002-04",
+  "completion_date": "2004-01",
+  "last_updated": "2011-05-18"
+}

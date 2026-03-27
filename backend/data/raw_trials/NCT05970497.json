@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT05970497",
+  "brief_title": "A Study Assessing KB707 for the Treatment of Locally Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase 1/2, Open-Label, Multi-Center, Dose Escalation and Expansion Study of KB707 in Subjects With Locally Advanced or Metastatic Solid Tumor Malignancies",
+  "brief_summary": "KB707-01 is a Phase 1/2, open-label, multicenter, dose escalation and expansion study. The study will evaluate the safety and tolerability of KB707 in adults with locally advanced or metastatic solid tumors who have progressed on standard of care therapy, cannot tolerate standard of care therapy, refused standard of care therapy, or for whom there is no standard of care therapy as well as the safety, tolerability, preliminary efficacy, and immunologic effect of KB707 administered in combination with Opdualag to subjects with unresectable or metastatic melanoma.\n\nSubjects in dose escalation (Cohorts 1 through 3) and dose expansion (Cohort 4) will receive intratumoral injections of KB707 approximately every three weeks. Cohorts 1 through 4 are closed to new enrollment. Dose expansion Cohort 5 and Cohort 6 will evaluate subjects with advanced melanoma. Subjects in Cohort 5 will receive intratumoral injections of KB707 biweekly (q2w), delivered in combination with Opdualag (dosed every q4w per prescribing information). Subjects in Cohort 6 will receive intratumoral injections of KB707 biweekly (q2w), delivered in combination with Keytruda (dosed every q6w per prescribing information). All subjects will be treated until disease progression, death, unacceptable toxicity, symptomatic deterioration, achievement of maximal response, subject choice, Investigator decision to discontinue treatment, or the Sponsor determines to terminate the study.",
+  "detailed_description": "KB707 is a genetically modified herpes simplex type 1 virus that is designed to stimulate an anti-tumor immune response through the production of cytokines. This is a first-in-human (FIH) clinical study to evaluate the safety and tolerability and preliminary efficacy of KB707 in adult subjects with advanced and/or refractory solid tumors, including advanced melanoma. The study will include a dose escalation portion for single agent KB707 and an expansion portion to further evaluate single agent KB707 at a dose determined by preliminary data in the dose escalation phase as well as combination therapy of KB707 with immune checkpoint inhibitor therapy.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 240,
+  "conditions": [
+    "Cancer",
+    "Melanoma Stage III",
+    "Melanoma Stage IV",
+    "Cutaneous Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "KB707",
+      "type": "BIOLOGICAL",
+      "description": "Genetically modified herpes simplex type 1 virus"
+    },
+    {
+      "name": "Opdualag",
+      "type": "DRUG",
+      "description": "Dual immunotherapy (PD-1 and LAG-3 immune checkpoint inhibitors)"
+    },
+    {
+      "name": "KEYTRUDA \u00ae( Pembrolizumab)",
+      "type": "DRUG",
+      "description": "Immunotherapy (PD-1 immune checkpoint inhibitor)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Life expectancy \\>12 weeks\n* ECOG performance status of 0 or 1\n* Have measurable disease per RECIST v1.1 at Screening\n* Cohorts 1-4 only: Histologically confirmed diagnosis of a locally advanced or metastatic solid tumor and the individual has progressed on standard of care therapy, cannot tolerate standard of care therapy, refused standard of care therapy, or there is no standard of care therapy.\n* Cohorts 5 and 6 only: Histologically confirmed stage III (unresectable) or stage IV melanoma, as per American Joint Committee on Cancer (AJCC) staging system (8th edition; AJCC 2017) and\n\n  1. Subject has previously failed one prior anti-PD-1/PD-L1 treatment (as monotherapy or in combination with other checkpoint inhibitors such as anti-LAG-3 or anti-CTLA-4); and\n  2. If proto-oncogene B-Raf (BRAF) V600 mutation-positive, subject previously failed a BRAF inhibitor or BRAF inhibitor in combination with mitogen-activated extracellular signal-regulated kinase (MEK) inhibitor\n* Cohort 5 only: Age 12 years or older at the time of informed consent\n* Cohort 6 only: Age 18 years or older at the time of informed consent\n\nKey Exclusion Criteria:\n\n* Prior surgery or radiation therapy must be fully recovered, including all radiation -related toxicities and subject does not require systemic corticosteroids\n* The subject is pregnant, nursing, or plans to become pregnant during study treatment and through three months after the last dose of KB707\n* Have known history of positive human immunodeficiency virus (HIV 1/2)\n* Cohorts 5 and 6 only:\n\n  1. Subject has a known additional malignancy that is progressing or requires active treatment.\n  2. Subject has uveal/ocular melanoma.\n  3. The subject has active brain metastases or leptomeningeal metastases\n  4. Subject has received more than 2 lines of systemic therapy for unresectable or metastatic melanoma\n  5. Prior anti-LAG-3 and/or anti-PD-1 therapy was intolerable and required discontinuation of treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Morristown Medical Center / Atlantic Health System",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of adverse events (AEs)",
+      "timeFrame": "up to 36 months",
+      "description": "Percentage of subjects with adverse events (AEs)"
+    },
+    {
+      "measure": "Percentage of serious adverse events (SAEs)",
+      "timeFrame": "up to 36 months",
+      "description": "Percentage of subjects with serious adverse events (SAEs)"
+    }
+  ],
+  "sponsor": "Krystal Biotech, Inc.",
+  "collaborators": [],
+  "start_date": "2023-10-31",
+  "completion_date": "2027-07",
+  "last_updated": "2025-05-14"
+}

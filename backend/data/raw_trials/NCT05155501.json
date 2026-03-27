@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT05155501",
+  "brief_title": "Clinical Trial of Approaches to Prostate Cancer Surgery",
+  "official_title": "Clinical TrIAL of Approaches to Prostate cAncer suRgery",
+  "brief_summary": "This is a prospective, randomized controlled trial to compare cancer control and health-related quality of life following pelvic fascia-sparing radical prostatectomy versus standard radical prostatectomy.\n\nThe investigators hypothesize that pelvic fascia-sparing radical prostatectomy will have similar cancer control (primary outcome) and sexual function outcomes; and significantly better urinary function, penile shortening/deformity and inguinal hernia risks as compared to radical prostatectomy.",
+  "detailed_description": "Traditional radical prostatectomy is the most popular treatment for clinically significant prostate cancer, however significant risks including urinary incontinence, erectile dysfunction, penile shortening, penile curvature/ deformation (Peyronie's disease), and inguinal hernia, are common. Pelvic fascia-sparing radical prostatectomy is a new surgical technique that may preserve fascial support structures, arterial supply to the penis, and nerves that are severed and resected during conventional radical prostatectomy.\n\nThis study will enroll adult men undergoing radical prostatectomy for clinically localized prostate cancer. Subjects will be randomized to receive either radical prostatectomy or pelvic fascia-sparing radical prostatectomy. Investigators will compare cancer control and health-related quality of life outcomes through patient questionnaires and medical record review.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 600,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Robot-assisted radical prostatectomy (RP)",
+      "type": "PROCEDURE",
+      "description": "The conventional approach to prostate cancer surgery"
+    },
+    {
+      "name": "Pelvic fascia-sparing robot-assisted radical prostatectomy (PFS-RP)",
+      "type": "PROCEDURE",
+      "description": "A novel, posterior approach to radical prostatectomy that preserves the dorsal vascular complex, nerves and fascial support structures that overlie the anterior prostate."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male sex\n* Age \u226540 years or \u226480 years\n* Scheduled for radical prostatectomy for clinically localized prostate cancer\n* Able to read and speak English or Spanish\n* Willingness to sign informed consent and adhere to the study protocol\n\nExclusion Criteria:\n\n* Prior major pelvic surgery or radiotherapy\n* Suspicion of N1 disease (i.e., any lymph node greater than 1cm in maximal diameter)",
+    "gender": "MALE",
+    "min_age": "40 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Surgical Margin Status as assessed by surgical pathology results",
+      "timeFrame": "1 week post-surgery",
+      "description": "Presence of cancer cells at the prostate margin is standardized as a positive surgical margin through professional guideline consensus."
+    },
+    {
+      "measure": "Biochemical Recurrence as assessed by Prostate Specific Antigen (PSA)",
+      "timeFrame": "6 months post-surgery",
+      "description": "Prostate specific antigen (PSA) levels are obtained from standard of care blood tests, and PSA values are measured in ng/mL.\n\nIn accordance with National Comprehensive Cancer Network (NCCN) guidelines, investigators will capture PSA persistence as failure of PSA to fall to undetectable levels, and PSA recurrence as an undetectable PSA after surgery with a subsequent detectable PSA that increases on 2 or more determinations."
+    },
+    {
+      "measure": "Biochemical Recurrence as assessed by Prostate Specific Antigen (PSA)",
+      "timeFrame": "12 months post-surgery",
+      "description": "Prostate specific antigen (PSA) levels are obtained from standard of care blood tests, and PSA values are measured in ng/mL."
+    },
+    {
+      "measure": "Biochemical Recurrence as assessed by Prostate Specific Antigen (PSA)",
+      "timeFrame": "24 months post-surgery",
+      "description": "Prostate specific antigen (PSA) levels are obtained from standard of care blood tests, and PSA values are measured in ng/mL."
+    }
+  ],
+  "sponsor": "Weill Medical College of Cornell University",
+  "collaborators": [
+    "National Institutes of Health (NIH)",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2023-05-15",
+  "completion_date": "2026-12",
+  "last_updated": "2025-05-14"
+}

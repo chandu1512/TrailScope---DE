@@ -1,0 +1,89 @@
+{
+  "nct_id": "NCT03886831",
+  "brief_title": "A Study of PRT543 in Participants With Advanced Solid Tumors and Hematologic Malignancies",
+  "official_title": "A Phase 1, Open-Label, Multicenter, Dose Escalation, Dose Expansion Study of PRT543 in Patients With Advanced Solid Tumors and Hematologic Malignancies",
+  "brief_summary": "This is a Phase 1 cohort, dose-escalation, dose-expansion study of PRT543 in patients with advanced cancers who have exhausted available treatment options. The purpose of this study is to define a safe dose and schedule to be used in subsequent development of PRT543.",
+  "detailed_description": "This is a multicenter, open-label, sequential-cohort, dose-escalation, dose-expansion Phase 1 study of PRT543 in patients with advanced cancers who have exhausted available treatment options. Enrollment will take place concurrently into two distinct patient groups (one for solid tumors/lymphomas and one for hematological malignancies). The study will consist of 2 parts, a dose escalation part, and once the recommended phase 2 dose (RP2D) has been determined, a cohort expansion part involving up to ten separate cohorts. For patients, the study will include a screening phase, a treatment phase, and a post treatment follow-up phase. An end-of-study visit will be conducted within 30 days after the last dose of PRT543.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 232,
+  "conditions": [
+    "Relapsed/Refractory Advanced Solid Tumors",
+    "Relapsed/Refractory Diffuse Large B-cell Lymphoma",
+    "Relapsed/Refractory Myelodysplasia",
+    "Relapsed/Refractory Myelofibrosis",
+    "Adenoid Cystic Carcinoma",
+    "Relapsed/Refractory Mantle Cell Lymphoma",
+    "Relapsed/Refractory Acute Myeloid Leukemia",
+    "Refractory Chronic Myelomonocytic Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "PRT543",
+      "type": "DRUG",
+      "description": "PRT543 will be administered orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Metastatic or advanced solid tumor; or advanced diffuse large B-cell lymphoma; or advanced mantle cell lymphoma; or relapsed myelodysplastic syndrome, acute myeloid leukemia or chronic myelomonocytic leukemia; or relapsed myelofibrosis. All malignancies must be refractory to established therapies\n* Biomarker-selected solid tumors\n* Eastern Cooperative Oncology Group (ECOG) Performance Score of 0 or 1\n* Adequate organ function (bone marrow, hepatic, renal, cardiovascular)\n* Female patients of childbearing potential must have a negative pregnancy test within 7 days of the start of treatment and must agree to use an effective method of contraception during the trial\n\nExclusion Criteria:\n\n* Primary malignancies of the Central Nervous System(CNS) or uncontrolled CNS metastases\n* Requirement of pharmacologic doses of glucocorticoids\n* Prior treatment with chimeric antigen receptor T cells (CAR-T cells)\n* HIV positive; known active hepatitis B or C\n* Known hypersensitivity to any of the components of PRT543\n* Prior allogeneic bone marrow transplant; autologous hematopoietic transplantation less than 100 days since transplantation",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Christiana Care Health Services, Christiana Hospital",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19718",
+      "status": ""
+    },
+    {
+      "facility": "Atlantic Health System / Morristown Medical Center",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07962",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To describe dose limiting toxicities (DLT) of PRT543",
+      "timeFrame": "Baseline through Day 28.",
+      "description": "Dose limiting toxicities (DLTs) will be evaluated during the first cycle"
+    },
+    {
+      "measure": "To determine the maximally tolerated dose (MTD)",
+      "timeFrame": "Baseline through approximately 2 years.",
+      "description": "The maximum tolerated dose (MTD) will be established for further investigation in participants with advanced malignancies who have failed prior treatments."
+    },
+    {
+      "measure": "To determine the recommended phase 2 dose (RP2D) and schedule of PRT543",
+      "timeFrame": "Baseline through approximately 2 years.",
+      "description": "The recommended phase 2 dose (RP2D) and optimal dosing schedule of PRT543 will be established for further investigation in participants with advanced malignancies who have failed prior treatments."
+    }
+  ],
+  "sponsor": "Prelude Therapeutics",
+  "collaborators": [],
+  "start_date": "2019-02-11",
+  "completion_date": "2022-11-16",
+  "last_updated": "2023-03-24"
+}

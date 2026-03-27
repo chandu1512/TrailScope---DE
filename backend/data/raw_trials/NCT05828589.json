@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT05828589",
+  "brief_title": "A Study of BGB-21447, a Bcl-2 Inhibitor, in Mature B-Cell Malignancies",
+  "official_title": "A Phase 1/1b Open-Label Dose-Escalation and Dose-Optimization Study of Bcl-2 Inhibitor BGB-21447 in Patients With Mature B-Cell Malignancies",
+  "brief_summary": "This study is testing the safety and tolerability of BGB-21447 monotherapy in participants with relapsed or refractory (R/R) non-Hodgkin lymphoma (NHL) and chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL). The study aims to determine the maximum tolerated dose (MTD), maximum administered dose (MAD), recommended Phase 2 dose (RP2D), and pharmacokinetic profile of the drug. Additionally, preliminary antitumor activity will be characterized. The study is divided into 2 main parts: Part 1 \"Monotherapy Dose Finding\" and Part 2 \"Monotherapy Dose Optimization.\"",
+  "detailed_description": "Our company, previously known as BeiGene, is now officially BeOne Medicines. Because some of our older studies were sponsored under the name BeiGene, you may see both names used for this study on this website.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 112,
+  "conditions": [
+    "Relapsed Non-Hodgkin Lymphoma",
+    "Refractory Non-Hodgkin Lymphoma",
+    "Relapsed Chronic Lymphocytic Leukemia",
+    "Refractory Chronic Lymphocytic Leukemia",
+    "Relapsed Follicular Lymphoma",
+    "Relapsed Marginal Zone Lymphoma",
+    "Relapse Diffuse Large B Cell Lymphoma",
+    "Relapsed Small Lymphocytic Lymphoma",
+    "Refractory Follicular Lymphoma",
+    "Refractory Marginal Zone Lymphoma",
+    "Refractory Small Lymphocytic Lymphoma",
+    "Richter Transformation",
+    "Refractory Diffuse Large B-cell Lymphoma",
+    "Transformed Non-Hodgkin Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "BGB-21447",
+      "type": "DRUG",
+      "description": "BGB-21447 will be administered orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\n1. Confirmed diagnosis (per World Health Organization \\[WHO\\] guidelines, unless otherwise noted) of one of the following:\n\n   Cohort A1 and Cohort A2:\n   1. R/R DLBCL (for Cohort A1 and Cohort A2.1)\n\n      * High-grade B-cell lymphomas with translocations of MYC and Bcl-2 and/or Bcl-6 are not allowed in Cohort A1 but may be allowed in Cohort A2.1\n   2. R/R FL (for Cohort A1 and Cohort A2.2)\n   3. R/R MZL (for Cohort A1 and Cohort A2.2)\n   4. Transformed B-cell NHL (for Cohort A1 only)\n   5. Richter's transformation to DLBCL (for Cohort A1 only)\n2. Measurable disease by computed tomography/magnetic resonance imaging.\n\nExclusion Criteria:\n\n1. Prior malignancy (other than the disease under study) within the past 2 years, except for curatively treated basal or squamous skin cancer, superficial bladder cancer, carcinoma in situ of the cervix or breast, or localized Gleason score \u2264 6 prostate cancer or lentigo maligna melanoma that has been curatively resected\n2. Known central nervous system involvement by lymphoma/leukemia\n3. Prior autologous stem cell transplant \\< 3 months before the first dose of study drug. Or prior chimeric antigen receptor T-cell (CAR-T) therapy \\< 3 months before the first dose of study drug\n4. Prior allogeneic stem cell transplant.\n5. Major surgery \\< 4 weeks before the first dose of study treatment\n\nNOTE: Other protocol-defined Inclusion/Exclusion criteria may apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer At Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1: Number of participants with dose limiting toxicities (DLTs)",
+      "timeFrame": "Up to approximately 1 month",
+      "description": "Number of participants with dose limiting toxicities, as defined in the study protocol."
+    },
+    {
+      "measure": "Number of participants with adverse events (AEs)",
+      "timeFrame": "From the first dose of study drug to 30 days after the last dose or initiation of new anticancer therapy, whichever occurs first; up to approximately 12 months",
+      "description": "Number of participants with treatment-emergent adverse events (TEAEs) and serious adverse events (SAEs) assessed and graded based upon the National Cancer Institute Common Terminology Criteria for Adverse Events Version 5.0 (NCI-CTCAE v5.0)."
+    },
+    {
+      "measure": "Number of participants with Tumor Lysis Syndrome (TLS)",
+      "timeFrame": "From the first dose of study drug to 30 days after the last dose or initiation of new anticancer therapy, whichever occurs first; up to approximately 12 months",
+      "description": "TLS will be determined via laboratory values and assessed by the investigator.\n\nIn laboratory tumor lysis syndrome, 2 or more metabolic abnormalities must be present during the 24-hour period within 3 days before the start of study drug treatment or up to 7 days afterward. Clinical tumor lysis syndrome requires the presence of laboratory tumor lysis syndrome plus an increased creatinine level, seizures, cardiac dysrhythmia, or death."
+    }
+  ],
+  "sponsor": "BeOne Medicines",
+  "collaborators": [],
+  "start_date": "2023-06-20",
+  "completion_date": "2026-05",
+  "last_updated": "2026-03-10"
+}

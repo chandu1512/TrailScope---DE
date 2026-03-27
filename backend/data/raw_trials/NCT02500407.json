@@ -1,0 +1,97 @@
+{
+  "nct_id": "NCT02500407",
+  "brief_title": "A Safety, Efficacy and Pharmacokinetic Study of BTCT4465A (Mosunetuzumab) as a Single Agent and Combined With Atezolizumab in Non-Hodgkin's Lymphoma (NHL) and Chronic Lymphocytic Leukemia (CLL)",
+  "official_title": "An Open-Label, Multicenter, Phase I/II Trial Evaluating the Safety, Efficacy, and Pharmacokinetics of Escalating Doses of Mosunetuzumab (BTCT4465A) as a Single Agent and Combined With Atezolizumab in Patients With Relapsed or Refractory B-Cell Non-Hodgkin's Lymphoma and Chronic Lymphocytic Leukemia",
+  "brief_summary": "This is a Phase 1/2 dose-escalation study of BTCT4465A (Mosunetuzumab) administered as a single agent and in combination with atezolizumab in participants with relapsed or refractory B-cell NHL and CLL. The study will consist of a dose-escalation stage and an expansion stage where participants will be enrolled into indication-specific cohorts.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 713,
+  "conditions": [
+    "Lymphocytic Leukemia, Chronic",
+    "Lymphoma, Non Hodgkin"
+  ],
+  "interventions": [
+    {
+      "name": "BTCT4465A (Mosunetuzumab) IV",
+      "type": "DRUG",
+      "description": "Participants with B-cell NHL and CLL will receive BTCT4465A (Mosunetuzumab) via IV infusion."
+    },
+    {
+      "name": "Atezolizumab",
+      "type": "DRUG",
+      "description": "Participants assigned to an atezolizumab combination group will receive atezolizumab 1200 mg administered as an IV infusion in combination with BTCT4465A (Mosunetuzumab)."
+    },
+    {
+      "name": "BTCT4465A (Mosunetuzumab) SC",
+      "type": "DRUG",
+      "description": "Participants with B-cell NHL and CLL will receive BTCT4465A (Mosunetuzumab) via SC injection."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* B-cell hematologic malignancies expected to express the cluster of differentiation 20 (CD20) antigen who have relapsed after or failed to respond to at least one prior treatment regimen and for whom there is no available therapy expected to improve survival\n* Adequate hepatic, hematologic, and renal function\n\nKey Exclusion Criteria:\n\n* Pregnant or lactating women\n* Monoclonal antibody, radioimmunoconjugate, antibody-drug conjugate, chemotherapy, or other investigational anti-cancer agent within 4 weeks prior to study drug\n* Treatment with radiotherapy within 2 weeks prior to the first BTCT4465A (Mosunetuzumab) administration\n* Systemic immunosuppressive medication within 2 weeks prior to study drug\n* Autologous stem cell transplantation (SCT) within 100 days prior to study drug, or any prior allogeneic SCT or solid organ transplantation\n* Autoimmune disease with the exception of controlled/treated hypothyroidism, disease-related immune thrombocytopenic purpura, or hemolytic anemia\n* History of central nervous system (CNS) lymphoma or other CNS disease\n* Significant cardiovascular or pulmonary disease\n* Hepatitis B or C or human immunodeficiency virus (HIV)\n* Receipt of a live attenuated vaccine within 4 weeks prior to study drug\n* Prior treatment with chimeric antigen receptor T-cell (CAR-T) therapy within 30 days before first BTCT4465A (Mosunetuzumab) administration",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Memorial Sloan Kettering Bergen",
+      "city": "Montvale",
+      "state": "New Jersey",
+      "zip": "07645",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum Tolerated Dose (MTD) of BTCT4465A (Mosunetuzumab)",
+      "timeFrame": "BTCT4465A (Mosunetuzumab) single agent: Cycle 1; BTCT4465A (Mosunetuzumab) in combination with atezolizumab: during the first cycle that BTCT4465A (Mosunetuzumab) and atezolizumab are administered concurrently (cycle length = 21 days)",
+      "description": ""
+    },
+    {
+      "measure": "Percentage of Participants With Adverse Events",
+      "timeFrame": "Cycle 1 Day 1 until 90 days after the last infusion (cycle length = 21 days; up to approximately 14 months)",
+      "description": ""
+    },
+    {
+      "measure": "BTCT4465A (Mosunetuzumab) Serum Concentration",
+      "timeFrame": "Baseline up to 30 days after the last infusion of BTCT4465A (Mosunetuzumab) (up to approximately 12 months)",
+      "description": ""
+    },
+    {
+      "measure": "Atezolizumab Serum Concentration",
+      "timeFrame": "Baseline up to 30 days after the last infusion of BTCT4465A (Mosunetuzumab) (up to approximately 12 months)",
+      "description": ""
+    },
+    {
+      "measure": "Percentage of Participants with Complete Response as Assessed Using Standard Criteria for NHL",
+      "timeFrame": "Baseline up to approximately 4 years (assessed at screening and then every 3 months until disease progression, start of new anti-cancer therapy, or withdrawal)",
+      "description": ""
+    }
+  ],
+  "sponsor": "Genentech, Inc.",
+  "collaborators": [],
+  "start_date": "2015-09-15",
+  "completion_date": "2025-09-01",
+  "last_updated": "2025-09-09"
+}

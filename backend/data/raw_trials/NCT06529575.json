@@ -1,0 +1,49 @@
+{
+  "nct_id": "NCT06529575",
+  "brief_title": "Evaluating the Relationship Between Skin Color and Pulse Oximeter Accuracy in Children",
+  "official_title": "Evaluating the Relationship Between Skin Color and Pulse Oximeter Accuracy in Children",
+  "brief_summary": "This multisite study seeks to understand whether and how pulse oximeter accuracy varies across children with different skin colors in real world clinical settings. Many factors can affect how well pulse oximeters work; for example, movement and even fingernail polish. Some studies in adults show that skin color may also affect the pulse oximeter reading. In this study, we will explore pulse oximeter accuracy in children of all skin colors who are undergoing cardiac catheterizations. The study will address limitations of prior work by objectively measuring skin color across multiple dimensions of color and comparing the the pulse oximeter reading to the \"gold standard\" blood sample measurement.",
+  "detailed_description": "This multisite, prospective, observational study will be conducted in a population of children under 18 years old who are undergoing cardiac catheterization. The primary aim of the study is to quantify pulse oximeter accuracy in children with varying skin colors. Children undergoing cardiac catheterization are a unique population in which to study pulse oximeter accuracy because they have a wide range of baseline arterial oxygen saturations secondary to their cardiac conditions, allowing for evaluation of pulse oximeter accuracy across a range of arterial oxygen saturations. Children undergoing cardiac catheterization are continuously monitored with pulse oximeters and also have direct measurement of arterial blood oxygen via co-oximeter as part of routine care. The results of this study will contribute much needed knowledge about pulse oximeter accuracy in children to better understand potential clinical implications.\n\nDimensions of skin colors (melanin index, redness etc) will be objectively measured using spectrophotometry. During and after the catheterization procedure, clinical data already collected during the course of clinical care will be recorded by the study team, including pulse oximeter output and arterial blood oxygen saturation measurement obtained during the procedure. The primary outcome of interest is the difference between the pulse oximeter reading and the direct measurement of arterial blood oxygen.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 650,
+  "conditions": [
+    "Pediatric ALL",
+    "Cardiac Defect"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Child is between 1 month and 18 years old\n* Child is undergoing a cardiac catheterization procedure that typically involves direct arterial oxygen saturation measurement by co-oximeter from a location reflective of systemic saturation.\n\nExclusion Criteria:\n\n* Child previously participated in the study\n* Child has differential cyanosis across extremities\n* Child is receiving an intravenous vasoconstrictor prior to procedure\n* Child has a ventricular assist device (VAD)",
+    "gender": "ALL",
+    "min_age": "4 Weeks",
+    "max_age": "18 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Pulse Oximeter Bias",
+      "timeFrame": "The variables used to calculate Pulse Oximeter Bias are collected once during the cardiac catheterization procedure. This is a cross-sectional observational study; participants are not followed longitudinally.",
+      "description": "Pulse oximeter bias is the difference between the pulse oximeter value (estimated % oxygen saturation measured via pulse oximeter) and the gold standard measure of arterial oxygen saturation (% oxygen saturation in blood sample measured via co-oximeter)."
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [
+    "Children's Hospital of Philadelphia",
+    "Baylor College of Medicine",
+    "Columbia University",
+    "National Heart, Lung, and Blood Institute (NHLBI)"
+  ],
+  "start_date": "2024-08-14",
+  "completion_date": "2028-12",
+  "last_updated": "2025-09-05"
+}

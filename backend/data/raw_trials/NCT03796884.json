@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT03796884",
+  "brief_title": "Linaclotide in Treating Patients With Stages 0-3 Colorectal Cancer",
+  "official_title": "Phase II Randomized, Placebo-Controlled Trial of Linaclotide to Demonstrate Bioactivity in Patients With Sporadic Colorectal Adenomas and With Colorectal Cancer",
+  "brief_summary": "This phase II trial studies the how well linaclotide works in treating patients with stages 0-3 colorectal cancer. Linaclotide is a very small protein that binds to receptors on intestinal cells and makes them secrete water and salt.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine whether, compared to placebo, linaclotide administered as a single oral daily dose x 7 days, induces a pharmacodynamics (PD) effect on cGMP levels, based on biopsy samples of adenomas or resected colorectal adenocarcinomas.\n\nSECONDARY OBJECTIVES:\n\nI. To compare Ki-67, guanylin levels and GUCY2C expression in adenomas and cancers versus normal tissue after exposure to linaclotide or placebo.\n\nII. To confirm the safety and tolerability of linaclotide in sporadic adenoma and cancer patients.\n\nTRANSLATIONAL OBJECTIVE:\n\nI. To assess the pharmacodynamic effect of linaclotide on pathway-specific biomarkers relevant to GUCY2C signaling (i.e. VASP phosphorylation), markers of mutant APC-beta-catenin signaling (beta-catenin levels, beta-catenin nuclear localization, axin levels, c-Myc levels, guanylin levels, PCNA expression), based on adenoma/cancer and normal mucosa biopsy samples obtained by endoscopy following linaclotide or placebo exposure.\n\nOUTLINE: Patients are randomized to 1 of 2 arms.\n\nARM I: Patients receive linaclotide orally (PO) daily on days 1-7 and undergo standard of care colonoscopy or surgery on day 7.\n\nARM II. Patients receive placebo PO QD on days 1-7 and undergo standard of care colonoscopy or surgery on day 7.\n\nAfter completion of study treatment, patients are followed up at day 14.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 230,
+  "conditions": [
+    "Colorectal Adenoma",
+    "Stage 0 Colorectal Cancer AJCC v8",
+    "Stage I Colorectal Cancer AJCC v8",
+    "Stage II Colorectal Cancer AJCC v8",
+    "Stage IIA Colorectal Cancer AJCC v8",
+    "Stage IIB Colorectal Cancer AJCC v8",
+    "Stage IIC Colorectal Cancer AJCC v8",
+    "Stage III Colorectal Cancer AJCC v8",
+    "Stage IIIA Colorectal Cancer AJCC v8",
+    "Stage IIIB Colorectal Cancer AJCC v8",
+    "Stage IIIC Colorectal Cancer AJCC v8"
+  ],
+  "interventions": [
+    {
+      "name": "Linaclotide",
+      "type": "DRUG",
+      "description": "Given PO"
+    },
+    {
+      "name": "Placebo",
+      "type": "OTHER",
+      "description": "Given PO"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* History of 1 or more sporadic colorectal adenoma on previous endoscopy (adenoma cohort) or stage 0-3 biopsy proven colorectal cancer (CRC) (colorectal cancer cohort) who are scheduled for a surgical procedure\n* Ability to understand and willingness to sign a written informed consent document and follow study procedures\n* Ability to swallow capsules without difficulty\n* Ability to maintain pill diaries\n* Willingness to employ adequate contraception for men and women of childbearing potential for the duration of the study. Acceptable methods include double barrier methods, intrauterine device (IUD), postmenopausal status, and/or documentation of surgical sterilization\n* Participants must have no chronic, clinically severe health issues which, in the opinion of their physician or the research team, could preclude trial activities including the one week drug exposure phase\n\nExclusion Criteria:\n\n* History of gastroparesis\n* History of celiac disease\n* Inflammatory bowel disease (Crohn's disease, ulcerative colitis)\n* Microscopic colitis, including collagenous colitis\n* Has taken linaclotide within 30 days prior to consent\n* Any malignancy except colorectal cancer or any active radiotherapy or cytotoxic chemotherapy within the last 6 months of baseline. Participants with a history of basal cell or squamous cell skin cancer may be enrolled at the discretion of the investigator\n* Participants may not be receiving any other investigational agents, or be active participants in any clinical trials. If participants previously participated in a clinical trial, a 30 day washout period for the investigational drug is needed before the participant can be considered for this study\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to linaclotide\n* Uncontrolled current illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant or lactating women\n* History of bleeding/coagulation problems. Concurrent use of nonsteroidal anti-inflammatory drugs (NSAIDs) including aspirin is acceptable\n* Any medical condition judged by the investigator to constitute a risk to safe participation\n* At risk for obstructing or near-obstructing mechanical gastrointestinal obstruction\n* Chronic use of anti-coagulants or non-NSAID anti-platelet agents will serve as an exclusion only when such medications cannot be safely discontinued before study related endoscopy or surgery",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19126",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Pharmacodynamics effect on cGMP levels",
+      "timeFrame": "Up to 2 years, plus an additional 12 months for primary analysis",
+      "description": "Will compare cGMP levels in adenomas between study arms using a two-sample t-test (alpha=.05; two-sided) or Wilcoxon rank sum test."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [
+    "United States Department of Defense"
+  ],
+  "start_date": "2019-10-30",
+  "completion_date": "2026-06-30",
+  "last_updated": "2025-10-10"
+}

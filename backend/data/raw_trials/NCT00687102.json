@@ -1,0 +1,99 @@
+{
+  "nct_id": "NCT00687102",
+  "brief_title": "Cognition in the Study of Tamoxifen and Raloxifene",
+  "official_title": "Effects of Selective Estrogen Receptor Modulators on Cognitive Aging: Cognition in the Study of Tamoxifen and Raloxifene",
+  "brief_summary": "The purpose of this study is to assess the effects of tamoxifen and raloxifene on cognitive aging in selected cognitively-healthy women.",
+  "detailed_description": "Recent reports indicate that hormone therapy (HT) may have a protective effect on the aging brain. Although previous studies have examined the effects of HT on age-related cognitive changes, there is little information on the effect of a new class of estrogenic agents, selective estrogen receptor modulators (SERMs), on cognitive aging. The two most commonly prescribed SERMs are tamoxifen, for treatment and prevention of breast cancer, and raloxifene, for maintaining bone density. In the face of potential widespread use of SERMs in healthy women, information on the effects of these agents on memory and other cognitive functions is essential.\n\nThe principal goals of Co-STAR are to compare the effects of tamoxifen and raloxifene\n\n* on age-associated declines in measures of verbal and nonverbal memory in women over age 65\n* other cognitive abilities and mood\n* with those resulting from more common forms of HT, specifically ET (conjugated equine estrogen) and ET plus progesterone\n\nCo-STAR results will be compared to results from the Women's Health Initiative Study of Cognitive Aging (WHISCA), a study involving 6-year longitudinal assessment of cognitive outcomes in 2969 women randomly assigned to receive active treatment (Premarin or Premarin plus medroxyprogesterone acetate) or placebo. A comparison of the Co-STAR treatment groups with the group of WHISCA participants receiving placebo will provide insights into the effects of SERMs relative to no treatment. A comparison of the Co-STAR treatment groups with WHISCA treatment groups receiving ET or ET plus progesterone will provide insights into the effects of SERMs relative to common HT treatments.\n\nCo-STAR participants will be recruited from The National Cancer Institute's (NCI) Study of Tamoxifen and Raloxifene (STAR) NCT00003906, a multi-center, 5-year, randomized clinical trial among 22,000 women at increased risk for breast cancer, to compare the effects of tamoxifen and raloxifene on risk for breast cancer.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1498,
+  "conditions": [
+    "Cognition",
+    "Aging"
+  ],
+  "interventions": [
+    {
+      "name": "tamoxifen",
+      "type": "DRUG",
+      "description": "oral tamoxifen plus placebo daily for 5 years"
+    },
+    {
+      "name": "raloxifene",
+      "type": "DRUG",
+      "description": "oral raloxifene plus placebo daily for 5 years"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Women enrolled in STAR trial at a site participating in Co-STAR\n* 65 years of age or older\n* Have been randomized into STAR but have not started taking the study drug OR enrolled in STAR for a minimum of one year\n* Have not been diagnosed with dementia\n* Have signed a separate consent document for the Co-STAR Study\n* Previous diagnoses of chronic neurologic disease (Parkinson's disease, stroke, epilepsy, multiple sclerosis), history of head injury, depression, alcohol addiction, drug addiction, and other neurologic or psychiatric conditions will be recorded but will not serve as exclusion factors for this study\n\nExclusion Criteria:\n\n* Not enrolled in the STAR Trial\n* Younger than 65 years of age\n* Diagnosed with dementia",
+    "gender": "FEMALE",
+    "min_age": "65 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Christiana Care Health Services",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19718",
+      "status": ""
+    },
+    {
+      "facility": "The Harry and Jeanette Weinberg Cancer Institute at Franklin Square",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Riverview Medical Center",
+      "city": "Red Bank",
+      "state": "New Jersey",
+      "zip": "07701",
+      "status": ""
+    },
+    {
+      "facility": "UPMC/UPCI/Magee Women's Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "Mercy Cancer Center, Scranton",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18501",
+      "status": ""
+    },
+    {
+      "facility": "York Cancer Center",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Mean Change From Baseline on the the Benton Visual Retention Test Scores by Treatment Group",
+      "timeFrame": "Baseline and 3 Years",
+      "description": "Mean Change From Baseline on the Benton Visual Retention (BVRT) Test scores. Adjusted for age, ethnicity, education, and baseline measure, for participants with true baseline measures.\n\nThe BVRT measures short term visual memory and visuo-constructional abilities. Each of 10 designs was presented one at a time for 10 seconds, and immediately after the design was withdrawn, the participant was instructed to draw it from memory on a blank sheet of paper. The score on the BVRT is the total number of errors, 0-26 represents the total number of theoretically possible errors. Lower score denotes better outcomes."
+    },
+    {
+      "measure": "Mean Change From Baseline on the the California Verbal Learning Test Scores by Treatment Group",
+      "timeFrame": "Baseline and 3 Years",
+      "description": "Adjusted for age, ethnicity, education, and baseline measure, for participants with true baseline measures.\n\nThe experimenter reads a list of 16 nouns aloud, at one-second intervals, in fixed order, over 3 learning trials (list A) . After each trial, the subject is asked to recall as many words as they can in any order (i.e., free recall) given a score 0-16 each. Total range as the sum of the 3 learning trials: 0 - 48. Participants were asked to recall a second interference list (List B) with a score range of 0-16. Free recall of list A are tested immediately after list B (short-delay) Total range 0- 16 , and again after 20 minutes (long-delay) 0-16. Each part of the scale is reported separately as Total List A trials, Total List B trials, Short-delay free recall, and Long-delay free recall."
+    }
+  ],
+  "sponsor": "Wake Forest University",
+  "collaborators": [
+    "National Institute on Aging (NIA)"
+  ],
+  "start_date": "2001-10",
+  "completion_date": "2008-03",
+  "last_updated": "2018-08-13"
+}

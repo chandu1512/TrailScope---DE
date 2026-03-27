@@ -1,0 +1,133 @@
+{
+  "nct_id": "NCT00053196",
+  "brief_title": "Donor Stem Cell Transplant in Treating Patients With Relapsed Hematologic Cancer",
+  "official_title": "Non-Myeloablative Allogeneic Hematopoietic Cell Transplantation For Patients With Disease Relapse Or Myelodysplasia After Prior Autologous Transplantation",
+  "brief_summary": "RATIONALE: Giving low doses of chemotherapy, such as fludarabine and busulfan, before a donor bone marrow or peripheral blood stem cell transplant helps stop the growth of cancer cells. It also stops the patient's immune system from rejecting the donor's stem cells. The donated stem cells may replace the patient's immune system and help destroy any remaining cancer cells (graft-versus-tumor effect). Giving an infusion of the donor's T cells (donor lymphocyte infusion) after the transplant may help increase this effect. Sometimes the transplanted cells from a donor can also make an immune response against the body's normal cells. Giving immunosuppressive therapy after the transplant may stop this from happening.\n\nPURPOSE: This phase II trial is studying how well donor bone marrow or peripheral stem cell transplant works in treating patients with relapsed hematologic cancer after treatment with chemotherapy and autologous stem cell transplant.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the feasibility of non-myeloablative allogeneic hematopoietic stem cell transplantation by demonstrating that the risk of treatment-related mortality during the first 6 months is an acceptable rate of less than 40% in patients with relapsed hematologic malignancies after prior high-dose chemotherapy and autologous stem cell transplantation.\n* Determine the response rates (disease-specific partial and complete response) in patients treated with this regimen.\n* Determine the 6-month and 12-month probabilities of response in patients treated with this regimen.\n* Determine the distribution of time-to-progression in patients responding to this regimen.\n* Determine the percent donor chimerism in patients treated with this regimen.\n* Determine the risk of acute and chronic graft-vs-host disease in patients treated with this regimen.\n* Determine the toxic effects of this regimen in these patients.\n* Determine the disease-free and overall survival of patients treated with this regimen.\n\nOUTLINE: This is an open-label study.\n\n* Preparative Regimen: Patients receive fludarabine IV over 30 minutes on days -7 to -3 and busulfan IV over 2 hours every 6 hours (for a total of 8 doses) on days -4 and -3.\n* Graft vs Host Disease (GVHD) Prophylaxis: Patients who have an HLA-identical donor receive oral (or IV if unable to tolerate oral administration) tacrolimus twice daily on days -1 to 90 followed by a taper\\^\\* until day 150 and methotrexate IV on days 1, 3, and 6. Patients with a matched related or matched unrelated donor receive oral (or IV if unable to tolerate oral administration) tacrolimus twice daily on days -1 to 180 followed by a taper\\^\\* as tolerated; methotrexate IV on days 1, 3, 6, and 11; oral mycophenolate mofetil twice daily on days -2 to 60 followed by a taper; and rabbit anti-thymocyte globulin IV over 4-6 hours on days -4 to -1 (for a total of 4 doses).\n\nNOTE: \\*Tacrolimus may be tapered on days 60-90 if donor chimerism of CD3+ cells is less than 50% at day 60 or patient has progressive disease\n\n* Allogeneic Stem Cell Transplantation: Patients undergo allogeneic bone marrow or peripheral blood stem cell transplantation on days 0 and 1. Patients then receive filgrastim (G-CSF) subcutaneously daily beginning on day 7 and continuing until blood counts recover.\n* Donor Lymphocyte Infusion (DLI): After day 180 (or day 210 for patients without an HLA-identical donor), patients with stable or progressive disease and no active GVHD may receive up to 3 DLIs every 8 weeks.\n\nPatients are followed within 2-3 months, every 3 months for 2 years, and then every 6 months for 3 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 82,
+  "conditions": [
+    "Leukemia",
+    "Lymphoma",
+    "Multiple Myeloma",
+    "Plasma Cell Neoplasm",
+    "Myelodysplastic Syndromes",
+    "Myeloproliferative Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "anti-thymocyte globulin",
+      "type": "BIOLOGICAL",
+      "description": "2.5mg/kg/day IV infusion over 6 hrs x 4 doses Days -4 to -1 (for MUD and 9/10 related donor transplants only)"
+    },
+    {
+      "name": "G-CSF",
+      "type": "BIOLOGICAL",
+      "description": "5 ug/kg/day subQ injection Day 7 until ANC\\> 1000/uL for 3 consec days"
+    },
+    {
+      "name": "busulfan",
+      "type": "DRUG",
+      "description": "0.8mg/kg IV infusion over 2 hrs q 6 hrs x 8 doses Days -4 thru -3"
+    },
+    {
+      "name": "fludarabine phosphate",
+      "type": "DRUG",
+      "description": "30 mg/sq m/day IVBP over 30 min Days -7 thru -3"
+    },
+    {
+      "name": "methotrexate",
+      "type": "DRUG",
+      "description": "5 mg/sq m/day IV infusion Days 1, 3, \\& 6 for HLA-identical donor transplants and Days 1, 3, 6, \\& 11 for MUD \\& 9/10 related donor transplants"
+    },
+    {
+      "name": "mycophenolate mofetil",
+      "type": "DRUG",
+      "description": "15mg/kg PO bid Day -2 to Day 60, then taper as tolerated (for MUD and 9/10 related donor transplants only)"
+    },
+    {
+      "name": "tacrolimus",
+      "type": "DRUG",
+      "description": "target serum level is 5-10 ng/mL. Start with 0.03mg/kg PO bid Day -1 to Day 90, then taper thru Day 150 for HLA identical donor transplants and Day -1 to Day 180 then taper for MUD and 9/10 related donor transplants"
+    },
+    {
+      "name": "allogeneic cell transplantation",
+      "type": "PROCEDURE",
+      "description": "2,000,000-8,000,000 CD34+ cells total via infusion Days 0 and 1"
+    },
+    {
+      "name": "allopurinol",
+      "type": "DRUG",
+      "description": "300 mg/day PO Days -8 thru -1"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed hematologic malignancy, including one of the following:\n\n  * Chronic lymphocytic leukemia (CLL)\n\n    * Absolute lymphocytosis greater than 5,000/mm\\^3\n    * Lymphocytes must appear morphologically mature with less than 55% prolymphocytes\n    * Lymphocyte phenotype with expression of CD19 and CD5\n  * Prolymphocytic leukemia (PLL)\n\n    * Morphologically confirmed\n    * Absolute lymphocytosis greater than 5,000/mm\\^3\n    * More than 55% prolymphocytes\n  * Non-Hodgkin's lymphoma or Hodgkin's lymphoma\n\n    * Any WHO histologic subtype allowed except mantle cell lymphoma\n    * Core biopsies allowed if they contain adequate tissue for primary diagnosis and immunophenotyping\n    * No bone marrow biopsy as the sole diagnostic means for follicular lymphoma\n  * Multiple myeloma\n\n    * Active disease requiring treatment\n    * Durie-Salmon stage I, II, or III\n  * Acute myeloid leukemia\n\n    * Documented control (i.e., less than 10% bone marrow blasts and no circulating blasts)\n  * Myelodysplastic syndromes\n\n    * Documented disease by WHO criteria\n* Must have evidence of relapse/progression at least 6 months after prior high-dose chemotherapy with autologous hematopoietic stem cell support\n* Absence of CD23 expression for CLL or PLL allowed provided there is no morphologic evidence of mantle cell lymphoma\n* Availability of any of the following donor types:\n\n  * HLA-identical sibling (6/6)\n  * 9/10 matched related donor by high-resolution molecular typing at HLA A, B, C, DRB1, and DQB1 loci\n\n    * Only a single mismatch at one class I or II allele allowed\n  * 10/10 matched unrelated donor by high-resolution molecular typing at HLA A, B, C, DRB1, and DQB1 loci\n* No syngeneic donors\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* Under 70\n\nPerformance status\n\n* Not specified\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* See Disease Characteristics\n\nHepatic\n\n* Bilirubin no greater than 3 times upper limit of normal (ULN)\n* AST no greater than 3 times ULN\n\nRenal\n\n* Creatinine clearance at least 40 mL/min\n\nCardiovascular\n\n* LVEF at least 30% by MUGA\n\nPulmonary\n\n* DLCO greater than 40%\n* No symptomatic pulmonary disease\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* HIV negative\n* No uncontrolled diabetes mellitus\n* No active serious infection\n* No known hypersensitivity to E. coli-derived products\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* See Disease Characteristics\n\nChemotherapy\n\n* See Disease Characteristics\n* More than 4 weeks since prior chemotherapy\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* More than 4 weeks since prior radiotherapy\n\nSurgery\n\n* More than 4 weeks since prior surgery",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "69 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Beebe Medical Center",
+      "city": "Lewes",
+      "state": "Delaware",
+      "zip": "19958",
+      "status": ""
+    },
+    {
+      "facility": "CCOP - Christiana Care Health Services",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "St. Francis Hospital",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19805",
+      "status": ""
+    },
+    {
+      "facility": "Union Hospital Cancer Center at Union Hospital",
+      "city": "Elkton MD",
+      "state": "Maryland",
+      "zip": "21921",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey at the Cooper University Hospital - Voorhees",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    },
+    {
+      "facility": "Western Pennsylvania Cancer Institute at Western Pennsylvania Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224-1791",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Treatment-related mortality",
+      "timeFrame": "6 months post transplant",
+      "description": ""
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2002-12",
+  "completion_date": "2010-08",
+  "last_updated": "2016-06-30"
+}

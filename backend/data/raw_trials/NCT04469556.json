@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT04469556",
+  "brief_title": "Pancreatic Adenocarcinoma Signature Stratification for Treatment",
+  "official_title": "Pancreatic Adenocarcinoma Signature Stratification for Treatment",
+  "brief_summary": "This is a randomized multicentre phase II trial with a large translational component. The trial will evaluate the two standard chemotherapy regimens: modified folfirinox (mFFX) and gemcitabine/nab-paclitaxel (GA), in patients with untreated metastatic pancreatic ductal adenocarcinoma. Integrated into this phase II trial are a number of laboratory components including molecular profiling, patient derived organoid establishment, and drug testing sensitivity and other biomarkers.",
+  "detailed_description": "The two chemotherapy regimens GA and mFFX remain standard treatment options without biomarkers to predict response. PASS-01 will for the first time explore progression free survival differences in the two standard backbone regimens used in the advanced setting. Biomarker driven strategies in pancreatic ductal adenocarcinoma (PDAC) are lacking, perhaps accounting for a large number of failed phase II studies. This study will evaluate two standard of care chemotherapy regimens, but will also explore high content molecular profiling, chemotherapy sensitivity signatures, GATA6 and other putative biomarkers as predictors of response to chemotherapy. In addition, the use of patient derived organoid models for personalized medicine in PDAC will continue to develop within this study.\n\nApproximately 150 patients diagnosed with untreated metastatic pancreatic cancer will be randomized to either arm.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 150,
+  "conditions": [
+    "Pancreatic Cancer Metastatic",
+    "Pancreatic Ductal Adenocarcinoma",
+    "Advanced Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Folfirinox",
+      "type": "DRUG",
+      "description": "Chemotherapy"
+    },
+    {
+      "name": "Gemcitabine/nab-paclitaxel",
+      "type": "DRUG",
+      "description": "Chemotherapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients must have a histological or radiological diagnosis of untreated metastatic PDAC at screening with histology subsequently confirmed prior to randomization.\n2. Eligible histologic variants include adenocarcinoma or variants to include mucinous adenocarcinoma or adenosquamous carcinoma.\n3. Patients with a history of prior or concurrent second primary malignancy whose natural history or treatment does not have the potential to interfere with the safety or primary endpoint efficacy assessment of the pancreas cancer should generally be eligible for enrollment in clinical trials.\n4. Age \u226518 years.\n5. Patient must have a tumor lesion that is amenable to a core needle biopsy.\n6. Patients must be suitable for treatment with either mFFX and GA without contraindications to either regimen.\n7. Eastern Cooperative Group (ECOG) performance status 0-1. (Karnofsky \u226570%).\n8. Life expectancy of greater than 90 days, as judged by the investigator\n9. Women of child-bearing potential (WOCBP) must have a negative serum pregnancy test and must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation.\n10. Within 14 days of the proposed randomization date, patients must have normal organ and marrow function\n\nExclusion Criteria:\n\n1. Patients who have received prior systemic treatment for PDAC, including treatment in the neoadjuvant or adjuvant setting. Prior surgery or palliative radiation is permitted.\n2. Patients with histology other than pancreatic ductal adenocarcinoma. Those with adenosquamous are allowed. Acinar tumors and colloid are excluded.\n3. Patients with one or more contraindications to tumor biopsy according to local institution's standard biopsy procedures.\n4. Patients with known brain metastases are excluded from participation in this clinical study.\n5. Uncontrolled inter-current illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, inability to stop anticoagulation medication for a biopsy, or psychiatric illness/social situations that would limit compliance with study requirements.\n6. Any other condition that would, in the Investigator's judgment, contraindicate the patient's participation in the clinical study due to safety concerns or compliance with clinical study procedures.\n7. Patients with a known germline mutation in BRCA, PALB2 or other homologous Recombination Repair Deficiency (HRD) genes.\n8. Patients who are pregnant or breastfeeding.\n9. Use (including 'recreational use') of any illicit drugs or other substance abuse (including alcohol) that could potentially interfere with adherence to study procedures or requirements. \\*Use of any illicit drugs or other substance abuse (including alcohol) are not screened in Canada using Toxicity testing. -",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression free survival(PFS) in mFFX and GA arms pancreatic ductal adenocarcinoma (PDAC) in a randomized phase II trial.",
+      "timeFrame": "2-4 years",
+      "description": "Time from the date of randomization to progression based on the radiology assessment of response using RECIST v1.1, or death, whichever is earlier"
+    }
+  ],
+  "sponsor": "University Health Network, Toronto",
+  "collaborators": [
+    "Johns Hopkins University",
+    "Cold Spring Harbor Laboratory",
+    "Ontario Institute for Cancer Research",
+    "Dana-Farber Cancer Institute",
+    "Memorial Sloan Kettering Cancer Center",
+    "Stand Up To Cancer"
+  ],
+  "start_date": "2020-10-14",
+  "completion_date": "2025-03-05",
+  "last_updated": "2026-02-18"
+}

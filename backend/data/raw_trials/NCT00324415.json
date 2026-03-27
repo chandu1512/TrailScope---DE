@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT00324415",
+  "brief_title": "Combined Modality Therapy for Patients With With HIV and Stage I, Stage II, or Stage III Anal Cancer",
+  "official_title": "Phase II Trial of Combined Modality Therapy Plus Cetuximab in HIV-Associated Anal Carcinoma",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as cisplatin and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as cetuximab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Radiation therapy uses high-energy x-rays to kill tumor cells. Giving cisplatin, fluorouracil, and cetuximab together with radiation therapy may kill more tumor cells.\n\nPURPOSE: This phase II trial is studying how well giving cisplatin, fluorouracil, and cetuximab together with radiation therapy works in treating patients with HIV and stage I, stage II, or stage III anal cancer.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* Determine the 2-year local failure rate in patients with HIV-associated stage I-IIIB anal carcinoma treated with cisplatin, fluorouracil, cetuximab, and radiotherapy.\n* Determine the objective response rate (complete and partial), progression-free survival, relapse-free survival, colostomy-free survival, overall survival, quality of life, and overall toxicity in patients treated with this regimen.\n\nSecondary\n\n* Characterize the effect of this regimen on the underlying HIV condition by describing changes in viral load, CD4 counts, and the incidence of opportunistic illnesses, including the development of AIDS during and in the first year after treatment.\n* Evaluate the effect of this regimen on anogenital human papilloma virus (HPV) infection and anal cytology.\n\nOUTLINE: This is an open-label, multicenter study.\n\nPatients receive cetuximab IV over 1-2 hours on days 1, 8, 15, 22, 29, and 35\\*, fluorouracil IV continuously on days 1-4 and 29-32, and cisplatin IV over 1 hour on days 1 and 29. Beginning on day 1, patients undergo concurrent radiotherapy to the primary tumor 5 days a week for 5-7 weeks. Treatment continues in the absence of disease progression or unacceptable toxicity.\n\nNOTE: \\*Patients receiving 7 weeks of radiotherapy also receive cetuximab on days 42 and 49.\n\nQuality of life is assessed at baseline, at the completion of study treatment, and then at months 3, 6, 12, 24, and 36.\n\nAfter completion of study treatment, patients are followed periodically for 5 years.\n\nPROJECTED ACCRUAL: A total of 47 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 45,
+  "conditions": [
+    "Anal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "cetuximab",
+      "type": "BIOLOGICAL",
+      "description": "400 mg/m2 IV Day -7 (1 week before the cycle 1, Day 1 cisplatin/5-FU and RT), then 250 mg/m2 IV Days 1, 8, 15, 22, 29, 36 and 43 (a minimum of 6 and a maximum of 8 doses of cetuximab will be administered, including the loading dose)"
+    },
+    {
+      "name": "cisplatin",
+      "type": "DRUG",
+      "description": "75 mg/m2 IV on Day 1 (cycle 1) and Day 29 (cycle 2)"
+    },
+    {
+      "name": "fluorouracil",
+      "type": "DRUG",
+      "description": "1000 mg/m2/day by continuous intravenous infusion on Days 1-4 (cycle 1) and Days 29-32 (cycle 2)"
+    },
+    {
+      "name": "radiation therapy",
+      "type": "RADIATION",
+      "description": "Irradiation to tumor site and inguinal nodes beginning on cycle 1, Day 1 cisplatin/5-FU (minimum 45.0 Gy \\[5 weeks if given on schedule and without interruption\\], maximum 54.0 Gy \\[6 weeks if given on schedule and without interruption). IMRT may be used at the discretion of the treating physician."
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed stage I-IIIB invasive anal canal or perianal (anal margin) squamous cell carcinoma, including tumors with any of the following nonkeratinizing histologies:\n\n  * Basaloid\n  * Transitional cell\n  * Cloacogenic\n* Documented HIV infection by 1 of the following:\n\n  * Antibody detection\n  * Culture\n  * Quantitative assay of plasma HIV RNA\n\nPATIENT CHARACTERISTICS:\n\n* Karnofsky performance status 60-100%\n* Absolute neutrophil count \u2265 1,500/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Hemoglobin \u2265 10 g/dL (transfusions, epoetin alfa, or myeloid growth factor support allowed provided blood counts are stable for \u2265 2 weeks prior to study entry)\n* Creatinine \u2264 1.5 times upper limit of normal (ULN) OR creatinine clearance \\> 60 mL/min\n* AST and ALT \u2264 3 times ULN\n* Bilirubin \u2264 2 times ULN\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No acute active, serious, uncontrolled opportunistic infection\n* No other prior invasive malignancy diagnosed within the past 24 months, excluding in situ cervical cancer, anal dysplasia or carcinoma in situ, nonmelanoma skin carcinoma, or Kaposi's sarcoma that has not required systemic chemotherapy within the past 24 months\n* No peripheral neuropathy \\> grade 1\n* No severe or poorly controlled diarrhea\n* No medical or psychiatric illness that would preclude study requirements\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior chemotherapy or radiotherapy for this malignancy\n\n  * Prior radiotherapy for another condition (e.g., Kaposi's sarcoma) allowed",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Joan Karnell Cancer Center at Pennsylvania Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19106",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Locoregional Failure Rate at 3 Years",
+      "timeFrame": "3 years following completion of therapy",
+      "description": "Patients will be classified into two groups for purposes of primary endpoint analysis: failure or no failure at 3 years (in the primary analysis, patients lost to follow-up prior to 3 years will be considered failures). For the secondary endpoint of objective response, patients will be classified as responders"
+    }
+  ],
+  "sponsor": "AIDS Malignancy Consortium",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "The Emmes Company, LLC"
+  ],
+  "start_date": "2006-09",
+  "completion_date": "2016-05",
+  "last_updated": "2025-05-21"
+}

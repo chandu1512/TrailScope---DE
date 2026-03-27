@@ -1,0 +1,491 @@
+{
+  "nct_id": "NCT02595905",
+  "brief_title": "Cisplatin With or Without Veliparib in Treating Patients With Recurrent or Metastatic Triple-Negative and/or BRCA Mutation-Associated Breast Cancer With or Without Brain Metastases",
+  "official_title": "Phase II Randomized Placebo-Controlled Trial of Cisplatin With or Without ABT-888 (Veliparib) in Metastatic Triple-Negative Breast Cancer and/or BRCA Mutation-Associated Breast Cancer, With or Without Brain Metastases",
+  "brief_summary": "This randomized phase II trial studies how well cisplatin works with or without veliparib in treating patients with triple-negative breast cancer and/or BRCA mutation-associated breast cancer that has come back (recurrent) or has or has not spread to the brain (brain metastases). Drugs used in chemotherapy, such as cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. PARPs are proteins that help repair DNA mutations. PARP inhibitors, such as veliparib, can keep PARP from working, so tumor cells can't repair themselves, and they may stop growing. It is not yet known if cisplatin is more effective with or without veliparib in treating patients with triple-negative and/or BRCA mutation-associated breast cancer.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To compare the efficacy of cisplatin with or without ABT-888 (veliparib) on progression-free survival (PFS) in each of the following groups:\n\nIa. Patients with germline BRCA (gBRCA) mutation-associated breast cancer. Ib. Patients with germline BRCA wild-type breast cancer who have evidence of BRCAness phenotype.\n\nIc. Patients with germline BRCA wild-type breast cancer who do not have evidence of BRCAness phenotype.\n\nII. To compare the efficacy of cisplatin with or without ABT-888 on PFS in patients with triple negative and/or gBRCA mutation-associated breast cancer and brain metastases. (Brain Metastases Cohort)\n\nSECONDARY OBJECTIVES:\n\nI. For patients with gBRCA mutation associated breast cancer (group \"i\" above) or triple-negative breast cancer (TNBC) with (group \"ii\") or without (group \"iii\") BRCAness phenotype, to compare the efficacy of cisplatin with or without ABT-888 on overall survival (OS), response rate, and clinical benefit rate.\n\nII. To compare the differential benefit of ABT-888 across the three groups using both PFS and OS as outcomes.\n\nIII. For patients in the brain metastases cohort, to compare the efficacy of cisplatin with or without ABT-888 on OS.\n\nIV. For patients in the brain metastases cohort, to compare the efficacy of cisplatin with or without ABT-888 on intracranial and extracranial response rates (intracranial by Response Assessment Neuro-Oncology Criteria \\[RANO\\] and extracranial by Response Evaluation Criteria in Solid Tumors version 1.1 \\[RECIST 1.1\\]).\n\nV. To compare toxicities of ABT-888 to placebo in each of the four groups separately.\n\nTRANSLATIONAL OBJECTIVES:\n\nI. To evaluate the impact of homologous recombination deficiency score (independent of other BRCAness markers) on response rate (RR) and PFS in patients treated with chemotherapy versus chemotherapy plus ABT-888.\n\nII. To evaluate the overlap among various markers utilized to define the BRCAness phenotype.\n\nIII. To evaluate the combined impact of PAM50 basal subtype and BRCAness phenotype on RR and PFS in patients treated with chemotherapy versus chemotherapy plus ABT-888.\n\nIV. To evaluate the impact of BRCA1 mRNA expression (independent other BRCAness markers) on response rate (RR) and PFS in patients treated with chemotherapy versus chemotherapy plus ABT-888.\n\nV. Application of somatic BRCAness phenotype markers on metastatic tumor tissue to identify patients likely to benefit from platinum-based therapy and ABT-888.\n\nVI. To determine the overlap of BRCA phenotype (germline BRCA, BRCA-like, non-BRCA-like) with tissue PD-L1 status and to determine if ABT-888 (veliparib) benefit in BRCA-like patients is maintained when adjusting for PD-L1 status.\n\nVII. To evaluate circulating tumor cells - homologous recombination deficiency (CTC-HRD) status as a predictive biomarker of response to treatment with cisplatin plus ABT-888 (veliparib) versus cisplatin plus placebo.\n\nVIII. To evaluate circulating tumor deoxyribonucleic acid (ctDNA) HRR (homologous recombination repair) mutation status as a predictive marker of response to treatment with cisplatin plus ABT-888 (veliparib) versus cisplatin plus placebo.\n\nOUTLINE: Patients are randomized to 1 of 2 treatment arms.\n\nARM I: Patients receive cisplatin intravenously (IV) over 1 hour on day 1 and placebo orally (PO) twice daily (BID) on days 1-14. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.\n\nARM II: Patients receive cisplatin IV over 1 hour on day 1 and veliparib PO BID on days 1-14. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up every 9 weeks for 54 weeks, every 18 weeks until progression, and then every 6 months for up to 5 years after registration.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 344,
+  "conditions": [
+    "Metastatic BRCA Hereditary Breast Carcinoma",
+    "Metastatic Breast Carcinoma",
+    "Metastatic Malignant Neoplasm in the Brain",
+    "Metastatic Triple-Negative Breast Carcinoma",
+    "Recurrent Breast Carcinoma",
+    "Stage IV Breast Cancer AJCC v6 and v7"
+  ],
+  "interventions": [
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Laboratory Biomarker Analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "Placebo Administration",
+      "type": "OTHER",
+      "description": "Given PO"
+    },
+    {
+      "name": "Veliparib",
+      "type": "DRUG",
+      "description": "Given PO"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have metastatic and/or recurrent (distant or locoregionally recurrent) breast cancer and be HER2 non-over expressing per 2013 American Society of Clinical Oncology (ASCO)-College of American Pathologists (CAP) HER testing guidelines (0 or 1+ by immunohistochemistry \\[IHC\\]; and/or HER2 ratio \\< 2.0 and HER2 copy number \\< 4 signals/cell by in-situ hybridization \\[ISH\\])\n\n  * Local Regional Recurrence\n\n    * In the breast (after preserving therapy)\n    * In the chest wall (after mastectomy)\n    * In the ipsilateral/parasternal/infra-or supraclavicular lymph nodes\n    * In the skin of the chest wall (not breast)\n    * In the reconstructed breast\n* Patients must also meet at least one of the following criteria:\n\n  * Triple negative: histologically confirmed primary and/or metastatic site that is estrogen receptor (ER)-negative (=\\< 1%), progesterone receptor (PR)-negative (=\\< 1%), and HER2-negative\n  * BRCA mutation: previously confirmed deleterious breast cancer 1, early onset (BRCA1) or breast cancer 2, early onset (BRCA2) germline mutation or suspected deleterious BRCA1 or BRCA2 germline mutation if the classification being used is the 5-tier classification; documentation of germline test results are required\n* Patients must have measurable or non-measurable disease; patients must have a chest/abdominal/pelvis computed tomography (CT) scan (or positron emission tomography \\[PET\\]/CT of diagnostic quality, conventional or spiral) prior to registration; if the patient is unable to undergo CT with IV contrast due to allergy or renal insufficiency, a non-contrast CT may be performed; all scans needed for assessment of measurable disease must be performed within 28 days prior to registration; non-measurable disease must be assessed within 42 days prior to registration; all disease must be assessed and documented on the Baseline Tumor Assessment Form\n* Patients must be women or men \u2265 18 years of age\n* Patients must have adequate tissue available and must agree to have specimens submitted for germline BRCA deoxyribonucleic acid (DNA) sequencing and other correlative studies\n\n  * NOTE: Blood for BRCA mutation testing is to be collected and submitted after registration but before treatment\n* Patients must have had =\\< 1 prior cytotoxic regimen for metastatic disease (unless enrolling in the Progressive Brain Metastases Cohort); note that endocrine and immunotherapies do not count as cytotoxic regimens\n* Patients must have completed any prior radiation therapy and hormonal therapy at least 14 days prior to registration\n* Patients may receive bisphosphonates or denosumab concurrently with study treatment; if started prior to registration, it must be started at least 7 days prior to registration\n* Patients must have recovered to =\\< grade 2 following a significant adverse event or toxicity attributed to previous anti-cancer treatment except neurotoxicity which must be =\\< grade 1\n* Patients must have a performance status of 0-2 by Zubrod criteria\n* Absolute neutrophil count (ANC) of \\>= 1,500/mL (within 21 days prior to registration); patients must not have had a blood transfusion within 28 days prior to registration\n* Hemoglobin \\>= 10 g/dL (within 21 days prior to registration); patients must not have had a blood transfusion within 28 days prior to registration\n* Platelet count \\>= 100,000/ mL (within 21 days prior to registration); patients must not have had a blood transfusion within 28 days prior to registration\n* Bilirubin =\\< 1.5 mg/dL (or =\\< 3.0 mg/dL if due to Gilbert's syndrome or if liver metastases are present) (within 21 days prior to registration)\n* Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) =\\< 2.5 x institutional upper limit of normal (IULN) (or =\\< 5 x IULN if liver metastases are present) (within 21 days prior to registration)\n* Patients must have adequate renal function with serum creatinine level =\\< IULN within 21 days prior to registration\n* Patients must have serum chemistries (including potassium and magnesium) within 21 days prior to registration to obtain baseline values\n* Patients must be able to swallow whole capsules\n* Patients with a history of uncontrolled seizure disorder; including focal or generalized seizure may not have had a seizure within one year prior to registration\n* Patients with known brain metastases must either meet the additional criteria and enroll as part of the Progressive Brain Metastases Cohort, or have clinically controlled neurologic symptoms, defined as surgical excision and/or radiation therapy followed by 14 days of stable neurologic function prior to registration; patients with previously incidentally discovered or asymptomatic brain metastasis(es) must receive surgical excision and/or radiation therapy prior to registration; patients with progressive brain metastases following prior treatment are not eligible for the Standard Cohort, but may be considered for the Progressive Brain Metastases Cohort\n* Patients must have a complete history and physical examination within 28 days prior to registration\n* Patients of childbearing potential must not be pregnant (negative pregnancy test) or nursing due to the possibility of harm to a fetus or nursing infant from this treatment regimen; men and women of reproductive potential must have agreed to use an effective contraceptive method for 6 months after completion of study treatment; a woman is considered to be of \"reproductive potential\" if she has had menses at any time in the preceding 12 consecutive months; in addition to routine contraceptive methods, \"effective contraception\" also includes heterosexual celibacy and surgery intended to prevent pregnancy (or with a side-effect of pregnancy prevention) defined as a hysterectomy, bilateral oophorectomy or bilateral tubal ligation; however, if at any point a previously celibate patient chooses to become heterosexually active during the time period for use of contraceptive measures outlined in the protocol, he/she is responsible for beginning contraceptive measures\n* No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for five years\n* Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines\n* As part of the Oncology Patient Enrollment Network (OPEN) registration process the treating institution's identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study had been entered in the system\n* Progressive Brain Metastases Cohort\n\n  * S1416 is one study with two cohorts; patients who have progressive brain metastases after surgical excision and/or intracranial radiation will be in the Progressive Brain Metastases Cohort and will require a baseline magnetic resonance imaging (MRI); patients with previously treated brain metastases, stable disease and stable neurologic function for 14 days prior to trial registration will be in the Standard Cohort and may obtain MRI of the brain at the physician's discretion; randomization and treatment is the same for both cohorts\n  * In addition to all of the previous eligibility criteria, patients with progressive brain metastases who do not satisfy the conditions to enroll in the standard cohort (neurologic stability for 14 days following surgery and/or radiation therapy) must also meet the following criteria to enroll as part of the brain metastases cohort:\n\n    * Patients with progressive brain metastases must have a baseline brain MRI within 28 days prior to registration; brain metastases must be progressive and \\>= 10 mm in longest dimension on radiographic imaging AFTER prior intracranial radiation (IR) therapy (i.e., whole brain radiation therapy \\[WBRT\\], stereotactic radiosurgery \\[SRS\\], gamma knife \\[GK\\] or local equivalent); patients must not have evidence of diffuse leptomeningeal disease on brain MRI or by previously documented cerebrospinal fluid (CSF) cytology; discrete dural metastases are permitted; there must be no evidence of hemorrhage or impending herniation on baseline brain imaging; patients with contraindication to gadolinium-enhanced MRI imaging are not eligible\n    * Patients must be on a stable or decreasing dose of steroids for \\>= 7 days prior to registration\n    * If patient had an open brain biopsy, at least 28 days must have elapsed between biopsy and registration\n    * Patients enrolling in the Progressive Brain Metastases Cohort can have received up to 3 prior lines of cytotoxic chemotherapy for metastatic disease; note that for enrollment in the standard cohort, patients must have had =\\< 1 prior cytotoxic regimen for metastatic disease\n\nExclusion Criteria:\n\n* Patients must not have received prior cisplatin or poly (adenosine diphosphate \\[ADP\\]-ribose) polymerase (PARP) inhibitors; prior carboplatin in the adjuvant/neoadjuvant setting is allowed, if completed more than 12 months prior to study entry\n* Patients must not have received any chemotherapy within 14 days prior to registration\n* Patients must not have received any immunotherapy, biologic or any investigational drug within 28 days prior to registration; patients must not have received bevacizumab within 42 days prior to registration\n* Patients must not have a clinically relevant hearing impairment \\>= grade 2\n* Patients must not have treatment-related acute myeloid leukemia (AML) (t-AML)/myelodysplastic syndrome (MDS) or features suggestive of AML/MDS\n* Patients must not have had prior allogeneic bone marrow transplant or double umbilical cord blood transplantation\n* Patients must not have any incidence of or uncontrolled medical illness (e.g. active cardiac symptoms, active systemic infection, etc.) that would limit the patient's ability to participate in the protocol\n* Patients must not have baseline peripheral neuropathy that exceeds grade 1",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Beebe Medical Center",
+      "city": "Lewes",
+      "state": "Delaware",
+      "zip": "19958",
+      "status": ""
+    },
+    {
+      "facility": "Delaware Clinical and Laboratory Physicians PA",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Helen F Graham Cancer Center",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Medical Oncology Hematology Consultants PA",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Christiana Care Health System-Christiana Hospital",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19718",
+      "status": ""
+    },
+    {
+      "facility": "Beebe Health Campus",
+      "city": "Rehoboth Beach",
+      "state": "Delaware",
+      "zip": "19971",
+      "status": ""
+    },
+    {
+      "facility": "TidalHealth Nanticoke / Allen Cancer Center",
+      "city": "Seaford",
+      "state": "Delaware",
+      "zip": "19973",
+      "status": ""
+    },
+    {
+      "facility": "Christiana Care Health System-Wilmington Hospital",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19801",
+      "status": ""
+    },
+    {
+      "facility": "Greater Baltimore Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Holy Cross Hospital",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20910",
+      "status": ""
+    },
+    {
+      "facility": "Cooper Hospital University Medical Center",
+      "city": "Camden",
+      "state": "New Jersey",
+      "zip": "08103",
+      "status": ""
+    },
+    {
+      "facility": "AtlantiCare Health Park-Cape May Court House",
+      "city": "Cape May Court House",
+      "state": "New Jersey",
+      "zip": "08210",
+      "status": ""
+    },
+    {
+      "facility": "AtlantiCare Surgery Center",
+      "city": "Egg Harbor",
+      "state": "New Jersey",
+      "zip": "08234",
+      "status": ""
+    },
+    {
+      "facility": "Newark Beth Israel Medical Center",
+      "city": "Newark",
+      "state": "New Jersey",
+      "zip": "07112",
+      "status": ""
+    },
+    {
+      "facility": "Overlook Hospital",
+      "city": "Summit",
+      "state": "New Jersey",
+      "zip": "07902",
+      "status": ""
+    },
+    {
+      "facility": "Holy Name Hospital",
+      "city": "Teaneck",
+      "state": "New Jersey",
+      "zip": "07666",
+      "status": ""
+    },
+    {
+      "facility": "MD Anderson Cancer Center at Cooper-Voorhees",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    },
+    {
+      "facility": "Jefferson Abington Hospital",
+      "city": "Abington",
+      "state": "Pennsylvania",
+      "zip": "19001",
+      "status": ""
+    },
+    {
+      "facility": "Lehigh Valley Hospital-Cedar Crest",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Heritage Valley Health System Beaver",
+      "city": "Beaver",
+      "state": "Pennsylvania",
+      "zip": "15009",
+      "status": ""
+    },
+    {
+      "facility": "Lehigh Valley Hospital - Muhlenberg",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18017",
+      "status": ""
+    },
+    {
+      "facility": "Crozer-Keystone Regional Cancer Center at Broomall",
+      "city": "Broomall",
+      "state": "Pennsylvania",
+      "zip": "19008",
+      "status": ""
+    },
+    {
+      "facility": "Bryn Mawr Hospital",
+      "city": "Bryn Mawr",
+      "state": "Pennsylvania",
+      "zip": "19010",
+      "status": ""
+    },
+    {
+      "facility": "Christiana Care Health System-Concord Health Center",
+      "city": "Chadds Ford",
+      "state": "Pennsylvania",
+      "zip": "19317",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Center",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": ""
+    },
+    {
+      "facility": "Doylestown Hospital",
+      "city": "Doylestown",
+      "state": "Pennsylvania",
+      "zip": "18901",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center Erie",
+      "city": "Erie",
+      "state": "Pennsylvania",
+      "zip": "16505",
+      "status": ""
+    },
+    {
+      "facility": "Crozer Regional Cancer Center at Brinton Lake",
+      "city": "Glen Mills",
+      "state": "Pennsylvania",
+      "zip": "19342",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Centers - Arnold Palmer Pavilion",
+      "city": "Greensburg",
+      "state": "Pennsylvania",
+      "zip": "15601",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Pinnacle Harrisburg",
+      "city": "Harrisburg",
+      "state": "Pennsylvania",
+      "zip": "17101",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Pinnacle Cancer Center/Community Osteopathic Campus",
+      "city": "Harrisburg",
+      "state": "Pennsylvania",
+      "zip": "17109",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Center-Cancer Center Hazleton",
+      "city": "Hazleton",
+      "state": "Pennsylvania",
+      "zip": "18201",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Johnstown/John P. Murtha Regional Cancer Center",
+      "city": "Johnstown",
+      "state": "Pennsylvania",
+      "zip": "15901",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Oncology-Lewisburg",
+      "city": "Lewisburg",
+      "state": "Pennsylvania",
+      "zip": "17837",
+      "status": ""
+    },
+    {
+      "facility": "Lewistown Hospital",
+      "city": "Lewistown",
+      "state": "Pennsylvania",
+      "zip": "17044",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Center at UPMC McKeesport",
+      "city": "McKeesport",
+      "state": "Pennsylvania",
+      "zip": "15132",
+      "status": ""
+    },
+    {
+      "facility": "Riddle Memorial Hospital",
+      "city": "Media",
+      "state": "Pennsylvania",
+      "zip": "19063",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center in Coraopolis",
+      "city": "Moon Township",
+      "state": "Pennsylvania",
+      "zip": "15108",
+      "status": ""
+    },
+    {
+      "facility": "Consultants in Medical Oncology and Hematology?Newtown Square",
+      "city": "Newtown Square",
+      "state": "Pennsylvania",
+      "zip": "19073",
+      "status": ""
+    },
+    {
+      "facility": "Paoli Memorial Hospital",
+      "city": "Paoli",
+      "state": "Pennsylvania",
+      "zip": "19301",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Magee Womens Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Presbyterian Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Saint Margaret",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15215",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Cancer Institute (UPCI)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Shadyside Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Jefferson Regional Radiation Oncology",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15236",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Passavant Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15237",
+      "status": ""
+    },
+    {
+      "facility": "UPMC-Saint Clair Hospital Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15243",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Cancer Services-Pottsville",
+      "city": "Pottsville",
+      "state": "Pennsylvania",
+      "zip": "17901",
+      "status": ""
+    },
+    {
+      "facility": "Guthrie Medical Group PC-Robert Packer Hospital",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    },
+    {
+      "facility": "Community Medical Center",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18510",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Oncology-Selinsgrove",
+      "city": "Selinsgrove",
+      "state": "Pennsylvania",
+      "zip": "17870",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Center at UPMC Northwest",
+      "city": "Seneca",
+      "state": "Pennsylvania",
+      "zip": "16346",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Medical Group",
+      "city": "State College",
+      "state": "Pennsylvania",
+      "zip": "16801",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Uniontown Hospital Radiation Oncology",
+      "city": "Uniontown",
+      "state": "Pennsylvania",
+      "zip": "15401",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Washington Hospital Radiation Oncology",
+      "city": "Washington",
+      "state": "Pennsylvania",
+      "zip": "15301",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Wyoming Valley/Henry Cancer Center",
+      "city": "Wilkes-Barre",
+      "state": "Pennsylvania",
+      "zip": "18711",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Susquehanna",
+      "city": "Williamsport",
+      "state": "Pennsylvania",
+      "zip": "17701",
+      "status": ""
+    },
+    {
+      "facility": "Lankenau Medical Center",
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "zip": "19096",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free survival (PFS)",
+      "timeFrame": "Time from registration (randomization) to progression or death due to any cause, assessed up to 5 years",
+      "description": "Veliparib will be compared to no veliparib in the BRCA mutation-carriers, BRCA mutation-negative BRCAness-like group, and BRCA mutation-negative non-BRCA-like group. A stratified log-rank test will be used to compare PFS between the two arms in an intention to treat (ITT) analysis where stratification is by line of therapy. In the Progressive Brain Metastases Cohort, veliparib will be compared to no veliparib in patients with active brain metastases that are progressive after prior intracranial therapy. A stratified log-rank test will be used to compare PFS between the two arms in an ITT analysis where stratification is by Modified Breast-Graded Prognostic Assessment (GPA) and prior systemic therapies."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2016-09-15",
+  "completion_date": "2025-03-21",
+  "last_updated": "2025-05-15"
+}

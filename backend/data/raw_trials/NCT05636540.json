@@ -1,0 +1,87 @@
+{
+  "nct_id": "NCT05636540",
+  "brief_title": "In Vivo PARP-1 Expression With 18F-FluorThanatrace PET/CT in Patients With Pheochromocytoma and Paraganglioma",
+  "official_title": "Evaluating in Vivo PARP-1 Expression With 18F-FluorThanatrace Positron Emission Tomography (PET/CT) in Patients With Pheochromocytoma and Paraganglioma",
+  "brief_summary": "This study will enroll up to 30 evaluable patients with pheochromocytoma or paraganglioma who are undergoing surgical or systemic treatment.\n\nA pre-treatment 18F-FluorThanatrace (\\[18F\\]FTT) positron emission tomography/computed tomography (PET/CT) scan will be done prior to surgery or systemic therapy.\n\nPET/CT imaging will be used to evaluate PARP-1 expression in sites of pheochromocytoma or paraganglioma using the investigational radiotracer \\[18F\\]FTT. This is an observational study in that \\[18F\\]FTT PET/CT will not be used to direct treatment decisions. While patients and referring physicians will not be blinded to the \\[18F\\]FTT PET/CT results, treatment decisions will be made by the treating physicians based upon clinical criteria.",
+  "detailed_description": "Up to 30 patients who will undergo approximately 60 minutes of dynamic scanning head to thigh starting at approximately the same time as the injection, this will be followed by a second head to thigh scan \\[starting at approximately 90 minutes post injection. PET/CT imaging sessions will include an injection of \u2264 12 mCi of \\[18F\\]FTT intravenously (approximate range for most studies is anticipated to be 8-12 mCi).\n\nIf surgery is performed according to standard of care tissue will be processed for both clinical and research use, if the subject has consented for use of tissue. Data will be collected to evaluate uptake of \\[18F\\]FTT in pheochromocytoma and paraganglioma and compare with PARP-1 activity and other experimental assays in tissue from biopsy and surgery, when available.\n\nAll evaluable patients may undergo surgery or systemic therapy following the \\[18F\\]FTT PET/CT scan. Up to 10 patients undergoing systemic therapy may undergo a second (optional) scan that will be performed approximately 1-21 days after therapy has started. The second scan is obtained to evaluate whether the initiation of systemic therapy alters \\[18F\\]FTT uptake. As this is a pilot study, only a limited number of patients are sought for the second scan.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "EARLY_PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 30,
+  "conditions": [
+    "Pheochromocytoma",
+    "Paraganglioma"
+  ],
+  "interventions": [
+    {
+      "name": "[18F]FluorThanatrace ([18F]FTT)",
+      "type": "DRUG",
+      "description": "A pre-treatment 18F-FluorThanatrace (\\[18F\\]FTT) positron emission tomography/computed tomography (PET/CT) scan will be done prior to surgery or systemic therapy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Participants will be \u2265 18 years of age.\n2. Clinical diagnosis of pheochromocytoma or paraganglioma based on biochemical and imaging studies At least one lesion identified on standard of care imaging (e.g. CT, MRI, FDG or 68-Gallium dotatate, other PET/CT or MIBG).\n3. Standard of care germline genetic testing performed for clinical purposes or participant's consent for germline genetic testing for research purposes.\n4. Participants must be informed of the investigational nature of this study and be willing to provide written informed consent and participate in this study in accordance with institutional and federal guidelines prior to study-specific procedures.\n\nExclusion Criteria:\n\n1. Inability to tolerate imaging procedures in the opinion of an investigator or treating physician.\n2. Females who are pregnant or breastfeeding will not be eligible for this study; a urine pregnancy test will be performed in women of child-bearing potential prior to FTT injection.\n3. Any current medical condition, illness, or disorder as assessed by medical record review and/or self-reported that is considered by a physician investigator to be a condition that could compromise participant safety or successful participation in the study.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Standard uptake value (SUV)measurement - [F18]FTT",
+      "timeFrame": "Baseline",
+      "description": "Qualitative measure SUV of \\[18F\\]FTT in phenochromocytoma/paraganlioma region (categories: positive, negative or mixed)"
+    },
+    {
+      "measure": "Maximum standard uptake value (SUV)measurement - [F18]FTT",
+      "timeFrame": "Baseline",
+      "description": "Measure of maximum SUV of \\[18F}FTT in primary lesion region"
+    },
+    {
+      "measure": "Mean Standard uptake value (SUV)measurement - [F18]FTT",
+      "timeFrame": "Baseline",
+      "description": "Measure of mean SUV of \\[18F}FTT in primary lesion region"
+    },
+    {
+      "measure": "Peak Standard uptake value (SUV)measurement - [F18]FTT",
+      "timeFrame": "Baseline",
+      "description": "Measure of peak SUV of \\[18F}FTT in primary lesion region"
+    },
+    {
+      "measure": "Standard uptake value (SUV)measurement - [F18]FTT",
+      "timeFrame": "Follow-Up (1-21 days post therapy)",
+      "description": "Qualitative measure SUV of \\[18F\\]FTT in phenochromocytoma/paraganlioma region (categories: positive, negative or mixed)"
+    },
+    {
+      "measure": "Maximum standard uptake value (SUV)measurement - [F18]FTT",
+      "timeFrame": "Follow-Up (1-21 days post therapy)",
+      "description": "Measure of maximum SUV of \\[18F}FTT in primary lesion region"
+    },
+    {
+      "measure": "Mean Standard uptake value (SUV)measurement - [F18]FTT",
+      "timeFrame": "Follow-Up (1-21 days post therapy)",
+      "description": "Measure of mean SUV of \\[18F}FTT in primary lesion region"
+    },
+    {
+      "measure": "Peak Standard uptake value (SUV)measurement - [F18]FTT",
+      "timeFrame": "Follow-Up (1-21 days post therapy)",
+      "description": "Measure of peak SUV of \\[18F}FTT in primary lesion region"
+    }
+  ],
+  "sponsor": "Heather Wachtel",
+  "collaborators": [],
+  "start_date": "2023-07-01",
+  "completion_date": "2026-12-31",
+  "last_updated": "2026-02-26"
+}

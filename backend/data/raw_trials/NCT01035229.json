@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT01035229",
+  "brief_title": "Global Study Looking at the Combination of RAD001 Plus Best Supportive Care (BSC) and Placebo Plus BSC to Treat Patients With Advanced Hepatocellular Carcinoma.",
+  "official_title": "A Randomized Phase III, Double-blind, Placebo-controlled, Multi-center Study to Evaluate the Efficacy and Safety of Everolimus (RAD001) in Adult Patients With Advanced Hepatocellular Carcinoma After Failure of Sorafenib Treatment - The EVOLVE-1 Study",
+  "brief_summary": "The purpose of this study is to compare treatment with RAD001 plus best supportive care (BSC) to placebo plus BSC in patients with advanced HCC whose disease progressed while on or after sorafenib treatment or who are intolerant to sorafenib.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 546,
+  "conditions": [
+    "Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Everolimus",
+      "type": "DRUG",
+      "description": "Everolimus (labeled as RAD001) was formulated as tablets of 2.5 mg strength and blisterpacked in units of 10 tablets."
+    },
+    {
+      "name": "Everolimus Placebo",
+      "type": "DRUG",
+      "description": "Everolimus Placebo matched to the everolimus 2.5 mg tablet strength was blister-packed in units of 10 tablets. Matching placebo tablets were formulated to be indistinguishable from the everolimus tablets. Everolimus placebo was taken as a daily oral dose of 7.5 mg and was defined as the control drug."
+    },
+    {
+      "name": "Best Supportive Care (BSC)",
+      "type": "OTHER",
+      "description": "BSC was defined as drug or non-drug therapies, nutritional support, physical therapy or anything that the Investigator believed to be in the patient's best interest, but excluding other antineoplastic treatments. BSC administered to the patient throughout the study was to be reported on the Concomitant Medication/Significant Non-Drug Therapy electronic case report from (eCRF). Permitted BSC treatments during the study included, but were not limited to, the following: Pain medication to allow the patient to be as comfortable as possible, Bisphosphonates for bone metastases, Localized radiotherapy, for the treatment of pre-existing, painful bone metastases, Nutritional support or appetite stimulants (i.e. megestrol) as recommended by the Investigator, Oxygen therapy and blood products or transfusions"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Advanced liver cancer\n* Prior systemic treatment with sorafenib for advanced HCC and for whom their disease progressed during or after sorafenib treatment, or were intolerant to sorafenib treatment. Specifically, this can be defined as:\n\n  * Documented radiological confirmation (radiology scans or report) of disease progression during or after sorafenib treatment\n  * Intolerance to sorafenib (at any dose and/or duration) is defined as documented sorafenib-related grade 3 or 4 adverse events that led to sorafenib discontinuation.\n\nNOTE:\n\n* Sorafenib must be the last antineoplastic treatment before randomization\n* Prior local and/or hormonal therapy (e.g., tamoxifen) before sorafenib is allowed\n* One systemic chemotherapy regimen for advanced HCC is allowed before sorafenib treatment\n\n  * ECOG performance status of \u2264 2\n  * Child-Pugh A\n\nExclusion Criteria:\n\n* Active bleeding during the last 28 days\n* Prior therapy with mTOR inhibitors\n* Prior liver or other organ transplantation which mandates systemic immunosuppression\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Sidney Kimmel Cancer Center at Johns Hopkins Hospital Dept. of SKCC @ JHU",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287-0013",
+      "status": ""
+    },
+    {
+      "facility": "St. Luke's Hospital and Health Network St. Luke's Cancer Network (2)",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "When 454 OS events were observed",
+      "description": "OS was defined as the time from the date of randomization to the date of death from any cause. The comparison of OS between the 2 arms was done using a stratified log-rank test at one-sided 2.5% level of significance."
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2010-04",
+  "completion_date": "2013-10",
+  "last_updated": "2016-08-16"
+}

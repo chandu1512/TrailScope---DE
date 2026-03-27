@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT07271017",
+  "brief_title": "Robot-Assisted Prostate Biopsy With a Novel Ultrasound Probe",
+  "official_title": "Robot-Assisted Prostate Biopsy With a Novel Ultrasound Probe",
+  "brief_summary": "Prostate cancer (PCa) is the most diagnosed type of cancer and the second leading cause of cancer related deaths among US men, and its incidence has increased steadily in the last decade. Efforts to address the rise in PCa diagnosis without overdetection and overtreatment include targeted biopsy techniques for clinically significant PCa using magnetic resonance imaging (MRI), and precision targeted biopsy guided by ultrasound and fused to the MRI.\n\nThe study aims to improve prostate biopsy with a novel ultrasound probe and robot developed at Johns Hopkins, the ProBot device. The trial is a Phase 1 clinical trial to evaluate the safety and feasibility of the new device.\n\nProBot is an entirely new concept including a novel ultrasound probe and robot kinematics specifically designed for the prostate. It operates with only two degrees of freedom configured such that the motions for 3D image scanning and biopsy may not deform the prostate gland, thus improving the accuracy of MRI-ultrasound fusion and needle targeting at biopsy.\n\nProBot is a small and lightweight robot (1.3Kg including the ultrasound probe). It allows hands-free operation of its ultrasound probe at 3D image scanning and needle targeting supervised by the urologist.\n\nIn addition to MRI-targeted biopsy (TB), at systematic biopsy (SB), instead of using the common template plan that is the same for all patients, the innovative software optimizes the plan for each patient to obtain a diagnosis that is representative of the whole gland histology. The ProBot robot is also uniquely capable of transrectal (TR) and transperineal (TP) biopsy.\n\nThe aims of the study are to determine the safety and feasibility of the new device at TR and TP biopsies.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "Prostate Cancer (Diagnosis)"
+  ],
+  "interventions": [
+    {
+      "name": "Prostate biopsy",
+      "type": "DEVICE",
+      "description": "Precision personalized prostate biopsy with a novel ultrasound probe and robot, ProBot"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Included in the study will be:\n\n* Men between the ages of 40 and 75\n* Men must have one of the following \"high risk\" features:\n\n  1. PSA \\> 4.0 ng/ml and/or abnormal digital rectal examination (DRE)\n  2. ASAP (atypical small acinar proliferation) on previous biopsy\n* Men with mpMRI or bpMRI exams, including both PI-RADS \u22642 and PI-RADS \u22653.\n\nExcluded from the study will be patients without available mpMRI exams and patients:\n\n* Females and children because of the prostate cancer targeted disease.\n* Patients who are not recommended or in whom TR or TP prostate biopsy is considered high-risk:\n\n  1. Patients with previous rectal surgery.\n  2. Patients with anal stenosis or coagulopathy.\n  3. Patients on active anticoagulation medication (eg. Coumadin, Lovenox, or Heparin).\n  4. Patients who cannot tolerate periprostatic Lidocaine block anesthesia or in whom anesthesia is considered high-risk.\n* Patients who already had a prostate biopsy taken with the ProBot investigational device.\n* Vulnerable populations, such as prisoners, institutionalized individuals.\n* Patients who are unwilling or unable to sign informed consent (no assent required).",
+    "gender": "MALE",
+    "min_age": "40 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Device feasibility as assessed by patient discomfort score",
+      "timeFrame": "Immediately after the procedure",
+      "description": "Scale 1-10, 10 highest discomfort"
+    },
+    {
+      "measure": "Device feasibility as assessed by maximal procedural pain",
+      "timeFrame": "Immediately after the procedure",
+      "description": "Scale 1-10, 10 highest pain"
+    },
+    {
+      "measure": "Device feasibility as assessed by the rate of complications",
+      "timeFrame": "Throughout the study, each case recorded within 1 month of the procedure",
+      "description": "Rate of complications"
+    },
+    {
+      "measure": "Device feasibility as assessed by serious adverse events",
+      "timeFrame": "Up to 1 month post procedure",
+      "description": "Serious Adverse events throughout the study"
+    },
+    {
+      "measure": "Device feasibility as assessed by the rate of successful completion of cases",
+      "timeFrame": "Immediately post procedure",
+      "description": "Rate of cases completed successfully throughout the study"
+    },
+    {
+      "measure": "Device feasibility as assessed by the procedure time",
+      "timeFrame": "Immediately post procedure",
+      "description": "Times of the procedures measured in minutes throughout the study"
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2025-09-23",
+  "completion_date": "2030-05-31",
+  "last_updated": "2025-11-25"
+}

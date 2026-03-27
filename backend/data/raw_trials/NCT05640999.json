@@ -1,0 +1,84 @@
+{
+  "nct_id": "NCT05640999",
+  "brief_title": "Adjuvant Therapy in POLE-Mutated and p53-Wildtype/NSMP Early Stage Endometrial Cancer RAINBO BLUE & TAPER",
+  "official_title": "A Phase II Study of Tailored Adjuvant Therapy in POLE-Mutated and p53-Wildtype/NSMP Early Stage Endormetrial Cancer (RAINBO BLUE & TAPER)",
+  "brief_summary": "This protocol tests de-escalated adjuvant treatment in patients with POLE-mutated or p53wt/NSMP (p53 wildtype/no specific molecular profile) early-stage endometrial cancer (EC). Patients may be enrolled in one of two sub-studies\n\n* EN10.A/RAINBO BLUE: POLE-mutated EC\n* EN10.B/TAPER: p53 wildtype / NSMP EC",
+  "detailed_description": "This study is being done in order to find out if this new approach is better or worse than the usual approach for early-stage endometrial cancer. The usual approach is defined as the care most people get for early-stage endometrial cancer.\n\nThe usual approach for patients who are not in a study is treatment with surgery. Tissue that is removed as part of this procedure is analyzed in the pathology laboratory to guide the doctor to decide whether or not additional treatment such as radiation and or chemotherapy should be recommended.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 393,
+  "conditions": [
+    "Endometrial Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Vaginal brachytherapy",
+      "type": "RADIATION",
+      "description": "Vaginal brachytherapy should be delivered using a vaginal cylinder, or alternatively ovoids"
+    },
+    {
+      "name": "Adjuvant radiotherapy (EBRT +/- brachytherapy)",
+      "type": "RADIATION",
+      "description": "Treatment is to be delivered using 4-18 MV photons. MV, kV or CBCT imaging capabilities are required. Planning systems with capability for DICOM data transfer must be used."
+    },
+    {
+      "name": "Observation",
+      "type": "OTHER",
+      "description": "Observation"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have had surgery consisting of hysterectomy and bilateral salpingo-oophorectomy. Lymph node dissection can be performed as per institutional standards. There must be no macroscopic residual disease after surgery.\n* Patients must have histologically confirmed Stage I to III endometrial carcinoma which can be endometrioid, serous, clear cell, un/dedifferentiated, carcinosarcoma or mixed.\n* Patients' Eastern Cooperative Group (ECOG) performance status must be 0, 1, or 2.\n* HIV-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial.\n* Patients' age must be \u2265 18 years.\n* Patient consent must be appropriately obtained in accordance with applicable local and regulatory requirements.\n* Patient is able (i.e. sufficiently fluent) and willing to complete the patient-reported outcomes (PRO) questionnaires in either English, French or a validated language\n* Patients must be accessible for treatment and follow-up. Patients enrolled on this trial must be treated and followed at the participating centre\n* Protocol treatment is to begin within 10 weeks of hysterectomy/bilateral salpingo-oophorectomy\n\nExclusion Criteria:\n\n* Prior Neoadjuvant chemotherapy for current endometrial cancer diagnosis.\n* Prior pelvic radiation.\n* Patients with a history of other malignancies, except: carcinoma in-situ without evidence of invasive disease when resected, adequately treated non-melanoma skin cancer, or other tumours curatively treated with no evidence of disease for \u2265 5 years.\n* Clinical evidence of distant metastasis as determined by pre-surgical or post-surgical imaging (CT scan of chest, abdomen and pelvis or whole-body PET-CT scan)\n* Patients with a documented positive surgical margin.\n* Patients with a documented positive peritoneal washings, if performed.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center Washington Township",
+      "city": "Sewell",
+      "state": "New Jersey",
+      "zip": "08080",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Penn State Milton S Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Asplundh Cancer Pavilion",
+      "city": "Willow Grove",
+      "state": "Pennsylvania",
+      "zip": "19090",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Estimate the rate of pelvic recurrence at 3 years in patients who are treated with de-escalated adjuvant treatment directed by tumour molecular status",
+      "timeFrame": "3 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "Canadian Cancer Trials Group",
+  "collaborators": [
+    "Canadian Cancer Clinical Trials Network"
+  ],
+  "start_date": "2022-12-19",
+  "completion_date": "2029-06-30",
+  "last_updated": "2026-03-09"
+}

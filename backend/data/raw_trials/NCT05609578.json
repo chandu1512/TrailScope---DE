@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT05609578",
+  "brief_title": "Combination Therapies With Adagrasib in Patients With Advanced NSCLC With KRAS G12C Mutation",
+  "official_title": "A Phase 2 Trial of Combination Therapies With Adagrasib in Patients With Advanced Non-Small Cell Lung Cancer With KRAS G12C Mutation",
+  "brief_summary": "Study CA239-0010 is an open-label, Phase 2 clinical trial evaluating the clinical efficacy of adagrasib in combination with pembrolizumab and chemotherapy in the first-line setting for patients with advanced NSCLC with TPS \u2265 1%, TPS \\<50% and KRAS G12C mutation",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 90,
+  "conditions": [
+    "Advanced NSCLC",
+    "Metastatic Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Adagrasib oral dose of 400 mg twice daily tablets",
+      "type": "DRUG",
+      "description": "oral dose of 400 mg twice daily tablets"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "COMBINATION_PRODUCT",
+      "description": "IV infusion once every 3 weeks"
+    },
+    {
+      "name": "Chemotherapy: Pemetrexed",
+      "type": "COMBINATION_PRODUCT",
+      "description": "IV infusion once every 3 weeks"
+    },
+    {
+      "name": "Cisplatin/Carboplatin",
+      "type": "COMBINATION_PRODUCT",
+      "description": "IV infusion once every 3 weeks"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Cohort A\\* (closed): Has an untreated and unresectable or metastatic NSCLC with histologically confirmed (squamous or nonsquamous) KRASG12C mutation and histologically confirmed PD-L1 TPS \u22651%.\n\n* Cohort C: Has an untreated and unresectable or metastatic NSCLC with histologically confirmed (non-squamous only) KRASG12C mutation and histologically confirmed PD-L1 TPS \\< 50% AND previously completed 4 cycles of standard-of-care platinum based induction chemotherapy with pembrolizumab AND experienced stable disease, partial response, or complete response per investigator's assessment after 4 cycles OR if patients received \\<4 cycles of a platinum-based induction, was stopped early due to intolerable toxicity\n* Cohort E: Has an untreated and unresectable or metastatic NSCLC with histologically confirmed (non-squamous only) KRASG12C mutation and histologically confirmed PD-L1 TPS \\< 50%\n* Presence of measurable disease per RECIST v1.1\n\nExclusion Criteria:\n\n* All Cohorts: Any prior therapy targeting KRASG12C mutation in any setting\n* Cohorts A \\& E: Prior systemic therapy for locally advanced or metastatic NSCLC, including chemotherapy, immune checkpoint inhibitor therapy or chemoimmunotherapy (note: prior systemic therapy or chemoradiation given in the adjuvant or neoadjuvant setting are allowed if last dose of prior systemic treatment was \\>1 year prior to first dose of study treatment)\n* Cohort C: received maintenance therapy (e.g, pembrolizumab and/or pemetrexed following completion of 4-6 cycles of a platinum-based regimen administered in the first-line setting\n* Radiation to the lung \\> 30 Gy within 6 months prior to first dose of study treatment\n* Active brain metastases",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - Unk009",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "ACTIVE_NOT_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR) for Cohort A and E",
+      "timeFrame": "30 months",
+      "description": "Defined as the percent of patients documented to have a confirmed CR or PR"
+    },
+    {
+      "measure": "Progression-free Survival (PFS) at six months for Cohort C",
+      "timeFrame": "30 months",
+      "description": "PFS is defined as time from first study treatment until disease progression or death from any cause, whichever occurs first."
+    }
+  ],
+  "sponsor": "Mirati Therapeutics Inc.",
+  "collaborators": [],
+  "start_date": "2022-11-22",
+  "completion_date": "2026-12-01",
+  "last_updated": "2025-08-13"
+}

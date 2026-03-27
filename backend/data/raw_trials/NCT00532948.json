@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT00532948",
+  "brief_title": "A Study of Xeloda (Capecitabine) Plus Radiation Therapy in Children With Newly Diagnosed Gliomas",
+  "official_title": "A Phase I Trial of Capecitabine Rapidly Disintegrating Tablets and Concomitant Radiation Therapy in Children With Newly Diagnosed Brainstem Gliomas and High Grade Gliomas",
+  "brief_summary": "This single arm study will assess the maximum tolerated dose, and dose-limiting toxicities, of Xeloda administered concurrently with radiation therapy, in children with newly diagnosed diffuse intrinsic brain stem gliomas and high grade gliomas. Xeloda will be administered twice daily, at a starting dose of 500mg/m2 bid, beginning within 24 hours of the start of radiation therapy. Subsequent dose escalations will be in increments of 30%, using a standard dose escalation schema. Post-radiation therapy with Xeloda will continue after a 2 week break. The anticipated time on study treatment is 3-12 months, and the target sample size will not exceed 30 evaluable patients.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 24,
+  "conditions": [
+    "Glioma"
+  ],
+  "interventions": [
+    {
+      "name": "capecitabine [Xeloda]",
+      "type": "DRUG",
+      "description": "500mg/m2 po bid (starting dose)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* patients \\>=3 and \\<=21 years of age;\n* newly diagnosed non-disseminated brainstem glioma or non-disseminated high grade glioma;\n* Karnofsky (if \\>16 years) or Lansky (if \\< 16 years) Performance Scale of \\>=50%;\n* adequate organ function.\n\nExclusion Criteria:\n\n* previous chemotherapy, radiation therapy, immunotherapy or bone marrow transplant;\n* uncontrolled infection;\n* known DPD deficiency.",
+    "gender": "ALL",
+    "min_age": "3 Years",
+    "max_age": "21 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15261",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum Tolerated Dose (MTD) of Capecitabine.",
+      "timeFrame": "Upto 11 weeks.",
+      "description": "The MTD was the dose level at which six evaluable patients had been treated and at most one patient experienced a dose limiting toxicity (DLT) and the next highest dose level was too toxic. Dose escalation occurred if 0 out of 3 or at most 1 out of 6 patients experienced DLT while being treated at a dose level; otherwise the dose was declared unsafe and thus above the MTD."
+    },
+    {
+      "measure": "Dose Limiting Toxicities (DLTs)",
+      "timeFrame": "Upto 11 weeks",
+      "description": "DLT was defined as any of the following events occurring during the 11 week dose-finding period: any event that leads to interruption of planned radiation for 5 consecutive days or 10 days total; Grade 4 neutropenia or thrombocytopenia; Grade 3 thrombocytopenia that required a platelet transfusion on 2 or more occasions; any Grade 3 or 4 non-hematologic toxicity (with the exception of grade 3 nausea or vomiting of less than 5 days duration, Grade 3 transaminases that returned to baseline value within 7 days of study drug interruption and that did not recur upon re-challenge with study drug, and/or Grade 3 fever or infection of \\<5 days duration); Grade 2 non-hematologic toxicities that persisted for \\>7 days and required treatment interruption, or any other capecitabine-related adverse events that required need for dose reduction or permanent cessation of therapy, interruption of study drug for \\>7 days or recurred on re-challenge with capecitabine rapidly disintegrating tablets (RDTs)."
+    },
+    {
+      "measure": "Number of Participants With Adverse Events (AE)",
+      "timeFrame": "Up to 06 years",
+      "description": "An AE is an unfavourable and unintended sign (including an abnormal laboratory finding, for example), symptom, or disease temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product. Toxicity was monitored and graded according to the Cancer Therapy Evaluation Program Common Terminology Criteria for Adverse Events (CTCAE) version 3.0. Adverse events that were not included in the CTCAEv3.0 were reported and graded under the other AE within the appropriate category."
+    },
+    {
+      "measure": "Number of Participants With Baseline Shift From Normal to Low or High in Hematology Parameters",
+      "timeFrame": "Up to 06 years",
+      "description": "For hematology, the parameters assessed were: Hemoglobin, hematocrit, platelet count, RBC, WBC, lymphocytes, monocytes,granulocytes (blasts), neutrophils(segs, bands),eosinophils and basophils."
+    },
+    {
+      "measure": "Number of Participants With Baseline Shift From Normal to Low or High in Blood Chemistry Parameters",
+      "timeFrame": "Up to 06 years",
+      "description": "For blood chemistry, the parameters assessed were: Sodium, potassium, calcium, magnesium, chloride, bicarbonate, total protein, albumin, alkaline phosphatase, alanine transaminase (ALT), aspartate aminotransferase (AST), blood urea nitrogen (BUN), Lactate dehydrogenase (LDH), total bilirubin, direct bilirubin, indirect bilirubin, creatinine (serum creatinine or creatinine clearance), glucose."
+    }
+  ],
+  "sponsor": "Hoffmann-La Roche",
+  "collaborators": [],
+  "start_date": "2007-05",
+  "completion_date": "2010-10",
+  "last_updated": "2016-10-25"
+}

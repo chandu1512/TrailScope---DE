@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT04242667",
+  "brief_title": "Penn Biobank Return of Research Results Program",
+  "official_title": "A Randomized Protocol Evaluating Return of Actionable Genetic Research Results to Biobank Participants",
+  "brief_summary": "The overall goal of the proposed research is to assess the feasibility of a randomized study evaluating the non-inferiority of an electronic Health (e-Health) delivery alternative (e.g. private web portal) as compared to return of actionable genetic research results with a genetic counselor.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 260,
+  "conditions": [
+    "Cancer",
+    "Cardiovascular Diseases",
+    "Hereditary Cancer",
+    "Hereditary Cardiac Amyloidosis"
+  ],
+  "interventions": [
+    {
+      "name": "e-Health (web-based) disclosure portal",
+      "type": "BEHAVIORAL",
+      "description": "Patient uses secure web-based portal to access genetic research results"
+    },
+    {
+      "name": "Provider mediated disclosure",
+      "type": "BEHAVIORAL",
+      "description": "Patient has disclosure of genetic research result by a provider (genetic counselor)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Consented participant in University of Pennsylvania Biobank who previously submitted a DNA sample for research testing\n2. English speaking\n3. Aged 18 years or older\n4. Agreed to be re-contacted in the future or did not indicate a preference on future contact regarding research results\n5. Have an actionable mutation or have been selected as a control participant\n6. Have not previously received actionable results of clinical genetic testing\n\nExclusion Criteria:\n\n1. Deceased assessed by electronic medical record, death index or identified after contact\n2. Evidence in the electronic medical record that the subject has already received the same actionable result through clinical genetic testing",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Completion of surveys",
+      "timeFrame": "Baseline survey prior to disclosure of results, and then two post-disclosure surveys at 2-7 days and 6 months",
+      "description": "Participant will self-complete surveys to collect psychological and knowledge outcomes"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "Fox Chase Cancer Center"
+  ],
+  "start_date": "2020-03-01",
+  "completion_date": "2023-08-01",
+  "last_updated": "2024-06-28"
+}

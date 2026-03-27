@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT01968213",
+  "brief_title": "Phase 3 Study of Rucaparib as Switch Maintenance After Platinum in Relapsed High Grade Serous or Endometrioid Ovarian Cancer (ARIEL3)",
+  "official_title": "A Study of Rucaparib as Switch Maintenance Following Platinum-Based Chemotherapy in Patients With Platinum-Sensitive, High-Grade Serous or Endometrioid Epithelial Ovarian, Primary Peritoneal or Fallopian Tube Cancer ( ARIEL3 )",
+  "brief_summary": "Patients enrolled into this study will be stratified into 3 groups based on gene mutations identified in their tumor tissue. The purpose of this study is to evaluate patient response to maintenance treatment with rucaparib versus placebo. Response to treatment will be analyzed based on homologous recombination (HR) status of tumor samples.",
+  "detailed_description": "Rucaparib is an orally available, small molecule inhibitor of poly-adenosine diphosphate \\[ADP\\] ribose polymerase (PARP) being developed for treatment of ovarian cancer associated with homologous recombination (HR) DNA repair deficiency (HRD). Clinical data have shown that ovarian cancer patients with and without evidence of a gBRCA mutation benefit from treatment with a PARP and that maintenance treatment with a PARP inhibitor following a response to platinum-based treatment increases PFS in patients with ovarian cancer. While patients with a BRCA mutation derived the most benefit, patients without evidence of a BRCA mutation also derived significant benefit.\n\nPatients enrolled into this study will be stratified into 3 groups based on tumor HRD status. The purpose of this study is to identify which of these groups of patients will most likely benefit from treatment with rucaparib. It is anticipated that rucaparib will provide therapeutic benefit and increase PFS in patients with HRD associated with a BRCA gene mutation or other HR gene alteration.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 564,
+  "conditions": [
+    "Ovarian Cancer",
+    "Fallopian Tube Cancer",
+    "Peritoneal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Rucaparib",
+      "type": "DRUG",
+      "description": "Oral tablets administered twice daily with 8 oz (240 mL) of water on an empty stomach or with food; 28-day cycles of treatment. Doses should be taken as close to 12 hours apart as possible, preferably at the same times every day. Tablets should be swallowed whole."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Oral tablets administered twice daily with 8 oz (240 mL) of water on an empty stomach or with food; 28-day cycles of treatment. Doses should be taken as close to 12 hours apart as possible, preferably at the same times every day. Tablets should be swallowed whole."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of high-grade serous or endometrioid epithelial ovarian, primary peritoneal, or fallopian tube cancer.\n* Received \u22652 prior platinum-based treatment regimens including platinum based regimen that must have been administered immediately prior to maintenance therapy in this trial.\n* Received no more than 1 non-platinum chemotherapy regimen. Prior hormonal therapy will not be counted as a non-platinum regimen.\n* Must have had at least a 6-month disease-free period following prior treatment with the penultimate platinum-based chemotherapy and achieved a response.\n* For the last chemotherapy course prior to study entry, patients must have received a platinum-based doublet chemotherapy regimen and have achieved a CR or PR (as defined by RECIST) and/or a GCIG CA-125 response.\n* Have sufficient archival tumor tissue for analysis.\n\nExclusion Criteria:\n\n* History of prior cancer except for non-melanoma skin cancer, breast cancer curatively \\> 3 years ago, curatively treated solid tumor (\\>5 years ago without evidence of recurrence), and synchronous endometrial cancer (Stage 1A) with ovarian cancer.\n* Prior treatment with any PARP inhibitor, including rucaparib. Patients who received prior iniparib are eligible.\n* Untreated or symptomatic central nervous system metastases.\n* Pre-existing duodenal stent and/or any gastrointestinal disorder or defect that would, in the opinion of the Investigator, interfere with absorption of study drug.\n* Required drainage of ascites during the final 2 cycles of their last platinum-based regimen and/or during the period between the last dose of chemotherapy of that regimen and randomization to maintenance treatment in this study.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Universty",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Disease Progression According to RECIST Version 1.1, as Assessed by the Investigator, or Death From Any Cause (Investigator Progression Free Survival as Per invPFS)",
+      "timeFrame": "Every 12 calendar weeks (within 7 days prior is permitted) after start of treatment until treatment discontinuation due to disease progression. Total follow-up was up to approximately 3 years.",
+      "description": "Progression-free survival by Investigator (invPFS) is defined as the time from randomization to disease progression, according to RECIST v1.1 criteria as assessed by the investigator, or death due to any cause, whichever occurs first. Progressive disease is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1), as a 20% increase in the sum of the longest diameter of measurable lesions, an unequivocal increase in existing non-measurable lesion(s), or the appearance of unequivocal new lesion(s)."
+    }
+  ],
+  "sponsor": "pharmaand GmbH",
+  "collaborators": [
+    "Foundation Medicine",
+    "Myriad Genetics, Inc."
+  ],
+  "start_date": "2014-04-07",
+  "completion_date": "2022-07-07",
+  "last_updated": "2023-06-07"
+}

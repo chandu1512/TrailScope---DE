@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT04774445",
+  "brief_title": "Effectiveness of MyCancerGene to Optimize Genetic Testing Outcomes",
+  "official_title": "Effectiveness of MyCancerGene to Optimize Genetic Testing Outcomes",
+  "brief_summary": "This protocol aims to evaluate the efficacy of a theoretically and stakeholder informed patient-centered genetic Interactive Health Communication Application to increase patient understanding of, and affective and behavioral responses to genetic testing. The study investigators hypothesize that the intervention will be associated with increases in knowledge, decreases in distress, increases in communication with relatives and health care providers, and increases in performance of risk reducing health behaviors.",
+  "detailed_description": "As clinical practice increasingly use multi-gene testing, many patients are left with unknowns after genetic testing. Many have results that are unclear and may or may not be associated with any risk for cancer (Variants of Uncertain Significance), or mutations in genes with very limited information about disease risk or the best medical management. Importantly, many of these uncertainties will be clarified over time, but there is a need for effective ways of communicating these updates to patients who had testing months or years ago. In some cases, there may be multiple updates over time. To address this, this study will provide patients access, using an Interactive Health Communication Application, MyCancerGene, to information about their genetic testing, their specific results and the implications, the ability to print reports and other materials for their relatives and other health care providers and to assess if there has been a change in the personal or family history. Additionally, patients can contact their genetic provider through MyCancerGene and the cancer genetics team can send out updates to patients about their individual results or about new information about risk estimates or screening recommendations. The study investigators hypothesize that MyCancerGene will be associated with increases in knowledge, decreases in distress, increases in communication with relatives and health care providers, and increases in cancer screening and risk reducing health behaviors. After 12 months, all patients will have access to MyCancerGene, which will aid in understanding who benefits most and least from this intervention.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 400,
+  "conditions": [
+    "Cancer",
+    "Genetic Predisposition"
+  ],
+  "interventions": [
+    {
+      "name": "MyCancerGene",
+      "type": "BEHAVIORAL",
+      "description": "Interactive Health Communication Application"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* English Speaking\n* Male or Female\n* Internet and/or mobile access\n* Previously received clinical genetic counseling and testing for hereditary cancer syndromes (up to 60 days prior to recruitment)\n\nExclusion Criteria:\n\n\u2022No internet and/or mobile access",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center at the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "The KnowGene Scale",
+      "timeFrame": "Baseline - 18 Months",
+      "description": "Change in Knowledge. Score Range = 0-16. Higher score = Better outcome"
+    },
+    {
+      "measure": "Patient Reported Outcomes Measurement Information System (PROMIS)",
+      "timeFrame": "Baseline - 18 Months",
+      "description": "Change in General Anxiety and Depression. Score Range = 4-20 for Anxiety/4-20 for Depression. Lower score = Better outcome"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "American Cancer Society, Inc."
+  ],
+  "start_date": "2021-05-03",
+  "completion_date": "2026-04-01",
+  "last_updated": "2025-02-07"
+}

@@ -1,0 +1,60 @@
+{
+  "nct_id": "NCT00112996",
+  "brief_title": "Alpha-Lipoic Acid in Preventing Peripheral Neuropathy in Patients Receiving Chemotherapy for Cancer",
+  "official_title": "Prevention of Cisplatin- or Oxaliplatin-Induced Peripheral Neuropathy With Alpha-Lipoic Acid: A Placebo-Controlled Phase III Trial",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Chemoprotective drugs, such as alpha-lipoic acid, may protect normal cells from the side effects of chemotherapy. Alpha-lipoic acid may also prevent damage to nerves that carry information to and from the brain and spinal cord to the rest of the body. It is not known whether alpha-lipoic acid is more effective than placebo in preventing peripheral neuropathy.\n\nPURPOSE: This randomized phase III trial is studying alpha-lipoic acid to see how well it works compared to placebo in preventing peripheral neuropathy in patients receiving chemotherapy for cancer.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* Compare whether treatment with alpha-lipoic acid vs placebo decreases the severity and frequency of peripheral neuropathy in cancer patients receiving a cisplatin- or oxaliplatin-containing chemotherapy regimen.\n* Compare the protective effect duration of these drugs in these patients.\n\nSecondary\n\n* Determine large sensory fiber integrity associated with platinum-induced peripheral neuropathy, as measured by three timed functional tests comprising fastening 6-buttons, walking 50 feet, and placing coins in a cup, in patients treated with these drugs.\n* Compare the number of chemotherapy courses and doses received by patients treated with these drugs.\n\nTertiary\n\n* Compare the optimal tumor response (disease progression, stable disease, partial response, or complete response) to chemotherapy in patients treated with these drugs.\n\nOUTLINE: This is a randomized, double-blind, placebo-controlled, multicenter study. Patients are stratified according to prior platinum-containing treatment (yes vs no). Patients who received prior treatment are further stratified according to prior cumulative platinum exposure (cisplatin \\< 200 mg/m\\^2 or oxaliplatin \\< 750 mg/m\\^2 vs cisplatin 200-399 mg/m\\^2 or oxaliplatin 750-999 mg/m\\^2 vs cisplatin \\>400 mg/m\\^2 or oxaliplatin \\> 1,000 mg/m\\^2). Patients are randomized to 1 of 2 treatment arms.\n\n* Arm I: Patients receive oral alpha-lipoic acid\\* three times daily for at least 24 weeks in the absence of unacceptable toxicity.\n* Arm II: Patients receive oral placebo\\* three times daily for at least 24 weeks in the absence of unacceptable toxicity.\n\nNOTE: \\*In both arms, patients begin taking study drug 4 days after completion of each chemotherapy treatment and continue taking study drug until 2 days before their next scheduled chemotherapy treatment.\n\nPatients' symptoms of peripheral neuropathy, pain, and functional tests are assessed at baseline and then at weeks 6-8, 12, 24, 36, and 48.\n\nPROJECTED ACCRUAL: A total of 244 patients (122 per treatment arm) will be accrued for this study within 2 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 244,
+  "conditions": [
+    "Neurotoxicity",
+    "Unspecified Adult Solid Tumor, Protocol Specific",
+    "Unspecified Childhood Solid Tumor, Protocol Specific"
+  ],
+  "interventions": [
+    {
+      "name": "alpha-lipoic acid",
+      "type": "DRUG",
+      "description": "Oral two 300 mg ALA sustained release tablets initiated 4 days after last dose of platinum and discontinued 2 days before next scheduled platinum dose, continued for 24 weeks."
+    },
+    {
+      "name": "placebo",
+      "type": "OTHER",
+      "description": "Given orally two similar color and sized placebo control tablets three times a day continued for 24 weeks."
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Scheduled to receive a cisplatin- or oxaliplatin-containing chemotherapy regimen for cancer\n* No established clinical neuropathy\n* No clinically evident CNS metastases, including leptomeningeal metastases\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* Not specified\n\nPerformance status\n\n* Not specified\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Bilirubin \\< 2 mg/dL\n\nRenal\n\n* Creatinine \\< 2 mg/dL OR\n* Creatinine clearance \\> 45 mL/min\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* Must have a normal state of arousal\n* No confusion or memory or concentration deficit\n* No history of diabetes mellitus requiring oral medication or insulin treatment\n* No chronic alcoholism\n* No other active central nervous system (CNS) disease (e.g., dementia or encephalopathy)\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* See Disease Characteristics\n* No carboplatin, vincristine, vinblastine, paclitaxel, or docetaxel for 6 months prior, during, and 6 months after study treatment\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified\n\nOther\n\n* Concurrent medications that can modify peripheral neuropathy (e.g., gabapentin, lamotrigine, carbamazepine, phenytoin, or tricyclic antidepressants) are allowed provided there is no dose adjustment within 2 weeks before study entry and during study participation\n* No concurrent vitamin E (including multivitamins that contain vitamin E) \u2265 100 IU per day\n* No concurrent physical modality (e.g., anodyne \\[monochromatic near-infrared photoenergy, 890 nm\\], microcurrent, or transcutaneous electrical neural stimulation) for peripheral neuropathy related symptoms unless physical or occupational therapy for functional training",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "CCOP - Main Line Health",
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "zip": "19096",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Severity of neuropathy",
+      "timeFrame": "Up to 48 weeks",
+      "description": "Severity of neuropathy as measured by the Functional Assessment of Cancer Therapy/Gynecologic Oncology Group-Neurotoxicity Questionnaire total score at baseline and at 6-8, 12, 24, 36, and 48 weeks"
+    }
+  ],
+  "sponsor": "M.D. Anderson Cancer Center",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2007-01",
+  "completion_date": "2014-04",
+  "last_updated": "2014-04-07"
+}

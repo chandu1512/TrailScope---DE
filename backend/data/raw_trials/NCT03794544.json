@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT03794544",
+  "brief_title": "Neoadjuvant Durvalumab Alone or in Combination With Novel Agents in Resectable Non-Small Cell Lung Cancer",
+  "official_title": "A Phase 2 Open-label, Multicenter, Randomized, Multidrug Platform Study of Neoadjuvant Durvalumab Alone or in Combination With Novel Agents in Subjects With Resectable, Early-stage (I [> 2 cm] to IIIA) Non-small Cell Lung Cancer (NeoCOAST)",
+  "brief_summary": "Study D9108C00002 (NeoCOAST) is a platform study assessing the effectiveness and safety of neoadjuvant durvalumab alone or in combination with novel agents in participants with resectable, early-stage (Stage I \\[\\>2cm\\] to IIIA) non-small cell lung cancer (NSCLC).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 84,
+  "conditions": [
+    "Resectable",
+    "Early-stage",
+    "NSCLC"
+  ],
+  "interventions": [
+    {
+      "name": "Durvalumab",
+      "type": "DRUG",
+      "description": "Durvalumab 1500 mg IV will be administered Q4W (on Week 1 Day 1) until disease progression, unacceptable toxicity, or other reason of treatment discontinuation over a 28-day treatment period."
+    },
+    {
+      "name": "Oleclumab",
+      "type": "COMBINATION_PRODUCT",
+      "description": "Oleclumab 3000 mg IV will be administered Q2W (on Week 1 Day 1 and Week 3 Day 1) until disease progression, unacceptable toxicity, or other reason of treatment discontinuation over a 28-day treatment period."
+    },
+    {
+      "name": "Monalizumab",
+      "type": "COMBINATION_PRODUCT",
+      "description": "Monalizumab 750 mg IV will be administered Q2W (on Week 1 Day 1 and Week 3 Day 1) until disease progression, unacceptable toxicity, or other reason of treatment discontinuation over a 28-day treatment period."
+    },
+    {
+      "name": "Danvatirsen",
+      "type": "COMBINATION_PRODUCT",
+      "description": "Danvatirsen 200 mg IV will be administered on Days 1, 3, and 5 of Week 0 (7-day danvatirsen lead-in period) and later every week (on Week 1 Day 1, Week 2 Day 1, Week 3 Day 1, and Week 4 Day 1) until disease progression, unacceptable toxicity, or other reason of treatment discontinuation over a 28-day treatment period."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Cytologically and/or histologically-documented NSCLC\n\n   1. Stage I (\\> 2 cm) to IIIA (for participants with N2 disease, only those with 1 single nodal station \u2264 3 cm are eligible) NSCLC according to the 8th edition of American Joint Committee on Cancer staging classification\n   2. Amenable to complete surgical resection\n   3. Have not received any other therapy for this condition\n2. Predicted forced expiratory volume in one second (FEV1) \u2265 50%\n3. Predicted diffusing capacity of the lungs for carbon monoxide (DLCO) \u2265 50%\n4. ECOG 0 or 1\n5. Adequate organ function\n\nExclusion Criteria:\n\n1. Participants with small-cell lung cancer or mixed small-cell lung cancer\n2. Participants who require or may require pneumonectomy\n3. Prior treatment with programmed cell death ligand-1 (PD-L1), PD-L1, or cytotoxic T-lymphocyte antigen 4 (CTLA-4) inhibitors\n4. Current or prior use of immunosuppressive medication within 14 days before the first dose of study drug.\n5. Active or prior documented autoimmune or inflammatory disorders. The following are exceptions to this criterion:\n\n   1. Participants with vitiligo or alopecia\n   2. Participants with hypothyroidism on hormone replacement\n   3. Any chronic skin condition that does not require systemic therapy\n   4. Participants without active disease in the last 5 years may be included but only after consultation with the study physician\n   5. Participants with celiac disease controlled by diet alone\n6. Pregnant or breast-feeding female\n7. Major surgical procedure within prior 30 days\n8. History of active primary immunodeficiency\n9. Active infection including tuberculosis, hepatitis B, hepatitis C, or HIV\n10. QTc interval (QTc) \u2265 470 ms\n11. Uncontrolled intercurrent illness that would limit compliance with study requirement, substantially increase risk of incurring AEs or compromise the ability of the participant to give written informed consent\n12. Receipt of live attenuated vaccination within 30 days prior to study entry\n13. History of another primary malignancy except for:\n\n    1. Curative-treated malignancy with no known active disease \\> 2 years before enrollment on the study\n    2. Curative-treated non-melanoma skin cancer and/or carcinoma in-situ",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "102 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Major Pathological Response Rate",
+      "timeFrame": "Day 1 through Day 42",
+      "description": "Major pathological response rate is defined as percentage of participants with \\<=10% residual viable tumor cells in the resected specimen."
+    }
+  ],
+  "sponsor": "MedImmune LLC",
+  "collaborators": [],
+  "start_date": "2019-03-08",
+  "completion_date": "2021-01-13",
+  "last_updated": "2022-02-23"
+}

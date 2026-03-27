@@ -1,0 +1,49 @@
+{
+  "nct_id": "NCT06463977",
+  "brief_title": "Using Surveys to Examine the Association of Exposure to ML Mortality Risk Predictions With Medical Oncologists' Prognostic Accuracy and Decision-making",
+  "official_title": "Using Surveys to Examine the Association of Exposure to ML Mortality Risk Predictions With Medical Oncologists' Prognostic Accuracy and Decision-making",
+  "brief_summary": "Nearly half of cancer patients in the US will receive care that is inconsistent with their wishes prior to death. Early advanced care planning (ACP) and palliative care improve goal-concordant care and symptoms and reduce unnecessary utilization. A promising strategy to increase ACP and palliative care is to identify patients at risk of mortality earlier in the disease course in order to target these services. Machine learning (ML) algorithms have been used in various industries, including medicine, to accurately predict risk of adverse outcomes and direct earlier resources. \"Human-machine collaborations\" - systems that leverage both ML and human intuition - have been shown to improve predictions and decision-making in various situations, but it is not known whether human-machine collaborations can improve prognostic accuracy and lead to greater and earlier ACP and palliative care. In this study, we contacted a national sample of medical oncologists and invited them complete a vignette-based survey. Our goal was to examine the association of exposure to ML mortality risk predictions with clinicians' prognostic accuracy and decision-making. We presented a series of six vignettes describing three clinical scenarios specific to a patient with advanced non-small cell lung cancer (aNSCLC) that differ by age, gender, performance status, smoking history, extent of disease, symptoms and molecular status. We will use these vignette-based surveys to examine the association of exposure to ML mortality risk predictions with medical oncologists' prognostic accuracy and decision-making.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 52,
+  "conditions": [
+    "Oncology"
+  ],
+  "interventions": [
+    {
+      "name": "Survey",
+      "type": "OTHER",
+      "description": "The study consisted of a 3 \u00d7 3 online factorial experiment employing a survey instrument hosted via Qualtrics presenting describing three patient vignettes. The three patient vignettes varied by various clinical characteristics including age, gender, performance status, smoking history, extent of disease, symptoms and molecular status. Each patient had advanced non-small cell lung cancer (aNSCLC). Each vignette had two parts: Part 1 described the case history for one of the three patients, after which prognostic estimates and medical decision-making was assessed (i.e. 1, 2, 3). Part 2 immediately followed and described the same vignette from the same patient with added information from a hypothetical ML predictive algorithm (i.e. A, B, C). The order of the vignettes in each survey was randomized with regard to presentation strategies for the ML risk predictions, so that there were 6 versions of the survey to which each participant was randomized."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Medical oncologists who treat lung cancer\n\nExclusion Criteria:\n\n* Medical oncologists who do not see lung cancer patients",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Prognostic accuracy as assessed via survey",
+      "timeFrame": "Up to 3 months",
+      "description": "Prognostic estimates were measured using two items administered after Parts 1 and 2 of each of the 3 vignettes:\n\n1. What is your anticipated life expectancy for this patient, in months?\n2. What do you think is the likelihood that she will die within 12 months? Please provide a percentage on a scale of 0% to 100%.\n\nAccurate prognoses were defined as whether the reported life expectancy estimate was within 33% of the LCPI estimate, as modified after the focus groups. Participants answered the first question in months and the second question as a percentage between 0-100%."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2023-03-13",
+  "completion_date": "2023-12-31",
+  "last_updated": "2024-11-20"
+}

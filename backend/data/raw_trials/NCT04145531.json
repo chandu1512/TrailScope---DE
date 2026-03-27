@@ -1,0 +1,100 @@
+{
+  "nct_id": "NCT04145531",
+  "brief_title": "An Open-Label Study of JZP-458 (RC-P) in Patients With Acute Lymphoblastic Leukemia (ALL)/Lymphoblastic Lymphoma (LBL)",
+  "official_title": "An Open-Label, Multicenter Study of Recombinant Crisantaspase Produced in Pseudomonas Fluorescens (RC-P) in Patients With Acute Lymphoblastic Leukemia (ALL)/Lymphoblastic Lymphoma (LBL) Following Hypersensitivity to E. Coli-derived Asparaginases",
+  "brief_summary": "This is an open-label, multicenter, dose confirmation, and PK study of JZP-458 in patients (of any age) with ALL/LBL who are hypersensitive to E. coli-derived asparaginases (allergic reaction or silent inactivation). This study is designed to assess the tolerability and efficacy of JZP-458 (only in patients who develop hypersensitivity to an E. coli-derived asparaginase), as measured by asparaginase activity.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 229,
+  "conditions": [
+    "Acute Lymphoblastic Leukemia",
+    "Lymphoblastic Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "IM JZP-458",
+      "type": "DRUG",
+      "description": "IM JZP-458 will be administered in Part A, Cohorts 1 \\& 2"
+    },
+    {
+      "name": "IV JZP-458",
+      "type": "DRUG",
+      "description": "IV JZP-458 will be administered in Part B"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Pediatric and adult patients with a diagnosis of ALL or LBL.\n2. Have had an allergic reaction to a long-acting E. coli-derived asparaginase OR have silent inactivation.\n3. Have 1 or more courses of E. coli-derived asparaginase remaining in his/her treatment plan.\n4. Patients must have, in the opinion of the Investigator, fully recovered from their prior allergic reaction to E. coli-derived asparaginase.\n\nExclusion Criteria:\n\n1. Have previously received asparaginase Erwinia chrysanthemi or JZP-458.\n2. Have relapsed ALL or LBL.\n3. Are concurrently receiving another investigational agent and/or treated with an investigational device at the same time as JZP-458 (within 48 hours) during Course 1 of JZP-458.\n4. Have a history of \u2265 Grade 3 pancreatitis.\n5. Prior history of asparaginase-associated \u2265 Grade 3 hemorrhagic event or asparaginase-associated thrombus requiring anticoagulation therapy, excluding catheter-related thrombotic events.",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Nemours Alfred I. Dupont Hospital for Children",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19803",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Morristown Medical Center",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center - Children's Hospital of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Response Rate During the First Course of JZP-458 Administration",
+      "timeFrame": "Baseline up to 2 weeks",
+      "description": "The response rate was defined as the number (proportion) of patients with the last 72-hour nadir serum asparaginase activity (NSAA) level \u2265 0.1 IU/mL during the first course of IM JZP-458. Blood samples were collected for serum asparaginase activity level determination."
+    },
+    {
+      "measure": "Number of Participants With Any Treatment-emergent Adverse Events (TEAEs)",
+      "timeFrame": "Date of written informed consent up to 30 days after last dose of last course, up to approximately 2 years 7 months",
+      "description": "An adverse event (AE) is any untoward medical occurrence associated with the use of a drug in humans, whether or not considered related to study drug. AEs were classified by the Investigator using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE), version 5.0."
+    }
+  ],
+  "sponsor": "Jazz Pharmaceuticals",
+  "collaborators": [
+    "Children's Oncology Group"
+  ],
+  "start_date": "2019-12-27",
+  "completion_date": "2022-07-13",
+  "last_updated": "2023-11-15"
+}

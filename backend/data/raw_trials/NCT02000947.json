@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT02000947",
+  "brief_title": "A Phase 1b Study of MEDI4736 in Combination With Tremelimumab in Subjects With Advanced Non-small Cell Lung Cancer",
+  "official_title": "A Phase 1b Open-label Study to Evaluate the Safety and Tolerability of MEDI4736 in Combination With Tremelimumab in Subjects With Advanced Non-small Cell Lung Cancer",
+  "brief_summary": "The purpose of this study is to determine if MEDI4736 will be adequately tolerated in combination with tremelimumab in subjects with advanced non-small cell lung cancer (NSCLC).",
+  "detailed_description": "This is a multicenter, open-label, dose-escalation, and dose expansion study of MEDI4736 in combination with tremelimumab to evaluate the safety, tolerability, pharmacokinetic (PK), immunogenicity, and antitumor activity of MEDI4736 in combination with tremelimumab in adult subjects with advanced NSCLC.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 459,
+  "conditions": [
+    "NSCLC",
+    "Non-small Cell Lung Cancer",
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "MEDI4736",
+      "type": "DRUG",
+      "description": "MEDI4736 is an anti-PD-L1 monoclonal antibody (MAb)."
+    },
+    {
+      "name": "Tremelimumab",
+      "type": "DRUG",
+      "description": "Tremelimumab is an anti-CTLA4 monoclonal antibody (mAb)."
+    },
+    {
+      "name": "tremelimumab",
+      "type": "DRUG",
+      "description": "Tremelimumab is an anti-CTLA4 monoclonal antibody (mAb)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age \u2265 18 years\n2. Advanced non-small cell lung cancer\n3. Eastern Cooperative Oncology Group (ECOG) performance status of 0-1\n4. Adequate organ and marrow function\n\nExclusion Criteria:\n\n1. Any concurrent chemotherapy, immunotherapy, biologic, or hormonal therapy for cancer treatment\n2. Current or prior use of immunosuppressive medication within 14 days before the first dose of study drugs\n3. Active or prior documented autoimmune disease within the last 2 years.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "101 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of subjects reporting adverse events",
+      "timeFrame": "Screening through 90 days after the last dose of study medication",
+      "description": "The number of subjects reporting adverse events (AEs) and number (percentage) of subjects reporting serious adverse events (SAEs) as graded by CTCAE Version 4.03"
+    },
+    {
+      "measure": "Objective response",
+      "timeFrame": "At least 24 weeks as compared to baseline",
+      "description": "Best overall response of confirmed complete response (CR) or confirmed partial response (PR) according to Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 as defined as the best response among all overall responses recorded from the start of treatment until progression, or the last evaluable disease assessment in the absence of progressive disease (PD) prior to the initiation of subsequent anti-cancer therapy, or discontinuation from the study, whichever occurs first."
+    },
+    {
+      "measure": "Number of subjects experiencing dose-limiting toxicities (DLTs)",
+      "timeFrame": "Depending upon the cohort, the DLT evaluation period is from the 1st dose of study medication until (1) the 3rd dose of MEDI4736 and tremelimumab (2) the 2nd dose of MEDI4736 and tremelimumab or (3) the 3rd dose of MEDI4736 and 2nd dose of tremelimumab",
+      "description": "The maximum tolerated dose (MTD), which is the highest dose within a cohort where no more than 1 out of 6 subjects experience DLTs or the highest protocol-defined dose for each agent in the absence of exceeding the MTD, will be evaluated using the following safety assessments: adverse events, serious advents, laboratory evaluations, vital signs, physical examinations, and electrocardiogram (ECG) results. Measurements will be aggregated to determine whether a subject has experienced a DLT as assessed by the investigator."
+    }
+  ],
+  "sponsor": "MedImmune LLC",
+  "collaborators": [],
+  "start_date": "2013-10-25",
+  "completion_date": "2019-09-17",
+  "last_updated": "2019-10-29"
+}

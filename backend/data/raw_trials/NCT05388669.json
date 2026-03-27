@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT05388669",
+  "brief_title": "A Study of Lazertinib With Subcutaneous Amivantamab Compared With Intravenous Amivantamab in Participants With Epidermal Growth Factor Receptor (EGFR)-Mutated Advanced or Metastatic Non-small Cell Lung Cancer",
+  "official_title": "A Phase 3, Open-label, Randomized Study of Lazertinib With Subcutaneous Amivantamab Compared With Intravenous Amivantamab in Patients With EGFR-mutated Advanced or Metastatic Non-small Cell Lung Cancer After Progression on Osimertinib and Chemotherapy",
+  "brief_summary": "The purpose of the study is to simplify amivantamab intravenous administration and to reduce dose times, by assessing a new formulation of amivantamab, amivantamab subcutaneous and co-formulated with recombinant human hyaluronidase (SC-CF), for subcutaneous administration. This formulation has the potential to enhance both the patient and physician experience with amivantamab by providing easier and accelerated administration.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 418,
+  "conditions": [
+    "Advanced or Metastatic Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Lazertinib",
+      "type": "DRUG",
+      "description": "Lazertinib tablets will be administered orally."
+    },
+    {
+      "name": "Amivantamab Subcutaneous and Co-Formulated with Recombinant Human Hyaluronidase (SC CF)",
+      "type": "DRUG",
+      "description": "Amivantamab injection will be administered subcutaneously by manual injection."
+    },
+    {
+      "name": "Amivantamab Intravenous",
+      "type": "DRUG",
+      "description": "Amivantamab will be administered by IV infusion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have histologically or cytologically confirmed, advanced or metastatic non-small cell lung cancer (NSCLC), characterized by either epidermal growth factor receptor (EGFR) Exon 19 deletion (Exon 19del) or Exon 21 leucine 858 to arginine substitution (Exon 21 L858R) mutation by an Food and Drug Administration (FDA)-approved or other validated test of either circulating tumor deoxyribonucleic acid (ctDNA) or tumor tissue in a clinical laboratory improvement amendments (CLIA) certified laboratory (sites in the United Started \\[US\\]) or an accredited local laboratory (sites outside of the US)\n* Have progressed on or after osimertinib (or another approved 3rd generation epidermal growth factor receptor \\[EGFR\\] tyrosine kinase inhibitor \\[TKI\\]) and platinum-based chemotherapy (irrespective of order). a) The 3rd generation EGFR TKI must have been administered as the first EGFR TKI for metastatic disease or as the second TKI after prior treatment with first- or second-generation EGFR TKI in participants with metastatic EGFR T790M mutation positive NSCLC. b) Participants who decline or are otherwise ineligible for chemotherapy may be enrolled after discussion with the medical monitor. c) Any adjuvant or neoadjuvant treatment, whether with a 3rd generation EGFR TKI or platinum based chemotherapy, would count towards the prior treatment requirement if the participant experienced disease\n* Have at least 1 measurable lesion, according to response evaluation criteria in solid tumors (RECIST) version 1.1\n* Have an eastern cooperative oncology group (ECOG) performance status of 0 to 1\n* Any toxicities from prior anticancer therapy must have resolved to common terminology criteria for adverse events (CTCAE) Version 5.0 Grade 1 or baseline level (except for alopecia \\[any grade\\], Grade less than or equal to (\\<=) 2 peripheral neuropathy, and Grade \\<=2 hypothyroidism stable on hormone replacement)\n\nExclusion Criteria:\n\n* Participant has received cytotoxic, investigational, or targeted therapies beyond one regimen of platinum-based chemotherapy and EGFR inhibitors\n* Participant has received radiotherapy for palliative purposes less than 7 days prior to randomization\n* Participant has symptomatic or progressive brain metastases\n* Participant has leptomeningeal disease, or participant has spinal cord compression not definitively treated with surgery or radiation\n* Participant has uncontrolled tumor-related pain\n* Participant has a medical history of interstitial lung disease (ILD), including drug-induced ILD or radiation pneumonitis",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Astera Cancer Care",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania Division of Hematology Oncology Perelman Center for Advanced Medicine",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "For All Regions Other Than the European Union (EU) and Others Accepting Cycle 2 Day 1: Observed Serum Concentration (Ctrough) of Amivantamab at Steady State",
+      "timeFrame": "Pre-dose on Cycle 4 Day 1 (each cycle of 28 days)",
+      "description": "Ctrough was the observed serum concentration of Amivantamab at steady state immediately prior to the next drug administration."
+    },
+    {
+      "measure": "For EU and Any Applicable Region: Observed Serum Concentration (Ctrough) of Amivantamab",
+      "timeFrame": "Pre-dose on Cycle 2 Day 1 (each cycle of 28 days)",
+      "description": "Ctrough was the observed serum concentration of Amivantamab immediately prior to the next drug administration."
+    },
+    {
+      "measure": "Area Under the Concentration (AUC) Time Curve of Amivantamab From Day 1 to Day 15 (AUC [Day 1-15]) of Cycle 2",
+      "timeFrame": "Cycle 2: Arm A: pre-dose, 24, 48, 72, 96, 168, and 360 hours (hrs) post-dose on Day 1; Arm B: pre-infusion, end of infusion (EOI)+10 minutes, EOI+2, EOI+6, EOI+24, EOI+48, EOI+72, EOI+168, and EOI+360 hrs post dose on Day 1",
+      "description": "AUC (Day 1-15) defined as area under the concentration time curve from Cycle 2 Day 1 to Day 15 were reported."
+    }
+  ],
+  "sponsor": "Janssen Research & Development, LLC",
+  "collaborators": [],
+  "start_date": "2022-08-05",
+  "completion_date": "2027-06-30",
+  "last_updated": "2026-03-12"
+}

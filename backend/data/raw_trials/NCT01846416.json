@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT01846416",
+  "brief_title": "A Study of Atezolizumab in Participants With Programmed Death-Ligand 1 (PD-L1) Positive Locally Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC) [FIR]",
+  "official_title": "A Phase II, Multicenter, Single-arm Study of MPDL3280A in Patients With PD-L1-Positive Locally Advanced or Metastatic Non-small Cell Lung Cancer",
+  "brief_summary": "This multicenter, single-arm study will evaluate the efficacy and safety of atezolizumab (MPDL3280A) in participants with PD-L1-positive locally advanced or metastatic NSCLC. Participants will receive an intravenous (IV) dose of 1200 milligrams (mg) atezolizumab (MPDL3280A) on Day 1 of 21-day cycles until disease progression.\n\nEligible participants will be categorized in to three groups as follows:\n\n1. Participants with no prior chemotherapy for advanced disease;\n2. Participants who progress during or following a prior-platinum based chemotherapy regimen for advanced disease (2L+participants);\n3. Participants who are 2L+ and previously treated for brain metastases.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 138,
+  "conditions": [
+    "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Atezolizumab (MPDL3280A) [TECENTRIQ], an engineered anti-PDL1 antibody",
+      "type": "DRUG",
+      "description": "Atezolizumab 1200 mg IV on Day 1 of each 21-day cycle until disease progression."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Stage IIIB (not eligible for definitive chemoradiotherapy), Stage IV, or recurrent NSCLC\n* PDL1-positive status as determined by an immunohistochemistry assay performed by a central laboratory. A positive result in chemotherapy, chemoradiation of the tumor sample biopsy will satisfy the eligibility criterion\n* Eastern Cooperative Oncology group Performance Status of 0 or 1\n* Life expectancy greater than or equal to 12 weeks\n* Measurable disease, as defined by Response Evaluation Criteria in Solid Tumors Version 1.1\n* Adequate hematologic and end organ function\n\nExclusion Criteria:\n\n* Any approved anti-cancer therapy, including chemotherapy, or hormonal therapy within 3 weeks prior to initiation of study treatment; the following exceptions are allowed. Hormone-replacement therapy or oral contraceptives, and tyrosine kinase inhibitors approved for treatment of NSCLC discontinued greater than 7 days prior to Cycle 1 Day 1\n* Treatment with any other investigational agent or participation in another clinical trial with therapeutic intent within 28 days prior to enrollment\n* Known central nervous system disease, including treated brain metastases in the following participants:\n\n  1. who will not receive prior chemotherapy for advanced disease\n  2. who progress during or following a prior-platinum based chemotherapy regimen for advanced disease (referred as 2L+ participants)\n* Participants with a history of treated asymptomatic brain metastases are allowed in the 2L+ participants and previously treated for brain metastases.\n* Leptomeningeal disease\n* Uncontrolled tumor-related pain\n* Uncontrolled hypercalcemia",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Univ. Milton S. Hershey Medical Center; MSHMC Cardiology",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    },
+    {
+      "facility": "Penn Presbyterian Medical Center; Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Objective Response According to Modified Response Evaluation Criteria in Solid Tumors (RECIST)",
+      "timeFrame": "Baseline, and Day 1 of Cycle 1 (21-day cycle), then every 6 weeks for the first 12 months and then every 9 weeks thereafter until disease progression (up to 20 months)",
+      "description": "Objective response was defined as a complete response (CR) or partial response (PR), as determined by investigator according to modified RECIST criteria. Modified RECIST was derived from RECIST v1.1 conventions and immune related response criteria. CR was defined as disappearance of all tumor lesions (target lesion \\[TL\\] and non-target lesion \\[non-TL\\]) and no new measurable or unmeasurable lesions, all lymph node short axes must be less than 10 millimeters (mm), and PR was defined as at least 30 percent (%) decrease in sum of diameter of TLs and all new measurable lesions since baseline in absence of CR, and both confirmed by consecutive assessment greater than or equal to 4 weeks from date first documented. Participants not meeting these criteria, including participants without at least one post-baseline response assessment were considered as non-responders."
+    }
+  ],
+  "sponsor": "Genentech, Inc.",
+  "collaborators": [],
+  "start_date": "2013-05-30",
+  "completion_date": "2017-12-18",
+  "last_updated": "2018-12-14"
+}

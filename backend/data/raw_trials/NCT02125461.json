@@ -1,0 +1,96 @@
+{
+  "nct_id": "NCT02125461",
+  "brief_title": "A Global Study to Assess the Effects of MEDI4736 Following Concurrent Chemoradiation in Patients With Stage III Unresectable Non-Small Cell Lung Cancer",
+  "official_title": "A Phase III, Randomised, Double-blind, Placebo-controlled, Multi-centre, International Study of MEDI4736 as Sequential Therapy in Patients With Locally Advanced, Unresectable Non-Small Cell Lung Cancer (Stage III) Who Have Not Progressed Following Definitive, Platinum-based, Concurrent Chemoradiation Therapy (PACIFIC)",
+  "brief_summary": "A Global Study to Assess the Effects of MEDI4736 following concurrent chemoradiation in Patients with Stage III Unresectable Non-Small Cell Lung Cancer.",
+  "detailed_description": "A Phase III, Randomised, Double-blind, Placebo-controlled, Multi-centre, International Study of MEDI4736 as Sequential Therapy in Patients with Locally Advanced, Unresectable Non-Small Cell Lung Cancer (Stage III) Who Have Not Progressed Following Definitive, Platinum-based, Concurrent Chemoradiation Therapy (PACIFIC)",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 713,
+  "conditions": [
+    "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "MEDI4736",
+      "type": "DRUG",
+      "description": "MEDI4736 by intravenous infusion. Treatment from Day 1 for a maximum of 12 months or study drug withdrawal if this occurs earlier . The 2:1 ratio (MEDI4736 to placebo)."
+    },
+    {
+      "name": "PLACEBO",
+      "type": "OTHER",
+      "description": "PLACEBO by intravenous infusion. Treatment from Day 1 for a maximum of 12 months or study drug withdrawal if this occurs earlier . The 2:1 ratio (MEDI4736 to placebo)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age at least 18 years.\n2. Documented evidence of NSCLC (locally advanced, unresectable, Stage III)\n3. Patients must have received at least 2 cycles of platinum-based chemotherapy concurrent with radiation therapy.\n4. World Health Organisation (WHO) Performance Status of 0 to 1.\n5. Estimated life expectancy of more than 12 weeks.\n\nExclusion Criteria:\n\n1. Prior exposure to any anti-PD-1 or anti-PD-L1 antibody.\n2. Active or prior autoimmune disease or history of immunodeficiency.\n3. Evidence of severe or uncontrolled systemic diseases, including active bleeding diatheses or active infections including hepatitis B, C and HIV.\n4. Evidence of uncontrolled illness such as symptomatic congestive heart failure, uncontrolled hypertension or unstable angina pectoris.\n5. Any unresolved toxicity CTCAE \\>Grade 2 from the prior chemoradiation therapy.\n6. Active or prior documented inflammatory bowel disease (eg, Crohn's disease, ulcerative colitis).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "20850",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Rosedale",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Salisbury",
+      "state": "Maryland",
+      "zip": "21801",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Towson",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival Based on Blinded Independent Central Review (BICR) According to Response Evaluation Criteria in Solid Tumors (RECIST 1.1)",
+      "timeFrame": "Tumor scans performed at baseline then every ~8 weeks up to 48 weeks, then every ~12 weeks thereafter until confirmed disease progression. Assessed until 13 Feb 2017 DCO; up to a maximum of approximately 3 years.",
+      "description": "PFS was defined as the time from randomization until the date of objective disease progression (RECIST 1.1) or death (by any cause in the absence of progression). Progression was defined using RECIST 1.1 as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions. PFS was calculated using the Kaplan-Meier technique."
+    },
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "From baseline until death due to any cause. Assessed until 22 Mar 2018 DCO; up to a maximum of approximately 4 years.",
+      "description": "OS was defined as the time from the date of randomization until death due to any cause. OS was calculated using the Kaplan-Meier technique."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2014-05-07",
+  "completion_date": "2023-08-24",
+  "last_updated": "2023-09-21"
+}

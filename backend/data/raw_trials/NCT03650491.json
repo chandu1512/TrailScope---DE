@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT03650491",
+  "brief_title": "A Study of FOR46 in Patients With Relapsed or Refractory Multiple Myeloma (RRMM)",
+  "official_title": "A Phase I Study of FOR46 Administered Every 21 Days in Patients With Relapsed or Refractory Multiple Myeloma (RRMM)",
+  "brief_summary": "This study will test the safety and efficacy of FOR46 given every 21 days to patients with relapsed or refractory multiple myeloma.\n\nThe name of the study drug involved in this study is: FOR46 for Injection",
+  "detailed_description": "This study is designed to evaluate the safety, tolerability and antitumor activity of FOR46 in patients with relapsed or refractory multiple myeloma. This study will be conducted in two parts:\n\nDose escalation:\n\nThis part will evaluate increasing doses of FOR46 to identify the maximum tolerated dose (MTD). The first patient enrolled on the study will receive the lowest dose of FOR46. Once this dose is shown to be safe, a second patient will be enrolled at the next higher dose. Patients will continue to be enrolled into either single or multiple patient groups receiving increasing doses until the MTD is reached.\n\nDose expansion:\n\nThis part of the study will further evaluate the safety, tolerability and antitumor activity of FOR46 at a dose shown to be safe in the dose escalation part of the study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 31,
+  "conditions": [
+    "Multiple Myeloma",
+    "Multiple Myeloma in Relapse",
+    "Multiple Myeloma With Failed Remission"
+  ],
+  "interventions": [
+    {
+      "name": "FOR46",
+      "type": "DRUG",
+      "description": "FOR46 is an intravenously (IV) administered antibody-drug conjugate (ADC) directed against CD46"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male or female \u2265 18 years of age\n* Measurable MM that is relapsed or refractory to established therapies with known clinical benefit in RRMM or intolerant of those established MM therapies. Prior lines of therapy must include a proteasome inhibitor (PI), an immunomodulatory imide drug (IMiD) and a CD38-directed therapy in any order of combination.\n* ECOG performance status of 0 or 1\n* Adequate hematologic, renal and hepatic function\n* Females of child-bearing potential must have a negative serum pregnancy test and use a medically acceptable form of contraception\n* Male patients with with female partners of childbearing potential must agree to use 2 effective methods of contraception\n* Patients must provide signed informed consent\n\nExclusion Criteria:\n\n* Persistent clinically significant toxicities from previous anticancer therapy\n* NCI CTCAE Grade \u2265 2 peripheral neuropathy from any etiology or has a genetic disorder that is associated with peripheral neuropathy even without current neuropathic manifestations\n* Has received treatment with a stem cell transplant within 12 weeks before administration of patient's first dose of FOR46\n* Has had radiation or systemic anticancer therapy within 14 days before first dose of FOR46\n* Has received treatment with an investigational drug within 28 days before first dose of FOR46\n* Has had a major surgical procedure within 28 days before administration of the patient's first FOR46 dose\n* Is breastfeeding\n* Clinically significant cardiovascular disease\n* Uncontrolled, clinically significant pulmonary disease\n* Uncontrolled intercurrent illness\n* Has known positive status for HIV or either active/chronic hepatitis B/C\n* Requires anticoagulation with warfarin or direct thrombin inhibitor; a washout of 7 days before the administration of a patient's first FOR46 dose is required for patients removed from these treatments\n* Requires medications that are strong inhibitors or strong inducers of CYP3A4\n* Has a history of episodic atrial fibrillation or flutter; patients with chronic atrial fibrillation are not excluded.\n* Prior treatment with an ADC containing Monomethyl auristatin E (MMAE) or Monomethyl auristatin F (MMAF).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of adverse events",
+      "timeFrame": "Through 1 month following last dose",
+      "description": "Number of patients with treatment-related adverse events as assessed by NCI CTCAE v5.0."
+    },
+    {
+      "measure": "Occurrence of dose-limiting toxicities",
+      "timeFrame": "Through 1 month following last dose",
+      "description": "The severity and incidence of dose-limiting toxicities related to escalating dose levels of FOR46"
+    },
+    {
+      "measure": "Disease response",
+      "timeFrame": "6 months",
+      "description": "Overall response rate of FOR46, defined as all responses greater than or equal to a partial response, complete response, stringent complete response, or minimal residual disease negativity"
+    }
+  ],
+  "sponsor": "Fortis Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2019-04-03",
+  "completion_date": "2022-01-31",
+  "last_updated": "2022-07-25"
+}

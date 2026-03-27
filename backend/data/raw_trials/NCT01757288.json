@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT01757288",
+  "brief_title": "Phase I/II NabPaclitaxel, Paclitaxel&Carboplatin w RTX Followed by Consolidation in Patients w Favorable Prognosis Inoperable Stage IIIA/B NSCLC",
+  "official_title": "A RANDOMIZED PHASE I/II STUDY OF NAB-PACLITAXEL, OR PACLITAXEL, PLUS CARBOPLATIN WITH CONCURRENT RADIATION THERAPY FOLLoWED BY CONSOLIDATION IN PATIENTS WITH FAVORABLE PROGNOSIS INOPERABLE STAGE IIIA/B NON-SMALL CELL LUNG CANCER (NSCLC)",
+  "brief_summary": "The investigators propose this phase I/II study to use weekly Nab-Paclitaxel (Abraxane) and carboplatin with concurrent radiation in local-regionally advanced lung cancer. There are no published human studies combining Nab-Paclitaxel (Abraxane) with radiation. The investigators will first confirm the tolerated dose (TD) of concurrent Nab-Paclitaxel (Abraxane) at 50mg/m2, and then will begin enrolling patients into the phase II component using either Nab-Paclitaxel (Abraxane) at the TD with carboplatin concurrent with daily radiation or paclitaxel with carboplatin concurrent with daily radiation.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 98,
+  "conditions": [
+    "STAGE IIIA/B NSCLC / INOPERABLE LUNG CANCER"
+  ],
+  "interventions": [
+    {
+      "name": "NAB-PACLITAXEL",
+      "type": "DRUG",
+      "description": "nab-Paclitaxel 50 mg/m2 IV/30min/wk x6 wks"
+    },
+    {
+      "name": "PACLITAXEL",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "NAB-PACLITAXEL",
+      "type": "DRUG",
+      "description": "nab-Paclitaxel 40 mg/m2 IV/30min/wk x6 wks"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically documented NSCLC; Patients must be M0. Patients with T1-T2 with N2 or T3N1-2 are eligible, if inoperable. Patients with T4 with any N or any T with N2 or N3 disease are eligible if unresectable.\n* Patients with tumors adjacent to a vertebral body are eligible as long as all gross disease can be encompassed in the radiation boost field. The boost volume must be limited to \\< 50% of the ipsilateral lung volume.\n* Patients with Zubrod performance status 0-1\n* Adequate hematologic function\n* FEV1 with \u2265 1200 cc or \u2265 50% predicted\n\nExclusion Criteria:\n\n* Prior systemic chemotherapy (for lung cancer) and/or thoracic/neck radiotherapy for any reason and/or surgical resection of present cancer\n* Exudative, bloody, or cytologically malignant effusions\n* Prior therapy with any molecular targeted drugs (for lung cancer)\n* Active pulmonary infection not responsive to conventional antibiotics\n* Clinically significant cardiovascular event (e.g. myocardial infarction, superior vena cava syndrome (SVC), New York Heart Association (NYHA) classification of heart disease \\>2 (see Appendix B) within 3 months before entry; or presence of cardiac disease that, in the opinion of the Investigator, increases the risk of ventricular arrhythmia.\n* Patients with \\> grade 1 neuropathy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "2-year Overall Survival (Phase II)",
+      "timeFrame": "2 years",
+      "description": "2-year overall survival, as measured (by Kaplan-Meir method) as the percentage of patients who were randomized and received carboplatin/paclitaxel or carboplatin/nab-paclitaxel with radiation therapy survived for 2 years."
+    }
+  ],
+  "sponsor": "University of Texas Southwestern Medical Center",
+  "collaborators": [
+    "Celgene"
+  ],
+  "start_date": "2013-03-25",
+  "completion_date": "2019-06-03",
+  "last_updated": "2021-10-05"
+}

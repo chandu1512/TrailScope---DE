@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT00054041",
+  "brief_title": "Vaccine Therapy in Preventing Cervical Cancer in Patients With Cervical Intraepithelial Neoplasia",
+  "official_title": "Phase II Evaluation Of SGN-00101 (HSP-E7) Fusion Protein In Women With Cervical Intraepithelial Neoplasia 3, CIN 3",
+  "brief_summary": "Vaccines made from antigens may make the body build an immune response to kill abnormal cervical cells and may be effective in preventing cervical cancer. Randomized phase II trial to study the effectiveness of vaccine therapy in preventing cervical cancer in patients who have cervical intraepithelial neoplasia",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. Determine the efficacy of SGN-00101, in terms of complete histologic regression, in patients with grade III cervical intraepithelial neoplasia.\n\nII. Determine the toxicity of this drug in these patients.\n\nSECONDARY OBJECTIVES:\n\nI. Determine change in lesion size in these patients after treatment with this drug.\n\nII. Compare histologic response before and after treatment with this drug in these patients.\n\nOUTLINE: This is a randomized, multicenter study. Patients are randomized to 1 of 2 treatment arms.\n\nArm I: Patients receive SGN-00101 subcutaneously once on weeks 1, 4, and 8 in the absence of disease progression.\n\nArm II: Patients receive standard care.\n\nAt week 15, all patients undergo large loop excision of the transformation zone under colposcopy.\n\nPatients are followed at 19 weeks, every 3 months for 1 year, every 6 months for 2 years, and then annually thereafter.\n\nPROJECTED ACCRUAL: A total of 28-84 patients (14-42 per treatment arm) will be accrued for this study within 12-48 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 84,
+  "conditions": [
+    "Cervical Cancer",
+    "Cervical Intraepithelial Neoplasia Grade 3",
+    "Human Papilloma Virus Infection"
+  ],
+  "interventions": [
+    {
+      "name": "HspE7",
+      "type": "BIOLOGICAL",
+      "description": "Given subcutaneously"
+    },
+    {
+      "name": "therapeutic conventional surgery",
+      "type": "PROCEDURE",
+      "description": "Undergo large loop excision"
+    },
+    {
+      "name": "laboratory biomarker analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed grade III cervical intraepithelial neoplasia\n\n  * Confirmed by biopsy or colposcopy\n* Positive for human papilloma virus 16\n* No endocervical glandular dysplasia\n* No adenocarcinoma in situ\n* Performance status - GOG 0-2\n* No life-threatening or serious hematological disorder\n* No life-threatening or serious hepatic disorder\n* No life-threatening or serious renal disorder\n* No life-threatening or serious cardiac disorder\n* No life-threatening or serious respiratory disorder\n* HIV negative\n* Must be immunocompetent\n* No history of autoimmune disease\n* No life-threatening or serious immunological disorder\n* No prior or concurrent severe allergic disease\n* No concurrent human papilloma viral infection other than type 16\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No life-threatening or serious gastrointestinal disorder\n* No life-threatening or serious endocrine disorder\n* No invasive malignancy within the past 5 years except nonmelanoma skin cancer\n* No concurrent chronic or systemic steroids\n* No prior organ transplantation\n* No prior cancer therapy that would preclude study therapy",
+    "gender": "FEMALE",
+    "min_age": "17 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Gynecologic Oncology Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Complete histologic regression of all CIN 3 lesions",
+      "timeFrame": "Up to 3 years",
+      "description": "Fisher's exact test (and if feasible, Chi-Square test) will be conducted to see if the probability of responding in the investigational arm is significantly different from the controls actively accrued to this study. The conditional distribution used in Fisher's exact test will be used to calculate a 90% confidence interval for the odds ratio of observing a response in the investigational arm to the control arm."
+    },
+    {
+      "measure": "Frequency and severity of adverse events assessed by Common Toxicity Criteria (CTC) version 2.0",
+      "timeFrame": "Up to 3 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2004-06",
+  "completion_date": "",
+  "last_updated": "2013-01-23"
+}

@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT06398639",
+  "brief_title": "Polygenic Risk Stratification Combined With mpMRI to Identify Clinically Relevant Prostate Cancer",
+  "official_title": "Polygenic Risk Stratification Combined With mpMRI to Identify Clinically Relevant Prostate Cancer",
+  "brief_summary": "The goal of this clinical trial is to evaluate a screening method to detect clinically relevant prostate cancer. This clinical trial is using genetic data to determine a man's risk of cancer, together with multiparametric magnetic resonance imaging (mpMRI) to identify men with higher grade cancer.\n\nThe main questions it aims to answer are:\n\n* If genetic data related to prostate cancer used with MRI can identify higher-grade, potentially fatal prostate cancer\n* What age a MRI is useful clinically for prostate cancer screening\n* If deep learning methods used with MRI when the genetic risk of the man is known can more accurately predict significant cancers\n\nParticipants will:\n\n* Get a prostate specific antigen (PSA) blood test\n* Get an mpMRI\n* Get the results of their genetic data to determine if they are considered high-, intermediate-, or low-risk for prostate cancer based on the trials genetic testing\n* Follow-up for this trial based on the participants risk and findings from the PSA test and mpMRI",
+  "detailed_description": "Background:\n\n* Prostate cancer is the most commonly diagnosed cancer among men in the United States\n* Prostate cancer screening using the marker prostate-specific antigen (PSA) is controversial\n* PSA based screening is less effective, at least in part, because it rests on screening the entire population\n* Polygenic risk scores stratify men based on their prostate cancer genetic predisposition and may improve population level screening programs by focusing on men with higher risk of disease and sparing low risk men\n* It is critical that studies aiming to translate the development of an early-detection strategy are conducted within a diverse patient population to address prostate cancer mortality disparities\n\nStudy Design:\n\n* Plan to accrue 1,500 participants from both established biobanks and primary care offices\n* Participants will get an initial PSA screening blood test and an mpMRI\n* Participants will have their polygenic risk score determined from genome-wide association study (GWAS) data\n* Participant follow-up will be determined by PRS results, as well as if there are abnormal findings on their PSA screening and/or mpMRI\n\nObjectives:\n\n* To evaluate a screening algorithm to detect clinically relevant prostate cancer (Gleason score \u22657) using genetic data (PRS) to determine risk of cancer and mpMRI to identify men with higher grade cancer\n* To determine optimal age to begin screening using PRS and mpMRI\n* To determine if rare variants in DNA repair enzymes could help refine screening\n* To determine if deep learning methods applied to mpMRI and informed by genetic risk can more accurately predict significant cancers\n\nProstate cancer screening using prostate specific antigen (PSA) is controversial. On the one hand, there is a reduction in prostate cancer mortality associated with screening. On the other, there is clear evidence that widespread and indiscriminate PSA based screening has led to over diagnosis and over treatment of prostate cancer. In part this is due to indiscriminate screening of all men, not just those at risk. Development and implementation of a screening strategy specifically targeting men at risk for potentially harmful prostate cancer, while sparing low risk men the burdens of screening, is urgently needed.\n\nThe investigators believe that integration of genetic testing and multiparametric MRI (mpMRI) will dramatically improve screening. Polygenic risk scores (PRS) have been developed to determine an individual's risk of prostate cancer and attempts have been made to create risk scores for clinically relevant disease. mpMRI has been established as an aid in differentiating clinically relevant from indolent prostate cancer.\n\nOur scientific premise is that an integrated approach which leverages the strengths of both genetics and mpMRI will do more than simply risk stratify men into those at risk for and not at risk for prostate cancer; the investigators will stratify a population of men into those with and those without clinically relevant prostate cancer. The investigators hypothesize that genetic testing to first identify patients at risk of prostate cancer followed by mpMRI to determine who likely has clinically relevant disease represents an optimal strategy.\n\nThis study will determine if a polygenic risk score can be used in conjunction with mpMRI to identify Gleason score \u22657 cancer.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1500,
+  "conditions": [
+    "Prostate Cancer",
+    "Polygenic Risk Score"
+  ],
+  "interventions": [
+    {
+      "name": "Polygenic Risk Score (PRS)",
+      "type": "OTHER",
+      "description": "Participants will be put into PRS cohorts based on their genetic data.\n\nAll participants enrolled into the study will receive a PSA screening test and an mpMRI, regardless of their polygenic risk score."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* They must have the ability to understand and the willingness to sign a written information consent document.\n* Estimated life expectancy of greater than 10 years.\n* No history of prostate cancer.\n* Participants must be between 40-69 years of age. This is the age at which screening for prostate cancer is recommended. This is due to younger patients not being at risk for the disease and older patients not benefiting from diagnosis.\n* No biopsy for prostate cancer within the past 5 years.\n* No prostate MRI within the past 5 years.\n\nExclusion Criteria:\n\n* Unwillingness to sign the informed consent form.\n* Contraindication to biopsy such as uncorrectable bleeding or coagulation disorder.\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit the safety of a biopsy and/or surgery.\n* Unable to undergo an MRI.",
+    "gender": "MALE",
+    "min_age": "40 Years",
+    "max_age": "69 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "National Cancer Institute",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20814",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "Walter Reed National Military Medical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20814",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Risk Ratio - Three Age Groups",
+      "timeFrame": "Through study completion, an average of 1 year.",
+      "description": "The ratio between men with high PRS and intermediate PRS in each of the three age groups (40-54, 55-64, 65-69) regardless of their ethnicity."
+    }
+  ],
+  "sponsor": "Adam S. Kibel, MD",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2024-05-07",
+  "completion_date": "2030-04-30",
+  "last_updated": "2025-11-06"
+}

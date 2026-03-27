@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT02542293",
+  "brief_title": "Study of Durvalumab With Tremelimumab Versus SoC as 1st Line Therapy in Metastatic Non Small-Cell Lung Cancer (NSCLC) (NEPTUNE)",
+  "official_title": "A Phase III Randomized, Open-Label, Multi-Center, Global Study of MEDI4736 in Combination With Tremelimumab Therapy Versus Standard of Care Platinum-Based Chemotherapy in First-Line Treatment of Patients With Advanced or Metastatic Non Small-Cell Lung Cancer (NSCLC).",
+  "brief_summary": "This is a randomized, open-label, multi-center, global, Phase III study to determine the efficacy and safety of durvalumab + tremelimumab combination therapy versus platinum-based SoC chemotherapy in the first-line treatment of patients with epidermal growth factor receptor (EGFR) and anaplastic lymphoma kinase (ALK) wild-type advanced or metastatic NSCLC.",
+  "detailed_description": "Patients will be randomized in a 1:1 to receive treatment with durvalumab + tremelimumab combination therapy or SoC therapy. The primary objective of this study is to assess the efficacy of combination treatment compared with SoC in terms of Overall Survival (OS) in patients.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 953,
+  "conditions": [
+    "Non Small Cell Lung Carcinoma NSCLC"
+  ],
+  "interventions": [
+    {
+      "name": "Durvalumab +Tremelimumab",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "Paclitaxel + carboplatin",
+      "type": "DRUG",
+      "description": "Chemotherapy Agents"
+    },
+    {
+      "name": "Gemcitabine + cisplatin",
+      "type": "DRUG",
+      "description": "Chemotherapy Agents"
+    },
+    {
+      "name": "Gemcitabine + carboplatin",
+      "type": "DRUG",
+      "description": "Chemotherapy Agents"
+    },
+    {
+      "name": "Pemetrexed + cisplatin",
+      "type": "DRUG",
+      "description": "Chemotherapy Agent"
+    },
+    {
+      "name": "Pemetrexed + carboplatin",
+      "type": "DRUG",
+      "description": "Chemotherapy Agent"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nFor inclusion in the study, patients should fulfill the following criteria:\n\n* Aged at least 18 years\n* Documented evidence of Stage IV NSCLC\n* No activating EGFR mutation or ALK rearrangement\n* No prior chemotherapy or any other systemic therapy for recurrent/metastatic NSCLC\n* World Health Organization (WHO) Performance Status of 0 or 1\n* No Prior exposure to Immune Mediated Therapy (IMT), including, but not limited to, other antiCTLA4, antiPD1, anti PDL1,or antiPDL2 antibodies, excluding therapeutic anticancer vaccines\n\nExclusion Criteria:\n\nPatients should not enter the study if any of the following exclusion criteria are fulfilled:\n\n* Mixed small cell lung cancer and NSCLC histology, sarcomatoid variant\n* Brain metastases or spinal cord compression unless the patient is stable (asymptomatic; no evidence of new or emerging brain metastases) and off steroids for at least 14 days prior to start of study treatment.\n* Active or prior documented autoimmune or inflammatory disorders (e.g., Crohn's disease, ulcerative colitis)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Florham Park",
+      "state": "New Jersey",
+      "zip": "07932",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS); Global Cohort: Blood Tumor Mutational Burden (bTMB) \u226520 Mutations Per Megabase (Mut/Mb) Analysis Set",
+      "timeFrame": "From baseline (Day 1, Week 0) until death due to any cause, assessed up to the Global cohort DCO date (a maximum of approximately 44 months).",
+      "description": "The OS was defined as the time from the date of randomization until death due to any cause (ie, date of death or censoring - date of randomization + 1). Any participant not known to have died at the time of analysis was censored based on the last recorded date on which the participant was known to be alive. Median OS was calculated using the Kaplan-Meier technique."
+    },
+    {
+      "measure": "OS; China Cohort: China Programmed Cell Death Ligand 1 (PD-L1) Negative NSCLC Analysis Set",
+      "timeFrame": "From baseline (Day 1, Week 0) until death due to any cause, assessed up to the China cohort DCO date (a maximum of approximately 44 months).",
+      "description": "The OS was defined as the time from the date of randomization until death due to any cause (ie, date of death or censoring - date of randomization + 1). Any participant not known to have died at the time of analysis was censored based on the last recorded date on which the participant was known to be alive. Median OS was calculated using the Kaplan-Meier technique."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2015-11-03",
+  "completion_date": "2026-12-31",
+  "last_updated": "2026-01-26"
+}

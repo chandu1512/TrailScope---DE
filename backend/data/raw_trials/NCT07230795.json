@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT07230795",
+  "brief_title": "AI-informed Colorectal Cancer (CRC) Screening Navigation vs. Standard of Care Among Screening-naive Penn Medicine Patients 45-49 Years Old to Increase CRC Screening Uptake",
+  "official_title": "AI-informed Colorectal Cancer (CRC) Screening Navigation vs. Standard of Care Among Screening-naive Penn Medicine Patients 45-49 Years Old to Increase CRC Screening Uptake",
+  "brief_summary": "This project aims to use machine learning algorithms (MLA) to identify and risk-stratify individuals between the ages of 45-49 who are more likely to have colorectal pathology and merit prioritized CRC screening and patient navigation. Patients deemed to be at higher risk for CRC by MLA will be randomized to an intervention group to receive risk-informed patient navigation and a usual care control group. The patient navigation will assist in completing either a fecal immunochemical test (FIT) or a colonoscopy. For the usual care control group, patients may still receive patient navigation for colonoscopy assistance. A referral to a nurse navigator can be initiated by a healthcare staff member in the following ways: 1) procedure scheduling staff will provide navigator's contact number if the patient expresses difficulty with obtaining a ride home 2) endoscopy staff and physicians can message navigator electronically 3) PCPs can place a navigation order in the EHR for patients deemed to need additional support such as with prep, education, transportation 4) providers will directly contact the director of the navigation system (Dr. Carmen Guerra) for referral.",
+  "detailed_description": "",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 7120,
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Intervention Arm",
+      "type": "OTHER",
+      "description": "The intervention arm will consist of a trained CRC navigator who will conduct outreach and navigation by interviewing these patients according to a script that consists of a statement of research, confirms eligibility, communicates their relative increased risk of CRC, assesses and addresses barriers to completion of CRC screening, and offers an adapted validated questionnaire regarding these barriers for patients to complete asynchronously. The navigator will be able to address barriers such as lack of awareness/knowledge about screening, misinformation, negative attitudes and fear, scheduling, inability to afford the prep, and lack of transportation and escort. The calls performed by the patient navigator will not be recorded."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age 45-49\n2. Not up to date with CRC screening within the recommended period of time (colonoscopy within 10 years, FIT within 1 year, Cologuard within 3 years, sigmoidoscopy within 3-5 years)\n3. Have primary care providers in Penn Internal Medicine and Family Medicine Practices\n4. Have at least 1 outpatient CBC in the past 12 months.\n\nExclusion Criteria:\n\n1. Prior history of CRC\n2. Late-stage cancer of any organ (stage 4)\n3. History of colectomy\n4. Demonstrated high-risk of colorectal cancer (e.g. inflammatory bowel disease, hereditary colorectal cancer syndromes)",
+    "gender": "ALL",
+    "min_age": "45 Years",
+    "max_age": "49 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19003",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Enrollment in the Navigator program",
+      "timeFrame": "12 month",
+      "description": "The patient navigation will assist in completing their colorectal cancer screening. The only test are either a fecal immunochemical test (FIT) or a colonoscopy. No other tests are required."
+    },
+    {
+      "measure": "Completion of colonoscopy or FIT testing",
+      "timeFrame": "12 month",
+      "description": "The patient navigation will assist in completing either a fecal immunochemical test (FIT) or a colonoscopy. The only test are either a fecal immunochemical test (FIT) or a colonoscopy. No other tests are required."
+    },
+    {
+      "measure": "Abnormal screening findings (positive FIT, abnormal colonoscopy findings). S",
+      "timeFrame": "12 month",
+      "description": "We will evaluate the effectiveness of the program on uptake of navigation and completion of CRC screening, rates of abnormal screening results, abnormal stool test follow-up with diagnostic colonoscopy, time to screening uptake, and CRC and precancerous lesion detection."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2025-09-29",
+  "completion_date": "2026-11-30",
+  "last_updated": "2025-11-13"
+}

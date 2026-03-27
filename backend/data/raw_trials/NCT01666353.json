@@ -1,0 +1,55 @@
+{
+  "nct_id": "NCT01666353",
+  "brief_title": "PET Quantitative Assessments of Solid Tumor Response to Immune Checkpoint Blockade Therapy",
+  "official_title": "PET Quantitative Assessments of Solid Tumor Response to Immune Checkpoint Blockade Therapy",
+  "brief_summary": "This study aims to develop methods for quantitative imaging of solid tumors in patients who are receiving immunotherapies that have a delayed mechanism of action.\n\nPET imaging with \\[18F\\] 2-deoxy-2-(18F)fluoro-D-glucose (FDG) is a potent diagnostic tool and is able to detect melanomas and other tumors, some of which are undetectable by CT. FDG PET is now used commonly in detecting melanoma in humans as melanomas quite consistently have high glucose metabolism. PET with FDG can image the response of tumors to therapy, but has not been extensively evaluated in melanoma nor in immunotherapy for melanoma. PET has been shown to be highly predictive of outcomes of patients following radioimmunotherapy of lymphoma, and has shown changes in tumor glycolysis as early as 7 days after immunotherapy initiation.\n\nIn order to develop PET/CT as a tool to detect early evidence of response in patients with solid tumors receiving immune checkpoint blockade, investigators propose to perform PET/CT imaging prior to therapy, again between days 21 and 28, and finally at 4 months post-treatment initiation. Each scan will be assessed qualitatively and quantitatively. Investigators will use the PERCIST criteria to determine peak and maximum standardized uptake values corrected for lean body mass (SUL) in tumor, tumor volumes, and tumor total glycolytic volumes, and will use CT from PET/CT to measure tumor size by immune RECIST criteria. (See section on Outcome Evaluation below.) Investigators will assess whether early changes in tumor metabolism seen on FDG PET are predictive of progression free and overall survival outcomes. Through these systematic pilot studies, investigators hope to better link FDG PET measurements to individual patient responses to immune checkpoint blockade therapy and better understand and refine this emerging and often effective therapeutic approach.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "EARLY_PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Melanoma",
+    "Renal Cell Carcinoma (RCC)",
+    "Non-small Cell Lung Cancer (NSCLC)"
+  ],
+  "interventions": [
+    {
+      "name": "PET/CT imaging with [18F] 2-deoxy-2-(18F)fluoro-D-glucose (FDG)",
+      "type": "RADIATION",
+      "description": "PET/CT imaging with \\[18F\\] 2-deoxy-2-(18F)fluoro-D-glucose (FDG) is a potent diagnostic tool and is able to detect melanomas and other tumors, some of which are undetectable by CT."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Age \u226518 years\n2. Any subject with documented metastatic melanoma, RCC or NSCLC.\n3. Subjects must be scheduled to receive therapy, or received only one dose, with an anti-neoplastic agent that works by immune checkpoint blockade such as ipilimumab/Yervoy (anti-CTLA-4), MDX-1106/BMS-936558 (anti-PD-1) or MDX-1105/BMS-936559 (anti-B7-H1) mAbs.\n4. Subjects must have measurable disease, defined as at least one lesion that can be accurately measured in at least one dimension as \\>10 mm with spiral CT scan.\n\nExclusion Criteria:\n\n1. Patient is unable to provide informed consent\n2. Patient is pregnant\n3. Patient enrollment on research protocol which includes an additional mid-therapy investigational FDG PET/CT at approximately month from start of therapy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Compare FDG PET-based qualitative and quantitative tumor response assessment with standard CT immune RECIST criteria",
+      "timeFrame": "6 months after completion of standard of care treatment",
+      "description": "To compare FDG PET-based qualitative and quantitative tumor response assessment with standard CT immune RECIST criteria in patients receiving immune checkpoint blockade therapy for melanoma, renal cell carcinoma (RCC), and non-small cell lung cancer (NSCLC). Patients will receive 2 standard of care treatment FDG scans, the first scan at the beginning of treatment and the second scan at the end of treatment. The research scan will be done between the first and second scan."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Melanoma Research Alliance"
+  ],
+  "start_date": "2012-04-16",
+  "completion_date": "2018-12-04",
+  "last_updated": "2019-02-06"
+}

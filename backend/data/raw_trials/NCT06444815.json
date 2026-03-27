@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT06444815",
+  "brief_title": "A Study of VET3-TGI in Patients With Solid Tumors",
+  "official_title": "A Phase 1/1b Study of VET3-TGI Administered Alone and in Combination With Pembrolizumab in Patients With Advanced Solid Tumors",
+  "brief_summary": "VET3-TGI is an oncolytic immunotherapy designed to treat advanced cancers. VET3-TGI has not been given to human patients yet, and the current study is designed to find a safe and effective dose of VET3-TGI when administered by direct injection into tumor(s) (called an intratumoral injection) or when given intravenously (into the vein) both alone and in combination with pembrolizumab in patients with solid tumors (STEALTH-001).",
+  "detailed_description": "VET3-TGI was changed in a laboratory to infect and kill cancer cells, leaving healthy cells alone. This is a Phase 1 dose escalation (and expansion) study with VET3-TGI administered by direct injection into tumor(s) or by intravenous infusion. The dose escalation has 4 groups: the first group (Group A) will determine the highest tolerated dose of VET3-TGI when injected into tumor(s); the second group (Group C) will determine the highest tolerated dose of VET3-TGI when infused into the vein. The third and fourth groups (Group B and D) will combine VET3-TGI with pembrolizumab. These groups will begin at the highest tolerated dose determined in Group B and Group D, respectively.\n\nOnce the highest tolerated dose is found for each of these groups, that dose may be expanded to up to 15 additional patients to better examine the efficacy of VET3-TGI.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "Solid Tumor, Adult",
+    "Microsatellite Stable Colorectal Cancer",
+    "Head and Neck Squamous Cell Carcinoma",
+    "Cervical Cancer",
+    "Kidney Cancer",
+    "Renal Cell Carcinoma",
+    "Melanoma Stage IV",
+    "Merkel Cell Carcinoma of Skin",
+    "Mesothelioma",
+    "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "VET3-TGI",
+      "type": "DRUG",
+      "description": "Oncolytic vaccinia virus engineered with immunomodulatory transgenes"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "anti-pd1 antibody"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Have pathologically confirmed, advanced, unresectable, or metastatic solid tumors. Preferred indications include, but are not limited to, breast carcinoma, bladder carcinoma, cervical squamous carcinoma, colorectal carcinoma, esophageal carcinoma, head and neck squamous carcinoma, renal cell carcinoma, ovarian carcinoma, sarcoma, thymoma, and uterine carcinoma.\n* Failed, intolerant to, or refused potentially curative treatment options, including but not limited to, standard of care molecularly targeted agents, immunotherapy (e.g., anti -pembrolizumab/PDL1 antibodies), and chemotherapy\n* Measurable disease as per RECIST 1.1 criteria\n* At least one tumor amenable to safe ITu injections and/or biopsies\n* ECOG performance status 0 or 1\n* Demonstrate adequate organ function\n* Must be willing to comply with all protocol procedures and adhere to post-treatment care instructions\n\nAdditional Inclusion criteria exist\n\nKey Exclusion Criteria:\n\n* Prior systemic therapy washout (dependent upon the therapy)\n* Requires use of anti-platelet or anti-coagulant therapy that cannot be safely suspended for per protocol biopsies or intra-tumoral injections.\n* CNS metastases and/or carcinomatous meningitis that have not been completely resected or completely irradiated.\n* Prior history of myocarditis\n* Known HIV/AIDS, active HBV or HCV infection.\n* Receiving high dose immunosuppressive medication or has a significant immunodeficiency (e.g. transplant recipient, etc).\n\nAdditional Exclusion criteria exist",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC- Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of adverse events with VET3-TGI alone or in combination with pembrolizumab",
+      "timeFrame": "108 months",
+      "description": "Percentage of patients with adverse events by grade as determined by NCI CTCAE v5.0"
+    },
+    {
+      "measure": "Incidence of dose limiting toxicities reported with VET3-TGI alone or in combination with pembrolizumab",
+      "timeFrame": "4 weeks",
+      "description": "Number of dose limiting toxicities, as defined in the protocol, by dose group"
+    },
+    {
+      "measure": "Determine the recommended Phase 2 dose",
+      "timeFrame": "4 weeks",
+      "description": "he highest dose of VET3-TGI in each group that can be administered where fewer than 2 patients have a dose-limiting safety event alone or when combined with pembrolizumab as assessed by NCI CTCAE v.5.0 during the Phase 1 dose escalation"
+    }
+  ],
+  "sponsor": "KaliVir Immunotherapeutics",
+  "collaborators": [],
+  "start_date": "2024-09-16",
+  "completion_date": "2027-12-31",
+  "last_updated": "2025-04-09"
+}

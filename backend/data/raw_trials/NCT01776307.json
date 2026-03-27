@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT01776307",
+  "brief_title": "A Study of BBI608 in Adult Patients With Advanced Colorectal Cancer",
+  "official_title": "A Phase II Clinical Study of BBI608 in Adult Patients With Advanced Colorectal Cancer",
+  "brief_summary": "This is an open label, multi-center, Phase 2 study of BBI608 in combination with cetuximab, panitumumab or capecitabine in patients with advanced colorectal cancer.",
+  "detailed_description": "This is an open label, multi-center, Phase 2 study of BBI608 administered in combination with either cetuximab, or panitumumab, or capecitabine. A cycle will consist of daily and continuous oral administration of BBI608 for four weeks in combination with either cetuximab, or panitumumab, or capecitabine.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "BBI608",
+      "type": "DRUG",
+      "description": "BBI608 is administered at 500 mg po bid continuously."
+    },
+    {
+      "name": "Panitumumab",
+      "type": "DRUG",
+      "description": "Panitumumab will be administered IV on day 8 and 22 of each 28 day cycle at 6 mg/kg over 60 minutes."
+    },
+    {
+      "name": "Capecitabine",
+      "type": "DRUG",
+      "description": "Capecitabine will be administered orally at 1000 mg/m2 bid daily on days 8-21 every three weeks."
+    },
+    {
+      "name": "Cetuximab",
+      "type": "DRUG",
+      "description": "Cetuximab will be administered IV on day 5 at 400 mg/m2 intravenous infusion over 120 minutes as the initial dose, then weekly at 250mg/m2 over 60-minutes at subsequent cycles."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Signed written informed consent must be obtained and documented according to International Conference on Harmonization (ICH), Good Clinical Practice(GCP), the local regulatory requirements, and permission to use private health information in accordance with the Health Insurance Portability and Accountability Act (HIPPA) prior to study-specific screening procedures.\n* A histologically or cytologically confirmed colorectal cancer that is metastatic, unresectable, or recurrent.\n* Patients must have received at least 2 regimens containing 5-Fluorouracil,oxaliplatin, or irinotecan.\n* Patients to be enrolled in the Cetuximab or Panitumumab combination arms must have colorectal cancer which is K-Ras wild-type.\n* \u2265 18 years of age.\n* Measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST 1.1).\n* Karnofsky performance Status \u2265 70%\n* Male or female patients of child-producing potential must agree to use contraception or avoidance of pregnancy measures during the study and for 30 days after the last BBI608 dose.\n* Females of childbearing potential must have a negative serum pregnancy test.\n* Aspartate transaminase (AST) and alanine transaminase (ALT) \u22641.5 \u00d7 upper limit of normal(ULN), or \u2264 2.5 \u00d7 ULN with metastatic liver disease.\n* Hemoglobin (Hgb) \u2265 10 g/dl.\n* Total bilirubin \u2264 1.5 \u00d7 ULN.\n* Creatinine \u2264 1.5 \u00d7 ULN or creatinine clearance \\> 60 mL/min/1.73 m\\^2 for patients with creatinine levels above institutional normal.\n* Absolute neutrophil count \u2265 1.5 x 10\\^9/L.\n* Platelets \u2265 100 x 10\\^9/L.\n* Life expectancy \u2265 3 months.\n\nExclusion Criteria:\n\n* Anti-cancer chemotherapy, radiotherapy, immunotherapy, or investigational agents within four weeks of first dose with the exception for a single dose radiation up to 8 Gray (equal to 800 RAD) with palliative intent for pain control up to 14 days before beginning the administration of BBI608.\n* Surgery within 4 weeks prior to first dose.\n* Any known symptomatic brain metastases requiring steroids. Patients with treated brain metastases must be stable for 4 weeks after completion of that treatment, with image documentation required. Patients must have no clinical symptoms from brain metastases and must be either off steroids or on a stable dose of steroids for at least 2 weeks prior to protocol enrollment. Patients with known leptomeningeal metastases are excluded, even if treated.\n* Pregnant or breastfeeding\n* Significant gastrointestinal disorder(s), in the opinion of the Principal Investigator, (e.g., Crohn's disease, ulcerative colitis, extensive gastric and small intestine resection)\n* Unable or unwilling to swallow BBI608 capsules daily.\n* Uncontrolled intercurrent illness including, but not limited to ongoing or active infection, clinically significant non-healing or healing wounds, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, significant pulmonary disease (shortness of breath at rest or mild exertion), uncontrolled infection or psychiatric illness/social situations that would limit compliance with study requirements.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Disease Control Rate",
+      "timeFrame": "From the date of first treatment, every 8 weeks, until the date of first documented objective disease progression, up to 24 months",
+      "description": "Assessment of Disease Control Rate, defined as the proportion of patients with a documented complete response, partial response and stable disease based on RECIST 1.1, in patients with advanced colorectal cancer given napabucasin in combination with cetuximab, panitumumab or capecitabine"
+    }
+  ],
+  "sponsor": "Sumitomo Pharma America, Inc.",
+  "collaborators": [],
+  "start_date": "2012-03",
+  "completion_date": "2020-04",
+  "last_updated": "2023-11-13"
+}

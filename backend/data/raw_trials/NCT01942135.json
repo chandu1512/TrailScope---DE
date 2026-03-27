@@ -1,0 +1,117 @@
+{
+  "nct_id": "NCT01942135",
+  "brief_title": "Palbociclib (PD-0332991) Combined With Fulvestrant In Hormone Receptor+ HER2-Negative Metastatic Breast Cancer After Endocrine Failure (PALOMA-3)",
+  "official_title": "MULTICENTER, RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED, PHASE 3 TRIAL OF FULVESTRANT (FASLODEX (REGISTERED)). WITH OR WITHOUT PD-0332991 (PALBOCICLIB) +/- GOSERELIN IN WOMEN WITH HORMONE RECEPTOR-POSITIVE, HER2-NEGATIVE METASTATIC BREAST CANCER WHOSE DISEASE PROGRESSED AFTER PRIOR ENDOCRINE THERAPY",
+  "brief_summary": "The study is a randomized, double blind, placebo controlled, Phase 3 clinical trial with the primary objective of demonstrating the superiority of palbociclib in combination with fulvestrant (Faslodex\u00ae) over fulvestrant alone in prolonging PFS in women with HR+, HER2 negative metastatic breast cancer whose disease has progressed after prior endocrine therapy. The safety between the two treatment arms will also be compared. During study treatment, pre- and perimenopausal women must be receiving therapy with the LHRH agonist goserelin (Zoladex\u00ae or generic).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 521,
+  "conditions": [
+    "Metastatic Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Palbociclib",
+      "type": "DRUG",
+      "description": "Palbociclib 125 mg/day orally continuously dosed for 3 weeks followed by 1 week off; repeated at each subsequent cycle."
+    },
+    {
+      "name": "Fulvestrant",
+      "type": "DRUG",
+      "description": "Fulvestrant 500 mg intramuscularly on Days 1 and 15 of Cycle 1, and then on Day 1 of each subsequent 28 day cycle."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Placebo orally continuously dosed for 3 weeks followed by 1 week off; repeated at each subsequent cycle."
+    },
+    {
+      "name": "Fulvestrant",
+      "type": "DRUG",
+      "description": "Fulvestrant 500 mg intramuscularly on Days 1 and 15 of Cycle 1, and then on Day 1 of each subsequent 28 day cycle."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Women 18 years or older with metastatic or locally advanced disease, not amenable to curative therapy\n* Confirmed diagnosis of HR+/HER2- breast cancer\n* Any menopausal status\n* Progressed within 12 months from prior adjuvant or progressed within 1 month from prior advanced/metastatic endocrine breast cancer therapy\n* On an LHRH agonist for at least 28 days, if pre-/peri-menopausal, and willing to switch to goserelin (Zoladex \u00ae) at time of randomization.\n* Measurable disease defined by RECIST version 1.1, or bone-only disease\n* Eastern Cooperative Oncology Group (ECOG) PS 0-1\n* Adequate organ and marrow function, resolution of all toxic effects of prior therapy or surgical procedures\n* Patient must agree to provide tumor tissue from metastatic tissue at baseline\n\nExclusion Criteria:\n\n* Prior treatment with any CDK inhibitor, fulvestrant, everolimus, or agent that inhibits the PI3K-mTOR pathway\n* Patients with extensive advanced/metastatic, symptomatic visceral disease, or known uncontrolled or symptomatic CNS metastases\n* Major surgery or any anti-cancer therapy within 2 weeks of randomization\n* Prior stem cell or bone marrow transplantation\n* Use of potent CYP3A4 inhibitors or inducers",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center (SKCCC) at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center (SKCCC) at Johns Hopkins, Green Spring Station",
+      "city": "Lutherville",
+      "state": "Maryland",
+      "zip": "21093",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Cancer Center, Monroeville",
+      "city": "Monroeville",
+      "state": "Pennsylvania",
+      "zip": "15146",
+      "status": ""
+    },
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "Magee Womens Hospital of UPMC",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center, William M. Cooper Pavilion, Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS) as Assessed by the Investigator",
+      "timeFrame": "From randomization date to date of first documentation of progression or death (assessed up to 12 months)",
+      "description": "PFS is the time from the date of randomization to the date of the first documentation of objective progression of disease (PD)or death due to any cause in absence of documented PD. Participants lacking an evaluation of tumor response after randomization had their PFS time censored on the date of randomization with the duration of a day. Participants with documentation of PD or death after a long interval (2 or more incomplete or non-evaluable assessments) since the last tumor assessment were censored at the time of last objective assessment that did not show PD. The length of PFS was calculated as PFS time (months) =\\[progression/death date(censor date) - randomization date + 1\\]/30.4. Progression is defined using Response Evaluation Criteria in Solid Tumors(RECIST v1.1) a 20% increase in the sum of diameters of target lesions and the sum must also demonstrate an absolute increase of at least 5mm or unequivocal progression of existing non-target lesions or the appearance of new lesions."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [
+    "AstraZeneca"
+  ],
+  "start_date": "2013-09-26",
+  "completion_date": "2022-09-28",
+  "last_updated": "2024-04-01"
+}

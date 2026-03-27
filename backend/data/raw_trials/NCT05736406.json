@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT05736406",
+  "brief_title": "A Dose-escalation Clinical Study of Intraoperative Photodynamic Therapy of Glioblastoma",
+  "official_title": "An Interventional, Multicenter, and International Phase 1/2, Light-dose-escalation Study to Investigate the Safety and Feasibility of Intraoperative Photodynamic Therapy (PDT) With Pentalafen\u00ae Drug and Heliance\u00ae Solution Device in Male and Female Patients 18 to 75 Years of Age With Grade IV Glioblastoma.",
+  "brief_summary": "The primary objective of this clinical trial is to determine the safety and tolerability of two doses of light in intraoperative PDT added to standard of care; temozolomide-based chemotherapy in male and female patients aged 18 to 75 with newly diagnosed glioblastoma.\n\nThis treatment will be carried out in addition to the maximal surgical resection. Data collected during this trial will be used to design the upcoming pivotal study .\n\nThe study will utilize an independent Data and Safety Monitoring Board (iDSMB) that will review safety data to allow dose escalation.",
+  "detailed_description": "This study is a non randomized, open label, multicentercenter , phase 1/2 trial with a sequential enrollment in a 3+3 dose escalation design to establish the maximal tolerated dose of light (MTD).\n\nThe dose of light will be escalated in successive cohorts of patients until at least 1 patient experiences a dose-limiting toxicity (DLT).\n\nA DLT is defined as any grade \u2265 3 Adverse Event (AE), or any relevant grade 2 AE of Central Nervous System or any Serious Adverse Events (SAEs) possibly, probably or definitively related to the intraoperative PDT (i.e., 5-aminolevulinic acid hydrochloride (5-ALA HCl) administration + brain cavity illumination), for which the onset date is within 28 days after the procedure, and where conservative therapy fails and surgical is required, according to the NCI Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.\n\nAfter dose escalation patient will be followed in the standard of care until visit at 6 months to evaluate the progression free survival.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 12,
+  "conditions": [
+    "Primary Glioblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "5-ALA HCl intraoperative Photodynamic Therapy (PDT) at 200 J/cm^2",
+      "type": "COMBINATION_PRODUCT",
+      "description": "5-ALA HCl, 20 mg/kg, is orally administered 4-6 hours before the surgery. Then after resection of tumor tissue is judged maximal, the intraoperative PDT procedure is initiated at 200 J/cm\\^2."
+    },
+    {
+      "name": "5-ALA HCl intraoperative Photodynamic Therapy (PDT) at 400 J/cm^2",
+      "type": "COMBINATION_PRODUCT",
+      "description": "5-ALA HCl, 20 mg/kg, is orally administered 4-6 hours before the surgery. Then after resection of tumor tissue is judged maximal, the intraoperative PDT procedure is initiated at 400 J/cm\\^2."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria I01. Males or females must be between 18, or legal age of consent, and 75 years of age (both included) at the time of signing informed consent.\n\nI02. Signed informed consent which includes compliance with requirements and restrictions listed in the informed consent.\n\nI03. Newly diagnosed GBM, presumed on the basis of clinical and MRI criteria (intra-axial brain tumor with peripheral rim contrast enhancement).\n\nI04. Karnofsky Performance Score \u226570 I05. Eligible for surgery. I06. Amenable to maximal tumor resection based on MRI. I07. Planned to receive SOC (i.e., Stupp Protocol) treatment after surgery. I08. Ability to take oral medications. I09. Tumor eligible to PDT procedure as validated by both investigator and sponsor based on pre-operative MRI data\n\nExclusion criteria\n\n1.Medical conditions E01.\n\n1. Patient with bifocal or multifocal disease, assessed on MR1I T1Gd enhanced.\n2. Patient with tumor of deep location such as tumor involving the corpus callosum, the basal ganglia, the brain stem, or tumor involving the midline as assessed on MRI.\n3. Patient with prior brain surgery other than stereotactic biopsy E02. Patient with Lynch syndrome E03. Patient with Li-Fraumeni syndrome E04. Debilitating cardiopulmonary disease, unstable Type 1 or Type 2 diabetes (treated or not) E05. History or current condition of another malignancy (excluding basal cell carcinoma, or E05. carcinoma in-situ) unless treated and off all active therapy for more than 5 years E06. Clinically significant abnormal ECG results, including a corrected QT interval QTc \\> 480 ms E07. Creatinine clearance \\< 60 mL/min E08. Severe hepatic impairment (bilirubin \\> 1.5 x the upper limit of normal \\[ULN\\] or alkaline phosphatase or transaminases (AST, ALT) \\> 2.5 x ULN) E09. Known allergic reactions to silicone E10. Known allergic reactions or hypersensitivity to egg, soya, or peanut proteins.\n\nE11. Febrile illness\n\nContraindication\n\nE12. Contraindication to 5-ALA HCl administration, including:\n\n1. Porphyria\n2. Taking photosensitizing drugs 24 hours before and 14 days after the administration of Pentalafen\u00ae including but not limited to: St. John's wort, griseofulvin, thiazide diuretics, sulfonylureas, phenothiazines, sulphonamides, quinolones and tetracyclines, and topical preparations containing ALA (See Section 6.10)\n3. Inability to suspend a long-term hepatotoxic treatment (such as, but not limited to diclofenac, fenofibrate, carbamazepine) for 24 hours after 5-ALA HCl intake E13. Contraindication to MRI examination (e.g., MRI-incompatible pacemaker) E14. Treatment with another investigational drug or intervention within 30 days prior to or during the entire study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximal Tolerated Dose (MDT) of light for Photodynamic Therapy",
+      "timeFrame": "4 weeks after intervention",
+      "description": "Evaluation of Dose Limiting Toxicities (DLT) to define MDT"
+    }
+  ],
+  "sponsor": "Hemerion Therapeutics",
+  "collaborators": [],
+  "start_date": "2024-02-20",
+  "completion_date": "2026-07",
+  "last_updated": "2025-09-05"
+}

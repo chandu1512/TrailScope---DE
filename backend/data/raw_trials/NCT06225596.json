@@ -1,0 +1,96 @@
+{
+  "nct_id": "NCT06225596",
+  "brief_title": "Study BT8009-230 in Participants With Locally Advanced or Metastatic Urothelial Cancer (Duravelo-2)",
+  "official_title": "A Randomized Open-Label Phase 2/3 Study of BT8009 as Monotherapy or in Combination in Participants With Locally Advanced or Metastatic Urothelial Cancer (Duravelo-2)",
+  "brief_summary": "This is a global, multicenter, randomized, open-label study, with an adaptive design. The main objective of the study is to measure the efficacy and safety of BT8009 (zelenectide pevedotin) as monotherapy and in combination with pembrolizumab in participants with locally advanced or metastatic urothelial cancer (UC). The study includes a dose selection phase followed by an adaptive design continuation. The study is comprised of 2 cohorts. Cohort 1 will include participants who have not received any prior systemic therapy for locally advanced or metastatic UC and are eligible to receive platinum-based chemotherapy, whereas Cohort 2 will include participants who have received \u2265 1 prior systemic therapy for locally advanced or metastatic UC.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 956,
+  "conditions": [
+    "Metastatic Urothelial Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "BT8009",
+      "type": "DRUG",
+      "description": "Participants will receive BT8009 on Days 1, 8, and 15 of every 21-day cycle."
+    },
+    {
+      "name": "BT8009",
+      "type": "DRUG",
+      "description": "Participants will receive BT8009 on Days 1 and 8 of every 21-day cycle."
+    },
+    {
+      "name": "BT8009",
+      "type": "DRUG",
+      "description": "Participants will receive BT8009 on days 1, 8 +/- 15 schedule of every 21-day cycle."
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Participants will receive Pembrolizumab on Day 1 of every 21-day cycle. Pembrolizumab infusion will be started 30 minutes following the completion of the BT8009 infusion."
+    },
+    {
+      "name": "Gemcitabine + cisplatin Or carboplatin",
+      "type": "DRUG",
+      "description": "Participants will receive Gemcitabine on Days 1 and 8 of every 21-day cycle plus cisplatin Or carboplatin on Day 1 of every 21-day cycle."
+    },
+    {
+      "name": "Avelumab",
+      "type": "DRUG",
+      "description": "After 4-6 cycles of Gemcitabine + Cisplatin or Carboplatin participants will receive maintenance Avelumab, if clinically indicated, on Days 1 and 15 each 28-day cycle."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Life expectancy \u2265 12 weeks.\n* Measurable disease as defined by RECIST v1.1.\n* Histologically or cytologically confirmed locally advanced (unresectable) or metastatic UC of the renal pelvis, ureter, bladder, or urethra.\n* Archival or fresh tumor tissue comprising muscle-invasive UC or locally advanced or metastatic UC should be available for submission to central laboratory.\n* Negative pregnancy test for women of childbearing potential (WOCBP) (negative serum test at Screening and negative urine or serum test within 72 hours prior to the first dose).\n* Cohort 1: Previously Untreated: Eligible to receive platinum-based chemotherapy (either cisplatin- or carboplatin-based chemotherapy based on Investigator decision.\n* Cohort 1: Participants must not have received prior systemic therapy for locally advanced or metastatic UC with the following exceptions:\n\n  1. Prior local intravesical chemotherapy, local surgery when full resection is not achieved, local immunotherapy, and radiotherapy are permitted if completed at least 4 weeks prior to the initiation of study treatment and all acute toxicities have resolved.\n  2. Prior neoadjuvant/adjuvant chemotherapy or monomethyl auristatin E (MMAE)-based therapy with recurrence \\>12 months from completion of therapy.\n  3. Prior neoadjuvant/adjuvant immune checkpoint inhibitor therapy with recurrence \\>12 months from completion of therapy.\n* Cohort 2: Previously Treated: Participants must have received \u2265 1 prior systemic treatment for locally advanced or metastatic UC. This includes neoadjuvant/adjuvant platinum-based chemotherapy if recurrence occurred within 12 months of completing therapy.\n* Cohort 2: Progression or recurrence of UC during or following receipt of most recent therapy.\n\nKey Exclusion Criteria:\n\n* Active keratitis or corneal ulcerations.\n* Requirement, while on study, for treatment with strong inhibitors or strong inducers of human cytochrome P450 3A (CYP3A) or inhibitors of P-glycoprotein (P-gp) including herbal- or food-based inhibitors.\n* Any condition requiring current treatment with high dose corticosteroids (\\> 10 mg daily prednisone or equivalent).\n* Known hypersensitivity or allergy to any of the ingredients of any of the study interventions, or to MMAE.\n* Has not adequately recovered from recent major surgery (excluding placement of vascular access).\n* Receipt of live or attenuated vaccine within 30 days of first dose.\n* Cohort 1: Previously Untreated: Prior treatment with a checkpoint inhibitor (CPI) for any other malignancy within the last 12 months.\n* Cohort 2: Previously Treated: Received more than 1 prior platinum-based chemotherapy regimen for locally advanced or metastatic UC. This includes neoadjuvant/adjuvant platinum-based chemotherapy if recurrence occurred within 12 months of completing therapy.\n* Cohort 2: Prior treatment with enfortumab vedotin or any other MMAE-based therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Medical Oncology Hematology Consultants",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Astera Cancer Care",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Summit Health (New Jersey Urology)",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": "WITHDRAWN"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cohort 1: Progression-free survival (PFS) per Response Evaluation Criteria in Solid Tumors, version 1.1 (RECIST v1.1) assessed by blinded central independent review (BICR)",
+      "timeFrame": "Up to approximately 6 years",
+      "description": "The time from randomization to date of first documentation of disease progression or death."
+    },
+    {
+      "measure": "Cohort 2: Objective response rate (ORR) per RECIST 1.1 assessed by BICR",
+      "timeFrame": "Up to approximately 6 years",
+      "description": "The time from randomization to date of first documentation of disease progression or death."
+    }
+  ],
+  "sponsor": "BicycleTx Limited",
+  "collaborators": [],
+  "start_date": "2024-01-24",
+  "completion_date": "2030-12",
+  "last_updated": "2026-02-16"
+}

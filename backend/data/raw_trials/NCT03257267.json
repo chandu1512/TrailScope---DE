@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT03257267",
+  "brief_title": "Study of Cemiplimab in Adults With Cervical Cancer",
+  "official_title": "An Open-Label, Randomized, Phase 3 Clinical Trial of REGN2810 Versus Investigator's Choice of Chemotherapy in Recurrent or Metastatic Cervical Carcinoma",
+  "brief_summary": "The primary objective is to compare overall survival (OS) for patients with recurrent or metastatic cervical cancer who have histology of squamous cell carcinoma (SCC) and who have any eligible histology treated with either cemiplimab or investigator's choice (IC) chemotherapy.\n\nThe secondary objectives performed among SCC patients and among all eligible histologies (SCC and adenocarcinoma/adenosquamous carcinoma (AC) are:\n\n* To compare progression-free survival (PFS) of cemiplimab versus IC chemotherapy\n* To compare objective response rate (ORR) (partial response \\[PR\\] + complete response \\[CR\\]) of cemiplimab versus IC chemotherapy per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1\n* To compare the duration of response (DOR) of cemiplimab versus IC chemotherapy\n* To compare the safety profiles of cemiplimab versus IC chemotherapy by describing adverse events (AE)\n* To compare quality of life (QOL) for patients treated with cemiplimab versus IC chemotherapy using the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-Core 30 (EORTC QLQ-C30)",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 608,
+  "conditions": [
+    "Squamous Cell Carcinoma (SCC)",
+    "Recurrent or Metastatic, Platinum-refractory Cervical Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Cemiplimab",
+      "type": "DRUG",
+      "description": "Intravenous (IV) administration every 3 weeks (Q3W)"
+    },
+    {
+      "name": "Investigator Choice (IC) Chemotherapy",
+      "type": "DRUG",
+      "description": "IC chemotherapy options include:\n\n1. Antifolate: Pemetrexed\n2. Topoisomerase 1 inhibitor: Topotecan or Irinotecan\n3. Nucleoside analogue: Gemcitabine\n4. Vinca alkaloid: Vinorelbine\n\nThe only chemotherapy treatments allowed in the control arm are any of the 5 drugs that are listed as IC options above."
+    }
+  ],
+  "eligibility": {
+    "criteria": "The criteria listed below are not intended to contain all considerations relevant to a patient's potential participation in this clinical trial.\n\nKey Inclusion Criteria:\n\n1. Recurrent, persistent, and/or metastatic cervical cancer with squamous cell histology, for which there is not a curative-intent option (surgery or radiation therapy with or without chemotherapy).\n\n   * Acceptable histologies (squamous carcinoma, adenocarcinoma, and adenosquamous carcinoma) as defined in the protocol\n2. Tumor progression or recurrence after treatment with platinum therapy (must have been used to treat metastatic, persistent, or recurrent cervical cancer)\n3. Patient must have measurable disease as defined by RECIST 1.1.\n4. Eastern Cooperative Oncology Group (ECOG) performance status \u22641\n5. \u226518 years old\n6. Adequate organ or bone marrow function\n7. Received prior bevacizumab therapy or had clinically documented reason why not administered\n8. Received prior paclitaxel therapy or had clinically documented reason why not administered\n\nKey Exclusion Criteria:\n\n1. Ongoing or recent (within 5 years) evidence of significant autoimmune disease that required treatment with systemic immunosuppressive treatments\n2. Prior treatment with an agent that blocks the PD-1/PD-L1 pathway\n3. Prior treatment with other systemic immune-modulating agents that was\n\n   1. within fewer than 4 weeks (28 days) of the enrollment date, or\n   2. associated with irAEs of any grade within 90 days prior to enrollment, or\n   3. associated with toxicity that resulted in discontinuation of the immune modulating agent\n4. Active or untreated brain metastases\n5. Immunosuppressive corticosteroid doses (\\>10 mg prednisone daily or equivalent) within 4 weeks prior to the first dose of study drug cemiplimab or IC chemo)\n6. Active infection requiring therapy\n7. History of pneumonitis within the last 5 years\n8. History of documented allergic reactions or acute hypersensitivity reaction attributed to antibody treatments\n9. Concurrent malignancy other than cervical cancer and/or history of malignancy other than cervical cancer within 3 years of date of first planned dose of study drug cemiplimab or IC chemo), except for tumors with negligible risk of metastasis or death, such as adequately treated cutaneous squamous cell carcinoma or basal cell carcinoma of the skin or ductal carcinoma in situ of the breast. Patients with hematologic malignancies (eg, chronic lymphocytic leukemia) are excluded.\n\nNote: Other protocol defined Inclusion/Exclusion apply",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "From first dose up to 90 following last dose (~42 months)",
+      "description": "Overall survival was defined as the time from randomization to the date of death due to any cause. A participant who had not died was censored at the last known date of contact."
+    },
+    {
+      "measure": "Overall Survival (OS) in the SCC Population",
+      "timeFrame": "From first dose up to 90 following last dose (~42 months)",
+      "description": "Overall survival was defined as the time from randomization to the date of death due to any cause. A participant who had not died was censored at the last known date of contact."
+    }
+  ],
+  "sponsor": "Regeneron Pharmaceuticals",
+  "collaborators": [
+    "Sanofi"
+  ],
+  "start_date": "2017-09-05",
+  "completion_date": "2023-04-20",
+  "last_updated": "2025-04-04"
+}

@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT03110692",
+  "brief_title": "Default Options to Reduce Unnecessary Daily Imaging During Palliative Radiation",
+  "official_title": "Health System Initiative to Reduce Unnecessary Daily X-Ray Image Guidance During Palliative Radiation Treatment",
+  "brief_summary": "The goal of this study is to reduce preference sensitive, unnecessary daily imaging during radiation treatment in which a pre-planned quality improvement default option for radiation treatment prescriptions will be introduced throughout the network of Penn Radiation Oncology.",
+  "detailed_description": "The goal of this study is to reduce preference sensitive, unnecessary daily imaging during radiation treatment in which a pre-planned quality improvement default option for radiation treatment prescriptions will be introduced throughout the network of Penn Radiation Oncology. This study is a prospectively designed, observational trial with two comparison groups: (1) a usual practice group (control group) and (2) a default radiation treatment prescription group (intervention group), in which the usual practice group will subsequently rollover from control to intervention so that all sites and physicians in the practice network of Penn Radiation Oncology are exposed to intervention. The purpose of this study is to reduce preference sensitive, unnecessary daily imaging during radiation treatment with the implementation of a quality improvement initiative within 5 sites of Penn Radiation Oncology. We aim to leverage the introduction of a default prescription option to reduce the use of daily imaging in palliative intent cases where it has limited clinical benefit and adds to cost burden. Our objective is to encourage more patient-centric clinical practice.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1188,
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Default initiation",
+      "type": "BEHAVIORAL",
+      "description": "A default prescription template will be introduced in the palliative setting in order to reduce unnecessary daily image guided radiation."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Radiation treatment courses with palliative intent\n* Palliative treatment of bone, soft tissue, and intracranial metastases\n* Photon radiation with 3D conformal therapy (3DCRT) only\n\nExclusion Criteria:\n\n* Use of intensity modulated radiation (IMRT) or stereotactic body radiation (SBRT) as radiation treatment modality\n* Retreatment to same site\n* Proton radiation",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania Health System",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percent of Patients Receiving Daily Imaging",
+      "timeFrame": "3 months post arm crossover",
+      "description": "Radiology tests including x-rays and CT scans"
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [],
+  "start_date": "2016-02-10",
+  "completion_date": "2018-02-09",
+  "last_updated": "2019-11-20"
+}

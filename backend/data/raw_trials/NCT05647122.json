@@ -1,0 +1,108 @@
+{
+  "nct_id": "NCT05647122",
+  "brief_title": "First in Human Study of AZD9592 in Solid Tumors",
+  "official_title": "A Phase I, Multicenter, Open-label, First-in-Human, Dose Escalation and Expansion Study of AZD9592 as Monotherapy and in Combination With Anti-cancer Agents in Patients With Advanced Solid Tumors",
+  "brief_summary": "This is a first-in-human (FIH) Phase I, multi-center, open-label, study of AZD9592, in patients with advanced solid tumors. The study consists of several study modules, each evaluating the safety, tolerability, preliminary efficacy, pharmacokinetics (PK), pharmacodynamics, anti-tumor activity, and immunogenicity of AZD9592, as monotherapy or in combination with anti-cancer agents.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 403,
+  "conditions": [
+    "Advanced Solid Tumours",
+    "Carcinoma Non-small Cell Lung",
+    "Head and Neck Neoplasms",
+    "Colorectal Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "AZD9592",
+      "type": "DRUG",
+      "description": "Varying doses of AZD9592"
+    },
+    {
+      "name": "Osimertinib",
+      "type": "DRUG",
+      "description": "tablets administered orally"
+    },
+    {
+      "name": "5-Fluorouracil (5-FU)",
+      "type": "DRUG",
+      "description": "IV infusion"
+    },
+    {
+      "name": "Leucovorin",
+      "type": "DRUG",
+      "description": "IV infusion"
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "IV infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Age \u2265 18 years\n* Eastern Cooperative Oncology Group (ECOG) Performance Status: 0-1\n* Life expectancy \u2265 12 weeks\n* Measurable disease per RECIST v1.1\n* Adequate organ and marrow function as defined in the protocol\n\nAdditional Inclusion Criteria for Module 1:\n\n\u2022 Histologically or cytologically confirmed metastatic or locally advanced EGFRmut., NSCLC; metastatic EGFRwt. NSCLC; recurrent or metastatic HNSCC of the oral cavity; metastatic CRC.\n\nAdditional Inclusion Criteria for Module 2:\n\n\u2022 Histologically or cytologically confirmed metastatic NSCLC EGFRmut.\n\nAdditional Inclusion Criteria for Module 3:\n\n\u2022 Histologically or cytologically confirmed metastatic CRC.\n\nKey Exclusion Criteria:\n\n* History of (non-infectious) ILD/pneumonitis that required steroids, has current ILD/pneumonitis, or where suspected ILD/pneumonitis cannot be ruled out by imaging at screening.\n* Spinal cord compression or a history of leptomeningeal carcinomatosis.\n* Active infection including tuberculosis and HBV, HCV or HIV\n* Brain metastases unless treated (prior treatment required only for Module 1), asymptomatic, stable, and not requiring continuous corticosteroids at a dose of \\> 10 mg prednisone/day or equivalent for at least 4 weeks prior to start of study treatment.\n* Participants with cardiac comorbidities as defined in the study protocol",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of Adverse Events (AEs)",
+      "timeFrame": "From time of Informed Consent to 30 days post last dose of AZD9592",
+      "description": "Number of patients with adverse events by system organ class and preferred term"
+    },
+    {
+      "measure": "Incidence of Serious Adverse Events (SAEs)",
+      "timeFrame": "From time of Informed Consent to 30 days post last dose of AZD9592",
+      "description": "Number of patients with serious adverse events by system organ class and preferred term"
+    },
+    {
+      "measure": "Incidence of dose-limiting toxicities (DLT) as defined in the protocol",
+      "timeFrame": "From time of first dose of AZD9592 to end of DLT period (approximately 21 days)",
+      "description": "Number of patients with at least 1 dose-limiting toxicity (DLT), which is any toxicity defined as a DLT in the Clinical Study Protocol"
+    },
+    {
+      "measure": "Incidence of baseline laboratory finding, ECG and vital signs changes",
+      "timeFrame": "From time of Informed Consent to 30 days post last dose of AZD9592",
+      "description": "measured by laboratory and vital sign variables over time including change from baseline"
+    },
+    {
+      "measure": "Proportion of patients with radiological response (ORR)",
+      "timeFrame": "From date of first dose of AZD9592 up until progression, or the last evaluable assessment in the absence of progression (approximately 2 years)",
+      "description": "Assessed by overall response rate (ORR) defined as the proportion of patients who have a confirmed complete or partial radiological response by the Investigator according to RECIST v1.1 (for patients in the dose expansion cohorts, only)"
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2022-12-21",
+  "completion_date": "2027-10-06",
+  "last_updated": "2026-02-19"
+}

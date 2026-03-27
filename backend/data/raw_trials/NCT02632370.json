@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT02632370",
+  "brief_title": "5-Aminolevulinic Acid (5-ALA) to Enhance Visualization of Malignant Tumor",
+  "official_title": "A Multicenter Study of 5-Aminolevulinic Acid (5-ALA) to Enhance Visualization of Malignant Tumor in Patients With Newly Diagnosed or Recurrent Malignant Gliomas: A Safety, Histopathology, and Correlative Biomarker Study",
+  "brief_summary": "In support of the US marketing application for 5-ALA, this single arm trial is being conducted to establish the efficacy and safety of Gliolan\u00ae (5-ALA) in patients with newly diagnosed or recurrent malignant gliomas. The hypothesis of the study is Gliolan\u00ae (5-ALA), as an adjunct to tumor resection, is safe and that real-time tissue fluorescence correlates with malignant histopathology. The primary objective in this single arm study is to define the positive predictive value (PPV) of Gliolan\u00ae-induced PPIX fluorescence for malignant tumor at the time of initial resection and first use of FGS by taking a biopsy of tissue presenting with red fluorescence when observed during the course of resection of new or recurrent malignant gliomas. The functionality and performance reliability of the blue light excitation microscope platforms will be assessed.",
+  "detailed_description": "Primary Objectives\n\n* To determine whether Gliolan\u00ae (5-ALA)-induced PPIX fluorescence correlates with malignant tumor histopathology (in a minimum of 3-5 serial biopsies taken from the red fluorescent region of tissue resection).\n* To determine the patient safety profile of both oral Gliolan\u00ae (5-ALA), as well as use of the fluorescence operative microscope. These will include use of commonly accepted toxicity measures as well as recording surgically-related neurological deficits within the six weeks after surgery.\n* To determine functionality and performance reliability of the blue light excitation microscope platforms (Zeiss Pentero, Leica OH4, Leica OH6 and others).\n\nSecondary Objectives\n\n* To correlate PPIX-containing extracellular microvesicles recovered from blood (at multiple time points prior to and following tumor resection) with the pre-operative MRI tumor volume.\n* To characterize the presence and longitudinal changes in microvesicle biomarkers recovered from blood evaluating EGFRvIII, IDH1/2 wt and mutations and others. These microvesicular blood genes will be identified and correlated with the same microvesicular genes identified in tissue at the time of surgery.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 69,
+  "conditions": [
+    "Malignant Gliomas"
+  ],
+  "interventions": [
+    {
+      "name": "Gliolan\u00ae",
+      "type": "DRUG",
+      "description": "single dose of oral 5-ALA (20mg/kg bodyweight) at 3 hours (range 2-5 hours) given preoperatively"
+    },
+    {
+      "name": "Fluorescence-Guided Surgery",
+      "type": "PROCEDURE",
+      "description": "performed utilizing blue light. At least 3-5 fluorescent tissue samples will be taken."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subjects included must have an MRI documenting a primary brain tumor for which resection is indicated and has been planned. These patients will include those with newly diagnosed or recurrent malignant gliomas. Standard criteria for diagnosis will include a distinct ring-like pattern of contrast enhancement with thick irregular walls on MRI for patients with a presumed newly diagnosed malignant glioma.\n* Age 18-80.\n* Karnofsky\\>60%.\n* Subjects must have normal organ and marrow function as defined below:\n\nLeukocytes \\>3,000/mL Platelets \\>100,000/mL Total bilirubin below upper limit of normal AST (SGOT)/ALT (SGPT) \\<2.5 X institutional upper limit of normal Creatinine below upper limit of normal OR Creatinine clearance \\>60 mL/min/1.73 m2 for patients with creatinine levels above institutional normal.\n\n* The effects of 5-aminolevulinic Acid (5-ALA) on the developing human fetus are unknown. For this reason, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation. A pregnancy test will be performed for all women of childbearing ability prior to surgery (see Exclusion Criteria below). Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately.\n* Ability to understand and the willingness to sign a written informed consent document. Translation will be provided as appropriate by institution.\n* Inclusion of Women and Minorities: Both men and women and members of all ethnic groups are eligible for this trial.\n\nExclusion Criteria:\n\n* Patients with radiographic tumors of, or involving, nonresectable midline, the basal ganglia, or brain stem as assessed by MRI.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to aminolevulinic acid (ALA). Patients should refrain from use of other potential phototoxic substances (e.g. tetracyclines, sulfonamides, fluoroquinolones, hypericin extracts) for 72 h.\n* Personal or family history of porphyria.\n* Uncontrolled intercurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements. . Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with 5-aminolevulinic acid (5-ALA), breastfeeding should be discontinued if the mother is treated with 5-aminolevulinic acid (5-ALA).\n* Women who are pregnant will be excluded from the trial as aminolevulinic acid (ALA) is unknown to be teratogenic or have abortifacient effects Prior history of GI perforation, diverticulitis, and/or peptic ulcer disease.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "St. Luke's University Health Network",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "status": ""
+    },
+    {
+      "facility": "Penn State- Milton S. Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny General Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of diagnostic tissue presence",
+      "timeFrame": "6 weeks",
+      "description": "Pathologic confirmation of tumor type will be made by a pathologist who will not be informed of the fluorescence status of the tissue samples."
+    }
+  ],
+  "sponsor": "Constantinos Hadjipanayis",
+  "collaborators": [
+    "Massachusetts General Hospital"
+  ],
+  "start_date": "2016-05",
+  "completion_date": "2018-12-31",
+  "last_updated": "2019-02-22"
+}

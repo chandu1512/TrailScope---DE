@@ -1,0 +1,325 @@
+{
+  "nct_id": "NCT00585195",
+  "brief_title": "A Study Of Oral PF-02341066, A C-Met/Hepatocyte Growth Factor Tyrosine Kinase Inhibitor, In Patients With Advanced Cancer",
+  "official_title": "PHASE 1 SAFETY, PHARMACOKINETIC AND PHARMACODYNAMIC STUDY OF PF-02341066, A MET/HGFR SELECTIVE TYROSINE KINASE INHIBITOR, ADMINISTERED ORALLY TO PATIENTS WITH ADVANCED CANCER",
+  "brief_summary": "PF-02341066 may work in cancer by blocking the cell growth, migration and invasion of tumor cells. PF-02341066 is a new class of drugs called c-Met/Hepatocyte growth factor receptor tyrosine kinase inhibitors. This compound is also an inhibitor of the anaplastic lymphoma kinase (called ALK) tyrosine kinase and ROS receptor tyrosine kinases. This research study is the first time PF-02341066 will be given to people. PF-02341066 is taken by mouth daily.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 596,
+  "conditions": [
+    "Non-Small Cell Lung Cancer ALK-positive",
+    "Non-Small Cell Lung Cancer c-Met Dependent",
+    "Non-Small Cell Lung Cancer ROS Marker Positive",
+    "Systemic Anaplastic Large-Cell Lymphoma",
+    "Advanced Malignancies Except Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "PF-02341066",
+      "type": "DRUG",
+      "description": "Escalating doses of PF-02341066 will be administered orally on a continuous dosing schedule. Doses to be evaluated will range from 50 mg to 2000 mg/day administered either once or twice a day. A treatment cycle is considered to be 28 days (or 21 days depending on the cohort)."
+    },
+    {
+      "name": "Rifampin",
+      "type": "DRUG",
+      "description": "600 mg QD administered from Cycle 1, Day 16 to Cycle 2, Day 1 (14 days of dosing) in combination with PF-02341066."
+    },
+    {
+      "name": "Itraconazole",
+      "type": "DRUG",
+      "description": "Multiple Dose Design: 200 mg QD administered from Cycle 1, Day 1 to Cycle 1, Day 16 (16 days) in combination with PF-02341066."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Advanced malignancies (except leukemias), histologically proven at diagnosis; Histologically confirmed advanced malignancies that are known to be sensitive to PF-03241066 inhibition, e.g. ALK, c-MET and ROS\n* Solid tumors must have measurable disease (Recommended Phase 2 Dose Cohort patients with non-measurable disease may enter on a case-by-case basis); not required for DDI sub-studies.\n* Adequate blood cell counts, kidney function, liver function and Eastern Cooperative Oncology Group (ECOG) score of 0 or 1 (for the Recommended Phase 2 Cohort, a ECOG score of 2 may be allowed on a case-by-case basis)\n\nExclusion Criteria:\n\n* Major surgery, radiation therapy or anti-cancer therapy within 2 to 4 weeks of starting study treatment, depending on the patient cohort\n* Prior stem cell transplant except of patients with neuroblastoma, lymphoma or myeloma\n* Active or unstable cardiac disease or heart attack within 3 months of starting study treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose-Escalation Cohort: Maximum Tolerated Dose (MTD) of Crizotinib",
+      "timeFrame": "Cycle 1 (28 days)",
+      "description": "MTD: Dose level at which at most 1 of 6 participants experienced DLT within and including 28 days of treatment (during Cycle 1 \\[1 cycle=28 days\\]) with next higher dose having at least 2/3 or 2/6 participants experiencing a DLT. DLT was defined as any of following: Hematologic toxicities- 1) prolonged grade 4 neutropenia for \\>7 days. 2) Febrile neutropenia: grade 4 neutropenia with fever greater than (\\>) 38.5 degree Celsius, both sustained over a 24 hour period (3) neutropenic infection: greater than or equal to (\\>=) Grade 3 neutropenia with Grade \\>=3 infection. (4) Grade \\>=3 thrombocytopenia with bleeding/grade 4 lasting \\>=7 days. Other non-hematologic toxicity included: Grade 3/4 toxicities (except for alopecia, Grade 3/4 hypophosphatemia, grade 3 hypertension with controlled blood pressure \\[less than (\\<) 140/90 millimeter of mercury, and Grade 3/4 hyperuricemia without signs and symptoms of gout). Nausea, vomiting/diarrhea must persist at grade 3/4 despite maximal medical therapy."
+    },
+    {
+      "measure": "Dose-Escalation Cohort: Recommended Phase 2 Dose (RP2D) of Crizotinib",
+      "timeFrame": "Cycle 1 (28 days)",
+      "description": "RP2D was defined as a dose below or equal to MTD, at which crizotinib was unlikely to cause a significant inhibition of CYP3A4 activity."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Area Under the Curve From Time Zero to Extrapolated Infinite Time (AUCinf) of Crizotinib on Day -7",
+      "timeFrame": "Pre-dose, 1, 2, 4, 6, 8, 9, 24, 48 and any two time points (72, 96, 120 and 144 hours) post-dose on Day -7",
+      "description": "AUCinf = Area under the plasma concentration versus time curve (AUC) from time zero (pre-dose) extrapolated to infinite time (0-inf)."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Area Under the Curve From Time Zero to End of Dosing Interval (AUCtau) of Crizotinib on Day -7",
+      "timeFrame": "Pre-dose, 1, 2, 4, 6, 8, 9, 24, 48 and any two time points (72, 96, 120 and 144 hours) post-dose on Day -7",
+      "description": "Area under the plasma concentration versus time curve from time 0 to end of dosing interval (AUCtau), where dosing interval is 12 hours for BID dose and 24 hours for QD dose."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Area Under the Curve From Time Zero to End of Dosing Interval (AUCtau) of Crizotinib on Cycle 1 Day 1",
+      "timeFrame": "Pre-dose, 2, 4 and 6 hours post dose on Cycle 1 Day 1",
+      "description": "Area under the plasma concentration versus time curve from time 0 to end of dosing interval (AUCtau), where dosing interval is 12 hours for BID dose and 24 hours for QD dose."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Area Under the Curve From Time Zero to End of Dosing Interval (AUCtau) of Crizotinib on Cycle 1 Day 15",
+      "timeFrame": "Pre-dose, 1, 2, 4, 6, 8, 9 and 24 hours post dose on Cycle 1 Day 15",
+      "description": "Area under the plasma concentration versus time curve from time 0 to end of dosing interval (AUCtau), where dosing interval is 12 hours for BID dose and 24 hours for QD dose."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Area Under the Curve From Time Zero to End of Dosing Interval (AUCtau) of Crizotinib on Cycle 2 Day 1",
+      "timeFrame": "Pre-dose, 1, 2, 4, 6, 8, 9 and 24 hours post dose on Cycle 2 Day 1",
+      "description": "Area under the plasma concentration versus time curve from time 0 to end of dosing interval (AUCtau), where dosing interval is 12 hours for BID dose and 24 hours for QD dose."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Trough Concentration (Ctrough) of Crizotinib Cycle 1 Day 15",
+      "timeFrame": "Pre-dose on Cycle 1 Day 15",
+      "description": "Ctrough refers to plasma concentration of Crizotinib observed just before treatment administration."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Trough Concentration (Ctrough) of Crizotinib on Cycle 2 Day 1",
+      "timeFrame": "Pre-dose on Cycle 2 Day 1",
+      "description": "Ctrough refers to plasma concentration of Crizotinib observed just before treatment administration."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Maximum Observed Plasma Concentration (Cmax) of Crizotinib on Day -7",
+      "timeFrame": "Pre-dose, 1, 2, 4, 6, 8, 9, 24, 48 and any two time points (72, 96, 120 and 144 hours) post-dose on Day -7",
+      "description": "Cmax is defined as the observed maximum plasma concentration post drug administration."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Maximum Observed Plasma Concentration (Cmax) of Crizotinib on Cycle 1 Day 1",
+      "timeFrame": "Pre-dose, 2, 4 and 6 hours post dose on Cycle 1 Day 1",
+      "description": "Cmax is defined as the observed maximum plasma concentration post drug administration."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Maximum Observed Plasma Concentration (Cmax) of Crizotinib on Cycle 1 Day 15",
+      "timeFrame": "Pre-dose, 1, 2, 4, 6, 8, 9 and 24 hours post dose on Cycle 1 Day 15",
+      "description": "Cmax is defined as the observed maximum plasma concentration post drug administration."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Maximum Observed Plasma Concentration (Cmax) of Crizotinib on Cycle 2 Day 1",
+      "timeFrame": "Pre-dose, 1, 2, 4, 6, 8, 9 and 24 hours post dose on Cycle 2 Day 1",
+      "description": "Cmax is defined as the observed maximum plasma concentration post drug administration."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Time to Reach Maximum Observed Plasma Concentration (Tmax) of Crizotinib on Day -7",
+      "timeFrame": "Pre-dose, 1, 2, 4, 6, 8, 9, 24, 48 and any two time points (72, 96, 120 and 144 hours) post-dose on Day -7",
+      "description": "Tmax was defined as the time to reach the observed maximum plasma concentration (Cmax)."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Time to Reach Maximum Observed Plasma Concentration (Tmax) of Crizotinib on Cycle 1 Day 1",
+      "timeFrame": "Pre-dose, 2, 4 and 6 hours post dose on Cycle 1 Day 1",
+      "description": "Tmax was defined as the time to reach the observed maximum plasma concentration (Cmax)."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Time to Reach Maximum Observed Plasma Concentration (Tmax) of Crizotinib on Cycle 1 Day 15",
+      "timeFrame": "Pre-dose, 1, 2, 4, 6, 8, 9 and 24 hours post dose on Cycle 1 Day 15",
+      "description": "Tmax was defined as the time to reach the observed maximum plasma concentration (Cmax)."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Time to Reach Maximum Observed Plasma Concentration (Tmax) of Crizotinib Cycle 2 Day 1",
+      "timeFrame": "Pre-dose, 1, 2, 4, 6, 8, 9 and 24 hours post dose on Cycle 2 Day 1",
+      "description": "Tmax was defined as the time to reach the observed maximum plasma concentration (Cmax)."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Plasma Decay Half-Life (t1/2) of Crizotinib on Day -7",
+      "timeFrame": "Pre-dose, 1, 2, 4, 6, 8, 9, 24, 48 and any two time points (72, 96, 120 and 144 hours) post-dose on Day -7",
+      "description": "Plasma decay half-life is the time measured for the plasma concentration of Crizotinib to decrease by one half."
+    },
+    {
+      "measure": "Dose-Escalation and Recommended Phase 2 Dose (RP2D) Cohort: Number of Participants With Treatment Emergent Adverse Events (TEAES) and Serious Adverse Events (SAEs)",
+      "timeFrame": "up to 189 Months",
+      "description": "An AE was any untoward medical occurrence in a participant who received investigational product without regard to possibility of causal relationship. SAE was an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly; medically important events. AEs included both serious and all non-serious adverse events. TEAEs were those with initial onset or increasing in severity on or after the first dose of investigational product administration."
+    },
+    {
+      "measure": "Dose-Escalation Cohort: Number of Participants With Dose-limiting Toxicities (DLT)",
+      "timeFrame": "Cycle 1 (28 days)",
+      "description": "Dose-limiting toxicity (DLT) was defined as any of the following: Hematologic- prolonged grade 4 neutropenia for \\>7 days. Febrile neutropenia, defined as grade 4 neutropenia with fever greater than (\\>)38.5 degree Celsius, both sustained over a 24 hour period, neutropenic infection: greater than or equal to (\\>=)Grade 3 neutropenia with Grade \\>=3 infection. Grade \\>=3 thrombocytopenia with bleeding or grade 4 lasting \\>=7 days Lymphopenia was not considered a DLT unless accompanied by infection. Other non-hematologic toxicity: Grade 3 or 4 toxicities (except for alopecia, Grade 3/4 hypophosphatemia, grade 3 hypertension with controlled blood pressure \\[less than (\\<) 140/90\\], and Grade 3/4 hyperuricemia without signs and symptoms of gout). Nausea, vomiting or diarrhea must persist at grade 3 or 4 despite maximal medical therapy."
+    },
+    {
+      "measure": "Midazolam Interaction Cohort: Maximum Observed Plasma Concentration (Cmax) of Midazolam When Taken Alone or Taken With Crizotinib",
+      "timeFrame": "pre-dose, 0.5, 1, 2, 4, 6, 8, 9, and 24 hours post dose on Day -7 (midazolam alone arm), pre-dose, 0.5, 1, 2, 4, 6, 8, 9, and 24 hours post dose on Cycle 2 Day 1 (midazolam with crizotinib arm)",
+      "description": "Cmax is defined as the observed maximum plasma concentration post drug administration."
+    },
+    {
+      "measure": "Area Under the Curve From Time Zero to Extrapolated Infinite Time (AUCinf) of Midazolam When Taken Alone or Taken With Crizotinib",
+      "timeFrame": "pre-dose, 0.5, 1, 2, 4, 6, 8, 9, and 24 hours post dose on Day -7 (midazolam alone arm), pre-dose, 0.5, 1, 2, 4, 6, 8, 9, and 24 hours post dose on Cycle 2 Day 1 (midazolam with crizotinib arm)",
+      "description": "AUCinf = Area under the plasma concentration versus time curve (AUC) from time zero (pre-dose) to extrapolated infinite time (0-inf)."
+    },
+    {
+      "measure": "RP2D Cohort: Area Under the Curve From Time Zero to Last Quantifiable Concentration [AUC (0-24)] of Crizotinib When Taken With Food",
+      "timeFrame": "pre-dose, 1, 2, 4, 6, 8, 9, and 24 hours post-dose on Day -7",
+      "description": "AUC0-24 of Crizotinib was defined as the area under the free plasma concentration time curve from time 0 to 24 hours post-dose."
+    },
+    {
+      "measure": "RP2D Cohort: Maximum Observed Plasma Concentration (Cmax) of Crizotinib When Taken With Food",
+      "timeFrame": "pre-dose, 1, 2, 4, 6, 8, 9, and 24 hours post-dose on Day -7",
+      "description": "Cmax is defined as the observed maximum plasma concentration post drug administration."
+    },
+    {
+      "measure": "Area Under the Curve From Time Zero to End of Dosing Interval (AUCtau) of Crizotinib Alone and When Taken With Rifampin",
+      "timeFrame": "pre-dose, 2, 4, 6, 8 and 10 hours on Cycle 1 Day 15 (Crizotinib alone arm) and Cycle 2 Day 1 (Crizotinib with Rifampin arm)",
+      "description": "Area under the plasma concentration versus time curve from time 0 to end of dosing interval (AUCtau)."
+    },
+    {
+      "measure": "Rifampin Cohort: Maximum Observed Plasma Concentration (Cmax) of Crizotinib Alone and When Taken With Rifampin",
+      "timeFrame": "pre-dose, 2, 4, 6, 8 and 10 hours on Cycle 1 Day 15 (Crizotinib alone) and Cycle 2 Day 1 (Crizotinib with Rifampin)",
+      "description": ""
+    },
+    {
+      "measure": "Rifampin Cohort: Ctrough of Crizotinib Alone and When Taken With Rifampin",
+      "timeFrame": "pre-dose on Cycle 1 Day 15 (Crizotinib alone arm) and Cycle 2 Day 1 (Crizotinib with Rifampin arm)",
+      "description": "Ctrough refers to plasma concentration of Crizotinib observed just before treatment administration."
+    },
+    {
+      "measure": "Itraconazole Cohort: Area Under the Curve From Time Zero to End of Dosing Interval (AUCtau) of Crizotinib When Taken Alone and When Taken With Itraconazole",
+      "timeFrame": "pre-dose, 1, 2, 4, 6, 8, 9 and 24 hours post dose on Cycle 1 Day 15 (Crizotinib with itraconazole) and Cycle 2 Day 1 (itraconazole alone)",
+      "description": "Area under the plasma concentration versus time curve from time 0 to end of dosing interval (AUCtau), where dosing interval is 24 hours."
+    },
+    {
+      "measure": "Itraconazole Cohort: Maximum Observed Plasma Concentration (Cmax) of Crizotinib When Taken Alone and When Taken With Itraconazole",
+      "timeFrame": "pre-dose, 1, 2, 4, 6, 8, 9 and 24 hours post dose on Cycle 1 Day 15 (Crizotinib with itraconazole) and Cycle 2 Day 1 (itraconazole alone)",
+      "description": ""
+    },
+    {
+      "measure": "Itraconazole Cohort: Trough Plasma Concentration (Ctrough) of Crizotinib When Taken Alone and When Taken With Itraconazole",
+      "timeFrame": "pre-dose on Cycle 1 Day 15 (crizotinib with itraconazole) and Cycle 2 Day 1 (itraconazole alone)",
+      "description": "Ctrough refers to plasma concentration of Crizotinib observed just before treatment administration."
+    },
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D) Cohort: Percentage of Participants With Objective Response (OR)",
+      "timeFrame": "Baseline up to 172 months",
+      "description": "ORR was defined as participants with a best overall response of complete response (CR) or partial response (PR) divided by the total number of evaluable participants per RECIST version 1.0 (RECIST1.1 for ALK-negative NSCLC cohort 1 and ALK-negative NSCLC cohort 2). CR: Disappearance of all target and non-target lesions, normalization of tumor marker levels, and no appearance of new lesions indicated complete response. PR: At least a 30% decrease in the sum of the longest diameters of target lesions (taking as reference the baseline sum), without progression of non-target lesions and no appearance of new lesions indicated partial response."
+    },
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D) Cohort: Duration of Response (DOR)",
+      "timeFrame": "From first documentation of response to date of PD or death due to any cause (up to 172 months)",
+      "description": "Duration of response (DoR) was the time from first documentation of PR or CR to date of first documentation of progressive disease (PD) or death due to any cause. PR: At least a 30% decrease in the sum of the longest diameters of target lesions (taking as reference the baseline sum), without progression of non-target lesions and no appearance of new lesions indicated partial response. CR: Disappearance of all target and non-target lesions, normalization of tumor marker levels, and no appearance of new lesions indicated complete response. PD: \\>=20% increase in the sum of the longest diameter of target lesions taking as references the smallest sum longest diameter recorded since the treatment started, unequivocal progression of existing non-target lesions, or the appearance of 1 or more new lesions."
+    },
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D) Cohort: Time to Response (TTR)",
+      "timeFrame": "From first dose until first documented response of PR or CR (up to 172 months)",
+      "description": "TTR: time between first dose until first documented response of PR or CR. PR: At least a 30% decrease in the sum of the longest diameters of target lesions (taking as reference the baseline sum), without progression of non-target lesions and no appearance of new lesions indicated partial response. CR: Disappearance of all target and non-target lesions, normalization of tumor marker levels, and no appearance of new lesions indicated complete response."
+    },
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D) Cohort: Percentage of Participants With Disease Control at Week 8",
+      "timeFrame": "Week 8",
+      "description": "Disease control was defined as the percentage of participants with a confirmed CR, PR, or stable disease (SD) per RECIST version 1.0 (RECIST1.1 for ALK-negative NSCLC cohort 1 and ALK-negative NSCLC cohort 2). PR: At least a 30% decrease in the sum of the longest diameters of target lesions (taking as reference the baseline sum), without progression of non-target lesions and no appearance of new lesions indicated partial response. CR: Disappearance of all target and non-target lesions, normalization of tumor marker levels, and no appearance of new lesions indicated complete response. SD was defined as neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study."
+    },
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D) Cohort: Percentage of Participants With Disease Control at Week 16",
+      "timeFrame": "Week 16",
+      "description": "Disease control was defined as the percentage of participants with a confirmed CR, PR, or stable disease (SD) per RECIST version 1.0 (RECIST1.1 for ALK-negative NSCLC cohort 1 and ALK-negative NSCLC cohort 2). PR: At least a 30% decrease in the sum of the longest diameters of target lesions (taking as reference the baseline sum), without progression of non-target lesions and no appearance of new lesions indicated partial response. CR: Disappearance of all target and non-target lesions, normalization of tumor marker levels, and no appearance of new lesions indicated complete response. SD was defined as neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study."
+    },
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D) Cohort: Progression Free Survival (PFS)",
+      "timeFrame": "From randomization until PD or death, whichever occurred first (up to 172 months)",
+      "description": "Progression free survival (PFS) was the time from randomization date to date of first documentation of PD or death due to any cause RECIST version 1.0 (RECIST1.1 for ALK-negative NSCLC cohort 1 and ALK-negative NSCLC cohort 2). PD: \\>=20% increase in the sum of the longest diameter of target lesions taking as references the smallest sum longest diameter recorded since the treatment started, unequivocal progression of existing non-target lesions, or the appearance of 1 or more new lesions."
+    },
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D) Cohort: Probability of Being Event Free at Month 6",
+      "timeFrame": "From randomization to 6 months",
+      "description": "Probability of being event free (event defined as PD or death due to any cause) at 6 months after the first dose of crizotinib was reported. PD: \\>=20% increase in the sum of the longest diameter of target lesions taking as references the smallest sum longest diameter recorded since the treatment started, unequivocal progression of existing non-target lesions, or the appearance of 1 or more new lesions."
+    },
+    {
+      "measure": "Recommended Phase 2 Dose (RP2D) Cohort: Overall Survival (OS)",
+      "timeFrame": "From randomization date to the date of death (up to 172 Months)",
+      "description": "OS was defined as the time from randomization to death due to any cause."
+    },
+    {
+      "measure": "Probability of Participant Survival at Month 6",
+      "timeFrame": "Month 6",
+      "description": "Probability of survival was defined as the probability of being alive at Month 6."
+    },
+    {
+      "measure": "Probability of Participant Survival at Month 12",
+      "timeFrame": "Month 12",
+      "description": "Probability of survival was defined as the probability of being alive at Month 12."
+    },
+    {
+      "measure": "Geometric Mean of Ratio of Total Testosterone, Free Testosterone, Sex Hormone Binding Globulin (SHBG), Luteinizing Hormone, Follicle Stimulating Hormone, Dihydroepiandrosterone Sulfate, Estradiol and Prolactin Levels in Males at Cycle 1 Day 15",
+      "timeFrame": "Baseline, Cycle 1 Day 15",
+      "description": "Geometric mean of ratio (Cycle1Day15/Baseline) of hypogonadism parameters (total testosterone, free testosterone, sex hormone binding globulin, luteinizing hormone, follicle stimulating hormone, dihydroepiandrosterone sulfate, estradiol and prolactin) levels in males was analyzed. Data for this outcome measure was planned to be collected for combined RP2D Cohort only, excluding arms of low and high dose escalation cohorts."
+    },
+    {
+      "measure": "Geometric Mean of Ratio of Total Testosterone, Free Testosterone, Sex Hormone Binding Globulin (SHBG), Luteinizing Hormone, Follicle Stimulating Hormone, Dihydroepiandrosterone Sulfate, Estradiol and Prolactin Levels in Males at Cycle 2 Day 1",
+      "timeFrame": "Baseline, Cycle 2 Day 1",
+      "description": "Geometric mean of ratio (Cycle 2 Day 1/Baseline) of hypogonadism parameters (total testosterone, free testosterone, sex hormone binding globulin, luteinizing hormone, follicle stimulating hormone, dihydroepiandrosterone sulfate, estradiol and prolactin) levels in males was analyzed. Data for this outcome measure was planned to be collected for combined RP2D Cohort only, excluding arms of low and high dose escalation cohorts."
+    },
+    {
+      "measure": "Geometric Mean of Ratio of Total Testosterone, Free Testosterone, Sex Hormone Binding Globulin (SHBG), Luteinizing Hormone, Follicle Stimulating Hormone, Dihydroepiandrosterone Sulfate, Estradiol and Prolactin Levels in Males at Cycle 4 Day 1",
+      "timeFrame": "Baseline, Cycle 4 Day 1",
+      "description": "Geometric mean of ratio (Cycle 4 Day 1/Baseline) of hypogonadism parameters (total testosterone, free testosterone, sex hormone binding globulin, luteinizing hormone, follicle stimulating hormone, dihydroepiandrosterone sulfate, estradiol and prolactin) levels in males was analyzed. Data for this outcome measure was planned to be collected for combined RP2D Cohort only, excluding arms of low and high dose escalation cohorts."
+    },
+    {
+      "measure": "Geometric Mean of Ratio of Total Testosterone, Free Testosterone, Sex Hormone Binding Globulin (SHBG), Luteinizing Hormone, Follicle Stimulating Hormone, Dihydroepiandrosterone Sulfate, Estradiol and Prolactin Levels in Males at Cycle 6 Day 1",
+      "timeFrame": "Baseline, Cycle 6 Day 1",
+      "description": "Geometric mean of ratio (Cycle 6 Day 1/Baseline) of hypogonadism parameters (total testosterone, free testosterone, sex hormone binding globulin, luteinizing hormone, follicle stimulating hormone, dihydroepiandrosterone sulfate, estradiol and prolactin) levels in males was analyzed. Data for this outcome measure was planned to be collected for combined RP2D Cohort only, excluding arms of low and high dose escalation cohorts."
+    },
+    {
+      "measure": "Geometric Mean of Ratio of Total Testosterone, Free Testosterone, Sex Hormone Binding Globulin (SHBG), Luteinizing Hormone, Follicle Stimulating Hormone, Dihydroepiandrosterone Sulfate, Estradiol and Prolactin Levels in Males at Cycle 9 Day 1",
+      "timeFrame": "Baseline, Cycle 9 Day 1",
+      "description": "Geometric mean of ratio (Cycle 9 Day 1/Baseline) of hypogonadism parameters (total testosterone, free testosterone, sex hormone binding globulin, luteinizing hormone, follicle stimulating hormone, dihydroepiandrosterone sulfate, estradiol and prolactin) levels in males was analyzed. Data for this outcome measure was planned to be collected for combined RP2D Cohort only, excluding arms of low and high dose escalation cohorts. 95% CI should be interpreted with cautions due to the limited sample size at this time point."
+    },
+    {
+      "measure": "Geometric Mean of Ratio of Total Testosterone, Free Testosterone, Sex Hormone Binding Globulin (SHBG), Luteinizing Hormone, Follicle Stimulating Hormone, Dihydroepiandrosterone Sulfate, Estradiol and Prolactin Levels in Males at Cycle 12 Day 1",
+      "timeFrame": "Baseline, Cycle 12 Day 1",
+      "description": "Geometric mean of ratio (Cycle 12 Day 1/Baseline) of hypogonadism parameters (total testosterone, free testosterone, sex hormone binding globulin, luteinizing hormone, follicle stimulating hormone, dihydroepiandrosterone sulfate, estradiol and prolactin) levels in males was analyzed. Data for this outcome measure was planned to be collected for combined RP2D Cohort only, excluding arms of low and high dose escalation cohorts. 95% CI should be interpreted with cautions due to the limited sample size at this time point."
+    },
+    {
+      "measure": "Geometric Mean of Ratio of Total Testosterone, Free Testosterone, Sex Hormone Binding Globulin (SHBG), Luteinizing Hormone, Follicle Stimulating Hormone, Dihydroepiandrosterone Sulfate, Estradiol and Prolactin Levels in Males at Cycle 15 Day 1",
+      "timeFrame": "Baseline, Cycle 15 Day 1",
+      "description": "Geometric mean of ratio (Cycle 15 Day 1/Baseline) of hypogonadism parameters (total testosterone, free testosterone, sex hormone binding globulin, luteinizing hormone, follicle stimulating hormone, dihydroepiandrosterone sulfate, estradiol and prolactin) levels in males was analyzed. Data for this outcome measure was planned to be collected for combined RP2D Cohort only, excluding arms of low and high dose escalation cohorts. 95% CI should be interpreted with cautions due to the limited sample size at this time point."
+    },
+    {
+      "measure": "Geometric Mean of Ratio of Total Testosterone, Free Testosterone, Sex Hormone Binding Globulin (SHBG), Luteinizing Hormone, Follicle Stimulating Hormone, Dihydroepiandrosterone Sulfate, Estradiol and Prolactin Levels in Males at Cycle 18 Day 1",
+      "timeFrame": "Baseline, Cycle 18 Day 1",
+      "description": "Geometric mean of ratio (Cycle 18 Day 1/Baseline) of hypogonadism parameters (total testosterone, free testosterone, sex hormone binding globulin, luteinizing hormone, follicle stimulating hormone, dihydroepiandrosterone sulfate, estradiol and prolactin) levels in males was analyzed. Data for this outcome measure was planned to be collected for combined RP2D Cohort only, excluding arms of low and high dose escalation cohorts. 95% CI should be interpreted with cautions due to the limited sample size at this time point."
+    },
+    {
+      "measure": "Geometric Mean of Ratio of Total Testosterone, Free Testosterone, Sex Hormone Binding Globulin (SHBG), Luteinizing Hormone, Follicle Stimulating Hormone, Dihydroepiandrosterone Sulfate, Estradiol and Prolactin Levels in Males at Cycle 21 Day 1",
+      "timeFrame": "Baseline, Cycle 21 Day 1",
+      "description": "Geometric mean of ratio (Cycle 21 Day 1/Baseline) of hypogonadism parameters (total testosterone, free testosterone, sex hormone binding globulin, luteinizing hormone, follicle stimulating hormone, dihydroepiandrosterone sulfate, estradiol and prolactin) levels in males was analyzed. Data for this outcome measure was planned to be collected for combined RP2D Cohort only, excluding arms of low and high dose escalation cohorts. 95% CI should be interpreted with cautions due to the limited sample size at this time point."
+    },
+    {
+      "measure": "Geometric Mean of Ratio of Total Testosterone, Free Testosterone, Sex Hormone Binding Globulin (SHBG), Luteinizing Hormone, Follicle Stimulating Hormone, Dihydroepiandrosterone Sulfate, Estradiol and Prolactin Levels in Males at Cycle 24 Day 1",
+      "timeFrame": "Baseline, Cycle 24 Day 1",
+      "description": "Geometric mean of ratio (Cycle 24 Day 1/Baseline) of hypogonadism parameters (total testosterone, free testosterone, sex hormone binding globulin, luteinizing hormone, follicle stimulating hormone, dihydroepiandrosterone sulfate, estradiol and prolactin) levels in males was analyzed. Data for this outcome measure was planned to be collected for combined RP2D Cohort only, excluding arms of low and high dose escalation cohorts. 95% CI should be interpreted with cautions due to the limited sample size at this time point."
+    },
+    {
+      "measure": "Geometric Mean of Ratio of Total Testosterone, Free Testosterone, Sex Hormone Binding Globulin (SHBG), Luteinizing Hormone, Follicle Stimulating Hormone, Dihydroepiandrosterone Sulfate, Estradiol and Prolactin Levels in Males at Cycle 27 Day 1",
+      "timeFrame": "Baseline, Cycle 27 Day 1",
+      "description": "Geometric mean of ratio (Cycle 27 Day 1/Baseline) of hypogonadism parameters (total testosterone, free testosterone, sex hormone binding globulin, luteinizing hormone, follicle stimulating hormone, dihydroepiandrosterone sulfate, estradiol and prolactin) levels in males was analyzed. Data for this outcome measure was planned to be collected for combined RP2D Cohort only, excluding arms of low and high dose escalation cohorts. 95% CI should be interpreted with cautions due to the limited sample size at this time point."
+    },
+    {
+      "measure": "Geometric Mean of Ratio of Total Testosterone, Free Testosterone, Sex Hormone Binding Globulin (SHBG), Luteinizing Hormone, Follicle Stimulating Hormone, Dihydroepiandrosterone Sulfate, Estradiol and Prolactin Levels in Males at Cycle 30 Day 1",
+      "timeFrame": "Baseline, Cycle 30 Day 1",
+      "description": "Geometric mean of ratio (Cycle 30 Day 1/Baseline) of hypogonadism parameters (total testosterone, free testosterone, sex hormone binding globulin, luteinizing hormone, follicle stimulating hormone, dihydroepiandrosterone sulfate, estradiol and prolactin) levels in males was analyzed. Data for this outcome measure was planned to be collected for combined RP2D Cohort only, excluding arms of low and high dose escalation cohorts. 95% CI should be interpreted with cautions due to the limited sample size at this time point."
+    },
+    {
+      "measure": "Geometric Mean of Ratio of Total Testosterone, Free Testosterone, Sex Hormone Binding Globulin (SHBG), Luteinizing Hormone, Follicle Stimulating Hormone, Dihydroepiandrosterone Sulfate, Estradiol and Prolactin Levels in Males at End of Treatment",
+      "timeFrame": "Baseline, End of Treatment (28 days post last dose)",
+      "description": "Geometric mean of ratio (End of treatment/Baseline) of hypogonadism parameters (total testosterone, free testosterone, sex hormone binding globulin, luteinizing hormone, follicle stimulating hormone, dihydroepiandrosterone sulfate, estradiol and prolactin) levels in males was analyzed. Data for this outcome measure was planned to be collected for combined RP2D Cohort only, excluding arms of low and high dose escalation cohorts. 95% CI should be interpreted with cautions due to the limited sample size at this time point."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2006-04-19",
+  "completion_date": "2022-01-19",
+  "last_updated": "2023-01-10"
+}

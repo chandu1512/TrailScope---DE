@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT05629494",
+  "brief_title": "Anti-inflammatory Drugs and Serum Prostate-Specific Antigen Test",
+  "official_title": "Effect of Non-steroidal Anti-inflammatory Drugs on Serum Prostate Specific Antigen Level",
+  "brief_summary": "Prostate cancer is the most frequently diagnosed cancer in men in the Unites States. Nearly 1 million prostate biopsy procedures are performed in the United States annually and elevated prostate-specific antigen (PSA) level is the primary reason for prostate biopsy in \\> 90% of cases. However, at the PSA levels which trigger prostate biopsy, often no cancer is found in prostate biopsy specimens. PSA test can be elevated due to reasons other than cancer such as inflammation or natural variation in the level. Investigators plan to treat men with elevated PSA level with over the counter anti-inflammatory medications (ibuprofen, naproxen) to see if the PSA level will decrease to an acceptable level.",
+  "detailed_description": "It's known that PSA level can be elevated due to reasons other than prostate cancer including benign prostatic hypertrophy, prostatitis or other urinary tract infections, non-infectious inflammation, and physiologic variation over time. Consequently, nearly 50% of prostate biopsy procedures performed due to elevated PSA level do not yield any cancer , but still expose the patients to the risks of the procedure related complications (discomfort/pain, anxiety, bleeding, infection, and cost). Thus, measures to improve the reliability of PSA test, and potentially avoiding unnecessary procedures, are of significant importance to the patient and healthcare system.\n\nIt is common practice to check PSA level annually. PSA test results can vary over time, either due to the imprecision in the analysis and/or due to the biologic variability. This can result in an apparent rise in PSA level when no clinically meaningful rise had occurred. Its estimated that the average lab variation in PSA was approximately 6% and the average biologic variation about 14%. This, it is recommended that isolated elevation in PSA level should be confirmed after several weeks, and before proceeding with further interventions, including prostate biopsy.\n\nSub-clinical, histologic Inflammation (presence of inflammatory cells) within the prostate tissue and its effect on PSA level has been reported in various settings. In two population-based studies, men who were regularly using over the counter (OTC) nonsteroidal anti-inflammatory drugs (NSAIDs, e.g ibuprofen, naproxen) had lower PSA levels compared to non-users.\n\nCurrently, two strategies are utilized in clinical practice to ensure that the PSA level is truly elevated:\n\n1. Repeat PSA test after several weeks or\n2. A short course of OTC NSAIDs, and then repeat PSA test\n\nInvestigators propose to conduct a randomized study to determine the effect of NSAIDs on PSA level compared to the biologic variations in PSA level noted upon repeat testing.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE4"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 198,
+  "conditions": [
+    "Prostate Cancer",
+    "Prostate Inflammation",
+    "PSA"
+  ],
+  "interventions": [
+    {
+      "name": "Ibuprofen 400 mg, TID",
+      "type": "DRUG",
+      "description": "Participants will receive Ibuprofen 400 mg 3 times per day for 10 days."
+    },
+    {
+      "name": "PSA test",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "PSA test will be repeated in 6 weeks"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male patients age between 18-80 years old with a screening PSA \\> 3 ng/ml being considered for additional diagnostic testing (e.g., MRI, biopsy)\n* Normal digital rectal examination within the past two years. A documented normal digital rectal examination by another physician or advanced practice provider (NP, PA, etc) is acceptable.\n* No clinical symptoms concerning for acute urinary tract infection (e.g. dysuria, malodorous urine, positive urine culture)\n\nExclusion Criteria:\n\n* History of hypersensitivity or allergy to ibuprofen or NSAIDs.\n* History of peptic ulcer disease, GI bleeding or NSAIDs induced GI adverse events\n* Known bleeding disorders\n* Known severe chronic kidney disease: eGFR \\< 30 mL/min/1.73 m2\n* Heart failure, significant heart disease\n* Poorly controlled hypertension\n* Active urinary tract infections or bacteriuria\n* Concomitant use of 5-alpha reductase inhibitors (finasteride, dutasteride) unless patient has been taking it for at least 6 months\n* Known prostate cancer or underwent prostate MRI or biopsy in the last year\n* Urinary tract instrumentation in the past 6 weeks (catheter, cystoscopy)\n* Concomitant anti-inflammatory or steroidal drugs\n* Concomitant dual-antiplatelet or anticoagulant therapy use except aspirin 81 mg alone\n* Know history of severe liver disease determined by abnormal liver function tests (elevated AST or ALT \\> 3X ULN based on exiting history or labs)\n* Any other medical contraindication to NSAIDs",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State-Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Difference in the extent of changes in PSA level between the study groups",
+      "timeFrame": "6 weeks",
+      "description": "Difference in PSA levels, within and between groups"
+    },
+    {
+      "measure": "Participants with change in PSA level to below the age-specific PSA threshold",
+      "timeFrame": "6 weeks",
+      "description": "To determine if changes in PSA level were sufficient to avoid intervention"
+    }
+  ],
+  "sponsor": "Albany Medical College",
+  "collaborators": [],
+  "start_date": "2022-09-27",
+  "completion_date": "2026-12-01",
+  "last_updated": "2024-10-17"
+}

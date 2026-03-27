@@ -1,0 +1,84 @@
+{
+  "nct_id": "NCT01354431",
+  "brief_title": "BMS-936558 (MDX-1106) In Subjects With Advanced/Metastatic Clear-Cell Renal Cell Carcinoma (RCC)",
+  "official_title": "A Randomized, Blinded, Phase 2 Dose-Ranging Study Of BMS-936558 (MDX-1106) In Subjects With Progressive, Advanced/Metastatic Clear-Cell Renal Cell Carcinoma Who Have Received Prior Anti-Angiogenic Therapy",
+  "brief_summary": "The purpose of this study is to measure how active BMS-936558 (nivolumab) is against Renal Cell Carcinoma (RCC) as measured by the disease not progressing and whether a dose response relationship exists.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 168,
+  "conditions": [
+    "Renal Cell Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Solution, Intravenous (IV), 0.3 mg/kg, every 3 weeks (Q 3 weeks), Until Progressive disease (PD), toxicity or discontinue for other reasons"
+    },
+    {
+      "name": "nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Solution, Intravenous (IV), 2.0 mg/kg, every 3 weeks (Q 3 weeks), Until Progressive disease (PD), toxicity or discontinue for other reasons"
+    },
+    {
+      "name": "nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Solution, Intravenous (IV), 10.0 mg/kg, every 3 weeks (Q 3 weeks), Until Progressive disease (PD), toxicity or discontinue for other reasons"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologic confirmation of Renal cell carcinoma (RCC) with a clear cell component\n* Previous treatment with at least one anti-angiogenic agent\n* Progressed within 6 months of study enrollment\n* Subjects should not have had more than 3 prior treatments for locally advanced or metastatic disease\n* Must have available tumor tissue for submission\n* Subjects must also meet various laboratory parameters for inclusion\n\nExclusion Criteria:\n\n* Subjects with any active autoimmune disease or a history of known autoimmune disease\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University Of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "The Bunting-Blaustein Cancer Research Building",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "University Of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "From randomization to disease progression or death (up to approximately 2 years)",
+      "description": "PFS is defined as the time from randomization to date of first disease progression (either clinical or radiographic progression, as assessed by the investigator). Tumor assessments (radiographic scans) were done every 6 weeks from randomization for the first 12 months, then every 12 weeks until progression. Survival was assessed every 3 months. The analysis of PFS was conducted after approximately 116 events (progression or death), approximately 2 years. PFS was calculated based on investigator's assessment of first date of progression (either clinical or radiographic progression) or date of death if progression did not occur. Progression was at least a 20% increase in the sum of diameters of the longest target lesions since screening (the sum must be an absolute increase of at least 5 mm), or measurable increase in non-target lesion or appearance of one or more new lesions."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "Ono Pharma USA Inc"
+  ],
+  "start_date": "2011-05-31",
+  "completion_date": "2021-04-15",
+  "last_updated": "2022-05-10"
+}

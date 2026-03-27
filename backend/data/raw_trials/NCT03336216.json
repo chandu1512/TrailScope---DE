@@ -1,0 +1,105 @@
+{
+  "nct_id": "NCT03336216",
+  "brief_title": "A Study of Cabiralizumab Given With Nivolumab With and Without Chemotherapy in Patients With Advanced Pancreatic Cancer",
+  "official_title": "A Phase 2 Study of Cabiralizumab (BMS-986227, FPA008) Administered in Combination With Nivolumab (BMS-936558) With and Without Chemotherapy in Patients With Advanced Pancreatic Cancer",
+  "brief_summary": "The purpose of this study is to determine whether an investigational immuno-therapy, cabiralizumab in combination with nivolumab, with or without chemotherapy, is effective for the treatment of advanced pancreatic cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 205,
+  "conditions": [
+    "Advanced Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Cabiralizumab",
+      "type": "BIOLOGICAL",
+      "description": "specified dose on specified days"
+    },
+    {
+      "name": "Nab-paclitaxel",
+      "type": "DRUG",
+      "description": "specified does on specified days"
+    },
+    {
+      "name": "Onivyde",
+      "type": "DRUG",
+      "description": "specified dose on specified days"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "specified dose on specified days"
+    },
+    {
+      "name": "Fluorouracil",
+      "type": "DRUG",
+      "description": "specified dose on specified days"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "specified dose on specified days"
+    },
+    {
+      "name": "Oxaliplatin",
+      "type": "DRUG",
+      "description": "specified dose on specified day"
+    },
+    {
+      "name": "Leucovorin",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Irinotecan Hydrochloride",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Must have histological or cytological confirmed diagnosis of locally advanced or metastatic adenocarcinoma of the pancreas, which has progressed on or after one line of chemotherapy\n* ECOG Performance status 0-1\n* Adequate organ functions\n* Measurable disease\n\nExclusion Criteria:\n\n* Suspected or known CNS metastasis\n* Participants with active, known, or suspected autoimmune disease\n* Uncontrolled or significant cardiovascular disease\n* Prior exposure to selected immune cell-modulating antibody regimens",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0001",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0006",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0009",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS) by BICR",
+      "timeFrame": "From randomization date to the date of first objectively documented disease progression or death (up to approximately 65 months)",
+      "description": "PFS for a participant is defined as the time from randomization date to the date of first objectively documented disease progression by blinded independent central review (BICR) per response evaluation criteria in solid tumors (RECIST) v1.1 or death due to any cause, whichever occurs first. Based on Kaplan-Meier Estimates.\n\nProgressive Disease (PD): At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum during the study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2017-12-18",
+  "completion_date": "2023-06-01",
+  "last_updated": "2024-07-21"
+}

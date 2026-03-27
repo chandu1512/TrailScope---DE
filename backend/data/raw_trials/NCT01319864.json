@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT01319864",
+  "brief_title": "POETIC Plerixafor as a Chemosensitizing Agent for Relapsed Acute Leukemia and MDS in Pediatric Patients",
+  "official_title": "A Phase I Study Using Plerixafor as a Chemosensitizing Agent for Relapsed Acute Leukemia and MDS in Pediatric Patients",
+  "brief_summary": "In this Phase I study, we will test the safety of the drug plerixafor (MOBOZIL) at different dose levels, used together with other anti-cancer drugs-cytarabine and etoposide. We want to find out what effects, good and /or bad, this combination of drugs has on leukemia. Plerixafor is a drug that blocks a receptor on the leukemia cell, which prevents it from staying in the bone marrow where it can be resistant to chemotherapy. Plerixafor is FDA approved for mobilizing stem cells from the bone marrow in preparation for an autologous stem cell transplant. Cytarabine and etoposide have been used as part of standard chemotherapy for ALL and AML. However, the use of plerixafor with cytarabine and etoposide in pediatric patients with relapsed or refractory ALL, AML and MDS is considered experimental.",
+  "detailed_description": "Approximately 500 children are diagnosed with AML every year, of whom around 60% are cured with current regimens based on anthracyclines and high dose cytarabine with or without stem cell transplant (SCT). Among the remaining 40% who are refractory or who relapse, outcome is dismal. Additionally, 20-30% of patients with childhood ALL relapse or become refractory to frontline therapies. The prognosis is poor in this patient population, particularly in patients with second or subsequent relapse and those who relapse following SCT. These patients present myriad challenges, as they usually have received a high cumulative anthracycline dose, and in the case of SCT, may have had significant organ toxicities and/or total body irradiation (TBI). Therefore, new therapeutic strategies need to be identified to enhance possible improved outcomes.\n\nRecently, scientists have described a resistant, quiescent population of leukemia cells that have limitless self-renewal potential. The identification of these \"leukemia stem cells\" (LSCs) provides an additional strategy in treating and preventing relapsed/refractory acute leukemia. One mechanism for resistance to treatment is the protection afforded LSCs via the interaction between stem cell derived growth factor (CXCL-12/SDF-1\u03b1) and its receptor, CXCR4. These interactions are implicated in chemotaxis, homing, and survival/apoptosis of hematopoietic stem cells and progenitor cells. All AML and ALL cells express CXCR4 and SDF-1\u03b1. AMD3100 (plerixafor, MOBOZIL\u00ae) is a bicyclam that blocks CXCL-12 binding to and signaling through CXCR4, thus disrupting tumor-stroma interactions and mobilizing leukemia cells from their protective stromal environment. Plerixafor is currently FDA approved for use in stem cell mobilization for autologous transplantation in hematologic malignancies. Clinical trials in adult patients with relapsed AML have demonstrated promising results when combining plerixafor with cytotoxic chemotherapy.\n\nThis Phase I clinical trial will be the first to test the concept of a \"chemosensitization\" approach in children using Plerixafor. Patients aged 3 to 30 with relapsed/refractory AML, ALL or MDS will receive Plerixafor followed 4 hours later with combination chemotherapy consisting of etoposide and cytarabine daily for five days. We will determine the safety and tolerability of Plerixafor in combination with cytarabine and etoposide in pediatric and young adults with relapsed/refractory acute leukemias. The secondary objectives of this study will quantify the peripheral blood mobilization of blasts in response to Plerixafor using flow cytometry, measure initial CXCR4 expression on leukemic blasts and correlate with response, and determine the change in CXCR4 expression after protocol therapy. Finally, we will determine the pharmacokinetics of Plerixafor when administered with cytotoxic chemotherapy in this patient population.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Relapsed/Refractory AML",
+    "Relapsed/Refractory ALL",
+    "Secondary AML/MDS",
+    "Acute Leukemia of Ambiguous Lineage",
+    "AML",
+    "ALL"
+  ],
+  "interventions": [
+    {
+      "name": "Plerixafor Dose Escalation",
+      "type": "DRUG",
+      "description": "Plerixafor dose escalation Dose Level -1 = 3 mg/m2/dose Dose Level 1 = 6 mg/m2/dose Dose Level 2 = 9 mg/m2/dose Dose Level 3 = 12 mg/m2/dose Dose Level 4 = 15 mg/m2/dose\n\nDoses administered 4 hours prior to chemotherapy, then at the same approximate time of day on subsequent days, through the end of that cycle of chemotherapy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* \\>= 3 years of age and \\<30 years old at study entry\n* diagnosis of relapsed/refractory AML, ALL, secondary AML/MDS, or acute leukemia of ambiguous lineage and meet the following criteria:\n* AML/MDS or leukemia with ambiguous lineage must have \\>5% blast in bone marrow\n* ALL must have an M3 marrow\n* ALL and AML must not have CNS disease\n* patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy or radiotherapy prior to entering study\n* Karnofsky score \\>50% for patients \\>16 years of age and Lansky \\>50% for patients \\<= 16 years of age\n* adequate renal and hepatic function as defined in protocol\n* adequate cardiac function as defined in protocol\n\nExclusion Criteria:\n\n* ALL and AML patients with CNS disease\n* Absolute blast count greater than 50,000/mcl\n* Systemic fungal, bacterial, viral or other infection without improvement despite appropriate antibiotics or other treatment\n* Significant concurrent disease, illness, psychiatric disorder or social issue that would compromise patient safety or compliance\n* Patients who have second cancer, not including secondary AML\n* Patients who are pregnant",
+    "gender": "ALL",
+    "min_age": "3 Years",
+    "max_age": "29 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Penn State Hershey Children's Hospital",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum Tolerated Dose (MTD) of Plerixafor given in combination with chemotherapy",
+      "timeFrame": "6 months post final enrollment",
+      "description": "To determine the safety and tolerability of plerixafor in combination with reinduction chemotherapy in pediatric and young adult patients with relapsed/refractory acute leukemia (AML/MDS and ALL)"
+    }
+  ],
+  "sponsor": "Seattle Children's Hospital",
+  "collaborators": [
+    "Children's Healthcare of Atlanta",
+    "Pediatric Oncology Experimental Therapeutics Investigation Consortium"
+  ],
+  "start_date": "2011-03",
+  "completion_date": "2016-06-28",
+  "last_updated": "2018-09-05"
+}

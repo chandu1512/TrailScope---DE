@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT01417000",
+  "brief_title": "Safety and Efficacy of Combination Listeria/GVAX Immunotherapy in Pancreatic Cancer",
+  "official_title": "A Phase 2, Randomized, Multicenter, Open-Label Study of the Efficacy and Immune Response of the Sequential Administration of GVAX Pancreas Vaccine Alone or Followed by CRS-207 in Adults With Metastatic Pancreatic Adenocarcinoma",
+  "brief_summary": "Test the safety, immune response and efficacy of GVAX pancreas vaccine (with cyclophosphamide) and CRS-207 compared to GVAX pancreas vaccine (with cyclophosphamide) alone in adults who have failed or refused prior treatment for metastatic pancreatic cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 93,
+  "conditions": [
+    "Metastatic Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "GVAX Pancreas",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "CRS-207",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have histologically proven malignant adenocarcinoma of the pancreas; measurable disease is not required. (Subjects with mixed histology will be included if the predominant component is adenocarcinoma. Subjects must have metastatic disease.)\n* Have received or refused at least one chemotherapy regimen\n* At least 18 years of age\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Anticipated life expectancy of \\>12 weeks\n* For women and men of childbearing potential, a medically acceptable method of highly effective contraception (oral hormonal contraceptive, condom plus spermicide, or hormone implants) must be used throughout the study period and for 28 days after their final vaccine administration. (A barrier method of contraception must be employed by all subjects \\[male and female\\], regardless of other methods.)\n* Be willing and able to give written informed consent, and be able to comply with all study procedures\n* Have adequate organ function as defined by specified laboratory values\n\nExclusion Criteria:\n\n* Currently have or have history of certain study-specified heart, liver, kidney, lung, neurological, immune or other medical conditions\n* Known history or evidence of brain metastases\n* Have any evidence of hepatic cirrhosis or clinical or radiographic ascites\n* Have clinically significant and/or malignant pleural effusion\n* Known or suspected hypersensitivity to any component of GVAX Pancreas vaccine or CRS-207, or known allergy to both penicillin and sulfa\n* Received an investigational product within 28 days of study treatment or planned to receive within 28 days after vaccine administration\n* Used any systemic steroids within 28 days of study treatment\n* Use more than 3 g/d of acetaminophen\n* Prosthetic joint or other artificial implant or device that cannot be easily removed (there are some exceptions)\n* Major surgery or significant traumatic injury (or unhealed surgical wounds) occurring within 28 days prior to receiving study drug, or planned surgery requiring general anesthesia\n* Infection with HIV or hepatitis B or C at screening\n* Any immunodeficiency disease or immunocompromised state or active autoimmune disease or history of autoimmune disease requiring systemic steroids or other immunosuppressive treatment\n* Be pregnant or breastfeeding\n* Unable to avoid close contact with another individual known to be at high risk of listeriosis (e.g., newborn infant, pregnant woman, HIV-positive individual) during the course of CRS-207 treatment until completion of antibiotic regimen\n* Conditions, including alcohol or drug dependence, intercurrent illness, or lack of sufficient peripheral venous access, that would affect the patient's ability to comply with study visits and procedures",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "National Cancer Institute",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS) in Subjects Receiving Test Treatments (FAS)",
+      "timeFrame": "Subjects were followed from the date of randomization to the date of death or discontinuation, whichever came first, assessed up to 60 months.",
+      "description": "For all treated subjects, OS was defined as the time between the date of randomization and the date of death or censoring, and was estimated using Kaplan-Meier (KM) methods with 95% confidence intervals (CIs). Subjects without documentation of death at the time of the final analysis were censored using the date the subject was last known to be alive. Per the study protocol, following an Interim Analysis (IA), subjects in the Cy/GVAX arm were offered rollover to Cy/GVAX + CRS-207 arm. 3 subjects rolled over to the Cy/GVAX + CRS-207 arm (rollover subjects). These rollover subjects were censored at the day prior to the first rollover treatment dose date, and were included for analysis in the Cy/GVAX arm. Additionally, 2 subjects originally treated per the Cy/GVAX + CRS-207 arm discontinued treatment and entered follow-up, but following IA were re-treated per the Cy/GVAX + CRS-207 arm regimen. Data from these \"re-treated subjects\" were included in the Cy/GVAX + CRS-207 arm analysis."
+    }
+  ],
+  "sponsor": "Aduro Biotech, Inc.",
+  "collaborators": [
+    "Johns Hopkins University"
+  ],
+  "start_date": "2011-09-21",
+  "completion_date": "2017-02-10",
+  "last_updated": "2018-04-06"
+}

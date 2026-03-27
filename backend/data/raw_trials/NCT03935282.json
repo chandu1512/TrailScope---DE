@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT03935282",
+  "brief_title": "Assessing Effectiveness and Implementation of an EHR Tool to Assess Heart Health Among Survivors",
+  "official_title": "Assessing Effectiveness and Implementation of an EHR Tool to Assess Heart Health Among Survivors (AH-HA)",
+  "brief_summary": "The objective of this hybrid effectiveness-implementation study is to examine the effects of an EHR-based cardiovascular health assessment tool (AH-HA) among breast, prostate, colorectal, endometrial, and Hodgkin and non-Hodgkin lymphoma cancer survivors (N=600) receiving survivorship care in community oncology practices, using a group-randomized trial design (6 intervention practices and 6 usual care practices). Our central hypothesis is that the AH-HA tool will increase (1) cardiovascular health (CVH) discussions among survivors and oncology providers, (2) referrals and visits to primary care and cardiology (care coordination), and (3) cardiovascular (CV) risk reduction and health promotion activities compared to usual care.",
+  "detailed_description": "In this hybrid effectiveness-implementation group-randomized clinical trial, 6 intervention practices will receive an EHR-based cardiovascular health assessment tool (Automated Heart Health Assessment for Survivors: AH-HA) and 6 practices will serve as usual care (control) practices without access to the AH-HA tool. AH-HA renders a visual, interactive display of CVH risk factors, automatically populated from the EHR. This tool was first implemented in primary care and now incorporates EHR data on receipt of cancer treatments with cardiotoxic potential. Providers at each intervention site will be trained to use the tool during routine follow-up care with survivors. Eligible survivors with breast, prostate, colorectal, endometrial, or Hodgkin and non-Hodgkin lymphoma cancer (n=600) will provide baseline data before and immediately after seeing their oncology provider and complete 6-month and 1-year study follow-up visits. The study team will compare changes in outcomes from baseline to 1-year in survivors at the intervention and usual care clinics using data from survivor self-reports and the EHR. The primary outcome is CVH discussions defined as the number of patient-reported discussions with their provider regarding up to seven non-ideal CVH conditions identified for that patient during oncology visits. Secondary outcomes include referrals to primary care and cardiology, provider efforts to manage CV risk, survivors' completed visits with primary care providers and cardiologists, and control of CVH factors and behaviors. Implementation metrics will be assessed using data from the EHR and semi-structured interviews with providers and administrators (n=24-30) at intervention clinics.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 600,
+  "conditions": [
+    "Breast Neoplasm",
+    "Prostatic Neoplasm",
+    "Colorectal Neoplasms",
+    "Endometrial Neoplasms",
+    "Hodgkin Disease",
+    "Non Hodgkin Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "AH-HA Tool in the EPIC EHR",
+      "type": "OTHER",
+      "description": "The Automated Heart-Health Assessment tool implemented in clinics' EPIC EHR will be used by providers during routine follow-up care appointments."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* \\>= 6 months post-potentially curative cancer treatment for breast, prostate, colorectal, or endometrial cancers or Hodgkin and non-Hodgkin lymphomas. Ongoing hormonal therapies such as tamoxifen, aromatase inhibitors (with or without adjuvant CDK 4/6 inhibitors such as abemaciclib), or androgen deprivation are allowed.\n* Scheduled for a routine cancer-related follow-up care visit within the next 30 days with a provider who received training to use AH-HA.\n* Able and willing to complete a follow-up assessment in one year.\n* Survivors must have no evidence of disease at the time of last medical visit for all cancers, except non-melanoma skin disease.\n* Age \\>= 18 years.\n* Able to understand and willing to provide verbal informed consent.\n\nExclusion Criteria:\n\n* Survivors will be excluded if they have a history of cancer recurrence for any cancer other than non-melanoma skin disease.\n* Prostate patients on active surveillance will be excluded.\n* Survivor does not speak English or Spanish.\n* Survivors who are currently on another interventional protocol in which cardiovascular risk factors (e.g., blood pressure, smoking, diet, physical activity) are being addressed, as per patient self-report or research staff members' knowledge at the time of consent.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Community Medical Center",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18510",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Wyoming Valley/Henry Cancer Center",
+      "city": "Wilkes-Barre",
+      "state": "Pennsylvania",
+      "zip": "18711",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of patients reporting at least one non-ideal or missing CVH topic",
+      "timeFrame": "Baseline",
+      "description": "Discussion of non-ideal cardiovascular health (CVH) factors (yes or no). CVH discussions will be defined as patient-reported discussions with their provider for any of the seven non-ideal CVH conditions identified for that patient. Conditions include CVH factors (cholesterol, blood pressure, glucose/hemoglobin A1c) and CVH behaviors (body mass index, smoking, diet, and physical activity). Measured using survivor survey (discussions, diet, and primary care) and EHR for other CVH factors."
+    }
+  ],
+  "sponsor": "Wake Forest University Health Sciences",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Washington University School of Medicine",
+    "University of Texas Southwestern Medical Center"
+  ],
+  "start_date": "2020-10-01",
+  "completion_date": "2025-11-17",
+  "last_updated": "2025-12-10"
+}

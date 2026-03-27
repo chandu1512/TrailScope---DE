@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT00193596",
+  "brief_title": "Gemcitabine/Irinotecan/ZD1839 vs Paclitaxel/Carboplatin/Etoposide/ZD1839 in Carcinoma of Unknown Primary Site",
+  "official_title": "A Randomized, Phase III Comparison of Gemcitabine/Irinotecan Followed by IRESSA Versus Paclitaxel/Carboplatin/Etoposide Followed by IRESSA in the First-Line Treatment of Patients With Carcinoma of Unknown Primary Site",
+  "brief_summary": "In this randomized trial, we will investigate the activity and toxicity of two active regimens, gemcitabine/irinotecan and paclitaxel/carboplatin/Etoposide (both followed by ZD1839) in the first-line treatment of patients with carcinoma of unknown primary site.",
+  "detailed_description": "Upon determination of eligibility, all patients will be randomly assigned to one of two treatment arms:\n\n* Paclitaxel + Carboplatin + Etoposide\n* Irinotecan + Gemcitabine\n\nPatients will be stratified by tumor location (liver/bone versus all others) and number of metastatic sites (one versus two or more). Patients with an objective response or stable disease after completion of chemotherapy will receive ZD1839 until disease progression. Patients who do not respond to chemotherapy may crossover to the other chemotherapy regimen and will receive ZD1839 if they have an objective response or stable disease. The study is not blinded so both the patient and the doctor will know which treatment has been assigned.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 198,
+  "conditions": [
+    "Neoplasms, Unknown Primary"
+  ],
+  "interventions": [
+    {
+      "name": "Etoposide",
+      "type": "DRUG",
+      "description": "50 mg alternating with 100 mg PO, days 1 and 10 in regimen A"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "1000 mg/m2 IV, days 1 and 8, in regimen B"
+    },
+    {
+      "name": "Irinotecan",
+      "type": "DRUG",
+      "description": "1000 mg/m2 IV days 1 and 8 in regimen B"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "200 mg/m2 by 1-hour IV infusion, day 1, regimen A"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Area under the curve (AUC) 6.0 IV, day 1, regimen A"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nTo be included in this study, you must meet the following criteria:\n\n* Carcinoma of unknown primary site\n* Biopsy-proven metastatic carcinoma\n* Able to perform activities of daily living with minimal assistance\n* No previous treatment with any systemic therapy\n* Measurable or evaluable disease\n* Adequate bone marrow, liver and kidney function\n* Understand the nature of this study and give written informed consent\n\nExclusion Criteria:\n\nYou cannot participate in this study if any of the following apply to you:\n\n* Age \\< 18 years\n* Uncontrolled brain metastases and meningeal involvement\n* Other uncontrolled malignancies\n* Women pregnant or lactating\n* Recent history of significant cardiovascular disease\n* Severe or uncontrolled systemic disease\n* Other significant clinical disorder\n* Clinically active interstitial lung disease\n\nPlease note: There are additional inclusion/exclusion criteria. The study center will determine if you meet all of the criteria. If you do not qualify for the trial, study personnel will explain the reasons. If you do qualify, study personnel will explain the trial in detail and answer any questions you may have.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Consultants in Medical Oncology and Hematology",
+      "city": "Drexel Hill",
+      "state": "Pennsylvania",
+      "zip": "19026",
+      "status": ""
+    },
+    {
+      "facility": "Reading Hospital Regional Cancer Center",
+      "city": "West Reading",
+      "state": "Pennsylvania",
+      "zip": "19612",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS), the Length of Time, in Months, That Patients Were Alive From Their First Date of Protocol Treatment Until Death",
+      "timeFrame": "24 months",
+      "description": "Length of time, in months, that patients were alive from their first date of protocol treatment until death."
+    }
+  ],
+  "sponsor": "SCRI Development Innovations, LLC",
+  "collaborators": [
+    "AstraZeneca",
+    "Pharmacia and Upjohn",
+    "Eli Lilly and Company"
+  ],
+  "start_date": "2003-09",
+  "completion_date": "2009-06",
+  "last_updated": "2013-03-22"
+}

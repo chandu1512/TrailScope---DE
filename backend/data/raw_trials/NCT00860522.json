@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT00860522",
+  "brief_title": "JVRS-100 for the Treatment of Patients With Relapsed or Refractory Leukemia",
+  "official_title": "A Phase I Trial of the Immunostimulant JVRS-100 for the Treatment of Patients With Relapsed or Refractory Leukemia",
+  "brief_summary": "This is a Phase 1, open-label, dose escalation study of JVRS-100. The study will proceed in 2 stages to minimize the number of patients treated at doses substantially below the recommended phase 2 dose. In stage 1, an accelerated titration schema will be followed with one patient at each dose level. Stage 2 will commence after a dose limiting toxicity is observed in stage 1 or after the maximum dose for stage 1 is reached. Stage 2 will follow a modified Fibonacci schema with 3-6 subjects at each dose level until a recommended phase 2 dose is determined. The cohort will then be expanded to a maximum of 12 patients to more fully evaluate the recommended phase 2 dose.",
+  "detailed_description": "This is a Phase 1, open-label, dose escalation study of JVRS-100. The study will proceed in 2 stages to minimize the number of patients treated at doses substantially below the recommended phase 2 dose. In stage 1, cohorts of three will be treated at each dose level however doses will be doubled from level to level. Stage 2 will commence after a dose limiting toxicity is observed in stage 1 or after the maximum dose for stage 1 is reached. Stage 2 will follow a modified Fibonacci schema with 3-6 subjects at each dose level until a recommended phase 2 dose is determined. The cohort will then be expanded to a maximum of 12 patients to more fully evaluate the recommended phase 2 dose. The Principal Investigator will assign dose level to be administered to all patients.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 11,
+  "conditions": [
+    "Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "JVRS-100",
+      "type": "DRUG",
+      "description": "Level 1: 0.5 \u00b5g/Kg D1,8,15; Level 2: 1.0 \u00b5g/Kg D1,8,15; Level 3:2.0 \u00b5g/Kg 1,15; Level 4: 2.0 \u00b5g/Kg D1,8,15; Level 5: 4.0 \u00b5g/Kg D1,15"
+    },
+    {
+      "name": "JVRS-100",
+      "type": "DRUG",
+      "description": "Change to Stage 2 with starting dose of 4.0 \u00b5g/Kg D1,8,15 if no toxicity level by Level 5."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 18 years of age\n* Histologically or cytologically documented relapsed or refractory acute leukemia\n* Unlikely to benefit from standard therapy in the opinion of the investigator or refuse standard therapy\n* ECOG performance status 0-2\n* Adequate renal and hepatic function\n* No hematologic criteria for WBC, Hbg or platelets\n* Negative virology screen for HIV, hepatitis B surface antigen \\& hepatitis C\n* Female patients of childbearing potential must have a negative serum pregnancy test\n* Male \\& female patients must agree to use a medically acceptable barrier and/or chemical contraceptive method during the study and for a minimum of 3 months afte the last dose of study treatment.\n* Patients post blood or marrow transplant should demonstrate a circulating CD8 count of at lest 200 cells/ul\n\nExclusion Criteria:\n\n* Active CNS leukemia\n* Current concomitant chemotherapy, radiation therapy or immunotherapy\n* Receipt of any investigational agent within 28 days of first dose of JVRS-100\n* Persistent clinically significant toxicity from prior anticancer therapy that is \\> Grade 2 (NCI CTCAE v3.0)\n* Bone marrow or stem cell transplant within 3 months prior to first dose of JVRS-100\n* Chronic administration of immunosuppressive agents within 14 days of first dose of JVRS-100. Use of inhaled steroids, nasal sprays, eye drops, and topical creams for small body areas is allowed.\n* Pregnant or lactating\n* History of prior malignancy other than leukemia within the past 5 years, excluding basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix\n* Patients with a systemic fungal, bacterial, viral, or other infection not controlled\n* Any condition which, in the opinion of the investigator, would compromise patient safety or compliance, interfere with consent, study participation, follow up, or interpretation of study results",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Hershey Cancer Institute",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Tolerability of JVRS-100",
+      "timeFrame": "Day 30 of cycle #1",
+      "description": "Toxicities will be assessed on day 30 of cycle 1. Establish dose limiting toxicity and a maximum tolerated dose recommended Phase 2 dose."
+    }
+  ],
+  "sponsor": "Milton S. Hershey Medical Center",
+  "collaborators": [],
+  "start_date": "2009-03-01",
+  "completion_date": "2017-02-20",
+  "last_updated": "2019-04-03"
+}

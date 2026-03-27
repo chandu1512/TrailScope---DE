@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT04416984",
+  "brief_title": "Safety and Efficacy of ALLO-501A Anti-CD19 Allogeneic CAR T Cells in Adults With Relapsed/Refractory Large B Cell Lymphoma, Chronic Lymphocytic Leukemia and Small Lymphocytic Lymphoma (ALPHA2)",
+  "official_title": "A Single-Arm, Open-Label, Phase 1/2 Study Evaluating the Safety, Efficacy, and Cellular Kinetics/Pharmacodynamics of ALLO-501A, an Anti-CD19 Allogeneic CAR T Cell Therapy, and ALLO-647, an Anti-CD52 Monoclonal Antibody, in Subjects With Relapsed/Refractory Large B-Cell Lymphoma (LBCL)",
+  "brief_summary": "This is a single-arm, open label, multicenter Phase 1/2 study evaluating ALLO-501A in adult subjects with R/R LBCL and CLL/SLL. The purpose of the ALPHA2 study is to assess the safety, efficacy, and cell kinetics of ALLO-501A in adults with relapsed or refractory large B-cell lymphoma and assess the safety of ALLO-501A in adults with relapsed or refractory chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) after a lymphodepletion regimen comprising fludarabine, cyclophosphamide, and ALLO-647.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 160,
+  "conditions": [
+    "Relapsed or Refractory Large B Cell Lymphoma, Relapsed or Refractory Chronic Lymphocytic Leukemia, Relapsed or Refractory Small Lymphocytic Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "ALLO-501A",
+      "type": "GENETIC",
+      "description": "ALLO-501A is an allogeneic CAR T cell therapy targeting CD19"
+    },
+    {
+      "name": "ALLO-647",
+      "type": "BIOLOGICAL",
+      "description": "ALLO-647 is a monoclonal antibody that recognizes a CD52 antigen"
+    },
+    {
+      "name": "Fludarabine",
+      "type": "DRUG",
+      "description": "Chemotherapy for lymphodepletion"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Chemotherapy for lymphodepletion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nFor subjects with LBCL:\n\n* Histologically confirmed diagnosis of relapsed/refractory large B-cell lymphoma at last relapse per WHO 2017\n* At least 1 measurable lesion at time of enrollment\n* Relapsed or refractory disease after at least 2 lines of chemotherapy\n* Absence of significant donor (product)-specific anti-HLA antibodies (DSA) at screening (Note: Only applicable for Phase 2)\n\nFor subjects with CLL/SLL:\n\n* Diagnosis of CLL/SLL\n* Relapsed/refractory disease\n* Subjects relapsed/refractory to BTKi therapy and high-risk disease\n* Subjects relapsed/refractory with 2 or more lines of therapy including BTKi and BCL-2 inhibitor (venetoclax)\n* At least 1 measurable lesion at time of enrollment\n\nFor all subjects:\n\n* Male or female subjects \u226518 years of age\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1\n* Adequate hematological, renal, and liver function\n\nExclusion Criteria:\n\n* Active central nervous system (CNS) involvement by malignancy\n* Current thyroid disorder (including hyperthyroidism), except for subjects with hypothyroidism controlled on a stable dose of hormone replacement therapy\n* Any other active malignancies that required systemic treatment within 3 years prior to enrollment\n* Radiation therapy within 2 weeks prior to ALLO-647\n* Prior irradiation to \\>25% of the bone marrow\n* Hypocellular bone marrow for age by institutional standard as determined from a bone marrow biopsy performed at time of screening (Note: Only applicable for Phase 2).\n* Autologous hematopoietic stem cell transplant (HSCT) within last 6 months (24 weeks)\n* Systemic anti-cancer therapy within 2 weeks prior to receiving ALLO-647",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Allegheny General Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1a: Proportion of subjects experiencing Dose Limiting Toxicities (DLT) at increasing doses of ALLO-501A",
+      "timeFrame": "28 days",
+      "description": "Dose limiting toxicity is defined as protocol-defined ALLO-501A-related adverse events with onset within 28 days following infusion"
+    },
+    {
+      "measure": "Phase 1a: Proportion of subjects experiencing Dose Limiting Toxicity with ALLO-647 in combination with fludarabine/cyclophosphamide administered prior to ALLO-501A",
+      "timeFrame": "33 days",
+      "description": "DLT is defined as protocol-defined ALLO-647-related adverse events with onset within 33 days following 1st infusion"
+    },
+    {
+      "measure": "Phase 1b: Frequency and severity of ALLO-501A treatment-emergent adverse events (AEs), serious AEs, and AEs of special interest",
+      "timeFrame": "Up to 60 months",
+      "description": ""
+    },
+    {
+      "measure": "Phase 2: Overall Response Rate (ORR) assessed per Independent Review Committee (IRC)",
+      "timeFrame": "Up to 60 months",
+      "description": "ORR defined as assessment of CR and PR using Lugano classification criteria 2014"
+    }
+  ],
+  "sponsor": "Allogene Therapeutics",
+  "collaborators": [],
+  "start_date": "2020-05-21",
+  "completion_date": "2029-05",
+  "last_updated": "2026-03-03"
+}

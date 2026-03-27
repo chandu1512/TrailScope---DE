@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT01326286",
+  "brief_title": "Comparative Effectiveness Analysis of Surgery and Radiation (CEASAR) for Localized Prostate Cancer",
+  "official_title": "Comparative Effectiveness Study of Various Treatments for Localized Prostate Cancer",
+  "brief_summary": "This study will primarily compare the effectiveness of surgery and radiation for localized prostate cancer, the most common male cancer. It will focus on modern technologies and control for differences in patients and treatments that may affect both cancer-related and patient-reported outcomes (such as impotence and incontinence). By figuring out what treatments \"work best, in which patients and in whose hands\", it will help men with prostate cancer make better decisions regarding their care.",
+  "detailed_description": "Prostate cancer is the most common solid tumor and the second leading cause of cancer death among American men. While surgery, radiation and observation have all been deemed appropriate for newly diagnosed men, tremendous uncertainty remains regarding the optimal treatment. AHRQ's 2008 evidence report on the comparative effectiveness of therapies for localized prostate cancer concluded that \"no one therapy can be considered the preferred treatment for localized prostate cancer due to the limitations in the body of evidence as well as the likely tradeoffs an individual patient must make between estimated treatment effectiveness, necessity and adverse effects.\" The existing literature is limited by its focus on older therapeutic modalities and failure to control for individual patient characteristics and provider/hospital characteristics that may influence outcomes (quality of care). To fill these evidence gaps, we propose to expand a network of state tumor registries and a national observational disease registry to establish a new population-based cohort of men newly diagnosed with localized prostate cancer. We will prospectively measure key patient-reported outcomes, such as health-related quality of life and side-effects of therapy at diagnosis and 6 and 12 months later. We will also collect detailed medical record information, including clinical data, technical details of the interventions, complications, short-term cancer recurrence rates, and quality-of-care indicators.\n\nBy using this approach, we will overcome limitations of the extant literature and achieve the following specific aims:\n\n1. To compare the effectiveness of contemporary surgical and radiation techniques for localized prostate cancer in the cohort described above in terms of the 6- and 12-month patient-reported outcomes, side-effects and complications of treatment.\n2. To identify patient level characteristics that may influence comparative effectiveness.\n3. To assess how the comparative effectiveness of the various therapies varies by quality of care received.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 3265,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Pathologic diagnosis of adenocarcinoma of the prostate\n* Clinically localized stage\n* PSA \\<50ng/ml\n* age 18-79\n\nExclusion Criteria:\n\n* diagnosis of other malignancy (excluding squamous or basal cell carcinoma of the skin) within 3 years of diagnosis of prostate cancer\n* age 80 or greater\n* clinically locally advanced or metastatic disease\n* PSA equal to or greater than 50 ng/ml\n* pathologic diagnosis of prostate cancer greater than 6 months prior to baseline recruitment interview",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "79 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Disease-Specific Health-Related Quality of Life (EPIC)",
+      "timeFrame": "12, 24 and 60 months after enrollment",
+      "description": "Sexual, urinary, bowel and hormonal function and bother subscores will be assessed"
+    }
+  ],
+  "sponsor": "Vanderbilt University",
+  "collaborators": [
+    "Patient-Centered Outcomes Research Institute",
+    "Agency for Healthcare Research and Quality (AHRQ)",
+    "Louisiana State University Health Sciences Center in New Orleans",
+    "University of California, Irvine",
+    "University of California, San Francisco",
+    "University of Southern California",
+    "M.D. Anderson Cancer Center",
+    "University of Utah",
+    "Emory University",
+    "Rutgers Cancer Institute of New Jersey"
+  ],
+  "start_date": "2011-03",
+  "completion_date": "2018-09",
+  "last_updated": "2018-09-24"
+}

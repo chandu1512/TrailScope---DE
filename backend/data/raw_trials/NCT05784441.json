@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT05784441",
+  "brief_title": "A Study of JNJ-90009530 in Relapsed or Refractory B-Cell Non-Hodgkin Lymphoma (r/r B-NHL)",
+  "official_title": "A Phase 1b Multicenter, Open-Label, Study of JNJ-90009530, an Autologous Anti-CD20 CAR-T Cell Therapy in Adult Participants With Relapsed or Refractory B-Cell Non-Hodgkin Lymphoma",
+  "brief_summary": "The goal of this multicenter study is to test JNJ-90009530 in Relapsed or Refractory Non-Hodgkin Lymphoma Patients. The main questions the study aims to answer are:\n\n* can a dose of JNJ-90009530 be determined that is safe and well tolerated by patients.\n* will JNJ-90009530 help patients achieve a response and for how long?",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 21,
+  "conditions": [
+    "Relapsed or Refractory B Cell Non-Hodgkin Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "JNJ-90009530",
+      "type": "DRUG",
+      "description": "JNJ-90009530, an autologous Chimeric Antigen Receptor (CAR) - T therapy targeting CD20"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria\n\n* Participant must be greater than or equal to (\\>=) 18 years of age, at the time of signing informed consent\n* All participants must have relapsed or refractory disease for each histologic subtype\n\n  * Mature aggressive large B cell NHL and Follicular Lymphoma Grade 3b: Participants must have \\>= 2 lines of systemic therapy or \\>=1 line of systemic therapy in case of participants ineligible for high-dose chemotherapy and autologous Hematopoietic stem cell transplantation (HSCT). Participants also must have had exposure to an anthracycline and an anti-CD20 targeted agent\n  * Follicular lymphoma Grade 1-3a and Marginal Zone Lymphoma: Participants must have \\>=2 prior lines of anti-neoplastic systemic therapy. Participants also must have prior exposure to an anti-CD20 monoclonal antibody\n* Tumor must be cluster of differentiation (CD) 20 positive\n* Measurable disease as defined by Lugano 2014 classification\n* Eastern Cooperative Oncology Group (ECOG) performance status of either 0 or 1\n\nKey Exclusion Criteria\n\n* Diagnosis of Human herpes virus (HHV) 8-positive Diffuse large B Cell lymphoma (DLBCL)\n* Prior allogeneic Hematopoietic stem cell transplantation (HSCT)\n* Autologous stem cell transplant within 12 weeks of chimeric antigen receptor (CAR) T cell infusion\n* Uncontrolled active infections\n* History of deep vein thrombosis or pulmonary embolism within six months of infusion (except for line associated deep vein thrombosis \\[DVT\\])\n* History of stroke, unstable angina, myocardial infarction, congestive heart failure ( New York Heart Association \\[NYHA\\] Class III or IV), severe cardiomyopathy or ventricular arrhythmia requiring medication or mechanical control within 6 months of screening\n* History of a seizure disorder, dementia, cerebellar disease or neurodegenerative disorder\n* Known history or prior diagnosis of optic neuritis or other immunologic or inflammatory disease affecting the central nervous system\n* Active central nervous system (CNS) involvement by malignancy\n* Current active liver or biliary disease (except for Gilbert's syndrome or asymptomatic gallstones)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutgers University",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Calculate the Occurence of Adverse Events",
+      "timeFrame": "up to 24 months",
+      "description": "The safety and tolerability will be measured by recording the occurence and severity of all adverse events or dose limiting toxicities that occur according to Common Terminology Criteria for Adverse Events (CTCAE) criteria version 5.0"
+    },
+    {
+      "measure": "Determine Recommended Phase 2 dose (RP2D)",
+      "timeFrame": "up to 24 months",
+      "description": "Employ a Bayesian optimal interval (BOIN) design and determine the RP2D with review of the number of dose-limiting toxicities"
+    }
+  ],
+  "sponsor": "Janssen Research & Development, LLC",
+  "collaborators": [],
+  "start_date": "2023-11-06",
+  "completion_date": "2040-01-03",
+  "last_updated": "2026-03-12"
+}

@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT00729664",
+  "brief_title": "Multiple Ascending Dose (MDX1105-01)",
+  "official_title": "A Phase 1, Multidose Study of BMS-936559 (MDX-1105) Administered Every 14 Days in Subjects With Selected Advanced or Recurrent Solid Tumors",
+  "brief_summary": "Collection of survival data, evaluation of PDL-1 expression in tumors, and evaluation of PD-L1 receptor occupancy in peripheral blood has been added.",
+  "detailed_description": "This is an open label, multicenter, dose escalation and multidose study of MDX-11-5, a fully human monoclonal IgG4 antibody targeting the Programed Death-Ligand 1 (PD-L1).\n\nThe study will consist of 3 periods: Screening (up to 28 days), Treatment (up to 16 six-week cycles), and Follow-up (up to 6 months).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 281,
+  "conditions": [
+    "Cancer, Multiple Indications"
+  ],
+  "interventions": [
+    {
+      "name": "Anti-PDL-1 antibody",
+      "type": "BIOLOGICAL",
+      "description": "Solution, Intravenous, 0.1 mg/kg, Every 14 days, 3 doses per each cycle of 42 days, 16 cycles/48 doses depending on response"
+    },
+    {
+      "name": "Anti-PDL-1 antibody",
+      "type": "BIOLOGICAL",
+      "description": "Solution, Intravenous, 0.3 mg/kg, Every 14 days, 3 doses per each cycle of 42 days, 16 cycles/48 doses depending on response"
+    },
+    {
+      "name": "Anti-PDL-1 antibody",
+      "type": "BIOLOGICAL",
+      "description": "Solution, Intravenous, 1 mg/kg, Every 14 days, 3 doses per each cycle of 42 days, 16 cycles/48 doses depending on response"
+    },
+    {
+      "name": "Anti-PDL-1 antibody",
+      "type": "BIOLOGICAL",
+      "description": "Solution, Intravenous, 3 mg/kg, Every 14 days, 3 doses per each cycle of 42 days, 16 cycles/48 doses depending on response"
+    },
+    {
+      "name": "Anti-PDL-1 antibody",
+      "type": "BIOLOGICAL",
+      "description": "Solution, Intravenous, 10 mg/kg, Every 14 days, 3 doses per each cycle of 42 days, 16 cycles/48 doses depending on response"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) Performance Status 0 to 1\n* The malignancies include relapsed/refractory renal cell carcinoma, non-small cell lung cancer, colorectal adenocarcinoma, malignant melanoma, advanced/metastatic epithelial ovarian cancer, gastric cancer, pancreatic cancer and breastcancer\n* Must have measurable disease\n\nExclusion Criteria:\n\n* Prior therapy with an anti-PD 1, anti-PDL 1, or anti-Cytotoxic T-Lymphocyte Antigen 4 antibody (or any other agents that target T-cell co-stimulation)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety, maximum tolerated dose (MTD) and dose-limiting toxicity(DLT)of MDX-1105",
+      "timeFrame": "Weekly",
+      "description": ""
+    },
+    {
+      "measure": "Safety, maximum tolerated dose (MTD) and dose-limiting toxicity(DLT)of MDX-1105",
+      "timeFrame": "Bi-weekly",
+      "description": ""
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2009-02",
+  "completion_date": "2015-07",
+  "last_updated": "2015-09-03"
+}

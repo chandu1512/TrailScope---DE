@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT03294330",
+  "brief_title": "SPY-X: A Study to Assess the Feasibility of Using SPY Alone for Sentinel Node Localization for Melanoma or Breast Cancer",
+  "official_title": "SPY-X: A Study to Assess the Feasibility of Using Real-time Fluorescence Lymphangiography Alone for Sentinel Node Localization in Patients With Melanoma or Breast Cancer",
+  "brief_summary": "The objective of this study is to determine if fluorescence lymphangiography can be used alone to localize sentinel nodes in patients with melanoma or breast cancer. The hypothesis is that sentinel nodes can be identified using only indocyanine green (ICG) and fluorescence lymphangiography, without the need for technetium99 and a gamma probe.",
+  "detailed_description": "From the subject's viewpoint, the course of events in this study will be no different than usual care and sentinel node biopsy. Subjects will have a dermal injection of technetium99 (tech99) at the melanoma tumor site prior to surgery (either the day before, or morning of surgery) or a subareolar injection if breast cancer. The surgeon will not look at the lymphoscintigraphy films, and the radiologist should not mark the skin. When the subject is in the operating room and appropriately sedated or anesthetized, tthey will receive a dermal injection of indocyanine green (ICG) 0.3-1.0 ml at the melanoma tumor site or subareola if breast cancer. Incision is made in the axilla or groin, and the SPY machine is positioned over the lymph node basin. Real-time lymphangiography (SPY) is used to identify sentinel nodes. Any fluorescent nodes should be resected and are considered sentinel nodes. The absolute fluorescence will be quantified for each sentinel node. Absolute fluorescence is calculated by the SPY machine.\n\nAfter the sentinel lymphadenectomy is complete but prior to closing skin, the excised lymph nodes will be examined with the gamma probe (detects tech99 signal) to confirm that they are sentinel nodes. If the node does not have a signal with the gamma probe (but is fluorescent) it is still considered a sentinel node. The lymph node basin will also be examined with the gamma probe, to insure that no sentinel nodes are missed. If a gamma positive sentinel node is identified in the lymph node basin, it should be resected and imaged with SPY. If no sentinel nodes are able to be identified with fluorescent imaging, the gamma probe will be used as per usual practice. The surgeon should spend no more than 30 minutes using SPY to identify sentinel nodes. If after 30 minutes no sentinel node is found, the gamma probe should be used. The data collection form should be completed for each case.\n\nThe investigators intend to enroll at least 48 subjects. In order to insure that the data collected accurately represents the effectiveness of the SPY machine, each surgeon will be required to enroll at least 8 subjects into the study. Sentinel node biopsy is a routine surgical procedure, and all involved PIs are experienced in performing sentinel node biopsy. While fluorescence imaging intra-op is novel, the actual procedure itself is no different.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 35,
+  "conditions": [
+    "Sentinel Lymph Node",
+    "Melanoma (Skin)",
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "IC-Green KIT",
+      "type": "DRUG",
+      "description": "fluorescence lymphangiography with the use of IC-Green"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients with melanoma or breast cancer who meet criteria for and consent to sentinel node biopsy.The melanoma should be located on the upper extremity between and including the wrist and shoulder, or the lower extremity between and including the ankle and groin.\n\nExclusion Criteria:\n\n* Melanoma located on the trunk, head or neck. Patients with an allergy to indocyanine green or sodium iodide. Pregnant and nursing women. Patients who have had a prior sentinel node biopsy in the same nodal basin.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "PennState Health Milton S. Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants Where the First, Second and Third Sentinel Nodes Localized With the Use of Fluorescence Imaging Alone",
+      "timeFrame": "Intraoperative, up to 1 hour",
+      "description": "The number of participants who had their first, second and third sentinel nodes correctly identified with ICG and fluorescence imaging alone, without the use of technetium99 and gamma probe. The number of sentinel nodes in any participant is determined by the patient's anatomy."
+    }
+  ],
+  "sponsor": "Milton S. Hershey Medical Center",
+  "collaborators": [
+    "Vassar Brothers Medical Center",
+    "Emory University"
+  ],
+  "start_date": "2017-10-11",
+  "completion_date": "2021-11-02",
+  "last_updated": "2022-12-19"
+}

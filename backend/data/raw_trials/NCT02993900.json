@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT02993900",
+  "brief_title": "Image-Guided Gynecologic Brachytherapy",
+  "official_title": "A Clinical Trial To Evaluate Image-Guided Gynecologic Brachytherapy In The MR Simulator Suite",
+  "brief_summary": "This research is being done to evaluate multimodality imaging, including magnetic resonance imaging-guided therapy (MRT), as a possible treatment for gynecologic cancers. The therapy takes place in the Department of Radiation Oncology at the Johns Hopkins SKCCC. The purpose of this study is to investigate the ability of MRI to successfully guide the placement of the brachytherapy applicator necessary to treat participants' gynecologic cancer. The Investigators want to see if the use of MRI will do a better job of assessing the tumor at the time of brachytherapy than the routinely used CT scan. The Investigators also want to determine if the use of MRI will enable doctors to reduce the radiation dose received by the body during the process of treating the tumor.",
+  "detailed_description": "The goal of this trial is to assess how magnetic resonance imaging (MRI) may be used to improve tumor and normal tissue volume delineation, reducing toxicity and recurrence in gynecologic brachytherapy. The Investigators will compare dosimetric values to the organs at risk (OAR) with CT versus MRI planning. The Investigators anticipate that MR-planned cases will have lower OAR doses than standard CT-based cases due to more conformal planning. The Investigators will determine dose thresholds for radiation-related toxicity after treatment. The Investigators will compare toxicity rates at 6 months, 1 and 2 years after treatment, thereby enabling improved recommendations on dose limits to the OAR.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 54,
+  "conditions": [
+    "Cervical Cancer",
+    "Uterine Cancer",
+    "Vaginal Cancer",
+    "Vulvar Cancer",
+    "Bladder Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Image-Guided Brachytherapy",
+      "type": "DEVICE",
+      "description": "Brachytherapy will be precisely inserted with the assistance of magnetic resonance (MRI) scans"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants must have histologically or cytologically confirmed carcinoma. Central pathology review is not required; however, pathology will be reviewed at the SKCCC at Johns Hopkins.\n* Site/Stage\n* Any patient eligible for internal implantation without MR guidance will be considered eligible for this protocol. Standard criteria for internal implantation include:\n* Carcinoma of the cervix: Stage I-IVA or vaginal recurrence\n* Carcinoma of the uterus: Stage IIIB (vaginal involvement), inoperable, or vaginal recurrence\n* Carcinoma of the vagina: Stage I-IVA or vaginal recurrence\n* Carcinoma of the vulva: Stage I-IVA or recurrence\n* Carcinoma of the urethra based on treating physician's discretion\n* Patients who have received prior radiation or chemotherapy may be enrolled on this study.\n* Age \\> 18 years. Children do not develop these malignancies and therefore are not considered candidates for this trial.\n* Life expectancy of greater than 6 months.\n* ECOG performance status of \\<2 or greater, based on treating physician's discretion\n* MRI of the pelvis or PET-CT within 4 months before registration\n* Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n* Uncontrolled intercurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Absolute neutrophil count \\< 500 at the time of enrollment\n* A history of metal in the head or eyes",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The SKCCC at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dosing changes",
+      "timeFrame": "3 years",
+      "description": "To quantify the relative reduction of dose to rectum, sigmoid and bladder obtained after MR Simulator Suite-guided placement, as compared to standard CT guided treatment based on historical information and literature review."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2016-12-15",
+  "completion_date": "2028-12",
+  "last_updated": "2025-12-16"
+}

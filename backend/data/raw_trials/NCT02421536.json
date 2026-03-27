@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT02421536",
+  "brief_title": "Vibrent Smartphone Mobile Application",
+  "official_title": "A Feasibility Study of the VibrentTM Smartphone App for Head & Neck Cancer Patients: Supporting Pain Management of Radiation-Induced Mucositis",
+  "brief_summary": "This research is being done to evaluate whether or not a customized version of the VibrentTM (formerly FitNinjaTM) mobile app is a feasible way to help people manage and control the pain from radiation sores (also referred to as \"mucositis\") when treating head and neck cancers with radiation. The mobile app will be designed to help people better understand the pain from the radiation sores and how to better use their medications especially when they are away from the hospital.",
+  "detailed_description": "The proposed study will evaluate the feasibility of the VibrentTM smartphone application to evaluate radiation-induced mucositis pain \"out of the clinic\" and it's ability to enhance adherence to the prophylactic pain management algorithm. Successful completion of the proposed study will provide the foundation upon which a randomized trial can be conducted evaluating the efficacy of prophylactic gabapentin / narcotics for various toxicity, patient-reported and oncologic outcomes in patients receiving head and neck radiotherapy. Moreover, successful establishment of this pain analgesic approach may have future implications in other pain models where there is planned neuropathic tissue injury.\n\nVibrent Management has established a policy and procedure regarding the Privacy of Protected Health Information (PHI) and Security of Electronic Protected Health Information (EPHI). This procedure applies to applicable Vibrent employees and contractors associated with the management of VibrentTM customer's Protected Health Information. VibrentTM products are HIPAA and HITECH Act compliant, and use the highest quality processes based on ISO13485 standard during software design and development. VibrentTM quality process has successfully passed quality audits from leaders in medical devices and pharmaceutical products. The security, privacy, quality processes and HIPAA compliance of VibrentTM LHS (Learning Healthcare System) Cloud hosted system has been cleared for commercial use by the DoD (US Army) to provide remote care management services for soldiers and civilians. In addition, this secure and HIPAA compliant VibrentTM LHS has received SSAE16 certification to prove operational controls needed to ensure such compliance.\n\nThe Vibrent LHS security components include security of data in flight and data at rest throughout end-to-end system architecture. VibrentTM mobile and web applications are designed to be secure in handling information provided and stored within it. All data exchanges between mobile applications or web browsers and the website are encrypted. Once a complete patient consult is transmitted from the mobile device and the server acknowledges receipt, all data and photos would be removed automatically from the mobile device. Data stored in the mobile application as well as the website is secured and encrypted. Data is exchanged over the internet securely using HTTPS/SSL.\n\nThe VibrentTM server has also been securely integrated with the Johns Hopkins Oncospace\u00ae analytic database server allowing secure one-way secure transmission of \"out of clinic\" assessment data to the \"in clinic\" Oncospace\u00ae analytic database which captures all treatment-related information including all radiotherapy dosimetry information and \"in clinic\" treatment toxicities and oncologic and toxicity outcome measures including patient-reported outcomes. Integration is particularly important as the radiotherapy dose, volume and the location of the upper aerodigestive tract that is irradiated can all affect the level of the pain experienced from radiation-induced mucositis. Oncospace\u00ae was developed to handle all continuous data-points in the dose-volume histogram (DVH) which summarizes the radiotherapy delivered to specific structures delineated in a radiotherapy plan as a series of analyzable relational tables within a database architecture thus facilitating quantification of the radiotherapy treatment and how it may affect radiation-induced mucositis pain.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 48,
+  "conditions": [
+    "Mucositis"
+  ],
+  "interventions": [
+    {
+      "name": "Vibrogent Smartphone Application",
+      "type": "OTHER",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Study subjects age \u2265 18 years of age.\n2. Study subject with a Karnofsky performance scale of 80 or greater.\n3. Study subjects capable of providing informed consent.\n4. Study subjects with a previously untreated head and neck cancer diagnosis requiring a definitive or postoperative course of radiotherapy requiring a prescribed dose of radiation therapy\n5. Study subjects who have either an Android or Apple iOS-based smartphone or tablet compatible with the VibrentTM software with sufficient monthly data plan (approximately 200 megabytes per month).\n\nExclusion Criteria:\n\na. No known hypersensitivity or intolerance to gabapentin.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Medical Institutions",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change from baseline in \"out of clinic\" pain at 2 months",
+      "timeFrame": "2 months",
+      "description": "We hypothesize that the interactive VibrentTM algorithm can be adopted to extend the current \"in clinic\" prophylactic pain regimen for the management of radiation-induced mucositis to improve \"out of clinic\" adherence and the effectiveness of this regimen. Feasibility of the VibrentTM smartphone application will be defined by patient utilization rates and satisfaction scores."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [],
+  "start_date": "2016-01-14",
+  "completion_date": "2022-12-31",
+  "last_updated": "2023-01-13"
+}

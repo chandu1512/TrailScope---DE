@@ -1,0 +1,95 @@
+{
+  "nct_id": "NCT06925737",
+  "brief_title": "A Clinical Study of Ifinatamab Deruxtecan (I-DXd) in People With Metastatic Prostate Cancer (MK-2400-001)",
+  "official_title": "A Phase 3, Open-label Study of Ifinatamab Deruxtecan Versus Docetaxel in Participants With Metastatic Castration-Resistant Prostate Cancer (mCRPC) (IDeate-Prostate01)",
+  "brief_summary": "Researchers are looking for new ways to treat metastatic castration-resistant prostate cancer (mCRPC). Researchers have designed a study medicine called ifinatamab deruxtecan (also called I-DXd or MK-2400) to treat mCRPC. The goal of this study is to learn if people who receive I-DXd live longer overall and live longer without the cancer growing or spreading than people who receive chemotherapy.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1440,
+  "conditions": [
+    "Prostate Cancer",
+    "Prostatic Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Ifinatamab deruxtecan",
+      "type": "DRUG",
+      "description": "Administered via intravenous (IV) infusion every 3 weeks (q3w) until disease progression, unacceptable adverse events (AEs), or other cessation of treatment"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Administered via IV infusion q3W until disease progression, unacceptable adverse events (AEs), or other cessation of treatment"
+    },
+    {
+      "name": "Prednisone",
+      "type": "DRUG",
+      "description": "Oral tablet administered once per day or per approved product label"
+    },
+    {
+      "name": "Rescue Medication",
+      "type": "DRUG",
+      "description": "Before administering each dose of I-DXd, premedication is required for prevention of nausea and vomiting with a 2 or 3 drug combination regimen (eg, corticosteroids with either a 5-HT3 receptor antagonist or an NK-1 receptor antagonist and other drugs as indicated) per approved product label"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nThe main inclusion criteria include but are not limited to the following:\n\n* Has histologically- or cytologically-confirmed adenocarcinoma of the prostate without small cell histology\n* Has prostate cancer progression while on androgen deprivation therapy (ADT) (or post bilateral orchiectomy) within 6 months prior to Screening\n* Has current evidence of distant metastatic disease (M1 disease) documented by either bone lesions on bone scan and/or soft tissue disease by computed tomography (CT)/magnetic resonance imaging (MRI)\n* Has received prior treatment with 1 or 2 androgen receptor pathway inhibitors (ARPIs) and progressed during or after at least 8 weeks of treatment\n* Has provided tumor tissue from a core or excisional biopsy from soft tissue not previously irradiated and obtained after disease progression on the most recent prior therapy\n* Has recovered from adverse events (AEs) due to previous anticancer therapies\n\nExclusion Criteria:\n\nThe main exclusion criteria include but are not limited to the following:\n\n* Is unable to swallow tablets/capsules\n* Has any of the following indicators of interstitial lung disease (ILD)/pneumonitis:\n\n  1. Has any history of ILD/pneumonitis that required steroid use, except for a history of radiation pneumonitis that did not require steroids\n  2. Has current ILD/pneumonitis\n  3. Has a clinical or radiographic suspicion of ILD for which the diagnosis of ILD cannot be ruled out\n* Has clinically severe pulmonary compromise resulting from intercurrent pulmonary illnesses\n* Has uncontrolled or significant cardiovascular disease\n* Has received prior treatment with a taxane-based chemotherapy agent for metastatic castration-resistant prostate cancer (mCRPC)\n* Has had prior discontinuation of an antibody drug conjugate (ADC) that consists of an exatecan derivative (eg, trastuzumab deruxtecan) due to treatment-related toxicities\n* Has a \"superscan\" bone scan",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Greenebaum Comprehensive Cancer Center ( Site 0021)",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "John Theurer Cancer Center at Hackensack University Medical Center ( Site 0016)",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Perelman Center for Advanced Medicine ( Site 0067)",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Abramson Cancer Center - Penn Medicine ( Site 0079)",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19106",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "Up to approximately 36 months",
+      "description": "OS is defined as the time from randomization to death due to any cause."
+    },
+    {
+      "measure": "Radiographic Progression Free Survival (rPFS)",
+      "timeFrame": "Up to approximately 36 months",
+      "description": "rPFS is defined as the time from randomization to the first documented disease progression per prostate cancer working group (PCWG)-modifed Response Evaluation Criteria In Solid Tumors (RECIST) 1.1 by blinded independent central review (BICR) or death due to any cause, whichever occurs first."
+    }
+  ],
+  "sponsor": "Merck Sharp & Dohme LLC",
+  "collaborators": [
+    "Daiichi Sankyo"
+  ],
+  "start_date": "2025-05-13",
+  "completion_date": "2031-01-06",
+  "last_updated": "2026-03-19"
+}

@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT01708174",
+  "brief_title": "A Phase II Study of Oral LDE225 in Patients With Hedge-Hog (Hh)-Pathway Activated Relapsed Medulloblastoma (MB)",
+  "official_title": "A Phase II, Multi-center, Open-label, Single-arm Study of the Efficacy and Safety of Oral LDE225 in Patients With Hh-pathway Activated Relapsed Medulloblastoma",
+  "brief_summary": "This Phase II study evaluated the safety and efficacy of LDE225 in adult and pediatric patients with Hh-pathway activated, relapsed MB.",
+  "detailed_description": "This study was a single-arm study of the efficacy and safety of oral sonidegib in patients with Hh-pathway activated relapsed medulloblastoma. It was initially designed as a randomized, controlled, open-label phase III study of adults and children with Hh-pathway activated MB whose disease had failed standard of care therapy, including radiation therapy (RT). The original study consisted of a randomized controlled part and a non-randomized uncontrolled part. Approximately 69 patients were to be randomized in a 2:1 ratio to receive sonidegib oral suspension or the active control, temozolomide (TMZ) capsules. Randomization was to be stratified according to age, \\<18 years versus \u2265 18 years. Approximately 40 patients were to receive sonidegib in the non-randomized uncontrolled part of the study. Following the enrollment of 11 patients, the study was amended to become a phase II single-arm study with only sonidegib, and the target enrollment was changed to 20 patients. Prior to the study amendment, TMZ participants whose disease progressed while on TMZ were permitted to crossover to sonidegib. After the amendment, participants receiving TMZ were crossed over to sonidegib.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 22,
+  "conditions": [
+    "Medulloblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "LDE225",
+      "type": "DRUG",
+      "description": "Sonidegib for oral suspension was supplied in amber glass bottles. Sonidegib oral suspension was combined with the supplied reconstitution vehicle to a final concentration of 50 mg/mL."
+    },
+    {
+      "name": "TMZ",
+      "type": "DRUG",
+      "description": "Temozolomide capsules were obtained locally by the Investigator"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients with histologically confirmed diagnosis of MB, who have experienced relapse or progression after standard-of-care therapy including radiotherapy. Patients currently receiving steroids must have been on a stable (or decreasing) dose for at least 5 days before initiating study therapy.\n* Only patients with a test result, using the 5-gene Hh signature assay, indicating Hhpathway activated MB are eligible for this study. All available tumor material obtained at any time during the course of the patient's disease should be submitted for these analyses\n* At least one measurable lesion defined as lesion(s) that can be accurately measured in at least two dimensions and is \u2265 10 mm in each dimension by Gadolinium (Gd)-MRI, irrespective of slice thickness/reconstruction interval, for CNS lesions and CT or MRI (with or without contrast) for non-CNS lesions. All patients with CNS lesions must have a brain MRI with and without gadolinium and a spine MRI with gadolinium within 2 weeks prior to first dose of study treatment.\n* Performance Status corresponding to ECOG score of 0, 1, or 2:\n\n  1. Karnofsky performance status score \u2265 50 for patients \\>16 years of age\n  2. Lansky performance status score \u2265 50 for patients \u2264 16 years of age\n* Adequate bone marrow function as defined as:\n\n  1. Peripheral absolute neutrophil count (ANC) \u2265 1.5 x 109/L\n  2. Platelet count \u2265 80 x 109/L\n  3. Hemoglobin (Hgb) \u2265 9 g/dL\n* Serum CK \u22641.5 ULN\n\nExclusion Criteria:\n\n* Prior treatment with a Smoothened inhibitor Systemic anticancer treatment within 2 weeks before first dose of study treatment (6 weeks for nitrosourea, mitomycin, and monoclonal antibodies).\n* Focal radiation therapy within 4 weeks before first dose of study treatment, or full spinal radiotherapy within 3 months before first dose of study treatment.\n* Patients who have neuromuscular disorders that are associated with elevated CK (eg, inflammatory myopathies, muscular dystrophy, amyotrophic lateral sclerosis, spinal muscular atrophy).\n* Patients receiving treatment with medications that are known to be strong inhibitors or inducers of CYP3A4/5 or are metabolized by CYP2B6 and CYP2C9, that have narrow therapeutic indices that cannot be discontinued at least 2 weeks before first dose of study treatment and for the duration of the study\n* Patients receiving unstable or increasing doses of corticosteroids. If patients are on corticosteroids for endocrine deficiencies or tumor-associated symptoms, dose must have been stabilized (or decreasing) for at least 5 days before first dose of study treatment.",
+    "gender": "ALL",
+    "min_age": "4 Months",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center/Johns Hopkins Med. Dept Onc",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Pittsburgh Dept of Oncology",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213-2583",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Overall Response Rate (ORR) According to Independent Review Committee (IRC) From Date First Participant Randomized, 13-Sep-2013 to Date of Data Cut-off, 15-Nov-2016",
+      "timeFrame": "from date first participant randomized, 13-Sep-2013 to date of data cut-off, 15-Nov-2016",
+      "description": "ORR was defined as the percentage of participants with best overall response of complete response (CR) or partial response (PR) (as per tumor response guidelines and criteria for Medulloblastoma). The IRC evaluated all radiological images and applicable clinical data (i.e., neurological examination, steroid use and cerebrospinal fluid (CSF) results as applicable). Assessments after crossover were not included for TMZ participants."
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2013-05-06",
+  "completion_date": "2016-10-05",
+  "last_updated": "2017-08-07"
+}

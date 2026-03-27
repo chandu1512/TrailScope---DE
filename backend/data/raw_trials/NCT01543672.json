@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT01543672",
+  "brief_title": "Irradiation of Large Lung Tumors or Two or More Lung Metastases Simultaneously",
+  "official_title": "VOLUMES Treatment of Larger Tumor Volumes or \u2265 2 Lung Tumors Simultaneously in Lung Cancer Patients Using SBRT in a Mean-lung Dose Escalation Study",
+  "brief_summary": "Treatment of larger tumor volumes or \u2265 2 lung metastases simultaneously in lung cancer patient using Stereotactic Body Radiation Therapy (SBRT) in a mean-lung dose escalation study.",
+  "detailed_description": "A phase I/II multicenter trial will be conducted in patients with medically inoperable with peripheral non small cell lung cancer (NSCLC) \\> 5 cm without lymph node involvement (group A) or medically with \u2265 2 or more lung metastases (group B). Radiation pneumonitis is expected to be dose-limiting in these patients and there is evidence that the incidence is predicted by the mean lung dose (MLD). The MLD escalation will be performed separately in both patient groups, using a time-to-event continual reassessment method (TITE-CRM). All patients will receive 3-5 fractions SBRT to the lung tumor(s), with a minimum mean PTV dose \u2265 42 Gy. Fraction size may be downscaled based on the MLD constraint.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 62,
+  "conditions": [
+    "Lung Cancer",
+    "Metastatic Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Stereotactic Body Radiotherapy (SBRT)",
+      "type": "RADIATION",
+      "description": "3-5 fractions within 10-14 days"
+    },
+    {
+      "name": "Stereotactic Body Radiotherapy (SBRT)",
+      "type": "RADIATION",
+      "description": "3-5 fractions per tumor within one treatment session or sequential within one month"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria for group A and B:\n\n* Weight loss \\< 10% in the last three months.\n* WHO-performance status \u2264 2\n* Medical inoperable patients or patients refusing surgery.\n* Chemotherapy is allowed in neoadjuvant and adjuvant setting, with exclusion of the period 4 weeks pre-SBRT and 6 weeks post-SBRT.\n* Before patient registration, written informed consent must be given according to ICH/GCP, national and local regulations.\n\nRisk group A specification:\n\n* NSCLC (Cytological or histological proven) patients with peripheral tumors \\>5 cm with tumor staging cT2bN0M0 or cT3N0M0 (chest wall infiltration is no exclusion criteria, as long as the tumor diameter is \\> 5 cm).\n* Single peripheral lung metastasis in inoperable patients with a diameter of \\> 5 cm. In case of first presentation of metastatic disease, cytological or histological proof is obligated.\n* In patients without cytological or histological confirmation of NSCLC, a growing FDG-PET positive lesion (SUV \\>5) is accepted if a contra-indication for invasive diagnostic examination (or refusal) is present.\n\nRisk group B specification:\n\n* Patients with \u2265 2 simultaneous peripheral lung metastases \u2264 5 cm of any origin at any location in the lung.\n* In case of first presentation of metastatic disease, cytological or histological proof is obligated. This is not necessary in case of a history of an already proven disseminated disease.\n* Patients having \u2265 2 peripheral lung metastases without unacceptable dose overlap.\n\nExclusion Criteria:\n\n* Patients with central tumors\n* Pancoast tumors\n* Prior radiotherapy treatment to the thorax\n* Patients receiving any systemic treatment during SBRT\n* Pregnant patients\n* Patients previously treated with adriamycin agents in case of heart involvement within the treatment field.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University/ Kimmel Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "PA 19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "MLD",
+      "timeFrame": "4 years",
+      "description": "The assessment of the maximum mean lung dose that can be safely treated with SBRT and that is associated with a 20% probability of the DLT."
+    }
+  ],
+  "sponsor": "The Netherlands Cancer Institute",
+  "collaborators": [],
+  "start_date": "2011-11-22",
+  "completion_date": "2017-10-31",
+  "last_updated": "2019-06-26"
+}

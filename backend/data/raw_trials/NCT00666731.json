@@ -1,0 +1,89 @@
+{
+  "nct_id": "NCT00666731",
+  "brief_title": "Breast Cancer Registry for Participants With Breast Cancer or Characteristics of Hereditary Breast Cancer",
+  "official_title": "Development and Implementation of The Breast Cancer Collaborative Registry (BCCR)",
+  "brief_summary": "RATIONALE: Gathering information about patients with breast cancer and their families may help the study of breast cancer in the future.\n\nPURPOSE: This clinical trial is gathering information about patients with breast cancer and their families.",
+  "detailed_description": "OBJECTIVES:\n\n* To develop a web-based Breast Cancer Collaborative Registry (BCCR) as a repository for socio-demographic, environmental, clinical history, family history, and biospecimen data collected at the National Comprehensive Cancer Network (NCCN) centers for participants with a personal history of breast cancer and/or characteristics of hereditary breast cancer.\n* To merge the data already being collected on breast cancer patients under the Adult Oncology Data Collection Study and newly diagnosed breast cancer patients participating in the NCCN Data Coordinating study at UNMC/NMC.\n* To standardize clinical, environmental, socio-demographic, and family history data for breast cancer-related information to be collected and shared for research purposes by Eppley Breast Cancer Research Group breast cancer research collaborators.\n* To collect, validate, and disseminate the breast cancer-related data to establish a high-risk cohort for future research into the molecular and biological bases of breast cancer susceptibility and interventional trials.\n\nOUTLINE: This is a multicenter study.\n\nStudy participants undergo data collection related to breast cancer studies at one of the National Comprehensive Cancer Network (NCCN) centers for inclusion in the Breast Cancer Collaborative Registry (BCCR). The BCCR is a comprehensive computerized database that serves as a repository for socio-demographic, environmental, clinical history, family history, and biospecimen data collected for breast cancer patients treated on UNMC protocols. Central features of the registry include standardized data-entry forms and a relational database that can be used as a resource for the study of the pathology, immunology, cytogenetics, molecular biology, epidemiology, clinical features, and outcome of patients with benign, pre-malignant, or malignant breast disease.\n\nStudy participants complete a self-administered electronic or paper-based survey and a medical history questionnaire at baseline to provide information on demographics (e.g., age and sex); personal and family medical history; treatment history; lifestyle, physical activity, and dietary habits; quality of life; environmental exposure history; and the family tree for inclusion in the registry. Participants also undergo telephone or in-person structured interviews conducted by study coordinators, genetic counselors, or the System Coordinator of the BCCR to provide additional information or clarification of the information provided in the questionnaires.\n\nStudy participants also undergo review of their medical records and pathology reports to obtain detailed medical and treatment-related information for inclusion in the registry. The information collected includes retrospective and prospective disease-specific data (e.g., diagnosis, grade/stage, and laboratory values) and longitudinal outcome data (e.g., response to treatment, toxicity, survival, relapse) derived during prospective clinical follow-up.\n\nStudy participants are followed periodically to update relevant health and family histories.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 4945,
+  "conditions": [
+    "Breast Cancer",
+    "Precancerous Condition"
+  ],
+  "interventions": [
+    {
+      "name": "medical chart review",
+      "type": "OTHER",
+      "description": "Demographic information (like address and birth date), the results of physical exams, blood tests, x-rays and other diagnostic and medical procedures and treatments, as well as medical and surgical history."
+    },
+    {
+      "name": "questionnaire administration",
+      "type": "OTHER",
+      "description": "Collection of personal information, medical history, diet and lifestyle habits, any past or current environmental exposures and to re-create a family tree for any cancers that have occurred in any family members. In accordance with OPRR guidelines, no identifying information such as name, address, or date of birth will be used for relatives, but the affected status (cancer, age of onset, year of birth, age of death) will be recorded."
+    },
+    {
+      "name": "study of socioeconomic and demographic variables",
+      "type": "OTHER",
+      "description": "Repository"
+    },
+    {
+      "name": "Excess human biological tissue",
+      "type": "PROCEDURE",
+      "description": "Tissue procurement."
+    },
+    {
+      "name": "quality-of-life assessment",
+      "type": "PROCEDURE",
+      "description": "Cancer care."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Current diagnosis or history of breast cancer\n* Atypical hyperplasia\n* Ductal carcinoma in situ (DCIS) or lobular carcinoma in situ (LCIS) as defined in the National Comprehensive Cancer Network Breast and/or Ovarian Genetic Assessment Guidelines, v.1.2006\n* Characteristics of hereditary breast cancer, as defined in the National Comprehensive Cancer Network Breast and/or Ovarian Genetic Assessment Guidelines, v.1.2006 (relatives have been diagnosed with breast and/or ovarian cancer) OR have a breast cancer risk of \\> 1.67% over 5 years as estimated by the GAIL Model\n\nExclusion Criteria:",
+    "gender": "ALL",
+    "min_age": "19 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Meritus Center for Clinical Research",
+      "city": "Hagerstown",
+      "state": "Maryland",
+      "zip": "21742",
+      "status": ""
+    },
+    {
+      "facility": "William E Kahlert Regional Cancer Center",
+      "city": "Westminster",
+      "state": "Maryland",
+      "zip": "21157",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Implementation of a web-based Breast Cancer Collaborative Registry at the National Comprehensive Cancer Network (NCCN) centers",
+      "timeFrame": "Ongoing",
+      "description": "Web-based registry"
+    },
+    {
+      "measure": "Merger of data collected under the Adult Oncology Data Collection Study and the National Comprehensive Cancer Network Data Coordinating study at UNMC/NMC",
+      "timeFrame": "Ongoing",
+      "description": "Web-based registries."
+    },
+    {
+      "measure": "Standardization of clinical, environmental, socio-demographic, and family history data collected for breast cancer-related research and shared by the Eppley Breast Cancer Research Group collaborators",
+      "timeFrame": "Ongoing",
+      "description": "Web-based registry."
+    }
+  ],
+  "sponsor": "University of Nebraska",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2006-10-12",
+  "completion_date": "2016-08-19",
+  "last_updated": "2023-10-07"
+}

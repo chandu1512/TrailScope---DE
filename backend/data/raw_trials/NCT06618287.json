@@ -1,0 +1,105 @@
+{
+  "nct_id": "NCT06618287",
+  "brief_title": "A Study to Evaluate the Safety, Tolerability, Drug Levels, and Preliminary Efficacy of BMS-986507 Combinations in Adult Participants With Advanced Solid Tumors",
+  "official_title": "A Phase 1/2a, Open-label, Dose-finding Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of BMS-986507 (BL-B01D1) Combinations in Adult Participants With Advanced Solid Tumors",
+  "brief_summary": "The purpose of this study is to evaluate the safety, tolerability, drug levels, and preliminary efficacy of BMS-986507 combinations in adult participants with advanced solid tumors.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 416,
+  "conditions": [
+    "Lung Cancer",
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "BMS-986507",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Osimertinib",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Pumitamig",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\n* Participants must have at least one measurable lesion per response evaluation criteria in solid tumors.\n* Participants must have an Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.\n* Participants must have a life expectancy of at least 3 months at the time of the first dose.\n* Group A: Participants must have pathologically confirmed locally advanced or metastatic NSCLC with an EGFR exon 19 deletion or L858R mutation in exon 21, either alone or in combination with other EGFR mutations, which may include T790M in exon 20. Participants with other EGFR mutations (including but not limited to, exon 21 L861Q, exon 18 G719X, and exon 20 S768I mutations, etc.) will also be allowed\n* Group B: Participants must have pathologically confirmed locally advanced or metastatic NSCLC.\n* Group C: Participants must have pathologically confirmed locally-advanced, recurrent inoperable, or metastatic TNBC or ER-low, HER2-negative BC.\n* Group D: Participants must have pathologically confirmed locally-advanced, recurrent inoperable, or metastatic TNBC per ASCO/CAP criteria, based on the most recently analyzed biopsy or another pathology specimen.\n* Group E: Participants must have pathologically confirmed locally advanced or metastatic NSCLC, not amenable to treatment in curative intent.\n\nExclusion Criteria\n\n* Participants must not have any mixed Small Cell Lung Cancer (SCLC) and Non-Small Cell Lung Cancer (NSCLC) histology.\n* Participants with known mutations in EGFR will be excluded (Group A,B and E).\n* Participants must not have a history of serious recurrent infections.\n* Participants must not have a history of severe heart disease.\n* Other protocol-defined Inclusion/Exclusion criteria apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "John Theurer Cancer Center at Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Local Institution - 0014",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "WITHDRAWN"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of participants with adverse events (AEs)",
+      "timeFrame": "Up to 3 years",
+      "description": ""
+    },
+    {
+      "measure": "Number of participants with serious adverse events (SAEs)",
+      "timeFrame": "Up to 3 years",
+      "description": ""
+    },
+    {
+      "measure": "Number of participants with AEs meeting protocol defined dose-limiting toxicity (DLT) critera",
+      "timeFrame": "Up to 3 years",
+      "description": ""
+    },
+    {
+      "measure": "Number of participants with AEs leading to discontinuation",
+      "timeFrame": "Up to 3 years",
+      "description": ""
+    },
+    {
+      "measure": "Number of participants with AEs leading to death",
+      "timeFrame": "Up to 3 years",
+      "description": ""
+    },
+    {
+      "measure": "Number of DLTs that occur during the DLT evaluation period",
+      "timeFrame": "Up to 3 weeks",
+      "description": ""
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2025-02-04",
+  "completion_date": "2031-02-26",
+  "last_updated": "2026-03-16"
+}

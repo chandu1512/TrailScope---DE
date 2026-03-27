@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT02627963",
+  "brief_title": "A Study to Compare Tivozanib Hydrochloride to Sorafenib in Participants With Refractory Advanced Renal Cell Carcinoma (RCC)",
+  "official_title": "A Phase 3, Randomized, Controlled, Multi-Center, Open-Label Study to Compare Tivozanib Hydrochloride to Sorafenib in Subjects With Refractory Advanced Renal Cell Carcinoma",
+  "brief_summary": "This is a Phase 3, open-label, randomized, controlled, multi-national, multi-center, parallel-arm study comparing tivozanib to sorafenib in participants with refractory advanced renal cell carcinoma (RCC).\n\nParticipants will be randomized (1:1) to treatment with tivozanib or sorafenib.\n\nParticipants will be stratified by International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) risk category (favorable; intermediate; poor) and prior therapy (two prior vascular endothelial growth factor receptor tyrosine kinase inhibitors (VEGFR TKI); a prior checkpoint inhibitor \\[programmed cell death -1 protein (PD-1) or PD-1 ligand (PD1-L) inhibitor\\] plus a prior VEGFR TKI; a prior VEGFR TKI plus any other systemic agent).\n\nAll participants will be evaluated for progression free survival, overall survival, objective response rate, and the duration of response as well as safety and tolerability.\n\nPharmacokinetic (PK) analyses are also included in study.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 350,
+  "conditions": [
+    "Carcinoma, Renal Cell"
+  ],
+  "interventions": [
+    {
+      "name": "Tivozanib hydrochloride",
+      "type": "DRUG",
+      "description": "Tivozanib hydrochloride"
+    },
+    {
+      "name": "Sorafenib",
+      "type": "DRUG",
+      "description": "Sorafenib"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 18 years or older\n* Participants with metastatic RCC who have failed 2 or 3 prior systemic regimens, one of which includes a VEGFR TKI other than sorafenib or tivozanib.\n* Histologically or cytologically confirmed RCC with a clear cell component (participants with pure papillary cell tumor or other non-clear cell histologies, including collecting duct, medullary, chromophobe, and unclassified RCC are excluded).\n* Measurable disease per the Response Evaluation Criteria in Solid Tumors (RECIST) criteria Version 1.1.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Life expectancy \u2265 3 months.\n\nExclusion Criteria:\n\n* Prior treatment with sorafenib or tivozanib.\n* More than 3 prior regimens for metastatic RCC.\n* Known central nervous system (CNS) metastases other than stable, treated brain metastases. Participants with previously treated brain metastasis will be allowed if the brain metastasis has been stable by neuroimaging without steroid treatment for at least 3 months following prior treatment (radiotherapy or surgery).\n* Significant hematologic, gastrointestinal, thromboembolic, vascular, bleeding, or coagulation disorders.\n* Significant serum chemistry abnormalities\n* Significant cardiovascular disease, including: Active clinically symptomatic left ventricular failure, uncontrolled hypertension, myocardial infarction, severe angina, or unstable angina within 6 months prior to administration of first dose of study drug, history of serious ventricular arrhythmia, cardiac arrhythmias requiring anti-arrhythmic medications.\n* Inadequate recovery from any prior surgical procedure or major surgical procedure within 4 weeks prior to administration of first dose of study drug.\n* Currently active second primary malignancy.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center - John Theurer Cancer",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "St. Luke University Health Network",
+      "city": "Easton",
+      "state": "Pennsylvania",
+      "zip": "18045",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center (UPMC)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS)",
+      "timeFrame": "From date of randomization until the date of first documented progression or date of death from any cause, whichever came first. Disease progression was assessed every 8 weeks (up to approximately 5 years)",
+      "description": "The PFS, as assessed by a blinded independent radiological review (IRR), is defined as the time from randomization to first documentation of objective tumor progression (progressive disease) or death due to any reasons whichever comes first. Disease progression per RECIST 1.1 criteria is defined as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions."
+    }
+  ],
+  "sponsor": "AVEO Pharmaceuticals, Inc.",
+  "collaborators": [],
+  "start_date": "2016-05-24",
+  "completion_date": "2021-06-21",
+  "last_updated": "2023-06-27"
+}

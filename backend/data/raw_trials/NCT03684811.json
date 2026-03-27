@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT03684811",
+  "brief_title": "A Study of FT-2102 in Patients With Advanced Solid Tumors and Gliomas With an IDH1 Mutation",
+  "official_title": "A Phase 1b/2 Study of FT-2102 in Patients With Advanced Solid Tumors and Gliomas With an IDH1 Mutation",
+  "brief_summary": "This Phase 1/2 study will evaluate the safety, efficacy, PK, and PD of FT-2102 as a single agent and in combination with other anti-cancer drugs in patients with advanced solid tumors and gliomas.\n\nThe study is divided into two parts: single agent FT-2102 followed by combination therapy.\n\nPart 1: A single agent, open-label study in up to five cohorts (glioma, hepatobiliary tumors, chondrosarcoma, intrahepatic cholangiocarcinoma, and other IDH1 mutant solid tumors) that will include a Phase 1 dose confirmation followed by a Phase 2 investigation of clinical activity in up to 4 cohorts. During the dose confirmation, additional doses or altered dose schedules may be explored.\n\nPart 2: An open-label study of FT-2102 in combination with other anti-cancer agents. Patients will be enrolled across 4 different disease cohorts, examining the effect of FT-2102 + azacitidine (glioma and chondrosarcoma), FT-2102 + nivolumab (hepatobiliary tumors), and FT-2102 + gemcitabine/cisplatin (intrahepatic cholangiocarcinoma). There will be a safety lead-in followed by a Phase 2 evaluation in up to four cohorts of patients.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 93,
+  "conditions": [
+    "Cohort 1a and 1b: Glioma (Advanced Gliomas and Glioblastoma Multiforme)",
+    "Cohort 2a and 2b: Hepatobiliary Tumors (Hepatocellular Carcinoma, Bile Duct Carcinoma, Intrahepatic Cholangiocarcinoma, Other Hepatobiliary Carcinomas)",
+    "Cohort 3a and 3b: Chondrosarcoma",
+    "Cohort 4a and 4b: Intrahepatic Cholangiocarcinoma",
+    "Cohort 5a: Other Non-Central Nervous System Solid Tumors With IDH1 Mutations"
+  ],
+  "interventions": [
+    {
+      "name": "FT-2102",
+      "type": "DRUG",
+      "description": "FT-2102 will be supplied as a 150 mg capsule and will be administered per the protocol defined frequency and dose level."
+    },
+    {
+      "name": "Azacitidine",
+      "type": "DRUG",
+      "description": "Azacitidine will be administered per the site's standard of care."
+    },
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Nivolumab will be administered per the site's standard of care."
+    },
+    {
+      "name": "Gemcitabine and Cisplatin",
+      "type": "DRUG",
+      "description": "Gemcitabine and cisplatin will be administered per the site's standard of care."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Patients must have documented IDH1-R132 gene-mutated disease as evaluated by site\n* Glioma: Advanced glioma that has recurred or progressed following standard therapy, or that has not responded to standard therapy.\n* Hepatobiliary cancer that is relapsed/refractory or intolerant to approved standard-of-care therapy (including: hepatocellular carcinoma, bile duct carcinoma, intrahepatic cholangiocarcinoma or other hepatobiliary carcinomas)\n* Chondrosarcoma that is relapsed or refractory and either locally advanced or metastatic and not amenable to complete surgical excision\n* Intrahepatic cholangiocarcinoma that is advanced nonresectable or metastatic cholangiocarcinoma not eligible for curative resection or transplantation. Phase 1b/Safety Lead-in of Phase 2: relapsed or refractory disease. Combination Phase 2 (beyond Safety Lead-in): have received no more than 1 cycle of gemcitabine/cisplatin therapy\n* Other solid tumors that have relapsed or refractory to standard-of-care therapy with no other available therapeutic options\n* Good performance status\n* Good kidney and liver function\n\nKey Exclusion Criteria:\n\n* Prior solid organ or hematopoietic cell transplant\n* Prior treatment with IDH1 inhibitor (single agent cohorts only)\n* Congestive heart failure (New York Heart Association Class III or IV) or unstable angina pectoris. Previous history of myocardial infarction within 1 year prior to study entry, uncontrolled hypertension or uncontrolled arrhythmias\n* Unstable or severe, uncontrolled medical condition (e.g., unstable cardiac function, unstable pulmonary condition, including pneumonitis and/or interstitial lung disease, and uncontrolled diabetes)\n* Active, uncontrolled bacterial, viral, or fungal infections, requiring systemic therapy\n* PD-1 only: active autoimmune disease",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With a Dose Limiting Toxicity (DLT)",
+      "timeFrame": "Day 1-28",
+      "description": "DLTs are AEs unrelated to the underlying disease and considered related to FT-2102. For non-hematologic AEs: Grade 3 or higher per CTCAE v 4.03 criteria except Grade 3 nausea, vomiting, diarrhea, or rash: lasting \\<72 hours (with optimal medical management) or clinically relevant Grade 3 or higher non-hematologic laboratory finding. For hematologic AEs: Grade 3 or higher thrombocytopenia or febrile neutropenia or Grade 4 or higher neutropenia lasting for \\>7 days."
+    },
+    {
+      "measure": "Overall Response Rate (ORR)",
+      "timeFrame": "While on treatment",
+      "description": "ORR is defined as the proportion of patients who achieved a complete response (CR) or partial response (PR) as per RANO (2010) criteria for patients with high grade glioma (Cohorts 1a and 1b). For patients with low grade glioma, ORR is defined as CR+PR+minor response (MR) as per LGG RANO criteria (2011). For Cohorts 2-5, ORR is defined as CR+PR as per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 criteria."
+    }
+  ],
+  "sponsor": "Forma Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2018-11-01",
+  "completion_date": "2022-06-13",
+  "last_updated": "2023-11-16"
+}

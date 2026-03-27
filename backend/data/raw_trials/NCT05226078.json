@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT05226078",
+  "brief_title": "The Association Between CBT-I Dose, Sleep Duration, and Fatigue in Breast Cancer Patients",
+  "official_title": "The Association Between CBT-I Dose, Sleep Duration, and Fatigue in Breast Cancer Patients",
+  "brief_summary": "Cancer-related fatigue (CRF) and insomnia are prevalent among cancer patients and have been linked to de-creases in quality of life and poorer overall survivorship. Currently, the mechanisms underlying CRF are not well understood, which has led to treatments that are only moderately effective. In addition, when compared to CBT-I in the general population, the treatment outcomes in CBT-I with cancer patients are subpar and, as such, this study will evaluate whether dose of CBT-I is effective in ameliorating CRF.",
+  "detailed_description": "Subjects will be randomized into one of four groups, four, eight, ten or twelve sessions. Sessions will be con-ducted weekly by Telehealth and will be modified based on the duration of treatment but all will include the following, evaluation and orientation; data acquisition and delivery of sleep restriction therapy \\& stimulus control instructions; review of sleep hygiene; cognitive therapy \\[decatastrophization\\]; managing non-adherence and relapse prevention), and, finally, the final sessions will be largely focused on time-in-bed titration. Treatment will be conducted by a master therapist via a HIPAA compliant video link.\n\nAll CBT-I related data will be obtained via dedicated internet websites built with RedCap, where subjects will be asked to complete weekly and monthly questionnaires. One website will be for use by subjects. One website will be for use by the therapist. The patient and therapist website will have a landing page (password entry), a login page, and an activities page (what questionnaires are due when). For an example of such a website, please see our pilot study, https://redcap.med.upenn.edu/surveys/?s=RXLLA7C4KJ (access using password \"sleepstudy\"). The patient website will contain daily sleep diaries, weekly severity measures of insomnia (ISI), sleepiness (ESS), fatigue (PROMIS 7a, Brief Fatigue Inventory, and FACIT-F), depression (PHQ-9), anxiety (GAD-7), a medical symptoms checklist.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 64,
+  "conditions": [
+    "Chronic Insomnia",
+    "Cancer-related Problem/Condition",
+    "Cancer-Related Syndrome"
+  ],
+  "interventions": [
+    {
+      "name": "Cognitive Behavioral Therapy for Insomnia",
+      "type": "BEHAVIORAL",
+      "description": "Cognitive behavioral treatment of insomnia"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. The diagnosis of organ-confined BC;\n2. Treatment with RT;\n3. Willingness and ability to provide informed consent;\n4. They endorse problems with both insomnia and CRF, as determined by a score within the significant ranges on the ISI, PROMIS 7a, BFI, and FACIT-F;\n5. and/or they do not have any significant medical (e.g., OSA; COPD) and/or psychiatric diagnoses (e.g., PTSD).\n\nExclusion Criteria:\n\n1. History of untreated obstructive sleep apnea (OSA \\[defined as an apnea-hypopnea index \u2265 10\\]) or above threshold scores on the STOP-BANG;\n2. History of narcolepsy;\n3. Night shift work;\n4. Distant metastatic disease at presentation;\n5. Active alcohol and/or drug dependence;\n6. They do not have a diagnosis of BC;\n7. They do not endorse insomnia, CRF and/or do not score within the significant ranges on the ISI, PROMIS 7a and/or the FACIT;\n8. They have a current diagnosis of significant medical and/or psychiatric disorders;\n9. And/or they are not between the ages of 25-85 years.",
+    "gender": "FEMALE",
+    "min_age": "25 Years",
+    "max_age": "85 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Recruitment",
+      "timeFrame": "Baseline to End of Treatment (Up to 12 weeks)",
+      "description": "Proportion of screened eligible subjects who: complete a screener; enroll; and accept randomization."
+    },
+    {
+      "measure": "Adherence",
+      "timeFrame": "Baseline to End of Treatment (Up to 12 weeks)",
+      "description": "Average adherence to Sleep Restriction Therapy (SRT) and Stimulus Control Therapy (SCT) \\[overall and by week\\] as measured by deviations between prescribed and actual times (from sleep diaries), overall and by group."
+    },
+    {
+      "measure": "Treatment Acceptability",
+      "timeFrame": "End of Treatment",
+      "description": "Average Insomnia Treatment Acceptability Scale (ITAS) scores, overall and by group.\n\nTotal score for each subscale is the average of the 8 items, with higher scores indicating greater willingness to utilize the treatment."
+    },
+    {
+      "measure": "Retention",
+      "timeFrame": "Baseline to End of Treatment (Up to 12 weeks)",
+      "description": "Percent of subjects who complete the study, overall and by group."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2023-03-01",
+  "completion_date": "2026-11-30",
+  "last_updated": "2025-05-15"
+}

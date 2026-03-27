@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT00539253",
+  "brief_title": "Assessment of Liver Cancer Response to TACE Using MultiHance-Enhanced MRI.",
+  "official_title": "Assessment of Liver Cancer Response to Transcatheter Arterial Chemoembolization (TACE) Using Functional Triple-Phase MultiHance-Enhanced Magnetic Resonance Imaging (MRI)",
+  "brief_summary": "This research is being done to find out if using the contrast agent MultiHance can be used to show how a liver tumor responds to the chemotherapy given during Transcatheter Arterial Chemoembolization (TACE).",
+  "detailed_description": "MultiHance is approved by the Food and Drug Administration (FDA) for use as a contrast material for Magnetic Resonance Imaging (MRI) scans of the central nervous system. It is believed that using MultiHance may be able to help doctors tell normal liver cells apart from active tumor and from tumor affected by the chemotherapy. In this way, MultiHance may improve the way patients with hepatocellular carcinoma are managed clinically.\n\nWe hypothesize that the Multi-Hance contrast material will provide better image definition of treated liver tumor(s) on MRI imaging in comparison to other commercially available contrast agents.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 45,
+  "conditions": [
+    "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "gadobenate dimeglumine (MultiHance)",
+      "type": "DRUG",
+      "description": "The contrast agent, gadobenate dimeglumine, will be used during MR imaging for both the baseline and 1 month f/u studies."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Outpatients between the ages of 18 - 80 seen in the cardiovascular and interventional radiology clinic who are scheduled for TACE.\n* International Normalized Ratio (INR) \\<1.4\n* Platelet count \\> 80,000\n\nExclusion Criteria:\n\n* Contraindications to TACE procedure\n* Unable to have an MRI Scan\n* Allergy or hypersensitivity reactions to gadolinium or any other ingredients, including benzyl alcohol\n* Patients with sickle cell anemia , hemoglobinopathies and other hemolytic anemias\n* Known clinical hypersensitivity or a history of asthma or allergic respiratory disorders\n* Patients with advanced renal failure (those currently requiring dialysis or with a Glomerular Filtration Rate\\<15cc/min)\n* Pregnancy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Nodule Size",
+      "timeFrame": "3 months",
+      "description": "Maximal nodule size measured in centimeters"
+    },
+    {
+      "measure": "Nodule Enhancement",
+      "timeFrame": "3 month",
+      "description": "Percent area of nodule with enhancement"
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Bracco Diagnostics, Inc"
+  ],
+  "start_date": "2007-09",
+  "completion_date": "2013-12",
+  "last_updated": "2017-08-28"
+}

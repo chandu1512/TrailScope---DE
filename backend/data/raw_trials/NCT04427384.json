@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT04427384",
+  "brief_title": "Registry of Patients With Brain Tumors Treated With STaRT (GammaTiles)",
+  "official_title": "A Multicenter Observational Study of GammaTile\u2122 Surgically Targeted Radiation Therapy (STaRT) in Intracranial Brain Neoplasms",
+  "brief_summary": "The objectives of this registry study are to evaluate real-world clinical outcomes and patient reported outcomes that measure the effectiveness and safety of STaRT.",
+  "detailed_description": "Patients (N=600) with surgically resected (R) brain tumors of any pathology who have undergone STaRT are eligible. Data collected will include local control, overall survival, QOL, neurocognition, functional decline, and surgical and radiation associated AE's. Data will be collected at 1, 3, 6, 9,12, 18 and 24 months, then every 6 months through 5 years. RESULT: Data will be used to benchmark clinical outcomes of STaRT therapy and allow for comparisons to existing standard-of-care treatments. This will be the first observational registry study of R+STaRT, delivered by Cs-131 sources in permanently implanted resorbable collagen tile carriers. The outcome measures captured will allow for evaluation of the potential risks and benefits of this treatment approach for patients in a real-world setting.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 600,
+  "conditions": [
+    "Brain Tumor, Recurrent",
+    "Brain Tumor",
+    "Brain Tumor, Primary",
+    "Brain Tumor - Metastatic",
+    "Brain Tumor, Adult: Glioblastoma",
+    "Brain Tumor, Adult Meningioma"
+  ],
+  "interventions": [
+    {
+      "name": "GammaTile",
+      "type": "DEVICE",
+      "description": "Surgically Targeted Radiation Therapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients who undergo maximum safe resection of intracranial neoplasm(s) AND implantation of GammaTiles.\n2. Willing and able to provide informed consent and to participate in all evaluations.\n\nExclusion Criteria:\n\n1. Inability to undergo pre-operative and post-operative imaging for disease and implant assessment.\n2. Major medical or psychiatric illness, which, in the investigator's opinion would prevent completion of treatment, ability to complete assessments at the time of enrollment, and/or interfere with follow ups.\n3. Subjects who, in the investigator's opinion, are unable to understand the protocol or to give informed consent, have a history of poor cooperation, noncompliance with medical treatment, or difficulty in returning for follow up care. A legally authorized representative may provide consent if the potential subject lacks the capacity to provide consent themselves.",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Clinical Research dep. Davison Place. Englewood Health",
+      "city": "Englewood",
+      "state": "New Jersey",
+      "zip": "07631",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "facility": "St Luke's University Health, Sacred Heart Campus",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18102",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Penn State Health",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Allegheny Health Network",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Surgical Bed-Recurrence Free Survival in Metastatic Tumor Subjects",
+      "timeFrame": "12 months",
+      "description": "No contrast enhancement in the area of the surgical bed"
+    },
+    {
+      "measure": "Surgical Bed-Recurrence Free Survival in Meningioma Tumor Subjects",
+      "timeFrame": "3 years",
+      "description": "No contrast enhancement in the area of the surgical bed"
+    },
+    {
+      "measure": "Overall Survival in High Grade Glioma Subjects",
+      "timeFrame": "9 months",
+      "description": "Median duration of survival of subjects following surgical resection of tumor"
+    }
+  ],
+  "sponsor": "GT Medical Technologies, Inc.",
+  "collaborators": [],
+  "start_date": "2020-09-11",
+  "completion_date": "2028-12-31",
+  "last_updated": "2026-02-11"
+}

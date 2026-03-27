@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT00258349",
+  "brief_title": "Vorinostat and Trastuzumab in Treating Patients With Metastatic or Locally Recurrent Breast Cancer",
+  "official_title": "A Phase I/II Study of Suberoylanilide Hydroxamic Acid (SAHA) in Combination With Trastuzumab (Herceptin) in Patients With Advanced Metastatic and/or Local Chest Wall Recurrent Her-2 Amplified Breast Cancer",
+  "brief_summary": "This phase I/II trial is studying the side effects and best dose of vorinostat when given together with trastuzumab and to see how well they work in treating patients with metastatic breast canceror breast cancer that has recurred in the chest wall. Vorinostat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as trastuzumab, can block tumor growth in different ways. Some find tumor cells and kill them or carry tumor-killing substances to them. Others interfere with the ability of tumor cells to grow and spread. Vorinostat and trastuzumab also may stop the growth of tumor cells by blocking blood flow to the tumor. Giving vorinostat together with trastuzumab may be a better way to block tumor growth.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine the maximum tolerated dose of vorinostat in combination with trastuzumab (Herceptin) in patients with metastatic or local chest wall recurrent HER-2-amplified breast cancer. (Phase I) II. To determine the toxic effects of this regimen in these patients. (Phase I) III. To determine the response rate in patients treated with this regimen. (Phase II)\n\nSECONDARY OBJECTIVE:\n\nI. To determine the time to progression in patients treated with this regimen. (Phase II)\n\nOUTLINE: This is an open-label, multicenter, dose-escalation study of vorinostat.\n\nPHASE I: Patients receive oral vorinostat twice daily on days 1-14 and trastuzumab (Herceptin\u00ae) IV over 90 minutes on day 1. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity. Cohorts of 3-6 patients receive escalating doses of vorinostat until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose limiting toxicity. At least 6 patients are treated at the MTD.\n\nPHASE II: Patients receive vorinostat at the MTD and trastuzumab as in phase I.\n\nAfter completion of study treatment, patients are followed periodically for 3 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 16,
+  "conditions": [
+    "Breast Cancer",
+    "Male Breast Cancer",
+    "Recurrent Breast Cancer",
+    "Stage IIIB Breast Cancer",
+    "Stage IIIC Breast Cancer",
+    "Stage IV Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "vorinostat",
+      "type": "DRUG",
+      "description": "Given orally"
+    },
+    {
+      "name": "trastuzumab",
+      "type": "DRUG",
+      "description": "Given IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No active or ongoing infection\n* No history of allergic reaction to compounds of similar chemical or biologic composition to vorinostat or other agents used in study\n* No psychiatric illness or social situation that would preclude study compliance\n* No other uncontrolled illness\n* More than 3 weeks since prior chemotherapy (6 weeks for nitrosoureas or mitomycin; 1 week for capecitabine) and recovered\n* More than 3 weeks since prior radiotherapy and recovered\n* Recovered from prior therapy\n* At least 2 weeks since prior valproic acid\n* More than 4 weeks since prior investigational agents\n* More than 4 weeks since prior lapatinib ditosylate\n* No concurrent combination antiretroviral therapy for HIV-positive patients\n* Measurable disease, defined as \\>= 1 unidimensionally measurable lesion \\> 20 mm by conventional techniques or \\> 10 mm by spiral CT scan\n* No other concurrent investigational agents\n* Concurrent bisphosphonates allowed provided therapy was initiated prior to study treatment\n* No other concurrent anticancer therapy\n* Recurrent or progressive disease while receiving prior trastuzumab (Herceptin) (with or without chemotherapy) OR relapsed within 3 months of last dose of prior adjuvant trastuzumab for metastatic disease\n* Histologically confirmed breast cancer\n* Must overexpress HER-2 gene\n* Metastatic or chest wall recurrent disease\n* Site of measurable disease must not have been irradiated (except chest wall recurrence treated with adjuvant radiation therapy)\n* No untreated brain metastases\n* Previously treated brain metastasis responsive to radiotherapy and/or surgery allowed provided the brain is not the sole site of measurable disease\n* ECOG 0-2\n* Absolute neutrophil count \\>= 1,500/mm\\^3\n* Platelet count \\>= 100,000/mm\\^3\n* Hemoglobin \\>= 9 g/dL\n* AST and ALT =\\< 2 times upper limit of normal\n* Bilirubin =\\< 1.5 mg/dL (3 mg/dL in the presence of Gilbert's disease provided direct bilirubin is normal)\n* Creatinine =\\< 1.5 mg/dL\n* LVEF normal by nuclear scan or echocardiogram\n* No evidence of PR prolongation or AV block by EKG\n* No symptomatic congestive heart failure\n* No unstable angina pectoris\n* No cardiac arrhythmia",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287-8936",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Response Rate",
+      "timeFrame": "Tumor assessment was obtained at baseline, after 6 weeks (week 6 = last week of Cycle 2), and after every 4 cycles of therapy",
+      "description": "Tumor response is assessed by Response Evaluation Criteria In Solid Tumors (RECIST) version 1.0. Response included complete response (CR) and partial response (PR). CR is defined as the disappearance of all target lesions. PR is defined as at least a 30% decrease in the sum of the longest diameters of target lesions, taking as reference the baseline sum longest diameter."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2006-08",
+  "completion_date": "2010-09",
+  "last_updated": "2014-05-29"
+}

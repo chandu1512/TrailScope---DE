@@ -1,0 +1,55 @@
+{
+  "nct_id": "NCT06006910",
+  "brief_title": "Electronic Medical Record-Based Nudge to Reduce SLNB",
+  "official_title": "An Electronic Medical Record-Based Nudge Intervention to Reduce Low-Value Axillary Surgery in Older Women With ER+ Breast Cancer",
+  "brief_summary": "The goal of this prospective, historically-controlled, quality improvement project is to determine whether and to what extent an electronic health record (EHR)-based nudge affects rates of sentinel lymph node biopsy (SLNB) in older women with ER+, early-stage, clinically node negative breast cancer.",
+  "detailed_description": "Society of Surgical Oncology (SSO) adopted a series of Choosing Wisely recommendations in an effort to reduce low-value surgeries. One such recommendation, first released in 2016, advocates against routine use of sentinel lymph node biopsy (SLNB) for axillary staging in older women (\u2265 70 years old) with early-stage, estrogen receptor positive (ER+), clinically node-negative breast cancer. Data supporting this recommendation were largely retrospective in nature as there were no direct randomized trials testing de-escalation of SLNB in this population of patients. This has led to variability in de-implementation of SLNB, with rates of SLNB use still reaching 50%-60% in some centers.\n\nTo address this, the investigators designed an electronic medical record-based column nudge that flags patients meeting Choosing Wisely criteria for omission of SLNB. This was designed to target surgeons in the moments leading up to the first clinic visit with patients where surgical decision-making is planned. In this study, the investigators deployed the column nudge for a 12 month period.\n\nThe enrollment number reflects the number of surgeons participating in the study (whom the nudge was deployed to); it is anticipated this group of surgeons will see over 400 patients between the pre-nudge and post-nudge periods.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 7,
+  "conditions": [
+    "Breast Cancer",
+    "Estrogen-receptor-positive Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Column-based nudge in the EHR",
+      "type": "BEHAVIORAL",
+      "description": "The nudge is a column in EPIC that flags patients coming to the clinic as a new visit with documented ER+ breast cancer. The nudge flag can pop up when hovered over to remind surgeons of the Choosing Wisely criteria and to consider omission of SLNB."
+    },
+    {
+      "name": "No column-based nudge in the EHR",
+      "type": "BEHAVIORAL",
+      "description": "No intervention control period prior to nudge deployment."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* early-stage (stages I-III) breast cancer\n* clinically node-negative\n* ER+ and/or PR+, HER2 not-amplified\n* non-metastatic at diagnosis\n\nExclusion Criteria:\n\n* under 70 years of age\n* breast cancer is that is not ER+ or PR+",
+    "gender": "FEMALE",
+    "min_age": "70 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Rate of SLNB after nudge deployment into the EHR",
+      "timeFrame": "12 months",
+      "description": "We will record the rate of SLNB use (yes/no for if the surgeon performed the surgery) per month over a 12 month intervention period. Rate of SLNB after nudge deployment will be compared to rate of SLNB before nudge deployment."
+    }
+  ],
+  "sponsor": "University of Pittsburgh Medical Center",
+  "collaborators": [],
+  "start_date": "2021-10-15",
+  "completion_date": "2024-02-12",
+  "last_updated": "2024-02-12"
+}

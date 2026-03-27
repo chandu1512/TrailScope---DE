@@ -1,0 +1,106 @@
+{
+  "nct_id": "NCT02041533",
+  "brief_title": "An Open-Label, Randomized, Phase 3 Trial of Nivolumab Versus Investigator's Choice Chemotherapy as First-Line Therapy for Stage IV or Recurrent PD-L1+ Non-Small Cell Lung Cancer (CheckMate 026)",
+  "official_title": "An Open-Label, Randomized, Phase 3 Trial of Nivolumab Versus Investigator's Choice Chemotherapy as First-Line Therapy for Stage IV or Recurrent PD-L1+ Non-Small Cell Lung Cancer",
+  "brief_summary": "The purpose of this study is to show that Nivolumab will improve progression free survival in subjects with strongly Stage IV or Recurrent PD-L1+ non-small cell lung cancer when compared to chemotherapy",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 541,
+  "conditions": [
+    "Stage IV or Recurrent Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) \u2264 1\n* Histologically confirmed Stage IV, or Recurrent NSCLC with no prior systemic anticancer therapy\n* Measurable disease by computed tomography (CT) or magnetic resonance imaging (MRI) per response evaluation criteria in solid tumors version (RECIST) 1.1 criteria\n* PD-L1+ on immunohistochemistry testing performed by central lab\n* Men and women, ages \u2265 18 years of age\n\nExclusion Criteria:\n\n* Known epidermal growth factor receptor (EGFR) mutations which are sensitive to available targeted inhibitor therapy\n* Known anaplastic lymphoma kinase (ALK) translocations\n* Untreated central nervous system (CNS) metastases\n* Previous malignancies\n* Active, known or suspected autoimmune disease",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0024",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0007",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0054",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0002",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0018",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival in Participants With PD-L1 Expression >= 5%",
+      "timeFrame": "From date of randomization until date of documented tumor progression (assessed up to August 2016, approximately 28 months)",
+      "description": "Progression-Free Survival (PFS) was defined as the time between the date of randomization and the first date of documented tumor progression, as determined by the Independent Radiology Review Committee (IRRC) per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1, or death due to any cause, whichever occurs first. Participants who die without a reported progression were considered to have progressed on the date of their death. Participants who did not progress or die were censored on the date of their last evaluable tumor assessment. Participants who did not have any on-study tumor assessments and did not die were censored on the day they were randomized. Participants who received subsequent anti-cancer therapy prior to documented progression were censored at the last evaluable tumor assessment prior to the initiation of new therapy."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "Ono Pharmaceutical Co. Ltd"
+  ],
+  "start_date": "2014-03-27",
+  "completion_date": "2022-05-27",
+  "last_updated": "2023-02-02"
+}

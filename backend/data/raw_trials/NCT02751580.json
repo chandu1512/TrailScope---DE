@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT02751580",
+  "brief_title": "Telehealth in Improving Quality of Life in Patients During Post Radiation Therapy Visits",
+  "official_title": "TELEPORT STUDY: A Pilot Feasibility Trial Examining The Use of Telehealth in Post Radiation Therapy Visits",
+  "brief_summary": "This pilot clinical trial studies how well telehealth works in patients during post radiation therapy visits. A telehealth virtual office visit can be performed from the patient's home or workplace, decreasing time spent traveling to visit site, time spent in waiting room, and cost to patient. Studying telehealth may improve quality of life in patients during post radiation therapy visit.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To examine feasibility of conducting a trial comparing a telehealth visit and an in person office visit.\n\nSECONDARY OBJECTIVES:\n\nI. To examine patient satisfaction, patient assessment of physician communication during a telehealth visit.\n\nII. To examine patient distrust in the healthcare system following a telehealth visit.\n\nIII. To examine physician ability to perform a patient assessment during a telehealth visit.\n\nIV. To examine physician perceptions of telehealth visits. V. To examine monetary and time cost to patients for telehealth visit. VI. To calculate clinic savings derived from telehealth visits.\n\nOUTLINE:\n\nPatients undergo their first post-treatment visit as a virtual telehealth visit using the JeffConnect application.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 37,
+  "conditions": [
+    "Malignant Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "Telemedicine",
+      "type": "OTHER",
+      "description": "Attend a virtual visit via the JeffConnect telehealth app"
+    },
+    {
+      "name": "Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients currently undergoing or planned to start radiation treatment with curative, adjuvant or palliative intent\n* Karnofsky performance status (KPS) score \\>= 60\n* Patients must be capable to read and speak English and provide study specific informed consent prior to study entry\n* Patients must have access to a computer or smartphone and internet connection at home on which they would be willing to do a telehealth study\n* Pennsylvania or New Jersey residents \\*Telehealth visits for New Jersey residents will only be performed by physicians with a current medical license issued by the state of New Jersey.\n\nExclusion Criteria:\n\n* KPS \\< 60%\n* No access to a computer, smartphone or internet\n* Unable to read and/or speak English\n* Decisionally impaired patients\n* Patients not residing in Pennsylvania or New Jersey",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Feasibility of Conducting a Future Randomized Clinical Trial Comparing Telehealth and in Person Visits (i.e., Rate of Accrual)",
+      "timeFrame": "24 months from first patient enrolled",
+      "description": "The number of patients accrued each month will be analyzed via Poisson regression. The mean (monthly rate) will be estimated and tested against the null value of 4 patients per month using a 1-sided test with alpha 0.05. The proportion of enrolled subjects who are lost to follow-up will also be summarized."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2016-03-23",
+  "completion_date": "2018-08-08",
+  "last_updated": "2025-05-14"
+}

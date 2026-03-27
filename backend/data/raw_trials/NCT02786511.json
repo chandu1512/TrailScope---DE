@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT02786511",
+  "brief_title": "Longterm Follow-up of Subjects Treated With bb2121",
+  "official_title": "Longterm Follow-up of Subjects Treated With bb2121",
+  "brief_summary": "This is a multi-center, non-randomized, open label, longterm safety and efficacy follow-up study for subjects who have been treated with bb2121 in the Phase 1 clinical parent study, that evaluated the safety and efficacy of bb2121 in subjects with relapsed or refractory B cell maturation antigen (BCMA)-expressing multiple myeloma.\n\nbb2121 is defined as autologous T lymphocytes (T cells) transduced ex vivo with anti-BCMA02 CAR lentiviral vector encoding the chimeric antigen receptor (CAR) targeted to human BCMA suspended in cryopreservative solution. bb2121 is administered in subjects 1 time (or retreated if retreatment criteria are met) in parent clinical study. No investigational treatment will be administered in this study.\n\nAfter completing the parent study, eligible subjects will be followed for up to 15 years after their last bb2121 infusion in the parent study.",
+  "detailed_description": "The LTF-305 study has completed enrollment and is scheduled to be closed. All patients participating in this study have discontinued from follow-up or have been transferred into the GC-LTFU-001 study for further observation (similar to time frames established in the LTF-305).",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Safety and efficacy assessments",
+      "type": "DRUG",
+      "description": "Vector copy number (VCN) measurement, safety evaluations, disease-specific assessments, and assessments to monitor for long-term implications of autologous transplant"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Provision of written informed consent for this study by subjects\n* Were administered bb2121 in the parent clinical study\n* Able to comply with the study requirements\n\nExclusion Criteria:\n\n* Subject has disease progression AND subject has undetectable VCN (\\<0.0003 vector copies per diploid genome) in peripheral blood cells for 2 consecutive measurements at least 1 month apart, at least 12 months after drug product infusion",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Cancer Institute",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall survival",
+      "timeFrame": "15 years post-drug product infusion",
+      "description": ""
+    },
+    {
+      "measure": "Monitoring for all Adverse Events, including Serious Adverse Events, related to the drug product",
+      "timeFrame": "15 years post-drug product infusion",
+      "description": ""
+    },
+    {
+      "measure": "Monitoring for all Serious Adverse Events including any new malignancy or new diagnosis of a neurologic, rheumatologic, or hematologic disorder that is clinically significant",
+      "timeFrame": "5 years post-drug product infusion",
+      "description": ""
+    },
+    {
+      "measure": "Monitoring for Multiple Myeloma-specific response according to the International Myeloma Working Group (IMWG) Uniform Response Criteria for Multiple Myeloma",
+      "timeFrame": "5-15 years post-drug product infusion",
+      "description": "Subjects without disease progression will be evaluated for at least 5 years post-drug product infusion if VCN is undetectable, and up to 15 years post-drug product infusion if VCN remains detectable."
+    },
+    {
+      "measure": "Progression Free Survival",
+      "timeFrame": "5-15 years post-drug product infusion",
+      "description": "Subjects without disease progression will be evaluated for at least 5 years post-drug product infusion if VCN is undetectable, and up to 15 years post-drug product infusion if VCN remains detectable."
+    },
+    {
+      "measure": "Monitoring for Vector Copy Number (VCN)",
+      "timeFrame": "5-15 years post-drug product infusion",
+      "description": "Subjects without disease progression will be evaluated for at least 5 years post-drug product infusion if VCN is undetectable, and up to 15 years post-drug product infusion if VCN remains detectable."
+    }
+  ],
+  "sponsor": "Celgene",
+  "collaborators": [],
+  "start_date": "2016-04-28",
+  "completion_date": "2019-10-11",
+  "last_updated": "2020-01-20"
+}

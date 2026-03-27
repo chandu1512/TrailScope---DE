@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT03959800",
+  "brief_title": "Molecular Basis of Pediatric Liver Cancer",
+  "official_title": "Genetic and Molecular Basis of Pediatric Liver Cancer",
+  "brief_summary": "The purpose of this retrospective and prospective project is to understand the molecular and genetic basis of liver cancer of childhood. Understanding the molecular and genetic bases of liver cancers can offer a better classification based on tumor biology, mechanisms and predisposition.",
+  "detailed_description": "Pediatric liver cancers are rare, affecting at times no more than 1 in one million population. Understanding the molecular basis of these cancers is important in order to develop more accurate diagnoses and more effective treatments. Current classifications of these cancers are based on how these cancers look on diagnostic studies such as radiologic imaging or under the microscope. Such a classification system does not explain why a particular cancer has a different outcome from what is considered \"usual\" for that particular cancer. Nor does such a classification system explain why two different classes of cancers behave the same way. Understanding the genetic bases of liver cancers can offer a better classification based on tumor biology, mechanisms and predisposition.\n\nTo achieve these goals, large numbers of such cancer patients or affected tissue must be collected. This is not possible in any single institution, or any single country. The current project will collect biological samples such as residual tumor tissue, saliva, or blood from affected patients and their biological parents and families, along with clinical information about the cancer. These biological samples will be used to study the genes and how these genes work in tumor tissue and in non-tumor tissue. The results of this study will permit childhood liver cancers to be categorized on the basis of common defects in genes and their function.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1600,
+  "conditions": [
+    "Childhood Liver Cancer",
+    "Liver Malignant Tumors",
+    "Embryonal Sarcoma of Liver (Disorder)",
+    "Hepatoblastoma",
+    "Hepatocellular Carcinoma",
+    "Rhabdoid Tumor of Liver"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Prior or current treatment for a childhood liver tumor, malignant or benign, at age \\<21 years.\n* Biological parents and siblings of eligible children.\n\nExclusion Criteria:\n\n* No prior or current treatment for a childhood liver tumor.\n* Non-biological parents, legal guardians, or non-biological siblings of eligible children.",
+    "gender": "ALL",
+    "min_age": "0 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Children's Hospital of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Gene sequencing",
+      "timeFrame": "Recurrence free survival at 2 years",
+      "description": "DNA sequence variants"
+    },
+    {
+      "measure": "Gene expression analysis",
+      "timeFrame": "Recurrence free survival at 2 years",
+      "description": "Differentially expressed genes"
+    },
+    {
+      "measure": "Status of genome-wide chromatin accessibility",
+      "timeFrame": "Duration of active chemotherapy to two years after surgical treatment",
+      "description": "chromatin accessibility"
+    },
+    {
+      "measure": "Epigenetic change",
+      "timeFrame": "Duration of active chemotherapy to two years after surgical treatment",
+      "description": "Differential methylation"
+    },
+    {
+      "measure": "Tumor infiltrating cells which express immune checkpoints",
+      "timeFrame": "Duration of active chemotherapy to two years after surgical treatment",
+      "description": "differentially enriched immune cells"
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [],
+  "start_date": "2015-06-22",
+  "completion_date": "2029-06-30",
+  "last_updated": "2025-09-05"
+}

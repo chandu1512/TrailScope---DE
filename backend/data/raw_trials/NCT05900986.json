@@ -1,0 +1,104 @@
+{
+  "nct_id": "NCT05900986",
+  "brief_title": "LS301-IT in Partial Mastectomy and Sentinel Lymph Node Biopsy (SLNB) for DCIS or Stage I-II Primary Invasive Breast Cancer",
+  "official_title": "An Open-label, Single-arm, Phase 1b/2 Study to Investigate the Safety, Efficacy and Pharmacokinetics of LS301-IT in Female Patients Undergoing Partial Mastectomy and Sentinel Lymph Node Biopsy (SLNB) for Ductal Carcinoma in Situ (DCIS) or Stage I-II Primary Invasive Breast Cancer",
+  "brief_summary": "The aim of this Phase 1b/2 study is to investigate the safety, efficacy, and pharmacokinetics (PK) of a single dose of LS301-IT, a novel fluorescence imaging agent developed by Integro Theranostics (IT), administered by intravenous (IV) injection in female patients undergoing partial mastectomy for DCIS (whether or not undergoing planned SLNB) or Stage I-II primary invasive breast cancer undergoing SLNB. Safety is the primary objective of this study, followed by efficacy that will be assessed from fluorescence imaging observations and data.",
+  "detailed_description": "This is a Phase 1b/Phase 2, open-label study to investigate the use of LS301-IT (investigational medicinal product \\[IMP\\]), a fluorescence imaging agent used for visualization of tumor margins and SLNs in female patients with DCIS or Stage I-II, primary invasive carcinoma of the breast, for which the patient's primary surgical treatment is partial mastectomy.\n\nEligible patients will be enrolled into either:\n\n* Phase 1b (Period 1): dose finding (escalation/de-escalation), and dose timing adjustment;\n* Phase 2a (Period 2): expanded sample size based on acceptable dosing regimen, that being the dose level(s) and time interval between LS301-IT injection and surgery, determined in Period 1; or\n* Period 2b (Period 3): allow surgeon to make additional surgical decisions based on fluorescence imaging findings during surgery (Period 3 will not be opened until results are available from Periods 1 and 2 and further FDA consultation is obtained).",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 100,
+  "conditions": [
+    "Breast Cancer",
+    "DCIS",
+    "Invasive Duct Carcinoma of Breast"
+  ],
+  "interventions": [
+    {
+      "name": "LS301-IT 0.025 mg/kg",
+      "type": "DRUG",
+      "description": "The dose of LS301-IT planned to be administered to the first cohort of patients is 0.025 mg/kg. Depending on the results the dose for subsequent cohorts will be increased to 0.05, 0.075, and 0.1 mg/kg; the dose may also be decreased (by 50% as necessary). The optimal dose determined in Periods 1 and 2 will be administered to patients in Period 3."
+    },
+    {
+      "name": "LS301-IT 0.05 mg/kg",
+      "type": "DRUG",
+      "description": "Depending on the results the dose for subsequent cohorts will be increased to 0.05, 0.075, and 0.1 mg/kg; the dose may also be decreased. The optimal dose determined in Periods 1 and 2 will be administered to patients in Period 3."
+    },
+    {
+      "name": "LS301-IT 0.075 mg/kg",
+      "type": "DRUG",
+      "description": "Depending on the results the dose for subsequent cohorts will be increased to 0.05, 0.075, and 0.1 mg/kg; the dose may also be decreased. The optimal dose determined in Periods 1 and 2 will be administered to patients in Period 3."
+    },
+    {
+      "name": "LS301-IT 0.1 mg/kg",
+      "type": "DRUG",
+      "description": "Depending on the results the dose for subsequent cohorts will be increased to 0.05, 0.075, and 0.1 mg/kg; the dose may also be decreased. The optimal dose determined in Periods 1 and 2 will be administered to patients in Period 3."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* DCIS (whether or not undergoing planned SLNB) or patients with Stage I-II, primary invasive carcinoma of the breast undergoing SLNB for which the patient's primary surgical treatment is single breast partial mastectomy.\n* ECOG performance status of 0 to 2\n\nExclusion Criteria:\n\n* Contraindications for surgery.\n* Simultaneous bilateral lumpectomies and bilateral partial mastectomies.\n* History of drug-related anaphylactic reactions, including those attributed to indocyanine green (ICG) or other agents used in the study\n* Prior chemotherapy, endocrine therapy, or biologic therapy for current clinically or biopsy proven breast cancer for Period 1.\n* Open surgery in the ipsilateral breast within a period of 1 year before administration of LS301-IT.\n* History of radiation therapy to the chest.\n* The lymphatic imaging agent ICG cannot be used prior to the partial mastectomy and SLNB procedures on the day of surgery.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Integro Theranostics Research Site #5",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Adverse Events",
+      "timeFrame": "30 days",
+      "description": "Number of participants with treatment-related adverse events"
+    },
+    {
+      "measure": "Pharmacodynamics",
+      "timeFrame": "during surgery",
+      "description": "Tumor to non-tumor ratio fluorescence response"
+    },
+    {
+      "measure": "Pharmacodynamics",
+      "timeFrame": "During surgery",
+      "description": "Surgeon's assessment using a semi-quantitative scoring system of fluorescence compared with intraoperative and postoperative pathology assessments."
+    },
+    {
+      "measure": "Cmax",
+      "timeFrame": "24 hours",
+      "description": "maximum observed plasma concentration main metabolite in plasma."
+    },
+    {
+      "measure": "AUCinf",
+      "timeFrame": "24 hours",
+      "description": "area under the plasma concentration time curve from time 0 extrapolated to infinite time"
+    },
+    {
+      "measure": "AUClast",
+      "timeFrame": "24 hours",
+      "description": "area under the plasma concentration-time curve from time 0 to the last quantifiable plasma concentration"
+    },
+    {
+      "measure": "Tmax",
+      "timeFrame": "24 hours",
+      "description": "time to reach maximal plasma concentration (Tmax)"
+    },
+    {
+      "measure": "t1/2",
+      "timeFrame": "24 hours",
+      "description": "elimination/apparent terminal elimination half life"
+    }
+  ],
+  "sponsor": "Integro Theranostics",
+  "collaborators": [],
+  "start_date": "2023-07-14",
+  "completion_date": "2026-05",
+  "last_updated": "2025-10-14"
+}

@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT00048997",
+  "brief_title": "Radiation Therapy in Preventing Central Nervous System (CNS) Metastases in Patients With Non-Small Cell Lung Cancer",
+  "official_title": "A Phase III Comparison Of Prophylactic Cranial Irradiation (PCI) Versus Observation In Patients With Locally Advanced Non-Small Cell Lung Cancer",
+  "brief_summary": "RATIONALE: Radiation therapy uses high-energy x-rays to damage tumor cells. It is not yet known if giving radiation therapy to the head is effective in preventing CNS metastases in patients who have stage III non-small cell lung cancer.\n\nPURPOSE: This randomized phase III trial is studying how well radiation therapy to the head works in preventing CNS metastases in patients who have been previously treated for stage III non-small cell lung cancer.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine whether prophylactic cranial irradiation improves survival after effective locoregional/systemic therapy in patients with stage IIIA or IIIB non-small cell lung cancer.\n* Determine the neuropsychologic impact of this therapy in these patients.\n* Assess quality of life of patients receiving this therapy.\n* Determine the impact of this therapy on the incidence of CNS metastases in these patients.\n\nOUTLINE: This is a randomized, multicenter study. Patients are stratified according to disease stage (IIIA vs IIIB), histology (non-squamous cell vs squamous cell), and prior surgery (yes vs no). Patients are randomized to 1 of 2 treatment arms.\n\n* Arm I: Patients undergo prophylactic cranial irradiation 5 days a week for 3 weeks.\n* Arm II: Patients undergo observation.\n\nPatients are followed 3 months during the first year, every 6 months for 2-3 years and then annually thereafter. Quality of life is assessed at baseline and at months 6, 12, 24, 36, and 48.\n\nPROJECTED ACCRUAL: A total of 1,058 patients (529 per treatment arm) will be accrued for this study within 36 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 356,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Radiation therapy",
+      "type": "RADIATION",
+      "description": "PCI is given to the whole brain in a dose of 2 Gy per fraction, 5 days per week, for 3 weeks for a total dose of 30 Gy."
+    },
+    {
+      "name": "Observation",
+      "type": "OTHER",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of stage IIIA or IIIB non-small cell lung cancer\n\n  * Complete response, partial response, or stable disease after definitive locoregional therapy (with surgery and/or radiation therapy, with or without chemotherapy (chemotherapy alone does not constitute definitive therapy))\n\n    * No more than 16 weeks since prior therapy\n* No progressive disease\n* No extracranial distant metastatic disease\n* No suspicion of CNS metastases by MRI or CT scan\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nPerformance status\n\n* Not specified\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Not specified\n\nOther\n\n* No other malignancy within the past 3 years except nonmelanoma skin cancer\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* No concurrent anticancer biologic therapy\n\nChemotherapy\n\n* See Disease Characteristics\n* No concurrent anticancer cytotoxic chemotherapy\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* See Disease Characteristics\n* No prior cranial irradiation\n\nSurgery\n\n* See Disease Characteristics\n\nOther\n\n* Recovered from all prior therapies\n* No concurrent enrollment on any other phase III study that has progression-free, disease-free, or overall survival as an endpoint",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Shore Regional Cancer Center at Memorial Hospital - Easton",
+      "city": "Easton",
+      "state": "Maryland",
+      "zip": "21601",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey at Cooper University Hospital - Camden",
+      "city": "Camden",
+      "state": "New Jersey",
+      "zip": "08103",
+      "status": ""
+    },
+    {
+      "facility": "Geisinger Cancer Institute at Geisinger Health",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822-0001",
+      "status": ""
+    },
+    {
+      "facility": "Frank M. and Dorothea Henry Cancer Center at Geisinger Wyoming Valley Medical Center",
+      "city": "Wilkes-Barre",
+      "state": "Pennsylvania",
+      "zip": "18711",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "From randomization to last follow-up. Analysis occurred after all patients had been on study for at least 12 months. Maximum follow-up at time of analysis was 96 months.",
+      "description": "Survival time is defined as time from randomization to date of death from any cause and is estimated by the Kaplan-Meier method. Patients last known to be alive are censored at the date of last contact. This analysis was planned to occur when all patients had been potentially followed for at least 12 months."
+    }
+  ],
+  "sponsor": "Radiation Therapy Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Eastern Cooperative Oncology Group"
+  ],
+  "start_date": "2002-09",
+  "completion_date": "2016-12",
+  "last_updated": "2018-05-08"
+}

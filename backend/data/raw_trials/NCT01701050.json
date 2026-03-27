@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT01701050",
+  "brief_title": "Characterization of Circulating Tumor Cells (CTC) From Patients With Metastatic Breast Cancer Using the CTC-Endocrine Therapy Index",
+  "official_title": "COMETI Phase 2: Characterization of Circulating Tumor Cells (CTC) From Patients With Metastatic Breast Cancer Using the CTC-Endocrine Therapy Index",
+  "brief_summary": "Utilizing CellSearch\u00ae technology, the ability to both enumerate and reliably and reproducibly characterize circulating tumor cells (CTC) for tumor markers that predict endocrine sensitivity (estrogen receptor \\[ER\\] and Bcl-2) and resistance (HER2 and Ki67) has been demonstrated. An algorithm for a CTC-Endocrine Therapy Index (CTC-ETI) has been constructed that can be calculated for each patient using the CTC enumeration and marker results. The primary goal of this study is to determine a CTC-ETI in ER positive, HER2 negative metastatic breast cancer patients before the initiation of a new endocrine therapy for the identification of patients that will progress rapidly.",
+  "detailed_description": "Patients with estrogen receptor (ER) positive metastatic breast cancer (MBC) starting their first line of endocrine therapy (ET) only have a 30-50% chance of receiving clinical benefit. For the other 50-70% of patients, ET is ineffective and these patients should probably be treated with chemotherapy, as is done for ER negative patients. More importantly, in nearly every clinical trial of ET in ER positive, MBC patients, between 15-30% of enrolled patients progress in the first 2-3 months, regardless of whether they are receiving first or later lines of ET. Currently there is no validated method to identify which ER positive MBC patients will be refractory to ET. Therefore, almost all ER positive patients are treated with serial endocrine therapies before switching to chemotherapy. The investigators propose that a subset of these patients would be better served with chemotherapy, in spite of its increased toxicity profile, rather than delaying chemotherapy during a several month trial of ineffective, albeit less toxic, ET.\n\nTo try and predict benefit from or resistance to ET, an index (the CTC-ETI) has been created that takes into account the number of CTC (which is prognostic) as well as the phenotype of the CTC, based on the hypothesis that relative levels of ER and Bcl-2 (high=benefit) and HER2 and Ki67 (high=resistance) are predictive of ET responsiveness or resistance. Although the preliminary data demonstrate the ability to detect, enumerate, and characterize CTC utilizing the CellSearch\u00ae System, the purpose of the current study is to establish proof of principle that these 4 markers can be used to generate a CTC-ETI which can be performed at baseline from patients enrolled at different centers, and that baseline CTC-ETI predicts relative outcome for patients with ER positive MBC starting a new ET, and can be monitored in such patients during ET. Successful completion of this study will set the stage for a larger, definitive study designed to demonstrate the clinical utility of a \"refined\" CTC-ETI in patients with ER positive, HER2 negative MBC.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 121,
+  "conditions": [
+    "Metastatic Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Blood collection",
+      "type": "OTHER",
+      "description": "Patients will have blood drawn for circulating tumor cell (CTC) endocrine therapy index (CTC-ETI) calculation at baseline (within 30 days prior to the initiation of endocrine therapy) and then subsequently 1, 2, 3 and up 12 months after the initiation of therapy, or at the time of disease progression, whichever occurs first."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Signed informed consent.\n* Women who are 18 years or older.\n* Patients must have estrogen receptor (ER) positive, HER2 negative metastatic breast cancer (MBC) with at least one non-irradiated distant site of metastasis.\n* ECOG performance status of 0-2.\n* Patients must have currently progressive metastatic disease according to RECIST v1.1 criteria, AND\n\n  * They have progressed on at least one previous line of endocrine therapy (ET) for their metastatic disease (but are not currently progressing on fulvestrant), OR;\n  * They show evidence of disease progression during or within 12 months of the end of adjuvant ET.\n* Patient is about to start a new line of ET for their metastatic disease\n* Patient is willing and able to undergo standard of care imaging studies (same imaging/staging modality being used at each evaluation), which are anticipated to be performed prior to the initiation of therapy and subsequently every 3 months.\n* Patient agrees to the collection and testing of their blood and is willing and able to provide approximately 40mL blood draw(s) at:\n\n  * Baseline (prior to the initiation of new ET), and;\n  * Subsequently at 1, 2, 3 and 12 months after the initiation of therapy, and/or;\n  * Time of disease progression.\n\nExclusion Criteria:\n\n* Patients with local regional recurrence only or brain only metastasis.\n* Patients who are progressing on current fulvestrant therapy (patients who have had fulvestrant therapy in the past and were subsequently treated with other therapies or those who are starting fulvestrant as their next line of ET are eligible for the study).\n* Patients who are or will be taking other unapproved (i.e. not cleared/approved by the FDA) anti-neoplastic therapies concurrently are not eligible (exception: ET with everolimus is acceptable).\n* Patients with concomitant malignancies or previous malignancies within the last 5 years, with exception of adequately treated basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix.\n* Unable to provide informed consent or high risk that patient may not comply with protocol requirements (i.e. due to health and/or participation in other research studies).",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center, University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Rapid Disease Progression",
+      "timeFrame": "Within 3 months after initiation of a new line of enrocrine therapy",
+      "description": "Within 30 days prior to the initiation of therapy, chest \\& abdomen body imaging (computed tomography \\[CT\\], or magnetic resonance imaging \\[MRI\\] scanning) plus bone scintigraphic imaging (bone scans or PET scans) or PET-CT scans which encompass both will be performed to identify target and non-target lesions that will be followed with the same imaging techniques 3 months after the initiation of therapy. Objective tumor response will be determined using RECIST v1.1 criteria. Rapid disease progression will be defined as disease progression according to RECIST v1.1 criteria or death due to metastatic breast cancer within 3 months of starting a new ET."
+    }
+  ],
+  "sponsor": "Janssen Diagnostics, LLC",
+  "collaborators": [],
+  "start_date": "2013-04-01",
+  "completion_date": "2016-11-10",
+  "last_updated": "2017-03-07"
+}

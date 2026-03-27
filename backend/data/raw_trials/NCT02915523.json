@@ -1,0 +1,86 @@
+{
+  "nct_id": "NCT02915523",
+  "brief_title": "Study of Avelumab With or Without Entinostat in Participants With Advanced Epithelial Ovarian Cancer",
+  "official_title": "A Randomized, Placebo-controlled, Double-blind, Multicenter Phase 1b/2 Study of Avelumab With or Without Entinostat in Patients With Advanced Epithelial Ovarian Cancer Which Has Progressed or Recurred After First-line Platinum-based Chemotherapy and at Least Two Subsequent Lines of Treatment With a Safety Lead-in",
+  "brief_summary": "The purpose of this study is to determine the biologically active dose of entinostat, when given in combination with avelumab, that is safe and warrants further investigation. Additionally, this study will evaluate the effectiveness of entinostat in combination with avelumab at the determined dose in terms of progression free survival compared to avelumab plus placebo in participants with refractory or recurrent epithelial ovarian cancer.",
+  "detailed_description": "The study is comprised of 2 phases: an open-label Safety Lead-in (Phase 1b) followed by an Expansion Phase (Phase 2). The Expansion Phase will evaluate the efficacy and safety of entinostat with avelumab when administered at the Recommended Phase 2 Dose (RP2D) versus avelumab alone in participants with advanced epithelial ovarian cancer in a randomized, double-blind, placebo-controlled setting. In Phase 2, participants will be randomized in a 2:1 ratio to receive avelumab plus entinostat or avelumab plus placebo, respectively.\n\nAll participants will be assessed at Screening and at specified times during the conduct of the study using standard clinical and laboratory assessments. Participants will be assessed for response through radiological assessments. Participants will continue receiving their appropriate cycles of study treatment until tumor progression or adverse events (AEs) occur which necessitate discontinuing therapy as determined by the Investigator.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 140,
+  "conditions": [
+    "Epithelial Ovarian Cancer",
+    "Peritoneal Cancer",
+    "Fallopian Tube Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "entinostat",
+      "type": "DRUG",
+      "description": "An orally available histone deacetylases inhibitor (HDACi)."
+    },
+    {
+      "name": "avelumab",
+      "type": "DRUG",
+      "description": "A fully human antibody of the immunoglobulin (Ig) G1 isotype that targets and blocks Programmed death-ligand 1 (PD-L1), the ligand for Programmed cell death protein 1 (PD-1) receptor."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "A pill containing no active drug ingredient."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed epithelial ovarian, fallopian tube, or peritoneal cancer\n* Recurrent or progressive disease on or after initial platinum-based chemotherapy\n* Evidence of measurable disease based on imaging studies within 28 days before the first dose of study drug\n* Previously received at least 3, but no more than 6, lines of therapy including at least 1 course of platinum-based therapy\n* Participant must have acceptable, applicable laboratory requirements\n* Participants may have a history of brain metastasis provided certain protocol criteria are met\n* Experienced resolution of toxic effect(s) of the most recent prior anti-cancer therapy to Grade \u22641 (except alopecia or neuropathy)\n* Able to understand and give written informed consent and comply with study procedures.\n\nExclusion Criteria:\n\n* Non-epithelial ovarian carcinomas or ovarian tumors with low malignant potential (i.e., borderline tumors)\n* Another known malignancy that is progressing or requires active treatment (excluding adequately treated basal cell carcinoma or cervical intraepithelial neoplasia/cervical carcinoma in situ or melanoma in situ). Prior history of other cancer is allowed, as long as there is no active disease within the prior 5 years.\n* Diagnosis of immunodeficiency or receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to enrollment.\n* Active autoimmune disease that might deteriorate when receiving an immunostimulatory agent\n* Previously treated with a histone deacetylase inhibitor (i.e., vorinostat, belinostat, romidepsin, panobinostat), PD-1/PD-L1-blocking antibody (i.e., atezolizumab, nivolumab, pembrolizumab), or a cytotoxic T-lymphocyte associated protein-4 (CTLA-4) agent\n* Currently enrolled in (or completed) another investigational drug study within 30 days prior to study drug administration\n* A medical condition that precludes adequate study treatment or increases participant risk",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Greater Baltimore Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 2: Progression Free Survival (PFS), as Determined by the Local Investigator Using Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1.1)",
+      "timeFrame": "From date of randomization to PD or death due to any cause (maximum exposure: 24 cycles [each cycle = 14 days])",
+      "description": "PFS was defined as the number of months from randomization to progressive disease (PD) or death due to any cause, whichever occurred first. PD: At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 millimeters (mm); the appearance of one or more new lesions; and unequivocal progression of existing non-target lesions."
+    },
+    {
+      "measure": "Phase 1b: Number of Participants With at Least One Dose Limiting Toxicity (DLT) Adverse Event (AE)",
+      "timeFrame": "Day 1 through Day 28 (Cycles 1 and 2)",
+      "description": "A DLT was defined as the occurrence of any protocol-specified event within the first 2 cycles of treatment (from Cycle 1 Day 1 through the end of Cycle 2) of entinostat in combination with avelumab that were considered by the investigator to be at least possibly related to study drug."
+    }
+  ],
+  "sponsor": "Syndax Pharmaceuticals",
+  "collaborators": [
+    "Merck KGaA, Darmstadt, Germany",
+    "Pfizer"
+  ],
+  "start_date": "2016-12-19",
+  "completion_date": "2021-04-21",
+  "last_updated": "2023-12-19"
+}

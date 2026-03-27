@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT02322320",
+  "brief_title": "Continued, Long-Term Follow-Up and Lenalidomide Maintenance Therapy for Patients on BMT CTN 0702 Protocol (BMT CTN 07LT)",
+  "official_title": "Continued, Long-Term Follow-Up and Lenalidomide Maintenance Therapy for Patients on BMT CTN 0702 Protocol (BMT CTN #07LT)",
+  "brief_summary": "This study is designed to compare long-term outcomes among patients randomized on the BMT CTN 0702 protocol (NCT01109004), \"A Trial of Single Autologous Transplant with or without Consolidation Therapy versus Tandem Autologous Transplant with Lenalidomide Maintenance for Patients with Multiple Myeloma\". It is hypothesized that use of novel anti-myeloma agents will improve long-term progression-free survival (PFS) after high-dose melphalan followed by autologous hematopoietic cell transplantation (HCT) as compared to a second autologous transplantation.",
+  "detailed_description": "This study is designed to compare long-term outcomes among patients randomized on the BMT CTN 0702 protocol (NCT01109004). All patients who consent will be followed for death, progression, Second Primary Malignancies (SPMs), and Quality of Life (QOL). Patients who do not consent to the long-term follow-up mechanism or who have experienced progression on the BMT CTN 0702 study will be followed through the standard Center for International Blood and Marrow Transplant Research (CIBMTR) long-term follow-up mechanism. Additionally, patients who are eligible and are willing to continue with lenalidomide as maintenance therapy will be provided lenalidomide free of charge. These patients will continue to receive lenalidomide as maintenance therapy until disease progression or discontinuation due to toxicity, death, or withdrawal from the study. The endpoints assessed will include progression-free survival (PFS), overall survival (OS), event-free survival (EFS), incidence of second primary malignancies (SPM) and health quality of life (QOL).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 273,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Lenalidomide",
+      "type": "DRUG",
+      "description": "In BMT CTN 0702, maintenance therapy with lenalidomide started at 10 mg daily for three months and increased to 15 mg daily. The duration of maintenance was three years in all treatment arms. Lenalidomide will be administered initially at the patient's last documented dose prior to discontinuation of BMT CTN 0702 lenalidomide maintenance therapy. Cycle duration is 28 days. Patients will continue lenalidomide until disease progression, or discontinuation due to toxicity, death, or withdrawal from the study."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nPatients fulfilling the following criteria will be eligible to provide continued long-term follow-up data as part of this study:\n\n1. Enrolled and randomized on the BMT CTN 0702 protocol.\n2. Alive at the completion of BMT CTN 0702 protocol specified follow-up defined as 4 years post-randomization.\n3. Patients without evidence of disease progression at the completion of BMT CTN 0702 protocol specified follow up.\n4. Signed Informed Consent Form.\n5. Patients with the ability to speak English or Spanish are eligible to participate in the HQL component of this trial.\n\nInclusion Criteria for Optional Long-term Lenalidomide Maintenance Therapy:\n\nPatients fulfilling the following criteria will be eligible to provide continued long-term follow-up data AND receive long-term lenalidomide maintenance therapy as part of this study:\n\n1. Enrolled and randomized to BMT CTN 0702.\n2. Completion of 3 years of maintenance therapy on BMT CTN 0702.\n3. Registered in the mandatory Revlimid REMS\u00ae program (formerly the RevAssist\u00ae for Study Participants (RASP) program), and be willing and able to comply with the requirements of the Revlimid REMS\u00ae program, including counseling, pregnancy testing, and phone surveys.\n4. Signed informed consent form.\n5. Patients with the ability to speak English or Spanish are eligible to participate in the HQL component of this trial.\n\nExclusion Criteria:\n\nPatients who meet any of the following criteria will be ineligible to receive long-term lenalidomide maintenance therapy as part of this study:\n\n1. Patients who have evidence of disease progression prior to enrollment.\n2. Patients who were discontinued from BMT CTN 0702 lenalidomide maintenance therapy, for any reason, prior to the completion of the 3 years of 0702 maintenance.\n3. Female patients who are pregnant (positive - Beta Human Chorionic Gonadotropin) or breastfeeding.\n4. Females of childbearing potential (FCBP) or men who have sexual contact with FCBP unwilling to use contraceptive techniques during the length of lenalidomide maintenance therapy.\n5. Patients who experienced thromboembolic events while on full anticoagulation during prior therapy with lenalidomide.\n6. Patients unwilling to take Deep Vein Thrombosis (DVT) prophylaxis.\n7. Patients who developed a second primary malignancy, excluding non-melanoma skin cancers after initiation of lenalidomide maintenance therapy on BMT CTN 0702.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Penn State College of Medicine, The Milton S. Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Progression-free Survival (PFS)",
+      "timeFrame": "5 years post-randomization in BMT CTN 0702",
+      "description": "This analysis includes all randomized subjects from the BMT CTN 0702 protocol classified according to their randomized treatment assignment (intention-to-treat). Progression-free survival is defined as survival without disease progression or initiation of non-protocol anti-myeloma therapy. To account for loss to follow-up, the Kaplan-Meier estimator was used to estimate progression-free survival during the 5 year post-randomization follow-up period."
+    }
+  ],
+  "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+  "collaborators": [
+    "Blood and Marrow Transplant Clinical Trials Network",
+    "National Cancer Institute (NCI)",
+    "National Marrow Donor Program"
+  ],
+  "start_date": "2015-03",
+  "completion_date": "2019-06-07",
+  "last_updated": "2020-04-27"
+}

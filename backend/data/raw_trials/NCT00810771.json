@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT00810771",
+  "brief_title": "Evaluating a Preference-based Intervention for Increasing Colorectal Cancer Screening",
+  "official_title": "Evaluating a Preference-based Intervention for Increasing CRC Screening",
+  "brief_summary": "The goal of this study is to evaluate whether an educational tool about colorectal cancer (CRC) completed on a computer that helps patients clarify their CRC screening preferences will lead to increased screening rates for CRC compared to standard information delivered via computer.",
+  "detailed_description": "Background: Colorectal cancer (CRC) is a significant and preventable disease, yet CRC screening remains one of the lowest quality indicators in the VA healthcare system. Moreover, a recent VA directive recommends that CRC screening among Veterans should be based on their preferences, given that there is insufficient evidence to support recommending one test. However the impact of such a preference-based strategy on important outcomes, including screening adherence and cost, is unknown.\n\nObjectives: The broad hypothesis of the proposed study is that helping Veterans clarify their CRC screening preferences will lead to increased adherence. The framework conceptualizes that preference clarification leads to more informed decision-making and, eventually, to better adherence with screening. The specific aims are: 1) To test the effectiveness of a preference-tailored (PT) vs. standard information (SI) intervention for increasing Veterans' CRC screening adherence; 2) To assess the impact of the intervention on informed decision making, knowledge and attitudes toward screening, decisional outcomes, and intention to get screened; and 3) To conduct a cost effectiveness analysis of the PT intervention for increasing CRC screening across the VA.\n\nMethods: A randomized controlled trial of the PT vs. SI decision tool will be conducted in the Ann Arbor and Pittsburgh VA healthcare systems. The intervention was developed by the PI working with the Center for Health Communication Research at the University of Michigan. Eligible patients will be 552 (276 per group) Veterans between 50 and 78 who are due for CRC screening, and who have a primary care visit scheduled within the upcoming 4-6 weeks. Those at high risk (e.g., family or personal history of CRC) will be excluded. Providers will be informed of the study via regular mail and email. In Ann Arbor providers will be given the opportunity to opt-out their participants if they choose to do so. In Pittsburgh providers will be given lists of their participants as they are being considered for the study and will be given the chance to remove any potential participants from the contact list. Potential participants will be mailed an introductory letter. Those who do not opt-out will contacted by telephone. Participants will come to their primary care visit 40 minutes early, at which time they will complete informed consent. The intervention will be delivered via the Internet, and participants will be randomized to the PT or SI arm at the time of log-in. Study measures are consistent with the conceptual framework and based on the Preventive Health Model. Preference information will be collected through the computer program. Secondary outcomes and independent variables will be collected via telephone survey 3 days following the intervention. Adherence to screening will be collected from medical charts at 6 months. CRC screening information in a sub-sample of 80 Ann Arbor Veterans, not in either the PT or SI groups, will also be collected to measure \"usual care\" (UC). Pittsburgh will use the External Peer Review Program (EPRP) for the collection of clinical performance measures, more specifically CRC screening rates, to serve as an effective substitute for the UC group. Hypotheses related to each aim will be tested using multi-level modeling to control for between-provider effects. The overall hypothesis is that patients in the PT group will have higher rates of adherence to CRC screening at the 6 month follow-up point. Cost effectiveness analysis will determine whether a preference-based screening strategy could be cost effective for the VA healthcare system. The PI will work with the investigative team to disseminate the results through local and national VA websites, publications and presentations.\n\nStatus: Active, not recruiting.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 466,
+  "conditions": [
+    "Colorectal Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Standard Information",
+      "type": "BEHAVIORAL",
+      "description": "A computer based educational overview of CRC and CRC test options will be presented to the subject. The subject will be given a handout with a brief description of each of the screening options and will include the test that they have chosen as their preferred test. The subjects will be asked to take this handout to their upcoming clinic appointment and to discuss the screening options with their care provider."
+    },
+    {
+      "name": "Preference-tailored Information",
+      "type": "BEHAVIORAL",
+      "description": "A preference elicitation exercise that will generate a list of the three top attributes for the subject and the CRC screening test most consistent with these attributes. Subjects will be provided with a handout to take to their clinic appointment as the Standard Information group does, but with the addition of a listing of their top attributes and the test most consistent with their top attributes."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Clinic appointment at Ann Arbor or Pittsburgh VA during recruitment period.\n* Age 50-78.\n* Not up to date with CRC screening according to VA and USPSTF guidelines.\n* At average risk for CRC (no history of CRC, adenomatous colon polyps, inflammatory bowel disease, and no family history of CRC).\n* Has current address and telephone number listed in medical record.\n\nExclusion Criteria:\n\n* DNR/DNI code status.\n* Metastatic cancer.\n* Stage D congestive heart failure.\n* Severe COPD.\n* Coronary artery disease (CAD) and MI within one year or CAD and unstable angina within 6 months.\n* Dementia.\n* Inability to conduct activities of daily living.\n* Life expectancy less than one year.\n* Other - anything else that limits CRC screening options.\n* Scheduled for a colonoscopy, sigmoidoscopy, DCBE, or CTC.\n* prior participation in this study\n* unable to contact after 2 introductory letters (at least 6 months apart)",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "78 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Center for Health Equity Research and Promotion",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15240",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Colorectal Cancer (CRC) Screening Rate.",
+      "timeFrame": "Within 6 months of Decider Guider intervention.",
+      "description": "The CRC Screening rate reports percentage of participant adherence with any Colorectal Cancer Screening test within 6 months of Decider Guider intervention. Decider Guider is a tool to help patients make an informed choice about colon cancer testing."
+    }
+  ],
+  "sponsor": "US Department of Veterans Affairs",
+  "collaborators": [],
+  "start_date": "2009-02",
+  "completion_date": "2012-08",
+  "last_updated": "2015-06-01"
+}

@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT00438906",
+  "brief_title": "Cancer of the Pancreas Screening Study (CAPS 3)",
+  "official_title": "Screening for Early Pancreatic Neoplasia",
+  "brief_summary": "The purpose of this study is to find the best and most sensitive screening modality (CT, MRI, EUS)for very small pre-cancerous pancreatic lesions and to treat these small lesions before they turn into cancer. Another purpose of this study is to search for common markers on DNA that would increase the chance of someone developing pancreatic cancer, and locate proteins in pancreatic juice that indicate tumor development.",
+  "detailed_description": "Pancreatic cancer (PC) is the 4th leading cause of cancer death in the U.S. Because it is seldom diagnosed at an early curable stage, nearly all patients die from their disease. Early detection of PC and its precursors will save lives. In a multi-center, translational prospective controlled cohort study, we propose to screen high-risk individuals (members of familial pancreatic cancer kindreds and/or those with germline mutations of BRCA-2, p16, or STK-11), using EUS, CT, and MRI and test a panel of candidate biomarkers. Patients with suspected neoplasms will be offered surgery and the resected pancreata will be examined by an expert pathologist. Pathological results will be compared with radiologic findings and biomarker results. Our study hypothesis is that screening tests can detect early curable non-invasive pancreatic neoplasia in high risk individuals before it progresses to invasive cancer. The primary specific aim of this study is to determine the frequency of detectable pancreatic neoplasia in individuals with an inherited predisposition for pancreatic cancer. Our additional specific aims are: 1) To test the value of a newly-developed method (PANCPRO) of calculating the risk families have of developing PC so as to best target who might benefit from screening; 2a). To compare performance characteristics and reliability of the pancreatic imaging tests EUS, CT, and MRI/MRCP for the detection of early pancreatic neoplasia; 2b) To determine the prevalence of abdominal and pelvic tumors by CT and MRI in individuals carrying a germ-line BRCA2 gene mutation and patients with Peutz-Jeghers syndrome; 2c) To correlate radiologic abnormalities with histologic findings in resected pancreata; and 3). To validate a panel of candidate DNA and protein markers (CA19-9, macrophage inhibitory cytokine-1 (MIC-1), DNA hypermethylation, and KRAS gene mutations) in pancreatic juice and serum as indicators of prevalent neoplasms in high risk individuals, compared to concurrently enrolled controls.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "Pancreatic Neoplasm",
+    "Peutz-Jeghers Syndrome"
+  ],
+  "interventions": [
+    {
+      "name": "Biopsy, Fine Needle Aspiration (FNA)",
+      "type": "PROCEDURE",
+      "description": "If a pancreatic lesion of concern is identified, a small needle is inserted in the lesion in the pancreas and cells of the lesion are aspirated. Diagnosis of the lesion can typically occur with FNA."
+    },
+    {
+      "name": "Secretin (human synthetic) - ChiRhoClin",
+      "type": "DRUG",
+      "description": "Secretin is a synthetic human hormone that encourages the pancreas to create fluid. This will allow pancreatic juice to be collected via gentle suction in the duodenum where the pancreatic juice naturally flows."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Persons with a verified family history of 2 or more first degree relatives with primary site pancreatic cancer(PC), age 40-80 years old or if 1 first degree relative also has at least 2 second degree relatives affected with PC.\n* Persons with a verified BRCA2 gene mutation or FAMM/p16 gene mutation, age 40-80 years old, and family history of pancreatic cancer.\n* Persons with Peutz-Jeghers Syndrome, 30-80 years old, and family history of pancreatic cancer.\n\nExclusion Criteria:\n\n* Persons with pancreatic cancer, or suspicious symptoms.\n* Persons who have had pancreas specific imaging protocol performed in the past three years.\n* Persons medically unable to have an endoscopy, CT or MRI procedure",
+    "gender": "ALL",
+    "min_age": "40 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To determine the diagnostic yield of screening high risk patients",
+      "timeFrame": "1 year",
+      "description": "To determine the diagnostic yield of screening high risk patients (defined as relatives of patients with familial pancreatic cancer,patients with familial Peutz-Jeghers syndrome, and patients with germline BRCA2 and p16 mutations) for early pancreatic neoplasia using endoscopic ultrasonography, CT, and MRI/MRCP."
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [
+    "Lustgarten Foundation",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2006-12",
+  "completion_date": "2009-12",
+  "last_updated": "2021-06-17"
+}

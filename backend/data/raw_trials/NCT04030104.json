@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT04030104",
+  "brief_title": "Optoacoustic Images Versus Imagio\u00ae Ultrasound",
+  "official_title": "Imagio\u00ae Pivotal Multi-Reader, Multi-Case Study of Optoacoustic Images Versus Imagio\u00ae Ultrasound to Guide Decision to Biopsy",
+  "brief_summary": "The Imagio\u00ae Pivotal Study is intended to evaluate if the results observed in the previous Feasibility Study can be confirmed for pre-specified effectiveness endpoints. Using Intention-to-Diagnose (ITD) masses from the PIONEER Pivotal study, 480 to 840 masses are to be used for the Pivotal Study, the remaining masses will be reserved for training the SenoGram\u00ae model.",
+  "detailed_description": "This will be a controlled, blinded, multi-reader, multi-case (MRMC) study using a sequential design. The study will include 15 readers with an additional 5 as back-up readers depending on qualifications and availability. Readers that participated in the Seno PIONEER Study (NCT01943916) or the Reader-01 Feasibility Study (NCT03708393) are not eligible to participate as readers in this Pivotal Study.\n\nImagio\u00ae \\[Ultrasound (IUS) + Optoacoustic (OA)\\] (IUS)(IUS+OA) training will be completed prior to any reads taking place. Read 1 will be immediately followed by Read 2 within the same read session.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 480,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Reader Study - Imagio Ultrasound",
+      "type": "DEVICE",
+      "description": "Imagio ultrasound images to be reviewed as part of Reader study"
+    },
+    {
+      "name": "Reader Study Imagio Ultrasound + Optoacoustic Imaging",
+      "type": "DEVICE",
+      "description": "Imagio Ultrasound + Optoacoustic images to be reviewed as part of Reader study"
+    },
+    {
+      "name": "Mammography",
+      "type": "DEVICE",
+      "description": "Mammography as available per standard of care"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* One analyzable mass per patient: BI-RADS 3 and 4a, 4b, 4c and 5 masses as declared by clinical site investigator via PIONEER study inclusion criteria and categorized as BIRADS 3, 4a, 4b 4c and 5 by conventional diagnostic ultrasound (CDU)\n* Masses declared to be in the PIONEER Intention to Diagnose (ITD)/analysis population, including high risk cases per original PIONEER protocol\n* Patient age, indication for study entry and available medical history\n* Evaluable mammograms and OA and IUS video loops and stills for each mass\n\nExclusion Criteria:\n\n* Critical missing IUS or OA still image and/or video loop views or incorrect IUS or OA stills and video loops that would preclude a case from being evaluated by readers\n* Reader-02 Proficiency Test and training cases",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "American College of Radiology Center for Research and Innovation",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Gain in Specificity at Fixed 98% Sensitivity (fSp)",
+      "timeFrame": "Baseline to 12 months +/- 30 days follow-up",
+      "description": "Primary effectiveness endpoint was the difference (gain) in specificity (fSp) at fixed 98% sensitivity for the Imagio IUS+OA relative to IUS alone, across all 15 independent readers; both imaging modalities used in each subject (subject as own control); results for each imaging modality compared to biopsy diagnosis or 12-month follow-up ruling of benign as determined by truth panel (ground truth). fSp derived from empirical receiver operating characteristic (ROC) using endpoint interpolation."
+    }
+  ],
+  "sponsor": "Seno Medical Instruments Inc.",
+  "collaborators": [],
+  "start_date": "2019-07-30",
+  "completion_date": "2019-11-03",
+  "last_updated": "2021-07-09"
+}

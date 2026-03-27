@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT03994601",
+  "brief_title": "An Investigational Immunotherapy Study of BMS-986288 Alone and in Combination With Nivolumab in Advanced Solid Cancers",
+  "official_title": "A Phase 1/2 First-in-human Study of BMS-986288 Alone and in Combination With Nivolumab in Advanced Malignant Tumors",
+  "brief_summary": "The purpose of this study is to determine whether BMS-986288 both by itself and in combination with Nivolumab is safe and tolerable in the treatment of select advanced solid tumors.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 219,
+  "conditions": [
+    "Advanced Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "BMS-986288",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Regorafenib",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologic or cytologic confirmation of select solid tumor that is advanced (metastatic, recurrent, and/or unresectable) with measurable disease and have at least 1 lesion accessible for biopsy\n* Eastern Cooperative Oncology Group Performance Status of 0 or 1\n* Received, and then progressed, relapsed, or been intolerant to, at least 1 standard treatment regimen in the advanced or metastatic setting according to select solid tumor histologies\n\nExclusion Criteria:\n\n* Active, known or suspected autoimmune disease\n* Active malignancy requiring concurrent intervention\n* Primary Central Nervous System (CNS) malignancies or tumors with CNS metastasis as the only site of disease, will be excluded\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0002",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0001",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety Related Events for Cohorts 1A, 1B and 2B.",
+      "timeFrame": "approximately 6 months",
+      "description": "Safety releated events for Cohorts 1A, 1B and 2B."
+    },
+    {
+      "measure": "Dose Limiting Toxicities Cohorts 1A, 1B and 2B.",
+      "timeFrame": "approximately 5 weeks",
+      "description": "A DLT is an adverse event or abnormal lab value not related to disease progression, illness, or other medications. The DLT evaluation period is 5 weeks (35 days) for both BMS-986288 monotherapy and combination dose escalation. Toxicities beyond this period will inform final dose decisions. Participants who discontinue due to a DLT or complete the 5-week period after receiving at least 2 doses are considered DLT-evaluable. Those who withdraw early or receive fewer than 2 doses for non-DLT reasons are not evaluable and may be replaced. Participants with dose delays for non-DLT reasons remain evaluable if they receive at least 2 doses within 8 weeks."
+    },
+    {
+      "measure": "Objective Response Rate by BICR in Cohort 2C",
+      "timeFrame": "approximately 2.15 Months",
+      "description": "The percentage of all treated participants whose BOR is either CR or PR by BICR per RECIST v1.1."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2019-09-06",
+  "completion_date": "2024-08-31",
+  "last_updated": "2025-12-29"
+}

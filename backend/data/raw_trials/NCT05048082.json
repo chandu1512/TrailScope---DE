@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT05048082",
+  "brief_title": "A Study to Evaluate Pegsitacianine, an Intraoperative Fluorescence Imaging Agent for the Detection of Lung Malignancies",
+  "official_title": "A Phase 2, Single-Dose, Open-Label Study to Evaluate Diagnostic Performance and Safety of Pegsitacianine, an Intraoperative Fluorescence Imaging Agent for the Detection of Lung Malignancies, in Patients Undergoing Routine Surgery",
+  "brief_summary": "This Phase 2 study is an open-label, single-arm trial where each patient is his/her own \"intrapatient\" control. All patients will receive a single dose of pegsitacianine prior to standard of care surgery.",
+  "detailed_description": "This single-arm trial will enroll patients with biopsy confirmed or a high clinical suspicion of a lung malignancy based on MRI, CT and/or PET imaging. A total of up to 40 patients will be enrolled in this trial. The sponsor reserves the right to perform an interim analysis following early enrollment (i.e., n \u2264 10 subjects) to determine the feasibility and benefit of pegsitacianine as an adjunct to standard of care surgical resection of lung malignancies.\n\nThe surgeon will begin by attempting to perform their SOC tumor resection. If the tumor is unable to be located under standard white light conditions, an appropriate FDA-cleared near-infrared imaging device may be used to aid in the location of the primary tumor. Localization of the primary tumor, when unable to be located using white light imaging, in conjunction with pathology confirmed presence of disease will be considered a clinically significant event. Following any standard of care procedures conducted under white light only, the near infrared camera will be used to evaluate areas of residual fluorescence that may be resected if suscpicious for metastatic spread or residual margins. The fluorescence status of each specimen will then be correlated to the final pathology for each, and performance metrics of pegsitacianine will be tabulated.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 24,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "pegsitacianine",
+      "type": "DRUG",
+      "description": "An intraoperative nanoparticle-based fluorescence imaging agent comprised of micelles covalently conjugated to indocyanine green (ICG)."
+    },
+    {
+      "name": "Tumor resection surgery",
+      "type": "PROCEDURE",
+      "description": "Standard of care surgical removal of cancerous lung lesion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Biopsy confirmed diagnosis, or a high clinical suspicion of a lung malignancy based on MRI, CT and/or PET imaging\n\nExclusion Criteria:\n\n* Known hypersensitivity or allergy to indocyanine green (ICG), polymethylmethacrylate (PMMA; found in dental and bone cements) or polyethylene glycol (PEG)\n* Tumor locations the surgeon deems unfeasible to image intraoperatively\n* Excessive and/or generalized disease deemed inoperable by the surgeon\n* Life expectancy less than 12 weeks",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of Patients Experiencing at Least One Clinically Significant Event (CSE)",
+      "timeFrame": "1 day",
+      "description": "Discovery of a clinically significant event at the level of the patient. May include detection of primary tumors, discovery of occult disease, or tumor negative SOC biopsies."
+    }
+  ],
+  "sponsor": "OncoNano Medicine, Inc.",
+  "collaborators": [],
+  "start_date": "2022-04-13",
+  "completion_date": "2022-08-31",
+  "last_updated": "2024-11-06"
+}

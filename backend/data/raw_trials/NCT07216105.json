@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT07216105",
+  "brief_title": "FT836 With or Without Chemotherapy and/or Monoclonal Antibodies, in Participants With Advanced Solid Tumors",
+  "official_title": "A Phase 1, Open-Label Study of FT836, an Off-the-Shelf CAR T-Cell Therapy, With or Without Chemotherapy and/or Monoclonal Antibodies, in Participants With Advanced Solid Tumors",
+  "brief_summary": "This is a phase 1 study of FT836 administered in participants with advanced solid tumors. The primary objectives of the study are to evaluate the safety and tolerability of FT836 with or without paclitaxel and/or trastuzumab or cetuximab, and to determine the recommended phase 2 dose (RP2D) of FT836 in combination with trastuzumab or cetuximab; each objective will be assessed with or without paclitaxel chemotherapy.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 113,
+  "conditions": [
+    "Non-Small Cell Lung Cancer",
+    "Colorectal Cancer",
+    "Breast Cancer",
+    "Ovarian Cancer",
+    "Endometrial Carcinoma",
+    "Head and Neck Squamous Cell Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "FT836",
+      "type": "DRUG",
+      "description": "FT836 drug product is administered as an intravenous infusion on multiple days schedule at treatment cycle."
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "IV infusion ; 80 mg/m2 QW; Days -21, -14, and -7"
+    },
+    {
+      "name": "Cetuximab",
+      "type": "DRUG",
+      "description": "Cetuximab administration will begin on Day -4 at the recommended initial dose of 400 mg/m2 as a 120-minute IV infusion"
+    },
+    {
+      "name": "Trastuzumab",
+      "type": "DRUG",
+      "description": "trastuzumab administration will begin on Day -4 at an initial dose of 4 mg/kg as a 90-minute IV infusion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* For all regimens, disease that is not amenable to curative therapy and that has relapsed or progressed following at least one line of prior systemic therapy.\n* Evidence of adequate organ function as determined by all of the following:\n\n  * Absolute neutrophil count (ANC) \\>1000/\u00b5L without growth factor support within 7 days prior to start of first study intervention\n  * Platelet count \u226575,000/\u00b5L without transfusion support within 14 days prior to start of first study intervention\n  * Estimated creatinine clearance \u226550 mL/minute by Cockcroft-Gault method or other standard institutional method\n  * Total bilirubin \u22641.5 \u00d7 upper limit of normal (ULN); for participants with documented Gilbert syndrome, total bilirubin must be \u22643 \u00d7ULN\n  * Aspartate transaminase (AST) \u22643 \u00d7 ULN or alanine transaminase (ALT) \u22643 \u00d7 ULN; in participants with documented liver metastases, AST or ALT \u22645 \u00d7 ULN\n  * Alkaline phosphatase (ALP) \u22642.5 \u00d7 ULN; in participants with documented liver or bone metastases, ALP \u22645 \u00d7 ULN\n  * Oxygen saturation \\>90% on room air\n* Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1.\n* Presence of measurable disease by RECIST, v1.1 assessed within 28 days prior to start of first study intervention.\n* Presence of baseline safely accessible lesions of adequate size for on-treatment biopsies (exceptions for lesion size may be granted with medical monitor approval) and participant willingness to undergo protocol prescribed on-treatment biopsies.\n\nExclusion Criteria:\n\n* Clinically significant cardiovascular disease including any of the following: uncontrolled/ unstable cardiac arrhythmias, myocardial infarction within 6 months prior to start of first study intervention, unstable angina or congestive heart failure of New York Heart Association (NYHA) Grade 2 or higher, or cardiac ejection fraction \\<50%.\n* Receipt of any biological therapy, chemotherapy, investigational therapy, or radiation therapy within 2 weeks or five half-lives prior to start of fifirst study intervention, whichever is shorter.\n* Known active central nervous system (CNS) involvement by malignancy. Participants with prior CNS involvement from their malignancy must have completed effective treatment of their CNS disease with no symptoms of disease in the absence of steroid treatment and at least stable findings on relevant CNS imaging and no evidence of leptomeningeal disease for at least 4 weeks prior to study enrollment.\n* Non-malignant CNS disease such as stroke, epilepsy, CNS vasculitis, or neurodegenerative disease or receipt of medications for these conditions within 6 months prior to study enrollment.\n* Currently receiving or likely to require systemic immunosuppressive therapy (e.g., prednisone \u22655 mg daily) for any reason from start of first study intervention to Day 29 with the exception of corticosteroids as a premedication for chemotherapy side effects per institutional standard of care or as mandated by the protocol.\n* Any history of Grade \u22653 immune-related AE or Grade \u22652 eye toxicity attributed to prior cancer immunotherapy, other than endocrinopathy managed with replacement therapy or asymptomatic elevation of serum amylase or lipase.\n* Grade \u22652 peripheral neuropathy limiting instrumental activities of daily living.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University, Sidney Kimmel Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of participants with dose limiting toxicities (DLTs)",
+      "timeFrame": "From Day 1 through Day 29 of Cycle 1( each cycle is 56 days)",
+      "description": "The number of participants experiencing \u22651 DLT will be reported."
+    },
+    {
+      "measure": "Severity of DLTs",
+      "timeFrame": "From Day 1 through Day 29 of Cycle 1( each cycle is 56 days)",
+      "description": "The severity of DLTs will be determined according to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE, v5.0)."
+    }
+  ],
+  "sponsor": "Fate Therapeutics",
+  "collaborators": [],
+  "start_date": "2025-11-04",
+  "completion_date": "2030-01",
+  "last_updated": "2025-12-16"
+}

@@ -1,0 +1,102 @@
+{
+  "nct_id": "NCT06464341",
+  "brief_title": "Nodal Burden and Nodal Recurrence in Patients With Isolated Tumor Cells After Neoadjuvant Chemotherapy Treated With Axillary Dissection or Nodal Radiation: the OPBC-05/EUBREAST-14R/ICARO Study",
+  "official_title": "Nodal Burden and Nodal Recurrence in Patients With Isolated Tumor Cells After Neoadjuvant Chemotherapy Treated With Axillary Dissection or Nodal Radiation: the OPBC-05/EUBREAST-14R/ICARO Study",
+  "brief_summary": "The purposes of this multicenter retrospective cohort study are to determine the residual nodal burden in patients with isolated tumor cells detected in the SLN or the clipped node after NAC and to determine oncologic outcomes in this group of patients after ALND or nodal RT or observation.",
+  "detailed_description": "In the context of upfront surgery, the extent of disease in the sentinel lymph nodes (SLNs) significantly predicts the chances of additional non-SLN metastases during axillary lymph node dissection (ALND). For patients with minimal SLN disease (isolated tumor cells \\[ITCs\\] and micrometastases), the probability of further non-SLN metastases is between 10-20%. In contrast, for patients with macrometastases, the risk increases to 27-33%.\n\nIn patients undergoing neoadjuvant chemotherapy (NAC), those with positive SLNs exhibit a greater residual nodal burden compared to those treated with upfront surgery. For patients with remaining micro- or macrometastases post-NAC, additional positive lymph nodes are found in over 60% of ALND specimens, regardless of receptor subtype. Consequently, ALND remains the standard care for any residual nodal disease after NAC.\n\nResidual ITCs after NAC are present in about 1.5% of all patients undergoing NAC. There is limited data on the likelihood of discovering additional positive lymph nodes in this group, with fewer than 35 documented cases examining residual nodal burden. Therefore, the benefit of ALND for minimal residual disease is uncertain, and axillary management for patients with nodal ITCs is not standardized. Although omitting ALND reduces arm morbidity, identifying residual nodal disease can influence adjuvant therapy recommendations. Despite the lack of consensus on the oncologic safety of omitting ALND in this group, care patterns indicate a growing adoption of this approach. Given the rarity of this clinical scenario and the absence of forthcoming prospective studies, this study utilized real-world data from a large international cohort to determine the incidence of residual non-SLN involvement in patients with ITCs in the SLNs post-NAC, and to compare clinical outcomes in patients with and without ALND as definitive axillary treatment.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 583,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Observational study no intervention",
+      "type": "OTHER",
+      "description": "Observational study no intervention"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Consecutive patients affected with T1-4 N0-3 breast cancer\n* For cN+: Biopsy proven confirmation is required\n* For cN0: any axillary staging technique including palpation is allowed\n* Residual ITCs in the SLN or clipped node\n* At least 1-year follow-up (12/2021 or later depending on the time of data collection)\n* For cN0: SLNB with single or dual tracer mapping\n* For cN+: SLNB with dual mapping or targeted axillary dissection (TAD: imaging-guided localization of sampled node in combination with SLN procedure with or without dual mapping)\n* Underwent TAD/SLNB +/- ALND +/- axillary RT\n\nExclusion Criteria:\n\n* Male patients\n* Patients with nodal pCR\n* Patients with residual nodal micro- or macrometastases\n* Stage IV disease at presentation\n* Inflammatory breast cancer (T4d) at presentation",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    },
+    {
+      "facility": "Guthrie Clinic",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Axillary Lymph Node Dissection (ALND)",
+      "timeFrame": "Day 0",
+      "description": "Evaluation of the number of ALNDs performed"
+    },
+    {
+      "measure": "Number of Tailored Axillary Dissection (TAD)",
+      "timeFrame": "Day 0",
+      "description": "Evaluation of the number of TAD performed"
+    },
+    {
+      "measure": "Number of Sentinel Lymph Node Biopsy (SLNB)",
+      "timeFrame": "one time assessment before surgery",
+      "description": "Evaluation of the number of SLNB performed"
+    },
+    {
+      "measure": "Number Axillary Radiotherapy",
+      "timeFrame": "Up to 2 years",
+      "description": "Evaluation of the number of axillary radiotherapy performed"
+    },
+    {
+      "measure": "Number of additional micrometastases",
+      "timeFrame": "Day 0",
+      "description": "Evaluation of the number of additional micrometastases removed by ALND"
+    },
+    {
+      "measure": "Number of additional macrometastases",
+      "timeFrame": "Day 0",
+      "description": "Evaluation of the number of additional macrometastases removed by ALND"
+    },
+    {
+      "measure": "Axillary recurrence",
+      "timeFrame": "Up to 14 years",
+      "description": "Evaluation of the number of axillary recurrence"
+    }
+  ],
+  "sponsor": "University Hospital, Basel, Switzerland",
+  "collaborators": [
+    "Memorial Sloan Kettering Cancer Center"
+  ],
+  "start_date": "2023-05-04",
+  "completion_date": "2024-12-31",
+  "last_updated": "2025-01-16"
+}

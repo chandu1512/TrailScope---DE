@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT05484622",
+  "brief_title": "Study of Vorasidenib and Pembrolizumab Combination in Recurrent or Progressive IDH-1 Mutant Glioma",
+  "official_title": "A Phase 1, Safety Lead-In and Randomized, Open-label, Perioperative Study of Vorasidenib in Combination With Pembrolizumab in Subjects With Recurrent or Progressive IDH-1 Mutant Glioma",
+  "brief_summary": "Vorasidenib in combination with pembrolizumab in participants with recurrent or progressive isocitrate dehydrogenase-1 (IDH-1) mutant Glioma.",
+  "detailed_description": "The study is divided into 2 phases, a Safety Lead-In phase and a randomized perioperative phase. In the Safety Lead-In Phase, the recommended combination dose (RCD) of vorasidenib will be determined. In the Randomized Perioperative Phase, the Lymphocytes infiltration in tumors will be evaluated following pre-surgical treatment with vorasidenib and pembrolizumab combination, compared to untreated control tumors. Prior to surgery, participants will be randomized to receive vorasidenib at the RCD in combination with pembrolizumab, or vorasidenib only, or no treatment (untreated control group). Following surgery, participants will have the option to receive treatment with vorasidenib in combination with pembrolizumab in 21-day cycles.\n\nStudy treatment will be administered until participant experiences unacceptable toxicity, disease progression, or other discontinuation criteria are met.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "Astrocytoma",
+    "Oligodendroglioma"
+  ],
+  "interventions": [
+    {
+      "name": "Vorasidenib",
+      "type": "DRUG",
+      "description": "Administered orally as tablets."
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Administered as IV infusion."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Have Karnofsky Performance Status (KPS) of \u2265 70%.\n2. Have expected survival of \u2265 3 months.\n3. Have histologically confirmed Grade 2 or Grade 3 glioma (per the 2016 or 2021 World Health Organization \\[WHO\\] Classification of Tumors of the central nervous system)\n4. Have:\n\n   1. Documented IDH1-R132H gene mutation; and\n   2. For Astrocytomas: Absence of 1p19q co-deletion (i.e., exclusion of combined whole-arm deletions of 1p and 19q) and/or documented loss of nuclear ATRX expression or ATRX mutation by local testing. For Oligodendrogliomas: Presence of 1p19q co-deletion (i.e., combined whole-arm deletions of 1p and 19q) by local testing.\n5. Have measurable, magnetic resonance imaging (MRI)-evaluable, unequivocal contrast enhancing disease as determined by institutional radiologist/Investigator at Screening on either 2D T1 post-contrast weighted images or 3D T1 post-contrast weighted images. Per mRANO criteria, measurable lesion is defined as at least 1 enhancing lesion measuring \u2265 1 cm x \u2265 1 cm. OR (in the absence of measurable enhancing disease) measurable, MRI-evaluable, unequivocal non enhancing disease as determined by institutional radiologist/Investigator at Screening on either 2D or 3D T2-weighted image or FLAIR. Per RANO 2.0 criteria, measurable lesion is defined as at least 1 non enhancing lesion measuring \u2265 1 cm \u00d7 \u2265 1 cm.\n6. Have recurrent or progressive disease and received prior treatment with chemotherapy, radiation, or both.\n7. Surgical resection is indicated for treatment, but surgery is not urgently indicated (e.g., for whom surgery within the next 6-9 weeks is appropriate). (NOTE: This criterion only applies to participants enrolled in the perioperative phase of the study. Participants in the Safety Lead-In should not require surgery).\n\nExclusion Criteria:\n\n1. Have received prior systemic anti-cancer therapy within 1 month of the first dose of IMP, radiation within 12 months of the first dose of IMP, or an investigational agent \\< 14 days prior to the first dose of IMP. In addition, the first dose of IMP should not occur before a period of \u2265 5 half-lives of the investigational agent has elapsed.\n2. Have received 2 or more courses of radiation.\n3. Have received any prior treatment with an isocitrate dehydrogenase (IDH) inhibitor; anti-programmed cell death 1 (PD1), anti-programmed cell death ligand 1 (PD-L1), or anti-PD-ligand 2 (L2) agent, or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (e.g., CTLA-4, OX 40, CD137); any other checkpoint inhibitor; bevacizumab; or any prior vaccine therapy.\n\nNote: Other inclusion and exclusion criteria may apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania Health System",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety Lead-in Phase: Percentage of Participants With Dose-limiting Toxicities (DLTs)",
+      "timeFrame": "First 21 days of dosing (Cycle 1) in safety lead-in phase",
+      "description": ""
+    },
+    {
+      "measure": "Percentage of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+      "timeFrame": "approximately up to 19 months",
+      "description": ""
+    },
+    {
+      "measure": "Percentage of Tumor-infiltrating Lymphocyte (TIL) Cells in Surgically Resected Tumors Following Treatment With Vorasidenib + Pembrolizumab Compared to Untreated Control Tumors",
+      "timeFrame": "approximately 2 months",
+      "description": "TIL is defined as the percentage of tumor-infiltrating lymphocyte cells on a logarithmic scale."
+    }
+  ],
+  "sponsor": "Institut de Recherches Internationales Servier",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2023-01-20",
+  "completion_date": "2027-08-30",
+  "last_updated": "2026-03-11"
+}

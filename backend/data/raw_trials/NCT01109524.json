@@ -1,0 +1,94 @@
+{
+  "nct_id": "NCT01109524",
+  "brief_title": "Safety Study of Cetuximab in Combination With Cisplatin and Vinorelbine to Treat Advanced Non-small Cell Lung Cancer",
+  "official_title": "Cisplatin and Vinorelbine in Combination With Cetuximab as First Line Treatment for Patients With Advanced/Metastatic Non-Small Cell Lung Cancer (NSCLC): a Single Arm Multicenter Safety Phase 2 Study",
+  "brief_summary": "The purpose of the study is to determine if U.S. manufactured Cetuximab can be safely used for the treatment of Non-Small Cell Lung Cancer in combination with Cisplatin and Vinorelbine.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 72,
+  "conditions": [
+    "Lung Neoplasms",
+    "Carcinoma",
+    "Cancer of the Lung",
+    "Non-Small-Cell Lung Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Cetuximab",
+      "type": "DRUG",
+      "description": "Vial, Intravenous, 400mg/m\u00b2, week 1, then 250mg/m\u00b2, Weekly, Until Progressive Disease (PD)/ Toxicity/Pt-PI Decision"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Vial, Intravenous, 80mg/m\u00b2, Day 1 of each 21 day cycle, Maximum 6 cycles"
+    },
+    {
+      "name": "Vinorelbine",
+      "type": "DRUG",
+      "description": "Vial, Intravenous, 25 mg/m\u00b2, Day 1 and 8 of each 21 day cycle, Maximum 6 cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Non-Small Cell Lung Cancer (NSCLC), Stage IV (per the American Joint Committee on Cancer (AJCC) Staging Manual, Seventh Edition) or recurrent disease following surgery and/or radiation therapy\n* Evaluable or measurable disease\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1 or 2\n\nExclusion Criteria:\n\n* Uncontrolled Central Nervous System (CNS) metastasis.\n* Previous exposure to monoclonal antibodies, signal transduction inhibitors or Epidermal growth factor receptor (EGFR) targeting therapy\n* Concurrent malignancy\n* Prior chemotherapy for NSCLC\n* Pre-existing ascites grade \u2265 2 or pericardial effusion grade \u2265 2\n* Superior vena cava syndrome contra-indicating hydration\n* White Blood Cells (WBC) \\< 3,000/mm\u00b3\n* Absolute neutrophile count (ANC) \\< 1,500/mm\u00b3\n* Platelet \\< 100,000/mm\u00b3\n* Hemoglobin (Hgb) \\< 9.0 g/dL\n* Total bilirubin \\> 1.5 x Upper limit of normal (ULN).\n* Aspartate aminotransferase (AST) or Alanine-aminotransferase (ALT) \\> 5.0 x ULN.\n* Serum creatinine \\>1.25 x ULN and calculated creatinine clearance \\<60mL/min",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Temple University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19140",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Any Treatment-emergent Adverse Events (AEs), Serious Adverse Events (SAEs), Deaths, and AEs Leading to Discontinuation of at Least One Study Drug, - Treated Population",
+      "timeFrame": "Day 1 up to 30 days after last dose",
+      "description": "AE=any new unfavorable symptom, sign, or disease or worsening of a preexisting condition that may not have a causal relationship with treatment. SAE=medical event that results in death, persistent or significant disability/incapacity, or drug dependency/abuse; is life-threatening, an important medical event, or a congenital anomaly/birth defect; or requires or prolongs hospitalization. MedDRA version 14.0. Severity of AEs were graded according to the National Cancer Institute Common Toxicity Criteria (NCI-CTC) version 3.0: Grade (Gr) 1=Mild, Gr 2=Moderate, Gr 3=Severe, Gr 4=Life-threatening or disabling, Gr 5=Death. Day 1 (start of study drug) to 30 days after last dose of any treatment therapy, including cetuximab monotherapy."
+    },
+    {
+      "measure": "Number of Participants With Grades 3 and 4 Treatment-emergent Adverse Events (AEs) of Special Interest - Treated Population",
+      "timeFrame": "Day 1 to 30 days after last dose",
+      "description": "Special interest AEs: acneform rash, infusion reaction, cardiac adverse event, febrile neutropenia, infection (includes all terms except sepsis), sepsis, interstitial lung disease, renal failure, and thromboembolic events. Except for interstitial lung disease, these were composite terms combining several preferred/other level MedDRA terms (MedDRA version 14.0). Except for Grade (GR)3 and 4 infusion reactions, AE severity were graded per the NCI-CTC, version 3.0: Gr 1=Mild, Gr 2=Moderate, Gr 3=Severe, Gr 4=Life-threatening or disabling, Gr 5=Death. Severity of Gr 3 - 4 infusion reactions were: Gr 3=symptomatic bronchospasm, requiring parenteral medication(s), with or without urticaria; allergy-related edema/angioedema; Gr 4=a life-threatening event characterized by the same symptomatology as a Gr 3, complicated by symptomatic hypotension or oxygen saturation 70% or less. Day 1 (start of study drug) to 30 days after last dose of any treatment therapy, including cetuximab monotherapy."
+    },
+    {
+      "measure": "Number of Participants With Liver Function Serum Chemistry Laboratory Abnormalities - Treated Population",
+      "timeFrame": "Day 1 up to 30 days after last dose",
+      "description": "ULN=Upper limit of normal among all laboratory ranges. ALT=alanine transaminase; AST=aspartate aminotransferase; ALP=alkaline phosphatase. CTC grade criteria: ALT Grade 1:\\>ULN 2.5\\*ULN; Grade 2: \\>2.5 - 5.0\\*ULN; Grade 3: \\>5.0 - 20.0\\*ULN; Grade 4: \\>20.0\\*ULN. AST Grade 1: \\>ULN - 2.5\\*ULN; Grade 2: \\>2.5 - 5.0\\*ULN; Grade 3: \\>5.0 - 20.0\\*ULN; Grade 4: \\>20.0\\*ULN. Total bilirubin Grade 1: \\>ULN - 1.5\\*ULN; Grade 2: \\>1.5 - 3.0\\*ULN; Grade 3: \\>3.0 - 10.0\\*ULN; Grade 4: \\>10.0\\*ULN. Albumin (low) Grade 1:\\<LLN - 3 grams per deciliter (g/dL)to \\<LLN - 3 g/dL; Grade 2: \\<3 - 2 g/dL to \\< 3.0 - 2.0 g/dL; Grade 3: \\< 2 g/dL to \\<2 g/L. Day 1 (start of study drug) to 30 days after last dose of any treatment therapy, including cetuximab monotherapy."
+    },
+    {
+      "measure": "Number of Participants With Hematology Laboratory Abnormalities - Treated Population",
+      "timeFrame": "Day 2 up to 30 days after last dose",
+      "description": "Hematology laboratories included hemoglobin, platelets, white blood cell (WBC) count, and absolute neutrophil count (ANC) and values were per CTC grading, 0, 1, 2, 3, 4. On-study laboratory tests were those performed after the start of study drug (from Day 2 of cycle 1) and up to 30 days after the last dose of study drug. WBC normal range: 4.1-12.3 x 10\\^3 /microliter (\u00b5L); platelets normal range: 140-450 x 10\\^9 /Liter (L); hemoglobin normal range 14-18 grams per deciliter (g/dL); ANC normal range: 2.03-8.36 x 10\\^9/\u03bcL."
+    },
+    {
+      "measure": "Number of Participants With Renal Function Serum Chemistry Laboratory Abnormalities - Treated Population",
+      "timeFrame": "Day 1 up to 30 days after last dose",
+      "description": "ULN=Upper limit of normal among all laboratory ranges; LLN=Lower limit of normal. CTC grade criteria: Sodium high (H) Grade (Gr) 1:\\>ULN - 150 millimoles per liter (mmol/L); Gr 2: \\>150 - 155 mmol/L; Gr 3: \\>155 - 160mmol/L; Gr 4: \\>160 mmol/L. Sodium low(L) Gr 1:\\<LLN - 130mmol/L; Gr 3: \\<130 - 120 mmol/L; Gr 4: \\<120 mmol/L. Potassium (H) Gr 1: \\>ULN - 5.5 mmol/L; Gr 2: \\>5.5 - 6.0 mmol/L; Gr 3: \\> 6.0 - 7.0 mmol/L; Gr 4: \\>7.0 mmol/L. Potassium (L) Gr 1: \\<LLN - 3.0 mmol/L; Gr 2: \\<LLN - 3.0 mmol/L; Gr 3: \\< 3.0 - 2.5 mmol/L; Gr 4: \\<2.5 mmol/L. Serum creatinine (H) Gr 1: \\>1 - 1.5\\*baseline (BL)to \\>ULN - 1.5\\*ULN; Gr 2: \\>1.5 - 3.0\\*BL to \\> 1.5 - 3.0\\*ULN; Gr 3: \\>3.0\\*BL to \\> 3.0 - 6.0\\*ULN; Gr 4: \\>6.0\\*ULN. Day 1 (start of study drug) to 30 days after last dose of any study drug, including monotherapy."
+    },
+    {
+      "measure": "Number of Participants With Drug-Related Treatment-emergent AEs, Drug-Related SAEs, and Drug-Related AEs Leading to Discontinuation of at Least One Study Drug, - Treated Population",
+      "timeFrame": "Day 1 up to 30 days after last dose",
+      "description": "Drug-related AEs and drug-related SAEs (by investigator assessment) were those with a relationship to study drug(s) reported to Sponsor as related and those of unknown relationship. AE was defined as any new unfavorable symptom, sign, or disease or worsening of a preexisting condition that may not have a causal relationship with treatment. SAE was defined as a medical event that results in death, persistent or significant disability/incapacity, or drug dependency/abuse; is life-threatening, an important medical event, or a congenital anomaly/birth defect; or requires or prolongs hospitalization. MedDRA version 14.0. Severity of AEs were graded according to the National Cancer Institute Common Toxicity Criteria (NCI-CTC) version 3.0: Grade (Gr) 1=Mild, Gr 2=Moderate, Gr 3=Severe, Gr 4=Life-threatening or disabling, Gr 5=Death. Day 1 (start of study drug) to 30 days after last dose of any study drug, including monotherapy."
+    },
+    {
+      "measure": "Number of Participants With Grades 3 and 4 Drug-Related Treatment-emergent AEs of Special Interest - Treated Population",
+      "timeFrame": "Day 1 up to 30 days after last dose",
+      "description": "Drug-related AEs (investigator assessment): those with relationship to study drug(s)reported as related and those of unknown relationship. Special interest AEs: acneform rash, infusion reaction, cardiac adverse event, febrile neutropenia, infection (all terms except sepsis), sepsis, interstitial lung disease, renal failure, and thromboembolic events. Except for interstitial lung disease, these were composite terms combining several MedDRA terms (MedDRA version 14.0). Except for Gr 3 and 4 infusion reactions, AE severity per NCI-CTC, version 3.0: Gr 1=Mild, Gr 2=Moderate, Gr 3=Severe, Gr 4=Life-threatening or disabling, Gr 5=Death. Gr 3 - 4 infusion reactions: Gr 3=symptomatic bronchospasm, requiring parenteral medication(s), with or without urticaria; allergy-related edema/angioedema; Gr 4=life-threatening event with same Gr 3 symptomatology, complicated by symptomatic hypotension/oxygen saturation 70% or less. Day 1=start of study drug; to 30 days after last dose of any treatment."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2010-07",
+  "completion_date": "2012-09",
+  "last_updated": "2015-11-24"
+}

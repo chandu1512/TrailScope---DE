@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT06389097",
+  "brief_title": "SPECT Imaging for Pharmacokinetics and dosimEtry Towards TREATment Optimization",
+  "official_title": "Single-Photon Emission Computed Tomography (SPECT) Imaging for Pharmacokinetics and dosimEtry Towards TREATment Optimization (SEEtoTREAT)",
+  "brief_summary": "The investigators will study SPECT imaging of radiopharmaceutical therapies given as standard of care or as part of other compatible research protocols. The goal is to validate the quantitative SPECT image reconstruction methods developed in this proposal, and to investigate the relation between dosimetry calculated from SPECT images and the outcomes. Patients will be recruited for SPECT/CT imaging during treatment. This is an observational study no additional new drugs or activities will be administrated. The investigators will perform SPECT imaging on a total of 80 patients (\\~20 each from year 2 to year 5). Each participant will be imaged 3 times after the first and last cycles of planned radiopharmaceutical therapy.",
+  "detailed_description": "Radiopharmaceutical therapy (RPT) is an emerging systemic treatment modality that delivers radiation to targeted cells. Recently FDA approved RPT agents include Radium-223 for prostate cancer, 177Lu-DOTATATE for neuroendocrine cancers, and 177Lu-PSMA-617 for prostate cancer. RPT is currently being administered as weight-based or fixed activities for 4-6 cycles, and there is concern that this standardized regimen compromises the potential efficacy of this treatment modality. In large part, this is because rigorous, validated dosimetry methods are not in standard clinical use, especially for alpha emitter RPTs. Such methods using SPECT would make it possible to predict potential normal organ toxicity and tumor response for individual patients. The multidisciplinary Johns Hopkins RPT research group has focused on development of such SPECT dosimetry methods and has an active NIH P01 grant for this work.\n\nThe ability to image and understand where the RPT distributes in patients makes it possible to estimate the radiation delivered to tissues. The study team of medical physics experts is developing quantitative 3-D, single-photon emission computed tomography (SPECT) imaging for dosimetry of beta and alpha emitters 1-9. Recognizing that such imaging must be made convenient to be widely adopted, the investigators are also examining the trade-off between simplifying imaging (shorter imaging times, fewer imaging sessions) and the accuracy of the absorbed dose calculations. Key barriers to implementing dosimetry for alpha emitters include the low count-rate and sub-optimal photon emissions and the emission of multiple daughter radionuclides. Currently available reconstruction methods in clinical SPECT systems cannot handle such complex imaging physics. The investigators have pioneered the development of simultaneous multiple radionuclide reconstruction methods for diagnostic applications.\n\nThe overall goal of this project is to develop imaging methodologies that may be used to perform accurate RPT dosimetry and treatment planning, especially for alpha emitters. Within this context, the SEE-to-TREAT protocol will provide clinical data and images to validate quantitative reconstruction methods for SPECT imaging.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 80,
+  "conditions": [
+    "Prostate Cancer",
+    "Advanced Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Radium-223",
+      "type": "RADIATION",
+      "description": "Radium-223 will be given as per standard of care or other clinical trial. It is typically administered intravenously via slow injection once every 4 weeks with a dosage of 55 kBq/kg per cycle. Patients typically receive up to six cycles unless unacceptable toxic effects occurred, disease progression is apparent, or the patient is unable or unwilling to adhere to treatment.\n\nThree SPECT/CT studies will be performed for research purposes after 2 cycles in patients who consent to participate in this imaging and dosimetry study. These will be performed at 2-4 hr, 24 hr, and 48 hr after any cycle of Radium-223. Protocol preference is for imaging with 2 cycles, ideally cycle 1 and cycle 6, but imaging with any one or two cycle(s) is acceptable.\n\nThe imaging time at each time point is approximately 30 minutes per field of view with two fields of view (1 hr total) typically collected sequentially (i.e., without repositioning the patient on the imaging table)."
+    },
+    {
+      "name": "177Lu-DOTATATE",
+      "type": "RADIATION",
+      "description": "177Lu-DOTATATE to be given as Standard of Care (SOC) or other clinical trial. It is typically infused intravenously over a period of 20-60 minutes with peptide co-infusion prior and during the infusion.\n\nPatients will receive 4 cycles of 177Lu-DOTATATE administered approximately every 8 weeks. Treatment cycle is defined as 8 consecutive weeks (D1-D56) following a dose of 177Lu-DOTATATE. Patients receive up to four infusions of 7.4 GBq (200 mCi) every 8 weeks unless unacceptable toxic effects occurred, disease progression is apparent, or the patient is unable or unwilling to adhere to treatment.\n\nThree SPECT/CT studies will be performed for research purposes after 2 cycles in patients who consent to participate in this imaging and dosimetry study. Lu-177 SPECT CT will be performed at 24 (D2), 48 (D3), and 96 (D5) of any cycle of therapy.\n\nImaging time at each time point is \\~ 15-22 minutes per field of view with two fields of view (45 min total) typically collected sequentially."
+    },
+    {
+      "name": "177Lu-PSMA-617",
+      "type": "RADIATION",
+      "description": "177Lu-PSMA-617 will be given as per SOC or other clinical trial. It is typically infused intravenously over a period of 20-60 minutes.\n\nUp to 6 cycles of 177Lu- PSMA-617 will be administered approximately every 6 weeks. Treatment cycle is defined as 6 consecutive weeks (D1-D42) following a dose of 177Lu- PSMA-617. Patients will receive up to six infusions of 7.4 GBq (200 mCi) every 6 weeks unless unacceptable toxic effects occurred, disease progression is apparent, or the patient is unable or unwilling to adhere to treatment.\n\nThree SPECT/CT studies will be performed for research purposes after 2 cycles in patients who consent to participate in this imaging and dosimetry study. Lu-177 SPECT CT will be performed at 24 (D2), 48 (D3), and 96 (D5) of any cycle of therapy.\n\nImaging time at each time point is approximately 15-22 minutes per field of view with two fields of view (45 min total) typically collected sequentially."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Cohort A: Patients with advanced prostate cancer planning to undergo treatment with Radium-223\n* Cohort B: Patients with advanced cancer undergoing treatment with 177Lu-DOTATATE or 177Lu-PSMA-617\n\n  \\*\\*Eligible patients may be planning to undergo these treatments as part of standard of care or as part of another research protocol\n* Age \\> 18 years\n* Eastern Cooperative Oncology Group (ECOG) performance status \u2264 2\n* Histologic confirmation of malignancy\n\nExclusion Criteria:\n\n* Patient is participating in another research protocol that does not allow participation in this imaging protocol or that has schedule of procedures that would not be compatible with this protocol.\n* Patient unable to tolerate SPECT scan time, scan frequency, or position.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Mean absorbed dose to normal organs compared using different quantitative methods",
+      "timeFrame": "48 months",
+      "description": "The mean absorbed dose to normal organs (e.g. kidney) will be calculated for each patient and compared using different quantitative reconstruction methods for SPECT imaging."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2025-02-03",
+  "completion_date": "2029-08",
+  "last_updated": "2025-03-06"
+}

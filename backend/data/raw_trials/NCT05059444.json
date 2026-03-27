@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT05059444",
+  "brief_title": "ORACLE: Observation of ResiduAl Cancer With Liquid Biopsy Evaluation",
+  "official_title": "ORACLE: Observation of ResiduAl Cancer With Liquid Biopsy Evaluation",
+  "brief_summary": "The purpose of ORACLE is to demonstrate the ability of a novel ctDNA assay developed by Guardant Health to detect recurrence in individuals treated for early-stage solid tumors. It is necessary that ctDNA test results are linked to clinical outcomes in order to demonstrate clinical validity for recurrence detection and explore its value in a healthcare environment subject to cost containment.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 2020,
+  "conditions": [
+    "Bladder Carcinoma",
+    "Ureter Carcinoma",
+    "Renal Pelvis Carcinoma",
+    "Non-small Cell Lung Cancer",
+    "Invasive Breast Carcinoma",
+    "Cutaneous Melanoma",
+    "Esophageal Carcinoma",
+    "Gastroesophageal Junction Carcinoma",
+    "Gastric Adenocarcinoma",
+    "Pancreatic Adenocarcinoma",
+    "Squamous Cell Carcinoma of the Head and Neck",
+    "Epithelial Ovarian Carcinoma",
+    "Fallopian Tube Carcinoma",
+    "Endometrial Carcinoma",
+    "Renal Cell Carcinoma",
+    "Rectal Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Guardant Reveal",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Guardant Reveal is a minimal residual disease (MRD) panel for use in recurrence detection of early-stage solid tumors."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age \\> 18 years old AND\n* Initial treatment is given with curative/radical intent AND\n* Are planning to undergo regular follow-up and monitoring for cancer recurrence per standard of care at the enrolling site AND\n* Provided written informed consent to participate in the study AND\n* Are willing to have de-identified clinical data shared with investigators at regular intervals as outlined in the study protocol and informed consent AND\n* Are willing to provide blood samples at enrollment and at subsequent clinical visits coinciding with standard of care follow-up, for up to 5 years as outlined in the study protocol and informed consent AND\n* Have at least one Landmark blood sample\n\nHave a histologically confirmed Index Cancer that qualifies for inclusion, defined as:\n\nPrimary Study Cohorts\n\n* Cohort 1: Cohort 1: Muscle invasive carcinoma of the bladder, ureter, or renal pelvis (stage II-III),\n* Cohort 2: Cohort 2: Non-small cell lung cancer (stage IB-III):\n\nCohort 2A: Resectable OR Cohort 2B: Unresectable,\n\n* Cohort 3: Invasive breast carcinoma with hormone receptor (e.g. estrogen receptor (ER) and progesterone receptor (PR) expression) and human epidermal growth factor receptor 2 (HER2) status known and one the following:\n\nCohort 3A: High-risk2 HER2+ breast cancer (any ER, PR status allowed) OR Cohort 3B: High-risk2 triple negative breast cancer (TNBC) OR Cohort 3C: High-risk3 HR-positive/HER2-negative invasive breast carcinoma,\n\n* Cohort 4: Stage IIB-III cutaneous melanoma or limited (resectable) stage IV melanoma treated with curative intent,\n* Cohort 5: Esophageal or gastroesophageal junction carcinoma (stage II-III),\n* Cohort 6: Gastric adenocarcinoma (stage II-III),\n* Cohort 7: Pancreatic adenocarcinoma that is has been surgically resected or is eligible for surgical resection,\n* Cohort 8: Invasive squamous cell carcinoma of the head and neck (Includes stage I-IVB oral cavity, oropharynx, hypopharynx, larynx, nasopharynx, nasal cavity, and paranasal sinus cancers),\n* Cohort 9: High-risk epithelial ovarian or Fallopian tube carcinoma (Defined as FIGO stage IC-III or stage IA-IB that has high grade or clear cell histology),\n* Cohort 10: High-risk endometrial carcinoma (Defined as 2023 FIGO Stage II-III),\n* Cohort 11: High-risk renal cell carcinoma (Defined as high grade (grade 3-4) stage II, stage III or limited (resectable) stage IV treated with curative intent)\n\nExploratory Cohort\n\n* Cohort 12: Pathologically confirmed adenocarcinoma of the rectum (located up to 15 cm from the anal verge) that is undergoing or underwent a preoperative chemotherapy- or immunotherapy- containing regimen\n\nExclusion Criteria:\n\n* History of allogeneic organ or tissue transplant\n* Index cancer has predominantly neuroendocrine histology\n* History of another primary cancer diagnosed within 3 years of enrollment, with the exception that in situ cancers, non-melanoma skin carcinomas, localized low- or intermediate risk prostate cancers, and stage I papillary thyroid carcinoma, and participants with bilateral/multifocal tumors within the same organ (for example, bilateral breast cancer) are allowed if diagnosed within 3 years of enrollment\n* Known distant metastasis at time of enrollment (with the exception of participants with limited/resectable stage IV cutaneous melanoma or RCC)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Astera Cancer Care",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Crozer-Keystone Health System",
+      "city": "Broomall",
+      "state": "Pennsylvania",
+      "zip": "19008",
+      "status": "TERMINATED"
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Cancer Care Associates of York",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Distant Recurrence Free Interval (D-RFi)",
+      "timeFrame": "3 years",
+      "description": "The primary endpoint, distant recurrence-free interval (D-RFi), will be evaluated for each of the primary study cohorts. D-RFi is defined as the time from the end of primary treatment until the time of diagnosis of a distant recurrence of the Index Cancer. Subjects without a distant recurrence will be censored at the time of last follow-up of their Index Cancer."
+    }
+  ],
+  "sponsor": "Guardant Health, Inc.",
+  "collaborators": [],
+  "start_date": "2021-09-07",
+  "completion_date": "2029-08",
+  "last_updated": "2025-08-18"
+}

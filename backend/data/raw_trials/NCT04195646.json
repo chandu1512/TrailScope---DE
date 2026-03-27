@@ -1,0 +1,53 @@
+{
+  "nct_id": "NCT04195646",
+  "brief_title": "Computer Aided Detection of Polyps During Colonoscopy Procedures",
+  "official_title": "Computer Aided Detection of Polyps During Colonoscopy Procedures",
+  "brief_summary": "The focus of the study is to evaluate impact on Adenomas Per Colonoscopy (APC) with a Computer Aided Detection (CAD) software assisting the gastroenterologist during a colonoscopy procedure.",
+  "detailed_description": "The details of the proposed study are as follows:\n\n1. Colonoscopy will be performed in the same standard of care manner as if no study was taking place. The video signal from the colonoscope will be fed into a computer running the EndoVigilant CAD software in addition to the standard video output to the procedure monitor. The EndoVigilant CAD software will display an annotated video on an additional monitor that includes both the colonoscopy picture and annotation by the software indicating the location of any polyps on the screen.\n2. The endoscopist performing the procedure will therefore be able to observe a standard colonoscopy video on the primary monitor and the annotated video on the second monitor.\n3. The endoscopist will primarily rely on the second monitor (augmented with annotation from EndoVigilant ColonCAD software) but the standard procedure monitor will be always operational and available for maneuvers such as fast insertion, polypectomy etc.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 300,
+  "conditions": [
+    "Colo-rectal Cancer",
+    "Polyp of Colon",
+    "Adenomatous Polyps"
+  ],
+  "interventions": [
+    {
+      "name": "EndoVigilant CAD Software",
+      "type": "DEVICE",
+      "description": "The CAD software is deep learning algorithm used to aid in the detection of polyps (abnormal tissue growths in the wall of the colon and adenomas (pre-cancerous growths) during colonoscopy. In its current form, the CAD software is installed on a computer system unit that utilizes an an operating system."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patient presenting for routine colonoscopy for screening and/or surveillance purposes\n* Ability to provide written, informed consent and understand the responsibilities of study participation\n\nExclusion Criteria:\n\n* Patients with diminished cognitive capacity\n* Patients with inflammatory bowel disease, ulcerative colitis or Crohn's colitis\n* Patients with incomplete colonoscopies (due to technical difficulties or poor bowel prep)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "85 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Greenbelt Endoscopy Center",
+      "city": "Greenbelt",
+      "state": "Maryland",
+      "zip": "20706",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Adenomas Per Colonoscopy",
+      "timeFrame": "1 hour",
+      "description": "Averaged Adenomas Per Colonoscopy (APC), to determine if the use of CAD software identifies more adenomas per colonoscopy. This will be generated for the entire study as well as each investigator. This prospectively collected data will be compared against APC for same number of past procedures performed without use of EndoVigilant CAD system, both at aggregate and physician level."
+    }
+  ],
+  "sponsor": "EndoVigilant Inc",
+  "collaborators": [],
+  "start_date": "2019-10-01",
+  "completion_date": "2020-02-28",
+  "last_updated": "2021-09-01"
+}

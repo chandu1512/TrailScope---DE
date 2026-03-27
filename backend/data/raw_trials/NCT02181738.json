@@ -1,0 +1,78 @@
+{
+  "nct_id": "NCT02181738",
+  "brief_title": "Study of Nivolumab in Patients With Classical Hodgkin's Lymphoma (Registrational)",
+  "official_title": "Non-Comparative, Multi-Cohort, Single Arm, Open-Label, Phase 2 Study of Nivolumab (BMS-936558) in Classical Hodgkin Lymphoma (cHL) Subjects",
+  "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of Nivolumab in previously treated (cohorts, A, B \\& C) or newly diagnosed (cohort D) classical Hodgkin Lymphoma participants.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 294,
+  "conditions": [
+    "Hodgkin Disease"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Doxorubicin",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Vinblastine",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Dacarbazine",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Must have received prior high-dose conditioning chemotherapy followed by autologous stem cell transplant (ASCT) as a part of salvage therapy for cHL (cohort A, B \\& C - enrollment closed)\n* Participants may be Brentuximab vedotin- na\u00efve, or may have had prior Brentuximab vedotin treatment (cohort A, B \\& C - enrollment closed)\n* Newly diagnosed and previously untreated classical Hodgkin Lymphoma (cohort D)\n\nExclusion Criteria:\n\n* Known central nervous system lymphoma\n* Participants with nodular lymphocyte-predominant Hodgkin Lymphoma\n* Prior allogeneic stem cell transplantation (SCT)\n* Chest radiation \u2264 24 weeks prior to first dose\n* Carmustine \u2265 600 mg/m\u00b2 received as part of the pre-transplant conditioning regimen",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0047",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0006",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR) Based on IRRC Assessments in Cohorts A, B, and C",
+      "timeFrame": "From first dose to the date of initial objectively documented progression or the date of subsequent therapy, whichever occurred first (up to approximately 28 months)",
+      "description": "ORR is the percent of participants achieving either a complete remission (CR) or partial remission (PR) according to the 2007 IWG criteria. Analyses of efficacy endpoints were performed separately for each cohort, according to IWG 2007. For cohort A and B, if the bone marrow was involved by lymphoma before treatment, the infiltrate must have cleared on repeat bone marrow biopsy. For cohort C, no evidence of FDG-avid disease in bone marrow was required in all participants in lieu of bone marrow aspirate/ biopsy.\n\nCR is the percent of participants with a best overall response (BOR) of CR (disappearance of all evidence of disease) according to the 2007 IWG criteria, based on IRRC assessment.\n\nPR is the percent of participants with a best overall response (BOR) of PR (regression of measurable disease and no new sites) according to the 2007 IWG criteria, based on IRRC assessment.\n\nConfidence interval based on Clopper-Pearson method."
+    },
+    {
+      "measure": "Number of Participants Who Experienced at Least One Treatment Related Grade 3-5 AE in Cohort D",
+      "timeFrame": "From first dose of the considered therapy phase to 30 days after last dose of study therapy phase (or up to first dose of combination if any when considering the monotherapy period) (an average of 8 months and a maximum of 11 months)",
+      "description": "An Adverse Event (AE) is defined as any new untoward medical occurrence or worsening of a preexisting medical condition in a clinical investigation subject administered study drug and that does not necessarily have a causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (such as an abnormal laboratory finding), symptom, or disease temporally associated with the use of study drug, whether or not considered related to the study drug."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2014-08-12",
+  "completion_date": "2022-12-27",
+  "last_updated": "2023-11-27"
+}

@@ -1,0 +1,84 @@
+{
+  "nct_id": "NCT06215118",
+  "brief_title": "A Study to Learn About the Effects of the Combination of Elranatamab (PF-06863135) and Iberdomide in Patients With Relapsed or Refractory Multiple Myeloma (MagnetisMM-30)",
+  "official_title": "A PHASE 1B, OPEN-LABEL STUDY OF ELRANATAMAB IN COMBINATION WITH IBERDOMIDE IN PARTICIPANTS WITH RELAPSED REFRACTORY MULTIPLE MYELOMA",
+  "brief_summary": "The main purpose of the study is to understand how safe and tolerable is elranatamab when given along with iberdomide.\n\nThere are 2 parts to this study. Part 1 will look at how safe and tolerable is elranatamab when given with iberdomide. Part 2 will look at the correct amount of this combination that can be given to patients with relapsed or refractory multiple myeloma.\n\nMyeloma is a type of cancer that begins in plasma cells (white blood cells that produce antibodies). Refractory means a disease or condition that does not respond to treatment. Relapsed means the return of a disease after a period of improvement.\n\nAll study medicines are given in cycles that last 28 days. Everyone taking part in this study will receive elranatamab as a shot under the skin. Iberdomide will be taken by mouth once a day for 21 days over a 28-day cycle.\n\nParticipants will receive study medicine until:\n\n* their disease progresses or,\n* they experience unacceptable side effects or,\n* they choose to no longer take part in the study.\n\nThe study will look at the experiences of people receiving the study medicines. This will help see if the study medicines are safe and can be used for multiple myeloma treatment.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 87,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Elranatamab",
+      "type": "DRUG",
+      "description": "BCMA-CD3 bispecific antibody"
+    },
+    {
+      "name": "Iberdomide",
+      "type": "DRUG",
+      "description": "cereblon-modulating agent"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Prior diagnosis of multiple myeloma as defined by IMWG criteria\n* Measurable disease based on IMWG criteria as defined by at least 1 of the following:\n* Serum M-protein \u22650.5 g/dL by SPEP\n* Urinary M-protein excretion \u2265200 mg/24 hour by UPEP\n* Serum immunoglobulin FLC \u226510 mg/dL (\u2265100 mg/L) AND abnormal serum immunoglobulin kappa to lambda FL ratio (\\<0.26 or \\>1.65)\n* Part 1: Received 2-4 prior lines of therapy for multiple myeloma, consisting of at least 1 immunomodulatory drug and 1 proteasome inhibitor.\n* Part 2: Received 1-3 prior lines of therapy for multiple myeloma, consisting of at least 1 immunomodulatory drug and 1 proteasome inhibitor.\n* ECOG performance status 0-1\n* Resolved acute effects of any prior therapy to baseline severity or CTCAE Grade \u22641\n\nExclusion Criteria:\n\n* Plasma cell leukemia, Smoldering multiple myeloma, Waldenstr\u00f6m's macroglobulinemia, Amyloidosis, POEMS Syndrome\n* Impaired cardiovascular function or clinically significant cardiovascular diseases\n* Stem cell transplant within 12 weeks prior to enrollment or active graft vs host disease\n* Participants with any active, uncontrolled bacterial, fungal, or viral infection\n* Any other active malignancy within 3 years prior to enrollment, except for adequately treated basal cell or squamous cell skin cancer, or carcinoma in situ\n* Previous treatment with:\n* BCMA-directed or CD3 redirecting therapy\n* Iberdomide (CC-220) or Mezigdomide\n* Administration of strong inhibitor or inducer of CYP3A4/5 within 2 weeks prior to dosing and during the study\n* Administration with an investigational product within 30 days preceding the first dose of study intervention\n* Participant is unable or unwilling to undergo protocol required thromboembolism prophylaxis",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "MSK Basking Ridge",
+      "city": "Basking Ridge",
+      "state": "New Jersey",
+      "zip": "07920",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "MSK Monmouth",
+      "city": "Middletown",
+      "state": "New Jersey",
+      "zip": "07748",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "MSK Bergen",
+      "city": "Montvale",
+      "state": "New Jersey",
+      "zip": "07645",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1: Number of participants with dose limiting toxicity (DLT)",
+      "timeFrame": "Cycle 1, about 28 days",
+      "description": "Dose limiting toxicity rate based on dose limiting toxicity evaluable participants"
+    },
+    {
+      "measure": "Part 2: Number of participants with Adverse Events (AE) by Seriousness and Relationship to Treatment",
+      "timeFrame": "Assessed from baseline up to 90 days after last dose of study treatment",
+      "description": "Number of participants with AE among participants who take at least 1 dose of study intervention. AEs are categorized by seriousness and relationship to treatment. Relatedness to study drug is assessed by investigator."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2024-02-20",
+  "completion_date": "2028-03-09",
+  "last_updated": "2026-02-04"
+}

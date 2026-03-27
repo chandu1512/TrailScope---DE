@@ -1,0 +1,49 @@
+{
+  "nct_id": "NCT04119960",
+  "brief_title": "Clinical Validation of InferRead Lung CT.AI",
+  "official_title": "Clinical Validation of InferRead Lung CT.AI",
+  "brief_summary": "Lung cancer is the second most common cause of cancer-related death in men and women. Early pulmonary nodule screening is an effective means to prevent lung cancer, which is no less important than the diagnosis and treatment of lung cancer. Early lung cancer screening has been investigated and applied as a medical practice. InferRead Lung CT.AI by Infervision is a dedicated post processing application that generates CADe marks as an overlay on the original CT series intended to aid the radiologist in the detection of pulmonary nodules. This study was designed to evaluate radiologists' performance in detecting actionable nodules on chest CT when aided by InferRead.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 250,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Aided read with InferRead Lung CT.AI",
+      "type": "DEVICE",
+      "description": "Radiologists read chest CT scans with the aid of InferRead Lung CT.AI"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Lung cancer screening eligible patients\n\nExclusion Criteria:\n\n\\-",
+    "gender": "ALL",
+    "min_age": "55 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Detection accuracy",
+      "timeFrame": "20 hours",
+      "description": "The primary objective of this clinical study is to demonstrate that a radiologist review of a CT scan aided with InferRead Lung CT.AI significantly improves detection of actionable lung nodules. Area under the ROC curve, Sensitivity, specificity, PPV, NPV will be reported, compared between unaided and aided reads."
+    }
+  ],
+  "sponsor": "Infervision",
+  "collaborators": [],
+  "start_date": "2019-01-10",
+  "completion_date": "2019-10-30",
+  "last_updated": "2020-07-27"
+}

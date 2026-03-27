@@ -1,0 +1,99 @@
+{
+  "nct_id": "NCT02872116",
+  "brief_title": "Efficacy Study of Nivolumab Plus Ipilimumab or Nivolumab Plus Chemotherapy Against Chemotherapy in Stomach Cancer or Stomach/Esophagus Junction Cancer",
+  "official_title": "A Randomized, Multicenter, Open-Label, Phase 3 Study of Nivolumab Plus Ipilimumab or Nivolumab in Combination With Oxaliplatin Plus Fluoropyrimidine Versus Oxaliplatin Plus Fluoropyrimidine in Subjects With Previously Untreated Advanced or Metastatic Gastric or Gastroesophageal Junction Cancer",
+  "brief_summary": "The main purpose of this study is to compare how long patients with gastric or gastroesophageal junction cancer live after receiving nivolumab and ipilimumab or nivolumab and chemotherapy compared with patients receiving chemotherapy alone.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 2031,
+  "conditions": [
+    "Gastric Cancer",
+    "Gastroesophageal Junction Cancer",
+    "Esophageal Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Ipilimumab",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Oxaliplatin",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Capecitabine",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Leucovorin",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Fluorouracil",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male or Female at least 18 years of age\n* Must have gastric cancer or gastroesophageal junction cancer that cannot be operated on and that is advanced or has spread out\n* Did not receive neoadjuvant or adjuvant treatment (chemotherapy, radiotherapy, or both) for their disease within the last 6 months\n* Must have full activity or, if limited, must be able to walk and carry out light activities such as light house work or office work\n* Must agree to provide tumor tissue sample, either from a previous surgery or biopsy within 6 months or fresh, prior to the start of treatment in this study\n\nExclusion Criteria:\n\n* Presence of tumor cells in the brain or spinal cord that have not been treated\n* Active known or suspected autoimmune disease\n* Any serious or uncontrolled medical disorder or active infection\n* Known history of positive test for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS)\n* Any positive test result for hepatitis B or C indicating acute or chronic infection\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0021",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": ""
+    },
+    {
+      "facility": "Lehigh Valley Health Network",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18105",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0065",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS) in Participants Treated With Nivolumab Plus Chemotherapy vs Chemotherapy With PD-L1 CPS \u2265 5",
+      "timeFrame": "From the date of randomization up to the date of death, up to approximately 17 months",
+      "description": "Overall survival (OS), defined as the time from randomization to the time of death, in participants treated with Nivolumab plus Chemotherapy vs Chemotherapy with PD-L1 CPS (combined positive score) \u2265 5. CPS is defined as the number of PD-L1 staining cells (tumor cells, lymphocytes, macrophages) divided by the total number of viable tumor cells, multiplied by 100."
+    },
+    {
+      "measure": "Progression Free Survival (PFS) in Participants Treated With Nivolumab Plus Chemotherapy vs Chemotherapy With PD-L1 CPS \u2265 5",
+      "timeFrame": "From randomization to the date of the first documented progressive disease (PD) per BICR or death due to any cause (up to approximately 10 months)",
+      "description": "Progression Free Survival (PFS) is defined as the time from randomization to the date of the first documented PD or death due to any cause. PD is determined by blinded independent committee review (BICR) per RECIST1.1 criteria in participants treated with Nivolumab plus Chemotherapy vs Chemotherapy with PD-L1 CPS \u2265 5. Progressive disease (PD) is defined as at least a 20% increase in the sum of diameters of target lesions, taking in reference the smallest sum on study that also demonstrated an absolute increase of at least 5 mm. CPS is defined as the number of PD-L1 staining cells (tumor cells, lymphocytes, macrophages) divided by the total number of viable tumor cells, multiplied by 100."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "Ono Pharmaceutical Co. Ltd"
+  ],
+  "start_date": "2016-10-12",
+  "completion_date": "2024-06-06",
+  "last_updated": "2025-07-21"
+}

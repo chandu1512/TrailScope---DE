@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT04986423",
+  "brief_title": "ZEN003694 and Enzalutamide Versus Enzalutamide Monotherapy in Metastatic Castration-Resistant Prostate Cancer",
+  "official_title": "A Randomized Phase 2b Study of ZEN003694 in Combination With Enzalutamide Versus Enzalutamide Monotherapy in Patients With Metastatic Castration-Resistant Prostate Cancer",
+  "brief_summary": "This is an open-label, randomized, Phase 2b study of ZEN003694 in combination with enzalutamide vs. enzalutamide monotherapy in patients with mCRPC who have progressed on prior abiraterone by PCWG3 criteria. Disease must have progressed on only abiraterone by PCWG3 criteria prior to study entry.\n\nThe patient population will be separated into two cohorts:\n\nCohort A: Patients with poor response to prior abiraterone defined as:\n\n* Abiraterone started in hormone-sensitive prostate cancer (HSPC) disease setting: \\< 12 months duration on abiraterone or failure to achieve PSA nadir of 0.2 ng/mL while taking abiraterone, or;\n* Abiraterone started in castrate-resistant prostate cancer (CRPC) disease setting: \\< 6 months duration on abiraterone or failure to achieve PSA50 response while on abiraterone\n\nCohort B: Patients with response to prior abiraterone, defined as:\n\n* Abiraterone started in hormone-sensitive prostate cancer (HSPC) disease setting: \u2265 12 months duration on abiraterone and nadir PSA \\< 0.2 ng/mL, or;\n* Abiraterone started in castrate-resistant prostate cancer (CRPC) disease setting: \u2265 6 months duration on abiraterone and confirmed PSA50 response",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "Metastatic Castration-Resistant Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "ZEN003694",
+      "type": "DRUG",
+      "description": "72 mg PO QD"
+    },
+    {
+      "name": "Enzalutamide",
+      "type": "DRUG",
+      "description": "160 mg PO QD"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Males age \u2265 18 years\n2. Metastatic, castration-resistant, histologically confirmed prostate cancer\n3. Surgical castration or continuous medical castration for \u2265 8 weeks prior to screening; serum testosterone \\< 50 ng/dL confirmed within 4 weeks of first administration of study drug\n4. Have progressed on prior abiraterone treatment by PCWG3 criteria\n5. Patients who are not candidates for chemotherapy in the opinion of the investigator or patients who decline chemotherapy\n6. Cohort A only - Patient must meet definition of poor responder to abiraterone by one of the following:\n\n   1. Abiraterone started in hormone-sensitive prostate cancer (HSPC) disease setting: \\< 12 months duration on abiraterone or failure to achieve PSA nadir of 0.2 ng/mL while taking abiraterone\n   2. Abiraterone started in castrate-resistant prostate cancer (CRPC) disease setting: \\< 6 months duration on abiraterone or failure to achieve a PSA50 response\n7. Cohort B only - Patient must meet definition of responder to abiraterone by one of the following:\n\n   1. Abiraterone started in hormone-sensitive prostate cancer (HSPC) disease setting: \u2265 12 months duration on abiraterone and nadir PSA \\< 0.2 ng/mL\n   2. Abiraterone started in castrate-resistant prostate cancer (CRPC) disease setting: \u2265 6 months duration on abiraterone and PSA50 response\n8. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n\nExclusion Criteria:\n\n1. Any history of brain metastases, prior seizure, conditions predisposing to seizure activity\n2. Have previously received an investigational BET inhibitor (including previous participation in this study or a study of ZEN003694)\n3. Receipt of prior second-generation androgen receptor inhibitors (e.g. enzalutamide, apalutamide, darolutamide, proxalutamide). Receipt of first-generation AR antagonists (e.g. bicalutamide, nilutamide, flutamide) does not count towards this limit.\n4. Have received prior chemotherapy in the metastatic castration-resistant setting (prior chemotherapy in the hormone-sensitive setting is allowed provided last dose was at least 6 months prior to first dose of study drug)\n5. Have received prior systemic anti-cancer therapy within 2 weeks or five half-lives, whichever is shorter, prior to the first administration of study drug\n6. Have received exogenous administration of testosterone therapy since discontinuation of abiraterone.\n7. Failure to recover to Grade 1 or lower toxicity related to prior systemic therapy (excluding alopecia and neuropathy) prior to study entry\n8. Radiation therapy within 2 weeks of the first administration of study drug",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Oncology Hematology, P.A.",
+      "city": "Columbia",
+      "state": "Maryland",
+      "zip": "21044",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cohort A: Radiographic progression-free survival (rPFS) by BICR",
+      "timeFrame": "Randomization up to 30 months",
+      "description": "Time from date of randomization to the date of first disease radiographic progression or death for any reason. Radiographic progression disease will be evaluated by RECIST 1.1 and PCWG3."
+    }
+  ],
+  "sponsor": "Zenith Epigenetics",
+  "collaborators": [
+    "Astellas Pharma Inc",
+    "Newsoara Biopharma Co., Ltd."
+  ],
+  "start_date": "2021-09-08",
+  "completion_date": "2026-06",
+  "last_updated": "2025-01-23"
+}

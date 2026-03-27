@@ -1,0 +1,126 @@
+{
+  "nct_id": "NCT00267748",
+  "brief_title": "Sunitinib Malate Schedule 4/2 vs. Sunitinib Malate Continuous Dosing As First-Line Therapy For Metastatic Renal Cell Cancer (RCC)",
+  "official_title": "A Randomized Phase II Study Of The Efficacy And Safety Of Sunitinib Malate Schedule 4/2 vs. Sunitinib Malate Continuous Dosing As First-Line Therapy For Metastatic Renal Cell Cancer (Renal EFFECT Trial)",
+  "brief_summary": "This trial has two parts. The purpose of the first part of the trial is to determine the doses of 2 drugs, sunitinib malate and interferon alfa-2b, that can be given safely in combination. This part is currently closed to enrollment.\n\nThe purpose of the second part of the trial is to see if sunitinib malate given on a 4/2 schedule (4 weeks on treatment, 2 weeks off treatment cycle) is any better at delaying progression of renal cell cancer than sunitinib malate given on a continuous dosing schedule. The trial will also determine the number of patients whose cancer responds to the treatments, whether life of patients can be extended, what the side effects are of the treatments, how bothersome disease or treatment-related symptoms are to patients, and whether tests can be found that will predict which patients may or may not respond to these treatments in the future.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 317,
+  "conditions": [
+    "Carcinoma, Renal Cell"
+  ],
+  "interventions": [
+    {
+      "name": "Sunitinib Malate Continuous Daily Dosing",
+      "type": "DRUG",
+      "description": "Sunitinib malate starting dose 37.5 mg daily continuous daily regimen."
+    },
+    {
+      "name": "Sunitinib Malate Schedule 4/2",
+      "type": "DRUG",
+      "description": "Sunitinib malate starting dose 50 mg per day for four weeks, followed by a two week off-drug period. This six week cycle is repeated."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Advanced renal cell carcinoma of clear cell origin or a component of clear cell histology.\n* Measurable disease\n\nExclusion Criteria:\n\n* Prior systemic therapy of any kind for advanced renal cell cancer\n* History of brain metastases\n* Uncontrolled hypertension",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19718",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19899",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Dunmore",
+      "state": "Pennsylvania",
+      "zip": "18512-3169",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Lemoyne",
+      "state": "Pennsylvania",
+      "zip": "17043-1440",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18508",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Time to Tumor Progression (TTP) Assessed Using Memorial Sloan-Kettering Cancer Center (MSKCC) Prognostic Factors Model",
+      "timeFrame": "From date of randomization until the date of first documented progression or date of death due to any cause, assessed up to a maximum of 2 years",
+      "description": "MSKCC Prognostic Factor Model assessed as low(0),intermediate(1-2) or high(=\\>3) based on number of criteria present such as Karnofsky performance status \\< 80 %, Lactate dehydrogenase \\> 1.5 \\* Upper limit of Normal,Hemoglobin \\< lower limit of normal, serum calcium \\> 10 mg/dL;Time from first diagnosis of renal cell carcinoma to start of systemic therapy of \\< 1 year.TTP was time from start of study treatment to first documentation of objective tumor progression or death due to cancer.TTP was calculated as (first event date minus date of first dose of study medication plus 1) divided by 30.44."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2005-12",
+  "completion_date": "2010-06",
+  "last_updated": "2011-08-03"
+}

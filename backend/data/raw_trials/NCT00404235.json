@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT00404235",
+  "brief_title": "Carboplatin and ABI-007 in Treating Patients With Stage IV Melanoma That Cannot Be Removed By Surgery",
+  "official_title": "A Phase II Trial of Carboplatin (CBDCA) and ABI-007(ABX) in Patients With Unresectable Stage IV Melanoma",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as carboplatin and ABI-007, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells.\n\nPURPOSE: This phase II trial is studying the side effects and how well giving carboplatin together with ABI-007 works in treating patients with stage IV melanoma that cannot be removed by surgery.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* Assess the safety and antitumor activity of carboplatin and paclitaxel albumin-stabilized nanoparticle formulation (ABI-007) in patients with unresectable stage IV melanoma who have not received prior chemotherapy for their metastatic disease. (Cohort 1)\n* Assess the safety and antitumor activity of this regimen in patients with unresectable stage IV melanoma who have received prior chemotherapy for their metastatic disease. (Cohort 2)\n\nSecondary\n\n* Describe the impact of this regimen on parameters of immune function and angiogenesis in these patients.\n\nOUTLINE: This is a multicenter study. Patients are stratified according to prior chemotherapy for metastatic disease (yes vs no).\n\nPatients receive paclitaxel albumin-stabilized nanoparticle formulation (ABI-007) IV over 30 minutes followed by carboplatin IV over 30 minutes on days 1, 8, and 15. Treatment repeats every 28 days for at least 8 courses in the absence of disease progression or unacceptable toxicity.\n\nBlood and tumor tissue samples are collected periodically to evaluate secreted protein acidic and rich in cysteine (SPARC) content of tumor tissue by immunohistochemistry and to explore the impact of therapy on immune homeostasis. Samples are also analyzed by immunoenzyme techniques for angiogenesis markers.\n\nAfter completion of study treatment, patients are followed periodically for up to 2 years.\n\nPROJECTED ACCRUAL: A total of 74 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 76,
+  "conditions": [
+    "Melanoma (Skin)"
+  ],
+  "interventions": [
+    {
+      "name": "carboplatin",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "paclitaxel albumin-stabilized nanoparticle formulation",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed unresectable stage IV melanoma\n* Measurable disease\n* Must have formalin-fixed, paraffin-embedded tumor tissue available for secreted protein acidic and rich in cysteine (SPARC) analysis pre-treatment (Mayo Clinic patients must be willing to submit a repeat biopsy at time of tumor progression)\n* Brain metastases allowed provided they were previously treated with no progression for \u2265 3 months\n\n  * Patients with known brain metastases may receive concurrent steroid treatment\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-2\n* Life expectancy \u2265 3 months\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Hemoglobin \u2265 9 g/dL (may be transfused to meet this requirement)\n* Creatinine \u2264 1.5 times upper limit of normal (ULN)\n* Total bilirubin \u2264 1.5 times ULN (elevated bilirubin allowed in patients with documented Gilbert's syndrome)\n* AST \u2264 2.5 times ULN\n* Alkaline phosphatase \u2264 2.5 times ULN\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for 1 month after completion of study therapy\n* No uncontrolled intercurrent illness including, but not limited to, the following:\n\n  * Active infection\n  * Congestive heart failure (New York Heart Association class III-IV heart disease)\n* No peripheral neuropathy \u2265 grade 2\n* No other malignancy within the past 5 years except basal cell or squamous cell carcinoma of the skin previously treated with local resection only or carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Recovered from prior therapy\n* At least 4 weeks since prior radiotherapy\n* At least 4 weeks since prior interferon or interleukin-2\n* At least 4 weeks since prior chemotherapy (cohort 1 )\n* No prior chemotherapy in the metastatic setting (cohort 2)\n* No prior treatment for melanoma with any of the following agents:\n\n  * Platinum chemotherapy (e.g., carboplatin or cisplatin)\n  * Taxanes (e.g., paclitaxel or docetaxel)\n  * Paclitaxel albumin-stabilized nanoparticle formulation (ABI-007)\n* No other concurrent chemotherapy\n* No other concurrent investigational agents\n* No concurrent radiotherapy, including palliative radiotherapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Morgan Cancer Center at Lehigh Valley Hospital - Cedar Crest",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18105",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Tumor Response Rate, as Measured by RECIST Criteria",
+      "timeFrame": "Up to 2 years",
+      "description": "The RECIST criteria will be used for response assessments. Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \\>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR. A confirmed tumor response is defined to be either a CR or PR noted as the objective status on 2 consecutive evaluations at least 4 weeks apart. The tumor response rate is defined as the total number of eligible patients who achieved a complete or partial response according to the RECIST criteria divided by the total number of eligible patients enrolled on study. All patients meeting the eligibility criteria who have signed a consent form and have begun treatment will be evaluable for response."
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2006-10",
+  "completion_date": "2010-03",
+  "last_updated": "2018-09-17"
+}

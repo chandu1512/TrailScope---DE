@@ -1,0 +1,43 @@
+{
+  "nct_id": "NCT00057252",
+  "brief_title": "Development of Computer-aided Detection and Diagnosis From Imaging Techniques",
+  "official_title": "Development and Evaluation of Techniques for Computer Aided Detection and Diagnosis From Radiologic Images",
+  "brief_summary": "This study will develop and evaluate new techniques for computer-aided detection and diagnosis (CAD) of medical problems using images from diagnostic tests such as computed tomography (CT), ultrasound, nuclear medicine and x-ray images. The Food and Drug Administration has approved CAD techniques for detecting masses and calcifications on mammography and lung nodules using chest x-rays. Many other applications of CAD would potentially benefit patients. This study will explore additional uses of CAD.\n\nThe study will use imaging data, demographic information, and other medical information from the medical charts of Clinical Center patients to test and evaluate new CAD applications. Such applications include detection of subcutaneous (under the skin) lesions in melanoma patients, bone lesions in patients with advanced cancer, and pulmonary emboli (blood clot lodged in a lung artery) in patients who are known to have pulmonary emboli, and other uses.",
+  "detailed_description": "Radiologic images are becoming more and more complex, and utilization of radiologic techniques is accelerating. Radiologists and other clinicians are being inundated with radiologic data. Computer aided detection and diagnosis (CAD) have the potential to improve patient care by increasing sensitivity of diagnostic tests, reducing false positives and improving physician efficiency. Computer aided detection and diagnosis have been under development for many years yet there is still much work to be done to move it from the bench to the bedside. The purpose of this project is to develop and evaluate techniques for CAD using the existing radiologic data available in the Clinical Center's Department of Diagnostic Radiology. Such techniques include but are not limited to automated detection of melanoma, bone metastases and pulmonary emboli. The outcome of this study will be algorithms and software that accurately detect lesions on radiologic studies.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 139692,
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "* INCLUSION CRITERIA:\n\nInclusion criteria are the availability of radiologic examinations in the clinical PACS (picture archiving system) in the Clinical Center. Existing Patient scans with and without the target lesion will be included. Examples of target lesions include subcutaneous and bone lesions and pulmonary emboli, although patient scans with other disorders depicted on radiologic studies may be included when appropriate. Patient scans without the target lesion may be included to determine the specificity of the computer aided detection or diagnosis algorithm.\n\nEXCLUSION CRITERIA:\n\nThere are no exclusion criteria.",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health Clinical Center, 9000 Rockville Pike",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "New computer-aided detection methods--algorithms",
+      "timeFrame": "Various",
+      "description": "computer-aided detection methods"
+    }
+  ],
+  "sponsor": "National Institutes of Health Clinical Center (CC)",
+  "collaborators": [],
+  "start_date": "2003-03-20",
+  "completion_date": "2020-10-02",
+  "last_updated": "2021-01-21"
+}

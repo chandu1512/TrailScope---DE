@@ -1,0 +1,57 @@
+{
+  "nct_id": "NCT07154823",
+  "brief_title": "A Longitudinal Multi-Center Molecular Biomarker Discovery Registry for Patients With Hematologic Malignancies",
+  "official_title": "A Longitudinal Multi-Center Molecular Biomarker Discovery Registry for Patients With Hematologic Malignancies",
+  "brief_summary": "The TEMPUS AQUARIUS Study is a non-interventional, longitudinal observational study focused on hematological malignancies. It will collect rich molecular (multi-omic) and clinical data from patient cohorts through serial blood draws and the acquisition of leftover tissue and/or bone marrow aspirates during their routine therapy and disease monitoring. The primary goal is to understand the association between biomarkers and real-world clinical outcomes in these patient populations.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 550,
+  "conditions": [
+    "Acute Myeloid Leukaemia (AML)",
+    "Follicular Lymphoma ( FL)"
+  ],
+  "interventions": [
+    {
+      "name": "None - Observational Study",
+      "type": "OTHER",
+      "description": "There are no interventions in this observational study."
+    }
+  ],
+  "eligibility": {
+    "criteria": "All Cohorts Inclusion Criteria:\n\n1. Willing and able to participate in the research and provide biospecimens\n2. Willing and able to provide informed consent\n\nCohort 001 Inclusion:\n\n1. Have documented diagnosis of AML according to the World Health Organization (WHO) classification\n2. Secondary AML is allowed\n\nCohort 002 Inclusion:\n\n1. Histologically confirmed diagnosis of Follicular Lymphoma (Subgroups A-D)\n2. Submission of baseline sample representative of current disease per laboratory manual (Subgroups A-D)\n3. 002A (Newly Diagnosed Active Observation): On active observation for 6 more or less, or intended for active observation\n4. 002B (Newly Diagnosed, High Risk): Intended for first line treatment\n5. 002B (Newly Diagnosed, High Risk): Meets the criteria for high risk by any of the following: Follicular Lymphoma Inernational Prognostic Index (FLIPI) High Risk, Groupe d'Etude des Lymphomes Follicularies (GELF) High Tumor Burden, Lactate Dehydrogenase (LDH) above the upper limit of normal (ULN)\n6. 002C (Relapsed / Refractory High Risk POD24 FL): Documented progression of disease within 24 months (POD24) of first line follicular lymphoma treatment, prior to second line treatment\n7. 002D (Transformed FL): Pathologically confirmed transformation\n\nAll Cohorts Exclusion Criteria:\n\n1\\. Not willing or able to adhere with the study procedures\n\nCohort 001:\n\n1\\. Have received any prior therapy intended for standard of care (SoC) treatment of AML\n\nCohort 002:\n\n1. 002A: Received prior treatment for follicular lymphoma\n2. 002A: Diagnosed with High Risk follicular lymphoma by any of the following definitions: FLIPI High Risk, GELF High Tumor Burden, LDH above ULN\n3. 002A: Resected patients with NED\n4. 002B: Intended for active observation\n5. 002B: Received prior treatment for follicular lymphoma",
+    "gender": "ALL",
+    "min_age": "0 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The Center for Cancer and Blood Disorders",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Cancer Care Associates of York",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To assess biomarker landscape in the progression as well as baseline biospecimen samples and correlate with with real-world outcomes across multiple hematologic indications.",
+      "timeFrame": "5 years",
+      "description": "The goal of this biomarker discovery registry is to assess DNA and RNA expression patterns and potential biomarkers in biospecimens collected at baseline and throughout treatment, with the goal of generating hypotheses about predictive markers for therapy selection, prognostic indicators, and potential mechanisms of resistance to standard-of-care therapies across multiple hematologic indications."
+    }
+  ],
+  "sponsor": "Tempus AI",
+  "collaborators": [],
+  "start_date": "2026-01-27",
+  "completion_date": "2035-11",
+  "last_updated": "2026-03-02"
+}

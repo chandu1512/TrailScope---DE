@@ -1,0 +1,44 @@
+{
+  "nct_id": "NCT06625203",
+  "brief_title": "A Non-interventional, International, Multicentre Clinical Research Study to Build the Largest Collection of Multimodal Data (Including Clinical Data, Imaging Data and Omics Data) in Oncology",
+  "official_title": "Multi Omics and Spatial Atlas In Cancer",
+  "brief_summary": "Cancer is amongst the leading causes of disease-related morbidity and mortality. A major challenge in cancer treatment is the development of biology-informed, personalised treatment strategies. Recent advances in artificial intelligence (AI) and next-generation sequencing (NGS) technologies have shed further insights into disease biology and treatment pathways, thus identifying new, precision medicine-based therapeutic opportunities.\n\nThe biological mechanisms leading to cancer development and progression arise from complex and plastic networks of dysregulated cellular programs involving many signalling pathways and effector molecules. Cancer cells alter their surrounding environment via cell-cell interactions with non-tumor cells or by secreting cytokines, chemokines and other factors. This reprogramming of the tumour microenvironment (TME) is critical for cancer progression, invasion, and metastasis. Moreover, there are increasing studies that show that both innate and adaptive immune cell types contribute to tumorigenesis and treatment resistance when present within the TME. Understanding the crosstalk between cancer cells and the surrounding TME will inform on mechanisms of sensitivity and resistance to treatment, including immunotherapy (IO) and targeted therapies.\n\nSpatially resolved-Omics is an emerging field that characterises cell types by gene/protein expressions within their spatial context in the tissue organisation. Recent high profile spatial transcriptomics studies have uncovered specific cell identities that define the surrounding TME.\n\nThe MOSAIC study, a collaborative initiative across industry and top oncology hospitals, proposes to go way beyond current cancer molecular profiling projects by combining the generation and analysis of multiple data modalities (3 essential mandatory modalities: Clinical Data, Hematoxylin and Eosin (H\\&E) microscopic image, Spatial transcriptomics; up to 3 high priority data modalities depending on technical feasibility and sample size: bulk Ribonucleic Acid Sequencing (RNAseq), bulk Whole Exome Sequencing (WES), Single-cell transcriptomics; and potentially other optional data modalities and follow-up experiments such as single-cell omics, immunohistochemistry and spatial proteomics or other molecular profiling of proteins and molecules) on a minimum of 2,000 tumour samples across a different cancer indications. This will generate broad molecular and cellular profiling data of the tumour and its microenvironment from cancer patients, integrated with clinical data, at an unprecedented scale and resolution.\n\nThis study will enroll patients diagnosed with one of the eligible cancer indications and for which a formalin fixed paraffin embedded (FFPE) tumor sample from already performed biopsy and/or surgical resection is available within their local pathology archive or their affiliate centers archives.\n\nThe MOSAIC study expects to have a strong impact for patients in terms of new targeted therapeutic drug discovery, identification of patient subgroups requiring either specific treatment or broader clinical care and identification of novel treatment response and resistance mechanisms.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 7000,
+  "conditions": [
+    "Diffuse Large B Cell Lymphoma",
+    "Solid Tumor Cancer"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. That the patient was over the age of 18 when the sample was taken/consented to.\n2. Availability of patient informed consent or non-opposition form to perform exploratory research matching at least one of the MOSAIC objectives (unless authorisation is granted by the local Institutional Review Board / Independent Ethics Committee (IRB/IEC) for the use of samples in the study according to local regulations and law).\n3. Have a confirmed diagnosis based on international criteria for the relevant tumor type.\n4. Confirmed formalin fixed and paraffin embedded (FFPE) tissue availability to generate at least the 3 core data modalities, and preferentially all MOSAIC data modalities.\n5. Confirmed availability of associated clinical data.\n6. Qualification of the paraffin tissue block meeting all of the following:\n\n   * Being of the expected tumor type\n   * For solid tumors (all cancer indications except diffuse large B cell lymphoma (DLBCL)): Tumor cell content ranging from 40% to 80% on an hematoxylin and eosin (H\\&E) section within a specified area as dictated by the lab protocol specific to the technique utilized\n   * For DLBCL, a minimum of 80% of high grade component on an H\\&amp;E section within a specified area as dictated by the lab protocol specific to the technique utilized\n   * Wherever possible, the remaining tissue thickness must be over 125 micrometers (indicative range)\n   * Tumor sample must be \\<10 years old\n\nIn addition, each sub-cohort within each cancer indication will have specific inclusion criteria (e.g., disease stage; sampling site; treatment received\u2026).\n\nExclusion Criteria:\n\n1\\. Samples without a preserved tissue architecture, such as cytologies and cytoblocks.\n\nIn addition, each sub-cohort within each cancer indication may have specific exclusion criteria (e.g. histological subtype; history of immunosuppression; etc\u2026).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15238",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "The primary endpoint will be genes or proteins that present features compatible with drug targeting and/or novel biomarkers, and that are specific to a given patient population within one or more cancer indications.",
+      "timeFrame": "From date of cancer diagnosis until date of death, date of lost of follow-up, date of consent withdrawal, or date of end of study (Dec 2028), whichever occurs first, assessed up to 16 years",
+      "description": "Unsupervised data analysis and outcome measures will be used to achieve this, such as prognosis under treatment, response to specific therapies. The response to therapy will be assessed based on the data related to the treatment and its efficacy collected via an electronic Case Report Form. For each patient at baseline and throughout the MOSAIC follow up period, the following data will help to assess this: all the different cancer treatments (surgery,\u2026) and their outcomes ; the concurrent treatment (drug name, \u2026); the state of the cancer, i.e complete or partial response, or progression, measured at various time-points specific to each tumor type.\n\nBecause the study will utilize tumor samples collected largely \\<10 years ago, survival information may not be present for all patients by the end of the study, especially in slow evolving tumor types. For this reason, we will use tumor type-specific prognostic markers and scores as surrogates of prognosis whenever available and necessary."
+    }
+  ],
+  "sponsor": "OWKIN",
+  "collaborators": [],
+  "start_date": "2023-05-08",
+  "completion_date": "2028-12",
+  "last_updated": "2024-10-01"
+}

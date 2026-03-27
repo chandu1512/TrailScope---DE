@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT07020117",
+  "brief_title": "A Study of [225Ac]Ac-AKY-1189 in Patients With Solid Tumors",
+  "official_title": "NECTINIUM-2: A Phase 1b, 2 Part, Multicenter, Single Arm, Open Label Study to Evaluate the Safety and Efficacy of a Nectin-4 Radiopharmaceutical ([225Ac]Ac-AKY-1189) in Patients With Previously Treated Locally Advanced or Metastatic Solid Tumors",
+  "brief_summary": "This is a first-in-human Phase 1b, 2-part, multicenter open-label clinical study to evaluate safety and efficacy of a Nectin-4 radiopharmaceutical (\\[225Ac\\]Ac-AKY-1189) in patients with locally advanced or metastatic solid tumors and to establish the maximum tolerated dose (MTD) or maximum administered dose (MAD) and the recommended Phase 2 dose.",
+  "detailed_description": "This study consists of two parts (Part 1 and 2).\n\nPart 1 is the dose escalation portion of the study, which will investigate ascending doses of \\[225Ac\\]Ac-AKY-1189 (up to 6 cycles) in patients with locally advanced or metastatic solid tumors. The aim of Part 1 is to determine the maximum tolerated dose (MTD) or maximum administered dose (MAD) and the recommended Phase 2 dose.\n\nPart 2 will be the dose expansion portion of the study and will enroll locally advanced or metastatic solid tumor patients who are identified as Nectin-4 positive by \\[64Cu\\] Cu-AKY-1189. Part 2 aims to further assess the efficacy of \\[225Ac\\]Ac-AKY-1189 at the RP2D in 3 different cohorts of patients.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 150,
+  "conditions": [
+    "Urothelial Carcinoma Bladder",
+    "Triple Negative Breast Cancer (TNBC)",
+    "Hormone Receptor Positive Breast Adenocarcinoma",
+    "Non Small Cell Lung Cancer",
+    "Cervical Adenocarcinoma",
+    "Colorectal Adenocarcinoma",
+    "Head and Neck Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "[225Ac]Ac-AKY-1189 (therapeutic)",
+      "type": "DRUG",
+      "description": "\\[225Ac\\]Ac-AKY-1189 Injection"
+    },
+    {
+      "name": "[64Cu]Cu-AKY-1189 (imaging)",
+      "type": "DRUG",
+      "description": "\\[64Cu\\]Cu-AKY-1189 Injection"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologic or cytologic confirmation of locally advance or metastatic disease\n* Radiologic confirmation on CT of at least one measurable tumor lesion per RECIST v1.1\n* ECOG Performance Status of 0 or 1\n* Adequate end-organ function\n* Ability to give informed consent and comply with study requirements\n* Patients with CNS metastases are eligible if they have received therapy and are neurologically stable, asymptomatic and not receiving corticosteroids\n* Documented disease progression on prior line of therapy for metastatic disease\n\nExclusion Criteria:\n\n* Prior treatment with a therapeutic radiopharmaceutical\n* Prior treatment with a Nectin-4 targeted therapy, except enfortumab vedotin\n* Received an investigational agent within the previous 28days\n* Prior treatment with a cytotoxic chemotherapy, targeted therapy, biologic agent, immunotherapy or external-beam radiotherapy in the 3 weeks prior to study treatment\n* Concurrent serious medical condition that would impair study participation or impact the assessment of treatment related toxicity",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "United Theranostics",
+      "city": "Glen Burnie",
+      "state": "Maryland",
+      "zip": "21061",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 1: Number of Patients with Dose-Limiting Toxicities",
+      "timeFrame": "From enrollment to the end of Cycle 1 (each cycle is 28 days)",
+      "description": "\u2022 Dose-limiting toxicities (DLTs) is defined as any predefined AE occurring during the DLT observation period, except those that are clearly and incontrovertibly due to extraneous circumstances. The number of patients who experience a DLT in Part 1, will be reported by dose level."
+    },
+    {
+      "measure": "Part 1: Occurence of Adverse Events by Severity",
+      "timeFrame": "Up to the End of Treatment (30 days after the last dose)",
+      "description": "\u2022 An AE is defined as any untoward medical occurrence in a participant administered study drug, which does not necessarily have to have a causal relationship with the study drug. The number of patients experiencing an AE in Part 1 will be reported."
+    },
+    {
+      "measure": "Part 2: Objective Response Rate (ORR)",
+      "timeFrame": "Up to 30 days following last administration",
+      "description": "\u2022 Objective response rate is defined as the percentage of patients who achieved a best overall response of confirmed Complete Response (CR) or Partial Response (PR), as determined by the investigator based on RECIST 1.1, by tumor types."
+    }
+  ],
+  "sponsor": "Aktis Oncology, Inc.",
+  "collaborators": [],
+  "start_date": "2025-08-22",
+  "completion_date": "2032-06",
+  "last_updated": "2026-03-02"
+}

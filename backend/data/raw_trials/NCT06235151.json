@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT06235151",
+  "brief_title": "Copper Cu 64 PSMA I&T PET Imaging in Men With Newly Diagnosed Prostate Cancer",
+  "official_title": "Phase 3, Multi-Center, Open-label Study to Test the Diagnostic Performance of Copper Cu 64 PSMA I&T PET/CT in Staging Men With Newly Diagnosed Unfavorable Intermediate-risk, High-risk or Very High-risk Prostate Cancer Electing to Undergo Radical Prostatectomy With Pelvic Lymph Node Dissection",
+  "brief_summary": "This is a prospective, open-label Phase 3 study to evaluate copper Cu 64 PSMA I\\&T injection for PET/CT imaging in patients with newly diagnosed unfavorable intermediate high-risk, high-risk or very high-risk prostate cancer.",
+  "detailed_description": "The study will include approximately 439 patients with newly diagnosed unfavorable intermediate high-risk, high-risk or very high-risk prostate cancer electing to undergo radical prostatectomy with pelvic lymph node dissection. Each patient will be administered an 8 mCi (\u00b1 10 percent) intravenous dose of copper Cu 64 PSMA I\\&T injection. PET/CT imaging will be acquired for all patients at 1-4 hours \u00b1 15 minutes post copper Cu 64 PSMA I\\&T injection.\n\nThe PET/CT images will be interpreted independently by three readers blinded to all patient information. Each patient study will be assessed and scored for the detection of lesions considered positive for Prostate Cancer (PC) in pelvic lymph nodes. Positive lesions in the prostate, extra pelvic lymph nodes, bones and soft tissue/viscera will also be recorded. Analysis of the reads will be used for determination of sensitivity and specificity of copper Cu 64 PSMA I\\&T PET/CT by comparison to the reference standard of histopathology after matching by hemipelvis with at least one true positive lesion defining a true positive patient. Detection of PC outside the pelvis on the copper Cu 64 PSMA I\\&T PET/CT will be assessed using reference standard of histopathology and if not available conventional imaging. Baseline conventional imaging will be reviewed for PC disease or no disease by independent radiology readers.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 439,
+  "conditions": [
+    "Prostate Cancer",
+    "Prostate Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Copper Cu 64 PSMA I&T",
+      "type": "DRUG",
+      "description": "Radiopharmaceutical PET imaging tracer injected intravenously for staging of prostate cancer."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients with histologically proven prostate adenocarcinoma.\n* Planned prostatectomy with pelvic lymph node dissection.\n* Unfavorable intermediate-risk, high-risk, or very high-risk disease defined by NCCN Guidelines Version 1.2023 and previous versions.\n* Male aged greater than or equal to 18 years.\n* Able to understand and provide signed written informed consent.\n\nExclusion Criteria:\n\n* Androgen deprivation therapy, neoadjuvant chemotherapy, radiation therapy (including local ablation techniques), or any investigational therapy against Prostate Cancer (PC) prior to prostatectomy.\n* Patients participating in an interventional clinical trial within 30 days and having received an Investigational Product (IP) within five (5) biological half-lives prior to administration.\n* Patients with any medical condition or circumstance (including receiving an IP or not capable of having a PET study) that the investigator believes may compromise the data collected or lead to a failure to fulfill the study requirements.\n* Patients who are planned to have an x-ray contrast within 24 hours or other PET radiotracer within 10 physical half-lives prior to the PET scan. If Barium contrast is administered this should be cleared before the PET scan.\n* Patients who are administered any high energy (greater than 300 KeV) gamma emitting radioisotopes within five (5) physical half-lives prior to copper Cu 64 PSMA I\\&T administration.\n* Patients with known hypersensitivity to the active substance or any of the excipients of the IP.\n* Patients who had a PSMA PET scan as part of their standard medical care within 90 days prior to enrollment.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "United Theranostics",
+      "city": "Glen Burnie",
+      "state": "Maryland",
+      "zip": "21061",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "United Theranostics",
+      "city": "Princeton",
+      "state": "New Jersey",
+      "zip": "08540",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Sensitivity",
+      "timeFrame": "4 Hours",
+      "description": "Determine the presence of metastatic pelvic lymph nodes relative to histopathology reference standard. At least one positive pelvic lymph node on the PET scan and one positive lymph node as determined by histopathology on the same side of the pelvis (left or right) will be counted a true positive at the patient level."
+    },
+    {
+      "measure": "Specificity",
+      "timeFrame": "4 Hours",
+      "description": "Determine the absence of metastatic pelvic lymph nodes relative to histopathology reference standard. Negative pelvic lymph node on the PET scan and negative pelvic lymph nodes as determined by histopathology on the same side of the pelvis (Left or Right) will be counted a true negative at the patient level."
+    }
+  ],
+  "sponsor": "Curium US LLC",
+  "collaborators": [],
+  "start_date": "2024-04-01",
+  "completion_date": "2026-03",
+  "last_updated": "2026-02-13"
+}

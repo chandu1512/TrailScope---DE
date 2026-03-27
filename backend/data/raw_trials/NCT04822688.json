@@ -1,0 +1,55 @@
+{
+  "nct_id": "NCT04822688",
+  "brief_title": "Analysis of Cell Count, Viability, and Immunogenicity of Discarded Newly Diagnosed Glioblastoma Tissue or Solid Tumor Tissues",
+  "official_title": "Analysis of Cell Count, Viability, and Immunogenicity of Deidentified Discarded Newly Diagnosed Glioblastoma Tissue and More Broadly Other Newly Diagnosed Solid Tumor Tissues From the Operating Room",
+  "brief_summary": "This study examines tumor tissues and blood samples to aid in the development of therapies for brain cancer and other solid tumors. Studying samples of blood and tissue from patients with glioblastoma or other solid tumor in the laboratory may help doctors understand brain tumors and better inform future treatments.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. Assessment of cell yield and percentage of viable cells upon tissue receipt at the cell processing facility.\n\nII. Obtain discarded tumor tissue from surgical resections for further studies to aid in development of future therapies for glioblastoma (GBM) and other solid tumors.\n\nSECONDARY OBJECTIVE:\n\nI. Assessment of cell yield and percentage of viable cells from other solid tumor cells shipped to the cell processing facility.\n\nEXPLORATORY OBJECTIVE:\n\nI. An additional line of inquiry will be devoted to scientific exploration of the product's immunogenicity looking at important variables in the course of manufacture.\n\nOUTLINE:\n\nPatients undergo collection of tissue sample during surgery. Patients also undergo collection of blood sample.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 141,
+  "conditions": [
+    "Glioblastoma",
+    "Malignant Solid Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "Biospecimen Collection",
+      "type": "PROCEDURE",
+      "description": "Undergo collection of tissue and blood samples"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Provide signed and dated informed consent form\n* Any individual \\>= 18 years old\n* Patients must have GBM or other solid tumor and undergoing surgery for diagnostic and therapeutic purposes\n\nExclusion Criteria:\n\n* Individuals less than 18 years old\n* Unable to understand and give consent\n* Patients who are not surgical candidates",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cell yield",
+      "timeFrame": "At study completion, up to 12 months",
+      "description": "This will be determined for each sample. Cell yield data is measured in 106and is assumed to be normally distributed. Summary statistics of mean, standard deviation, 95% confidence interval and range will be reported."
+    },
+    {
+      "measure": "Percentage cell viability",
+      "timeFrame": "At study completion, up to 12 months",
+      "description": "Percentage cell viability will be calculated by the number of viable cells divided by the cell yield. The mean will be computed using the sum of the viable cells divided by the sum of cell yield. The range of percentage cell viability and 95% confidence interval will be provided."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2021-02-03",
+  "completion_date": "2025-06-30",
+  "last_updated": "2026-02-06"
+}

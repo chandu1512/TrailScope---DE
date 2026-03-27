@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT04920617",
+  "brief_title": "DPX-Survivac and Pembrolizumab With and Without Intermittent Low-Dose Cyclophosphamide, in Subjects With Relapsed/Refractory Diffuse Large B-Cell Lymphoma",
+  "official_title": "A Phase 2b, Open-label, Multicenter, Randomized Parallel-Group, Two-Stage, Study of an Immunotherapeutic Treatment DPX-Survivac and Pembrolizumab, With and Without Intermittent Low-Dose Cyclophosphamide, in Subjects With Relapsed/Refractory Diffuse Large B-Cell Lymphoma (VITALIZE)",
+  "brief_summary": "This is a Phase 2b, randomized, open label study to assess the safety and efficacy of DPX-Survivac and pembrolizumab, with and without low-dose cyclophosphamide (CPA) in subjects with relapsed or refractory DLBCL.",
+  "detailed_description": "This is a Phase 2b, randomized, open label study to assess the safety and efficacy of DPX-Survivac and pembrolizumab, with and without low-dose cyclophosphamide (CPA) in subjects with relapsed or refractory DLBCL.\n\nThe study will enroll up to 102 subjects. Eligible subjects will be randomized (1:1) to receive:\n\n* Arm 1: DPX-Survivac, pembrolizumab and intermittent, low-dose CPA; or,\n* Arm 2: DPX-Survivac and pembrolizumab\n\nAll subjects will receive two 0.5 mL doses of DPX-Survivac 3 weeks apart on day 7 (D7) and D28 followed by up to twelve 0.1 mL doses of DPX-Survivac, 8 weeks apart (Q8W).\n\nAll subjects will receive pembrolizumab intravenously (IV) at a flat dose of 200 mg starting at D7 and on day 1 of each 3-week cycle thereafter (i.e., D28, D49, D70 etc.) (Q3W).\n\nFor subjects randomized to Arm 1, intermittent oral CPA at a dose of 50 mg twice a day (BID) is administered from D0 to D6 (7 days) followed by 7 days off. This 14-day cycle of \"7 days on and 7 days off\" will be repeated until the end of study treatment.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 102,
+  "conditions": [
+    "Relapsed Diffuse Large B-cell Lymphoma",
+    "Refractory Diffuse Large B-cell Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "DPX-Survivac",
+      "type": "DRUG",
+      "description": "SC injection on D7 and D28, then every 8 weeks"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "IV infusion every 3 weeks"
+    },
+    {
+      "name": "CPA",
+      "type": "DRUG",
+      "description": "50 mg twice daily, week on then week off"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Adults \u2265 18 years of age who are willing and able to provide written informed consent\n* Have an ECOG performance status of \u2264 1. Subjects with an ECOG performance status of 2 may be enrolled with Medical Monitor approval.\n* Pathologically confirmed diagnosis of DLBCL, as defined by the 2016 World Health Organization classification including DLBCL NOS high-grade B-cell lymphoma with MYC and BCL2 and/or BCL6 rearrangements, Epstein-barr virus (EBV) positive DLBCL, and T cell rich B cell lymphoma (TCRBCL). Subjects with DLBCL transformed from indolent lymphoma (except for Richter's transformation) are eligible.\n* Subjects must have progressive disease following at least two (2) lines of prior systemic therapy for DLBCL; prior treatment must have included an anthracycline and rituximab (or another CD20-targeted agent).\n* Subjects must have failed or be ineligible for ASCT or CAR-T\n* Have at least one bi-dimensionally measurable lesion per Lugano (2014)\n* Willing to provide pre-treatment and on-treatment tumor biopsy tissue.\n* Meet protocol-specified laboratory requirements\n* Life expectancy \\> 3 months.\n\nKey Exclusion Criteria:\n\n* Primary CNS lymphoma or active secondary CNS involvement and/or lymphomatous meningitis\n* Chemotherapy, immunotherapy, major surgery, or investigational agent treatment within 28 days of D0 or 5 half-lives, whichever is shorter\n* Radiotherapy within 14 days of day 0\n* Autologous stem cell transplant (ASCT) within \u02c2100 days prior to D0\n* Chimeric antigen receptor T cell (CAR-T) therapy within \u02c228 days prior to D0\n* Diagnosis of immunodeficiency disorder or history of active autoimmune disease that has required systemic treatment in the past 2 years\n* Uncontrolled significant active infections (controlled Hepatitis B, Hepatitis C, or HIV may be eligible)\n* Prior history of malignancy other than eligible lymphoma sub-types, unless the subject has been free of the disease for \u2265 2 years prior to the start of study treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Allegheny Health Network (AHN) West Penn Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Reading Hospital - McGlinn Cancer Institute",
+      "city": "West Reading",
+      "state": "Pennsylvania",
+      "zip": "19611",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective response rate (ORR) in each of the study arms",
+      "timeFrame": "Approximately 24 months",
+      "description": "Centrally evaluated using Lugano (2014)"
+    }
+  ],
+  "sponsor": "ImmunoVaccine Technologies, Inc. (IMV Inc.)",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2021-06-18",
+  "completion_date": "2025-04",
+  "last_updated": "2023-04-05"
+}

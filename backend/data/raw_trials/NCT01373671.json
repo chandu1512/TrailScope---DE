@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT01373671",
+  "brief_title": "Evaluation of the Efficacy of Digital Breast Tomosynthesis Imaging",
+  "official_title": "Multi-center Case Collection Study to Create a Library of Images From Various Approved FFDM Systems and 3D Images From Siemens Inspiration Digital Breast Tomosynthesis (DBT) System for Studies in Support of the Inspiration DBT Approval",
+  "brief_summary": "The primary objective of this protocol is to collect the 2-dimensional (2D) screening and diagnostic images, and 3-dimensional (3D) Digital Breast Tomosynthesis (DBT) scans from patient mammography examinations acquired on various commercially available Full Field Digital Mammography (FFDM) systems and the Siemens Inspiration DBT system, respectively.",
+  "detailed_description": "The image collection includes FFDM images and both raw and presentation data from the DBT system. The FFDM mammograms are performed using standard care screening or diagnostic mammography from various commercially available FFDM systems. All DBT images are acquired on the Inspiration DBT system specifically for the study, in addition to the clinically indicated screening mammograms. DBT images are read at the clinical sites and any DBT findings were investigated according to standard care.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 764,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "SIEMENS INSPIRATION DIGITAL BREAST TOMOSYNTHESIS (DBT) SYSTEM",
+      "type": "DEVICE",
+      "description": "DBT scan"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nAll subjects enrolled into the collection study must:\n\n* Provide signed informed consent after receiving a verbal and written explanation of the purpose and nature of the study\n* be females, 40 years of age or older at the screening mammographic evaluation or age 30 or older presenting for a biopsy and have one of the following mammograms:\n\n  o Normal cases at screening (BI-RADS\u00ae 1, 2 and 3):\n  * have a screening mammogram that includes the four standard screening views (RCC, RMLO, LCC and LMLO), as well as have both MLO and CC DBT scans of each breast,\n\n    o Actionable cases at screening (BI-RADS\u00ae 0, 4 or 5) with final BI-RADS\u00ae 1, 2, 3, 4 or 5:\n  * have a screening mammogram with four SSVs and any clinically necessary diagnostic mammographic views, such as straight lateral projections, rolled, magnification view and spot compression views, and, both MLO and CC DBT scans of each breast plus 4 SSVs repeated at the diagnostic or biopsy visit if the screening images are unavailable or were acquired more than 45 days prior to DBT acquisition,\n* have supporting ground-truth documentation for the final BI-RADS\u00ae assessment as follows:\n\n  * A one (1) year FFDM follow up without evidence of cancer for normal cases not undergoing biopsy\n  * A six (6) or twelve (12) month FFDM follow up confirming benign status for biopsy proven benign cases\n  * Pathology report for either benign or malignant biopsy finding\n\nExclusion Criteria:\n\nSubjects with any of the following conditions or who have had the following procedures will be excluded from this study:\n\n* Pregnant women or women who believe they may be pregnant or are trying to become pregnant.\n* Mastectomy patients\n* Subjects who have had lumpectomy \u2264 5 years prior to the study entry\n* Inmates (in accordance with 45 CFR 46.306) or mentally disabled individuals\n* BI-RADS\u00ae Category 6 (e.g., for which the mammogram was performed for the purpose of planning cancer therapy)\n* BI-RADS\u00ae Category 4 or 5 without confirming pathology reports will be considered incomplete\n* Subjects with mammograms that lack the required views or with views judged to be technically inadequate will be considered incomplete and the cases will not be considered for the MRMC reader studies\n* Subjects being accrued from the screening population who know that they will not be in the United States or available for follow up mammograms in one year.",
+    "gender": "FEMALE",
+    "min_age": "30 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Siemens Medical Solutions",
+      "city": "Malvern",
+      "state": "Pennsylvania",
+      "zip": "19355",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Efficacy Based on the Area Under the Receiver Operating Characteristic (ROC) Curve in Breasts Analyzed With DBT as an Adjunct to FFDM vs. FFDM Alone",
+      "timeFrame": "1 year",
+      "description": "The primary objective of this study was to demonstrate the superiority of DBT and FFDM images together in comparison to FFDM images alone with respect to the ability of readers to detect and diagnose malignant lesions. A comparison of the breast-level ROC areas was used to evaluate the superiority of DBT as an adjunct to FFDM vs. FFDM alone."
+    }
+  ],
+  "sponsor": "Siemens Medical Solutions USA - CSG",
+  "collaborators": [],
+  "start_date": "2011-05",
+  "completion_date": "2014-05",
+  "last_updated": "2020-08-05"
+}

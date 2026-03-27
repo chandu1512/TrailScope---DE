@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT01858389",
+  "brief_title": "A Study Of Dacomitinib (PF-00299804) In Patients With Advanced Non-Small Cell Lung Cancer",
+  "official_title": "Phase 2 Open Label Trial Of Oral Intermittent Dacomitinib In Patients With Advanced Nsclc",
+  "brief_summary": "This is a Phase 2 study of oral dacomitinib given every 12 hours over days 1-4 of each two-week cycle to patients with Non-small cell lung cancer. The study includes two groups of patients, those whose tumor has a documented T790M mutation, and those without this mutation. All patients will receive repeated cycles of dacomitinib until disease progression, occurrence of unacceptable toxicity, or other withdrawal criteria are met.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 41,
+  "conditions": [
+    "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Dacomitinib",
+      "type": "DRUG",
+      "description": "Dacomitinib 45 mg every 12 hours Days 1-4 of the first week, and then 60 mg every 12 hours Days 1-4 of each 2-week cycle thereafter. The dose of dacomitinib for patients in Cohort A may be further escalated in increments of 15 mg."
+    },
+    {
+      "name": "Dacomitinib",
+      "type": "DRUG",
+      "description": "Dacomitinib 45 mg every 12 hours Days 1-4 of the first week, and then 60 mg every 12 hours Days 1-4 of each 2-week cycle thereafter."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Evidence of histologically confirmed, advanced NSCLC (stage IIIB/IV).\n* Evidence of T790M mutation to enroll in Cohort A.\n* Evidence of measurable disease by radiographic technique.\n* Adequate organ function.\n\nExclusion Criteria:\n\n* Patients with T790M mutation who stopped any prior EGFR-directed therapy without evidence of disease progression.\n* Symptomatic brain metastases.\n* Uncontrolled or significant cardiovascular disease.\n* Pregnant or breastfeeding.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Investigational Drug Service, Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Best Overall Response (BOR) in Participants With T790M Mutation",
+      "timeFrame": "From baseline until disease progression, up to 61 weeks.",
+      "description": "BOR was best response from start of treatment until disease progression, according to the RECIST,v1.1. CR=disappearance of all preexisting lesions except nodal disease, with all nodal lesions decreased to normal size (short axis \\<10 mm) and no appearance of new unequivocal malignant lesions. PR= \u226530% decrease from baseline of sum of diameters of all target lesions with no unequivocal progression of preexisting non-target lesions or appearance of new lesions. CR and PR were confirmed on a follow-up imaging assessment \u22654 weeks after the initial response documentation. Progression= \u226520% increase in the sum of diameters of target measurable lesions above the smallest sum observed, with a minimum absolute increase of 5 mm or unequivocal progression of pre-existing non-target lesions or appearance of any new unequivocal malignant lesions. Stable disease=not qualify for CR, PR or progression. BOR was analyzed only for participants with T790M mutation according to the primary study objective."
+    },
+    {
+      "measure": "Objective Response Rate (ORR) in Participants With T790M Mutation",
+      "timeFrame": "From baseline to disease progression, up to 61 weeks.",
+      "description": "ORR was calculated as the percentage of participants with a confirmed CR or PR relative to the total number of participants enrolled. Response Evaluation Criteria in Solid Tumors (RECIST), version (v) 1.1 were used to define CR and PR. CR=disappearance of all preexisting lesions except nodal disease, with all nodal lesions decreased to normal size (short axis \\<10 mm) and no appearance of new unequivocal malignant lesions. PR= \u226530% decrease from baseline of sum of diameters of all target lesions with no unequivocal progression of preexisting non-target lesions or appearance of new lesions. CR and PR were confirmed on a follow-up imaging assessment \u22654 weeks after the initial response documentation. ORR was analyzed only for participants with T790M mutation according to the primary study objective."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2013-07",
+  "completion_date": "2015-09",
+  "last_updated": "2017-07-17"
+}

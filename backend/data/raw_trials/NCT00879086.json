@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT00879086",
+  "brief_title": "A Study Comparing Eribulin Mesylate and Ixabepilone in Causing or Exacerbating Neuropathy in Participants With Advanced Breast Cancer",
+  "official_title": "A Phase II, Multicenter, Randomized, Open-Label Study Comparing Eribulin Mesylate and Ixabepilone in Causing or Exacerbating Neuropathy in Patients With Advanced Breast Cancer",
+  "brief_summary": "The purpose of this study in patients with advanced breast cancer is to compare the incidence and severity of neuropathy adverse events for the two treatment groups (eribulin versus ixabepilone) using National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE version 3.0) grading.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 104,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Eribulin Mesylate",
+      "type": "DRUG",
+      "description": "E7389 (eribulin mesylate) given at a dose of 1.4 mg/m\\^2 as a 2 to 5 minute intravenous (IV) bolus on Days 1 and 8 of a 21-day cycle.\n\nThe Treatment Phase will include six cycles. Patients may enter the Extension Phase for additional cycles following the sixth cycle of treatment."
+    },
+    {
+      "name": "Ixabepilone",
+      "type": "DRUG",
+      "description": "Ixabepilone given at a starting dose of 32 or 40 mg/m\\^2 (as per approved labeling) as a 3-hour IV infusion on Day 1 of a 21-day cycle.\n\nThe Treatment Phase will include six cycles. Patients may enter the Extension Phase for additional cycles following the sixth cycle of treatment."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria:\n\n1\\. Female subjects with confirmed locally recurrent or metastatic carcinoma of the breast who have received prior taxane therapy and at least one prior cytotoxic chemotherapy regimen for advanced disease.\n\nExclusion criteria:\n\n1. Subjects who have received prior ixabepilone therapy.\n2. Subjects with prior participation in an eribulin clinical study, even if not assigned to eribulin treatment.\n3. Subjects with pre-existing neuropathy Grade greater than or equal to 2.\n4. Subjects with a history of diabetes mellitus Type 1 or 2.\n5. Subjects with bilateral mastectomy which included bilateral axillary lymph node dissection.\n6. Subjects with missing digits required for vibration assessment.\n7. Subjects with any other concurrent diseases or conditions that would be expected to interfere with neuropathy assessments, which may include vitamin deficiency, sequelae of cerebrovascular disease, thyroid insufficiency, lumbar or cervical radiculopathy, or alcoholic or inflammatory neuropathy.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Oncology Hematology, PA",
+      "city": "Columbia",
+      "state": "Maryland",
+      "zip": "21044",
+      "status": ""
+    },
+    {
+      "facility": "Washington County Hospital",
+      "city": "Hagerstown",
+      "state": "Maryland",
+      "zip": "21740",
+      "status": ""
+    },
+    {
+      "facility": "Summit Medical Group",
+      "city": "Berkeley Heights",
+      "state": "New Jersey",
+      "zip": "7922",
+      "status": ""
+    },
+    {
+      "facility": "Joan Knechel Cancer Center",
+      "city": "Mount Arlington",
+      "state": "New Jersey",
+      "zip": "7856",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Treatment-Emergent Neuropathy Adverse Events (AEs)",
+      "timeFrame": "From administration of first dose up to approximately 5 years",
+      "description": "Neuropathy AEs were graded according to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 3.0 and coded according to the current version of the Medical Dictionary for Regulatory Activities (MedDRA). Neuropathy AEs included the broad list of preferred terms (PTs) defined in the Standard MedDRA Query for Neuropathy and the following additional PTs: neuropathy, hyperesthesia, painful response to normal stimuli, pallanesthesia, and allodynia. If the post-baseline maximum CTCAE grade of the combined term \"neuropathy\" was greater than the baseline maximum CTCAE grade of the combined term, then the event was considered as treatment emergent neuropathy adverse events per CTCAE grade. For a single participant, 1) a neuropathy AE occurring more than once during the study, whether defined with the same or different MedDRA PTs, was counted only once, 2) a neuropathy AE with different CTCAE grades had only the highest grade AE counted."
+    }
+  ],
+  "sponsor": "Eisai Inc.",
+  "collaborators": [],
+  "start_date": "2009-03-31",
+  "completion_date": "2014-04-30",
+  "last_updated": "2023-06-20"
+}

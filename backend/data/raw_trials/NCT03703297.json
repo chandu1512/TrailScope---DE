@@ -1,0 +1,101 @@
+{
+  "nct_id": "NCT03703297",
+  "brief_title": "Study of Durvalumab + Tremelimumab, Durvalumab, and Placebo in Limited Stage Small-Cell Lung Cancer in Patients Who Have Not Progressed Following Concurrent Chemoradiation Therapy",
+  "official_title": "A Phase III, Randomized, Double-blind, Placebo-controlled, Multi-center, International Study of Durvalumab or Durvalumab and Tremelimumab as Consolidation Treatment for Patients With Limited Stage Small Cell Lung Cancer Who Have Not Progressed Following Concurrent Chemoradiation Therapy (ADRIATIC)",
+  "brief_summary": "This is a Phase III, Randomized, Double-blind, Placebo-controlled, Multi-center, International Study of Durvalumab or Durvalumab and Tremelimumab as Consolidation Treatment for Patients with LS-SCLC Who Have Not Progressed Following Concurrent Chemoradiation Therapy",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 730,
+  "conditions": [
+    "Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Durvalumab",
+      "type": "DRUG",
+      "description": "Durvalumab IV (intravenous infusion)"
+    },
+    {
+      "name": "Tremelimumab",
+      "type": "DRUG",
+      "description": "Tremelimumab IV (intravenous infusion)"
+    },
+    {
+      "name": "Placebo",
+      "type": "OTHER",
+      "description": "Placebo IV (intravenous infusion)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria:\n\n1. Histologically or cytologically documented limited-stage small cell lung cancer (stage I-III).\n2. Received 4 cycles of chemotherapy concurrent with radiotherapy, which must be completed within 1 to 42 days prior to randomization and the first dose of IP. Chemotherapy must contain platinum and IV etoposide. Radiotherapy must be either total 60-66 Gy over 6 weeks for the standard QD regimen or total 45 Gy over 3 weeks for hyperfractionated BD schedules.\n3. PCI may be delivered at the discretion of investigator and local standard of care, and must be conducted after the end of cCRT and completed between 1 to 42 days to first dose of IP.\n\n4 .Have not progressed following definitive concurrent chemoradiation 5 .Life expectancy \u2265 12 weeks at Day 1. 6. ECOG 0 or 1 at enrolment.\n\nExclusion criteria:\n\n1. Extensive-stage SCLC\n2. Active or prior documented autoimmune or inflammatory disorders\n3. Uncontrolled intercurrent illness, including but not limited to interstitial lung disease.\n4. Active infection including tuberculosis, HIV, hepatitis B and C\n5. Patients who received sequential chemotherapy and radiotherapy (no overlap of RT with chemotherapy)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Annapolis",
+      "state": "Maryland",
+      "zip": "21401",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Towson",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Summit",
+      "state": "New Jersey",
+      "zip": "07902",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Durvalumab Versus Placebo: Progression-Free Survival (PFS) Assessed by Blinded Independent Central Review (BICR) Per Response Evaluation Criteria in Solid Tumors Version 1.1",
+      "timeFrame": "Response evaluations performed every 8 weeks (q8w) \u00b1 1 week up to 72 weeks, then every 12 weeks (q12w) \u00b1 1 week up to 96 weeks, and then every 24 weeks (q24w) thereafter until PD, up to DCO date 15 January 2024 (a maximum of approximately 1936 days)",
+      "description": "PFS per RECIST 1.1 assessed by BICR was defined as the time from the date of randomization until the date of objective disease progression (PD) or death (by any cause in the absence of progression) regardless of whether the participant withdrew from therapy or received another anticancer therapy prior to progression. PD was defined as at least a 20% increase in the sum of diameters of target lesions (TLs), taking as reference the smallest previous sum of diameters (nadir) - this included the baseline sum if that was the smallest on study. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 millimeters (mm) from nadir. Median PFS was calculated using Kaplan-Meier method and its confidence interval (CI) using Brookmeyer-Crowley method."
+    },
+    {
+      "measure": "Durvalumab Versus Placebo: Overall Survival (OS)",
+      "timeFrame": "From date of randomization until death due to any cause, up to DCO date 15 January 2024 (a maximum of approximately 1936 days)",
+      "description": "OS was defined as the time from the date of randomization until death due to any cause. Median OS was calculated using Kaplan-Meier method and its CI using Brookmeyer-Crowley method."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2018-09-27",
+  "completion_date": "2026-10-23",
+  "last_updated": "2025-11-14"
+}

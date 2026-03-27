@@ -1,0 +1,118 @@
+{
+  "nct_id": "NCT01335399",
+  "brief_title": "Phase III Study of Lenalidomide and Dexamethasone With or Without Elotuzumab to Treat Newly Diagnosed, Previously Untreated Multiple Myeloma",
+  "official_title": "A Phase 3, Randomized, Open Label Trial of Lenalidomide/Dexamethasone With or Without Elotuzumab in Subjects With Previously Untreated Multiple Myeloma",
+  "brief_summary": "The purpose of the study is to determine whether the addition of Elotuzumab to Lenalidomide/low-dose Dexamethasone will increase the progression free survival (PFS)",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 748,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Lenalidomide",
+      "type": "DRUG",
+      "description": "Capsules, Oral, 25 mg, once daily, on Days 1-21, Repeat every 28 days until subject meets criteria for discontinuation of study drug"
+    },
+    {
+      "name": "Dexamethasone",
+      "type": "DRUG",
+      "description": "Tablets, Oral, 40 mg, weekly, on Days 1, 8, 15, 22, Repeat every 28 days until subject meets criteria for discontinuation of study drug"
+    },
+    {
+      "name": "Dexamethasone",
+      "type": "DRUG",
+      "description": "Tablets, Oral, 28 mg, once daily, on Days 1, 8, 15, 22 (cycles 1\\&2) ; Days 1 \\&15 (cycles 3-18); Day 1 (cycle 19 and beyond), Repeat every 28 days until subject meets criteria for discontinuation of study drug"
+    },
+    {
+      "name": "Dexamethasone",
+      "type": "DRUG",
+      "description": "Tablets, Oral, 40 mg, once daily, on Days 8 \\& 22 (cycles 3-18); Days 8, 15, 22 (cycle 19 and beyond), Repeat every 28 days until subject meets criteria for discontinuation of study drug"
+    },
+    {
+      "name": "Dexamethasone",
+      "type": "DRUG",
+      "description": "Solution, Intravenous (IV), 8 mg, Once daily, on Days 1, 8, 15, 22 (cycles 1\\&2) ; Days 1 \\&15 (cycles 3-18); Day 1 (cycle 19 and beyond), Repeat every 28 days until subject meets criteria for discontinuation of study drug"
+    },
+    {
+      "name": "Elotuzumab (BMS-901608; HuLuc63)",
+      "type": "BIOLOGICAL",
+      "description": "Solution, Intravenous (IV), 10 mg/kg, weekly, on Days 1, 8, 15, 22 (cycles 1\\&2); Days 1 and 15 (cycles 3-18), Repeat every 28 days until subject meets criteria for discontinuation of study drug"
+    },
+    {
+      "name": "Elotuzumab (BMS-901608; HuLuc63)",
+      "type": "BIOLOGICAL",
+      "description": "Solution, Intravenous (IV), 20 mg/kg, Day 1 (cycle 19 and beyond), Repeat every 28 days until subject meets criteria for discontinuation of study drug"
+    }
+  ],
+  "eligibility": {
+    "criteria": "For more information regarding BMS clinical trial participation, please visit www.BMSStudyConnect.com.\n\nInclusion Criteria:\n\n* Subjects who are newly diagnosed with symptomatic Multiple Myeloma (MM) and who:\n\n  * have not received any prior systemic anti-myeloma therapy AND\n  * have measurable disease AND\n  * are not candidates for high-dose therapy plus stem-cell transplantation (SCT) because of age (\u2265 65 years) or coexisting conditions. Refusal to undergo high dose therapy with SCT is NOT sufficient for entry onto CA204006 for a subject \\< 65 years old. There must be a comorbidity that prevents SCT for a subject \\< 65 years old\n\nExclusion Criteria:\n\n* Subjects with non-secretory or oligo-secretory or free light-chain only myeloma\n* Smoldering MM, defined as asymptomatic MM with absence of lytic bone lesions\n* Monoclonal Gammopathy of Undetermined Significance (MGUS)\n* Active plasma cell leukemia\n* Known Human Immunodeficiency Virus (HIV) infection or active hepatitis A, B, or C",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 1676",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 1650",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 7611",
+      "city": "Langhorne",
+      "state": "Pennsylvania",
+      "zip": "19047",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 1647",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 1679",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15240",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 1677",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS)",
+      "timeFrame": "From randomization to date of first documented tumor progression or death due to any cause (up to 8 years)",
+      "description": "PFS is defined as the time from randomization to the date of the first documented tumor progression (as determined by the Independent Review Committee (IRC)) or death due to any cause.\n\nThe IRC conducted a blinded, independent review of the tumor assessments based on the European Group for Blood and Bone Marrow Transplant (EBMT) criteria.\n\nCensoring rules applied:\n\n* Participants receiving subsequent systemic anti-myeloma therapy prior to documented progression were censored at the date of the last adequate tumor assessment prior to new therapy.\n* Participants who had an event (progression or death) \\> 10 weeks after their last tumor assessment were censored at their last adequate tumor assessment prior to the event.\n* Participants without progression or death (and not receiving subsequent therapy prior to progression) were censored at their last adequate tumor assessment.\n* Participants without any post-baseline tumor assessments were censored on the date of randomization"
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "AbbVie"
+  ],
+  "start_date": "2011-08-04",
+  "completion_date": "2021-09-03",
+  "last_updated": "2022-09-02"
+}

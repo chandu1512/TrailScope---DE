@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT03720678",
+  "brief_title": "A Study to Evaluate Immunotherapy Combinations in Participants With Gastrointestinal Malignancies",
+  "official_title": "A Phase 1/1b Study to Evaluate the Safety and Tolerability of Immunotherapy Combinations in Participants With Gastrointestinal Malignancies",
+  "brief_summary": "This is a Phase 1/1b, open-label, dose-escalation, and dose-expansion study to evaluate the safety, tolerability, pharmacokinetic (PK), pharmacodynamic (PD), and clinical activity of etrumadenant (AB928) in combination with mFOLFOX in participants with advanced metastatic gastroesophageal Cancer (GEC) or colorectal cancer (CRC).",
+  "detailed_description": "In the dose escalation phase, escalating doses of etrumadenant in combination with mFOLFOX at standard doses will be assessed in participants with advanced metastatic GEC or CRC. Eligible participants will receive oral administration of etrumadenant as well as IV infusion of mFOLFOX. The recommended dose for expansion (RDE) of etrumadenant will be determined upon completion of the dose-escalation phase.\n\nIn the dose expansion phase, etrumadenant at the RDE in combination with mFOLFOX at standard doses may be assessed in participants with advanced metastatic GEC or CRC.\n\nOverall duration of treatment will depend on how well the treatment is tolerated. Treatment may continue until unacceptable toxicity or progressive disease or other reasons specified in the protocol.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 44,
+  "conditions": [
+    "GastroEsophageal Cancer",
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "etrumadenant",
+      "type": "DRUG",
+      "description": "Etrumadenant is an A2aR and A2bR antagonist."
+    },
+    {
+      "name": "mFOLFOX",
+      "type": "DRUG",
+      "description": "Oxaliplatin, Leucovorin and 5-fluorouracil given as part of standard mFOLFOX chemotherapy regimen"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male or female participants \u2265 18 years\n* Histologically confirmed gastroesophageal cancer or colorectal cancer that is metastatic, advanced or recurrent with progression\n* Participants for whom mFOLFOX is considered appropriate therapy\n* Must have at least 1 measurable lesion per RECIST v1.1.\n* Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1.\n* Must have received standard of care, including potentially curative available therapies or interventions.\n* Confirm that an archival tissue sample is available and \u2264 24 months old; if not, a new biopsy of a tumor lesion must be obtained.\n* Adequate organ and marrow function\n* Previously treated central nervous system metastases, meeting the following criteria:\n\n  * No evidence of progression by magnetic resonance imaging for at least 4 weeks prior to first dose.\n  * Neurologic symptoms returned to baseline.\n  * No immunosuppressive doses of systemic corticosteroids for at least 2 weeks before investigational product administration.\n  * No carcinomatous meningitis.\n\nExclusion Criteria:\n\n* Use of any live vaccines against infectious diseases (eg, influenza, varicella) within 4 weeks (28 days) of initiation of investigational product.\n* Underlying medical conditions that, in the Investigator's or Sponsor's opinion, will make the administration of investigational product hazardous (eg interstitial lung disease, active infections requiring antibiotics, recent hospitalization with unresolved symptoms) or obscure the interpretation of toxicity determination or AEs, or concurrent medical condition requiring the use of immunosuppressive medications or immunosuppressive doses of systemic or absorbable topical corticosteroids.\n* Has known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the trial.\n* Is pregnant or breastfeeding or expecting to conceive or father children within the projected duration of the study, starting with the pre-screening or screening visit through 30 days after the last dose of etrumadenant in combination with mFOLFOX.\n* Any active autoimmune disease or a documented history of autoimmune disease or syndrome that required systemic treatment in past 2 years (ie, with use of disease-modifying agents, corticosteroids, or immunosuppressive drugs), except for vitiligo or resolved childhood asthma/atopy.\n\n  * Replacement therapy (eg, thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency) is not considered a form of systemic treatment.\n  * Participants with asthma who require intermittent use of bronchodilators, inhaled corticosteroids, or local corticosteroid injections will not be excluded from this study. Participants on chronic systemic corticosteroids will be excluded from the study.\n* Prior malignancy active within the previous 2 years except for locally curable cancers that have been apparently cured, such as basal or squamous cell skin cancer, superficial bladder cancer or carcinoma in situ of the cervix, breast, or prostate.\n* Prior chemotherapy, targeted small-molecule therapy, or radiation therapy within 4 weeks prior to Day 1 or has not recovered (ie, \u2265 Grade 1 or baseline) from AEs due to a previously administered agent, except \u2264 Grade 2 alopecia or \u2264 Grade 2 neuropathy and other AEs \u2264 Grade 2 considered not clinically significant by the Medical Monitor and Investigator.\n* Use of other investigational drugs (drugs not marketed for any indication) within 28 days of investigational product administration.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Oncology Hematology",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "20850",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "16148",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of Adverse Events (AEs)",
+      "timeFrame": "From first dose date to 90 days after the last dose (Approximately 1 year)",
+      "description": ""
+    },
+    {
+      "measure": "Incidence of dose-limiting toxicities (DLTs) during dose escalation phase",
+      "timeFrame": "From first dose date to 28 days after the first dose",
+      "description": ""
+    }
+  ],
+  "sponsor": "Arcus Biosciences, Inc.",
+  "collaborators": [],
+  "start_date": "2018-11-18",
+  "completion_date": "2021-06-25",
+  "last_updated": "2024-05-23"
+}

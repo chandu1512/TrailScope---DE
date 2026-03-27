@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT03893955",
+  "brief_title": "A Study to Determine the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of ABBV-927 With ABBV-368, Budigalimab (ABBV-181) and/or Chemotherapy in Participants With Locally Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase 1, Multicenter, Open-Label Study to Determine the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of Combinations of ABBV-927 With ABBV-368, Budigalimab (ABBV-181) and/or Chemotherapy in Subjects With Locally Advanced or Metastatic Solid Tumors",
+  "brief_summary": "A study evaluating the safety, pharmacokinetics (PK), pharmacodynamics, and preliminary efficacy of ABBV-927 with ABBV-368, Budigalimab (ABBV-181) and/or chemotherapy in participants with selected solid tumors. This study consists of 2 main parts, a dose-escalation phase and a dose-expansion phase. The dose-expansion phase can begin once the recommended phase 2 dose/maximum tolerated dose (RP2D/MTD) is determined in the dose-escalation phase.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 150,
+  "conditions": [
+    "Cancer",
+    "Advanced Solid Tumors",
+    "Triple-Negative Breast Cancer (TNBC)",
+    "Non-small-cell-lung-cancer (NSCLC)",
+    "Metastatic Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "ABBV-927",
+      "type": "DRUG",
+      "description": "Intravenous (IV) Infusion"
+    },
+    {
+      "name": "ABBV-368",
+      "type": "DRUG",
+      "description": "Intravenous (IV) Infusion"
+    },
+    {
+      "name": "ABBV-181",
+      "type": "DRUG",
+      "description": "Intravenous (IV) Infusion"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Intravenous (IV) Infusion"
+    },
+    {
+      "name": "Nab-paclitaxel",
+      "type": "DRUG",
+      "description": "Intravenous (IV) Infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adequate liver, kidney and hematology function as demonstrated by laboratory values detailed in the study protocol.\n* An Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n\nDose-Escalation:\n\n* Arm A: Participants with an advanced solid tumor who have progressed on standard therapies known to provide clinical benefit and/or participants who have refused or are intolerant of such therapy.\n* Arm B (non-small-cell-lung-cancer \\[NSCLC\\]): Participants with histologically or cytologically confirmed NSCLC who previously progressed during or after an anti-programmed cell death (PD)-1 or PD ligand 1 (PD-L1) therapy and a platinum-based regimen in the recurrent or metastatic setting.\n\nDose-Expansion:\n\n* Arm 1, 2, and 3 (triple-negative breast cancer \\[TNBC\\]): Participants with histologically or cytologically confirmed breast adenocarcinoma that is estrogen receptor/progesterone receptor/human epidermal growth factor receptor (HER)2-negative who must have disease progression during or after at least 1 systemic therapy that included a taxane in the metastatic or recurrent setting and who are treatment-na\u00efve to immunotherapy.\n* Arm 4 (TNBC): Participants with histologically or cytologically confirmed TNBC who have received no previous anti-cancer therapy for TNBC, and who are PD-L1 negative on tumor tissue by immunohistochemistry (IHC) assay.\n* Arm 5 (NSCLC): Participants with histologically or cytologically confirmed NSCLC who previously progressed either during or after an anti-PD-1 or PD-L1 therapy and a platinum-based regimen in the recurrent or metastatic setting.\n\nExclusion Criteria:\n\n* Has history of inflammatory bowel disease or pneumonitis.\n* Has uncontrolled metastases to the central nervous system.\n* Has a concurrent malignancy that is clinically significant, treatment is required, or the participant is not clinically stable.\n* Has had a major surgery \u2264 28 days prior to the first dose of study drug or the surgical wound is not fully healed.\n* Has previously treated with an anti-PD- or PD-L1-targeting agent and had during the course of their therapy:\n* any immune-mediated toxicity of Grade 3 or worse severity\n* treatment of the toxicity with systemic corticosteroids\n* any hypersensitivity to the PD-1 or PD-L1-targeting agent\n* any treatment-related toxicity resulting in discontinuation of the PD-1 or PD-L1 targeting agent",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Ctr /ID# 222747",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose Expansion: Objective Response Rate (ORR)",
+      "timeFrame": "Up to approximately 2 years following the first dose of study drug",
+      "description": "ORR is defined as the percentage of participants with either complete response (CR) or partial response (PR) based on Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1."
+    },
+    {
+      "measure": "Dose-Escalation Phase: Recommended Phase 2 Dose (RP2D) of ABBV-927 + ABBV-368",
+      "timeFrame": "Up to approximately 6 months",
+      "description": "The RP2D of ABBV-927 + ABBV-368 will be determined during the dose-escalation phase of the study. RP2D will be determined using available safety and pharmacokinetics data."
+    },
+    {
+      "measure": "Dose-Escalation Phase: Recommended Phase 2 Dose (RP2D) of ABBV-927 + ABBV-368 + ABBV-181",
+      "timeFrame": "Up to approximately 6 months",
+      "description": "The RP2D of ABBV-927 + ABBV-368 + ABBV-181 will be determined during the dose-escalation phase of the study. RP2D will be determined using available safety and pharmacokinetics data."
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [],
+  "start_date": "2019-05-21",
+  "completion_date": "2026-03",
+  "last_updated": "2025-08-07"
+}

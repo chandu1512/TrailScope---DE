@@ -1,0 +1,84 @@
+{
+  "nct_id": "NCT07215624",
+  "brief_title": "Surgical Thromboprophylaxis Practices in Oncology Patients Within the NCORP Network, STOP-VTE Study",
+  "official_title": "Surgical Thromboprophylaxis Practices in Oncology Patients Within the NCORP Network (STOP-VTE)",
+  "brief_summary": "This study evaluates the use of extended venous thromboembolism prophylaxis (ePPx) following abdominopelvic cancer surgery within the NCI Community Oncology Research Program (NCORP) network, targeting surgeons and surgical advanced practice providers (APPs).",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate self-reported utilization of guideline concordant extended venous thromboembolism (VTE) prophylaxis (ePPx) following abdominopelvic cancer surgery within a sample of surgeons practicing within NCORP based on the Part 1 surgeon survey.\n\nSECONDARY OBJECTIVES:\n\nI. Evaluate site factors (e.g., proportion of publicly insured patients, proportion of Black patients, presence of a medical school, NCI designation) and surgeon factors (e.g., fellowship training, years in practice) associated with surgeon self-reported guideline concordant ePPx utilization (Part 1).\n\nII. Conduct semi-structured interviews among a subset of surgeons and surgical APPs to assess: 1) Barriers/facilitators toward ePPx after cancer surgery and 2) Acceptability of clinical decision support tools to support VTE prophylaxis prescribing (Part 2).\n\nIII. Extract EHR data from select practices to assess the feasibility of query-based electronic health record (EHR) data extraction for identification of (i) patients undergoing cancer surgery, and (ii) prescription of guideline concordant ePPx among eligible patients (Part 3).\n\nOUTLINE: This is an observational study.\n\nPART 1: Surgeons and APPs complete a survey on study. After completion of surgeon or APP survey, site contact person or Cancer Care Delivery Research (CCDR) lead complete site surveys on study.\n\nPART 2: A subset of surgeons and APPs from part 1 complete a semi-structured interview on study.\n\nPART 3: Site contact person or CCDR lead complete a survey to identify a EHR Report Specialist on study. EHR Report Specialist performs an EHR Data Extraction and provides feedback on the process in a survey.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 500,
+  "conditions": [
+    "Malignant Digestive System Neoplasm",
+    "Malignant Female Reproductive System Neoplasm",
+    "Malignant Genitourinary System Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "Non-Interventional Study",
+      "type": "OTHER",
+      "description": "Non-interventional study"
+    },
+    {
+      "name": "Non-Interventional Study",
+      "type": "OTHER",
+      "description": "Non-interventional study"
+    },
+    {
+      "name": "Non-Interventional Study",
+      "type": "OTHER",
+      "description": "Non-interventional study"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nSURGEON ELIGIBILITY CRITERIA FOR OPEN STEP 0 ENROLLMENT:\n\n\\* Any surgeon performing gastrointestinal, genitourinary, or gynecologic cancer surgery within an NCORP site, including general surgeons, surgical specialists, urologists, and gynecologists. Surgeons do not need to be involved in research or have a Cancer Therapy Evaluation Program Identification (CTEP ID) to participate in this study\n\nSURGICAL APP ELIGIBILITY CRITERIA FOR OPEN STEP 0 ENROLLMENT:\n\n\\* APPs providing postoperative care to patients operated by surgeons performing gastrointestinal, genitourinary, or gynecologic cancer surgery within an NCORP site, including general surgeons, surgical specialists, urologists, and gynecologists. Surgical APPs do not need to be involved in research or have a CTEP ID to participate in this study\n\nSURGEON ELIGIBILITY CRITERIA FOR OPEN STEP 1 ENROLLMENT:\n\n\\* Must have completed the STOP-VTE Survey - Surgeon electronically (preferred) or on paper and have it transferred to Research Electronic Data Capture (REDCap) by the contact person(s)\n\nSURGICAL APP ELIGIBILITY CRITERIA FOR OPEN STEP 1 ENROLLMENT:\n\n\\* Must have completed the STOP-VTE Survey - APP electronically (preferred) or on paper and have it transferred to REDCap by the contact person(s)\n\nSITE ELIGIBILITY PART 1-SITE ENROLLMENT IN OPEN:\n\n\\* Have at least one eligible surgeon or surgical APP who completed the STOP-VTE Survey - Surgeon/APP\n\nExclusion Criteria:\n\n* N/A",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Helen F Graham Cancer Center",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Medical Oncology Hematology Consultants PA",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Christiana Care Health System-Christiana Hospital",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19718",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Christiana Care - Union Hospital",
+      "city": "Elkton",
+      "state": "Maryland",
+      "zip": "02192",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Self-reported utilization of guideline concordant ePPx for surgeons (Part 1)",
+      "timeFrame": "After 1 year from start of Part 1",
+      "description": "Will apply only to surgeons completing the Part 1 survey. Will be defined as answering \"Yes, all cases or almost all cases\" on the survey question asking about prescription of ePPx after discharge. The proportion of surgeons self-reporting utilization of guideline concordant ePPx will be estimated and reported along with an exact 95% confidence interval."
+    }
+  ],
+  "sponsor": "Wake Forest University Health Sciences",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2026-01-15",
+  "completion_date": "2027-06-01",
+  "last_updated": "2026-03-16"
+}

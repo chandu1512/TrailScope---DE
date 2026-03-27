@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT07209241",
+  "brief_title": "Different Approaches for CART-EGFR-IL13Ra2 Dosing in Recurrent GBM",
+  "official_title": "Phase Ib, Open-Label Study of CART-EGFR-IL13R\u03b12 Cells Administered Following Lymphodepleting Chemotherapy or Prior to Surgical Resection in Patients With EGFR-Amplified Recurrent Glioblastoma",
+  "brief_summary": "This is an open-label, phase 1b study to evaluate different approaches for CART-EGFR-IL13Ra2 dosing and further characterize the safety, feasibility, preliminary efficacy, and pharmacokinetics of CART-EGFR-IL13Ra2 cells in patients with EGFR-amplified glioblastoma that has recurred following prior radiotherapy.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 12,
+  "conditions": [
+    "Recurrent Glioblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "CART-EGFR-IL13Ra2 T cells",
+      "type": "BIOLOGICAL",
+      "description": "CART-EGFR-IL13Ra2 cells are autologous T cells co-expressing two CARs targeting the cryptic EGFR epitope 806 and IL13Ra2."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Signed, written informed consent\n2. Male or female age \u2265 18 years\n3. Patients with glioblastoma, IDH-wildtype (as defined by WHO 2021 Classification of CNS Tumors) that has recurred following prior radiotherapy1. For patients with tumors harboring methylation of the MGMT promoter, a t l east 1 2 w eeks must have elapsed since completion of first-line radiotherapy.\n4. Tumor tissue positive for wild-type EGFR amplification by NeoGenomics Laboratories. Archival tumor from patient's initial surgery at time of original diagnosis or recently collected tumor from time of recurrence are acceptable.\n5. Surgical tumor resection for disease control/management (Arms A, B, C) or tumor biopsy to confirm tumor recurrence (Arms A and B only) is clinically indicated in the opinion of the physician-investigator.\n6. Adequate organ function defined as:\n\n   1. Serum creatinine \u2264 1.5 x ULN or estimated creatinine clearance \u2265 30 ml/min and not on dialysis.\n   2. ALT/AST \u2264 3 x ULN\n   3. Total bilirubin \u2264 2.0 mg/dL, except for patients in whom hyperbilirubinemia is attributed to Gilbert's syndrome (\u2264 3.0 mg/dL)\n   4. Left Ventricular Ejection Fraction (LVEF) \u2265 45% confirmed by ECHO/MUGA\n   5. Must have a minimum level of pulmonary reserve defined as \u2264 Grade 1 dyspnea and pulse oxygen \\> 92% on room air\n7. Karnofsky Performance Status \u2265 60%.\n8. Subjects of reproductive potential must agree to use acceptable birth control methods, as described in protocol Section 4.3.\n\nExclusion Criteria:\n\n1. Active hepatitis B or hepatitis C infection.\n2. Any other active, uncontrolled infection.\n3. Class III/IV cardiovascular disability according to the New York Heart Association Classification\n4. Tumors primarily localized to the brain stem or spinal cord.\n5. Severe, active co-morbidity in the opinion of the physician-investigator that would preclude participation in this study.\n6. Receipt of bevacizumab within 3 months prior to physician-investigator confirmation of eligibility.\n7. Active autoimmune disease requiring systemic immunosuppressive treatment equivalent to \u2265 10 mg daily of prednisone. Patients with autoimmune neurological diseases (such as MS or Parkinson's) will be excluded.\n8. Patients who are pregnant or nursing (lactating).\n9. History of allergy or hypersensitivity to study product excipients (human serum albumin, DMSO, and Dextran 40).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Subjects with treatment related adverse events using NCI Common Terminology Criteria for Adverse Events (CTCAE) V5.0",
+      "timeFrame": "Up to 15 years following CART-EGFR-IL13Ra2 administration",
+      "description": "Type, frequency, severity, and attribution of adverse events"
+    },
+    {
+      "measure": "Occurrence of treatment-limiting toxicities (Arms A and B only)",
+      "timeFrame": "Up to 28 days following CART-EGFR-IL13Ra2 administration",
+      "description": "Type, frequency, severity, and attribution of treatment limiting adverse events as defined in protocol section 8.1.7"
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [],
+  "start_date": "2025-12-03",
+  "completion_date": "2042-11-01",
+  "last_updated": "2025-12-05"
+}

@@ -1,0 +1,89 @@
+{
+  "nct_id": "NCT06556563",
+  "brief_title": "EF-41/KEYNOTE D58: Phase 3 Study of Optune Concomitant With Temozolomide Plus Pembrolizumab in Newly Diagnosed Glioblastoma",
+  "official_title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Optune\u00ae (TTFields, 200 kHz) Concomitant With Maintenance Temozolomide and Pembrolizumab Versus Optune\u00ae Concomitant With Maintenance Temozolomide and Placebo for the Treatment of Newly Diagnosed Glioblastoma (EF-41/KEYNOTE D58).",
+  "brief_summary": "This is a multicenter, two-arm, randomized, double-blind, placebo-controlled study of Optune\u00ae (Tumor Treating Fields at 200 kHz) together with maintenance Temozolomide (TMZ) chemotherapy agent and pembrolizumab compared to Optune\u00ae together with maintenance TMZ and placebo in newly diagnosed Glioblastoma (GBM) patients. The primary objective of the study is to evaluate the Overall Survival (OS).",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 741,
+  "conditions": [
+    "Glioblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "Optune\u00ae device",
+      "type": "DEVICE",
+      "description": "Optune\u00ae device delivering TTFields therapy at 200 kHz."
+    },
+    {
+      "name": "Temozolomide",
+      "type": "DRUG",
+      "description": "Temozolomide per approved labeling."
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Pembrolizumab dose throughout this study is 200 mg IV Q3W for a maximum of 35 cycles."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Placebo (saline solution) dose throughout this study is 200 mg IV Q3W for a maximum of 35 cycles."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. The participant (or legally acceptable representative) has provided documented informed consent for the study.\n2. Be \u2265 18 years of age on day of providing informed consent.\n3. Participant with new diagnosis of GBM according to World Health Organization (WHO) 2021 Classification.\n4. Recovered from maximal debulking surgery (gross total resection, partial resection and biopsy-only patients are all acceptable), Gliadel wafers placement at the time of surgical resection is not allowed.\n5. Have completed standard adjuvant chemoradiotherapy of radiotherapy (RT) according to local practice (56-64 Gy), and concomitant TMZ chemotherapy.\n6. Amenable to treatment with Optune concomitant with maintenance TMZ (150-200 mg/m\\^2 daily x 5, Q28 days).\n7. Have an Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 to 1 assessed within 7 days before randomization.\n8. Stable or decreasing dose of corticosteroids (dexamethasone \u2264 2mg or equivalent) for the last 7 days prior to randomization, if applicable.\n\nExclusion Criteria:\n\n1. Has received prior therapy with an anti-Programmed Cell Death 1 (PD-1), anti- Programmed Cell Death-Ligand 1(PD-L1), or anti Programmed Cell Death-Ligand 2 (PD-L2) agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (e.g.Cytotoxic T-Lymphocyte-Associated protein 4 (CTLA-4), OX 40, CD137).\n2. Ongoing requirement for \\>2 mg dexamethasone (or equivalent), due to intracranial mass effect.\n3. Has received prior systemic anti-cancer therapy including investigational agents within 4 weeks prior to randomization.\n4. Received a live or live-attenuated vaccine within 30 days before the first dose of study intervention. Administration of killed vaccines are allowed.\n5. Is currently participating in or has participated in a study of an investigational agent or has used an investigational device within 4 weeks prior to the first study treatment.\n6. Has a diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior the first dose of study medication. Has a known additional malignancy that is progressing or has required active treatment within the past 3 years.\n7. Has a history of (noninfectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease.\n8. Early progressive disease after the end of TMZ/RT. If pseudo progression is suspected, additional imaging studies should be performed to rule out true progression.\n9. Infratentorial or leptomeningeal disease.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "John Theurer Cancer Center/ Hackensack Meridian Health",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Thomas Jefferson University, Sidney Kimmel Comprehensive Cancer Center, Clinical Trials Organization",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall survival",
+      "timeFrame": "24 months",
+      "description": "Overall survival (OS) is defined as the time from randomization to death due to any cause"
+    }
+  ],
+  "sponsor": "NovoCure GmbH",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2025-02-03",
+  "completion_date": "2029-04",
+  "last_updated": "2026-03-11"
+}

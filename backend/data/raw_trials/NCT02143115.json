@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT02143115",
+  "brief_title": "Comparative Effectiveness of CTC & OC",
+  "official_title": "Comparative Effectiveness of Virtual and Optical Colonoscopy for Colorectal (CRC) Surveillance",
+  "brief_summary": "The goal of this study is to compare the findings of virtual (CT-colonography) with findings of optical colonoscopies to determine if virtual colonoscopy is suitable for colorectal cancer surveillance.",
+  "detailed_description": "The goal of this study is to compare, both clinically and from a cost-effectiveness perspective, virtual or CT-C (CT-Colonography) to standard CT scan and optical colonoscopy (OC). Virtual colonoscopy is a combination of a radiologic evaluation of the abdomen and pelvis with intra-colonic imaging. Previous research supports the concept that CT-C may be an effective substitute for the current OC and address limited compliance for surveillance for CRC survivors. Post-operative CRC surveillance strategies are effective, but depend upon patient compliance which is less than desired. Improved adherence is linked with greater cost-effectiveness as well as better clinical outcomes. CT-C possesses potential advantages: convenience as a single test, less risk, possibly patient preference and lower total costs. Costs would be reduced through direct (provision of fewer optical colonoscopies) and indirect means (reduction in time lost from work by patient and chaperone, etc.). When extrapolated across the roughly 200,000 OCs performed annually in the US for this indication reduced utilization of even 50% in a high unit cost procedure like OC would yield substantial savings without a reduction in clinical quality.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 244,
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Optical colonoscopy",
+      "type": "PROCEDURE",
+      "description": "Examination of the colon with a colonoscope"
+    },
+    {
+      "name": "CT-Colonography",
+      "type": "RADIATION",
+      "description": "A computerized X-ray that may find out if there are polyps or cancers and also pictures the contents of the abdomen and pelvis"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients with a history of CRC without clear evidence of metastatic disease who have completed their acute cancer-specific treatment\n* Patients aged 18 years or older\n* Patients who have signed an approved informed consent form\n\nExclusion Criteria:\n\n* Patients with a diverting ileostomy, with a history of inflammatory bowel disease, FAP, or active GI symptoms (gastrointestinal bleed, diarrhea, severe abdominal pain, etc.)\n* Patients who are pregnant",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Compare the test characteristics (sensitivity, specificity, positive and negative predictive value) of Computed Tomography colonography (CT-C) in the post Colorectal cancer resection using optical colonoscopy as the reference standard",
+      "timeFrame": "One year post colorectal cancer resection",
+      "description": "To evaluate the test characteristics (sensitivity, specificity, positive and negative predictive value) of CT colonography (CT-C) for detecting colorectal adenomas and cancers in the post-CRC resection surveillance setting, using optical colonoscopy (OC) as the reference standard."
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [],
+  "start_date": "2011-08",
+  "completion_date": "2016-06",
+  "last_updated": "2016-11-29"
+}

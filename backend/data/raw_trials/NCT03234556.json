@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT03234556",
+  "brief_title": "Diagnosing Clinically Significant Prostate Cancer In African American and White Men With Elevated PSA",
+  "official_title": "Diagnosing Clinically Significant Prostate Cancer in African American and White Men Phase II, Randomized Clinical Trial, Multi-center, MR-Guided vs. 12-core Systematic Random Biopsy, Localized Prostate Cancer",
+  "brief_summary": "This randomized phase II trial studies how well systematic random biopsy or magnetic resonance imaging (MRI)-ultrasound image (US) fusion biopsy work in diagnosing prostate cancer in patients with elevated prostate specific antigen. Systematic random biopsy and MRI-US fusion biopsy may work better in improving the accuracy of prostate cancer detection.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To compare the detection of clinically significant prostate cancer (CSPCa) in Arm 1 versus Arm 2.\n\nII. To compare between African American (AA) and white men the probability of developing CSPCa within three years of initial biopsy at the start of the study.\n\nSECONDARY OBJECTIVES:\n\nI. To determine complications and patient morbidity associated with either systematic random prostate biopsy (SR-Bx) versus (vs) magnetic resonance imaging-ultrasound image fusion biopsy (MRUS-Bx) + SR-Bx.\n\nTERTIARY OBJECTIVES:\n\nI. To compare Gleason score between MRUS-Bx and radical prostatectomy (RP) specimen among men who elect RP (\\~110 in the randomized controlled trial \\[RCT\\]).\n\nII. To assess within Arm 1 the detection of CSPCa three months after SR-Bx among men initially diagnosed with clinically insignificant prostate cancer (CinsPCa) or no cancer.\n\nIII. To identify among men invited to participate and those actually enrolled in the RCT: determinants of study participation.\n\nIV. To identify among men invited to participate and those actually enrolled in the RCT: determinants of treatment decision (active surveillance \\[AS\\] vs radiation vs RP) including the diagnostic method.\n\nOUTLINE: Patients are randomized into 1 of 2 arms.\n\nARM I: SR-Bx group\n\n* Patients undergo SR-Bx\n\n  * If SR-Bx doesn't reveal clinically significant cancer, then MRI in 3 months, and if lesion is present (PIRADS \u2265 3) schedule for MRUS-Bx.\n  * If there is no lesion, then no biopsy - schedule MRI in 12 months after the initial MRI.\n\nARM II: MRUS-Bx group\n\n* Patients undergo MRI. Must be scheduled at least 1 day before MRUS Biopsy.\n\n  * MRI shows no lesion present (PIRADS 1-2): no MRUS-Bx, schedule for SR-Bx only.\n  * MRI lesion present (PIRADS \u2265 3): schedule for MRUS-Bx, which will be done first and followed immediately after by SR-Bx.\n\nFOLLOW UP:\n\nAfter completion of procedure, patients are followed up at 2-4 weeks, 3, 6, 9, and 12 months, and then periodically for up to 5 years.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 288,
+  "conditions": [
+    "Health Status Unknown",
+    "Elevated PSA"
+  ],
+  "interventions": [
+    {
+      "name": "Biopsy of Prostate",
+      "type": "PROCEDURE",
+      "description": "Undergo SR-Bx"
+    },
+    {
+      "name": "Laboratory Biomarker Analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "Magnetic Resonance Imaging",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Undergo MRI"
+    },
+    {
+      "name": "MRI Ultrasound Fusion Guided Biopsy",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Undergo MRUS-Bx"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Written informed consent and Health Insurance Portability and Accountability Act (HIPAA) authorization for release of personal health information\n\n  * Note: HIPAA authorization may be included in the informed consent or obtained separately\n* Eastern Cooperative Oncology Group (ECOG) performance status of =\\< 1 within 3 months (93 days) prior to being registered for protocol\n* African-American or white men (Hispanic or non-Hispanic)\n* Prostate biopsy-naive or a single negative biopsy\n* Having elevated prostate specific antigen (PSA) (\\> 2.5 ng/ml) and no palpable nodule on digital rectal exam (DRE)\n* Ability to understand the willingness to sign a written informed consent\n* Patients must be willing to undergo a radiologic imaging before and after biopsy of the prostate\n* Patients must be willing to undergo a biopsy of the prostate\n\nExclusion Criteria:\n\n* Patients who have had chemotherapy or radiotherapy within 12 months of the study for other diagnoses not related to prostate cancer\n* Patients receiving any other investigational agents\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Patients with active inflammatory bowel disease\n* Patients who are unable to undergo MRI\n* Patients who had any surgery of the prostate including TURP (transurethral resection of the prostate)\n* Patients who had \\> 1 prior prostate biopsy",
+    "gender": "MALE",
+    "min_age": "40 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Biopsy detection rate of clinically significant prostate cancer",
+      "timeFrame": "Up to 5 years",
+      "description": "Will code patients as having clinically significant prostate cancer if they are diagnosed with Gleason score \\>= 7 or any Gleason score with core length \\>= 5 mm or any Gleason score that includes Gleason pattern \\>= 4 at initial systematic random biopsy."
+    }
+  ],
+  "sponsor": "University of Southern California",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2017-09-25",
+  "completion_date": "2028-05-23",
+  "last_updated": "2025-12-18"
+}

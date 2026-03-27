@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT03072095",
+  "brief_title": "Colorectal Cancer Screening in a Community Health Setting",
+  "official_title": "Patient-Centered Outreach to Increase Colorectal Cancer Screening in a Community Health Setting",
+  "brief_summary": "This randomized controlled pilot study at the Health Annex, Family Practice \\& Counseling Network (FPCN), a community clinic in Southwest Philadelphia, aimed at providing data on the feasibility of a mailed FIT approach to CRC screening in a community health setting, and how patients respond to text messaging and behavioral economic engagement incentives.",
+  "detailed_description": "This is a single-center RCT at the Family Practice \\& Counseling Network (FPCN), a community clinic in Southwest Philadelphia with 320 eligible subjects between the ages of 50-74 randomized to two study arms:\n\n1. text messaging outreach (text)\n2. text messaging outreach with lottery for 1/5 chance to win a financial incentive (text + lottery).\n\nFindings will provide data on the feasibility of this mailed FIT approach in a community health setting, and how patients respond to text messaging and behavioral economic engagement incentives.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 281,
+  "conditions": [
+    "Cancer of the Colon"
+  ],
+  "interventions": [
+    {
+      "name": "Text-only",
+      "type": "BEHAVIORAL",
+      "description": "Subjects will receive a text communication indicating they are overdue for colon cancer screening with the option to elect to receive a free, at-home FIT kit."
+    },
+    {
+      "name": "Text + Lottery",
+      "type": "BEHAVIORAL",
+      "description": "Subjects will receive a text communication indicating they are overdue for colon cancer screening with the option to elect to receive a free, at-home FIT kit and a 1 in 5 chance to win a $100 gift card for completing the kit."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Between 50 and 74 years old\n2. Has active medical insurance\n3. Has had had at least one visit at Health Annex in the prior 12 months (at time of chart review)\n4. Due for CRC screening (no colonoscopy in last 10 years, sigmoidoscopy in last 5 years, or stool testing in last 1 year)\n5. Asymptomatic for CRC\n\nExclusion Criteria:\n\n1. Has had prior colonoscopy within 10 years, sigmoidoscopy within 5 years, and FOBT/FIT within twelve months of the chart review (we will exclude patients who self-report undergoing any of the above procedures)\n2. Has a history of CRC\n3. Has a history of other GI cancer\n4. Has history of confirmed Inflammatory Bowel Disease (IBD) (e.g. Crohns disease, ulcerative colitis)\n5. Has a history of colon polyps\n6. Has had a colectomy\n7. Has a first-degree relative that has been diagnosed with CRC\n8. Has been diagnosed with Lynch Syndrome (i.e. HNPCC)\n9. Has been diagnosed with Familial Adenomatous Polyposis (FAP).\n10. Has iron deficiency anemia\n11. Has recent history of lower GI bleeding\n12. Has metastatic (Stage IV) blood or solid tumor cancer\n13. Has end stage renal disease\n14. Has had congestive heart failure\n15. Has dementia\n16. Has liver cirrhosis\n17. Has any other condition that, in the opinion of the investigator, excludes the patient from participating in this study\n18. Does not use a mobile phone enabled to send and receive text messages",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "74 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Family Practice & Counseling Network - Health Annex",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19142",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "FIT completion within 3 months",
+      "timeFrame": "3 months",
+      "description": "The percentage of participants who successfully complete the FIT"
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [],
+  "start_date": "2017-04-17",
+  "completion_date": "2017-11-03",
+  "last_updated": "2019-02-19"
+}

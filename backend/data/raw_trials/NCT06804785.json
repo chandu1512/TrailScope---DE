@@ -1,0 +1,45 @@
+{
+  "nct_id": "NCT06804785",
+  "brief_title": "Hybrid Intelligence for Trustable Diagnosis and Patient Management of Prostate Cancer (HIT-PIRADS)",
+  "official_title": "Hybrid Intelligence for Trustable Diagnosis and Patient Management of Prostate Cancer (HIT-PIRADS)",
+  "brief_summary": "The purpose of this study is to develop a new way to diagnose prostate cancer through the use of artificial intelligence. The goal is for this new method to reduce delays in diagnoses and to avoid invasive procedures such as biopsies.",
+  "detailed_description": "The overall goal of this project is to create a diagnosis and patient management strategy (called HIT-PIRADS) for prostate cancer (PCa) that will significantly increase positive predictive value (PPV) for clinically significant PCa detection while minimizing unnecessary prostate biopsies and related morbidities. Due to its interpretable nature and bias correction paradigm, the AI system will generate predictions that physicians can trust. One of the immediate outcomes of the system will be a reproducible risk scoring system that can be used in community hospitals and locales without MRI-subspeciality genitourinary trained radiologists to improve the accuracy of prostate imaging nationwide. In the long term, the investigators expect HIT-PIRADS to be widely adopted in clinics and trigger other treatment and prevention strategies to be developed based on HIT-PIRADS.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 800,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Elevated PSA (4.0-10.0 ng/ml) or abnormal digital rectal exam with PSA of 2.00-10.00 ng/ml as indicated in the patient's lab report.\n* Patients must be biopsy na\u00efve, confirmed with patient or medical record.\n* Patients must be male, \u226518 and \u2264 89 years of age.\n* Patient must have a life expectancy \u226510 years, determined by PI.\n* Patients must exhibit an ECOG performance status of 0-2, as noted in their medical record.\n\nExclusion Criteria:\n\n* Patients who are on a 5-\u03b1-reductase inhibitor within 12 months of enrollment, as confirmed by medical record.\n* Patients who have had a prostate infection within 1 month of enrollment, as confirmed by medical record.\n* Patients who are receiving or who received prostate cancer treatment (e.g., androgen deprivation therapy, surgery, radiation therapy or adjuvant/neoadjuvant therapy with investigational drugs) per their medical record.\n* Patients who've had an invasive urological procedure within 1 month of enrollment, as confirmed by their medical record and patient reporting.\n* Patients with no access to the rectum for a transrectal ultrasound, as determined by the Urologist.\n* Patients with a contraindication to magnetic resonance imaging (MRI).\n* Vulnerable populations: Prisoners or adult men \\>89 years old.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "89 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants with detection of clinically significant prostate cancer (csPCa)",
+      "timeFrame": "01/01/2016-12/31/2026",
+      "description": "csPCa is defined as PCa with a Gleason Grade Group of 2 through 5 found on prostate biopsy. Detection of csPCa will be compared for HITPIRADS vs. PIRADS v2.1 with a focus on suspicious lesions."
+    }
+  ],
+  "sponsor": "Northwestern University",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2025-08",
+  "completion_date": "2028-05",
+  "last_updated": "2025-05-27"
+}

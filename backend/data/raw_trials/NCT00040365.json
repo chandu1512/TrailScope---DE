@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT00040365",
+  "brief_title": "Amifostine to Protect the Rectum During External Beam Radiotherapy for Prostate Cancer",
+  "official_title": "Amifostine as a Rectal Protector During External Beam Radiotherapy for Prostate Cancer: A Phase II Study",
+  "brief_summary": "This study will evaluate the safety and effectiveness of a drug called amifostine in reducing the bowel side effects of radiation treatment for prostate cancer. Amifostine is a 'radioprotector' medicine that to protects normal tissue from radiation damage. This study will determine whether placing amifostine in the rectum during radiation treatment for prostate cancer can decrease common side effects of treatment, including diarrhea, painful bowel movements, bleeding, and gas.\n\nPatients 18 years of age or older with prostate cancer may be eligible for this study. Candidates will be screened with a medical history and physical examination, blood tests, bone scan if a recent one is not available, and possibly computed tomography (CT) and magnetic resonance imaging (MRI) scans of the pelvis. They will also have a liquid retention test, in which they are given an enema of 4 tablespoons of salt water that they must retain for 20 minutes.\n\nParticipants will receive standard radiation therapy for prostate cancer-5 consecutive days for 8 weeks-in the National Institutes of Health (NIH) Radiation Oncology Clinic. Amifostine will be placed in the rectum by a mini-enema before each radiation treatment so that it covers the lining of the rectum. To determine the side effects of the treatment, patients will undergo a proctoscopic examination before beginning radiation therapy, two times during therapy, and at each follow-up visit for 5 years after treatment ends. This examination involves inserting a proctoscope (a thin flexible tube with a light at the end) into the rectum and taking pictures.\n\nPatients will be followed in the clinic at visits scheduled 1, 3, 6, 12, 18, 24, 36, 48, and 60 months after treatment for a physical examination and routine blood tests, proctoscopic examination, and review of bowel symptoms.",
+  "detailed_description": "Normal tissue tolerance of the rectum limits the dose of radiation that can be delivered to the prostate for curative treatment of prostate cancer. Amifostine is a radioprotector, an agent that reduces tissue damage incurred by ionizing radiation. It has been well studied in humans and is approved for intravenous use. Rectal administration results in a preferential accumulation of Amifostine in the rectal mucosa, and neither free parent compound nor free active metabolite have been detected in systemic circulation. This trial proposes to observe the rate of early and late bowel toxicity in a group of patients with prostate cancer receiving standard high dose, 3D conformal external beam radiotherapy and concurrent intra-rectal applications of Amifostine. Primary measures of rectal toxicity (RTOG radiation morbidity scoring) will also be compared with self-assessment measures of quality of life, and rectal radiation dose as assessed by dose-volume histograms.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 30,
+  "conditions": [
+    "Prostatic Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Amifostine trihydrate",
+      "type": "DRUG",
+      "description": "1000 mg for the first 18 patients. 2000 mg for the last 12 patients. The syringe of amifostine will be connected to a rectal enema bottle for administration. Administered slowly over 30-60 seconds with the patient in recumbent position 30-45 minutes prior to each radiation treatment (33-39 doses)."
+    },
+    {
+      "name": "Radiation therapy",
+      "type": "RADIATION",
+      "description": "The treatment will be delivered in at least two phases. The first field reduction will occur after 46Gy and the second field reduction will occur after 70Gy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "* INCLUSION CRITERIA:\n\nPathologically confirmed adenocarcinoma of the prostate gland.\n\nAge greater than or equal to 18 years.\n\nEastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n\nInformed consent: All patients must sign a document of informed consent indicating their understanding of the investigational nature and risks of the study before any protocol related studies are performed (this does not include routine laboratory tests or imaging studies required to establish eligibility).\n\nEXCLUSION CRITERIA:\n\nOther active malignancy (except for non-melanoma skin cancer).\n\nPatient with a prior history of pelvic or prostate radiotherapy.\n\nPatients with chronic inflammatory bowel disease.\n\nPatients with distant metastatic disease.\n\nCognitively impaired patients who cannot give informed consent.\n\nHuman Immunodeficiency Virus (HIV) positivity.\n\nOther medical conditions deemed by the principal investigator (PI) or associates to make the patient ineligible for high dose radiotherapy.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health Clinical Center, 9000 Rockville Pike",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With a Good Toxicity Outcome Who Experienced an Acute Rectal Toxicity and Received Topical Administrations of Amifostine in Conjunction With High Dose, 3D Conformal Radiotherapy for Prostate Cancer.",
+      "timeFrame": "RTOG Acute was used on week 5 and 7",
+      "description": "A good toxicity outcome is defined as having less than grade 2 on both weeks 5 and 7 of treatment. The Radiation Therapy Oncology Group (RTOG) Acute radiation morbidity scoring scheme and the Rectal Mucosal Toxicity response criteria will be used to assess rectal toxicity. The RTOG measures the rectal toxicities. The physician assigns a grade based on symptoms reported by the patient. For details about the RTOG (method and scoring of radiation morbidity, etc.) see http://www.rtog.org/ResearchAssociates/AdverseEventReporting/AcuteRadiationMorbidityScoringCriteria.aspx"
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2002-06",
+  "completion_date": "2011-06",
+  "last_updated": "2012-04-26"
+}

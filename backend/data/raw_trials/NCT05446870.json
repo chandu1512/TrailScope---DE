@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT05446870",
+  "brief_title": "Pembrolizumab With Chemotherapy and MK-4830 for Treating Participants With Ovarian Cancer (MK-4830-002)",
+  "official_title": "A Randomized, Phase 2 Study of Pembrolizumab And Chemotherapy With or Without MK-4830 as Neoadjuvant Treatment for High-Grade Serous Ovarian Cancer",
+  "brief_summary": "The primary objective is to evaluate in participants with high-grade serous ovarian cancer (HGSOC), whether the reduction from baseline in circulating tumor deoxyribonucleic acid (ctDNA) at Cycle 3 (\u0394ctDNA) is larger in participants receiving MK-4830 + pembrolizumab in combination with standard of care (SOC) therapy than in those receiving pembrolizumab + SOC therapy.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 160,
+  "conditions": [
+    "High-grade Serous Ovarian Carcinoma",
+    "Ovarian Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Pembrolizumab",
+      "type": "BIOLOGICAL",
+      "description": "200 mg by IV infusion on Day 1 of each 21-day cycle"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "175 mg/m\\^2 by IV infusion on Day 1 of each 21-day cycle"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "AUC 5 to 6 by IV infusion on Day 1 of each 21-day cycle"
+    },
+    {
+      "name": "Avastin",
+      "type": "BIOLOGICAL",
+      "description": "According to local practice and at the choice of the investigator."
+    },
+    {
+      "name": "MK-4830",
+      "type": "BIOLOGICAL",
+      "description": "800 mg by IV infusion on Day 1 of each 21-day cycle"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "75 mg/m\\^2 by IV infusion on Day 1 of each 21-day cycle"
+    }
+  ],
+  "eligibility": {
+    "criteria": "The main inclusion and exclusion criteria include but are not limited to the following:\n\nInclusion Criteria:\n\n* Has histologically-confirmed International Federation of Gynecology and Obstetrics (FIGO) Stage III or Stage IV HGSOC, primary peritoneal cancer, or fallopian tube cancer.\n* Is a candidate for carboplatin and paclitaxel chemotherapy, to be administered in the neoadjuvant and adjuvant setting.\n* Is a candidate for interval debulking surgery.\n* Is able to provide archival tissue or newly obtained core, incisional, or excisional biopsy of a tumor lesion.\n* Has adequate organ functions.\n\nExclusion Criteria:\n\n* Has a non-HGSOC histology.\n* Has a history of (noninfectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease.\n* Has a known additional malignancy that is progressing or has required active treatment within the past 3 years.\n* Has received prior treatment for any stage of ovarian cancer (OC), including radiation or systemic anticancer therapy.\n* Planned or has been administered intraperitoneal chemotherapy as first-line therapy.\n* Has received prior therapy with an anti-programmed cell death 1 protein (PD-1), anti-programmed cell death 1 ligand 1 (PD-L1), anti-programmed cell death 1 ligand 2 (PD-L2), anti-immunoglobulin-like transcript 4 (ILT4), or anti-human leukocyte antigen (HLA)-G agent or with an agent directed to another stimulatory or coinhibitory T-cell receptor.\n* Has received a live or live-attenuated vaccine within 30 days before the first dose of study intervention.\n* Is currently participating in or has participated in a study of an investigational agent or has used an investigational device within 4 weeks before the first dose of study intervention.\n* Has a diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior the first dose of study medication.\n* Has known active central nervous system (CNS) metastases and/or carcinomatous meningitis.\n* Has severe hypersensitivity to pembrolizumab, carboplatin, paclitaxel (or docetaxel, if applicable), Avastin or biosimilar (if using) and/or any of their excipients.\n* Has an active autoimmune disease that has required systemic treatment in past 2 years.\n* Has an active infection requiring systemic therapy.\n* Has a known history of human immunodeficiency virus (HIV) infection.\n* Has a known history of hepatitis B or known active hepatitis C virus infection.\n* Has received colony-stimulating factors within 4 weeks prior to receiving study intervention on Day 1 of Cycle 1.\n* Has had surgery \\<6 months prior to Screening to treat borderline ovarian tumors, early-stage OC, or early-stage fallopian tube cancer.\n* Has a known psychiatric or substance abuse disorder that would interfere with the participant's ability to cooperate with the requirements of the study.\n* Has current, clinically relevant bowel obstruction.\n* Has a history of hemorrhage, hemoptysis, or active gastrointestinal (GI) bleeding within 6 months prior to randomization.\n* Has uncontrolled hypertension.\n* Has had an allogenic tissue/solid organ transplant.\n* Has either had major surgery within 3 weeks of randomization or has not recovered from any effects of any major surgery.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey ( Site 0114)",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change From Baseline in Circulating Tumor Deoxyribonucleic Acid (ctDNA)",
+      "timeFrame": "Baseline and Week 7",
+      "description": "Blood samples were collected to determine levels of ctDNA. The fold change in the mean mutant/tumor molecules per mL (MTM/mL) at Cycle 3 from baseline is presented."
+    }
+  ],
+  "sponsor": "Merck Sharp & Dohme LLC",
+  "collaborators": [],
+  "start_date": "2022-07-25",
+  "completion_date": "2024-10-16",
+  "last_updated": "2025-09-11"
+}

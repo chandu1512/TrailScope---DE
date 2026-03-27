@@ -1,0 +1,105 @@
+{
+  "nct_id": "NCT03906071",
+  "brief_title": "Phase 3 Study of Sitravatinib Plus Nivolumab vs Docetaxel in Patients With Advanced Non-Squamous Non-Small Cell Lung Cancer",
+  "official_title": "A Randomized Phase 3 Study of Sitravatinib in Combination With Nivolumab Versus Docetaxel in Patients With Advanced Non-Squamous Non-Small Cell Lung Cancer With Disease Progression On or After Platinum-Based Chemotherapy and Checkpoint Inhibitor Therapy SAPPHIRE",
+  "brief_summary": "This study will compare the efficacy of the investigational agent sitravatinib in combination with nivolumab versus docetaxel in patients with advanced non-squamous NSCLC who have previously experienced disease progression on or after platinum-based chemotherapy and checkpoint inhibitor therapy.",
+  "detailed_description": "Sitravatinib (MGCD516) is an orally-available, small molecule inhibitor of a closely related spectrum of receptor tyrosine kinases (RTKs) including MET, TAM (Tyro3, AXL, MERTK) family, VEGFR family, PDGFR family, KIT, FLT3, TRK family, RET, DDR2, and selected EPH family members. Nivolumab is a human IgG monoclonal antibody that binds to the PD-1 receptor and selectively blocks the interaction with its ligands PD-L1 and PD-L2, thereby releasing PD-1 pathway mediated inhibition of the immune response, including anti-tumor immune response. RTKs have been implicated in mediating an immunosuppressive tumor microenvironment, which has emerged as a potential resistance mechanism to checkpoint inhibitor therapy. Inhibition of these RTKs by sitravatinib may augment anti-tumor immune response and improve outcomes by overcoming resistance to checkpoint inhibitor therapy.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 577,
+  "conditions": [
+    "Metastatic Non-Squamous Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Nivolumab is an antibody directed at the programmed death receptor-1 (PD-1), blocking its interaction with PD-L1 and PD-L2."
+    },
+    {
+      "name": "Sitravatinib",
+      "type": "DRUG",
+      "description": "Sitravatinib is a small molecule inhibitor of receptor tyrosine kinases."
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Docetaxel is an anti-neoplastic agent that acts by disrupting the microtubular network in cells."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Diagnosis of Non-Squamous Non-Small Cell Lung Cancer\n* Receipt of at least one but not more than two prior treatment regimens in the advanced setting\n* Prior treatment with PD-1/PD-L1 checkpoint inhibitor therapy and platinum-based chemotherapy in combination or in sequence (i.e., platinum-based chemotheraphy followed by checkpoint inhibitor therapy)\n* Most recent treatment regimen must have included a checkpoint inhibitor therapy with radiographic disease progression on or after treatment\n* Candidate to receive docetaxel as second or third line therapy\n\nExclusion Criteria:\n\n* Uncontrolled brain metastases\n* Tumors that have tested positive for EGFR, ROS1, ALK mutations, or ALK fusions\n* Unacceptable toxicity with prior checkpoint inhibitor therapy\n* Receipt of systemic anti-cancer therapy post checkpoint inhibitor therapy, other than maintenance chemotherapy\n* Impaired heart function",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 005-178",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "20850-6535",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 005-142",
+      "city": "Florham Park",
+      "state": "New Jersey",
+      "zip": "07932",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 005-163",
+      "city": "Little Silver",
+      "state": "New Jersey",
+      "zip": "07739",
+      "status": ""
+    },
+    {
+      "facility": "Cooperman Barnabas Medical Center",
+      "city": "Livingston",
+      "state": "New Jersey",
+      "zip": "07039",
+      "status": ""
+    },
+    {
+      "facility": "Regional Cancer Care Associates - Sparta",
+      "city": "Sparta",
+      "state": "New Jersey",
+      "zip": "07871",
+      "status": ""
+    },
+    {
+      "facility": "USOR - Alliance Cancer Specialists - Horsham (Abington Hematology Oncology Associates)",
+      "city": "Horsham",
+      "state": "Pennsylvania",
+      "zip": "19044",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 005-186",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "From randomization date to date of death due to any cause (Up to approximately 44 months)",
+      "description": "OS is defined as time from date of randomization to date of death due to any cause. Patients who did not die on study are censored at the date of the last on-study follow-up that the patient was known to be alive (including follow-up data). Results obtained via Kaplan-Meier estimation, Brookmeyer and Crowley (1982) method."
+    }
+  ],
+  "sponsor": "Mirati Therapeutics Inc.",
+  "collaborators": [
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2019-07-15",
+  "completion_date": "2025-09-30",
+  "last_updated": "2025-10-16"
+}

@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT00114218",
+  "brief_title": "Gemcitabine and Docetaxel in Treating Patients With Recurrent or Persistent Uterine Cancer",
+  "official_title": "A Phase II Evaluation of Gemcitabine (NSC #613327) and Docetaxel (NSC # 628503) in the Treatment of Recurrent or Persistent Carcinosarcoma of the Uterus",
+  "brief_summary": "This phase II trial is studying how well giving gemcitabine together with docetaxel works in treating patients with recurrent or persistent uterine cancer. Drugs used in chemotherapy, such as gemcitabine and docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells.",
+  "detailed_description": "OBJECTIVES:\n\nI. Determine the antitumor activity of gemcitabine and docetaxel in patients with recurrent or persistent uterine carcinosarcoma.\n\nII. Determine the nature and degree of toxicity of this regimen in these patients.\n\nOUTLINE: This is a non-randomized, multicenter study. Patients receive gemcitabine IV over 30 minutes followed by docetaxel IV over 1 hour on days 1, 8, and 15. Courses repeat every 28 days in the absence of unacceptable toxicity or disease progression.\n\nAfter completion of study treatment, patients are followed every 3 months for 2 years and then every 6 months for 3 years.\n\nPROJECTED ACCRUAL: A total of 22-60 patients will be accrued for this study within 1-4 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 28,
+  "conditions": [
+    "Recurrent Uterine Corpus Sarcoma",
+    "Uterine Carcinosarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "Gemcitabine Hydrochloride",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Given IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed uterine carcinosarcoma\n\n  * Malignant mixed M\u00fcllerian tumor, homologous or heterologous type\n  * Recurrent or persistent disease\n\n    * Progressive disease after prior local therapy\n* Measurable disease, defined as \u2265 1 unidimensionally measurable lesion \u2265 20 mm by conventional techniques OR \u2265 10 mm by spiral CT scan\n\n  * At least 1 target lesion\n  * Tumors within a previously irradiated field are not considered target lesions except documented progression or biopsy to confirm persistence at least 90 days after completion of radiation therapy\n* Received 1, and only 1, prior chemotherapy regimen for carcinosarcoma\n\n  * Initial treatment may have included high-dose therapy, consolidation, or extended therapy administered after surgical or non-surgical assessment\n* Ineligible for higher priority GOG protocol (i.e., any active phase III GOG protocol for the same patient population)\n* Performance status - GOG 0-2\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Bilirubin \u2264 1.5 times upper limit normal (ULN)\n* SGOT \u2264 2.5 times ULN\n* Alkaline phosphatase \u2264 2.5 times ULN\n* Creatinine \u2264 1.5 times ULN\n* No severe pulmonary disease requiring oxygen supplementation\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No active infection requiring antibiotics\n* No other invasive malignancy within the past 5 years except nonmelanoma skin cancer\n* No neuropathy (sensory or motor) \\> grade 1\n* At least 3 weeks since prior biologic therapy or immunotherapy for the malignancy\n* No more than 1 prior non-cytotoxic (biologic or cytostatic) regimen (e.g., monoclonal antibodies, cytokines, or small molecule inhibitors of signal transduction) for recurrent or persistent disease\n* Recovered from prior chemotherapy\n* No more than 1 prior cytotoxic chemotherapy regimen, either as a single agent or combination therapy\n* No prior docetaxel or gemcitabine\n* At least 1 week since prior hormonal therapy for the malignancy\n* Concurrent hormone replacement therapy allowed\n* Recovered from prior radiotherapy\n* Recovered from prior surgery\n* At least 3 weeks since other prior therapy for the malignancy\n* No prior cancer treatment that would preclude study therapy",
+    "gender": "FEMALE",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Gynecologic Oncology Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Patients With Objective Tumor Response Rate (Either Complete Response (CR) or Partial Response (PR) Using RECIST Version 1.0",
+      "timeFrame": "CT scan or MRI if used to follow lesions for measurable disease every other cycle for the first 6 months; every 6 months thereafter until disease progression for up to 5 years.",
+      "description": "RECIST 1.0 defines complete response as the disappearance of all target lesions and non-target lesions and no evidence of new lesions documented by two disease assessments at least 4 weeks apart. Partial response is defined as at least a 30% decrease in the sum of longest dimensions (LD) of all target measurable lesions taking as reference the baseline sum of LD. There can be no unequivocal progression of non-target lesions and no new lesions. Documentation by two disease assessments at least 4 weeks apart is required. In the case where the ONLY target lesion is a solitary pelvic mass measured by physical exam, which is not radiographically measurable, a 50% decrease in the LD is required. These patients will have their response classified according to the definitions stated above. Complete and partial responses are included in the objective tumor response rate."
+    },
+    {
+      "measure": "Incidence of Adverse Effects That Are Grade 3 or Greater as Assessed by Common Terminology Criteria for Adverse Events Version 3.0",
+      "timeFrame": "Assessed every 28 days (28 days=1 cycle) while on study treatment, 30 days after the last cycle of treatment, and up to 5 years in follow-up",
+      "description": "Count of participants with Toxicities maximum grade greater than or equal to grade 3"
+    }
+  ],
+  "sponsor": "Gynecologic Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2005-03",
+  "completion_date": "",
+  "last_updated": "2018-12-17"
+}

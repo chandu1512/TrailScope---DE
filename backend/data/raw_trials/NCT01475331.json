@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT01475331",
+  "brief_title": "The CHARM Trial: Chemotherapy for Ablation and Resolution of Mucinous Pancreatic Cysts",
+  "official_title": "",
+  "brief_summary": "The purpose of this study is to evaluate the efficacy of a chemotherapeutic cocktail with or without prior ethanol lavage for ablation of premalignant pancreatic cysts using endoscopic ultrasound-guided fine needle injection (EUS-FNI) for agent delivery.",
+  "detailed_description": "While about half of pancreatic cystic lesions have little to no malignant potential, mucinous cystic neoplasms (MCNs) and intraductal papillary mucinous neoplasms (IPMNs) carry a high potential for progression into pancreatic cancer. Therefore, either close radiographic surveillance or surgical resection is generally recommended for these cysts. However, pancreatic surgery is associated with a significant risk of morbidity and mortality and not all patients are good surgical candidates. As an alternative, endoscopic ultrasound-guided fine needle injection(EUS-FNI) has been shown to be moderately effective in ablating cystic lesions.\n\nThe goal of this investigation is to improve the efficacy and safety of this procedure when compared with previous versions of the technique. This study is designed to evaluate the efficacy of a chemotherapeutic cocktail with or without prior ethanol lavage for ablation of pancreatic cystic neoplasms using EUS-FNI for agent delivery. This paired, prospective, double-blind, randomized study will include 78 patients referred to the Penn State Hershey Medical Center. Mucinous or indeterminate pancreatic cysts of 1-5cm with less than 5 compartments and without clear communication with the main pancreatic duct will be included. Patients will be randomized in a 1:1 ratio into a control arm or study arm. Patients randomized to the control arm will receive ethanol lavage of the cyst followed by injection of two carefully selected chemotherapeutic agents. Study arm patients will receive a normal saline lavage followed by injection of the same chemotherapy admixture. Patients will be monitored for 2 hours post-procedure, and a follow-up CT will be performed at 6, and 12 months, or as determined necessary to evaluate cyst resolution. Patients may elect to undergo evaluation for surgical resection at any time, regardless of response, in which case a dedicated pathologist will evaluate any surgical specimens.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 46,
+  "conditions": [
+    "Mucinous Pancreatic Cysts"
+  ],
+  "interventions": [
+    {
+      "name": "Ethanol",
+      "type": "DRUG",
+      "description": "Cysts will be lavaged for 3-5 minutes with 80% EtOH"
+    },
+    {
+      "name": "Normal Saline",
+      "type": "DRUG",
+      "description": "Cysts will be lavaged for 3-5 minutes with normal saline"
+    },
+    {
+      "name": "Chemotherapy",
+      "type": "DRUG",
+      "description": "Following lavage with either 80% ethanol (control group) or normal saline (study group), cysts will be injected with a cocktail of 3mg/ml paclitaxel and 19mg/ml gemcitabine."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients age 18 and older of any gender, ethnicity and race\n* Voluntary enrollment and ability to give written informed consent\n* Capable of safely undergoing endoscopy with deep sedation or general anesthesia\n* Patients with previously-detected pancreatic cyst(s) 1-5 cm in diameter, including indeterminate cysts\n\nExclusion Criteria:\n\n* Pancreatic cyst \\<1cm or \\>5cm\n* Pancreatic cyst with clear communication with main pancreatic duct\n* Clearly benign lesions by clinical and radiographic evaluation (pseudocysts and serous cystadenomas)\n* Known or suspected pancreatic cancer or pathologic lymphadenopathy\n* Septated cysts with \\> 5 compartments\n* Coagulopathy (international normalized ratio \\> 1.6, platelets \\< 30,000)\n* Evidence of active pancreatitis or pancreatic infection\n* Patients having undergone endoscopic retrograde cholangiopancreatography (ERCP) within 72 hours\n* Baseline lab values at the time of consent: white blood cells \\> 14 or \\< 2, hematocrit \\< 30, platelets \\< 30,000, INR \\> 1.6, abnormal CA19-9, lipase \\> 3 times the upper limit of normal, creatinine \\> 2.5, ALT \\> 210, total bilirubin \\> 2.5, positive qualitative beta-hCG.\n* Any pre-existing or discovered medical condition that may, at the discretion of the investigator, interfere with the completion of and/or participation in the existing protocol.\n* Pregnant, breastfeeding, or incarcerated individuals",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State Milton S. Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With the Changing in Cyst Volume",
+      "timeFrame": "6, and 12 months post procedure",
+      "description": "The primary outcome of interest will be change in cyst size, as measured on initial, 6, and 12 month CT/MRI, or as determined necessary to evaluate cyst resolution. Cyst size was calculated by measuring x and y diameters and calculating cyst volume using the formula:4/3xpxr3 where r is the average of the cyst radius as measured on the initial, 6-month, and 12-month magnetic resonance imaging or computed tomography. Response was defined according to the same volume percentage reductions as described in previous trials where: complete response is a =\\>95% reduction in cyst volume, partial response is a 94%-75% reduction, and anon-response is \\<75% reduction in volume.11 The overall ablation rates in both arms were also compared with historical controls to assess the efficacy of the chemotherapeutic cocktail."
+    }
+  ],
+  "sponsor": "Milton S. Hershey Medical Center",
+  "collaborators": [],
+  "start_date": "2011-11",
+  "completion_date": "2017-01",
+  "last_updated": "2018-02-20"
+}

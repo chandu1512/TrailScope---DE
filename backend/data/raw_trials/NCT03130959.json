@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT03130959",
+  "brief_title": "A Study to Evaluate the Safety and Efficacy of Nivolumab Monotherapy and Nivolumab in Combination With Ipilimumab in Pediatric Participants With High Grade Primary Central Nervous System (CNS) Malignancies",
+  "official_title": "Phase Ib /II Clinical Trial of Nivolumab Monotherapy and Nivolumab in Combination With Ipilimumab in Pediatric Subjects With High Grade Primary CNS Malignancies",
+  "brief_summary": "The purpose of this study is to determine the safety and effectiveness of nivolumab alone and in combination with ipilimumab in pediatric patients with high grade primary central nervous system (CNS) malignancies.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 166,
+  "conditions": [
+    "Various Advanced Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Ipilimumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Must have received standard of care therapy, and there must be no potentially-curative treatment available, in one of the following cohorts:\n* A newly diagnosed Diffuse Intrinsic Pontine Glioma (DIPG) that has been treated with radiation therapy (RT) but no chemotherapy\n* A histologically confirmed recurrent or progressive non-brainstem High Grade Glioma (HGG) previously treated with surgical resection and RT\n* A histologically confirmed medulloblastoma that has relapsed or is resistant to at least one line of prior therapy including surgery, RT, and chemotherapy\n* A histologically confirmed ependymoma that has relapsed or is resistant to at least one line of prior therapy including surgical resection and RT\n* A histologically-confirmed high grade CNS malignancy \"other than above\" which is recurrent or progressive after at least one line of prior therapy\n* Lansky play score (LPS) for \u2264 16 years of age or Karnofsky performance scale (KPS) for \\> 16 years of age assessed within two weeks of enrollment must be \\>= 60\n* A tumor sample must be available for submission to central laboratory (not required for DIPG)\n\nExclusion Criteria:\n\n* An active, known, or suspected autoimmune disease\n* A concurrent condition requiring systemic treatment with either corticosteroids or other immunosuppressive medications within 14 days of start of study treatment\n* Known history of positive test for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS).\n\nOther protocol defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "6 Months",
+    "max_age": "21 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0005",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0066",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Safety Lead-In Participants With Dose Limiting Toxicities (DLTs)",
+      "timeFrame": "up to 6 weeks post-dosing",
+      "description": "A dose-limiting toxicity (DLT) is defined as a drug-related AE occurring in the first 6 weeks of study treatment. A participant was considered evaluable for a DLT if study treatment was delayed \\> 2 weeks or was discontinued due to a related Adverse Event (AE), or if planned study treatment (3 doses of nivolumab in Module A, 2 doses of nivolumab plus ipilimumab in Module B) was administered and safety evaluation after 6 weeks on study is available to the study steering committee (SSC)."
+    },
+    {
+      "measure": "Number of Safety Lead-In Participants With Serious Adverse Events (SAEs)",
+      "timeFrame": "up to 6 weeks post-dosing",
+      "description": "The number of Safety Lead-In Participants who experienced a Serious Adverse Event (SAE) during the course of the study."
+    },
+    {
+      "measure": "Number of Safety Lead-In Participants With Adverse Events (AEs) Leading to Discontinuation",
+      "timeFrame": "From first dose to 30 days post-last dose (up to approximately 6 weeks)",
+      "description": "The number of Safety Lead-In Participants who experienced an Adverse Event (AE) during the course of the study that lead to discontinuation of study therapy."
+    },
+    {
+      "measure": "Overall Survival (OS), Cohort 1 Only",
+      "timeFrame": "up to approximately 42 months",
+      "description": "Overall survival (OS) is defined as the time between the date of diagnosis and the date of death in Cohort 1."
+    },
+    {
+      "measure": "Progression-Free Survival (PFS), Cohorts 2-4",
+      "timeFrame": "up to approximately 42 months",
+      "description": "Progression-free survival (PFS) is defined as the time from first dose to the date of the first documented tumor progression or death due to any cause."
+    },
+    {
+      "measure": "Progression-Free Survival (PFS), Cohort 5 Only",
+      "timeFrame": "up to approximately 42 months",
+      "description": "Progression-free survival (PFS) is defined as the time from first dose to the date of the first documented tumor progression or death due to any cause."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2017-06-12",
+  "completion_date": "2022-01-17",
+  "last_updated": "2022-07-14"
+}

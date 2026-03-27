@@ -1,0 +1,89 @@
+{
+  "nct_id": "NCT06413680",
+  "brief_title": "A First-In Human (FIH) Study to Find Out How Well REGN10597 Medicine Given Alone or in Combination With Cemiplimab Works in Adult Participants Who Have Cancer With Tumors That Have Spread in Their Body",
+  "official_title": "A Phase 1/2a, Open-Label, Dose Escalation and Dose Expansion First-In-Human Study of the Safety, Tolerability, Activity, and Pharmacokinetics of REGN10597 (Anti-PD-1-IL-2RA-IL-2 Fusion Protein) Alone or in Combination With Cemiplimab in Patients With Advanced Solid Organ Malignancies",
+  "brief_summary": "This study is researching an experimental drug called REGN10597 alone or in combination with another drug called cemiplimab (called \"study drug(s)\"). The study is focused on patients with certain solid tumors that are in an advanced stage.\n\nThe aim of the study is to see how safe, tolerable, and effective the study drug(s) are.\n\nThe study is looking at several other research questions, including:\n\n* What side effects may happen from taking the study drug(s)\n* How much study drug(s) is in the blood at different times\n* Whether the body makes antibodies against the study drug(s) (which could make the study drug(s) less effective or could lead to side effects)",
+  "detailed_description": "Phase 1: Conducted in the United States only Phase 2: Conducted globally",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 240,
+  "conditions": [
+    "Melanoma",
+    "Clear-Cell Renal-Cell Carcinoma (ccRCC)",
+    "Advanced Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "REGN10597",
+      "type": "DRUG",
+      "description": "Administered per the protocol"
+    },
+    {
+      "name": "Cemiplimab",
+      "type": "DRUG",
+      "description": "Administered per the protocol"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\nDose escalation cohorts:\n\n1. Histologically or cytologically confirmed diagnosis of solid malignancy (locally advanced or metastatic) with confirmed progression on standard-of-care therapy\n2. Participants are required to submit archival tissue if it is available\n\nDose expansion cohorts:\n\n1. Histologically of cytologically confirmed diagnosis of one of the following tumors with criteria, as defined in the protocol:\n\n   * Module 1, Cohort 1: anti-PD-(L)1 Progressed Melanoma or\n   * Module 1, Cohort 2: anti-PD-(L)1 Progressed RCC or\n   * Module 2, Cohort 1: 1L Melanoma\n2. ALL Participants ARE REQUIRED to submit fresh pretreatment biopsy during screening, with an additional exploratory biopsy at other time points\n\nKey Exclusion Criteria:\n\n1. Prior treatment with Interleukin 2 (IL2)/IL15/IL-7 given outside the context of concurrent administration with adoptive cell therapy\n2. Prior treatment with anti-PD1/PD-L1, or an approved systemic therapy or any previous systemic non-immunomodulatory biologic therapy within 4 weeks, as defined in the protocol\n3. Has received radiation therapy or major surgery within 14 days prior to first dose of study drug or has not yet recovered from AEs\n4. Has had prior anti-cancer immunotherapy within 4 weeks prior to study intervention, and discontinuation due to grade 3 or 4 toxicities\n5. Has ongoing immune-related AEs prior to initiation of study intervention, as defined in the protocol\n6. Has known allergy or hypersensitivity to components of the study drug(s)\n7. Has any condition requiring ongoing/continuous corticosteroid therapy (\\>10 mg prednisone/day or anti-inflammatory equivalent) within 1-2 weeks to the first dose of study intervention\n8. Has ongoing or recent (within 5 years) evidence of significant autoimmune disease or any other condition that required treatment with systemic immunosuppressive treatments\n\nNOTE: Other Protocol Defined Inclusion / Exclusion Criteria Apply.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Medical Center - Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of Dose-Limiting Toxicities (DLTs)",
+      "timeFrame": "Up to Day 29",
+      "description": "Dose escalation"
+    },
+    {
+      "measure": "Incidence of Treatment-Emergent Adverse Event (TEAEs)",
+      "timeFrame": "Approximately 6 Years",
+      "description": "Dose escalation"
+    },
+    {
+      "measure": "Incidence of Serious Adverse Events (SAEs)",
+      "timeFrame": "Approximately 6 Years",
+      "description": "Dose escalation"
+    },
+    {
+      "measure": "Incidence of TEAEs leading to treatment discontinuation",
+      "timeFrame": "Approximately 6 Years",
+      "description": "Dose escalation"
+    },
+    {
+      "measure": "Incidence of TEAEs leading to death",
+      "timeFrame": "Approximately 6 Years",
+      "description": "Dose escalation"
+    },
+    {
+      "measure": "Number of participants with Grade 3 laboratory abnormalities",
+      "timeFrame": "Approximately 6 Years",
+      "description": "Dose escalation Grade 3 or higher per Common Terminology Criteria for Adverse Events (CTCAE) version 5.0"
+    },
+    {
+      "measure": "Objective Response Rate (ORR) per Response Evaluation Criteria In Solid Tumors (RECIST 1.1) criteria by investigator assessment",
+      "timeFrame": "Approximately 6 Years",
+      "description": "Dose expansion"
+    }
+  ],
+  "sponsor": "Regeneron Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2024-09-23",
+  "completion_date": "2030-02-03",
+  "last_updated": "2025-12-09"
+}

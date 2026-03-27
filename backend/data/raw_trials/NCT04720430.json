@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT04720430",
+  "brief_title": "Blood Sample Collection for Experimental Blood Test to Track Liver Cancer",
+  "official_title": "Circulating MicroRNA Levels as a Predictor of Successful Bridging or Down-Staging Loco-Regional Therapy (LRT) to Liver Transplantation for Patients With Hepatocellular Carcinoma (HCC)",
+  "brief_summary": "This study investigates if an experimental blood test can help predict how well cancer will remain under control with treatment. Ther experimental blood test involves measuring mircoRNAs. MicroRNAs are small molecules which help regulate how genes are expressed. This information may help researchers guide treatment for other patients in the future.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 7,
+  "conditions": [
+    "Hepatocellular Carcinoma"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Provide signed and dated informed consent form\n* Willing to comply with all study procedures and be available for the duration of the study\n* Definite diagnosis of hepatocellular carcinoma established (by standard radiographic or histologic criteria)\n* Felt to be reasonable candidate for liver transplantation, potentially contingent on success of down-staging therapy\n\nExclusion Criteria:\n\n* Either active or recent solid organ cancer other than hepatocellur carcinoma (HCC) within the last 5 years, unless determined by transplant hepatology team not to represent contra-indication to liver transplantation\n* Contra-indication to LRT (as assessed by interventional radiologist, for example severe thrombocytopenia, severe vascular disease precluding access, etc)\n* History of prior liver transplantation\n* Active or prior systemic therapy for HCC",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Patient Clinical Status - Liver Transplant",
+      "timeFrame": "At study completion, up to 12 months",
+      "description": "Undergoing liver transplant"
+    },
+    {
+      "measure": "Patient Clinical Status - Death",
+      "timeFrame": "At study completion, up to 12 months",
+      "description": "Will assess the following: death"
+    },
+    {
+      "measure": "Patient Clinical Status - Candidacy",
+      "timeFrame": "At study completion, up to 12 months",
+      "description": "No longer candidate for transplantation for reasons other than tumor progression"
+    },
+    {
+      "measure": "Patient Clinical Status",
+      "timeFrame": "At study completion, up to 12 months",
+      "description": "No longer candidate for transplantation due to tumor progression despite loco-regional therapy efforts"
+    },
+    {
+      "measure": "Incidence of \"Wait List Drop Off\"",
+      "timeFrame": "At study completion, up to 12 months",
+      "description": "Will be estimated and presented with a Clopper-Pearson exact binomial confidence interval"
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2019-12-03",
+  "completion_date": "2023-11-09",
+  "last_updated": "2025-04-28"
+}

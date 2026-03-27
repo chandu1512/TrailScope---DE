@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT01539512",
+  "brief_title": "A Randomized, Double-Blind, Placebo-Controlled Study of Idelalisib in Combination With Rituximab for Previously Treated Chronic Lymphocytic Leukemia (CLL)",
+  "official_title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of Idelalisib (GS-1101) in Combination With Rituximab for Previously Treated Chronic Lymphocytic Leukemia",
+  "brief_summary": "This Phase 3, randomized, double-blind, placebo-controlled study is to evaluate the effect of idelalisib in combination with rituximab on the onset, magnitude, and duration of tumor control in participants previously treated for chronic lymphocytic leukemia (CLL). Eligible patients will be randomized with a 1:1 ratio into 1 of the 2 treatment arms to receive either idelalisib plus rituximab or placebo plus rituximab. Participants who are tolerating primary study therapy but experience definitive CLL progression are eligible to receive active idelalisib therapy in the extension study, GS-US-312-0117.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 220,
+  "conditions": [
+    "Chronic Lymphocytic Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "Idelalisib",
+      "type": "DRUG",
+      "description": "Idelalisib 150 mg tablet administered orally twice daily"
+    },
+    {
+      "name": "Rituximab",
+      "type": "DRUG",
+      "description": "Rituximab administered intravenously 8 times through Week 20: Day 1: 375 mg/m\\^2, and 500 mg/m\\^2 thereafter"
+    },
+    {
+      "name": "Placebo to match idelalisib",
+      "type": "DRUG",
+      "description": "Placebo to match idelalisib administered orally twice daily"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion:\n\n* Adult subjects with previously treated recurrent CLL who have measurable lymphadenopathy\n* Require therapy for CLL\n* Have experienced CLL progression \\< 24 months since the completion of the last prior therapy\n* Currently not sufficiently fit to receive cytotoxic therapy because of chemotherapy-induced bone marrow damage or comorbidities.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Hematology Oncology Associates of Northern New Jersey",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07962",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival",
+      "timeFrame": "Up to 17 months",
+      "description": "Progression-free survival was defined as the interval from randomization to the earlier of the first documentation of definitive disease progression or death from any cause. Definitive disease progression was CLL progression based on standard criteria (other than lymphocytosis alone) as defined by the 2008 update of the International Workshop on CLL guidelines, ie, appearance of any new lesion; increase by \u2265 50% in the sum of the products of the perpendicular diameters of measured lymph nodes (SPD); new or \u2265 50% enlargement of liver or spleen; transformation to a more aggressive histology (eg, Richter's or prolymphocytic transformation); reduction in the number of blood cells (cytopenia) attributable to CLL."
+    }
+  ],
+  "sponsor": "Gilead Sciences",
+  "collaborators": [],
+  "start_date": "2012-04",
+  "completion_date": "2014-04",
+  "last_updated": "2019-05-01"
+}

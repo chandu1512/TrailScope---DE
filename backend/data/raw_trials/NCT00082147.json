@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT00082147",
+  "brief_title": "Magnetic Resonance Imaging to Locate and Characterize Prostate Cancer",
+  "official_title": "A Prospective Histopathologic Study of Dynamic Contrast Enhanced MRI for Prostate Cancer Delineation and Characterization With the APT-MRI System",
+  "brief_summary": "This study will examine the usefulness of an imaging procedure called dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) for localizing and characterizing prostate cancer. For this test, a medicine is injected into a vein and the MRI measures how the medicine flows through the prostate gland. The measurements provide information about the blood vessels in the prostate gland, which provides other information about the cancer. Several needle biopsies are performed during the procedure, and the results of the biopsies are compared with the information from the DCE-MRI.\n\nMen 18 years of age and older with suspected or confirmed prostate cancer may be eligible for this study. Candidates are screened with a medical history and physical examination, blood test, and review of tumor pathology.\n\nParticipants undergo DCE-MRI and needle biopsies of the prostate. The day before and the morning of the procedure, patients are given an antibiotic called Levofloxacin. They also have a small enema the morning of the test. A local anesthetic is then given in the area around the prostate to numb the tissue and decrease any discomfort from the procedure. A tube is placed in the rectum to obtain better pictures of the prostate gland during the imaging. During the scan, the patient may be asked to breathe air that contains higher concentrations of oxygen and carbon dioxide than are in room air. The MRI scans guide the physician in selecting areas of the prostate to biopsy. For each biopsy, a needle is placed through the rectum into the prostate gland. When the needle is in place, a small tissue sample is withdrawn. This procedure is repeated until 4 to 10 biopsies are taken. During the procedure, which lasts about 1 hour, the patient lies on his stomach on a stretcher.\n\nPatients who are planning to undergo surgery or radiation treatment for their cancer at the NCI may have up to four 1-mm non-reactive gold markers placed in the prostate during the DCE-MRI procedure. The markers are left in place to help target the radiation treatments and to show where the biopsies were taken if the prostate is removed.\n\nAt the end of the procedure, the patient is moved to a bed to recover and may get up and urinate after about 30 to 60 minutes. After a period of observation, the patient is discharged home with a dose of antibiotic to take the next day.\n\nSome patients may be asked to repeat the MRI and biopsy procedure during or after their treatment for prostate cancer to help investigators learn whether the MRI test is still helpful after treatment. Repeat testing is optional.",
+  "detailed_description": "Accurate spatial delineation and biologic characterization of tumors within the prostate gland by non-invasive means, such as MR imaging, stands to impact the spectrum of prostate cancer care. At present there are no imaging techniques that can accurately delineate tumor extent. With dynamic contrast enhanced MRI (DCE-MRI), signal intensity can be plotted over time for various regions of interest within the prostate, and reflect physiological parameters such as tissue perfusion, blood flow, vascular density and vascular permeability. Preliminary studies suggest that malignant tumors demonstrate a more rapid and intense uptake of contrast, as well as a more rapid washout compared with the normal peripheral zone. However, histopathologic confirmation of these findings has been limited.\n\nThis study strives to establish a correlation between K(trans) calculated from DCE-MRI data and the corresponding tissue histopathology. This will be achieved by acquiring needle biopsies with the APT-MRI (Access to Prostate Tissue under MRI-guidance) system in accurate spatial and temporal reference to DCE-MR images. The study will accrue 80 patients over a 2-year period with the primary analysis relating K(trans) to the probability of malignancy using Generalized Estimating Equations.\n\nPatients who have undergone a TRUS-guided biopsy for suspected prostate cancer or patients with a pathological diagnosis of prostate cancer will be potential candidates for enrollment. Prior to the procedure, blood will be drawn and urine collected to measure PSA level and for protein profiling. Patients will then undergo endorectal coil MR imaging of the prostate gland, including conventional anatomic imaging and dynamic-contrast-enhanced MRI. During MR imaging, 4 to 10 needle biopsy cores of the prostate will be obtained using a trans-rectal needle guide system (APT-MRI). The ability to obtain prostate biopsy cores from all prostatic subzones and sites of interest will be documented, as will the overall procedure time and acute toxicities associated with the procedure. Histopathology and laboratory results of needle core biopsies will be compared to corresponding DCE-MRI measurements, prior TRUS-biopsy results, and/or prostatectomy specimens. This procedure may be repeated at a later time through the patient's course of observation, therapy, or follow up.\n\nThis is not a therapeutic trial. Patients admitted to this protocol will only be admitted to other protocols of experimental treatments if they also specifically meet the eligibility criteria for those protocols. Patients may derive benefit from the MRI-guided biopsy, which will be stated in the protocol consent document.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Biopsy",
+      "type": "PROCEDURE",
+      "description": "Patients will then undergo endorectal coil MR imaging of the prostate gland, including conventional anatomic imaging and dynamic-contrast-enhanced MRI During MR imaging, 4 to 10 needle biopsy cores of the prostate will be obtained using a trans-rectal needle guide system (APT-MRI)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "* INCLUSION CRITERIA:\n* ECOG performance status 0 or 1.\n* Patients with a TRUS-guided biopsy for suspected prostate cancer in the past twelve months, or patients with pathologically confirmed adenocarcinoma of the prostate gland and who have not received definitive local therapy.\n* Age greater than or equal to 18 years.\n* Informed consent: All patients must sign a document of informed consent indicating their understanding of the investigational nature and risks of the study before any protocol related studies are performed.\n\nEXCLUSION CRITERIA:\n\n* Contraindication to trans-rectal biopsy:\n* Bleeding disorder;\n* PT/PTT greater than or equal to 1.5 times the upper limit of normal;\n* Platelets less than or equal to 50K;\n* Active anticoagulation;\n* Severe immunocompromise;\n* Severe hemorrhoids;\n* Surgically absent rectum.\n* Contraindication to MRI:\n* Patients weighing greater than 136 kgs (weight limit for the scanner tables);\n* Allergy to MR contrast agent;\n* Patients with pacemakers, cerebral aneurysm clips, shrapnel injury or implantable electronic devices not compatible with MRI.\n* Allergy to local anesthetics or quinolone antibiotics.\n* Patients with a known diagnosis of prostate cancer and a known treatment plan to proceed to prostatectomy if the result of the biopsy would not affect surgical management.\n* Other medical conditions deemed by the PI or associates to make the patient ineligible for protocol procedures.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "90 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health Clinical Center, 9000 Rockville Pike",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Correlation between the DCE-MRI kinetic parameter Ktrans and histopathologic determination of malignancy at corresponding biopsy sites within the prostate gland.",
+      "timeFrame": "Post procedure",
+      "description": ""
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2004-04-29",
+  "completion_date": "2018-06-11",
+  "last_updated": "2018-06-12"
+}

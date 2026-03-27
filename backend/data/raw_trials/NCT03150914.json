@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT03150914",
+  "brief_title": "Multicenter Interventional Lymphangioleiomyomatosis (LAM) Early Disease Trial",
+  "official_title": "Multicenter Interventional Lymphangioleiomyomatosis (LAM) Early Disease Trial",
+  "brief_summary": "This is a study to determine if early, long-term low dose sirolimus is effective for preventing progression to more advanced stages.",
+  "detailed_description": "The primary objective of the MILED trial is to determine if early, long term (2 yr), low dose (fixed at 1 mg/day) treatment of patients with well-preserved lung function will prevent disease progression to more advanced stages. Sixty patients with FEV1\\>70% predicted will be enrolled and randomized to receive 1 mg/day sirolimus or placebo, and followed for a period of 2 years with pulmonary function testing every 4 months. The primary endpoint will be the between-group (placebo vs. sirolimus) difference in the rate of change in FEV1 (in liters) over two years. Secondary endpoints will include severity grade adverse events, time to 200cc or 10% FEV1 decline, forced vital capacity, lung volumes, diffusing capacity, serum VEGF-D, and early airflow obstruction assessed using hyper-polarized gas MRI. The study will be conducted through the Rare Lung Disease Clinic Network, a confederacy of clinics organized by the LAM Foundation that is currently following over 1300 U.S. LAM patients and conducting the Department of Defense sponsored Trial of an Aromatase Inhibitor in LAM (TRAIL) trial. The LAM Foundation will assist with study recruitment and dissemination of results, and the University of South Florida will function as the Data Coordinating Center. Successful completion of this study will define the safety and efficacy of low dose sirolimus in patients with normal lung function, and determine if sirolimus can be used to prevent disease progression to symptomatic stages.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "LAM",
+    "Lymphangioleiomyomatosis"
+  ],
+  "interventions": [
+    {
+      "name": "Sirolimus",
+      "type": "DRUG",
+      "description": "mTOR inhibitor or placebo"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Female, age 18 or over\n2. Signed and dated informed consent\n3. Diagnosis of LAM as determined by compatible lung CT and one of the following\n\n   1. biopsy (lung, abdominal mass, lymph node or kidney) or cytology from thoracic or abdominal sources revealing LAM, or\n   2. tuberous sclerosis, angiomyolipomata (diagnosed by CT, MRI by the site radiologist or biopsy) or chylous pleural effusion (verified by tap), or\n   3. VEGF-D level \u2265 800 pg/ml.\n4. Post-bronchodilator forced expiratory volume in one second of \\> 70%\n5. Presence of markers of non-trivial burden of LAM or likely progression based on one of the following:\n\n   1. pretrial FEV 1 rate of decline of \\>60cc/yr, comparing enrollment FEV1 to any prior measurement in the past 3 years, or\n   2. baseline supplemental oxygen requirement with exercise, or\n   3. pre-menopausal and one of the following (if post-menopausal, must have a VEGF-D level \u2265 600 pg/ml and one of the following) baseline diffusing capacity for carbon monoxide \u226480% predicted,\n\na) baseline residual volume \u2265120% predicted, b) baseline desaturation by 4% or more on six minute walk testing on room air c) more than 20 cysts on the carinal cut of the CT\n\nExclusion Criteria:\n\n1. Existing or imminent (within 12-18 months) clinical indication for treatment with mTOR inhibitors, based on judgment of site investigator\n2. DLCO \\<60% predicted\n3. Resting room air saturation \\<90%\n4. Exercise induced desaturation nadir on room air \\< 85%\n5. History of myocardial infarction, angina or stroke related to atherosclerosis\n6. Pregnant, breast feeding, or plan to become pregnant in the next 2.5 years\n7. Inadequate contraception\n8. Significant hematologic, renal, metabolic or hepatic abnormality (i.e. transaminase levels \\> three times the UL of normal range, HCT \\< 30%, platelets \\< 80,000/mm3, adjusted absolute neutrophil count \\< 1,000/ mm3, total WBC \\< 3,000/ mm3), creatinine \\>2.5 mg/dl, uncontrolled hyperlipidemia\n9. Acute or chronic infection, such as (nontuberculous mucobacteria or active hepatitis B or C infections)\n10. Recent surgery (involving entry into a body cavity or requiring 3 or more sutures) within three weeks of initiation of study drug\n11. Use of sirolimus, everolimus or investigational treatment for LAM within the 30 days prior to randomization\n12. Previous lung transplantation or active on transplant list\n13. Inability to attend scheduled clinic visits, or perform pulmonary function testing\n14. Pleural effusion or chylous ascites sufficient to affect pulmonary function based on the opinion of the Site Investigator\n15. Acute pneumothorax within the past month\n16. History of malignancy in the past two years, other than squamous or basal cell skin cancer.\n17. Use of estrogen containing medications within the 30 days prior to randomization.\n18. Known allergy to sirolimus",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Forced Expiratory Volume in 1 Second (FEV1 slope)",
+      "timeFrame": "2 years",
+      "description": "Rate of lung function decline"
+    }
+  ],
+  "sponsor": "University of Cincinnati",
+  "collaborators": [
+    "National Heart, Lung, and Blood Institute (NHLBI)",
+    "National Center for Advancing Translational Sciences (NCATS)",
+    "The LAM Foundation"
+  ],
+  "start_date": "2018-01-01",
+  "completion_date": "2025-06-30",
+  "last_updated": "2024-12-18"
+}

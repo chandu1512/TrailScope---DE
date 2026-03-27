@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT00004084",
+  "brief_title": "Radiolabeled Monoclonal Antibody Therapy in Treating Patients With Lymphoma or Leukemia",
+  "official_title": "Phase I/II Radioimmunotherapy of Non-Hodgkin's Lymphoma With Radiolabeled Humanized Immu-LL2: Treatment With 90Y-hLL2 IgG",
+  "brief_summary": "RATIONALE: Radiolabeled monoclonal antibodies can locate cancer cells and deliver cancer-killing substances to them without harming normal cells.\n\nPURPOSE: Phase I/II trial to study the effectiveness of radiolabeled monoclonal antibody therapy in treating patients who have lymphoma or leukemia that has not responded to previous chemotherapy.",
+  "detailed_description": "OBJECTIVES: I. Determine the maximum tolerated dose and dose limiting toxicity of yttrium Y 90-labeled humanized anti-CD22 monoclonal antibody LL2(90Y-hLL2 IgG) in patients with B-cell malignancies. II. Determine the pharmacokinetics and biodistribution of indium In 111 humanized LL2 (111In-hLL2 IgG) in these patients. III. Evaluate the immunogenicity of repeated injections of 90Y-hLL2 IgG in these patients. IV. Determine whether 90Y-hLL2 IgG versus indium In 131 humanized LL2 IgG has a therapeutic advantage based on organ and tumor dosimetry obtained with 111In-hLL2 IgG.\n\nOUTLINE: This is a dose escalation study. Patients are stratified into risk groups (high vs low). Patients receive pretherapy imaging with indium In 111 humanized LL2 IgG IV for up to 30 minutes on days -7 to 0. Patients receive yttrium Y 90-labeled humanized anti-CD22 monoclonal antibody LL2 (90Y-hLL2-IgG) IV for up to 30 minutes on day 0. Cohorts of 3-6 patients receive escalating doses of 90Y-hLL2-IgG until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding the dose at which 2 of 3 or 2 of 6 patients experience dose limiting toxicity. Patients are followed every 2 weeks for 1 month, monthly for 2 months, and then every 6 months thereafter.\n\nPROJECTED ACCRUAL: A total of 18-24 patients will be accrued for this study within 1-2 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 21,
+  "conditions": [
+    "Leukemia",
+    "Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "indium In 111 LL2 IgG",
+      "type": "RADIATION",
+      "description": "single dose, intravenous infusion over 30 minutes"
+    },
+    {
+      "name": "yttrium Y 90 epratuzumab",
+      "type": "RADIATION",
+      "description": "single dose, intravenous infusion over 30 minutes"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS: Histologically or cytologically confirmed B-cell malignancy, including B-cell non-Hodgkin's lymphoma or B-cell chronic lymphocytic leukemia, that has failed at least one regimen of standard chemotherapy At least 1 confirmed tumor site by radiolabeled LL2 IgG No greater than 25% bone or bone marrow involvement No brain metastases\n\nPATIENT CHARACTERISTICS: Age: 18 and over Performance status: Karnofsky 70-100% ECOG 0-2 Life expectancy: At least 3 months Hematopoietic: WBC at least 3,000/mm3 Granulocyte count at least 1,500/mm3 Platelet count at least 100,000/mm3 Hepatic: Bilirubin no greater than 2 mg/dL AST and alkaline phosphatase less than 1.5 times upper limit of normal (ULN) (except for bone involvement) Renal: Creatinine less than 1.5 times ULN Other: Not pregnant Fertile patients must use effective contraception during and for 3-6 months after study HIV negative No severe anorexia, nausea, or vomiting No other significant concurrent medical condition that would interfere with compliance\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: Prior murine monoclonal antibody therapy allowed (if unreactive to yttrium Y 90-labeled humanized anti-CD22 monoclonal antibody LL2 by HPLC or ELISA test) Chemotherapy: At least 4 weeks since prior chemotherapy Endocrine therapy: At least 2 weeks since prior corticosteroids (except for adrenal insufficiency) Radiotherapy: At least 4 weeks since prior radiotherapy to the index lesion No prior extensive radiotherapy to greater than 25% of bone marrow (except total body irradiation as part of bone marrow or stem cell transplantation regimen with engraftment of functional marrow (i.e., producing normal peripheral blood counts) No prior maximum tolerated dose levels of radiotherapy to critical organs (e.g., lung, liver, or kidney) Surgery: At least 4 weeks since prior major surgery Other: No other concurrent investigational agents",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Garden State Cancer Center",
+      "city": "Belleville",
+      "state": "New Jersey",
+      "zip": "07103",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "maximum tolerated dose",
+      "timeFrame": "12 weeks",
+      "description": ""
+    }
+  ],
+  "sponsor": "Garden State Cancer Center at the Center for Molecular Medicine and Immunology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "1998-04",
+  "completion_date": "",
+  "last_updated": "2011-06-21"
+}

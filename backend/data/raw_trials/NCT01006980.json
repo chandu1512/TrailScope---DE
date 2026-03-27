@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT01006980",
+  "brief_title": "A Study of Vemurafenib (RO5185426) in Comparison With Dacarbazine in Previously Untreated Patients With Metastatic Melanoma (BRIM 3)",
+  "official_title": "BRIM 3: A Randomized, Open-Label, Controlled, Multicenter, Phase III Study in Previously Untreated Patients With Unresectable Stage IIIC or Stage IV Melanoma With V600E BRAF Mutation Receiving Vemurafenib (RO5185426) or Dacarbazine",
+  "brief_summary": "This randomized, open-label study evaluated the efficacy, safety and tolerability of vemurafenib (RO5185426) as compared to dacarbazine in previously untreated patients with metastatic melanoma. Patients were randomized to receive either vemurafenib 960 mg orally twice daily or dacarbazine 1000 mg/m2 intravenously every 3 weeks. Study treatment was continued until disease progression or unacceptable toxicity occurred. The data and safety monitoring board recommended that patients in the dacarbazine group be allowed to cross over to receive vemurafenib, and the protocol was amended accordingly on January 14, 2011, as both overall survival and progression-free survival endpoints had met the prespecified criteria for statistical significance in favor of vemurafenib.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 675,
+  "conditions": [
+    "Malignant Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Vemurafenib",
+      "type": "DRUG",
+      "description": "960 mg (as 240 mg tables) orally twice daily"
+    },
+    {
+      "name": "Dacarbazine",
+      "type": "DRUG",
+      "description": "1000 mg/m2 intravenously every 3 weeks"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* adults, \\>/=18 years of age\n* metastatic melanoma, stage IIIC or IV (AJCC)\n* treatment-na\u00efve (no prior systemic anticancer therapy)\n* positive for BRAF V600E mutation\n* measurable disease by RECIST criteria\n* negative pregnancy test and, for fertile men and women, effective contraception during treatment and for 6 months after completion\n\nExclusion Criteria:\n\n* active central nervous system metastases\n* history of carcinomatous meningitis\n* severe cardiovascular disease within 6 months prior to study drug administration\n* previous malignancy within 5 years prior to study, except for basal or squamous cell carcinoma of the skin, melanoma in-situ, or carcinoma in-situ of the cervix",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213-2584",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "From randomization (initiated January 2010) to December 30 2010. Median follow-up time in the vemurafenib group was 3.75 months (range 0.3 to 10.8) and in the dacarbazine group was 2.33 months (range <0.1 to 10.3).",
+      "description": "An Overall survival event was defined as death due to any cause. The number of participants with overall survival events is reported."
+    },
+    {
+      "measure": "Progression-free Survival",
+      "timeFrame": "From randomization (initiated January 2010) to December 30 2010.",
+      "description": "A progression-free survival (PFS) event was defined as disease progression or death due to any cause. Tumor response (progression) was assessed according to the Response Evaluation Criteria In Solid Tumors (RECIST) version 1.1 criteria using computed tomography (CT) scans or magnetic resonance imaging (MRI)."
+    }
+  ],
+  "sponsor": "Hoffmann-La Roche",
+  "collaborators": [],
+  "start_date": "2010-01",
+  "completion_date": "2015-07",
+  "last_updated": "2016-08-19"
+}

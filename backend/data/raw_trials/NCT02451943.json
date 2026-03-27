@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT02451943",
+  "brief_title": "A Study of Doxorubicin Plus Olaratumab (LY3012207) in Participants With Advanced or Metastatic Soft Tissue Sarcoma",
+  "official_title": "A Randomized, Double-Blind, Placebo-Controlled, Phase 3 Trial of Doxorubicin Plus Olaratumab Versus Doxorubicin Plus Placebo in Patients With Advanced or Metastatic Soft Tissue Sarcoma",
+  "brief_summary": "The main purpose of this study is to evaluate the efficacy of the combination of doxorubicin plus the study drug known as olaratumab versus doxorubicin plus placebo in participants with advanced or metastatic soft tissue sarcoma.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 509,
+  "conditions": [
+    "Soft Tissue Sarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "Olaratumab",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Doxorubicin",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Administered IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of advanced unresectable or metastatic soft tissue sarcoma not amenable to curative treatment with surgery or radiotherapy. Participants with Kaposi's sarcoma and gastrointestinal stromal tumors (GIST) will be excluded. Note: Evidence of disease progression is required for participants that are not newly diagnosed.\n* Presence of measurable or nonmeasurable but evaluable disease as defined by the Response Evaluation Criteria in Solid Tumors (RECIST 1.1, Eisenhauer et al. 2009).\n* Performance status 0-1 on the Eastern Cooperative Oncology Group (ECOG) scale.\n* The participant has not received any previous treatment with anthracyclines.\n* The participant may have had any number of prior systemic cytotoxic therapies for advanced/metastatic disease and are considered appropriate candidates for anthracycline therapy. All previous anticancer treatments must be completed \u2265 3 weeks (21 days) prior to first dose of study drug.\n* Availability of tumor tissue is required for study eligibility. The participant must have consented to provide archived formalin-fixed paraffin embedded (FFPE) tumor tissue or be subject to a pre-treatment re-biopsy of primary or metastatic tumor tissue for future central pathology review and translational research (if archived tissue is unavailable).\n* Adequate hematologic, organ, and coagulation within 2 weeks (14 days) prior to randomization.\n* Left ventricular ejection fraction (LVEF) \u226550% assessed within 28 days prior to randomization.\n* Females of child-bearing potential must have a negative serum pregnancy test within 7 days prior to randomization.\n* Females of child-bearing potential and males must agree to use highly effective contraceptive precautions during the trial and up to 3 months following the last dose of study drug.\n* The participant has, in the opinion of the investigator, a life expectancy of at least 3 months.\n\nExclusion Criteria:\n\n* Diagnosis of GIST or Kaposi sarcoma.\n* Active central nervous system (CNS) or leptomeningeal metastasis (brain metastasis) at the time of randomization. Participants with a history of a CNS metastasis previously treated with curative intent (for example, stereotactic radiation or surgery) that have not progressed on follow-up imaging, have been asymptomatic for at least 60 days and are not receiving systemic corticosteroids and or/anticonvulsants, are eligible. Participants with signs or symptoms of neurological compromise should have appropriate radiographic imaging performed before randomization to rule out brain metastasis.\n* Prior treatment with doxorubicin, epirubicin, idarubicin, and/or other anthracyclines or anthracenediones; the participant has received treatment with olaratumab or has participated in a prior olaratumab trial.\n* Prior radiotherapy of the mediastinal/pericardial area or whole pelvis radiation.\n* The participant has symptomatic congestive heart failure (CHF), left ventricular dysfunction (LVEF \\< 50%), severe myocardial insufficiency, cardiac arrhythmia, or cardiomyopathy.\n* The participant has unstable angina pectoris, angioplasty, cardiac stenting, or myocardial infarction within 6 months of randomization.\n* The participant has a QT interval calculated using Bazett's formula (QTcB) interval of \\>450 milliseconds (msec) for males and \\>470 msec for females on screening electrocardiogram (ECG).\n* Females who are pregnant or breastfeeding.\n* Known allergy to any of the treatment components including a history of allergic reactions attributed to compounds of chemical or biological composition similar to olaratumab.\n* The participant has a known active fungal, bacterial, or viral infection including human immunodeficiency virus (HIV) or viral (A, B, or C) hepatitis (screening is not required).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pennsylvania Oncology Hematology Associates",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19106",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "Randomization to Date of Death Due to Any Cause (Up to 35.8 Months)",
+      "description": "Overall survival was defined as the time from the date of randomization to the date of death due to any cause. For each participant, prior to data analysis, a reasonable effort was made to obtain the most up-to-date status (date of death or last date known to be alive). For any participant not known to have died as of the data cutoff date, OS was censored at the date the participant was last known to be alive. For any participant who withdrew consent for survival follow-up, OS was censored at the last date for which the participant provided consent for follow-up contact. The Kaplan-Meier method was used to estimate median parameters."
+    },
+    {
+      "measure": "Overall Survival (OS) Leiomyosarcoma (LMS)",
+      "timeFrame": "Randomization to Date of Death Due to Any Cause (Up to 35.8 Months)",
+      "description": "Overall survival was defined as the time from the date of randomization to the date of death due to any cause. For each participant, prior to data analysis, a reasonable effort was made to obtain the most up-to-date status (date of death or last date known to be alive). For any participant not known to have died as of the data cutoff date, OS was censored at the date the participant was last known to be alive. For any participant who withdrew consent for survival follow-up, OS was censored at the last date for which the participant provided consent for follow-up contact. The Kaplan-Meier method was used to estimate median parameters."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2015-09-14",
+  "completion_date": "2024-06-27",
+  "last_updated": "2025-06-27"
+}

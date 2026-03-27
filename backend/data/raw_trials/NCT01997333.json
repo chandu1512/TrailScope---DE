@@ -1,0 +1,119 @@
+{
+  "nct_id": "NCT01997333",
+  "brief_title": "Study of Glembatumumab Vedotin (CDX-011) in Patients With Metastatic, gpNMB Over-Expressing, Triple Negative Breast Cancer",
+  "official_title": "A Randomized Multicenter Pivotal Study of CDX-011 (CR011-vcMMAE)in Patients With Metastatic, gpNMB Over-Expressing, Triple Negative Breast Cancer (The METRIC Study)",
+  "brief_summary": "The main purpose of this study is to see whether CDX-011 (glembatumumab vedotin, an antibody-drug conjugate) is effective in treating patients who have advanced Triple-Negative Breast Cancer (TNBC), and whose tumor cells make a protein called glycoprotein NMB (gpNMB), which CDX-011 binds to. The study will also further characterize the safety of CDX-011 treatment in this patient population.",
+  "detailed_description": "CDX-011 consists of an antibody attached to a drug, monomethyl auristatin E (MMAE), that can kill cancer cells. The antibody delivers the drug to cancer cells by attaching to a protein called glycoprotein NMB (gpNMB) that is expressed on the cancer cell. The MMAE is then released inside of the cell, where it interferes with cell growth and may lead to cell death.\n\nThis study will examine the efficacy and safety of CDX-011 in patients with advanced TNBC that makes the gpNMB protein. The effect of CDX-011 will be compared to treatment with capecitabine.\n\nEligible patients who enroll in the study will be randomly assigned (by chance) to receive treatment with CDX-011 or with capecitabine. For every three patients enrolled, two will receive CDX-011 and one will receive treatment with capecitabine. All patients enrolled in the study will be closely monitored to determine if their cancer is responding to treatment and for any side effects that may occur.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 327,
+  "conditions": [
+    "Metastatic gpNMB Over-expressing Triple Negative Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "CDX-011",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Capecitabine",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nAmong other criteria, patients must meet all of the following conditions to be eligible for the study:\n\n1. Diagnosed with metastatic (i.e., cancer that has spread) TNBC\n\n   * minimal or no expression of estrogen and progesterone receptors (ER/PR) \\<10% of cells positive by immunohistochemistry\n   * HER 2 staining 0 or 1+ by IHC or copy number \\<4.0 signals/cell\n2. Documented progression of disease based on radiographic, clinical or pathologic assessment during or subsequent to the last anticancer regimen received.\n3. Breast cancer tumor confirmed to express gpNMB. This will be determined by submitting a tissue sample from the advanced (locally advanced/recurrent or metastatic) disease setting to a central laboratory for analysis.\n4. Received no more than two prior chemotherapy treatments for advanced (locally advanced/recurrent or metastatic) breast cancer.\n5. Prior chemotherapy treatment must have contained an anthracycline (e.g. doxorubicin or Doxil) if clinically indicated and a taxane (eg: Taxol).\n6. ECOG performance status of 0 - 1.\n7. Adequate bone marrow, liver and renal function.\n\nExclusion:\n\nAmong other criteria, patients who meet any of the following conditions are NOT eligible for the study:\n\n1. Progression/recurrence of breast cancer during or within 3 months of completion of neoadjuvant or adjuvant chemotherapy.\n2. Ongoing neuropathy or other chemotherapy or radiation-related toxicities that are moderate (Grade 2) or worse in severity.\n3. Known brain metastases, unless previously treated and asymptomatic for 2 months and not progressive in size or number for 2 months.\n4. Significant cardiovascular disease.\n5. Previously received capecitabine and discontinued due to progression or intolerance; previously received CDX-011 or other MMAE containing agents.\n6. Active systemic infection requiring treatment. Infection controlled by oral therapy will not be exclusionary.\n7. Chronic use of systemic corticosteroids.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Anne Arundel Medical Center",
+      "city": "Annapolis",
+      "state": "Maryland",
+      "zip": "21401",
+      "status": ""
+    },
+    {
+      "facility": "University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287-0013",
+      "status": ""
+    },
+    {
+      "facility": "Frederick Memorial Hospital",
+      "city": "Frederick",
+      "state": "Maryland",
+      "zip": "21701",
+      "status": ""
+    },
+    {
+      "facility": "Holy Cross Hospital",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "zip": "20902",
+      "status": ""
+    },
+    {
+      "facility": "Hunterdon Regional Cancer Center",
+      "city": "Flemington",
+      "state": "New Jersey",
+      "zip": "08822",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "St Mary Medical Center",
+      "city": "Langhorne",
+      "state": "Pennsylvania",
+      "zip": "19047",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Guthrie Clinical Research",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "Evaluated every 6 - 9 weeks following treatment initiation",
+      "description": "PFS is defined as the time from randomization to the earlier of disease progression or death due to any cause. Disease progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1), as a 20% increase in the sum of the longest diameter of target lesions, or progression in a non-target lesion, or the appearance of new lesions. The primary analysis of PFS was based on PFS events determined retrospectively by the central independent review committee, blinded to treatment assignment and investigator assessments according to RECIST 1.1 criteria."
+    }
+  ],
+  "sponsor": "Celldex Therapeutics",
+  "collaborators": [],
+  "start_date": "2013-11",
+  "completion_date": "2018-08-07",
+  "last_updated": "2019-03-06"
+}

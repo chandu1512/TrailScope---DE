@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT03177057",
+  "brief_title": "SMART Project in Preventing Skin Cancer",
+  "official_title": "Self-Monitoring and Readiness Texting Project (SMART)",
+  "brief_summary": "This pilot clinical trial studies how well Self Monitoring And Readiness Texting (SMART) project works in sun exposure and protection behaviors. Measuring how behavior tracking and individually tailored messages affect risk behaviors in patients with skin cancer may help doctors plan the best prevention plan and decrease national melanoma incidence and mortality.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To test the effects of a behavior tracking and individually-tailored daily text message intervention on sun protection and exposure behaviors and to see if these techniques will be most effective in conjunction or separately.\n\nSECONDARY OBJECTIVES:\n\nI. To examine mediators in the effects of the intervention on safe sun behaviors, based on Fishbein?s Integrative Model.\n\nOUTLINE: Patients are randomized to 1 of 4 study arms.\n\nARM I (SELF-MONITORING): Patients complete tanning and sun protection usage entries daily for 14 days.\n\nARM II (TEXT MESSAGES): Patients receive individualized text messages based on baseline assessment of tanning motives (appearance, enjoyment, social) daily for 14 days.\n\nARM III (COMBINED GROUP): Patients complete tanning and sun protection usage entries and also receive individualized text messages daily for 14 days.\n\nARM IV (CONTROL GROUP): Patients complete study assessments.\n\nAfter completion of study, patients are followed up at 2 weeks.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 114,
+  "conditions": [
+    "Skin Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Compliance Monitoring",
+      "type": "BEHAVIORAL",
+      "description": "Record behavior"
+    },
+    {
+      "name": "Health Telemonitoring",
+      "type": "OTHER",
+      "description": "Receive health monitoring text messages"
+    },
+    {
+      "name": "Questionnaire Administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Women from the Philadelphia metropolitan area who own a mobile phone and who meet criteria for at least moderate risk of skin cancer based on a brief risk assessment tool",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "29 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in ultraviolet radiation (UV) exposure and sun protection behaviors based on behavior tracking and individually tailored daily text messages",
+      "timeFrame": "Baseline to up to 2 weeks",
+      "description": "Multiple variable regression models will be performed to examine the effect of the intervention on the outcomes. All post-baseline outcomes will be used as dependent variables. The baseline scores, intervention group, and time of the assessment will be included. To account for the within subject correlation of the responses, we will fit the model using Generalized Estimating Equations assuming an autoregressive working correlation matrix for each subject. Any p-value from the pairwise comparison that is less than 0.05 will be considered worthy of further study."
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2013-04-23",
+  "completion_date": "2014-12-31",
+  "last_updated": "2018-07-31"
+}

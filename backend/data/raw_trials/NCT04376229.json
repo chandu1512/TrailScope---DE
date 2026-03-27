@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT04376229",
+  "brief_title": "Proton Radiation Therapy Registry",
+  "official_title": "Proton Radiation Therapy Registry",
+  "brief_summary": "The Johns Hopkins Proton Therapy center is establishing a registry to capture the full 3D radiation dosimetry delivered to the patient, baseline clinical data, and disease, toxicity and quality of life outcomes. The goal is to have all patients treated at the proton center to be included in the registry to enable future comparisons of treatment outcomes to assist in understanding which patients can benefit from the use of protons.",
+  "detailed_description": "Proton based radiation therapy has considerable dosimetric advantages over the standard photon based radiation therapy, with a significantly higher cost. The clinical advantages, however, may not be realized for all patient populations, even with the improved dose distributions. Establishing the clinical efficacy of proton therapy requires years of experience treating patients. The goal is to accelerate the knowledge gain through the use of the registry that allows for detailed information to be captured and is inclusive of every patient treated.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 5000,
+  "conditions": [
+    "Cancer, Therapy-Related"
+  ],
+  "interventions": [
+    {
+      "name": "Registry",
+      "type": "OTHER",
+      "description": "Registry of cancer patients who receive proton radiation therapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* All patients treated at the proton center.\n\nExclusion Criteria:\n\n* Any other than what is supplied in the inclusion criteria",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Bayview Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Research registry of cancer patients receiving proton radiation therapy",
+      "timeFrame": "15 years",
+      "description": "This is a clinic based registry of cancer patients' data from participants to be collected over 15 years. The registry will be populated with 3D anatomy and radiation dosimetry from the RayStation treatment planning system used to plan all proton therapy patients. Clinical data will be extracted electronically from the MOSAIQ oncology information system used to manage the radiation therapy treatments. Structured clinical assessments will be routinely captured in the clinical workflow during patient encounters. Patient reported outcomes will be captured with iPad's using the OncoBrowser tools developed in radiotherapy that also interface with MOSAIQ."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [],
+  "start_date": "2020-04-07",
+  "completion_date": "2040-12",
+  "last_updated": "2025-06-30"
+}

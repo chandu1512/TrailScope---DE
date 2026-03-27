@@ -1,0 +1,91 @@
+{
+  "nct_id": "NCT04737265",
+  "brief_title": "Pilot Study of an NTproBNP Guided Strategy of Cardioprotection",
+  "official_title": "A Randomized, Open Label Pilot Trial of a Biomarker Guided Strategy of Cardioprotection in Patients With Lymphoma or Breast Cancer Treated With Anthracyclines",
+  "brief_summary": "Investigators will evaluate the safety and feasibility of a biomarker-guided cardioprotection strategy using NTproBNP, as compared to usual care, in breast cancer and lymphoma patients treated with anthracyclines.",
+  "detailed_description": "This is a randomized, open-label pilot trial of a biomarker-guided strategy using NT-proBNP to identify and treat patients with a high risk of cancer therapy-related cardiotoxicity. Patients will be enrolled and randomized prior to initiation of anthracycline-based therapy and followed for 12 months with blood samples, echocardiography, and patient reported outcomes surveys. The overall hypothesis is that a biomarker guided treatment strategy that initiates neurohormonal antagonists in breast cancer or lymphoma patients who have increases in NT-proBNP prior to, during, or after anthracyclines will be feasible, well-tolerated, and result in attenuation of cardiotoxicity, compared to standard care.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 101,
+  "conditions": [
+    "Cardiotoxicity",
+    "Toxicity Due to Chemotherapy",
+    "Breast Cancer",
+    "Lymphoma",
+    "Cardiomyopathies",
+    "Heart Failure"
+  ],
+  "interventions": [
+    {
+      "name": "Biomarker Guided Intervention",
+      "type": "OTHER",
+      "description": "NTproBNP above the upper limit of normal will trigger the initiation of heart failure therapy with counseling from a study investigator based on protocol specified algorithm."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Provision of written informed consent and HIPAA authorization\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Male or female, \u2265 18 years of age\n* Diagnosed with breast cancer or lymphoma (any subtype), planned to receive an anthracycline based chemotherapy regimen. Patients may be enrolled up to their first dose of anthracycline even if they have already received other chemotherapeutic or targeted agents as part of neo-adjuvant or adjuvant systemic therapy.\n\nExclusion Criteria:\n\n* Diagnosed with Stage IV breast cancer\n* Uncontrolled blood pressure defined by SBP \\> 180mmHg on two or more occasions and taking three or more antihypertensives within 1 month prior to enrollment.\n* Baseline systolic blood pressure \\< 90mmHg within 1 month prior to enrollment (if multiple blood pressures are available in the medical record within 1 month prior to enrollment, the average SBP will be considered)\n* Women must not be pregnant or breast-feeding due to the potential harm to an unborn fetus and possible risk for adverse events in nursing infants with some anti-hypertensives, including angiotensin receptor blockers. All females of childbearing potential must have a blood test or urine study within 10 days prior to enrollment to rule out pregnancy. All females of childbearing potential must be strongly advised to use accepted and effective methods of contraception or to abstain from sexual intercourse for the duration of their participation in the study. A female of childbearing potential is defined as any woman, regardless of sexual orientation or whether they have undergone tubal ligation, who meets the following criteria: 1) has achieved menarche at some point, 2) has not undergone a hysterectomy or bilateral oophorectomy; or 3) has not been naturally postmenopausal (amenorrhea following cancer therapy does not rule out childbearing potential) for at least 24 consecutive months (i.e., has had menses at any time in the preceding 24 consecutive months).\n* Patient with prior or concurrent malignancy whose natural history of treatment, in the opinion of the investigator, has the potential to interfere with the safety or efficacy assessment of the investigational regimen\n* Patient must not have any of the following\n* Severe hepatic impairment, defined as serum bilirubin \\> ULN, or AST or ALT \\> 5.0 ULN on most recent labs prior to enrollment. Results of serum bilirubin, AST, and ALT must be checked for screening if no results available in the EMR within 28 days prior to enrollment.\n* end-stage renal failure on dialysis\n* hyperkalemia with a potassium \\> 5.5 mEq/l on most recent labs prior to enrollment. Serum potassium must be checked for screening if no results available in the EMR within 28 days prior to enrollment.\n* a history of kidney transplant\n* an eGFR \\< 30 ml/min/1.73m2 at most recent check prior to enrollment. Creatinine must be checked for screening if no results available in the EMR within 28 days prior to enrollment\n* cardiogenic shock\n* decompensated heart failure requiring the use of IV inotropic therapy\n* Non-English speaking",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center at University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Chester County Hospital",
+      "city": "West Chester",
+      "state": "Pennsylvania",
+      "zip": "19380",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Recruitment Rate",
+      "timeFrame": "At baseline",
+      "description": "percent of eligible patients who are randomized"
+    },
+    {
+      "measure": "Retention rate",
+      "timeFrame": "Through study completion (expected to be 1 year)",
+      "description": "percent of randomized patients who complete the study per protocol"
+    },
+    {
+      "measure": "Adherence rate",
+      "timeFrame": "Through study completion (expected to be 1 year)",
+      "description": "percent of study activities completed in window"
+    },
+    {
+      "measure": "Compliance rate",
+      "timeFrame": "Through study completion (expected to be 1 year)",
+      "description": "Compliance by PROMIS Scale v1.0 for patients in the biomarker guided arm initiated on heart failure medications"
+    },
+    {
+      "measure": "Maximum tolerated dose",
+      "timeFrame": "Through study completion (expected to be 1 year)",
+      "description": "Maximum tolerated dosage of neurohormonal antagonist medications for patients in the biomarker-guided arm with NTproBNP above upper limit of normal"
+    },
+    {
+      "measure": "Incidence of Adverse Events",
+      "timeFrame": "12 months",
+      "description": "Rate of Grade 2 or higher adverse events by CTCAEv5.0"
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "National Heart, Lung, and Blood Institute (NHLBI)"
+  ],
+  "start_date": "2021-03-18",
+  "completion_date": "2025-02-05",
+  "last_updated": "2025-07-01"
+}

@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT01593228",
+  "brief_title": "Treatment Extension Study for Patients Who Have Previously Participated and Have Benefited From Iniparib in a Clinical Trial",
+  "official_title": "International, Multi-Center, Open-label, Treatment Extension Study of Iniparib as Monotherapy or in Combination Chemotherapeutic Regimens in Cancer Patients Who Have Derived Clinical Benefit From Iniparib Following Completion of a Phase 1, 2 or 3 Parental Study",
+  "brief_summary": "The purpose of this study is to assess the safety and tolerability of iniparib administered as monotherapy or in combination regimens in patients previously treated with iniparib in a clinical study and who have derived clinical benefit after completion of the parental study's objectives.",
+  "detailed_description": "The Treatment Extension protocol consists of three time points/periods: the Screening Period (during which assessments are performed to determine whether the patient meets the criteria to participate in the study), the Treatment Period (during which the patient receives treatment with the study drug(s)), and the Post-Treatment Period (during which patients complete an evaluation approximately 30 days after the last dose of study drug). Patients may continue to participate on the Treatment Extension study as long as they meet criteria to continue to receive therapy, tolerate the treatment regimen, do not develop progressive disease (PD), do not discontinue from iniparib, do not withdraw consent, or until iniparib becomes commercially available.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 37,
+  "conditions": [
+    "Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "Iniparib (SAR240550/BSI-201)",
+      "type": "DRUG",
+      "description": "Pharmaceutical form:Solution\n\nRoute of administration: Intravenous"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Pharmaceutical form:Solution\n\nRoute of administration: Intravenous"
+    },
+    {
+      "name": "Doxorubicin HCL liposome injection",
+      "type": "DRUG",
+      "description": "Pharmaceutical form:Solution\n\nRoute of administration: Intravenous"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Pharmaceutical form:Solution\n\nRoute of administration: Intravenous"
+    },
+    {
+      "name": "Irinotecan",
+      "type": "DRUG",
+      "description": "Pharmaceutical form:Solution\n\nRoute of administration: Intravenous"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Pharmaceutical form:Solution\n\nRoute of administration: Intravenous"
+    },
+    {
+      "name": "Topotecan",
+      "type": "DRUG",
+      "description": "Pharmaceutical form:Solution\n\nRoute of administration: Intravenous"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria :\n\n* Cancer patients greater than 18 years of age who have completed all assessments required to meet the primary objectives of a parental phase 1, 2 or 3 clinical study of iniparib as monotherapy or in a combination regimen.\n* Previously received and are continuing to derive clinical benefit from iniparib, as monotherapy or in combination with chemotherapy, as determined by the treating physician.\n* Ongoing treatment with iniparib at time of parental study completion/closure and meet criteria to initiate a subsequent cycle of therapy, as described in the parental study protocol.\n* On a stable parental study regimen (at least one cycle for the regimen at the dose/schedule that is to be given in the Treatment Extension study must have been given prior to the patient's discontinuation from the parental study). Signed written informed consent.\n\nExclusion criteria:\n\n* Patient has not previously participated in any clinical trial of iniparib.\n* Patient has evidence of progressive disease while receiving iniparib.\n* Patient has another concurrent invasive malignancy (aside from the malignancy for which the patient has received therapy for on the parental protocol).\n* Patient has a major medical or co-morbid condition(s) that the investigator believes might compromise safe participation in the study (such as uncontrolled lung, kidney, or liver problems; uncontrolled infection; a history of congestive heart failure; or an electrocardiogram suggesting significant problems with the heart).\n* Patient has not recovered to baseline or less than Grade 1 from non-hematologic adverse events related to any anticancer therapy received prior to signing informed consent on the Treatment Extension study, with the exception of hair loss.\n* Patient is receiving concurrent treatment with other investigational agents not allowed as part of the combination regimen in the parental study protocol.\n* Concurrent anticancer treatment with any agent other than iniparib and any co-administered chemotherapeutic agent(s) specified on the parental study protocol are not permitted throughout the course of the study.\n* Patient is receiving concurrent radiation therapy to treat primary disease with curative intent. (Note that palliative radiotherapy is allowed as long as there is no evidence of progressive disease.)\n* Patient is unable to comply with the requirements of the study.\n* Pregnant or breast-feeding women.\n* Women of childbearing potential or men with partners of childbearing potential who are not protected or who are unwilling to use an effective contraceptive method of birth control during the course of the study and for a period of 6 months following the last dose.\n\nThe above information is not intended to contain all considerations relevant to a patient's potential participation in a clinical trial.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Investigational Site Number 840017",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    },
+    {
+      "facility": "Investigational Site Number 840021",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of participants with incidence of adverse events by NCI-CTCAE version 4.03",
+      "timeFrame": "Up to 30 days after last treatment dose",
+      "description": ""
+    }
+  ],
+  "sponsor": "Sanofi",
+  "collaborators": [],
+  "start_date": "2012-05",
+  "completion_date": "2016-09",
+  "last_updated": "2017-09-12"
+}

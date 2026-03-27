@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT04155710",
+  "brief_title": "Study of Autologous Peripheral Blood Lymphocytes in the Treatment of Patients With CLL or SLL",
+  "official_title": "A Phase 1/2 Study Evaluating the Safety and Efficacy of IOV-2001 in Patients With Relapsed or Refractory Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma",
+  "brief_summary": "This is a Phase 1/2, study evaluating IOV-2001 (Adoptive Cell Therapy) composed of autologous PBL (Peripheral Blood Lymphocytes) in patients with CLL/SLL, which has relapsed or is relapsing during treatment with ibrutinib or acalabrutinib.",
+  "detailed_description": "This study involves patients receiving nonmyeloablative (NMA) lymphocyte depleting (LD) preparative regimen prior to infusion of IOV-2001 followed by IL-2 administration.\n\nIn Phase 1, patients meeting the eligibility criteria will be enrolled and will receive treatment with IOV-2001 followed by low dose IL-2 or high dose IL-2.\n\nAfter completion of Phase 1, the recommended Phase 2 dose (RP2D) will be evaluated in selected patient cohorts defined in the Phase 2 part of the study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 7,
+  "conditions": [
+    "Chronic Lymphocytic Leukemia",
+    "Small Lymphocytic Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "IOV-2001",
+      "type": "BIOLOGICAL",
+      "description": "Adoptive cell therapy (ACT) manufactured from peripheral blood lymphocytes (PBL). The final investigational product is a cryopreserved cell suspension."
+    },
+    {
+      "name": "Low dose IL-2",
+      "type": "DRUG",
+      "description": "6 doses of subcutaneous (SC) LD-IL-2 (9 MIU every 8-12 hours) will follow the infusion of IOV-2001"
+    },
+    {
+      "name": "High dose IL-2",
+      "type": "DRUG",
+      "description": "6 doses of IV HD-IL-2 (600,000 IU/kg Q8-12H will follow the infusion of IOV-2001"
+    },
+    {
+      "name": "IL-2",
+      "type": "DRUG",
+      "description": "6 doses of IL-2 will follow the infusion of IOV-2001"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients with CLL or SLL with radiographically measurable disease\n\n   * Cohort 2 only: patients with progressed or progressing CLL/SLL on ibrutinib or acalabrutinib with del 17p and/or TP53 mutated\n   * Cohort 3 only: patients with progressed or progressing CLL/SLL on ibrutinib or acalabrutinib without del 17p and/or TP53 mutated\n2. Patients must have documented progression or be progressing on ibrutinib or acalabrutinib, as indicated by the presence of known BTK resistance mutation\n3. Patients must have received at least 1 prior regimen (only for patients without del 17p and/or TP53 mutated) and currently be on ibrutinib or acalabrutinib. For patients on combination therapy as the last line of therapy prior study entry, progression to any of the individual components of the combination therapy, rather than to the combination regimen, is required.\n\n   * For Cohort 2: The single prior regimen can be ibrutinib or acalabrutinib (ie, patients are eligible while progressing on their first line of therapy)\n   * For Cohort 3: Patients must have progressed on at least 1 additional line of therapy in addition to ibrutinib or acalabrutinib\n4. Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 and an estimated life expectancy of \u2265 3 months.\n5. Patients must have adequate bone marrow function to receive NMA-LD\n6. Pulmonary function assessed by spirometry demonstrating FEV1 \\> 50% predicted normal\n7. Cardiac function demonstrating left ventricular ejection fraction (LVEF) \\> 45%\n8. Patients of childbearing potential or their partners of childbearing potential must be willing to practice an approved method of birth control during treatment and for 12 months after receiving the last protocol-related therapy.\n\nExclusion Criteria:\n\n1. Patients who have received an organ allograft or prior cell transfer therapy within 20 years.\n2. Patients with known or suspected transformed disease (ie, Richter's Transformation).\n3. Patients who received treatment with any systemic chemotherapy, immunotherapy, targeted small molecule inhibitors, or other biologic agents within 30 days or 5 half-lives, whichever is shorter, of IOV-2001 infusion with the exception of ibrutinib or acalabrutinib\n4. Patients with known involvement of central nervous system (CNS) by lymphoma or leukemia\n5. Patients who are on chronic systemic steroid therapy \\>5 mg/day prednisone equivalent for any reason\n6. Patients who have active systemic infections requiring systemic ABX, autoimmune anemia or thrombocytopenia, coagulation disorders, or other active major medical illnesses of the cardiovascular, respiratory, or immune system.\n7. Patients who are seropositive for any of the following:\n\n   * Human immunodeficiency virus (HIV)-1 or HIV-2 antibodies\n   * Hepatitis B antigen (HbsAg) or anti-hepatitis B core total antibodies (anti-HbcAb), or hepatitis C antibody (HCVAb)\n8. Patients with active and chronic fungal, bacterial, or viral infection requiring IV treatment\n9. Patients who require treatment for anti-coagulation with a vitamin K antagonist (warfarin)\n10. Patients who have received a live or attenuated vaccine within 28 days of beginning the preparative NMA-LD regimen\n11. Patients who are pregnant or breastfeeding",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Allegheny Health",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase I: RP2D (Recommended Phase 2 Dose)",
+      "timeFrame": "up to one year or depending on when the recommended phase 2 dose is determined",
+      "description": "to determine the recommended Phase 2 dose of IOV-2001 followed by interleukin-2 (IL-2)"
+    },
+    {
+      "measure": "Phase 2: Objective Response Rate",
+      "timeFrame": "up to two years",
+      "description": "To evaluate efficacy of the RP2D of IOV-2001 followed by IL-2 as measured by objective response rate (ORR) per investigator assessment"
+    }
+  ],
+  "sponsor": "Iovance Biotherapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2020-02-19",
+  "completion_date": "2024-12-02",
+  "last_updated": "2025-12-18"
+}

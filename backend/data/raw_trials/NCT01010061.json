@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT01010061",
+  "brief_title": "CLL11: A Study of Obinutuzumab (RO5072759 [GA101]) With Chlorambucil in Patients With Previously Untreated Chronic Lymphocytic Leukemia (Stage 1a)",
+  "official_title": "An Open-label, Multi-center, Three Arm Randomized Study to Investigate the Safety and Efficacy on Progression-free Survival of RO5072759 + Chlorambucil (GClb) Compared to Rituximab + Chlorambucil (RClb) or Chlorambucil (Clb) Alone in Previously Untreated CLL Patients With Comorbidities.",
+  "brief_summary": "This open-label, randomized, 3-arm study will evaluate the efficacy and safety of obinutuzumab (RO5072759) in combination with chlorambucil as compared to rituximab plus chlorambucil or chlorambucil alone in patients with previously untreated chronic lymphocytic leukemia (CLL). Patients will be randomized 2:2:1 to receive a maximum of six 28-day cycles of either RO5072759 (1000 mg intravenous (iv) infusion, on days 1, 8 and 15 of cycle 1 and day 1 of cycles 2-6) plus chlorambucil (0.5 mg/kg orally, days 1 and 15 of cycles 1-6), or rituximab (iv infusion day 1, 375 mg/m\\^2 cycle 1, 500 mg/m\\^2 cycles 2-6) plus chlorambucil, or chlorambucil alone. Anticipated time on study treatment is \\>6 months and follow-up for disease-progression and safety will be at least 5 years. In the US, this trial is sponsored/managed by Genentech.",
+  "detailed_description": "Protocol BO21004 is divided into 3 separate Unique Protocol IDs for reporting results on clinicaltrials.gov because there are 3 separate primary analyses conducted at different time-points.\n\n* BO21004 (Stage 1a) \\[NCT01010061\\] includes the analysis of 2 of the 3 arms obinutuzumab plus chlorambucil (Glb) compared to chlorambucil (Clb) reported here.\n* BO21004 (Stage 1b) \\[NCT01998880\\] includes the analysis of 2 of the 3 arms rituximab plus chlorambucil (RClb) compared to chlorambucil (Clb) reported separately.\n* BO21004 (Stage 2) \\[NCT02053610\\] includes the analysis of 2 of the 3 arms obinutuzumab plus chlorambucil (Glb) compared to rituximab plus chlorambucil (RClb) reported separately.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 787,
+  "conditions": [
+    "Lymphocytic Leukemia, Chronic"
+  ],
+  "interventions": [
+    {
+      "name": "obinutuzumab",
+      "type": "DRUG",
+      "description": "1000 mg obinutuzumab intravenous (IV) infusion, on Days 1 \\[first infusion split 100 mg on Day 1 and 900 mg on Day 2 as per protocol amendment\\], 8 and 15 in Cycle 1 and Day 1 in Cycles 2-6 (28-day cycles)."
+    },
+    {
+      "name": "rituximab",
+      "type": "DRUG",
+      "description": "375 mg/m\\^2 rituximab intravenous (IV) infusion on Day 1 of Cycle 1 (Cycle duration is 28 days) then 500 mg/m\\^2 IV infusions on Day 1 of Cycles 2-6."
+    },
+    {
+      "name": "chlorambucil",
+      "type": "DRUG",
+      "description": "Chlorambucil 0.5 mg/kg orally on Day 1 and 15 of each 28-day cycle."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adults \\>/=18 years\n* Documented Cluster of Differentiation Antigen 20 (CD20) + B-Cell Chronic Lymphocytic Lymphoma (B-CLL)\n* Previously untreated Chronic Lymphocytic Leukemia (CLL) requiring treatment according to the National Cancer Institute (NCI) criteria\n* Total Cumulative Illness Rating Scale (CIRS) \\> 6 and/or creatinine clearance \\< 70 ml/min\n\nExclusion Criteria:\n\n* Prior CLL therapy\n* Transformation of CLL to aggressive Non-Hodgkin's Lymphoma (NHL) (Richter's transformation)\n* History of other malignancy unless the malignancy has been in remission without treatment for \\>/=2 years prior to enrolment, and except for carcinoma in situ of the cervix, basal or squamous cell skin cancer, surgically treated low-grade prostate cancer, or ductal carcinoma in situ (DCIS) of the breast treated with lymphectomy alone\n* Positive hepatitis serology (HBV, HCV) or positive HIV or Human T Cell Leukemia Virus (HTLV) testing\n* Patients with active infection requiring systemic treatment",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21215",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS)",
+      "timeFrame": "Randomization to clinical cutoff date of 10 Oct 2017 (median observation 62.5 months from randomization)",
+      "description": "PFS was defined as the time from randomization to the first occurrence of progression, relapse, or death from any cause as assessed by the investigator. Progressive disease (PD) required at least one of the following: \u226550% increase in the absolute number of lymphocytes, appearance of new palpable lymph nodes (\\>15 mm in longest diameter) or any new extra nodal lesion, \u226550% increase in the longest diameter of any previous site of clinically significant lymphadenopathy, \u226550% increase in the enlargement of the liver and/or spleen, Transformation to a more aggressive histology or After treatment, the progression of any cytopenia (a decrease of hemoglobin levels \\>20 g/L or \\<10 g/dL or a decrease of platelet counts \\>50% or \\<100 x 10\\^9/L or by a decrease of neutrophil counts \\>50% or \\<1.0 x 10\\^9/L)."
+    },
+    {
+      "measure": "Percentage of Participants With Progression Free Survival Events",
+      "timeFrame": "Randomization to clinical cutoff date of 10 Oct 2017 (median observation 62.5 months from randomization)",
+      "description": "Percentage of Participants with Progression Free Survival Events: disease progression, relapse, or death."
+    }
+  ],
+  "sponsor": "Hoffmann-La Roche",
+  "collaborators": [
+    "German CLL Study Group",
+    "Genentech, Inc."
+  ],
+  "start_date": "2009-12-21",
+  "completion_date": "2017-08-23",
+  "last_updated": "2018-08-15"
+}

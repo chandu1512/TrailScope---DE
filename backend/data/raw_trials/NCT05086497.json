@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT05086497",
+  "brief_title": "WBSI Guided Personalized Delivery of TTFields",
+  "official_title": "Whole-Brain Spectroscopy Guided Personalized Mapping of Transducer Arrays for Glioblastoma Patients Receiving Tumor Treating Fields",
+  "brief_summary": "This research study is for Glioblastoma (GBM) patients who will be beginning Optune as part of their clinical care, which is a novel treatment that utilizes - tumor treating fields (TTFields), (aka, electrical therapy), which has shown to improve overall survival in large multi-center trials. As a part of this study, participants will either receive Optune with \"standard array mapping\" (based on regular contrast enhanced MRI) or an \"alternative (more precise) array mapping\" based on sophisticated state of the art MRI techniques including \"whole brain spectroscopy\". Whole brain MRI spectroscopy provides additional metabolic information to map out the full extent of tumor spreading within the brain (far beyond from what is seen on regular MRI), by identifying certain metabolites that are present in cancer cells versus healthy tissue. This study is being performed to show whether alternative array mapping improves treatment outcomes, as opposed to the standard array mapping, by maximizing delivery of TTFields dose, thereby achieving more effective tumor cell killing, decreasing the rate of local recurrence, and improving the overall survival as well as quality of life measures.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 155,
+  "conditions": [
+    "GBM",
+    "Glioma Glioblastoma Multiforme",
+    "Tumor, Brain"
+  ],
+  "interventions": [
+    {
+      "name": "Whole Brain Spectroscopy Imaging Array Mapping Layout",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "All study participants will receive whole brain spectroscopy imaging as a part of MRI study time points. Participants assigned to the advanced MR imaging array mapping layout study arm will receive tumor treating fields mapping from Optune that is created from the spectroscopy sequences or advanced MR imaging. Participants assigned to the conventional array mapping layout will still receive advanced imaging sequences or spectroscopy imaging at all time points."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adult population \u2265 22 years\n* Histologically confirmed diagnosis of GBM or molecular GBM according to c-IMPACT NOW criteria\n* Have undergone maximal safe surgical resection followed by either standard full course radiation of 6000 cGy in 6 weeks or a hypofractionated course of 4000 cGy in 3 weeks\n* 3 Harboring any genotype profiles (MGMT promoter methylation or unmethylation and/or isocitrate dehydrogenase (IDH) mutant or IDH wild-type)\n* Possessing adequate hematological, hepatic and renal functions\n* Willingness to receive TTFields\n\nExclusion Criteria:\n\n* Presence of infra-tentorial GBM\n* Pregnancy\n* Significant co-morbidities at baseline which would prevent maintenance TMZ treatment\n* Active implanted medical device, a skull defect (such as missing bone with no replacement) or bullet fragments. Examples of active electronic devices include deep brain stimulators, spinal cord stimulators, vagus nerve stimulators,pacemakers, defibrillators and programmable shunts. , other implanted electronic devices in the brain.\n* Sensitivity to conductive hydrogels like the gel used on electrocardiogram (ECG) stickers or transcutaneous electrical nerve stimulation (TENS) electrodes.\n* Presence of significant hemorrhage in and around the tumor bed that may potentially degrade the image quality.",
+    "gender": "ALL",
+    "min_age": "22 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Penn Medicine, University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Time to Progression",
+      "timeFrame": "2 month intervals",
+      "description": "Using whole brain spectroscopy imaging, diffusion and perfusion MR imaging, a combined multiparametric approach will be utilized to compare treatment response from patients enrolled in two study arms."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "NovoCure Ltd.",
+    "National Institutes of Health (NIH)",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2023-01-15",
+  "completion_date": "2026-06-30",
+  "last_updated": "2026-03-09"
+}

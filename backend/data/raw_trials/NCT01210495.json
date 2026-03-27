@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT01210495",
+  "brief_title": "Axitinib For The Treatment Of Advanced Hepatocellular Carcinoma",
+  "official_title": "A MULTICENTER, GLOBAL, RANDOMIZED, DOUBLE-BLIND STUDY OF AXITINIB PLUS BEST SUPPORTIVE CARE VERSUS PLACEBO PLUS BEST SUPPORTIVE CARE IN PATIENTS WITH ADVANCED HEPATOCELLULAR CARCINOMA FOLLOWING FAILURE OF ONE PRIOR ANTIANGIOGENIC THERAPY",
+  "brief_summary": "The study is designed to demonstrate that axitinib plus best supportive care is superior to placebo plus best supportive care in prolonging survival in patients with advanced hepatocellular carcinoma.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 224,
+  "conditions": [
+    "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Axitinib (AG-013736)",
+      "type": "DRUG",
+      "description": "Axitinib \\[tablet, 1 mg, 5 mg\\] will be given twice daily \\[BID\\] with continuous dosing; duration is approximately 3-6 months; starting dose is 5 mg BID"
+    },
+    {
+      "name": "Best Supportive Care",
+      "type": "OTHER",
+      "description": "BSC may include medications and supportive measures deemed necessary to palliate disease related symptoms and improve quality of life."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Placebo \\[tablet, 1 mg, 5 mg\\] will be given twice daily \\[BID\\] with continuous dosing; duration is approximately 3-6 months; starting dose is 5 mg BID"
+    },
+    {
+      "name": "Best Supportive Care",
+      "type": "OTHER",
+      "description": "BSC may include medications and supportive measures deemed necessary to palliate disease related symptoms and improve quality of life."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Locally advanced or metastatic HCC\n* Failure of one prior antiangiogenic therapy including sorafenib, bevacizumab and brivanib.\n* Child-Pugh Class A or B (score 7 only) disease.\n\nExclusion Criteria:\n\n* Prior treatment of advanced HCC with more than one prior first-line systemic therapy.\n* Any prior local therapy within 2 weeks of starting the study treatment.\n* Presence of hepatic encephalopathy and/or clinically relevant ascites.\n* Presence of main portal vein invasion by HCC.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Penn Presbyterian Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS) - Stratified Analysis, Randomized Portion",
+      "timeFrame": "From randomization until at least two years after the last participant has been randomized (up to 6 years)",
+      "description": "OS was defined as the time from the date of randomization to the date of death due to any cause. OS (in months) was calculated as (date of death - first randomization date +1)/30.4. For participants still alive at the time of the analysis, the OS time was censored on the last date they were known to be alive. All participants were followed up for survival at least every 3 months after discontinuing study treatment until at least two years after randomization of the last participant."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2010-12-06",
+  "completion_date": "2016-12-20",
+  "last_updated": "2018-12-20"
+}

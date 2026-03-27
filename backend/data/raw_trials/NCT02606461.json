@@ -1,0 +1,93 @@
+{
+  "nct_id": "NCT02606461",
+  "brief_title": "Selinexor in Advanced Liposarcoma",
+  "official_title": "A Phase 2-3, Multicenter, Randomized, Double-blind Study of Selinexor (KPT-330) Versus Placebo in Patients With Advanced Unresectable Dedifferentiated Liposarcoma (DDLS)",
+  "brief_summary": "This is a randomized, multicenter, double-blind, placebo-controlled, Phase 2-3 study of patients diagnosed with advanced unresectable dedifferentiated liposarcoma. Approximately 342 total patients will be randomized to study treatment (selinexor or placebo).",
+  "detailed_description": "In the Phase 2 portion of the study, 57 patients were randomized to selinexor (60 mg) or placebo at a 1:1 allocation ratio.\n\nIn the Phase 3 portion of the study, approximately 285 patients will be randomized to selinexor (60 mg) or placebo with a 2:1 allocation ratio.\n\nPatients who progress during the blinded portion of the study will be unblinded and if receiving:\n\n* placebo, may cross over to open-label selinexor (60mg twice-weekly)\n* selinexor, will be withdrawn from further treatment and followed for survival\n\nStudy treatment will be given twice-weekly on Day 1 and Day 3 during Weeks 1-6 of each six-week (42 day) cycle until disease progression or intolerability.\n\nTreatment will continue until one or more of the following occurs:\n\n* Disease progression, as defined by RECIST v1.1 Response Criteria\n* Clinical progression, as determined by the treating physician\n* Unacceptable adverse events (AEs) or failure to tolerate study treatment\n* Patient withdrawal\n* Patient discontinuation due to non-compliance",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 342,
+  "conditions": [
+    "Dedifferentiated Liposarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "Selinexor",
+      "type": "DRUG",
+      "description": "Selinexor 60mg"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients \u226512 years of age\n2. Body surface area (BSA) \u2265 1.2 m2\n3. Histologic evidence of DDLS at any time prior to randomization AND current evidence of DDLS requiring treatment\n4. Must have measurable disease per RECIST v1.1 Response Criteria\n5. Radiologic evidence of disease progression within 6 months prior to randomization. If the patient received other intervening therapy after documented disease progression, further disease progression must be documented after the completion of the intervening therapy\n6. Must have had at least 2 prior lines of systemic therapy for liposarcoma (not to exceed 5 prior lines)\n7. If patient received any previous systemic therapy, the last dose must have been \u2265 21 days prior to randomization (or \u2265 5 half-lives of that drug, whichever is shorter) with all clinically significant therapy-related toxicities having resolved to \u2264 Grade 1\n\nExclusion Criteria:\n\n1. Patients with pure well-differentiated liposarcoma (WDLS), myxoid/round cell or pleomorphic tumor histologic subtypes\n2. Known active hepatitis B (HepB), hepatitis C (HepC) or human immunodeficiency virus (HIV) infection\n3. Known central nervous system metastases",
+    "gender": "ALL",
+    "min_age": "12 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19106",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center (UPMC)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 3 Double Blind: Progression-free Survival (PFS) as Per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1",
+      "timeFrame": "From the date of randomization until the first date of disease progression, or death due to any cause whichever occurred first (up to 57 months)",
+      "description": "PFS was defined as the time from the date of randomization until the first date of Independent Review Committee (IRC)-confirmed PD per RECIST version 1.1, or death due to any cause. PD was defined as at least a 20% increase in the sum of the longest diameter (SLD), taking as reference the smallest sum of the longest diameter (SLD) recorded from baseline or the appearance of 1 or more new lesions."
+    },
+    {
+      "measure": "Phase 3 Open Label: Progression-free Survival (PFS) as Per RECIST Version 1.1",
+      "timeFrame": "From the date of randomization in the Phase 3 open label period until the first date of disease progression, or death due to any cause whichever occurred first (up to 57 months)",
+      "description": "PFS was defined as the time from the date of randomization in the Phase 3 open-label period until the first date of IRC-confirmed PD per RECIST version 1.1, or death due to any cause. PD was defined as at least a 20% increase in the SLD, taking as reference the smallest SLD recorded from baseline or the appearance of 1 or more new lesions."
+    },
+    {
+      "measure": "Phase 2 Double Blind: Progression-free Survival (PFS) as Per RECIST Version 1.1",
+      "timeFrame": "From date of randomization until the first date of PD or death due to any cause, whichever occurred first (up to 57 months)",
+      "description": "PFS was defined as the time from date of randomization until the first date of IRC-confirmed PD per RECIST version 1.1, or death due to any cause. PD was defined as at least a 20% increase in the SLD, taking as reference the smallest SLD recorded from baseline or the appearance of 1 or more new lesions."
+    },
+    {
+      "measure": "Phase 2 Open Label: Progression-free Survival (PFS) as Per RECIST Version 1.1",
+      "timeFrame": "From date of randomization in the Phase 2 open label period until the first date of PD or death due to any cause, whichever occurred first (up to 57 months)",
+      "description": "PFS was defined as the time from date of randomization in the Phase 2 open-label period until the first date of IRC-confirmed PD per RECIST version 1.1, or death due to any cause. PD was defined as at least a 20% increase in the SLD, taking as reference the smallest SLD recorded from baseline or the appearance of 1 or more new lesions."
+    }
+  ],
+  "sponsor": "Karyopharm Therapeutics Inc",
+  "collaborators": [],
+  "start_date": "2016-01-04",
+  "completion_date": "2021-10-26",
+  "last_updated": "2023-01-05"
+}

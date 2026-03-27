@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT00379145",
+  "brief_title": "Trabectedin in Treating Patients With Advanced, Persistent, or Recurrent Leiomyosarcoma of the Uterus",
+  "official_title": "A Phase II Evaluation of Trabectedin (Yondelis, R279741) in the Treatment of Advanced, Persistent, or Recurrent Uterine Leiomyosarcomas",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as trabectedin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.\n\nPURPOSE: This phase II trial is studying how well trabectedin works in treating patients with advanced, persistent, or recurrent leiomyosarcoma of the uterus.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the antitumor activity of trabectedin, as measured by frequency and duration of objective response, in patients with advanced, persistent, or recurrent uterine leiomyosarcoma.\n* Determine the nature and degree of toxicity of this drug in these patients.\n\nOUTLINE: This is a nonrandomized, multicenter study.\n\nPatients receive trabectedin IV continuously over 24 hours on day 1. Courses repeat every 3 weeks in the absence of disease progression or unacceptable toxicity. Patients who achieve a confirmed complete response may receive at least 2 additional courses.\n\nAfter completion of study treatment, patients are followed every 3 months.\n\nPROJECTED ACCRUAL: A total of 43 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Sarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "trabectedin",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed uterine leiomyosarcoma\n\n  * Histological confirmation of original primary tumor required\n* Advanced, persistent, or recurrent disease\n\n  * Documented disease progression\n* Measurable disease, defined as \u2265 1 unidimensionally measurable lesion \u2265 20 mm by conventional techniques, including palpation, plain x-ray, CT scan, and MRI OR \u2265 10 mm by spiral CT scan\n\n  * At least 1 target lesion\n\n    * Tumors within a previously irradiated field are considered nontarget lesions unless progression is documented or a biopsy is obtained to confirm persistence at least 90 days following completion of radiotherapy\n* Ineligible for a higher priority GOG protocol (i.e., any active phase III GOG protocol for the same patient population)\n\nPATIENT CHARACTERISTICS:\n\n* GOG performance status 0-2\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* Platelet count \u2265 100,000/mm\u00b3\n* Absolute neutrophil count \u2265 1,500/mm\u00b3\n* Hemoglobin \\> 9.0 g/dL\n* Creatinine \u2264 1.5 times upper limit of normal (ULN)\n* Bilirubin normal\n* AST \u2264 2.5 times ULN\n* Alkaline phosphatase \u2264 1.5 times ULN\n* CPK \u2264 ULN\n* No active infection requiring antibiotics (except for patients with uncomplicated UTI)\n* No neuropathy (sensory or motor) \\> grade 1\n* No other invasive malignancy within the past 5 years except for nonmelanoma skin cancer\n* No known active liver disease or hepatitis\n* Must be willing/able to have a central venous catheter\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Recovered from prior surgery, radiotherapy, or other therapy\n* No prior cancer treatment that would preclude study therapy\n* No prior cytotoxic chemotherapy or biologic therapy for uterine sarcoma\n* No prior chemotherapy for any abdominal or pelvic tumor within the past 5 years\n\n  * Prior adjuvant chemotherapy for localized breast cancer is allowed provided it was completed more than 3 years ago and there is no evidence of recurrent or metastatic disease\n* No prior trabectedin\n* No prior radiotherapy within the past 5 years to any portion of the abdominal cavity or pelvis other than for treatment of uterine sarcoma\n\n  * Prior radiotherapy for localized cancer of the breast, head and neck or skin is allowed, provided that it was completed more than 3 years ago and there is no evidence of recurrent or metastatic disease\n* At least 1 week since prior hormonal therapy for the malignancy (continuation of hormone replacement therapy is permitted)\n* No concurrent amifostine or other protective agents",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    },
+    {
+      "facility": "Rosenfeld Cancer Center at Abington Memorial Hospital",
+      "city": "Abington",
+      "state": "Pennsylvania",
+      "zip": "19001",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Patients With Objective Tumor Response Rate (Complete Response [CR] or Partial Response [PR]) Using RECIST Version 1.0",
+      "timeFrame": "CT scan or MRI if used to follow lesion for measurable disease every other cycle until disease progression for up to 5 years.",
+      "description": "RECIST 1.0 defines complete response as the disappearance of all target lesions and non-target lesions and no evidence of new lesions documented by two disease assessments at least 4 weeks apart. Partial response is defined as at least a 30% decrease in the sum of longest dimensions (LD) of all target measurable lesions taking as reference the baseline sum of LD. There can be no unequivocal progression of non-target lesions and no new lesions. Documentation by two disease assessments at least 4 weeks apart is required. In the case where the ONLY target lesion is a solitary pelvic mass measured by physical exam, which is not radiographically measurable, a 50% decrease in the LD is required. These patients will have their response classified according to the definitions stated above. Complete and partial responses are included in the objective tumor response rate."
+    },
+    {
+      "measure": "Incidence of Adverse Effects as Assessed by Common Terminology Criteria for Adverse Events Version 3.0",
+      "timeFrame": "Assessed every cycle while on treatment, 30 days after the last cycle of treatment, and up to 5 years in follow-up",
+      "description": ""
+    }
+  ],
+  "sponsor": "Gynecologic Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2007-06",
+  "completion_date": "",
+  "last_updated": "2017-11-10"
+}

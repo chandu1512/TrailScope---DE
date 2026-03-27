@@ -1,0 +1,50 @@
+{
+  "nct_id": "NCT00049179",
+  "brief_title": "S0117 Gemtuzumab Ozogamicin Plus Cytarabine in Treating Patients With Relapsed Acute Myeloid Leukemia",
+  "official_title": "A Phase II Study of Gemtuzumab Ozogamicin (Mylotarg) and Standard Dose ARA-C for Patients With Relapsed Acute Myeloid Leukemia (AML)",
+  "brief_summary": "RATIONALE: Monoclonal antibodies such as gemtuzumab ozogamicin can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells. Drugs used in chemotherapy such as cytarabine use different ways to stop cancer cells from dividing so they stop growing or die. Combining gemtuzumab ozogamicin with cytarabine may kill more cancer cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combining gemtuzumab ozogamicin with cytarabine in treating patients who have relapsed acute myeloid leukemia.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the safety and efficacy of gemtuzumab ozogamicin and cytarabine in patients with relapsed acute myeloid leukemia.\n* Determine the frequency and severity of toxic effects of this regimen in CD33-positive patients.\n* Determine, preliminarily, the prognostic significance of drug resistance phenotype, cytogenetics, and molecular genetic characteristics of patients treated with this regimen.\n\nOUTLINE: This is a multicenter study.\n\n* Induction: Patients receive gemtuzumab ozogamicin IV over at least 2 hours on days 1 and 8 and cytarabine IV continuously over days 1-7.\n* Consolidation: Beginning between days 28 and 75, patients who achieve A1 bone marrow, B1 peripheral blood, and C1 extramedullary disease status receive one course of gemtuzumab ozogamicin and cisplatin as in induction chemotherapy.\n\nPatients are followed every 3 months for 1 year, every 6 months for 1 year, and then annually for 3 years.\n\nPROJECTED ACCRUAL: A total of 30-55 patients will be accrued for this study within 10-28 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 33,
+  "conditions": [
+    "Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "cytarabine",
+      "type": "DRUG",
+      "description": "ind and consol: 200 mg/m2/d continuous IV days 1-7"
+    },
+    {
+      "name": "gemtuzumab ozogamicin",
+      "type": "DRUG",
+      "description": "ind and consol: 6 mg/m2 IV over 2 hrs day 1, 4mg/m2 IV over 2 hrs day 8"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed acute myeloid leukemia (AML)\n\n  * FAB M1-2 or M4-7\n  * No blastic transformation of chronic myelogenous leukemia\n* In first relapse after prior complete response\n\n  * Patients who relapsed after autologous or allogeneic bone marrow or peripheral blood stem cell transplantation are not eligible\n* CD33 positive\n* Prior myelodysplastic syndromes or secondary AML allowed\n* Concurrent enrollment on SWOG-9007 (cytogenetics protocol)\n* No clinical or documented CNS involvement with AML\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nPerformance status\n\n* Zubrod 0-2\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* WBC no greater than 30,000/mm\\^3\n\nHepatic\n\n* Bilirubin no greater than 1.5 times upper limit of normal (ULN)\n* AST or ALT no greater than 1.5 times ULN\n\nRenal\n\n* Not specified\n\nCardiovascular\n\n* No unstable cardiac arrhythmias\n* No unstable angina\n\nOther\n\n* HIV negative\n* No other malignancy within the past 5 years except for the following:\n\n  * Adequately treated basal cell or squamous cell skin cancer\n  * Carcinoma in situ of the cervix\n  * Adequately treated stage I or II cancer currently in complete remission\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* See Disease Characteristics\n* No prior gemtuzumab ozogamicin for AML\n\nChemotherapy\n\n* Prior hydroxyurea to control high cell counts allowed\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified\n\nOther\n\n* At least 4 weeks since prior investigational agents and recovered",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [],
+  "primary_outcomes": [
+    {
+      "measure": "CR",
+      "timeFrame": "After induction therapy is completed",
+      "description": ""
+    }
+  ],
+  "sponsor": "SWOG Cancer Research Network",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2003-04",
+  "completion_date": "2010-10",
+  "last_updated": "2015-03-05"
+}

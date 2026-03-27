@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT02871726",
+  "brief_title": "Transrectal Ultrasound Robot-Assisted Prostate Biopsy",
+  "official_title": "Transrectal Ultrasound Robot-Assisted Prostate Biopsy",
+  "brief_summary": "Prostate cancer (PCa) is the most common non-dermatologic malignancy in U.S. men. Transrectal ultrasound (TRUS)-guided prostate biopsy is a commonly used diagnostic procedure for men with an elevated serum prostate-specific antigen (PSA) level and/or abnormal digital rectal examination (DRE). It is estimated that more than 1 million TRUS-guided prostate biopsies are performed annually in the U.S. alone. However, a freehand TRUS-guided systematic biopsy (SB) procedure has significant limitations. First, freehand biopsy cores are often spatially clustered, rather than uniformly distributed, and do not accurately follow the recommended, sextant template. Second, a freehand TRUS-guided biopsy does not allow precise mapping of the biopsy cores within the prostate. Targeted biopsy (TB) using special devices emerged to help the physicians guide the biopsy using multiparametric MRI (mpMRI). TB cores yield a higher cancer detection rate of clinically significance PCa than SB cores, but TB cores also miss a large number of clinically significant PCa that are detected by SB. Accordingly, TB is commonly performed concurrently with SB (TB+SB procedure).",
+  "detailed_description": "This study attempts to improve TRUS-guided prostate biopsy by utilizing assistance from a novel robotic TRUS manipulator (TRUS-Robot) developed by our team. The hypothesis of the study is that clinically significant prostate cancer detection rate from the SB cores (at SB or TB+SB) can be improved above that of current devices. The objective of the study is to gain early evidence on the effectiveness of prostate biopsy assisted by the TRUS-Robot vs. a current TB device in a randomized clinical trial.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 483,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "TRUS-Robot",
+      "type": "DEVICE",
+      "description": "A robotic device used to hold and manipulate the ultrasound probe during a transrectal prostate biopsy."
+    },
+    {
+      "name": "TRUS biopsy",
+      "type": "OTHER",
+      "description": "Uronav for prostate biopsy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Scheduled for an initial diagnostic biopsy\n* Elevated serum PSA (prostate specific antigen\\> 4 ng/ml) and/or abnormal digital rectal exam\n\nExclusion Criteria:\n\n* Clinical diagnosis of prostate cancer\n* Prior prostate biopsy\n* Anal stenosis that prevents TRUS probe insertion\n* Inadequate bowel prep\n* Unwilling or unable to sign the informed consent",
+    "gender": "MALE",
+    "min_age": "45 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cancer Detection Rate of Clinically Significant Prostate Cancer",
+      "timeFrame": "5 years",
+      "description": "Number of biopsy patients diagnosed with Gleason score \\>= 7 over the total number of patients on both arms of the study."
+    },
+    {
+      "measure": "Investigational device serious adverse events",
+      "timeFrame": "5 years",
+      "description": "Serious adverse events will be assessed according to 21 Code of Federal Regulations (CFR) Part 812.3(s)."
+    },
+    {
+      "measure": "Cancer Detection Rate of Clinically Insignificant Prostate Cancer",
+      "timeFrame": "5 years",
+      "description": "Number of biopsy patients diagnosed with Gleason score \\<= 6 over the total number of patients on both arms of the study."
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [
+    "National Institutes of Health (NIH)"
+  ],
+  "start_date": "2021-11-24",
+  "completion_date": "2026-08",
+  "last_updated": "2026-02-20"
+}

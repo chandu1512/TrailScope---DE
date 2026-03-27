@@ -1,0 +1,54 @@
+{
+  "nct_id": "NCT02342613",
+  "brief_title": "Adoptive Immunotherapy With Activated Marrow Infiltrating Lymphocytes and Cyclophosphamide Graft-Versus-Host Disease Prophylaxis in Patients With Relapse of Hematologic Malignancies After Allogeneic Hematopoietic Cell Transplantation",
+  "official_title": "Adoptive Immunotherapy Utilizing Activated Marrow Infiltrating Lymphocytes Derived From Patients With Bone Marrow Relapse of Hematologic Malignancies After Allogeneic Hematopoietic Cell Transplantation Using Post-Transplantation Cyclophosphamide Graft-Versus-Host Disease Prophylaxis.",
+  "brief_summary": "This Phase 1 clinical study is designed to examine the safety and feasibility of using anti-CD3/CD28 activated marrow infiltrating lymphocytes (MILs) as treatment of relapse after allogeneic hematopoietic cell transplantation (alloHCT) for patients with hematologic malignancies with bone marrow involvement of their relapsed disease. These MILs will be derived from the bone marrow of the relapsed patient who had previously received post-transplantation cyclophosphamide (PTCy) as graft-versus-host disease (GVHD) prophylaxis (PTCy-MILs). A bone marrow aspiration will be performed on the patient to collect \\~200ml of marrow for ex vivo expansion. During this expansion process, T cells will be activated and expanded by co-stimulation with anti-CD3/anti-CD28 monoclonal antibodies covalently attached to super-paramagnetic microbeads. Patients will be treated with salvage therapy while this ex vivo expansion is ongoing. After the simultaneous salvage therapy and ex vivo expansion, the activated PTCy-MILs will be reinfused. Patients will be monitored with the primary objective being the feasibility of expanding to targeted dose levels activated PTCy-MILs that do not cause grade III-IV acute GVHD within the first 90 days after PTCy-MIL infusion.",
+  "detailed_description": "Primary Objectives:\n\n1. Feasibility of generating activated PTCy-MILs in patients with relapsed disease involving the bone marrow.\n2. Toxicity of PTCy-MILs, specifically the rate of grade III-IV acute GVHD within the first 90 days after PTCy-MIL infusion.\n\nSecondary Objectives\n\n1. Determination of an optimal safe dose for PTCy-MILs.\n2. Immunologic characterization of the PTCy-MIL product before and after expansion.\n3. Immune reconstitution after treatment with PTCy-MILs.\n4. Incidence and severity of chronic GVHD.\n5. Clinical responses (complete remissions, partial remissions, stable disease) as measured by criteria specific for the particular disease type.\n6. Progression-free and overall survival.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 32,
+  "conditions": [
+    "Hematologic Malignancies",
+    "Graft-Versus-Host Disease"
+  ],
+  "interventions": [
+    {
+      "name": "Activated PTCy-MILs",
+      "type": "BIOLOGICAL",
+      "description": "The activated PTCy-MILs will be infused through standard blood tubing containing a 170-260 micron filter without an additional leukoreduction filter into a central IV site. Each of the bags will be infused at a rate of approximately 10 ml per minute. The IV line will be flushed with normal saline immediately after completion of PTCy-MILs infusion to ensure that all product has been infused into the patient."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age \u226518 years old\n* Bone marrow relapse of a hematologic malignancy \u22656 months after alloHCT using PTCy\n* Donor CD3+ chimerism \u2265 30% measured in peripheral blood or bone marrow\n* ECOG performance status \u2264 2 or Karnofsky performance scale \u2265 70%.\n* Off all immunosuppressive drugs for 2 weeks prior to the PTCy-MILs collection.\n* Expectation of ability to safely undergo salvage treatment appropriate for the patient's malignant disease type as determined by the treating hematologist/ oncologist.\n\nExclusion Criteria:\n\n* Most recent alloHCT not utilizing PTCy.\n* Active GVHD requiring treatment.\n* Immunosuppression use within 28 days of PTCy-MIL infusion if prior grade II-IV acute GVHD.\n* Creatinine \u2265 2.5, total bilirubin \\> 3 times the upper limit of normal (ULN), or AST/ALT \\> 3 times the ULN.\n* HIV-1/2 or HTLV-1/2 positivity.\n* Life expectancy \u2264 90 days even with aggressive treatment, as determined by the treating hematologist/oncologist, which would preclude assessment of toxicity of PTCy-MILs",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Feasibility of generating activated marrow infiltrating lymphocytes (MILs) from participants previously treated with post-transplantation cyclophosphamide (PTCy) (PTCy-MILs) who have relapsed disease involving the bone marrow",
+      "timeFrame": "90 days",
+      "description": "Feasibility is measured as the number of participants who achieve: 1) The successful obtaining of PTCy-MILs; 2) The expansion of PTCy-MILs to at least 70% of the assigned dose level; 3) Successful infusion of PTCy-MILs; 4) The absence of grade III-IV acute graft-versus-host-disease (GVHD) for 90 days after PTCy-MILs infusion. Acute GVHD is defined by the Modified Keystone Criteria."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Institutes of Health (NIH)"
+  ],
+  "start_date": "2015-05-28",
+  "completion_date": "2024-03-31",
+  "last_updated": "2025-01-03"
+}

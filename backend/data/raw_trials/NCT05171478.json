@@ -1,0 +1,50 @@
+{
+  "nct_id": "NCT05171478",
+  "brief_title": "Full-Field Optical Coherence Tomography (FFOCT) for Evaluation of Bronchoscopic Small Biopsy Specimens",
+  "official_title": "Full-Field Optical Coherence Tomography (FFOCT) for Evaluation of Bronchoscopic Small Biopsy Specimens",
+  "brief_summary": "This study sets out to register imaging of small biopsy specimens obtained during bronchoscopy using full-field optical coherence tomography against standard histologic evaluation.",
+  "detailed_description": "Small biopsy specimens obtained through bronchoscopy are commonly employed for the diagnosis and staging of thoracic malignancies. Diagnostic yield is dependent on tissue quality and quantity in specimens obtained through bronchoscopy, and it is thus important to ensure adequate sampling. Rapid on-site cytology (ROSE) is a method used by having a cytotechnologist at the bedside to prepare and analyze specimens to improve the quality of tissue acquisition during bronchoscopy. Although effective, ROSE expertise is not always available to proceduralists, is costly, and reproducible techniques that can be deployed across multiple tiers of institutions are needed across the globe.\n\nOptical coherence tomography (OCT) is an emerging technique which may provide real-time imaging with resolution approaching that of typical histopathology. This has several benefits over ROSE using histopathologic evaluation including rapid imaging with minimal tissue processing, preservation of tissue specimens for molecular testing, enhanced intracellular contrast, and adaptation to machine learning approaches to allow for a reproducible and consistent result. In fact, full-field OCT has recently been applied in several tissue types for evaluation of adequacy of pathologic specimens and evaluation of malignancy, among others. To the best of the investigators' knowledge, this technology has not yet been evaluated for assessment of specimen quality in bronchoscopic procedures.\n\nThus, the investigators propose a study of full-field OCT for evaluation of small biopsy specimens obtained through bronchoscopy. The investigators aim to demonstrate the feasibility of this technology in the workflow of bronchoscopy and compare to current evaluation methods including rapid on-site evaluation (ROSE). ROSE is commonly used to evaluate adequacy of tissue diagnosis during bronchoscopic procedures including at this institution. However, studies have not shown definitive benefits over bronchoscopy without ROSE, and current expert guidelines suggest bronchoscopy with Endobronchial Ultrasound (EBUS) transbronchial needle aspiration (TBNA) may be performed with or without ROSE.\n\nFull-field OCT has several potential benefits compared to ROSE, including rapid analysis with minimal tissue processing and preservation of tissue for further molecular testing. In addition, OCT has been used to assess surgical biopsy specimens in a non-destructive manner, so the tissues can be analyzed after imaging using standard cytological and pathological methods. Full-field OCT evaluation may be applied to other diseases in addition to further augmenting the diagnostic ability through the use of machine learning approaches.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Lung Cancer",
+    "Sarcoidosis"
+  ],
+  "interventions": [
+    {
+      "name": "Full-field optical coherence tomography",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Sample obtained during bronchoscopy will be imaged using full-field optical coherence tomography"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Inpatients or outpatients greater than or equal to 18 years old\n* Capable of providing informed consent\n* Undergoing bronchoscopy for diagnosis or staging per standard of care\n* Collection of small biopsy samples by EBUS or conventional transbronchial needle aspiration (TBNA) or transbronchial biopsy for purposes outside of the research study\n\nExclusion Criteria:\n\n* Standard contraindications bronchoscopy including bleeding disorders, antiplatelet or anticoagulant usage, severe respiratory failure, and clinical instability\n* Pregnancy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Correlation of FFOCT to standard histology as assessed by the kappa value",
+      "timeFrame": "1 year",
+      "description": "Correlation of FFOCT to standard histology will be assessed by the kappa value of correlation."
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [],
+  "start_date": "2021-12-09",
+  "completion_date": "2026-12-08",
+  "last_updated": "2025-12-09"
+}

@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT02625623",
+  "brief_title": "Avelumab in Third-Line Gastric Cancer (JAVELIN Gastric 300)",
+  "official_title": "A Phase III Open-label, Multicenter Trial of Avelumab (MSB0010718C) as a Third-line Treatment of Unresectable, Recurrent, or Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma",
+  "brief_summary": "The purpose of this study was to demonstrate superiority of treatment with avelumab plus best supportive care (BSC) versus physician's choice (chosen from a pre-specified list of therapeutic options) plus BSC.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 371,
+  "conditions": [
+    "Unresectable, Recurrent, Locally Advanced or Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma",
+    "Gastric Cancer Third Line"
+  ],
+  "interventions": [
+    {
+      "name": "Avelumab",
+      "type": "DRUG",
+      "description": "Avelumab was administered as a 1-hour intravenous (IV) infusion at 10 milligram per kilogram (mg/kg) once every 2-week treatment cycle until confirmed progressive disease or unacceptable toxicity along with best supportive care (BSC)."
+    },
+    {
+      "name": "Irinotecan",
+      "type": "DRUG",
+      "description": "Irinotecan was administered at a dose of 150 mg/m \\^2 on Day 1 and 15 of a 4-week treatment cycle until disease progression or unacceptable toxicities along with BSC."
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Paclitaxel was administered at a dose of 80 mg/m\\^2 on Day 1, 8, and 15 of a 4-week treatment cycle until disease progression or unacceptable toxicities along with BSC."
+    },
+    {
+      "name": "Best Supportive Care (BSC)",
+      "type": "OTHER",
+      "description": "BSC is defined as treatment administered with the intent to maximize Quality of life without a specific antineoplastic regimen and is based on investigator's discretion. BSC was administered once every 3 weeks."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male or female subjects aged greater than or equal to (\\>=) 18 years\n* Subjects with histologically confirmed recurrent unresectable, recurrent locally advanced or metastatic adenocarcinoma of the stomach or gastroesophageal junction (GEJ)\n* Availability of a formalin-fixed, paraffin-embedded (FFPE) block containing tumor tissue\n* Subjects must have received 2 prior courses of systemic treatment for unresectable, recurrent, locally advanced or metastatic gastric cancer, and must have progressed after the second line\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 to 1 at trial entry\n* Adequate hematological, hepatic and renal functions defined by the protocol\n* Negative blood pregnancy test at Screening for women of childbearing potential.\n* Highly effective contraception for both male and female subjects if the risk of conception exists\n\nOther protocol defined inclusion criteria could apply\n\nExclusion Criteria:\n\n* Prior therapy with any antibody or drug targeting T-cell coregulatory proteins\n* Concurrent anticancer treatment\n* Major surgery\n* Subjects receiving immunosuppressive agents (such as steroids) for any reason should be tapered off these drugs before initiation of the trial treatment (with the exception of subjects with adrenal insufficiency, who may continue corticosteroids at physiologic replacement dose, equivalent to less than \\[\\<\\] 10 mg prednisone daily).\n* All subjects with brain metastases, except those meeting the following criteria: a. Brain metastases have been treated locally, and b. No ongoing neurological symptoms that are related to the brain localization of the disease (sequelae that are a consequence of the treatment of the brain metastases are acceptable)\n* Previous malignant disease (other than gastric cancer) within the last 5 years with the exception of basal or squamous cell carcinoma of the skin or carcinoma in situ (bladder,cervical, colorectal, breast)\n* Prior organ transplantation, including allogeneic stem-cell transplantation Significant acute or chronic infections\n* Active autoimmune disease that might deteriorate when receiving an immunostimulatory agent\n* Known severe hypersensitivity reactions to monoclonal antibodies, any history of anaphylaxis, or uncontrolled asthma (that is, 3 or more features of partially controlled asthma)\n* Persisting toxicity of grade \\>2 related to prior therapy except neuropathy and alopecia\n* Neuropathy Grade greater than or equal (\\>=) 3.\n* Pregnancy or lactation\n* Known alcohol or drug abuse\n* History of uncontrolled intercurrent illness including hypertension, active infection, diabetes\n* Clinically significant (i.e., active) cardiovascular disease\n* All other significant diseases might impair the subject's tolerance of trial treatment\n* Any psychiatric condition that would prohibit the understanding or rendering of informed consent and that would limit compliance with study requirements\n* Vaccination within 4 weeks of the first dose of avelumab and while on trial is prohibited except for administration of inactivated vaccines\n* Legal incapacity or limited legal capacity\n* Subjects will be excluded from the treatment with irinotecan or paclitaxel monotherapy if administration of their chemotherapy would be inconsistent with the current local labeling (for example, in regard to contraindications, warnings/precautions, or special provisions) for that chemotherapy. Investigators should check updated labeling via relevant websites before randomization\n* Subjects should start treatment administration within 28 days after signing the informed consent form (ICF). Treatment administration will start within 4 days after the randomization call",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn State University Milton S. Hershey Medical Center 500 University Drive",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "From randomization up to 627 days",
+      "description": "OS was defined as the time from randomization to the date of death due to any cause. For participants who were still alive at the time of data analysis or who were lost to follow-up, OS time was censored at the date of last contact. OS was measured using Kaplan-Meier (KM) estimates."
+    }
+  ],
+  "sponsor": "EMD Serono Research & Development Institute, Inc.",
+  "collaborators": [
+    "Merck KGaA, Darmstadt, Germany"
+  ],
+  "start_date": "2015-12-28",
+  "completion_date": "2019-11-13",
+  "last_updated": "2020-11-06"
+}

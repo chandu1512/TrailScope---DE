@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT07235293",
+  "brief_title": "A Study to Test DSP107 in Combination With Atezolizumab in Comparison With Fruquintinib as a New Treatment for Colorectal Cancer.",
+  "official_title": "A Randomized, Open-label, Phase 2b Study to Compare the Efficacy of DSP107 in Combination With Atezolizumab Versus Fruquintinib in Patients With Advanced Microsatellite Stable Colorectal Cancer",
+  "brief_summary": "This clinical study is testing whether a new combination of medicines (DSP107 and atezolizumab) is more effective and safer than an existing treatment (fruquintinib) for people with advanced colorectal cancer that is microsatellite stable (MSS). Participants will be randomly assigned to receive one of the two treatments, and researchers will monitor how well the cancer responds, how safe the treatments are, and how the body processes them. The study hopes to show that the new combination can improve outcomes for patients with this type of colorectal cancer.",
+  "detailed_description": "This Phase 2b, randomized, open-label, multicenter study will enroll participants with advanced MSS or mismatch repair-proficient (pMMR) colorectal cancer who have progressed on, or shown intolerance to, standard therapies, including fluoropyrimidine, irinotecan, oxaliplatin, trifluridine/tipiracil (Lonsurf), bevacizumab, and epidermal growth factor receptor (EGFR) inhibitors if RAS wild-type. Participants with BRAF V600E mutation, HER2 amplification/overexpression, KRAS G12C mutation, RET fusion, or NTRK fusion may also have received one prior targeted therapy. Prior treatment with fruquintinib or regorafenib is not allowed.\n\nParticipants will be randomized 1:1 into two arms:\n\nGroup A (Experimental): DSP107 10 mg/kg intravenously on Days 1, 8, and 15 of each 28-day cycle, administered after atezolizumab 1680 mg IV on Day 1 of each cycle. DSP107 infusion may be shortened after initial tolerance. Atezolizumab infusion may be shortened from 60 to 30 minutes if well tolerated.\n\nGroup B (Active Comparator): Fruquintinib 5 mg orally once daily on Days 1-21 of each 28-day cycle, with dosing diaries maintained by participants.\n\nTotal duration of study participation for each participant will vary based on factors including treatment tolerability, disease progression and other study discontinuation criteria.\n\nStudy duration for participants will include at least:\n\n* Screening Period of up to 28 days\n* Treatment Period of up to 24 cycles of 28 days\n* Safety Follow-up Period of up to 90 days\\* from the last dose of IP or active comparator.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 90,
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "DSP107 + Atezolizumab",
+      "type": "DRUG",
+      "description": "DSP107 infusion begins \\~30 (\u00b110) minutes after completion of atezolizumab infusion on Day 1."
+    },
+    {
+      "name": "Fruquintinib",
+      "type": "DRUG",
+      "description": "5 mg orally, once daily (with or without food), on Days 1-21 of each 28-day cycle, followed by 7 days off."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Are \u2265 18 years of age with a life expectancy of \\> 3 months.\n2. Participants with histologically confirmed, inoperable, MSS and/or pMMR CRC which has progressed to, or is intolerant to, specified therapies (and has received prior treatment with no more than 3 lines of therapy).\n\n   Note: Lines of therapy are defined by disease progression between therapies. Participants who discontinue their prior regimen due to toxicity (in the absence of disease recurrence/progression) will also have their prior therapy count as one prior regimen.\n3. Measurable disease per RECIST v1.1.\n\nExclusion Criteria:\n\n1. Central nervous system (CNS) metastases unless stable 2 months post definitive therapy with steroids.\n2. Unresolved AEs of Grade 2 or higher from prior anticancer therapy.\n3. Past or current history of autoimmune disease or immune deficiency.\n4. History of other malignancy within 3 years of first study treatment cycle.\n5. Current or recent treatment with certain therapies including specified anticancer treatments, modulators of CYP3A4 and immunomodulating therapies (prior treatment with CPIs is not exclusory).\n6. Known allergy or hypersensitivity to any of the test compounds, materials, or contraindication to test product.\n7. Clinically significant abnormal laboratory safety tests.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To determine Median overall survival (mOS) in participants treated with the combination of DSP107 and atezolizumab versus fruquintinib.",
+      "timeFrame": "From Day 1 until date of death from any cause assessed up to 2 years",
+      "description": "Median Overall Survival (mOS) will be estimated using Kaplan-Meier methodology as the median time from the start of study treatment to the last known date a participant was alive. Censoring rules will be applied for participants without an event at the time of analysis, and 95% confidence intervals for mOS will be provided."
+    }
+  ],
+  "sponsor": "Kahr Bio Australia Pty Ltd",
+  "collaborators": [
+    "Novotech (Australia) Pty Limited"
+  ],
+  "start_date": "2026-01-16",
+  "completion_date": "2027-04-30",
+  "last_updated": "2026-03-19"
+}

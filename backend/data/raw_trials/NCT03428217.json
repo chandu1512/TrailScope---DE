@@ -1,0 +1,83 @@
+{
+  "nct_id": "NCT03428217",
+  "brief_title": "CANTATA: CB-839 With Cabozantinib vs. Cabozantinib With Placebo in Patients With Metastatic Renal Cell Carcinoma",
+  "official_title": "A Randomized, Double-Blind, Placebo-Controlled Phase 2 Clinical Trial Comparing CB-839 in Combination With Cabozantinib (CB-Cabo) vs. Placebo With Cabozantinib (Pbo-Cabo) in Patients With Advanced or Metastatic Renal Cell Carcinoma (RCC)",
+  "brief_summary": "Tthe primary objective of this study is to compare blinded Independent Radiology Committee (IRC)-adjudicated progression free survival (PFS) of patients treated with CB-839 + cabozantinib (CB-Cabo) versus placebo + cabozantinib (Pbo-Cabo) for advanced or metastatic clear-cell RCC (ccRCC).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 444,
+  "conditions": [
+    "Advanced Renal Cell Carcinoma",
+    "Metastatic Renal Cell Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "CB-839",
+      "type": "DRUG",
+      "description": "Oral glutaminase inhibitor"
+    },
+    {
+      "name": "Cabozantinib",
+      "type": "DRUG",
+      "description": "Oral receptor tyrosine kinase inhibitor"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Placebo tablets"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Documented histological or cytological diagnosis of renal cell carcinoma with a clear-cell component\n2. Adult patients\n3. Karnofsky Performance Score (KPS) \u2265 70%\n4. Measurable Disease per Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v1.1)\n5. 1-2 lines of prior therapy for advanced or metastatic renal cell carcinoma (RCC) including one anti-angiogenic therapy (any vascular endothelial growth factor \\[VEGF\\] pathway-targeted agent used either as monotherapy or as a component of a combination regimen) OR the combination regimen of nivolumab + ipilimumab\n6. Adequate hepatic, renal, cardiac and hematologic function\n\nExclusion Criteria:\n\n1. Prior treatment with cabozantinib (or other mesenchymal-epithelial transition \\[MET\\] inhibitor) or CB-839\n2. Receipt of other anticancer therapy within 2-6 weeks, depending on the treatment\n3. Untreated or active brain metastases or central nervous system cancer, as defined per protocol\n4. Prior gastric surgery, small bowel resection, or other conditions that may impede adequate absorption of oral study drug\n5. Known active infection with human immunodeficiency virus (HIV), Hepatitis B or C virus\n6. Inability to discontinue proton-pump-inhibitor use before randomization\n7. Patients who are pregnant or lactating",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland, Greenebaum Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny General Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center (UPMC) Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS) as Assessed by the Independent Radiology Committee (IRC)",
+      "timeFrame": "Up to the primary analysis data cut-off date of 31 Aug 2020. Maximum duration of follow-up for PFS was 22.14 months.",
+      "description": "PFS is defined as the time from randomization to the occurrence of disease progression as assessed by the IRC using RECIST v1.1 or death from any cause, whichever occurs first. Subjects not experiencing disease progression or death at the time of analysis of PFS will be censored at the date of the last evaluable radiographic disease assessment. RECIST v1.1 criteria:\n\nComplete Response (CR): Disappearance of all target lesions. Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters.\n\nProgressive Disease (PD): At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study. In addition, the sum must also demonstrate an absolute increase of at least 5 mm. Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study."
+    }
+  ],
+  "sponsor": "Calithera Biosciences, Inc",
+  "collaborators": [],
+  "start_date": "2018-04-24",
+  "completion_date": "2021-07-16",
+  "last_updated": "2023-02-21"
+}

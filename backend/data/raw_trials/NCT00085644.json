@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT00085644",
+  "brief_title": "Human Anti-tumor Necrosis Factor (TNF) Monoclonal Antibody Adalimumab in Subjects With Active Ankylosing Spondylitis",
+  "official_title": "A Phase 3 Multicenter Study of the Safety and Efficacy of the Human Anti-TNF Monoclonal Antibody Adalimumab in Subjects With Active Ankylosing Spondylitis",
+  "brief_summary": "The objective of this study was to evaluate the safety and efficacy of adalimumab 40 mg given every other week (eow) in subjects with active ankylosing spondylitis (AS) who have had an inadequate response to, or who are intolerant to, treatment with at least 1 nonsteroidal anti-inflammatory drug (NSAID) and who may have also failed treatment with at least 1 disease-modifying antirheumatic drug (DMARD).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 315,
+  "conditions": [
+    "Ankylosing Spondylitis"
+  ],
+  "interventions": [
+    {
+      "name": "adalimumab (D2E7)",
+      "type": "BIOLOGICAL",
+      "description": "Adalimumab 40 mg every other week, subcutaneous"
+    },
+    {
+      "name": "placebo",
+      "type": "BIOLOGICAL",
+      "description": "Placebo every other week, subcutaneous"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subjects must be \\>= 18 years of age\n* meet Modified NY Criteria definition of ankylosing spondylitis (AS)\n* have diagnosis of active AS based on protocol specified criteria\n* inadequate response or intolerance to \\>= 1 nonsteroidal antiinflammatory drug (NSAID)\n* be able and willing to learn to self-administer subcutaneous (SC) injections\n\nExclusion Criteria:\n\n* Active tuberculosis, listeriosis,or hepatitis B, or any history of hepatitis C\n* History of demyelinating disease, multiple sclerosis, cancer, or lymphoproliferative disease\n* Previous anti-tumor necrosis factor therapy\n* Treatment with disease-modifying antirheumatic drugs (DMARDs - other than methotrexate, hydroxychloroquine, and sulfasalazine)\n* Treatment with intra-articular corticosteroid joint injections within 4 weeks of study dosing\n* Biologic or investigational therapy within 6 weeks of study dosing\n* Treatment with intravenous (IV) antibiotics within 30 days of study dosing\n* Treatment with oral antibiotics within 14 days of study dosing",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Wheaton",
+      "state": "Maryland",
+      "zip": "20902",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "Duncansville",
+      "state": "Pennsylvania",
+      "zip": "16635",
+      "status": ""
+    },
+    {
+      "facility": "",
+      "city": "West Reading",
+      "state": "Pennsylvania",
+      "zip": "19611",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Responders With a Reduction of Signs and Symptoms of Ankylosing Spondylitis (AS) as Measured With ASAS International Working Group Response Criteria (ASAS 20).",
+      "timeFrame": "Week 12",
+      "description": "ASAS 20 responders - improvement of \\>=20% and absolute improvement of \\>=10 units from Baseline in a visual analog scale (VAS) for \\>=3 of 4 domains; Patient's Global Assessment of disease activity VAS (0 \\[none\\]-100 \\[severe\\]), Total Back Pain VAS (0 \\[no pain\\]-100 \\[severe\\]), BASFI VAS (0 \\[easy\\]-100\\[impossible\\]); and Inflammation VAS (0 \\[none\\]-10 \\[very severe\\]) and absence of deterioration in the potential remaining domain, defined as a worsening of \\>=20% and a net worsening of \\>=10 units. Applied to each scale and not to an overall global scale."
+    },
+    {
+      "measure": "Mean Change in the Modified Stoke Ankylosing Spondylitis Spine Score (mSASSS) Compared Against a Historical Control Group (Outcomes in Ankylosing Spondylitis International Study [OASIS]) Using the ANCOVA Model Adjusting for Baseline mSASSS Score",
+      "timeFrame": "Week 104",
+      "description": "Radiographic progression was based on change in mSASSS scoring (comparison of the means) from double-blind Baseline visit to Week 104. The mSASSS is the sum of the lumbar and cervical spine score ( 0 \\[no change\\] to 72 \\[progression\\]), derived from scoring the anterior site of the lumbar spine (T12 to S1) and the cervical spine (C2 to T1) as either 0 (normal), 1 (erosion, sclerosis, or squaring), 2 (syndesmophyte), 3 (bridging syndesmophyte), or N (vertebral body not evaluable). Data from NCT00195819 was compared with data from AS patients in OASIS."
+    }
+  ],
+  "sponsor": "Abbott",
+  "collaborators": [],
+  "start_date": "2004-01",
+  "completion_date": "2009-07",
+  "last_updated": "2011-04-18"
+}

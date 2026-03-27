@@ -1,0 +1,99 @@
+{
+  "nct_id": "NCT00819780",
+  "brief_title": "PEAK: Panitumumab Plus mFOLFOX6 vs. Bevacizumab Plus mFOLFOX6 for First Line Treatment of Metastatic Colorectal Cancer (mCRC) Patients With Wild-Type Kirsten Rat Sarcoma-2 Virus (KRAS) Tumors",
+  "official_title": "A Randomized, Multicenter, Phase 2 Study to Compare the Efficacy of Panitumumab in Combination With mFOLFOX6 to the Efficacy of Bevacizumab in Combination With mFOLFOX6 in Patients With Previously Untreated, KRAS Wild-Type, Unresectable, Metastatic Colorectal Cancer",
+  "brief_summary": "The primary objective of this study is to estimate the treatment effect on progression-free survival (PFS) of panitumumab relative to bevacizumab in combination with mFOLFOX6 chemotherapy as first-line therapy in patients with tumors expressing wild-type KRAS, unresectable mCRC.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 285,
+  "conditions": [
+    "Colon Cancer",
+    "Colorectal Cancer",
+    "Rectal Cancer",
+    "Metastatic Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Panitumumab",
+      "type": "DRUG",
+      "description": "Panitumumab is a fully human immunoglobulin G (IgG)2 monoclonal antibody antagonist directed against human Epidermal Growth Factor receptor (EGFr)."
+    },
+    {
+      "name": "Bevacizumab",
+      "type": "DRUG",
+      "description": "Bevacizumab is a humanized monoclonal IgG1 antibody that is directed against Vascular Endothelial Growth Factor (VEGF)."
+    },
+    {
+      "name": "mFOLFOX6",
+      "type": "DRUG",
+      "description": "mFOLFOX6 regimen is a combination therapy of oxaliplatin (85 mg/m\\^2) administered as a 2-hour infusion on Day 1; leucovorin (400 mg/m\\^2) administered as a 2-hour infusion on Day 1; followed by a loading dose of 5-fluorouracil (5-FU; 400 mg/m\\^2) IV bolus administered over approximately 2 to 4 minutes on Day 1, then 5- FU (2400 mg/m\\^2) via ambulatory pump administered for a period of 46 to 48 hours."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically-confirmed adenocarcinoma of the colon or rectum in patients with unresectable metastatic (M1) disease\n* Patients with at least 1 uni-dimensionally measurable lesion of at least 10 mm per modified Response Evaluation Criteria in Solid Tumors (RECIST) guidelines\n* Wild-type KRAS tumor status confirmed by an Amgen approved central laboratory or an experienced laboratory (local laboratory) per local regulatory guidelines using a validated test method\n* Eastern Cooperative Oncology Group (ECOG) score of 0 or 1\n* Men or women 18 years of age or older\n* Adequate hematologic, renal, hepatic, metabolic, and coagulation function\n\nExclusion Criteria:\n\n* History of prior or concurrent central nervous system (CNS) metastases\n* Prior chemotherapy or other systemic anticancer therapy for treatment of metastatic colorectal carcinoma\n* Clinically significant cardiac disease\n* Clinically significant peripheral sensory neuropathy\n* Active inflammatory bowel disease\n* Recent gastroduodenal ulcer to be active or uncontrolled\n* History of interstitial lung disease\n* Recent pulmonary embolism, deep vein thrombosis, or other significant venous event\n* Pre-existing bleeding diathesis and/or coagulopathy with exception of well-controlled anticoagulation therapy\n* Recent major surgical procedure, open biopsy, or significant traumatic injury not yet recovered from prior major surgery.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Mountain Lakes",
+      "state": "New Jersey",
+      "zip": "07046",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Sparta",
+      "state": "New Jersey",
+      "zip": "07871",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19106",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS)",
+      "timeFrame": "From randomization until the data cutoff date of 30 May 2012; median follow-up time was 60 weeks.",
+      "description": "PFS was defined as the time from the date of randomization to the date of first disease progression, or death within 60 days after the last evaluable tumor assessment or randomization date (whichever was later). Participants not meeting the criteria by the cutoff date were censored at the last evaluable tumor assessment date. Tumor response was evaluated by the investigator per modified Response Evaluation Criteria in Solid Tumors (RECIST) version 1.0 every 8 weeks until radiographic disease progression. Progression is defined as at least a 20% increase in the size of target lesions, unequivocal progression of existing non-target lesions, or any new lesions."
+    }
+  ],
+  "sponsor": "Amgen",
+  "collaborators": [],
+  "start_date": "2009-04-24",
+  "completion_date": "2016-07-07",
+  "last_updated": "2022-11-10"
+}

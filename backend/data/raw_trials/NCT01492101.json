@@ -1,0 +1,85 @@
+{
+  "nct_id": "NCT01492101",
+  "brief_title": "The BEACON Study (Breast Cancer Outcomes With NKTR-102)",
+  "official_title": "The BEACON Study (Breast Cancer Outcomes With NKTR-102): A Phase 3 Open-Label, Randomized, Multicenter Study of NKTR-102 Versus Treatment of Physician's Choice (TPC) in Patients With Locally Recurrent or Metastatic Breast Cancer Previously Treated With an Anthracycline, a Taxane and Capecitabine",
+  "brief_summary": "The study is designed as an open-label, randomized, parallel, two arm, multicenter, international Phase 3 study in patients with recurrent or metastatic breast cancer previously treated with cytotoxic chemotherapy regimens.\n\nThe primary study objective is to compare overall survival of patients who receive NKTR-102 given once every 21 days to patients who receive treatment of Physician's Choice selected from a list of seven single-agent intravenous therapies.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 852,
+  "conditions": [
+    "Locally Recurrent Breast Cancer",
+    "Metastatic Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "NKTR-102",
+      "type": "DRUG",
+      "description": "145 mg/m2 NKTR-102 will be delivered q21day as a 90-minute intravenous (IV) infusion on day 1 of each treatment cycle."
+    },
+    {
+      "name": "Treatment of Physician's Choice (TPC)",
+      "type": "DRUG",
+      "description": "One of the following Treatment of Physician Choice will be administered per standard of care:\n\neribulin, ixabepilone, vinorelbine, gemcitabine, paclitaxel, docetaxel, or nab-paclitaxel"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria (major highlights):\n\n* Patient is an adult female with histologically or cytologically confirmed carcinoma of the breast for whom single-agent cytotoxic chemotherapy is indicated\n* Patient can have either measurable or non-measurable disease by RECIST.\n* Patient has received prior therapy (administered in the neoadjuvant, adjuvant and/or metastatic setting) with an anthracycline, a taxane and capecitabine\n* Patient has minimum of 2 and a maximum of 5 prior cytotoxic chemotherapy regimens with the last dose administered within 6 months. A minimum of two chemotherapy regimens had to be for locally recurrent and/or metastatic disease. All therapy received prior to a diagnosis of metastatic disease (eg, neoadjuvant, adjuvant or repeated adjuvant therapy following a second resection) is counted as one regimen.\n* Patient has Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate hematopoietic, liver and kidney functions.\n\nExclusion Criteria (major highlights):\n\n* Patient with chemotherapy within 21 days, radiotherapy within 14 days, biological therapy with 14 days, hormonal therapy within 7 days and investigational therapy within 21 days prior to randomization.\n* Patient with any major surgery within 28 days prior to randomization.\n* Patient with concurrent use of biologic agents for the treatment of cancer including antibodies or any investigational agent(s).\n* Patient with prior treatment for cancer with a camptothecin derivative.\n* Patient with chronic or acute GI disorders resulting in diarrhea of any severity grade; patients who are using chronic anti-diarrheal supportive care to control diarrhea in the 28 days prior to randomization.\n* Patient received pharmacotherapy for hepatitis B or C, tuberculosis or HIV.\n* Patient with known cirrhosis diagnosed with Child-PUGH Class A or higher liver disease.\n* Patient with prior malignancy (other than breast cancer) except for non-melanoma skin cancer and carcinoma in situ (of the cervix or bladder), unless diagnosed and definitively treated more than 5 years prior to randomization.\n* Patient requiring daily use of oxygen supplementation in the 28 days prior to randomization.\n* Patients with significant cardiovascular impairment.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Maryland Oncology Hematology, P.A.",
+      "city": "Columbia",
+      "state": "Maryland",
+      "zip": "21044",
+      "status": ""
+    },
+    {
+      "facility": "Hematology-Oncology Associates of Northern NJ, PA",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07962",
+      "status": ""
+    },
+    {
+      "facility": "The cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "Cooper University Hospital",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    },
+    {
+      "facility": "Medical Oncology Associates of Wyoming Valley, PC",
+      "city": "Kingston",
+      "state": "Pennsylvania",
+      "zip": "18704",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Kaplan-Meier Estimate of Overall Survival: Intention to Treat (ITT) Population",
+      "timeFrame": "36 Months",
+      "description": "Duration of OS was defined as the time from the date of randomisation to the date of death due to any cause. Subjects were followed until their date of death, loss to follow-up, withdrawal of consent for further follow-up for survival, or final database closure. OS was determined using the ITT population which included all subjects randomized into 1 of the 2 treatment arms. Subjects who were lost-to-follow-up or were not known to have died were censored at last date they were shown to be alive. Subjects who did not have any follow-up since the date of randomization were censored at the date of randomization."
+    }
+  ],
+  "sponsor": "Nektar Therapeutics",
+  "collaborators": [],
+  "start_date": "2011-12",
+  "completion_date": "2016-06",
+  "last_updated": "2021-05-06"
+}

@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT06995703",
+  "brief_title": "Increasing Screening for Cancer Using EHR-Nudges Replication",
+  "official_title": "Increasing Screening for Cancer Using EHR-Nudges, A Replication Trial",
+  "brief_summary": "In this study, personalized nudges to clinicians and patients will be evaluated to help increase breast cancer screening rates in accordance with USPSTF guidelines among women with a primary care visit. In partnership with Penn Medicine (Penn) and Case Western Reserve University-University Hospitals (UH), two complementary, concurrent 6-month, cluster randomized, pragmatic trials were conducted from December 2023 to October 2024. This trial will now replicate those interventions at Lancaster General Health (LGH), incorporating learnings from the primary trials while also adapting to align with existing health system protocols and policies. The patient nudge interventions include pre- and post-visit text message reminders to encourage the patient to schedule their mammogram, and the clinician nudge intervention includes a Smart Data Element message in the electronic health record (EHR) reminding the care team that the patient is overdue and that patients are more likely to complete their screening if recommended and ordered by their clinician.",
+  "detailed_description": "Cancer is a leading cause of mortality in the United States. While strong USPSTF guideline recommendations support appropriate screening for early detection and to avoid preventable deaths, breast cancer screening is often underutilized. Increasing breast cancer screening rates is challenging, in part, because it requires complementary decisions from clinicians (e.g., recommend and counsel patients about screening) and patients (e.g., to internalize risks and choose to complete screening). Presently, the lack of interventions directly targeting both clinicians' and patients' decision-making may underscore the relatively stagnant screening rates in the United States. There is a significant need to develop and scale low-cost interventions that increase breast cancer screening while simultaneously addressing the needs of high-risk patients and reducing disparities. Building upon prior work, the investigators propose to develop and test EHR-based clinician and patient nudges at a replication site (Lancaster General Health) to help increase screening mammography rates. The analyses will compare the effectiveness of clinician and patient nudges in the overall patient population and separately among high-risk patients to inform what methods are most effective for each of these populations.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 7920,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Pre-Visit Patient Text Message",
+      "type": "BEHAVIORAL",
+      "description": "Patients will be sent a text message reminder 1 day prior to their scheduled primary care visit. This message will remind them of their upcoming appointment, highlight that they may be overdue for their mammogram, and encourage them to speak with their provider or schedule now by using the provided online scheduling link or phone number. Patients who do not have a cell phone number listed in the EHR will receive automated voice recording (AVR)."
+    },
+    {
+      "name": "Post-Visit Patient Text Messages",
+      "type": "BEHAVIORAL",
+      "description": "Patients will be sent text message reminders 4 days and 14 days after their completed primary care visit if they have not yet scheduled or completed their screening mammogram. The message delivered at 4 days post-visit will remind the patient to schedule and that appointments are available for them. The message delivered at 14-days post-visit will again encourage the patient to schedule their mammogram, if one has not already been scheduled or completed. Both messages will include a scheduling phone number and link to self-schedule online. Patients who do not have a cell phone number listed in the EHR will receive automated voice recording (AVR)."
+    },
+    {
+      "name": "Smart Data Element (SDE)",
+      "type": "BEHAVIORAL",
+      "description": "The clinician-facing Smart Data Element (SDE) in the EHR will be visible to the provider and care team during the visit encounter. The SDE will display as a section in pre-charting, check-in, and rooming and will notify the clinician and care team that a pre-visit communication was sent to the patient regarding scheduling an overdue mammogram and including results from prior work that show that patients are more likely to complete their screening if they receive an order and recommendation from their provider."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nAll patients must meet the following criteria to be eligible:\n\n1. Women between 40 and 74 years of age\n2. A scheduled new or return (non-urgent/sick) primary care visit at one of the study practices at Lancaster General Health\n3. Are overdue and eligible for a mammogram per Epic Health Maintenance\n4. Does not have a future scheduled mammogram appointment\n\nPatients meeting at least one of the following criteria will be considered high risk for screening non-completion:\n\n1. Medicare Insurance\n2. Medicaid Insurance\n3. No EHR patient portal account\n4. Zero log-ins to EHR patient portal in the previous year\n\nExclusion Criteria:\n\nPatients will be excluded from the study if they:\n\n1. Have a history of bilateral mastectomy, breast cancer, or metastatic cancer\n2. Have a mammogram exclusion modifier in Health Maintenance\n3. Have no phone number (home or mobile) listed in their chart",
+    "gender": "FEMALE",
+    "min_age": "40 Years",
+    "max_age": "74 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Lancaster General Health",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17602",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of patients who complete a screening mammogram within 3 months after the visit",
+      "timeFrame": "3 months",
+      "description": "The primary outcome is screening mammogram completion within 3 months after the first eligible primary care visit."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "National Institute on Aging (NIA)"
+  ],
+  "start_date": "2025-06-02",
+  "completion_date": "2026-06-02",
+  "last_updated": "2026-01-08"
+}

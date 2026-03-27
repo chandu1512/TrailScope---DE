@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT05470140",
+  "brief_title": "A Phase 1 Study of WU-NK-101 in Patients With Relapsed or Refractory (R/R) Acute Myeloid Leukemia (AML)",
+  "official_title": "A Phase 1 Study of WU-NK-101 in Patients With Relapsed or Refractory (R/R) Acute Myeloid Leukemia (AML)",
+  "brief_summary": "This study is a Phase 1, open-label, dose escalation, and cohort expansion study designed to characterize the safety, tolerability, pharmacokinetics, pharmacodynamics, immunogenicity, and preliminary anti-leukemic activity of WU-NK-101 in R/R AML.",
+  "detailed_description": "This is a first in human, multi-center Phase 1 single agent study in patients with R/R AML who have exhausted other treatment options. The study will consist of two phases, dose escalation and cohort expansion. During the Dose Escalation Phase, up to 18 patients will be treated with WU-NK-101 in up to 3 Dose Levels (DL) until maximum tolerated dose (MTD) or maximum administered dose (MAD) is determined.\n\nOnce the MTD/MAD is defined, 6 additional patients will be enrolled in the Cohort Expansion Phase to further characterize the safety, tolerability, as well as determining the recommended phase 2 dose (RP2D) of WU-NK-101. Patients in the Cohort Expansion Phase, who achieve a partial response (PR), may receive up to 2 further re-induction cycles contingent on safety in the Dose Escalation Phase; patients who achieve a complete remission with partial hematologic recovery (CRh) or complete remission with incomplete hematologic recovery (CRi) at any point during the course of treatment may receive a further consolidation cycle, for a total of up to 4 cycles per patient. During cohort expansion, dosing breaks of up to two weeks are allowed between cycles.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 9,
+  "conditions": [
+    "Acute Myeloid Leukemia"
+  ],
+  "interventions": [
+    {
+      "name": "WU-NK-101",
+      "type": "BIOLOGICAL",
+      "description": "WU-NK-101 administered on Day 1, Day 8, and Day 15."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Confirmed diagnosis of primary or secondary AML (any subtype except acute promyelocytic leukemia) according to World Health Organization (WHO) 2016 classification\n2. Unlikely to benefit from standard of care therapy\n3. Patients with AML post hematopoietic stem cell transplant (HSCT) \\[permitted in Cohort Expansion Phase only\\] must meet the following criteria:\n\n   * There must be histological confirmation of AML relapse after HSCT\n   * Undergone allogeneic HSCT (alloSCT) \\> 90 days prior to enrollment from a match related donor, matched unrelated donor, cord blood donor, or haplo- identical donor\n   * Off all immunosuppressive medications for a minimum of 2 weeks\n4. Adequate organ function as defined in the protocol\n5. Eastern Cooperative Oncology Group (ECOG) Performance Status \u2264 2 at screening\n\nExclusion Criteria:\n\n1. Circulating blast count \\>30,000/\u00b5L by morphology or flow cytometry (cytoreductive therapies such as leukapheresis or hydroxyurea are allowed)\n2. Uncontrolled or untreated bacterial, fungal, or viral infections, including HIV, Hepatitis B or C infection, or uncontrolled infection of any etiology\n3. Uncontrolled angina, severe uncontrolled ventricular arrhythmias, or electrocardiogram (ECG) suggestive of acute ischemia or active conduction system abnormalities\n4. Severe renal impairment, defined as creatinine clearance \\<40 mL/min",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of Adverse Events of WU-NK-101 as assessed by CTCAE v5",
+      "timeFrame": "24 months",
+      "description": "Safety is based on evaluation of adverse events (AEs) and serious adverse events (SAEs) from the time of consent until End of Study (EOS) visit."
+    },
+    {
+      "measure": "Maximum Tolerated Dose",
+      "timeFrame": "Up to 21 days from first dose",
+      "description": "Maximum Tolerated or Administered Dose of WU-NK-101"
+    }
+  ],
+  "sponsor": "Wugen, Inc.",
+  "collaborators": [],
+  "start_date": "2023-07-01",
+  "completion_date": "2024-10-08",
+  "last_updated": "2025-09-24"
+}

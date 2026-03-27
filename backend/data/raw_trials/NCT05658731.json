@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT05658731",
+  "brief_title": "Cognitive Outcomes After Brain Substructure-informed Radiation Planning in Pediatric Patients",
+  "official_title": "Cognitive Outcomes After Brain Substructure-informed Radiation Planning in Pediatric Patients",
+  "brief_summary": "The goal of this trial is to determine whether it is possible to minimize radiation dose to parts of the brain that are important for thinking and learning in children who require radiation to treat their tumor, and if this will help reduce neurocognitive (thinking and learning) impairments in these patients.\n\nPatients with newly diagnosed brain or head and neck tumors who are having radiation therapy will have neurocognitive testing and MRI imaging (both research and for regular care) done as part of their participation in the study.\n\nSurvivors of childhood brain tumors who completed radiation therapy at least two years before joining the study, and have not had a recurrence, will have neurocognitive testing and research MRIs completed.\n\nHealthy children will also be enrolled and have research MRIs done.\n\nThe researchers will use the radiation plan to determine how much radiation was delivered to different parts of the brain. The investigators will use the MRIs to determine how the normal brain is changing after treatment; and how this compares to patients who had standard radiation treatment or who never had a brain tumor. The neurocognitive testing will be compared among different groups to see how different treatment plans affect performance on neurocognitive tests.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 338,
+  "conditions": [
+    "Brain Tumor",
+    "Head and Neck Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "substructure informed planning",
+      "type": "RADIATION",
+      "description": "Radiation Therapy with substructure informed planning determined by the PI."
+    },
+    {
+      "name": "Neurocognitive Testing",
+      "type": "OTHER",
+      "description": "California Verbal Learning Test (CVLT) and other cognition assessments."
+    },
+    {
+      "name": "MRI",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Magnetic resonance imaging (MRI) using whole brain diffusion tensor imaging (DTI) and resting state functional MRI (rsfMRI)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "1. STRATUM A\n\n   1. Eligibility Criteria\n\n      * aged 1 to \\<26 years of age\n      * tumor must be located in the brain or adjacent to the brain including but not limited to nasopharynx, paranasal sinuses and orbit\n      * treatment must include radiation therapy (either proton or photon)\n      * patients must not have completed radiation therapy\n   2. Exclusion Criteria\n\n      * pregnancy\n      * patients who are not able to undergo neuro-cognitive testing, including children lacking English comprehension or children with premorbid neurological/neurodevelopmental disorders such as Down's syndrome or autism\n2. STRATUM B\n\n   1. Eligibility Criteria\n\n      * diagnosed with a brain tumor at \\<26 years of age\n      * received radiation to the brain as part of therapy\n      * time from radiation start to study enrollment is \u2265 2 years\n      * there has not been disease recurrence from time of most recent radiation treatment to study enrollment\n   2. Exclusion Criteria\n\n      * patients who are not able to undergo neuro-cognitive testing, including children lacking English comprehension or children with premorbid neurological/neurodevelopmental disorders such as Down's syndrome or autism\n3. STRATUM C\n\n   1. Eligibility Criteria\n\n      * must be aged 5 to \\<26 years of age\n      * must be able to complete research imaging without sedation\n   2. Exclusion Criteria\n\n      * must not have any major psychiatric, neurologic or medical diagnosis",
+    "gender": "ALL",
+    "min_age": "1 Year",
+    "max_age": "26 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of plans that meet substructure-informed planning constraints",
+      "timeFrame": "1 month",
+      "description": "Number of plans that meet substructure-informed constraints (per protocol) divided by the total number of plans."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "United States Department of Defense",
+    "Clark Charitable Foundation"
+  ],
+  "start_date": "2023-05-17",
+  "completion_date": "2035-12",
+  "last_updated": "2025-06-30"
+}

@@ -1,0 +1,131 @@
+{
+  "nct_id": "NCT03816683",
+  "brief_title": "A Disease Registry of Patients With Mantle Cell Lymphoma",
+  "official_title": "Treatment Patterns, Outcomes, and Patient-Reported Health-Related Quality of Life: A Prospective Disease Registry of Patients With Mantle Cell Lymphoma Treated With Novel Agents",
+  "brief_summary": "The purpose of this study is to create a patient registry in order to assess treatment patterns, physician reported clinical outcomes and patient-reported health-related quality of life among patients diagnosed with Mantle Cell Lymphoma (MCL) who newly initiated a novel therapy in the past 6 months and whose treatment is ongoing at the time of enrollment.",
+  "detailed_description": "Newer targeted therapies (monotherapy or in combination with other agents) have been recently approved in the United States for the treatment of adult patients with mantle cell lymphoma (MCL) who have received at least 1 prior therapy. The approval of these newer therapies will have an impact on the treatment patterns, toxicity patterns, and outcomes in the MCL population. A prospective, observational study will help to better understand the evolving real-world treatment outcomes (including treatment patterns, reasons for discontinuation/dose reduction, treatment interruption or treatment switches), physician-reported clinical outcomes, and patient-reported symptoms and health-related quality of life (HRQoL) among patients diagnosed with Mantle Cell Lymphoma (MCL) who newly initiated a novel therapy in the past 6 months and whose treatment is ongoing at the time of enrollment.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 227,
+  "conditions": [
+    "Mantle Cell Lymphoma"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patient diagnosed with Mantle Cell Lymphoma (MCL)\n* Informed consent for participation\n* Age \u2265 18 years old, as of the first observed diagnosis of MCL\n* Patients for whom a clinical decision has been made to initiate novel therapy in the last 6 months, limited to the following novel agent categories:\n\n  * Bcl-2 inhibitors\n  * BTK inhibitors\n  * Immunomodulatory agents\n  * Phosphoinositide 3-kinase inhibitors The novel agent must have been granted approval in at least one haematological cancer. Treatment must be ongoing at the time of enrollment.\n\nExclusion Criteria:\n\n\u2022 Patient is participating in a clinical study that prohibits participation in non-interventional studies, or where treatment is blinded, at the time of consent.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Berkeley Heights",
+      "state": "New Jersey",
+      "zip": "07922",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Danville",
+      "state": "Pennsylvania",
+      "zip": "17822",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "The frequency and proportion of patients exposed to each novel agent therapy",
+      "timeFrame": "24 to 60 months",
+      "description": "MCL novel agent treatment types are part of the primary study objective relating to treatment patterns and will be descriptive only and use aggregated patient data."
+    },
+    {
+      "measure": "The frequency and proportion of patients exposed to novel agent by therapy regimen",
+      "timeFrame": "24 to 60 months",
+      "description": "MCL treatment regimens are part of the primary study objective relating to treatment patterns and will be descriptive only and use aggregated patient data."
+    },
+    {
+      "measure": "The frequency and proportion of patients exposed to novel agent by line of therapy",
+      "timeFrame": "24 to 60 months",
+      "description": "MCL treatment line is part of the primary study objective relating to treatment patterns and will be descriptive only and use aggregated patient data."
+    },
+    {
+      "measure": "The frequency and proportion of patients exposed to novel agent by therapy class",
+      "timeFrame": "24 to 60 months.",
+      "description": "MCL treatment class is part of the primary study objective relating to treatment patterns and will be descriptive only and use aggregated patient data."
+    },
+    {
+      "measure": "The rate of patients who change novel agent therapy dose (in months)",
+      "timeFrame": "24 to 60 months.",
+      "description": "Summarizing MCL novel agent treatment dose changes are part of the primary study objective relating to treatment patterns and will be descriptive only. Time-to-dose change will be assessed. The rate of dose modification (in months) will be estimated using aggregated patient data. Summary statistics (mean, SD, median, IQR, minimum, and maximum) will be used to describe time on a particular dose, which will be measured from the start of treatment until the date of dose change or death."
+    },
+    {
+      "measure": "The rate of patients who interrupt novel agent therapy (in months)",
+      "timeFrame": "24 to 60 months",
+      "description": "Summarizing MCL treatment interruptions are part of the primary study objective relating to treatment patterns and will be descriptive only. The rate of treatment interruption (in months) will be estimated using aggregated patient data. Summary statistics (mean, SD, median, IQR, minimum, and maximum) will be used to describe time on therapy, which will be measured from the start of treatment until the date of interruption or death."
+    },
+    {
+      "measure": "The rate of patients who discontinue novel agent therapy (in months)",
+      "timeFrame": "24 to 60 months",
+      "description": "Summarizing MCL treatment discontinuations are part of the primary study objective relating to treatment patterns and will be descriptive only. The rate of treatment discontinuation (in months) will be estimated using aggregated patient data. Reasons for discontinuations will be collected and summarized categorically. Summary statistics (mean, SD, median, IQR, minimum, and maximum) will be used to describe time on therapy, which will be measured from the start of treatment until the date of discontinuation or death."
+    },
+    {
+      "measure": "The duration of MCL treatment",
+      "timeFrame": "24 to 60 months",
+      "description": "Summarizing MCL treatment duration is part of the primary study objective relating to treatment patterns and will be descriptive only. The duration and number of cycles of each targeted treatment (mean, SD, median, IQR, minimum, and maximum) will be summarized. Summary statistics (mean, SD, median, IQR, minimum, and maximum) will be used to describe time on therapy (in months), which will be measured from the start of treatment until the date of discontinuation, interruption, switch or death."
+    },
+    {
+      "measure": "Estimate the overall response rate (ORR) among patients diagnosed with MCL and initiating treatment with novel therapies",
+      "timeFrame": "24 to 60 months.",
+      "description": "ORR will be measured as the frequency and proportion of patients with a complete or partial response based on physician assessment during the observation period."
+    },
+    {
+      "measure": "Estimate the complete response rate (CR) among patients diagnosed with MCL and initiating treatment with novel therapies.",
+      "timeFrame": "24 to 60 months.",
+      "description": "The CR will be calculated as the frequency and proportion of patients with a complete response based on physician assessment during the observation period."
+    },
+    {
+      "measure": "Estimate progression-free survival (PFS) among patients diagnosed with MCL and initiating treatment with novel therapies.",
+      "timeFrame": "24 to 60 months",
+      "description": "All survival outcome measures will be descriptive only. PFS will be calculated as the time from the start of novel MCL treatment until progression or death. Summary statistics (mean, median, SD, IQR, minimum and maximum) will be used to describe PFS. Kaplan-Meier curves will be used to graphically show PFS."
+    },
+    {
+      "measure": "Estimate event-free survival (EFS) among patients diagnosed with MCL and initiating treatment with novel therapies.",
+      "timeFrame": "24 to 60 months",
+      "description": "All survival outcome measures will be descriptive only. EFS will be calculated as the time from the start of novel MCL treatment to disease progression, death, or discontinuation of treatment for any reason (eg, toxicity, patient preference, or initiation of a new treatment without documented progression)."
+    },
+    {
+      "measure": "Estimate overall survival (OS) among patients diagnosed with MCL and initiating treatment with novel therapies.",
+      "timeFrame": "24 to 60 months",
+      "description": "All survival outcome measures will be descriptive only. OS will be captured using summary statistics (mean, SD, median, IQR, minimum and maximum), which will be used to describe time from diagnosis to death, time from enrollment to death, time from index novel MCL treatment to death and time from second treatment (if applicable) to death. Kaplan-Meier curves will be used to graphically show patient survival."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2019-04-01",
+  "completion_date": "2024-03-18",
+  "last_updated": "2025-11-13"
+}

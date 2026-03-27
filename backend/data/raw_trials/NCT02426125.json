@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT02426125",
+  "brief_title": "A Study of Ramucirumab (LY3009806) Plus Docetaxel in Participants With Urothelial Cancer",
+  "official_title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Ramucirumab Plus Docetaxel Versus Placebo Plus Docetaxel in Patients With Locally Advanced or Unresectable or Metastatic Urothelial Carcinoma Who Progressed on or After Platinum-Based Therapy",
+  "brief_summary": "The main purpose of this study is to evaluate the safety and efficacy of the study drug ramucirumab in combination with docetaxel in participants with urothelial cancer who failed prior platinum-based therapy.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 530,
+  "conditions": [
+    "Urothelial Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Ramucirumab",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Administered IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have histologically or cytologically confirmed, locally advanced or unresectable or metastatic urothelial (transitional cell) carcinoma of the bladder, urethra, ureter, or renal pelvis.\n* Had disease progression while on a platinum containing regimen in the first-line setting or within 14 months after completing the first-line platinum regimen. Participants who received treatment with one immune checkpoint inhibitor regimen are eligible (for example Programmed death 1 (PD-1), Programmed death-ligand 1 (PDL1), or CTLA4) and may have a longer interval since prior platinum-containing therapy (\u226424 months).\n* Have a life expectancy of \u22653 months.\n* Have received no more than one prior systemic chemotherapy regimen in the relapsed or metastatic setting. Prior treatment with no more than one prior immune checkpoint inhibitor is permitted and will not be considered as a line of systemic chemotherapy.\n* Have measurable disease or nonmeasurable but evaluable disease as defined by Response Evaluation Criteria in Solid Tumors, Version 1.1 (RECIST 1.1).\n* Have an Eastern Cooperative Oncology Group (ECOG) of 0 or 1.\n* Have adequate hematologic function.\n* Have adequate coagulation function.\n* Have adequate hepatic function.\n* The participant does not have:\n\n  * cirrhosis at a level of Child-Pugh B (or worse)\n  * cirrhosis (any degree) and a history of hepatic encephalopathy or clinically meaningful ascites resulting from cirrhosis\n* Have adequate renal function as defined by creatinine clearance \\>30 milliliters/minute.\n* Have urinary protein \u22641+ on dipstick or routine urinalysis.\n* The participant is willing to provide blood, urine, and tissue samples for research purposes.\n\nExclusion Criteria:\n\n* Have received more than one prior systemic chemotherapy regimen for metastatic disease.\n* Have received prior systemic taxane therapy for transitional cell carcinoma (TCC) of the bladder, urethra, ureter, or renal pelvis in any setting (neoadjuvant, adjuvant, metastatic).\n* Have received more than one prior antiangiogenic agent (that is, bevacizumab, sorafenib, sunitinib) for TCC of the urothelium.\n* Have received radiation therapy within 4 weeks (\u22644 weeks) prior to randomization or has not recovered from toxic effects of the treatment that was given \\>4 weeks prior to randomization.\n* Have a history of uncontrolled hereditary or acquired bleeding or thrombotic disorders.\n* Have experienced a Grade \u22653 bleeding event within 3 months (\u22643 months) prior to randomization.\n* Have uncontrolled intercurrent illness, including, but not limited to symptomatic anemia, uncontrolled hypertension, symptomatic congestive heart failure, unstable angina pectoris, symptomatic or poorly controlled cardiac arrhythmia, psychiatric illness, or any other serious uncontrolled medical disorders.\n* Have experienced any arterial or venothrombotic or thromboembolic events, including, but not limited to myocardial infarction, transient ischemic attack, or cerebrovascular accident, within 6 months (\u22646 months) prior to randomization.\n* Have known untreated brain metastases, uncontrolled spinal cord compression, or leptomeningeal disease.\n* Have human immunodeficiency virus (HIV) infection or acquired immunodeficiency syndrome-related illness.\n* Have undergone major surgery within 28 days (\u226428 days) prior to randomization or subcutaneous venous access device placement within 7 days (\u22647 days) prior to randomization.\n* The participant is pregnant prior to randomization or lactating.\n* Have a concurrent malignancy or had another malignancy within 5 years (\u22645 years) of study enrollment.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland- Biological Sciences",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "Randomization to Radiological Disease Progression or Death from Any Cause (Up to 18 Months)",
+      "description": "PFS defined as time from first day of therapy to first evidence of disease progression defined by Response Evaluation Criteria in Solid Tumors (RECIST v1.1) or death from any cause. Progressive Disease (PD) is at least 20% increase in sum of diameters of target lesions, with reference being the smallest sum on study and plus absolute increase of at least 5 mm, or unequivocal progression of non-target lesions, or 1 or more new lesions. If participant does not have complete baseline disease assessment, then PFS time was censored at date of first dose, regardless of whether or not objectively determined disease progression or death has been observed for participant. If participant is not known to have died or have objective progression as of data inclusion cutoff date for analysis, PFS time was censored at last adequate tumor assessment date."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2015-07-13",
+  "completion_date": "2022-07-26",
+  "last_updated": "2023-08-17"
+}

@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT04658303",
+  "brief_title": "Evolution of Metabolic and Immune Dysfunction in In-transit Melanoma",
+  "official_title": "Evolution of Metabolic and Immune Dysfunction in In-transit Melanoma",
+  "brief_summary": "Melanoma in-transit metastases (ITMs) continue to represent a therapeutic dilemma, in that no standard method of treatment has been uniformly adopted. The complexity and heterogeneity of patient and disease characteristics, including the location and number of ITMs presents a barrier to a one size fits all treatment approach. Treatment of patients with limited regional disease remains challenging. Patients are typically treated with a combination of surgery, regional therapy, systemic therapy. Data on the management of ITMs is limited, even with the availability of immunotherapy (IMT). This study will use the unique etiology of ITMs to facilitate the understanding of how individual lesions metabolically and immunologically evolve as they move away from the primary tumor site. It is hypothesize that as ITMs move away from the primary melanoma site each will harbor progressively hypermetabolic tumor cells and a harsher microenvironment.",
+  "detailed_description": "This study will use a novel platform to profile patient biopsies, including microscopic analysis, flow cytometry for phenotyping, metabolic, and functional analyses, and metabolic profiling by Seahorse analysis to understand the unique etiology of ITMs to understand how individual melanoma lesions metabolically and immunologically evolve as they move away from the primary tumor site. A large amount of translational data is able to be derived from from an individual tissue biopsies. This study will utilize this platform to extensively evaluate 2-5 (melanoma) in-transit metastases (ITMs) per patient. It is hypothesized that as ITMs move away from the primary melanoma site each will harbor progressively hypermetabolic tumor cells and a harsher microenvironment. Each ITM station will be deeply profiled using metabolic assays, flow cytometry, and highly multiplexed immunofluorescent microscopy including, to interrogate the metabolic profiles of tumor and immune system in individual melanoma ITMs, and, to Determine tumor:immune interaction in the context of hypoxia using high-dimensional imaging. Using high throughput sequencing technologies, it will determined how tumor and immune cells interact and evolve during the course of transit in ITMs (as these cells become more metabolically and immunologically suppressive as they migrate further from the primary site). The clonal evolution analysis of tumor cells through and pimonidazole-enabled single cell RNA-sequencing will be used to identify transcriptomic changes in tumor, immune, and stromal cells correlated with hypoxia exposure.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Pimonidazole",
+      "type": "DRUG",
+      "description": "Pimonidazole is not used with therapeutic intent, and has a non-hazardous designation. It has been widely used for in-vivo evaluation of intratumor hypoxia, and patients will take PO pimonidazole before the scheduled biopsy. Patients receive an oral dose of pimonidazole, a safe chemical tracer up to 24 hours prior to biopsy. Pimonidazole allows for true hypoxia staining; pimonidazole binds hypoxic proteins covalently, creating an antigen that facilitates the imaging, flow cytometry, and scRNA-seq experiments proposed. Pimonidazole has been previously used in patients and is safe and well tolerated, without anticipated adverse events."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Be willing and able to provide written informed consent for the trial.\n2. Be \u2265 18 years of age on day of signing informed consent.\n3. A histological diagnosis of melanoma and at least two in-transit lesions at distinct distances from the primary site. Patients may be enrolled on the basis of a diagnosis of in-transit disease by a treating melanoma oncologist.\n4. Cutaneous, mucosal or uveal melanoma are permitted.\n5. Patients may be on treatment or treatment na\u00efve.\n6. Female patients of childbearing potential must have a negative urine or serum pregnancy test within 7 days from the time of pimonidazole administration.\n\nExclusion Criteria:\n\n1. Subjects with in-transit disease that is not amenable to biopsy per the treating physician are excluded.\n2. Subjects with known chronic immunosuppression (such as biologic agents like remicade, mycophenolate, methotrexate, prednisone \\>20 mg daily).\n3. Subjects who are known to be HIV+, Hep B or Hep C positive.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Immunometabolic profiling",
+      "timeFrame": "At baseline",
+      "description": "Immunometabolic profiling of individual microenvironments in ITMs (in-transit metastases) using flow cytometry via T cell subsets, markers of activation/exhaustion, and metabolic insufficiency (mitochondrial mass, glucose uptake capacity, and hypoxia by pimonidazole staining."
+    },
+    {
+      "measure": "Tumor cell metabolism",
+      "timeFrame": "At baseline",
+      "description": "Tumor cells metabolism of ITMs (in-transit metastases) will be profiled using the Seahorse flux analyzer to measure oxygen consumption rate (OCR) and extracellular acidification rate (ECAR)."
+    },
+    {
+      "measure": "Imaging of individual ITM stations",
+      "timeFrame": "At baseline",
+      "description": "CODEX imaging will be conducted on sections from each station using extensive phenotyping panels."
+    },
+    {
+      "measure": "hypoxia exposure analyses",
+      "timeFrame": "At baseline",
+      "description": "Akoya Biosciences' CODEX analysis suite and custom ImageJ plugins will be used to determine proximity of cells to one another, coincidence with hypoxic areas, and accumulation of regulatory/dysfunctional populations."
+    }
+  ],
+  "sponsor": "Yana Najjar",
+  "collaborators": [
+    "Hypoxyprobe"
+  ],
+  "start_date": "2021-02-24",
+  "completion_date": "2028-03-31",
+  "last_updated": "2025-05-05"
+}

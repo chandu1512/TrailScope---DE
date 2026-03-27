@@ -1,0 +1,133 @@
+{
+  "nct_id": "NCT02998528",
+  "brief_title": "A Neoadjuvant Study of Nivolumab Plus Ipilimumab or Nivolumab Plus Chemotherapy Versus Chemotherapy Alone in Early Stage Non-Small Cell Lung Cancer (NSCLC)",
+  "official_title": "Randomized, OpenLabel, Phase 3 Trial of Nivolumab Plus Ipilimumab or Nivolumab Plus Platinum Doublet Chemotherapy Versus Platinum Doublet Chemotherapy in Early Stage NSCLC",
+  "brief_summary": "The purpose of this neoadjuvant study is to compare nivolumab plus chemotherapy and chemotherapy alone in terms of safety and effectiveness, and to describe nivolumab plus ipilimumab's safety and effectiveness in treating resectable NSCLC.\n\nThis study has multiple primary endpoints.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 505,
+  "conditions": [
+    "Non Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Vinorelbine",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Ipilimumab",
+      "type": "BIOLOGICAL",
+      "description": "This arm is closed and no longer enrolling patients."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Early stage IB-IIIA, operable non-small cell lung cancer, confirmed in tissue\n* Lung function capacity capable of tolerating the proposed lung surgery\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0-1\n* Available tissue of primary lung tumor\n\nExclusion Criteria:\n\n* Presence of locally advanced, inoperable or metastatic disease\n* Participants with active, known or suspected autoimmune disease\n* Prior treatment with any drug that targets T cell co-stimulations pathways (such as checkpoint inhibitors)\n\nOther protocol defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0151",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0001",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0009",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Valley Hospital Luckow Pavili",
+      "city": "Westwood",
+      "state": "New Jersey",
+      "zip": "07675",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0010",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0018",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Event-Free Survival (EFS)",
+      "timeFrame": "From randomization to disease progression, reoccurrence, or death due to any cause. (Up to a median of 30 months)",
+      "description": "Event-free survival (EFS) is defined as the length of time from randomization to any of the following events: any progression of disease precluding surgery, progression or recurrence disease based on blinded independent central review (BICR) assessment per response evaluation criteria in solid tumors (RECIST) 1.1 after surgery, or death due to any cause. Participants who don't undergo surgery for reason other than progression will be considered to have an event at progression or death. Progression is defined as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. (Note: the appearance of one or more new lesions is also considered progression)."
+    },
+    {
+      "measure": "Pathologic Complete Response (pCR) Rate",
+      "timeFrame": "From randomization up to a median of 30 months after randomization.",
+      "description": "Pathologic complete response (pCR) rate is defined as the number of randomized participants with absence of residual tumor in lung and lymph nodes as evaluated by blinded independent pathological review (BIPR)."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "Ono Pharmaceutical Co. Ltd"
+  ],
+  "start_date": "2017-03-04",
+  "completion_date": "2024-12-06",
+  "last_updated": "2026-01-02"
+}

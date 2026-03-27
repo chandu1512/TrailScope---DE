@@ -1,0 +1,47 @@
+{
+  "nct_id": "NCT04465214",
+  "brief_title": "Mobile Sensor Technologies to Assess General Symptomology of People With Cancer",
+  "official_title": "A Feasibility Study of Mobile Sensor Technologies to Assess General Symptomology of Cancer Patients",
+  "brief_summary": "Background:\n\nMany digital devices, such as smartphones and activity monitors, have sensors to collect and track health data. Researchers believe these devices may be able to transform the quality of clinical research and healthcare. They believe they may be able to help assess the symptoms, response to therapy, and quality of life of people with cancer.\n\nObjective:\n\nTo collect data from people with cancer using an Apple iPhone alone or together with an Apple Watch in order to assess their symptoms and activity levels.\n\nEligibility:\n\nPeople ages 18 years and over who have cancer and receiving treatment for their cancer in another NIH protocol\n\nDesign:\n\nParticipants will be screened with their medical records.\n\nParticipants will have a baseline visit. They will have visits every 2 4 weeks based on the treatment protocol in which they are co-enrolled. Then they will have a follow-up visit 4 months after the baseline visit. Visits include:\n\nMedical history\n\nPhysical exam\n\nKarnofsky Performance Scale/Eastern Cooperative Oncology Group performance status to see how their disease affects daily activities\n\nThe study team will use an iPhone to collect data. This includes a 6-minute walk test and tests of hearing, reaction time, and cognitive status.\n\nQuestionnaires\n\nIf participants have an iPhone, an Apple Watch will be provided to them after training at the baseline visit. Continuous measurement of their activity will be recorded by the watch between 2 visits. They will wear the watch while they are on study. They will wear the watch while it is not being charged. They should charge the watch at night time. They will have the watch for 4 months.",
+  "detailed_description": "Background:\n\n* A growing number of mobile health solutions are enabling the tracking, diagnosis, and management of various physiological processes and disease conditions, and many common devices such as smartphones (e.g., iPhone) have integrated robust sensors to collect and track this data.\n* The two most commonly used tools in oncology include the Eastern Cooperative Oncology Group Performance Status (ECOG PS) and Karnofsky Performance Status (KPS) scales that were invented more than 50 years ago.\n* Although standard performance status (PS) measurements are simple to implement in the clinic, they are retrospective, subject to bias and limitations including intra- or inter- observer variability, they are intermittent, providing a snapshot of the participants status at the time of assessment, and they are largely subjective, relying on physician judgement and participants ability to recall events and describe their symptoms. The inability to retrospectively verify or confirm the accuracy of PS assessment is another limitation.\n* The benefits to participant care of knowing the accurate PS are extensive, including making the right treatment decision based on the side effect profile, survival benefit and eligibility on clinical trials.\n* Biometric data can also play a role in empowering participants to become active participants in their own care, by providing them with quantitative feedback on activities of daily living and other functions.\n* There are some studies exploring the accuracy of available electronic activity monitoring (EAM) systems, but the available data on use of EAM systems in oncology participants is limited.\n* Continuous biometric data can provide actionable insights into fluctuations in not only the activity level of cancer participants, but also their cognitive function and mood throughout treatment cycles.\n* Given the current limitations in the overall clinical evaluation of cancer participants, the use of remote sensor technologies can provide an objective, frequent, and near-real time stream of data in a machine-readable format that is free of human bias and can greatly enhance the ability of both clinicians and participants to manage the complexities of cancer care.\n\nObjective:\n\nThis study will evaluate the feasibility of collecting data to assess fatigue, reaction time, and cognitive functioning, in participants with cancer, using an Apple iPhone and Apple Watch in the clinic setting and with or without additional activity monitoring in the home setting.\n\nEligibility:\n\n* Inclusion criteria: Male or female subjects aged \\>= 18 years with a diagnosis of malignant tumors who are under active treatment for cancer.\n* Exclusion Criteria: Active central nervous system (CNS) metastases, known current alcohol or drug abuse, any psychiatric condition that would prohibit the understanding or rendering of informed consent.\n\nDesign:\n\nThis pilot study will be done in two arms (enrolled concurrently) with the goal of 60 evaluable participants across both arms (accrual ceiling will be set at 80).\n\nParticipants assigned to Arm 1 will have all assessments done in the clinic. A specially programmed iPhone, Apple Watch, an NIH iPad, and investigator conducted assessments will be used to collect data assessing participant fatigue, reaction time, and cognitive functioning. These data will be compared with data collected from questionnaires including: patient reported outcome (PRO)-CTCAE fatigue and mood grading, ECOG/KPS, Neuro-QOL Ability to Participate in Social Roles and Activities short form, the Delis-Kaplan Executive Functioning System, and The NIH Toolbox.\n\nArm 2 of this study will be a subset of enrolled participants who have a personally owned iPhone. Participants in Arm 2 will complete the same battery of assessments in the clinic as those in Arm 1, with additional continuous measurement of their activity recorded by an Apple Watch at home, between clinic visits. Participants in Arm 2 will have the option of having the apps designed for this study installed on their personally owned iPhones so they can complete the app assessments at home. The Apple Watch will be given to these participants (or they may use a personally owned Apple Watch) who will be trained by study staff on using the device for continuous monitoring. Participants who agree to have the study apps installed on their personally owned iPhone will be trained by study staff on the use of the apps.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 49,
+  "conditions": [
+    "Neoplasms",
+    "Solid Tumors",
+    "Prostate Cancer",
+    "Lung Cancer",
+    "Colon Cancer"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "* INCLUSION CRITERIA:\n* Signed written informed consent.\n* Male or female subjects aged greater than or equal to 18 years.\n* A cancer diagnosis.\n* Participant should be under active treatment for cancer on a protocol at NIH.\n\nEXCLUSION CRITERIA:\n\n* Active central nervous system (CNS) metastases.\n* Known current alcohol or drug abuse.\n* Current marijuana use, including for medicinal purposes.\n* Any psychiatric condition that would prohibit the understanding or rendering of informed consent.\n* Color blindness to any of the following colors: green, yellow, and/or red.\n* Legal incapacity or limited legal capacity.\n* Cancer survivors who are not actively receiving treatment.\n* Non-English speaking subjects.\n* Resting heart rate at screening, higher than 120 beats per minute.\n* Systolic blood pressure at screening, higher than 180 mmHg.\n* Diastolic blood pressure at screening, higher than 100 mmHg.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health Clinical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Outcomes from: PRO-CTCAE, Neuro-QOL, Numeric Rating Scale for Pain, 6-Minute Walking Test, Stroop Test, and Normalized Reaction Time Tests",
+      "timeFrame": "4 months",
+      "description": "Percentage of patients successfully assessed for fatigue, reaction time, and cognitive status using an iPhone and Apple Watch."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2020-11-23",
+  "completion_date": "2024-04-10",
+  "last_updated": "2025-12-12"
+}

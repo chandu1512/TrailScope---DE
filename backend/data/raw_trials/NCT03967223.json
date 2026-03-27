@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT03967223",
+  "brief_title": "Master Protocol to Assess the Safety and Antitumor Activity of Genetically Engineered T Cells in NY-ESO-1 and/or LAGE-1a Positive Solid Tumors",
+  "official_title": "Master Protocol to Assess the Safety and Antitumor Activity of Genetically Engineered NY-ESO-1-Specific (c259) T Cells, Alone or in Combination With Other Agents, in HLA-A2+ Participants With NY-ESO-1 and/or LAGE-1a Positive Solid Tumors (IGNYTE-ESO)",
+  "brief_summary": "This trial will evaluate safety and efficacy of human engineered T-cell therapies, in participants with advanced tumors.",
+  "detailed_description": "New York esophageal antigen-1 (NY-ESO-1) and LAGE-1a antigens are tumor-associated proteins that have been found in several tumor types. Clinical trials using adoptively transferred T cells directed against NY-ESO-1/LAGE-1a have shown objective responses. Letetresgene autoleucel (lete-cel, GSK3377794) is the first generation of NY-ESO-1 specific T-cell receptor engineered T cells. This is a master protocol investigating T-cell therapies. It will initially consist of a core protocol with two independent substudies investigating Letetresgene autoleucel in previously untreated (1L) Human Leukocyte Antigen (HLA)-A\\*02+ participants with NY-ESO-1+ advanced (metastatic or unresectable) synovial sarcoma (SS) or myxoid/round cell liposarcoma (MRCLS) (Substudy 1) and Letetresgene autoleucel as second line or higher (2L+) treatment in HLA-A\\*02+ participants with NY-ESO-1+ advanced (metastatic or unresectable) SS or MRCLS who have progressed following treatment with anthracycline based chemotherapy (Substudy 2).",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 103,
+  "conditions": [
+    "Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Letetresgene autoleucel (lete-cel, GSK3377794)",
+      "type": "DRUG",
+      "description": "letetresgene autoleucel will be administered."
+    },
+    {
+      "name": "Fludarabine",
+      "type": "DRUG",
+      "description": "Fludarabine will be used as the lymphodepleting chemotherapy"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Cyclophosphamide will be used as the lymphodepleting chemotherapy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participant must be greater than or equal to 10 years of age on the day of signing informed consent.\n* Participant scheduled to receive clinical drug product supply must also weigh \u226540 kg\n* Participant must be positive for HLA-A\\*02:01, HLA-A\\*02:05, and/or HLA-A\\*02:06 alleles by a designated central laboratory\n* Participant's tumor is positive for NY-ESO-1 expression by a designated central laboratory.\n* Participant has a diagnosis of synovial sarcoma (SS) or myxoid/round cell liposarcoma (MRCLS)\n* Performance status: dependent on age - Lansky \\> 60, Karnofsky \\> 60, Eastern Cooperative Oncology Group 0-1.\n* Participant must have adequate organ function and blood cell counts, within 7 days prior to leukapheresis.\n* At time of treatment, participant has measurable disease according to RECIST v1.1.\n* Male or female. Contraception requirements will apply at the time of leukapheresis and treatment.\n* Consultation for prior history per protocol specifications.\n\nExclusion Criteria:\n\n* Central nervous system metastases.\n* Any other prior malignancy that is not in complete remission.\n* Clinically significant systemic illness (Serious active infections or significant cardiac, pulmonary, hepatic or other organ dysfunction, that in the judgment of the Investigator would compromise the participant's ability to tolerate protocol therapy or significantly increase the risk of complications).\n* Prior or active demyelinating disease.\n* History of chronic or recurrent (within the last year prior to leukapheresis) severe autoimmune or immune mediated disease (e.g. Crohn's disease, systemic lupus) requiring steroids or other immunosuppressive treatments.\n* Previous treatment with genetically engineered NY-ESO-1-specific T cells.\n* Previous NY-ESO-1 vaccine or NY-ESO-1 targeting antibody.\n* Prior gene therapy using an integrating vector.\n* Previous allogeneic hematopoietic stem cell transplant.\n* Washout periods for prior radiotherapy and systemic chemotherapy must be followed.\n* Participant had major surgery in less than or equal to 28 days of first dose of study intervention.\n* Prior radiation exceeds protocol specified limits.",
+    "gender": "ALL",
+    "min_age": "10 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh, Hillman Cancer Centre",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Substudy 1: Overall response rate (ORR)",
+      "timeFrame": "Until disease progression (up to 5 years)",
+      "description": "Overall response rate is defined as the percentage of participants with a confirmed complete response (CR) or partial response (PR) relative to the total number of participants within the analysis population at any time per Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1. as determined by the local investigators."
+    },
+    {
+      "measure": "Substudy 2: Overall response rate (ORR) as assessed by central independent review",
+      "timeFrame": "Up to 5 years",
+      "description": "Overall response rate is defined as the percentage of participants with a confirmed CR or PR relative to the total number of participants within the analysis population at any time per RECIST v1.1. as assessed by central independent review."
+    }
+  ],
+  "sponsor": "USWM CT, LLC",
+  "collaborators": [],
+  "start_date": "2019-12-31",
+  "completion_date": "2026-07-31",
+  "last_updated": "2026-02-23"
+}

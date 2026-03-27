@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT01874353",
+  "brief_title": "Olaparib Treatment in BRCA Mutated Ovarian Cancer Patients After Complete or Partial Response to Platinum Chemotherapy",
+  "official_title": "Phase III Randomised, Double Blind, Placebo Controlled Study of Olaparib Maintenance Monotherapy in Platinum Sensitive Relapsed BRCA Mutated Ovarian Cancer Patients With a Complete or Partial Response Following Platinum Based Chemotherapy",
+  "brief_summary": "A Phase III, randomised, double-blind, placebo-controlled, multi-centre study to assess the efficacy of olaparib maintenance monotherapy in relapsed high grade serous ovarian cancer (HGSOC) patients (including patients with primary peritoneal and / or fallopian tube cancer) or high grade endometrioid cancer with BRCA mutations (documented mutation in BRCA1 or BRCA2 that is predicted to be deleterious or suspected deleterious (known or predicted to be detrimental/lead to loss of function)) who have responded following platinum based chemotherapy.",
+  "detailed_description": "Comparison of olaparib against a placebo in patients with ovarian cancer whose cancer has already improved by taking platinum based chemotherapy. The patients must also have a fault in their DNA which codes for the BRCA protein. The BRCA protein helps mend broken DNA in the cells of the body; if this protein doesn't work properly it can increase the chance of getting cancer. The aim of this study is to see whether patients taking olaparib tablets last longer until their cancer gets worse, compared to those taking the placebo tablet. The study is also looking to see if there is an overall improvement to how long the patients survive whilst taking olaparib tablets compared to the placebo tablets; and the quality of their life whilst living with ovarian cancer.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 327,
+  "conditions": [
+    "Platinum Sensitive",
+    "BRCA Mutated",
+    "Relapsed Ovarian Cancer",
+    "Following Complete or Partial Response to Platinum Based Chemotherapy"
+  ],
+  "interventions": [
+    {
+      "name": "Olaparib 300mg tablets",
+      "type": "DRUG",
+      "description": "300mg Olaparib or placebo tablets taken orally twice daily until objective radiological disease progression as per RECIST as assessed by the investigator (or as long as in the investigator's opinion they are benefiting from treatment and they do not meet any other discontinuation criteria). Dose reduction to 250mg and subsequently 200mg is permitted following confirmation of toxicity."
+    },
+    {
+      "name": "Placebo to match olaparib 300mg",
+      "type": "DRUG",
+      "description": "300mg Olaparib or placebo tablets taken orally twice daily until objective radiological disease progression as per RECIST as assessed by the investigator (or as long as in the investigator's opinion they are benefiting from treatment and they do not meet any other discontinuation criteria). Dose reduction to 250mg and subsequently 200mg is permitted following confirmation of toxicity."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must be \u2265 18 years of age.\n\n  * Female patients with histologically diagnosed relapsed high grade serous ovarian cancer (including primary peritoneal and / or fallopian tube cancer) or high grade endometrioid cancer.\n  * Documented mutation in BRCA1 or BRCA2 that is predicted to be deleterious or suspected deleterious (known or predicted to be detrimental/lead to loss of function).\n  * Patients who have received at least 2 previous lines of platinum containing therapy prior to randomisation\n\nFor the penultimate chemotherapy course prior to enrolment on the study:\n\n\u2022 Patient defined as platinum sensitive after this treatment; defined as disease progression greater than 6 months after completion of their last dose of platinum chemotherapy\n\nFor the last chemotherapy course immediately prior to randomisation on the study:\n\n* Patients must be, in the opinion of the investigator, in response (partial or complete radiological response), or may have no evidence of disease (if optimal cytoreductive surgery was conducted prior to chemotherapy), and no evidence of a rising CA-125, following completion of this chemotherapy course\n* Patient must have received a platinum based chemotherapy regimen (e.g. carboplatin or cisplatin) and have received at least 4 cycles of treatment\n* Patients must be randomized within 8 weeks of their last dose of chemotherapy\n* Maintenance treatment is allowed at the end of the penultimate platinum regimen, including bevacizumab\n\nExclusion Criteria:\n\n* Involvement in the planning and/or conduct of the study (applies to both AstraZeneca staff and/or staff at the study site).\n* BRCA 1 and/or BRCA2 mutations that are considered to be non detrimental (e.g., \"Variants of uncertain clinical significance\" or \"Variant of unknown significance\" or \"Variant, favor polymorphism\" or \"benign polymorphism\" etc.)\n* Patients who have had drainage of their ascites during the final 2 cycles of their last chemotherapy regimen prior to enrolment on the study.",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Greater Baltimore Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "MD Anderson at Cooper Cancer Center",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS) Using Investigator Assessment According to Modified Response Evaluation Criteria In Solid Tumours (RECIST 1.1)",
+      "timeFrame": "Radiologic scans performed at baseline then every ~12 weeks up to 72 weeks, then every ~ 24 weeks thereafter until objective radiological disease progression. Assessed until 19 Sep 2016 DCO (16 Jan 2017 DCO for China Cohort); up to a maximum of 36 months.",
+      "description": "To determine the efficacy by progression free survival (PFS) (using investigator assessment according to modified Response Evaluation Criteria In Solid Tumours (RECIST 1.1)) of olaparib maintenance monotherapy compared to placebo in BRCA mutated relapsed ovarian cancer patients who are in complete or partial response following platinum based chemotherapy."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [
+    "European Network of Gynaecological Oncological Trial Groups (ENGOT)",
+    "Myriad Genetic Laboratories, Inc.",
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2013-09-03",
+  "completion_date": "2025-12-31",
+  "last_updated": "2025-08-01"
+}

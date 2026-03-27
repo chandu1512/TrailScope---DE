@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT01321541",
+  "brief_title": "Comparison of Pixantrone + Rituximab With Gemcitabine + Rituximab in Patients With Aggressive B-cell Non-Hodgkin Lymphoma or Follicular Grade 3 Lymphoma Who Have Relapsed After Therapy and Are Not Eligible for Stem Cell Transplant",
+  "official_title": "A Randomized Multicenter Study Comparing Pixantrone + Rituximab With Gemcitabine + Rituximab in Patients With Aggressive B-cell Non-Hodgkin Lymphoma Who Have Relapsed After Therapy With CHOP-R or an Equivalent Regimen and Are Ineligible for Stem Cell Transplant",
+  "brief_summary": "The purpose of this study is to evaluate the efficacy of Pixantrone + Rituximab compared to Gemcitabine + Rituximab in patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL), or follicular grade 3 lymphoma.",
+  "detailed_description": "Eligible patients will be randomized to treatment with pixantrone plus rituximab or gemcitabine plus rituximab in up to six 28-day cycles. At the time patients experience progressive disease during study treatment, early follow- up, or intermediate follow-up, they enter the survival follow up period. Patients who complete study treatment or discontinue study treatment for any other reason will participate in the follow-up periods.\n\nEarly Follow-Up: After treatment completion or discontinuation, patient will enter a 24-week follow-up period.\n\nIntermediate Follow-Up: After completing the 24-week early follow-up period, patient will enter an additional 72-week follow-up period.\n\nSurvival Follow-Up: All patients will be monitored for survival.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 312,
+  "conditions": [
+    "Diffuse Large B-cell Lymphoma",
+    "de Novo DLBCL",
+    "DLBCL Transformed From Indolent Lymphoma",
+    "Follicular Grade 3 Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "Pixantrone + Rituximab",
+      "type": "DRUG",
+      "description": "Pixantrone + Rituximab: Rituximab 375 mg/m2 IV on day 1 and pixantrone 50 mg/m2 (equivalent to 85mg/m2 pixantrone dimaleate)IV on days 1, 8, and 15. Regimen is given in 28-day cycles. Up to 6 cycles may be administered."
+    },
+    {
+      "name": "Gemcitabine + Rituximab",
+      "type": "DRUG",
+      "description": "Gemcitabine + Rituximab: Rituximab 375 mg/m2 IV on day 1 and gemcitabine 1000 mg/m2 IV on days 1, 8, and 15. Regimen is given in 28-day cycles. Up to 6 cycles may be administered."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Diagnosis of DLBCL (de novo DLBCL, or transformed from indolent lymphoma) or follicular grade 3 lymphoma on the basis of tissue biopsy.\n2. Patients with de novo DLBCL must have received 1-3 treatment regimens for DLBCL. Patients with follicular grade 3 lymphoma must have received 1-3 treatment regimens for follicular lymphoma (any grade). Patients with DLBCL transformed from indolent lymphoma must have received at least 1-4 treatment regimens for NHL.\n3. Received rituximab containing a multi-agent therapy for the treatment of NHL.\n4. Not eligible for high-dose chemotherapy and stem cell transplant.\n5. Patients with DLBCL transformed from indolent lymphoma must have had a complete or partial response to a therapy for NHL lasting at least 12 weeks.\n\nExclusion Criteria:\n\n1. Primary refractory de novo DLBCL or primary refractory follicular grade 3 lymphoma, defined as documented progression within 12 weeks of the last cycle of the first-line multi-agent regimen.\n2. Prior treatment with cumulative dose of doxorubicin or equivalent exceeding 450 mg/m2\n3. Any experimental therapy \u2264 28 days prior to randomization\n4. Other malignancy within last 5 years except for the following: curatively treated basal cell/squamous cell skin cancer, carcinoma in situ of the cervix, superficial transitional cell bladder carcinoma, or in situ ductal carcinoma of the breast after complete resection\n5. Any contraindication or known allergy or hypersensitivity to any study drugs\n6. Concomitant therapy with any anticancer agents, immunosuppressive agents, other investigational anticancer therapies. Low-dose corticosteroids for the treatment of non cancer-related illnesses are permitted.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Harry and Jeanette Weinberg Cancer Institute at Franklin Square",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Center for Cancer and Blood Disorders, PC",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": ""
+    },
+    {
+      "facility": "Hematology-Oncology Associates of Northern New Jersey",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07962",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "From the date of randomization to the date of progressive disease or death due to any cause (whichever is first reported) (Up to 100 weeks)",
+      "description": "PFS is defined as the time of randomization to the date of disease progression or death due to any cause (whichever occurs first)"
+    }
+  ],
+  "sponsor": "CTI BioPharma",
+  "collaborators": [],
+  "start_date": "2011-04-20",
+  "completion_date": "2018-09-14",
+  "last_updated": "2021-10-21"
+}

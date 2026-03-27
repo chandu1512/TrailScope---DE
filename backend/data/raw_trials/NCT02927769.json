@@ -1,0 +1,115 @@
+{
+  "nct_id": "NCT02927769",
+  "brief_title": "A Study of Nivolumab Plus Brentuximab Vedotin in Patients Between 5 and 30 Years Old, With Hodgkin's Lymphoma (cHL), Relapsed or Refractory From First Line Treatment",
+  "official_title": "Risk-based, Response-adapted, Phase II Open-label Trial of Nivolumab + Brentuximab Vedotin (N + Bv) for Children, Adolescents, and Young Adults With Relapsed/Refractory (R/R) CD30 + Classic Hodgkin Lymphoma (cHL) After Failure of First-line Therapy, Followed by Brentuximab + Bendamustine (Bv + B) for Participants With a Suboptimal Response (CheckMate 744: CHECKpoint Pathway and Nivolumab Clinical Trial Evaluation)",
+  "brief_summary": "The purpose of this study is to determine whether nivolumab plus brentuximab vedotin (followed by brentuximab vedotin plus bendamustine in patient with suboptimal response) is safe and effective in treating patients with Hodgkin's lymphoma (cHL). Eligible patients are children, adolescents, and young adults relapsed or refractory to first line.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 72,
+  "conditions": [
+    "Hodgkin Disease"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified Dose on Specified Days"
+    },
+    {
+      "name": "brentuximab vedotin",
+      "type": "BIOLOGICAL",
+      "description": "Specified Dose on Specified Days"
+    },
+    {
+      "name": "bendamustine",
+      "type": "BIOLOGICAL",
+      "description": "Specified Dose on Specified Days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Classic Hodgkin Lymphoma (cHL), relapsed or refractory\n* Minimal limitation on activities of daily living as measured by Karnofsky \u2265 50 for participants \\> 16 years of age or Lansky \u2265 50 for participants \u2264 16 years of age.\n* One prior anti-cancer therapy that did not work\n\nExclusion Criteria:\n\n* Active, known, or suspected autoimmune disease or infection\n* Active cerebral/meningeal disease related to the underlying malignancy\n* More than one line of anti-cancer therapy or no treatment at all\n* Received a stem cell transplant for Hodgkin Lymphoma and/or a solid organ transplant\n* Prior treatment with any drug that targets T cell co-stimulation pathways (such as checkpoint inhibitors)\n\nOther protocol defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "5 Years",
+    "max_age": "30 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Nemours / A. I. duPont Hospital for Children",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19803",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0070",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0067",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0047",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0090",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033-0850",
+      "status": ""
+    },
+    {
+      "facility": "Childrens Hospital Of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Childrens Hospital Of Pittsburgh Of Upmc",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Complete Metabolic Response (CMR) Rate at Any Time Prior to Radiation Therapy by Blinded Independent Centralized Review (BICR) - Cohort 1",
+      "timeFrame": "From first dose to complete metabolic response or the completion of six cycles of therapy (up to approximately 18 weeks).",
+      "description": "The complete metabolic response (CMR) rate is defined as the percent of all response-evaluable participants who, assessed by the BICR, achieved best response of CMR.\n\nComplete metabolic response (CMR):\n\n* Lymph nodes/extralymphatic sites: Score 1, 2, 3 with/without residual mass on 5-point scale\n* New lesions: No\n* Bone marrow: No FDG-avid disease Participants who stopped study treatment early for toxicity without a CMR were evaluable.\n\nConfidence interval is based on the Clopper and Pearson method"
+    },
+    {
+      "measure": "Event-free Survival (EFS) Rate at 3 Years by Blinded Independent Centralized Review (BICR) - Cohort 1",
+      "timeFrame": "At 3 years post first dose of study therapy",
+      "description": "Event Free Survival (EFS) is the time from the first treatment to the earliest occurrence of composite events including: Disease progression (PD), Failure to achieve complete metabolic response (CMR) after 4 cycles of N+Bv and 2 cycles of Bv+B, Secondary malignancy, Death .\n\nPD :\n\nLymph Nodes and Lesions: new growth or increase of \\>= 50% in size from nadir. New or growing lesions outside the lymph nodes.\n\nSpleen: Significant increase in spleen size, either from a previously enlarged state or from normal size.\n\nNew Lesions: Yes Bone Marrow: New or returning FDG-avid disease\n\nCMR:\n\nLymph nodes/extralymphatic sites: Score 1, 2, 3 with/without residual mass on 5-point scale New lesions: No Bone marrow: No FDG-avid disease Participants without an \"event\" were censored at the last tumor assessment. Those who started subsequent anticancer therapy without a prior \"event\" were censored at the last tumor assessment prior to or upon starting subsequent therapy.\n\nBased on Kaplan-Meier Estimates."
+    },
+    {
+      "measure": "Complete Metabolic Response (CMR) Rate at Any Time Prior to High Dose Chemotherapy Followed by Autologous Stem Cell Treatment (HDCT/ASCT) by Blinded Independent Centralized Review (BICR) - Cohort 2",
+      "timeFrame": "From first dose to complete metabolic response or the completion of six cycles of therapy (up to approximately 18 weeks)",
+      "description": "The complete metabolic response (CMR) rate is defined as the percent of all response-evaluable participants who, assessed by the BICR, achieved best response of CMR.\n\nComplete metabolic response (CMR):\n\n* Lymph nodes/extralymphatic sites: Score 1, 2, 3 with/without residual mass on 5-point scale\n* New lesions: No\n* Bone marrow: No FDG-avid disease Participants who came off study treatment early for toxicity without a CMR were evaluable.\n\nConfidence interval is based on the Clopper and Pearson method"
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "Seagen Inc."
+  ],
+  "start_date": "2017-03-28",
+  "completion_date": "2024-05-28",
+  "last_updated": "2025-01-16"
+}

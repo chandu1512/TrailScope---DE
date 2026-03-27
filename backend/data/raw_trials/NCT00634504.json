@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT00634504",
+  "brief_title": "Open-label Leucovorin Pharmacokinetic Study in Patients Receiving High Dose Methotrexate With or Without Voraxaze",
+  "official_title": "An Open-Label Study to Assess the Pharmacokinetics of Leucovorin in Patients Receiving High Dose Methotrexate, With or Without Voraxaze Treatment",
+  "brief_summary": "The purpose of this study is to investigate whether the administration of Voraxaze reduces exposure to leucovorin and its active metabolite to below the level achieved in patients who have not received Voraxaze.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Osteosarcoma",
+    "Leukemia",
+    "Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "glucarpidase, high-dose methotrexate, leucovorin",
+      "type": "DRUG",
+      "description": "single intravenous dose"
+    },
+    {
+      "name": "high-dose methotrexate, leucovorin",
+      "type": "DRUG",
+      "description": "standard of care, leucovorin every 6 hours"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Receiving High-dose methotrexate (HDMTX) with or without risk of methotrexate (MTX) toxicity, impaired renal function, and delayed MTX elimination\n* Require intravenous leucovorin\n\nExclusion Criteria:\n\n* Arm A only: allergic reactions to lactose\n* Arm A only: hereditary fructose or galactose intolerance\n* Arm B only: delayed elimination of MTX",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Pharmacokinetics (PK) of Leucovorin",
+      "timeFrame": "5 minutes, 30 minutes, 1 hour, 2 hours and 3 hours post-LV administration",
+      "description": "Geometric mean (6S)-leucovorin area under the plasma concentration vs. time curve from time 0 to the 3-hour time point."
+    }
+  ],
+  "sponsor": "BTG International Inc.",
+  "collaborators": [],
+  "start_date": "2008-05",
+  "completion_date": "2009-08",
+  "last_updated": "2022-05-13"
+}

@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT06037681",
+  "brief_title": "Cannabis Use and Outcomes in Black and White Patients With Cancer",
+  "official_title": "Cannabis Use and Outcomes in Black and White Patients With Cancer",
+  "brief_summary": "The goal of the observational study is to learn how black and white patients with solid tumor cancer use cannabis, opioids and tobacco. The investigators are using momentary ecological assessment through a smart phone app and surveys to assess patient-reported pain and other symptoms as to inform clinical practice and guidelines for underrepresented populations.",
+  "detailed_description": "Using an observational design with momentary ecological assessment on a smartphone app (mEMA), The investigators propose a strong prospective cohort design with repeated-measures for 12 months regarding patients with cancer and their pain, use of opioids and cannabis. The design was selected to allow for real-time, real-world assessments, while minimizing risks due to attrition and burden to the participants. The staff will enroll 100 cannabis users (50 African American, 50 White) and 100 cannabis non-users (50 African American, 50 White) diagnosed with cancer in the last 3 years and prescribed opioids from each of the three sites, University of Pennsylvania, PA, University at Buffalo, NY and Thomas Jefferson University, PA. Assessments will begin at Baseline (Month 0) and continue for 12 months. To reduce participant burden in terms of travel time, cost and inconvenience, patients will complete measures remotely via video/phone at 12 time points (Months 1-12). Daily measures of pain, cannabis and opioid use will be collected via EMA for one week per month for 12 months. Patients will report on multiple indices of cannabis use. Opioid prescription information and other covariates and potential moderators will be collected over the 12-month study period. Many factors affect opioid use, there is little insight into the longitudinal impact of cannabis use on when or how often patients self-dose opioids. EMA will give much needed insight into when and why cannabis users do or do not take opioids. Moreover, the focus on the co-use of cannabis and opioids allows better understanding of the interplay and timing in self-administration of one or both.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 600,
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 21 years or older\n* Black or white race\n* Solid tumor cancer within 3 years of enrollment\n* Cannabis use of at least once a week or non cannabis use for 3 months\n* experience pain but spend less than 50% in bed or chair\n* Prescribed or take opioid for at least 30 days for pain\n* Not pregnant or planning to become pregnant in the next 12 months\n* English speaking\n\nExclusion Criteria:\n\n* Lymphoma, leukemia, and melanoma\n* CBD only use\n* Synthetic cannabis use in past 3 months = Prescribed Medically-prescribed synthetic cannabis (e.g., dronabinol \\[Marinol, Syndros\\], Epidiolex)\n* race other than Black or White",
+    "gender": "ALL",
+    "min_age": "21 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19144",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19176",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change from baseline of Cannabis use",
+      "timeFrame": "Baseline to 12 months",
+      "description": "descriptive statistics will be generated for all cannabis-related variables across time \\[frequency of use, composition (ratio of THC:CBD), indication, source (medical vs. non-medical), and route (inhalation/oral/topical)\\]. Statistical comparisons will be made across key demographics (e.g., age, education, sex, race), cancer-related variables including cancer treatment status (active vs. completed), and other factors such as duration of opioid use (30-90 days vs. \\>90 days).ecological momentary assessment questions"
+    },
+    {
+      "measure": "Cannabis use and patient reported outcomes and opioid use",
+      "timeFrame": "Baseline to 12 months",
+      "description": "For all data collected via EMA (cannabis use, opioid use, pain severity, and pain-related function), data will be aggregated at the daily level (84 days of data). For data collected via monthly surveys (anxiety, sleep, QoL) and EMR and PDMP extraction, each timepoint of data collection will be used (10 total: Baseline, Months 1-6, 8, 10, 12). For all variables, change in PROs and opioid use will be tested using HLMs. First, nested model tests will be used to evaluate the shape of change in each outcome variable (e.g., linear, polynomial, piecewise, etc.) as well as relevant random effects. Next, cannabis use (level-2 predictor) will be introduced into the models and crossed with time. We will evaluate whether the shape of change for each outcome differs by cannabis use group."
+    },
+    {
+      "measure": "Cannabis use moderate the associations between race and pain",
+      "timeFrame": "Baseline to 12 months",
+      "description": "This will follow the same approach described for Aim 2 with the inclusion of race as a dummy coded level 2 predictor and crossing race with cannabis use and time to form interaction terms. Significant interaction terms will be probed following Preacher et al.131. African Americans are expected to experience higher levels of pain severity and less decline in pain severity over time, and we predict this disparity will be reduced among cannabis users."
+    }
+  ],
+  "sponsor": "State University of New York at Buffalo",
+  "collaborators": [
+    "University of Pennsylvania",
+    "Thomas Jefferson University"
+  ],
+  "start_date": "2023-03-30",
+  "completion_date": "2027-03-30",
+  "last_updated": "2025-10-29"
+}

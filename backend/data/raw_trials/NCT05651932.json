@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT05651932",
+  "brief_title": "A Study of an MMSET Inhibitor in Patients With Relapsed and Refractory Multiple Myeloma",
+  "official_title": "A Phase 1 Study of KTX-1001, an Oral, First-In-Class, Selective, and Potent MMSET Catalytic Inhibitor That Suppresses H3K36me2 in Patients With Relapsed and Refractory Multiple Myeloma",
+  "brief_summary": "A Phase I study to evaluate the safety of a novel, orally available, selective, and potent small molecule inhibitor of the histone lysine methyl transferase MMSET (also known as NSD2/WHSC1) to prevent the dimethylation of H3K36 in adult patients with relapsed or refractory multiple myeloma (RRMM).",
+  "detailed_description": "This is a Phase I, open-label, dose-escalation and expansion study in adult patients with RRMM.\n\nIn the dose escalation phase (Part A), patients will be evaluated for DLTs during Cycle 1 (28 days). The KTX-1001 MTD, RP2D, and schedule will be determined.\n\nIn the dose expansion phase (Part B), patients with t(4;14) will receive KTX-1001 at the RP2D alone and in combination with investigational therapy Mezigdomide or SOC therapy (dexamethasone, carfilzomib or pomalidomide) to further define safety and tolerability and provide preliminary efficacy information.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 125,
+  "conditions": [
+    "Multiple Myeloma",
+    "Myeloma",
+    "Myeloma Multiple"
+  ],
+  "interventions": [
+    {
+      "name": "Cohort A1 & A2: KTX-1001",
+      "type": "DRUG",
+      "description": "KTX-1001: Orally for 28 days each cycle until progression. Dexamethasone: Orally once weekly"
+    },
+    {
+      "name": "Cohort B1 & B2: KTX-1001+Mezigdomide",
+      "type": "DRUG",
+      "description": "Drug: KTX-1001: Orally for 28 days each cycle until progression Drug: Dexamethasone: Orally once weekly Drug: Mezigdomide Dexamethasone: Orally once weekly"
+    },
+    {
+      "name": "Cohort C1 & C2: KTX-1001 + Carfilzomib (KYPROLIS\u00ae)",
+      "type": "DRUG",
+      "description": "Drug: KTX-1001: Orally for 28 days each cycle until progression Drug: Dexamethasone: Orally once weekly Drug: Carfilzomib (KYPROLIS\u00ae): IV, once weekly for 3 weeks in each 28-day cycle"
+    },
+    {
+      "name": "Cohort D: KTX-1001+ pomalidomide (Pomalyst, Imnovid)",
+      "type": "DRUG",
+      "description": "Drug: KTX-1001: Orally for 28 days each cycle until progression Drug: Dexamethasone: Orally once a week Drug: Pomalidomide (Pomalyst, Imnovid): Orally, for 21 days in each 28-day cycle"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria for Dose-Expansion:\n\n* \u2265 18 years of age\n* ECOG score \u2264 1\n* Multiple myeloma (as per IMWG)\n\n  * \u2265 3 prior lines of therapy, including a PI, an IMiD, and an anti-CD38 antibody\n  * Patients must be refractory to their last prior therapy\n  * Cohorts A1/A2: Patients must have exhausted available therapeutic options that are expected to provide a meaningful clinical benefit, either through disease relapse, treatment refractory disease, intolerance, or refusal of the therapy\n  * t(4;14) confirmed by standard of care FISH testing\n* Measurable disease, including at least 1 of the following criteria:\n\n  * Serum M protein \u2265 0.50 g/dL (by SPEP)\n  * Serum IgA \u2265 0.50 g/dL (IgA myeloma patients)\n  * Urine M protein \u2265 200 mg/24 h (by UPEP)\n  * sFLC involved light chain \u2265 10 mg/dL (100 mg/L) (patients with abnormal sFLC ratio)\n  * Bone marrow plasma cells \u2265 30% (if only criterion for measurability)\n* Agreement to enroll into the REMS program (Cohort D- pomalidomide cohort only)\n\nKey Exclusion Criteria for Dose-Expansion:\n\n* Treatment with the following therapies in the specified time period prior to first dose:\n\n  * Patients in Cohorts B1 and B2 must not have received prior mezigdomide treatment\n  * Carfilzomib in the immediate last prior line of therapy for patients enrolled in Cohorts C1 and C2\n  * Pomalidomide in the immediate last prior line of therapy for patients enrolled in cohort D\n  * Radiation, chemotherapy, immunotherapy, or any other anticancer therapy \u2264 2 weeks\n  * Cellular therapies \u2264 8 weeks\n  * Autologous transplant \\< 100 days\n  * Allogenic transplant \u2264 6 months, or \\> 6 months with active GVHD\n  * Major surgery \u2264 4 weeks\n* Current plasma cell leukemia, POEMS (polyneuropathy, organomegaly, endocrinopathy, and skin changes) syndrome, solitary bone lesion or bone lesions as the only evidence for plasma cell dyscrasia, myelodysplastic syndrome or a myeloproliferative neoplasm or light chain amyloidosis\n* Active CNS disease\n* Inadequate bone marrow function\n* Inadequate renal, hepatic, pulmonary, and cardiac function\n* Active, ongoing, or uncontrolled systemic viral, bacterial, or fungal infection. Permitted prophylactic medications, antimicrobials or antiretroviral therapies defined in protocol.\n* Use of acid reducing agents and strong inhibitors or inducers of CYP3A4 within 14 days or 5 half-lives prior to first dose\n* Strong CYP1A2 inhibitors for patients receiving pomalidomide (Cohort D)\n* Active malignancy not related to myeloma requiring therapy within \\< 2 years prior to enrollment, or not in complete remission, with exceptions defined in protocol.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose Escalation: Determination of Recommended Phase 2 Dose (RP2D) and/or Maximum Tolerated Dose (MTD) Dose Expansion: Provide preliminary efficacy data on the antitumor effects of KTX-1001 in combination with other anti-myeloma therapy",
+      "timeFrame": "Cycle 1 (28 days)",
+      "description": "Incidence of dose-limiting toxicity (DLTs), treatment-emergent adverse events (TEAEs), treatment-related AEs, and clinically significant changes in laboratory test results"
+    }
+  ],
+  "sponsor": "K36 Therapeutics, Inc.",
+  "collaborators": [
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2023-02-22",
+  "completion_date": "2028-06-30",
+  "last_updated": "2026-02-06"
+}

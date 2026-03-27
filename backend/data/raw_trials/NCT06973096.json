@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT06973096",
+  "brief_title": "CART-EGFR-IL13Ra2 in Newly Diagnosed GBM Following Initial Radiotherapy",
+  "official_title": "Phase 1 Open-label Study Evaluating the Safety of CART-EGFR-IL13R\u03b12 Cells in Patients With Newly Diagnosed, EGFR-Amplified, MGMT-unmethylated Glioblastoma Following Completion of Initial Radiotherapy",
+  "brief_summary": "This is an open-label phase 1 study to assess the safety, feasibility, pharmacokinetics and preliminary efficacy of autologous T cells co-expressing two CARs targeting the cryptic EGFR epitope 806 and IL3Ra2 (referred to as \"CART-EGFR-IL13Ra2 cells\"). Patients with newly diagnosed, EGFR-amplified, MGMT-unmethylated glioblastoma who have undergone maximal safe surgical resection will be approached for initial study participation. A two-step screening/eligibility process will be utilized. Following informed consent, subjects who meet Step #1 Eligibility Criteria will remain on study and complete a course of radiotherapy (60 Gy) without temozolomide as per their routine cancer care. If there is no overt evidence of disease recurrence/progression following radiotherapy, additional screening tests/procedures will be performed. Subjects who then meet Step #2 Eligibility Criteria will undergo apheresis collection to initiate cell product manufacturing and surgical placement of a CSF-Ventricular Reservoir to allow for intracerebroventricular injection of the CART-EGFR-IL13Ra2 cells. All subjects will receive a single fixed dose of CART-EGFR-IL13Ra2 cells on Day 0 via intracerebroventricular delivery.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 9,
+  "conditions": [
+    "Glioblastoma"
+  ],
+  "interventions": [
+    {
+      "name": "CART-EGFR-IL13Ra2 cells",
+      "type": "DRUG",
+      "description": "autologous T cells transduced with a bicistronic lentiviral vector containing a murine scFv targeting EGFR epitope 806 and a humanized scFv targeting IL13Ra2; both scFvs are fused to the 4-1BB and CD3\u03b6 signaling domains."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Step #1 Inclusion Criteria:\n\n1. Signed informed consent form\n2. Male or females age \u2265 18 years.\n3. Patients with newly diagnosed, EGFR-amplified, MGMT-unmethylated glioblastoma (as defined by WHO 2021 Classification for CNS Tumors, including that the tumor must be IDH wildtype). The tumor must also have histopathologic evidence of glioblastoma (i.e., presence of microvascular proliferation and/or necrosis).\n4. Patients must have undergone maximal safe resection of the tumor as per routine cancer care. Patients who have had a biopsy only are not eligible.\n5. Tumor tissue positive for wild-type EGFR amplification by Neogenomics Laboratories\n6. Karnofsky Performance Status \u2265 60%\n7. Patient scheduled to receive 60 Gy of radiotherapy. Either photon or proton therapy is acceptable.\n\nStep #1 Exclusion Criteria:\n\n1. Active hepatitis B or hepatitis C infection\n2. Class III/IV cardiovascular disability according to the New York Heart Association Classification.\n3. Tumors with enhancing disease involving the thalamus, brain stem or spinal cord.\n4. Tumors with an MGMT promoter methylation result of hypermethylated, methylated, low positive methylated, or indeterminate.\n5. Multifocal disease if \u2265 1 focus of tumor has not undergone maximal safe resection\n6. Severe, active co-morbidity that, in the opinion of the physician-investigator, would preclude participation in this study.\n7. History of allergy or hypersensitivity to study product excipients (human serum albumin, DMSO, and Dextran 40).\n8. Active autoimmune disease requiring systemic immunosuppressive treatment equivalent to \u2265 10mg of prednisone. Patients with autoimmune neurologic diseases (such as MS) will be excluded.\n9. Anticipated treatment plan that involves bevacizumab, any other systemic anti-neoplastic therapy, and/or tumor-treating fields as part of 1st line therapy.\n\nStep #2 Inclusion Criteria:\n\n1. Patient completed full course of radiotherapy to 60 Gy.\n2. No overt evidence of disease recurrence/progression post-radiotherapy confirmed by RANO 2.0 criteria.\n3. Karnofsky Performance Status \u2265 60%\n4. Adequate organ function defined as:\n\n   1. Serum creatinine \u2264 1.5x ULN or estimated creatinine clearance \u2265 30 mL/min and not on dialysis\n   2. ALT/AST \u2264 3 x ILN\n   3. Total bilirubin \u2264 2.0 mg/dl, except for patients in whom hyperbilirubinemia is attributed to Gilbert's syndrome (\u2264 3.0 mg/Dl)\n   4. Left Ventricular Ejection Fraction (LVEF) \u2265 45% confirmed by ECHO/MUGA\n   5. Must have minimum level of pulmonary reserve defined as \\> 92% on room air\n\nStep #2 Exclusion Criteria:\n\n1. Any active, uncontrolled infection.\n2. Severe, active co-morbidity that, in the opinion of the physician-investigator, would preclude participation in this study.\n3. Clinical or neurological decline related to disease and/or radiotherapy that, in the opinion of the physician-investigator, would preclude participation in this study.\n4. Pregnant or nursing (lactating) patients. Participants of reproductive potential must agree to use acceptable birth control methods.\n5. Receipt of prior bevacizumab therapy for their newly diagnosed glioblastoma.\n6. Receipt of temozolomide for their newly diagnosed glioblastoma.\n7. Anticipated post-radiotherapy maintenance treatment that includes tumor treating fields, bevacizumab, or any other anti-neoplastic therapies.\n8. Enrollment in any other clinical trial for the treatment of their newly diagnosed glioblastoma.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Subjects with treatment related adverse events using NCI Common Terminology Criteria for Adverse Events (CTCAE) V5.0",
+      "timeFrame": "Up to 15 years following CART-EGFR-IL13Ra2 administration",
+      "description": "Type, frequency, severity, and attribution of adverse events"
+    },
+    {
+      "measure": "Occurrence of treatment-limiting toxicities (TLTs)",
+      "timeFrame": "28 days post-CAR T cell administration",
+      "description": ""
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [],
+  "start_date": "2025-07-18",
+  "completion_date": "2042-07",
+  "last_updated": "2025-07-22"
+}

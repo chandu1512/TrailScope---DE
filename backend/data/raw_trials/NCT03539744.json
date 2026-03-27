@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT03539744",
+  "brief_title": "A Study Designed to Evaluate the Safety and Efficacy of Venetoclax Plus Dexamethasone (VenDex) Compared With Pomalidomide Plus Dexamethasone (PomDex) in Participants With t(11;14)-Positive Relapsed or Refractory Multiple Myeloma.",
+  "official_title": "A Phase 3, Multicenter, Randomized, Open Label Study of Venetoclax and Dexamethasone Compared With Pomalidomide and Dexamethasone in Subjects With t(11;14)-Positive Relapsed or Refractory Multiple Myeloma",
+  "brief_summary": "A study designed tocompare progression-free survival (PFS) in participants with t(11;14)-positive MM treated with venetoclax in combination with dexamethasone versus pomalidomide in combination with dexamethasone.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 265,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Pomalidomide",
+      "type": "DRUG",
+      "description": "capsule, oral"
+    },
+    {
+      "name": "Dexamethasone",
+      "type": "DRUG",
+      "description": "oral, locally available form"
+    },
+    {
+      "name": "Venetoclax",
+      "type": "DRUG",
+      "description": "tablet; oral"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Documented diagnosis of multiple myeloma (MM) based on standard International Myeloma Working Group (IMWG) criteria.\n* Measurable disease at screening as defined per protocol.\n* Has received at least 2 prior lines of therapy as described in the protocol.\n* Has had documented disease progression on or within 60 days after completion of the last therapy.\n* Has received at least 2 consecutive cycles of lenalidomide and be relapsed/refractory to lenalidomide, as defined per protocol.\n* Has received at least 2 consecutive cycles of a proteasome inhibitor (PI).\n* Has t(11;14)-positive status determined by an analytically validated fluorescent in situ hybridization (FISH) assay per centralized laboratory testing.\n* An Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to 2.\n* Laboratory values (liver, kidney and hematology laboratory values) that meet criteria as described per protocol.\n\nExclusion Criteria:\n\n* History of treatment with venetoclax or another B-Cell Lymphoma (BCL)-2 inhibitor or pomalidomide.\n* History of other active malignancies, including myelodysplastic syndromes (MDS), within the past 3 years (exceptions described in the protocol).\n* Evidence of ongoing graft-versus-host disease (GvHD) if prior stem cell transplant (SCT).\n* Prior treatment with any of the following: allogeneic or syngeneic SCT within 16 weeks prior to randomization; or autologous SCT within 12 weeks prior to randomization.\n* Known central nervous system involvement of MM.\n* Concurrent conditions as listed in the protocol.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland, Baltimore /ID# 217422",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Ctr /ID# 200063",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS)",
+      "timeFrame": "Up to approximately 43 months from first randomization",
+      "description": "PFS is defined as the time in days from subject randomization to the date of the first documented progressive disease (PD) or death due to any cause, whichever occurs first."
+    }
+  ],
+  "sponsor": "AbbVie",
+  "collaborators": [
+    "Roche-Genentech"
+  ],
+  "start_date": "2018-10-22",
+  "completion_date": "2027-11",
+  "last_updated": "2025-06-17"
+}

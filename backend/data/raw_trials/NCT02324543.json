@@ -1,0 +1,99 @@
+{
+  "nct_id": "NCT02324543",
+  "brief_title": "Study of Gemcitabine/Taxotere/Xeloda (GTX) in Combination With Cisplatin and Irinotecan in Subjects With Metastatic Pancreatic Cancer",
+  "official_title": "Phase 1/2 Study of Gemcitabine/Taxotere/Xeloda (GTX) in Combination With Cisplatin and Irinotecan in Subjects With Metastatic Pancreatic Cancer",
+  "brief_summary": "This study will be looking at whether gemcitabine, taxotere, and xeloda (GTX) in combination with cisplatin and irinotecan is effective (anti-tumor activity) and safe in patients with metastatic pancreatic cancer.",
+  "detailed_description": "The study is being done in 2 parts. The first part is the dose escalation (Phase I) part of the study where the dose of irinotecan is increased until the highest safe dose of irinotecan is defined that can be given with gemcitabine, taxotere, xeloda, and cisplatin.\n\nAfter the safe dose of irinotecan in combination with gemcitabine, taxotere, xeloda, and cisplatin is defined, the second part of the study (Phase 2) will use these defined doses to look at how effective these drugs are against advanced pancreatic cancer.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 47,
+  "conditions": [
+    "Metastatic Pancreatic Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "IV on days 4 and 11 of a 21 day cycle"
+    },
+    {
+      "name": "Taxotere",
+      "type": "DRUG",
+      "description": "IV on days 4 and 11 of a 21 day cycle"
+    },
+    {
+      "name": "Xeloda",
+      "type": "DRUG",
+      "description": "Twice a day orally on days 1 through 14 of a 21 day cycle"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "IV on days 4 and 11 of a 21 day cycle"
+    },
+    {
+      "name": "Irinotecan",
+      "type": "DRUG",
+      "description": "IV on days 4 and 11 of a 21 day cycle"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Histologically or cytologically confirmed untreated metastatic pancreatic adenocarcinoma.\n2. Have measurable disease.\n3. Male or non-pregnant and non-lactating female of age \\>18 years.\n4. Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1 . ECOG 0 indicates that the patient is fully active and able to carry on all pre-disease activities without restriction; and, ECOG 1 indicates that the patient is restricted in physically strenuous activity but is ambulatory and able to carry out work of a light or sedentary nature\n5. Subjects must have adequate organ and marrow function.\n6. Must use acceptable form of birth control prior to study and and for the duration of study.\n7. Willing and able to comply with study procedures\n\nExclusion Criteria:\n\n1. Patient who have had any prior chemotherapy within 5 years of enrollment.\n2. Patient who have had radiotherapy for pancreatic cancer.\n3. Age \u2265 76 years\n4. Patient who is receiving or have received any other investigational agents within 28 days prior to Day 1 of treatment in this study.\n5. Patient who has undergone major surgery, other than diagnostic surgery within 28 days prior to Day 1 of treatment in this study.\n6. Patient who has known brain metastases.\n7. Patient with history of hypersensitivity or allergic reactions attributed to compounds of similar chemical or biologic composition to gemcitabine, taxotere, xeloda, cisplatin, or irinotecan.\n8. Patient with uncontrolled intercurrent illness including, but not limited to, uncontrolled infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n9. Patient who has serious medical risk factors involving any of the major organ systems.\n10. Patient who has known history of infection with HIV, hepatitis B, or hepatitis C.\n11. Pregnant or breast feeding.\n12. Patient is unwilling or unable to comply with study procedures\n13. Patient with clinically significant wound",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "76 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Maximum Tolerated Dose (MTD) of Gemcitabine",
+      "timeFrame": "28 days",
+      "description": "Dose escalation (phase I portion of the trial only) to determine the MTD in mg/m\\^2."
+    },
+    {
+      "measure": "Maximum Tolerated Dose (MTD) of Docetaxel",
+      "timeFrame": "28 days",
+      "description": "Dose escalation (phase I portion of the trial only) to determine the MTD in mg/m\\^2."
+    },
+    {
+      "measure": "Maximum Tolerated Dose (MTD) of Capecitabine",
+      "timeFrame": "28 days",
+      "description": "Dose escalation (phase I portion of the trial only) to determine the MTD in mg for twice daily (BID) use."
+    },
+    {
+      "measure": "Maximum Tolerated Dose (MTD) of Cisplatin",
+      "timeFrame": "28 days",
+      "description": "Dose escalation (phase I portion of the trial only) to determine the MTD in mg/m\\^2."
+    },
+    {
+      "measure": "Maximum Tolerated Dose (MTD) of Irinotecan",
+      "timeFrame": "28 days",
+      "description": "Dose escalation (phase I portion of the trial only) to determine the MTD in mg/m\\^2."
+    },
+    {
+      "measure": "Overall Survival (OS) Rate at 9 Months",
+      "timeFrame": "9 months",
+      "description": "OS will be measured as the percentage of subjects alive at 9 months. (OS will be censored on the date the subject was last known to be alive for subjects without documentation of death at the time of analysis). Estimation based on the Kaplan-Meier curve. (Phase 2 data only)"
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Swim Across America"
+  ],
+  "start_date": "2015-02",
+  "completion_date": "2020-02",
+  "last_updated": "2023-07-17"
+}

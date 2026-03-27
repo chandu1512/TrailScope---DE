@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT00977860",
+  "brief_title": "Hypofractionated SBRT For Prostate Cancer",
+  "official_title": "Prospective Evaluation Of Hypofractionated Stereotactic Body Radiotherapy For Low And Intermediate Risk Prostate Cancer",
+  "brief_summary": "The purpose of this study is to determine, in both low-risk and intermediate-risk cohorts, the rates of acute and late grade 3 or higher gastrointestinal and genitourinary toxicity observed during a 24 month follow up and to estimate the rate of biochemical Disease-Free Survival, Phoenix and American Society for Therapeutic Radiology and Oncology definitions, at 2 years following hypofractionated stereotactic body radiation therapy for low and intermediate risk prostate cancer.",
+  "detailed_description": "Radiosurgery should be ideal for treating prostate cancer because:\n\n* targeting accuracy for static targets is excellent, with an error of about 1mm,\n* it can adjust for intra-fractional organ motion, reducing the volume of the target PTV and therefore the dose to surrounding organs,\n* by using over one-hundred non-conplanar beams, the dose gradient between the prostate and surrounding tissues may be superior to that achieved with conventional linear accelerators,\n* the radiobiology of prostate cancer may favor large dose per fractions.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 163,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Stereotactic Body Radiation Therapy",
+      "type": "RADIATION",
+      "description": "36.25 Gy in 5 fractions (7.25 Gy/fx) delivered over a 2-week period"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically proven prostate adenocarcinoma\n* Gleason score 2-7\n* Biopsy within one year of date of registration\n* Clinical stage T1b-T2b, N0-Nx, M0-Mx (AJCC 6th Edition)\n* T-stage and N-stage determined by physical exam and available imaging studies (ultrasound, CT, and/or MRI)\n* M-stage determined by physical exam, CT or MRI. Bone scan not required unless clinical findings suggest possible osseous metastases.\n* PSA \u2264 20 ng/dL\n* Patients belonging in one of the following risk groups:\n* Low: CS T1b-T2a and Gleason 2-6 and PSA \u2264 10, or\n* Intermediate: CS T2b and Gleason 2-6 and PSA \u2264 10, or CS T1b-T2b, and Gleason 2-6 and PSA \u2264 20 ng/dL, or Gleason 7 and PSA \u2264 10 ng/dL\n* Prostate volume: \u2264 100 cc\n* Determined using: volume = \u03c0/6 x length x height x width\n* Measurement from CT or ultrasound \u226490 days prior to registration.\n* ECOG performance status 0-1\n* Completion of patient questionnaires:FACT-G questionnaire, AUA questionnaire, EPIC-26 questionnaire, SHIM questionnaire, Utilization of Sexual Medications/Devices questionnaire\n* Consent signed.\n\nExclusion Criteria:\n\n* Prior prostatectomy or cryotherapy of the prostate\n* Prior radiotherapy to the prostate or lower pelvis\n* Implanted hardware or other material that would prohibit appropriate treatment planning or treatment delivery, in the investigator's opinion.\n* Chemotherapy for a malignancy in the last 5 years.\n* History of an invasive malignancy (other than this prostate cancer, or basal or squamous skin cancers) in the last 5 years.\n* Hormone ablation for two months prior to enrollment, or during treat",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center - Shadyside Radiation Oncology",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Rate of Acute Grade 3 or Higher GI and GU Toxicities",
+      "timeFrame": "Up to 90 days",
+      "description": "Number of patients experiencing acute grade 3 or higher GI and GU toxicities. Acute toxicities are those occurring within 90 days of start of treatment, assessed using the NCI Common Toxicity Criteria (CTCAE) version 3.0."
+    },
+    {
+      "measure": "Rate of Late Grade 3 or Higher GI and GU Toxicities",
+      "timeFrame": "After 90 days post-treatment, up to 5 years per patient",
+      "description": "Number of patients experiencing late grade 3 or higher GI and GU toxicities. Late toxicities are those occurring after 90 days post start of treatment, assessed using the NCI Common Toxicity Criteria (CTCAE) version 3.0."
+    },
+    {
+      "measure": "Biochemical Disease-Free Survival Rate (bDFS)",
+      "timeFrame": "Up to 5 years",
+      "description": "Biochemical Disease-Free Survival (bDFS) as defined by Phoenix and ASTRO. Biochemical progression-free survival events were defined as PSA of \u2265 0.4 ng/mL following postoperative radiotherapy, PSA \\> 2.0 ng/mL at any time, clinical progression, initiation of non-protocol hormone therapy, and death from any cause."
+    }
+  ],
+  "sponsor": "Adam Olson",
+  "collaborators": [],
+  "start_date": "2010-10-07",
+  "completion_date": "2022-07-08",
+  "last_updated": "2024-04-04"
+}

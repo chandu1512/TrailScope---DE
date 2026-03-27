@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT04813276",
+  "brief_title": "Efficacy of a Self-advocacy Serious Game Intervention",
+  "official_title": "Efficacy of a Self-advocacy Serious Game Intervention for Women With Advanced Cancer",
+  "brief_summary": "Individuals with cancer must overcome multiple, ongoing challenges (\"self-advocate\") related to their cancer experience to receive patient-centered care. Women with metastatic cancer often face significant challenges managing their quality of life concerns and cancer- and treatment-related symptoms. If they do not self-advocate to manage these concerns, they risk having poor quality of life, high symptom burden, and care that is not patient-centered. Serious games (video games that teach) are effective health interventions that allow users to vicariously engage in situations reflecting their personal experiences, receive meaningful information, and learn personally relevant skills that they can apply in real life.\n\nThe goal of the current study is to test the efficacy of a novel intervention using a serious game platform to teach self-advocacy skills to women with advanced cancer. The Strong Together intervention consists of a multi-session, interactive serious game application with tailored self-advocacy goal-setting and training. The serious game is based on a self-advocacy conceptual framework and applies behavior change theories and serious game mechanisms to promote skill development and implementation. The game works by immersing users in the experiences of characters who are women with advanced cancer; requiring users to make decisions about how the characters self-advocate; demonstrating the positive and negative consequences of self-advocating or not, respectively; and providing multiple, individualized feedback mechanisms and game features to enforce self-advocacy skill acquisition and transference to real life.",
+  "detailed_description": "Patient-centered care (e.g., incorporating patient preferences, needs, and values into all care aspects) is an essential component of high-quality care, associated with improved patient health, well-being, treatment adherence, and care coordination. Patients cannot participate in patient-centered care if they do not have the skills to self-advocate. Self-advocacy is defined as the ability to overcome health challenges by making informed healthcare decisions, communicating effectively with healthcare providers, and gaining strength through connection to others. Our work established that self-advocacy is associated with higher quality of life, lower symptom burden, higher patient-centered care, and fewer hospital admissions and emergency visits. Self-advocacy is particularly necessary in the advanced cancer setting where patients face numerous health challenges including complex treatment decisions, multiple cancer- and treatment-related symptoms, and poor quality of life. However, many patients struggle to self-advocate because they have not previously needed these skills or do not know how to apply these skills within their cancer experience. Interventions to teach patients self-advocacy are lacking, and the few programs that exist rely on non-interactive patient education that does not leverage behavior change or educational theories. There is a critical need for theoretically grounded interventions to teach patients with advanced cancer self-advocacy skills so that they can address health challenges related to their care and experience improved outcomes.\n\nTechnology-based serious games (educational video games) allow users to vicariously engage in situations reflecting their personal experiences, receive meaningful information, and learn personally relevant skills that they can apply in real life. Serious games are an ideal platform for teaching self-advocacy skills because they use immersive, motivational elements and mechanisms to provide highly-relevant skills-training. Serious games improve patient knowledge and skills though their mechanisms of action remain unclear.\n\nOur team developed the Strong Together intervention which teaches self-advocacy skills in a serious game platform. Patients vicariously respond to health challenges managing symptoms, communicating with providers, and managing their health and are then exposed to the positive and negative consequences of self-advocating or not, respectively. It is based on our team's self-advocacy conceptual model, grounded in behavior change and educational theories, and integrates multiple mechanisms to promote learning outcomes. Our valid, reliable self-report self-advocacy measure captures the three dimensions of self-advocacy: informed decision-making, strength through connection, and effective communication. Our pilot randomized clinical trial (RCT) of the Strong Together intervention among N=70 women newly diagnosed with advanced breast or gynecologic cancer demonstrated feasibility (82% completed 6-month surveys, 71% engaged in all intervention sessions) and intervention acceptability (97% satisfied; 90% saw it as useful).\n\nIn the current study, the investigators will test the efficacy of the Strong Together intervention compared with an enhanced care as usual group in a larger, more diverse sample of women with advanced cancer.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 336,
+  "conditions": [
+    "Self-Management",
+    "Quality of Life"
+  ],
+  "interventions": [
+    {
+      "name": "Strong Together serious game",
+      "type": "BEHAVIORAL",
+      "description": "The Strong Together serious game program is an interactive, immersive education program in which participants quickly learn the behaviors of self-advocacy and the potential consequences of self-advocating or not. Participants receive weekly notifications for 12 weeks alerting them that a new serious game session is available and encourage them to complete one session per week."
+    },
+    {
+      "name": "Enhanced Care as Usual",
+      "type": "BEHAVIORAL",
+      "description": "A self-advocacy patient brochure published by the National Coalition for Cancer Survivorship. This guide is not a part of usual care, but is freely available on the Internet."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Female\n* \u226518 years\n* Diagnosed with advanced solid organ cancer within the past 6 months being treated with non-curative intent\n* Have at least a 6-month life expectancy (as determined by their oncologist)\n* Eastern Cooperative Oncology Group performance score of 0 to 2 (per health record or oncologist)\n* Able to read and write in English\n\nExclusion Criteria:\n\n* On hospice at the time of recruitment\n* Impaired cognition (per health record)\n* Other active, unstable mental health disorder",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Mean change from baseline in self-advocacy scores on the Female Self-Advocacy in Cancer Survivorship (FSACS) Scale at 3 months",
+      "timeFrame": "Baseline and 3 months",
+      "description": "The Female Self-Advocacy in Cancer Survivorship (FSACS) Scale is a 20-item, 6-point Likert-type scale (score range: 20-120). The scale is a validated measure of a woman with cancer's ability to engage in informed decision-making, strength through connection, and effective communication with healthcare providers. Higher scores indicate higher self-advocacy."
+    },
+    {
+      "measure": "Mean change from baseline in self-advocacy scores on the Female Self-Advocacy in Cancer Survivorship (FSACS) Scale at 6 months",
+      "timeFrame": "Baseline and 6 months",
+      "description": "The Female Self-Advocacy in Cancer Survivorship (FSACS) Scale is a 20-item, 6-point Likert-type scale (score range: 20-120). The scale is a validated measure of a woman with cancer's ability to engage in informed decision-making, strength through connection, and effective communication with healthcare providers. Higher scores indicate higher self-advocacy."
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [
+    "National Institutes of Health (NIH)",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2022-08-22",
+  "completion_date": "2026-12-31",
+  "last_updated": "2026-02-09"
+}

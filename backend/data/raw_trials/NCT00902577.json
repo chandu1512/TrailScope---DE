@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT00902577",
+  "brief_title": "MRI and PET/FMISO In Assessing Tumor Hypoxia in Patients With Newly Diagnosed Glioblastoma Multiforme",
+  "official_title": "Multicenter, Phase II Assessment of Tumor Hypoxia in Glioblastoma Using 18F-Fluoromisonidazole (FMISO) With PET and MRI",
+  "brief_summary": "This phase II trial is studying how well positron emission tomography (PET) scan using 18F-fluoromisonidazole works when given together with magnetic resonance imaging (MRI) ) in assessing tumor hypoxia in patients with newly diagnosed glioblastoma multiforme (GBM). Diagnostic procedures, such as MRI and PET scan using 18F-fluoromisonidazole (FMISO), may help predict the response of the tumor to the treatment and allow doctors to plan better treatment.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To determine the association of baseline FMISO PET uptake (hypoxic volume \\[HV\\]), highest tumor:blood ratio \\[T/Bmax\\]) and MRI parameters (Ktrans, CBV) with overall survival (OS) in participants with newly diagnosed GBM.\n\nSECONDARY OBJECTIVES:\n\nI. To determine the association of baseline FMISO PET uptake (HV, T/Bmax) and MRI parameters (Ktrans, CBV) with time to progression (TTP) and 6-month progression free survival (PFS-6) in participants with newly diagnosed GBM.\n\nII. To assess the reproducibility of the baseline FMISO PET uptake parameters by implementing baseline \"test\" and \"retest\" PET scans (performed within 1 to 7 days of each other).\n\nIII. To assess the correlation between highest tissue:cerebellum ratio \\[T/Cmax\\] and T/Bmax at baseline.\n\nIV. To assess the correlation between other MRI parameters (for example Gadolinium-enhanced T1-weighted (T1Gd), vessel caliber index (VCI), , CBV-S, apparent diffusion coefficient (ADC) , N-acetylaspartate (NAA) to choline (Cho) ratio, blood oxygenation level-dependent (BOLD), T2) and OS, TTP, and PFS-6.\n\nOUTLINE: This is a multicenter study.\n\nTwo weeks before initiation of chemoradiotherapy with temozolomide, patients undergo MRI and PET scan using FMISO. A subset of 15 patients undergo FMISO PET scans approximately 1 week before chemoradiotherapy. Blood samples are collected at baseline and periodically during study to compare image measures of tissue uptake of FMISO to blood concentrations. Tumor samples are collected from diagnostic biopsy or surgery for analysis of tumor hypoxic markers and methylguanine methyl transferase by immunohistochemical and Polymerase chain reaction (PCR) assays.\n\nAfter completion of study therapy, patients are followed up every 3 months for up to 5 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Adult Giant Cell Glioblastoma",
+    "Adult Glioblastoma",
+    "Adult Gliosarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "FMISO",
+      "type": "DRUG",
+      "description": "FMISO PET scans"
+    },
+    {
+      "name": "MRI",
+      "type": "OTHER",
+      "description": "Undergo MRI"
+    },
+    {
+      "name": "PET",
+      "type": "OTHER",
+      "description": "Undergo FMISO PET scan"
+    },
+    {
+      "name": "MRS",
+      "type": "OTHER",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Must be able to provide a written informed consent\n* Newly diagnosed glioblastoma multiforme (GBM), World Health Organization (WHO) grade IV based on pathology confirmation\n* Residual tumor after surgery (amount of residual tumor will not impact patient eligibility and visible residual disease can include T2/FLAIR hyperintensity)\n\n  * Note: If patient had a biopsy only, postoperative MRI is not needed to assess residual tumor prior to enrollment\n* Scheduled to receive standard fractionated radiation therapy\n* Scheduled to receive Temozolomide (TMZ) in addition to radiation therapy\n* Karnofsky Performance Score \\> 60\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding (if a female is of child-bearing potential, and unsure of pregnancy status, a standard urine pregnancy test should be done)\n* Scheduled to receive chemotherapy, immunotherapy, or investigational agents in trials unwilling to share data with ACRIN (i.e., additional therapy added to radiation and TMZ is allowed if ACRIN is able to obtain treatment information)\n* Not suitable to undergo MRI or use the contrast agent Gd because of:\n* Claustrophobia\n* Presence of metallic objects or implanted medical devices in body (i.e., cardiac pacemaker, aneurysm clips, surgical clips, prostheses, artificial hearts, valves with steel parts, metal fragments, shrapnel, tattoos near the eye, or steel implants)\n* Sickle cell disease\n* Renal failure\n* Reduced renal function, as determined by Glomerular Filtration Rate (GFR) \\< 30 mL/min/1.73 m\\^2 based on a serum creatinine level obtained within 28 days prior to registration\n* Presence of any other co-existing condition which, in the judgment of the investigator, might increase the risk to the subject\n* Presence of serious systemic illness, including: uncontrolled intercurrent infection, uncontrolled malignancy, significant renal disease, or psychiatric/social situations which might impact the survival endpoint of the study or limit compliance with study requirements\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to FMISO; an allergic reaction to nitroimidazoles is highly unlikely\n* Not suitable to undergo PET or MRI, including weight greater than 350 lbs (the weight limit for the MRI and PET table)\n* Prior treatment with implanted radiotherapy or chemotherapy sources such as wafers of polifeprosan 20 with carmustine",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University/Sidney Kimmel Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "American College of Radiology Imaging Network",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    },
+    {
+      "facility": "University of Pennsylvania/Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Association of Baseline FMISO PET and MRI Features With OS as Assessed Using Cox-regression Model",
+      "timeFrame": "\"assessed from baseline up to 5 years, survival status at 1-year reported",
+      "description": "Overall Survival (OS) was evaluated every 3 months through end of the study (up to 5 years). A variety of continuous quantitative (functional) imaging features measuring abnormal tumor vasculature (MRI) and hypoxia (FMISO) were evaluated at baseline for their association with Survival time.\n\nFeatures include\n\nPET Hypoxia measures:\n\nPeak standardized uptake values (SUVpeak); maximum tumor:blood ratio (T/Bmax); and Hypoxia Volume (HV)\n\nDCE MRI perfusion measures:\n\nMean/median volume transfer constant for gadolinium between blood plasma and the tissue extravascular extracellular space (ktrans)\n\nDSC MRI tumor vasculature:\n\nNormalized Relative cerebral blood volume (nRCBV); and Cerebral blood flow (CBF)\n\nDWI MRI magnitude of diffusion of water through tissue (cell density):\n\nApparent diffusion coefficient (ADC) using low and high Gaussian distributions"
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2009-08-24",
+  "completion_date": "2018-01-31",
+  "last_updated": "2019-03-14"
+}

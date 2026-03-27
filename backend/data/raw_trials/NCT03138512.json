@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT03138512",
+  "brief_title": "A Study Comparing Nivolumab, Nivolumab in Combination With Ipilimumab and Placebo in Participants With Localized Kidney Cancer Who Underwent Surgery to Remove Part of a Kidney",
+  "official_title": "A Phase 3 Randomized, Double-Blind Study of Nivolumab Monotherapy or Nivolumab Combined With Ipilimumab vs Placebo in Participants With Localized Renal Cell Carcinoma Who Underwent Radical or Partial Nephrectomy and Who Are at High Risk of Relapse",
+  "brief_summary": "The purpose of this study is to determine whether nivolmab alone or the combination of nivolumab and ipilimumab versus placebo, is safe and effective for delaying or preventing recurrence of cancer in participants who have experienced partial or entire removal of a kidney.",
+  "detailed_description": "The study has two primary endpoints. The first primary completion date is anticipated to be reached July 2022 (DFS in Part A). The second primary completion date is anticipated to be reached July 2024 (DFS in Part B).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1641,
+  "conditions": [
+    "Carcinoma, Renal Cell"
+  ],
+  "interventions": [
+    {
+      "name": "nivolumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "ipilimumab",
+      "type": "BIOLOGICAL",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "nivolumab placebo",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "ipilimumab placebo",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Kidney tumor has been completely resected with negative surgical margins obtained. The randomization must occur greater than 4 weeks and less than (or equal to) 12 weeks from the date of nephrectomy\n* Pathologic tumor, node, and metastasis (TNM) staging meeting one of the following: pT2a, G3 or G4, N0 M0; pT2b, G any, N0 M0; pT3, (a, b, c), G any, N0 M0; pT4, G any, N0 M0; pT any, G any, N1 M0\n* Post-nephrectomy tumor shows renal cell cancer (RCC) with a predominantly clear cell histology, including participants with sarcomatoid features\n* Participants must have no clinical or radiological evidence of macroscopic residual disease or distant metastases after nephrectomy\n* Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) 0-1\n* Women must agree to follow methods of contraception, if applicable\n\nExclusion Criteria:\n\n* Participants with an active known or suspected autoimmune disease\n* Known history of positive test for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS)\n* Prior treatment with an anti-PD-1, anti-PD-L1, anti-PD-L2, or anti-CTLA-4 antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways\n* Any severe or serious, acute or chronic medical or psychiatric condition, or laboratory abnormality that may increase the risk associated with study participation\n* History of allergy or hypersensitivity to study drug components\n* Participants with a condition requiring systemic treatment with corticosteroids\n* Participants who have received a live/attenuated vaccine within 30 days of first treatment\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0012",
+      "city": "Howell Township",
+      "state": "New Jersey",
+      "zip": "07731",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0010",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Disease-Free Survival (DFS) by BICR - Treatment Part A and B",
+      "timeFrame": "From randomization to development of local disease recurrence, distance metastasis, or death, whichever came first (up to approximately 72 months)",
+      "description": "Disease-Free Survival (DFS) is defined as the time from randomization to development of local disease recurrence (ie, recurrence of primary tumor in situ or occurrence of a secondary renal cell carcinoma (RCC) primary cancer), distance metastasis, or death, whichever came first per Blinded Independent Central Review (BICR) based on Kaplan-Meier estimates."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2017-07-07",
+  "completion_date": "2024-02-01",
+  "last_updated": "2024-11-26"
+}

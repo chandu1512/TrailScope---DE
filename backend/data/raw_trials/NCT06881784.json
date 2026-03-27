@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT06881784",
+  "brief_title": "Study of Daraxonrasib (RMC-6236) in Patients With RAS Mutated NSCLC (RASolve 301)",
+  "official_title": "RASolve 301: Phase 3 Multicenter, Open Label, Randomized Study of RMC-6236 Versus Docetaxel in Patients With Previously Treated Locally Advanced or Metastatic RAS[MUT] NSCLC",
+  "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of a novel RAS(ON) inhibitor compared to docetaxel.",
+  "detailed_description": "This is a global, randomized, open-label, Phase 3 study designed to evaluate whether treatment with daraxonrasib will improve progression free survival (PFS) or overall survival (OS) compared to docetaxel chemotherapy in patients with NSCLC who were previously treated. Patients will be randomized in a 1:1 ratio to receive daraxonrasib or docetaxel chemotherapy.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 420,
+  "conditions": [
+    "NSCLC (Non-small Cell Lung Cancer)",
+    "Non-Small Cell Lung Cancer",
+    "NSCLC",
+    "NSCLC (Non-small Cell Lung Carcinoma)",
+    "NSCLC (Advanced Non-small Cell Lung Cancer)"
+  ],
+  "interventions": [
+    {
+      "name": "daraxonrasib",
+      "type": "DRUG",
+      "description": "oral tablets"
+    },
+    {
+      "name": "docetaxel",
+      "type": "DRUG",
+      "description": "intravenous (IV) infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* At least 18 years old and has provided informed consent.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Pathologically confirmed NSCLC, either locally advanced or metastatic, not amenable to curative surgery or radiotherapy.\n* Measurable disease per RECIST v1.1.\n* Adequate organ function (bone marrow, liver, kidney, coagulation).\n* One to two prior lines of therapy including an anti-PD-1/anti-PD(L)-1 agent and platinum-based chemotherapy.\n* Documented RAS mutation status, defined as Nonsynonymous mutations in KRAS, NRAS, or HRAS at codons 12, 13, or 61 (G12, G13, or Q61).\n* Able to take oral medications.\n\nExclusion Criteria:\n\n* Prior therapy with direct RAS-targeted therapy or docetaxel.\n* Untreated central nervous system (CNS) metastases.\n* Medically significant comorbidities (significant cardiovascular disease, lung disease, or impaired GI function).\n* Ongoing anticancer therapy.\n* Pregnant or breastfeeding.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University of Medicine",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Morristown Medical Center (MMCORC)",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression free survival (PFS) per Investigator in the RAS G12X-C population (i.e RAS G12X excluding G12C)",
+      "timeFrame": "Up to approximately 4 years",
+      "description": "PFS is defined as the time from randomization until disease progression or death from any cause, whichever occurs first. Progression is per response evaluation criteria in solid tumors (RECIST) v1.1 and as assessed by Investigator."
+    },
+    {
+      "measure": "Overall survival (OS) in the RAS G12X-C population",
+      "timeFrame": "Up to approximately 4 years",
+      "description": "OS is defined as the time from randomization until death from any cause."
+    }
+  ],
+  "sponsor": "Revolution Medicines, Inc.",
+  "collaborators": [],
+  "start_date": "2025-05-06",
+  "completion_date": "2030-12-01",
+  "last_updated": "2026-03-10"
+}

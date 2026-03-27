@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT06472245",
+  "brief_title": "Trial of Therapeutic Cancer Vaccine OSE2101 in Patients With Non-Small Cell Lung Cancer and Secondary Resistance to Immune Checkpoint Inhibitor",
+  "official_title": "A Randomised, Open-label, Phase 3 Trial Comparing the Efficacy and Safety of OSE2101 Versus Docetaxel in HLA-A2 Positive Patients With Metastatic Non-Small Cell Lung Cancer (NSCLC) With Secondary Resistance to Immune Checkpoint Inhibitor",
+  "brief_summary": "Multicenter, randomized (2:1), open-label phase 3 study in HLA-A2 positive patients with squamous and non-squamous metastatic NSCLC with ICI secondary resistance.\n\nPatients will be randomized into 2 arms (randomization 2:1): experimental Arm A with OSE2101 monotherapy or control Arm B SoC with docetaxel monotherapy. Stratification factors will be histology (squamous versus non squamous) and ECOG Performance Status (0 versus 1).",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 363,
+  "conditions": [
+    "Patients With Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "OSE2101",
+      "type": "DRUG",
+      "description": "OSE2101 is a peptidic cancer vaccine composed of nine epitopes restricted to HLA-A2 phenotype targeting the tumor associated antigens of P53, HER-2, CEA, MAGE-2 and MAGE-3, and one pan-HLA DR binding epitope (PADRE), all epitopes emulsified in Montanide ISA 51TM adjuvant."
+    },
+    {
+      "name": "Docetaxel",
+      "type": "DRUG",
+      "description": "Docetaxel is an antineoplastic agent that acts by disrupting the microtubular network in cells that is essential for mitotic and interphase cellular functions."
+    },
+    {
+      "name": "NGS HLAA2 assay",
+      "type": "DEVICE",
+      "description": "Amp-HLA-A-CDx Tedopi for amplification of human genomic DNA (gDNA), LFK-CDx Tedopi kit (library full kit) for library preparation, NGSengine-CDx Tedopi software for analysis of NGS data files."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Male or female, aged \u2265 18 years\n2. Patients expressing HLA-A2 phenotype in blood by pre-screening central laboratory\n3. Patients with histologically or cytologically squamous or non-squamous documented NSCLC, metastatic stage at study entry, not eligible for definite surgery or radiation, without EGFR, ALK and ROS1 gene alterations eligible for targeted therapy; for patients with squamous NSCLC, the molecular tests are not mandatory if age \u2265 50 years old and smoker \u2265 15 pack years; other sensitizing mutations known to be immunosensitive are eligible in case of lack of local access to targeted therapy (i.e.; KRAS G12C and BRAF mutations) after Sponsor' agreement.\n4. Patients with secondary resistance to ICI;\n\nOther inclusion and exclusion criteria will apply per protocol.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Ascension Saint Agnes Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21229",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "OS defined as time from randomization to death",
+      "timeFrame": "From randomization date through study completion, an average of 3 years",
+      "description": "OS defined as time from randomization to death of any cause, censored until the data analysis cut-off date"
+    }
+  ],
+  "sponsor": "OSE Immunotherapeutics",
+  "collaborators": [
+    "Exystat",
+    "Genome Diagnostics (GenDx)"
+  ],
+  "start_date": "2024-12-03",
+  "completion_date": "2028-12-15",
+  "last_updated": "2026-03-04"
+}

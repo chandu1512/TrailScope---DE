@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT02282215",
+  "brief_title": "Safety and Efficacy of Human Myeloid Progenitor Cells (CLT-008) During Chemotherapy for Acute Myeloid Leukemia",
+  "official_title": "An Open-Label Phase 2 Prospective, Randomized, Controlled Study of CLT-008 Myeloid Progenitor Cells as a Supportive Care Measure During Induction Chemotherapy for Acute Myeloid Leukemia",
+  "brief_summary": "The purpose of the study is to explore the safety and efficacy of CLT-008 as an extra supportive care measure after induction chemotherapy for patients with acute myeloid leukemia (AML).",
+  "detailed_description": "The prolonged period of severe neutropenia caused by induction chemotherapy for the treatment of AML is associated with a nearly universal risk of febrile neutropenia. Standard supportive care strategies include administration of prophylactic anti-bacterial and anti-fungal agents, but serious breakthrough bacterial and fungal infections still occur. Granulocyte colony-stimulating factor (G-CSF; filgrastim, Neupogen\u00ae) has been shown to shorten the duration of severe neutropenia, fever, antibiotic use and hospitalization following induction chemotherapy for AML. CLT-008, a human allogeneic myeloid progenitor cell product, is intended to provide the cellular target for G-CSF to produce neutrophils during the period of chemotherapy-induced bone marrow suppression when the patient's own progenitor cells may be limited in responding to G-CSF. It is hypothesized that the production of allogeneic neutrophils from CLT-008 will be sufficient to mitigate the infection-related consequences of induction chemotherapy for AML.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 163,
+  "conditions": [
+    "Acute Myeloid Leukemia",
+    "Neutropenia",
+    "Infection"
+  ],
+  "interventions": [
+    {
+      "name": "CLT-008",
+      "type": "BIOLOGICAL",
+      "description": "Single intravenous infusion"
+    },
+    {
+      "name": "G-CSF",
+      "type": "BIOLOGICAL",
+      "description": "Daily subcutaneous injections"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Acute myeloid leukemia arising de novo (per European LeukemiaNet)\n2. Treated with any established chemotherapy regimen based on either:\n\n   1. 7+3: Standard-dose cytarabine 100-200 mg per meter squared continuous infusion for 7 days with idarubicin 12 mg per meter squared or daunorubicin 45-90 mg per meter squared for 3 days\n   2. High-dose cytarabine-based (HIDAC) chemotherapy administering a total cytarabine dose of \u2265 4 g per meter squared alone or in combination with other anti-leukemic agents (for example, anthracyclines, purine nucleoside inhibitors, etoposide, etc.)\n3. Eastern Cooperative Oncology Group (ECOG) performance status of 0-2 at Screening or by the day chemotherapy is initiated\n4. Adequate respiratory function with a room air oxygen saturation of at least 92%\n5. Adequate cardiac function defined as an ejection fraction of at least 45%\n6. Serum bilirubin \u2264 1.5 times the upper limits of normal. Subjects with a history of Gilbert's syndrome may be enrolled if the total bilirubin is \\< 3 mg/dL with an indirect bilirubin of \\> 1.5 mg/dL\n7. Serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST) \u2264 2.5 times upper limits of normal prior to chemotherapy\n8. Serum creatinine \u2264 2 times upper limits of normal or estimated glomerular filtration rate \u2265 60 mL/min/1.73 meter squared per Modification of Diet in Renal Disease equation (MDRD)\n9. All subjects, except post-menopausal women, must be willing to utilize a highly effective method of contraception throughout the study\n10. Adequately informed of the nature and risks of the study with written informed consent\n\nExclusion Criteria:\n\n1. Pregnant or breast feeding\n2. Overt central nervous system manifestations of leukemia at diagnosis\n3. Specifically diagnosed and uncontrolled fungal, bacterial, viral, or other infection (e.g. confirmed sepsis, pneumonia, abscess, cellulitis, etc.) at the day chemotherapy is initiated. \"Uncontrolled\" is defined as exhibiting ongoing signs and symptoms of infection without improvement despite antimicrobial or other treatment.\n4. AML subtype M3 (promyelocytic leukemia)\n5. Previous chemotherapy for AML\n6. History of or current human immunodeficiency virus (HIV) or hepatitis C virus infection\n7. History of or current clinically significant immunodeficiency\n8. Known contraindication to receiving G-CSF\n9. History of or current clinically significant alloimmunization to leukocyte antigens\n10. Participation in another clinical study within 28 days of the day chemotherapy is initiated, in which the study drug or device may influence hematopoiesis. Co-enrollment in another study is allowed in cases where the investigational therapy under study is a version of an acceptable chemotherapy regimen for this study per the inclusion criteria.\n11. Receiving any agent concurrently with CLT-008 infusion which inhibits cell division (e.g., methotrexate or hydroxyurea)\n12. Acute or chronic medical disorder that, in the opinion of the investigator or medical monitor, may prevent the subject from completing participation in the study",
+    "gender": "ALL",
+    "min_age": "55 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "West Penn Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Duration of febrile episodes (fever)",
+      "timeFrame": "42 days",
+      "description": ""
+    }
+  ],
+  "sponsor": "Cellerant Therapeutics",
+  "collaborators": [
+    "Department of Health and Human Services"
+  ],
+  "start_date": "2014-12",
+  "completion_date": "2017-09-22",
+  "last_updated": "2018-09-25"
+}

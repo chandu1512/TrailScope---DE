@@ -1,0 +1,107 @@
+{
+  "nct_id": "NCT02267876",
+  "brief_title": "Longitudinal Clinical Evaluation of the HPV Assay on the BD VIPER LT System With Cervical Specimens",
+  "official_title": "Longitudinal Clinical Evaluation of the HPV Assay on the BD VIPER LT System With Cervical Specimens",
+  "brief_summary": "The purpose of the study is to assess the cumulative disease detection of greater than or equal to Cervical intraepithelial neoplasia 2 (CIN2) and greater than or equal to Cervical intraepithelial neoplasia 3 (CIN3) in the subjects over 3 years using the subject's HPV status and cytology status from the BDS-USHPV baseline results",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 6730,
+  "conditions": [
+    "Cervical Neoplasms",
+    "Human Papillomavirus"
+  ],
+  "interventions": [
+    {
+      "name": "BD HPV Assay on Viper LT",
+      "type": "DEVICE",
+      "description": "The BD HPV specimen will be tested with the BD HPV Assay on the Viper LT instrument."
+    },
+    {
+      "name": "Colposcopy",
+      "type": "PROCEDURE",
+      "description": "The colposcopy will be performed on subjects that have abnormal cytology. At the third year visit all subjects will have an exit colposcopy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subject enrolled into the protocol BDS-USHPV and identified as eligible for the longitudinal protocol \u2022 Subjects enrolled into protocol BDS-USHPV with a baseline colposcopy and biopsy procedure and not treated.\n\nExclusion Criteria:\n\n* Subjects with prior complete or partial hysterectomy involving removal of the cervix\n* Subjects on whom conization, LEEP, cervical laser surgery, or cryosurgery has been performed since enrollment into the BDS-USHPV study\n* Year 3 visit can not exceed 3 years and 6 months from the baseline visit",
+    "gender": "FEMALE",
+    "min_age": "21 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "BD 54 Loveton",
+      "city": "Sparks",
+      "state": "Maryland",
+      "zip": "21152",
+      "status": ""
+    },
+    {
+      "facility": "Virtua Phoenix OB/GYN",
+      "city": "Moorestown",
+      "state": "New Jersey",
+      "zip": "08057",
+      "status": ""
+    },
+    {
+      "facility": "Meridian Health / Jersey Shore University Medical Center",
+      "city": "Neptune City",
+      "state": "New Jersey",
+      "zip": "07753",
+      "status": ""
+    },
+    {
+      "facility": "Quest Laboratories",
+      "city": "Teterboro",
+      "state": "New Jersey",
+      "zip": "07608",
+      "status": ""
+    },
+    {
+      "facility": "Center for Women's Health of Lansdale",
+      "city": "Lansdale",
+      "state": "Pennsylvania",
+      "zip": "19446",
+      "status": ""
+    },
+    {
+      "facility": "Clinical Research of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19114",
+      "status": ""
+    },
+    {
+      "facility": "Reading Health Physician Network",
+      "city": "West Reading",
+      "state": "Pennsylvania",
+      "zip": "19611",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cumulative risk of Cervical Intraepithelial Neoplasia 2 and 3 (CIN2 and CIN3) over three years in Human Papillomavirus (HPV) Positive Patients.",
+      "timeFrame": "3 years",
+      "description": "Cumulative risk is a measure of the total risk that a certain event will happen during a given period of time. In this longitudinal study, it refers to the risk of developing \\>=CIN2 or \\>=CIN3 in subjects over a three year period using the subjects' HPV status at baseline versus cytology status at baseline."
+    },
+    {
+      "measure": "Absolute Risk of Cervical Intraepithelial Neoplasia 2 and 3 (CIN2 and CIN3) over 3 years in Human Papillovirus (HPV) Positive Patients.",
+      "timeFrame": "3 years",
+      "description": "Absolute risk will be calculated as: (number of disease cases)/(number of patients at risk)."
+    },
+    {
+      "measure": "To evaluate different screening strategies using Human Papillovirus (HPV) results with 16/18/45 genotyping and cytology.",
+      "timeFrame": "3 years",
+      "description": "The sensitivity and specificity of HPV primary screening algorithms for identifying \u2265 CIN2 and \u2265 CIN3 using genotyping and cytology will be calculated."
+    }
+  ],
+  "sponsor": "Becton, Dickinson and Company",
+  "collaborators": [],
+  "start_date": "2014-10",
+  "completion_date": "2019-05",
+  "last_updated": "2021-02-04"
+}

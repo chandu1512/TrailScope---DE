@@ -1,0 +1,60 @@
+{
+  "nct_id": "NCT07186296",
+  "brief_title": "EXoPERT EMERALD Clinical Study",
+  "official_title": "EXoPERT EMERALD: Early Multi-cancer Study of EV's Ramen-AL Linked Diagnosis Clinical Study Protocol",
+  "brief_summary": "Invitro diagnostic test for multiple cancer diagnosis for patients with early-stage cancers by analyzing surface-enhanced Ramen spectroscopy (SERS) profiles of extracellular vesicles (EV) using artificial intelligence.",
+  "detailed_description": "An in vitro diagnostic medical device and system that provides information on the presence of lung, ovarian, breast, pancreas and colorectal cancers based on a deep learning analysis for Raman spectroscopic profiles of EV's extracted from human plasma. Tissue of origin (TOO) can be presented as one or more.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1400,
+  "conditions": [
+    "Breast Cancer",
+    "Colon Cancer",
+    "Pancreatic Cancer",
+    "Ovarian Cancer",
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "EXoPred",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Performing invitro Diagnostics with devices developed by EXoPERT."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subject aged 45 years or older with a biopsy-proven or clinically suspected primary lung, breast, colorectal, pancreatic, or ovarian cancer, based on objective findings such as radiological, serological, endoscopic, or cytological findings, whose blood was collected prior to any systemic or definitive therapy for the cancer.\n* Subjects who are willing and able to provide written informed consent.\n* Subjects who are willing and able to comply with the study requirements.\n\nExclusion Criteria:\n\n* Any history of cancer diagnosed and treated within 5 years prior to the date of consent.\n* Subjects with a history of previous cancer treatment via surgical resection, hormonal cancer treatment, chemotherapy, radiotherapy within the past 6 months for recent cancer diagnosis.\n* Subjects who have any history of an allogeneic bone marrow, stem cell transplant, or solid organ transplant.\n* Subjects who are pregnant or breastfeeding women.\n* Subjects who have consented and have undergone treatment in any other cancer related clinical trials withinthe past 6 months.\n* Subjects who are currently in active treatment for drug abuse.\n* Subjects who have received any treatment related to lung, breast, colorectal, pancreatic, or ovarian nodules, such as hormones prior to entering the study.\n* Unsuitable sample for testing due to contamination, hemolysis, etc.",
+    "gender": "ALL",
+    "min_age": "45 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "John Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21218",
+      "status": "ACTIVE_NOT_RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Test Sufficient Samples",
+      "timeFrame": "From date of enrollment up to 36 months",
+      "description": "Test sufficient samples from 5 cancers to lock an validate algorithm to support future clinical study."
+    },
+    {
+      "measure": "Evaluate Performance",
+      "timeFrame": "From date of enrollment up to 36 months",
+      "description": "Test performance: diagnosis of multiple cancer, assessed by sensitivity. Test performance: diagnosis of multiple cancer, assessed by specificity. Test performance: diagnosis of multiple cancer, assessed by tissue of origin (TOO) accuracy."
+    }
+  ],
+  "sponsor": "EXoPERT",
+  "collaborators": [
+    "MCRA"
+  ],
+  "start_date": "2025-05-09",
+  "completion_date": "2026-06-30",
+  "last_updated": "2026-01-18"
+}

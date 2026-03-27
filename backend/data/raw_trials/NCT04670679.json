@@ -1,0 +1,96 @@
+{
+  "nct_id": "NCT04670679",
+  "brief_title": "A Dose Escalation/Expansion Study of ERAS-601 in Patients With Advanced or Metastatic Solid Tumors",
+  "official_title": "An Open-Label, Multi-Center Phase 1/1b Dose Escalation and Expansion Study of ERAS-601 SHP2 Inhibitor as a Monotherapy and in Combination With Other Anti-Cancer Therapies in Patients With Advanced or Metastatic Solid Tumors",
+  "brief_summary": "* To evaluate the safety and tolerability of escalating doses of ERAS-601 when administered as a monotherapy and in combination with other cancer therapies in study participants with advanced or metastatic solid tumors.\n* To determine the Maximum Tolerated Dose (MTD) and/or recommended dose (RD) of ERAS-601 when administered as a monotherapy and in combination with other cancer therapies.\n* To characterize the pharmacokinetic (PK) profile of ERAS-601 when administered as a monotherapy and in combination with other cancer therapies.\n* To evaluate the antitumor activity of ERAS-601 when administered as a monotherapy and in combination with other cancer therapies.",
+  "detailed_description": "This is a first-in-human, Phase 1/1b, open-label, multicenter clinical study of ERAS-601 as a monotherapy and in combination with other cancer therapies. The study will commence with dose escalation of ERAS-601 monotherapy, followed by dose escalation of ERAS-601 in combination with other cancer therapies. Once the monotherapy MTD and/or RD has been determined, then dose expansion of ERAS-601 monotherapy may commence with enrollment of study participants with advanced or metastatic solid tumors harboring specific molecular alterations. Once the combination therapy MTD and/or RD has been determined, then dose expansion of that combination may commence with enrollment of study participants with advanced or metastatic solid tumors harboring specific molecular alterations.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 90,
+  "conditions": [
+    "Advanced or Metastatic Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "ERAS-601",
+      "type": "DRUG",
+      "description": "Administered orally"
+    },
+    {
+      "name": "Cetuximab",
+      "type": "DRUG",
+      "description": "Administered via intravenous infusion"
+    },
+    {
+      "name": "Pembrolizumab",
+      "type": "DRUG",
+      "description": "Administered via intravenous infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age \u2265 18 years\n* Willing and able to give written informed consent\n* Have histologically or cytologically confirmed advanced or metastatic solid tumor\n* There is no available standard systemic therapy available for the patient's tumor histology and/or molecular biomarker profile; or standard therapy is intolerable, not effective, or not accessible; or patient has refused standard therapy\n* Able to swallow oral medication\n* Have Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 or 1\n* Adequate cardiovascular, hematological, liver, and renal function\n* Willing to comply with all protocol-required visits, assessments, and procedures\n\nExclusion Criteria:\n\n* Previous treatment with a SHP2 inhibitor\n* Documented PTPN11 mutations\n* Is currently receiving another study therapy or has participated in a study of an investigational agent and received study therapy within 4 weeks of the first dose of ERAS-601\n* Received prior palliative radiation within 7 days of Cycle 1, Day 1\n* Have primary central nervous system (CNS) disease or known active CNS metastases and/or carcinomatous meningitis\n* Prior surgery (e.g., gastric bypass surgery, gastrectomy) or gastrointestinal dysfunction (e.g., Crohn's disease, ulcerative colitis, short gut syndrome) that may affect drug absorption\n* Active, clinically significant interstitial lung disease or pneumonitis\n* History of thromboembolic or cerebrovascular events \u2264 12 weeks prior to the first dose of study treatment\n* History or current evidence of retinal vein occlusion (RVO) or current risk factors for RVO\n* Have any underlying medical condition, psychiatric condition, or social situation that, in the opinion of the Investigator, would compromise study administration as per protocol or compromise the assessment of AEs\n* Are pregnant or breastfeeding or expecting to conceive or father children within the projected duration of the trial",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose Limiting Toxicities (DLT)",
+      "timeFrame": "Study Day 1 up to Day 29",
+      "description": "Based on toxicities observed"
+    },
+    {
+      "measure": "Maximum tolerated dose (MTD)",
+      "timeFrame": "Study Day 1 up to Day 29",
+      "description": "Based on toxicities observed"
+    },
+    {
+      "measure": "Recommended dose (RD)",
+      "timeFrame": "Study Day 1 up to Day 29",
+      "description": "Based on toxicities observed"
+    },
+    {
+      "measure": "Adverse Events",
+      "timeFrame": "Assessed up to 24 months from time of first dose",
+      "description": "Incidence and severity of treatment-emergent AEs and serious AEs"
+    },
+    {
+      "measure": "Plasma concentration (Cmax)",
+      "timeFrame": "Study Day 1 up to Day 29",
+      "description": "Maximum plasma concentration of ERAS-601 and cetuximab or pembrolizumab (if applicable)"
+    },
+    {
+      "measure": "Time to achieve Cmax (Tmax)",
+      "timeFrame": "Study Day 1 up to Day 29",
+      "description": "Time to achieve maximum plasma concentration of ERAS-601 and cetuximab or pembrolizumab (if applicable)"
+    },
+    {
+      "measure": "Area under the curve",
+      "timeFrame": "Study Day 1 up to Day 29",
+      "description": "Area under the plasma concentration-time curve of ERAS-601 and cetuximab or pembrolizumab (if applicable)"
+    },
+    {
+      "measure": "Half-life",
+      "timeFrame": "Study Day 1 up to Day 29",
+      "description": "Half-life of ERAS-601 and cetuximab or pembrolizumab (if applicable)"
+    }
+  ],
+  "sponsor": "Erasca, Inc.",
+  "collaborators": [],
+  "start_date": "2020-12-15",
+  "completion_date": "2026-06",
+  "last_updated": "2026-03-23"
+}

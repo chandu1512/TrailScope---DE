@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT00527735",
+  "brief_title": "Phase II Study for Previously Untreated Subjects With Non Small Cell Lung Cancer (NSCLC) or Small Cell Lung Cancer (SCLC)",
+  "official_title": "A Randomized, Double Blind, Parallel, Three Arm Trial Evaluating the Efficacy and Safety of Ipilimumab (BMS-734016) in Combination With Paclitaxel/Carboplatin Compared to Paclitaxel/Carboplatin Alone in Previously Untreated Subjects With Lung Cancer",
+  "brief_summary": "The purpose of the study is to determine whether ipilimumab given with paclitaxel/carboplatin has clinical benefit when compared with paclitaxel/carboplatin alone in patients with previously untreated lung cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 334,
+  "conditions": [
+    "Lung Cancer",
+    "Small Cell Lung Cancer",
+    "Carcinoma, Non-Small-Cell Lung"
+  ],
+  "interventions": [
+    {
+      "name": "Ipilimumab",
+      "type": "DRUG",
+      "description": "Ipilimumab, 10 mg/kg, administered as a single-dose, intravenously (IV), over 90 minutes depending on randomization every 3 weeks (up to 6 doses). Participants could receive additional maintenance ipilimumab at a dose of 10 mg/kg every 12 weeks starting 24 weeks after the first ipilimumab dose."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Matched placebo for ipilimumab administered as a single dose IV over 90 minutes every 3 weeks (up to 6 doses) as part of induction. Participants could also receive additional maintenance placebo administered IV over 90 minutes every 12 weeks starting 24 weeks after the first placebo dose."
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "175 mg/m\\^2, administered as a single IV dose over 3 hours every 3 weeks (up to 6 doses). Dose modifications (reductions as well as delays) done as per product label."
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Area under the concentration curve (AUC)=6, administered as a single IV dose over 30 minutes every 3 weeks (up to 6 doses) as per randomization. Dose modifications (reductions as well as delays) done as per product label."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed lung cancer (Stage IIIb/IV nonsmall-cell lung cancer or extensive stage small-cell lung cancer \\[SCLC\\])\n* Measurable tumor lesion (as long as it is not located in a previously irradiated area) as defined by modified World Health Organization criteria\n* Eastern Cooperative Oncology Group performance status of \u22641 at study entry\n* Accessible for treatment and follow-up\n\nExclusion Criteria:\n\n* Brain metastases\n* Malignant pleural effusion\n* Autoimmune disease\n* Motor neuropathy of autoimmune origin\n* SCLC-related paraneoplastic syndromes\n* Any concurrent malignancy other than nonmelanoma skin cancer; carcinoma in situ of the cervix or breast; or prostate cancer treated with systemic therapy (participants with a previous malignancy but without evidence of disease for 5 years were allowed to enter the study)\n* Prior systemic therapy for lung cancer. Prior radiation therapy or locoregional surgeries performed later than at least 3 weeks prior to randomization date were allowed.\n\n  * Grade 2 peripheral neuropathy (motor or sensory)\n* Known HIV or hepatitis B or C infection\n* Chronic use of immunosuppressants and/or systemic corticosteroids (used in the management of cancer or noncancer-related illnesses). However, use of corticosteroids was allowed if used as premedication for paclitaxel infusion or for treating immune-related adverse events or adrenal insufficiencies.\n* Inadequate hematologic function defined by an absolute neutrophil count \\<1,500/mm\\^3, a platelet count \\<100,000/mm\\^3, or hemoglobin level \\<9 g/dL.\n* Inadequate hepatic function defined by a total bilirubin level \\>2.0 times the upper limit of normal (ULN), or \u22652.5 times the ULN if liver metastases are present, aspartate aminotransferase and alanine aminotransferase levels \u22652.5 times the ULN or \u22655 times the ULN if liver metastases are present.\n* Inadequate renal function defined by a serum creatinine level \u22652.5 times the ULN\n* Inadequate creatinine clearance defined as less than 50 mL/min.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The John R. Marsh Cancer Center",
+      "city": "Hagerstown",
+      "state": "Maryland",
+      "zip": "21740",
+      "status": ""
+    },
+    {
+      "facility": "St. Mary Medical Center",
+      "city": "Langhorne",
+      "state": "Pennsylvania",
+      "zip": "19047",
+      "status": ""
+    },
+    {
+      "facility": "Guthrie Clinical Research",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Immune-related Progression-free Survival (irPFS) in Participants With Nonsmall-cell Lung Cancer (NSCLC) Per Immune-related Response Criteria (irRC)",
+      "timeFrame": "Tumor assessed at screening, every 6 weeks on treatment to Week 24, and every 12 weeks on maintenance until immune-related Progressive Disease (irPD) or death (of censored, maximum reached: 16.5 months)",
+      "description": "irPFS is defined as the time between the randomization date and date of immune-related Progressive Disease (irPD) (at least 25% increase percentage change in total tumor burden, including new lesions) or death, whichever occurs first. For patients with no recorded postbaseline tumor assessments, irPFS is censored at randomization. Participant who die without reported irPD are considered to have progressed on the date of death. For those who remain alive and have no irPD, irPFS is censored on the date of last evaluable tumor assessment. Independent review committee performed tumor assessment."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2008-02",
+  "completion_date": "2011-12",
+  "last_updated": "2018-06-18"
+}

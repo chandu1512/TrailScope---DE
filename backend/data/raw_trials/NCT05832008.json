@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT05832008",
+  "brief_title": "Increasing Adherence to Lung Cancer Screening",
+  "official_title": "Increasing Equitable Adherence to Annual Lung Cancer Screening and Diagnostic Follow-up",
+  "brief_summary": "Investigators are conducting a pragmatic randomized trial testing the effectiveness of patient and clinician nudge strategies on adherence to lung cancer screening (LCS) \\& diagnostic follow-up across eligible primary care clinicians \\& patients. Following the trial, a subsample of patients \\& clinicians will be invited to one-time semi-structured interview \\& survey to identify individual \\& system-level factors that may restrict or enhance the impact of strategies.",
+  "detailed_description": "Investigators will conduct a pragmatic clinical trial with a 2 x 2 factorial design with clinicians that provide care to screening-eligible patients who are overdue for annual screening or diagnostic evaluation. The specific nudge strategies to be tested are: 1) gain-framed messaging delivered via text messaging to prompt patient adherence to LCS guidelines (patient nudges); and 2) electronic health record (EHR) prompts alerting clinicians when their patients are due for annual screening or diagnostic follow-up (clinician nudges). The rationale for this study is that changing external stimuli to encourage adherence to evidence-based LCS guidelines will increase early detection of lung cancer by removing individual and system-level barriers to identifying and prompting patients who are due for care. The central hypothesis is that the combination of patient and clinician strategies will have the greatest effect on increasing adherence because it will target multilevel determinants of lung cancer screening identified in our prior research including limited screening knowledge and suboptimal EHR design. The proposed strategies are designed to support equitable implementation across diverse settings and populations.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 825,
+  "conditions": [
+    "Lung Cancer",
+    "Adherence, Patient"
+  ],
+  "interventions": [
+    {
+      "name": "Patient Nudge",
+      "type": "BEHAVIORAL",
+      "description": "Brief persuasive messaging to increase awareness about the importance of annual lung cancer screening and completion of recommended follow-up sent to patients via text message."
+    },
+    {
+      "name": "Clinician Nudge",
+      "type": "BEHAVIORAL",
+      "description": "EHR-based Prompts - an pended order and message that alerts a clinician if a patient is due for screening or diagnostic follow-up."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nClinicians will be eligible if they:\n\n1. are practicing primary care or specialty care physicians at a recruiting site within the University of Pennsylvania Health System;\n2. care for patients who completed LCS via LDCT in 2019-2023; and\n3. do not opt-out of study participation.\n\nPatients will be eligible if they:\n\n1. are eligible for LCS based on 2021 US Preventive Services Task Force (USPSTF) population guidelines (aged 50-80; smoking history of 20-pack years; smoked within the last 15 years)\n2. completed LCS via LDCT in 2019-2023;\n3. have not been diagnosed with lung cancer;\n4. meet criteria for non-adherence;\n5. remain eligible for LCS during the trial enrollment period; and\n6. receive LCS care from a clinician that has not opted-out of study participation\n\nExclusion Criteria:\n\nPatients will be excluded if they:\n\na) have a highly suspicious baseline LDCT (Lung-RADS 4B/X) given the presence of existing clinical pathways to ensure adherence in this group",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of completed annual LCS in patients with a negative baseline screen (Lung Imaging Reporting and Data System (Lung-RADS) 1 or 2).",
+      "timeFrame": "Initial measurement will occur 3 months after randomization",
+      "description": "Number of completed low-dose computed tomography (LDCT) scans among adults who are due for annual screening based on evidence-based guidelines."
+    },
+    {
+      "measure": "Number of completed recommended diagnostic follow-up scans or procedures in patients with a positive baseline screen (Lung-RADS 3 or 4a).",
+      "timeFrame": "Initial measurement will occur 3 months after randomization",
+      "description": "Completion of recommended diagnostic follow-up scans or procedures among adults with positive baseline LDCT scan."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "National Comprehensive Cancer Network",
+    "AstraZeneca"
+  ],
+  "start_date": "2023-10-18",
+  "completion_date": "2026-06-01",
+  "last_updated": "2026-01-25"
+}

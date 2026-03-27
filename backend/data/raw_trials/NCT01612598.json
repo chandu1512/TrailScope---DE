@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT01612598",
+  "brief_title": "Palliative Care Intervention in Patients With Solid Tumors Participating in Phase I Clinical Trials",
+  "official_title": "Feasibility of a Palliative Care Intervention for Patients on Phase 1 Clinical Trials",
+  "brief_summary": "Patients enrolled in phase I clinical trials could potentially benefit from palliative care concurrently, yet limited evidence is available to support such a change in care. The primary purpose of this study is to test the feasibility of a palliative care intervention (PCI) for patients participating in a phase I therapeutic clinical trial",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. Describe the feasibility of implementing a PCI for patients on phase I clinical trials (study accrual and retention).\n\nII. Describe the initial impact of a PCI on key patient outcome measures (quality of life \\[QOL\\], psychological distress, satisfaction with communication, symptom intensity, symptom distress, and patient satisfaction) over time.\n\nOUTLINE:\n\nPCI PART I: Patients undergo comprehensive palliative care (PC) assessment based on baseline data and complete goals of care discussion.\n\nPCI PART II: Following the first dose of phase I investigational treatment, patients meet with the interdisciplinary team (IDT), where PC recommendations are made. This is followed by two patient educational sessions that will cover QOL-related domains, including physical, social, emotional, and spiritual well-being. Supportive care referrals are made based on IDT recommendations.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 16,
+  "conditions": [
+    "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "interventions": [
+    {
+      "name": "counseling intervention",
+      "type": "OTHER",
+      "description": "Undergo PCI"
+    },
+    {
+      "name": "quality-of-life assessment",
+      "type": "PROCEDURE",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "questionnaire administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    },
+    {
+      "name": "educational intervention",
+      "type": "OTHER",
+      "description": "Undergo PCI"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients diagnosed with solid tumors who are being assessed for participation in phase I clinical trials of investigational cancer therapies\n* Able to read or understand English\n* Ability to read and/or understand the study protocol requirements, and provide written informed consent\n\nExclusion Criteria:\n\n* Patient diagnosed with hematologic or brain cancers",
+    "gender": "ALL",
+    "min_age": "21 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Study accrual and retention",
+      "timeFrame": "8 weeks",
+      "description": ""
+    },
+    {
+      "measure": "Change in psychological distress assessed using Distress Thermometer",
+      "timeFrame": "Baseline to 8 weeks",
+      "description": "One-way repeated measure of Analysis of Covariance (ANCOVA), controlling for baseline scores and testing for within subjects change over time (4 weeks and 8 weeks) will be conducted to examine the PCI's impact on each of the outcome measures."
+    },
+    {
+      "measure": "Change in satisfaction with communication assessed using Satisfaction with Communication Tool",
+      "timeFrame": "Baseline to 8 weeks",
+      "description": "One-way repeated measure of ANCOVA, controlling for baseline scores and testing for within subjects change over time (4 weeks and 8 weeks) will be conducted to examine the PCI's impact on each of the outcome measures."
+    },
+    {
+      "measure": "Change in QOL using Functional Assessment of Cancer Therapy- General (FACT-G) and Functional Assessment of Chronic Illness Therapy- Spirituality (FACT-Sp-12)",
+      "timeFrame": "Baseline to 8 weeks",
+      "description": "Multivariate ANCOVAs (MANCOVAs) will be used at 4 and 8 weeks to examine the PCI's impact on QOL and symptom intensity and distress due to the multiple subscales in these two instruments."
+    },
+    {
+      "measure": "Change in symptom intensity and distress using Memorial Symptom Assessment Scale (MSAS)",
+      "timeFrame": "Baseline to 8 weeks",
+      "description": "MANCOVAs will be used at 4 and 8 weeks to examine the PCI's impact on QOL and symptom intensity and distress due to the multiple subscales in these two instruments."
+    }
+  ],
+  "sponsor": "City of Hope Medical Center",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2012-07",
+  "completion_date": "2014-01",
+  "last_updated": "2014-01-29"
+}

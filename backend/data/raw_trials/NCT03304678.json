@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT03304678",
+  "brief_title": "Discovery of Sirolimus Sensitive Biomarkers in Blood",
+  "official_title": "Discovery of Sirolimus Sensitive Biomarkers in Blood",
+  "brief_summary": "Background:\n\nLymphangioleiomyomatosis (LAM) is a rare, progressive disease. It usually affects women in the prime of their lives. It typically results in lung destruction. Studies have shown that a drug called sirolimus stabilizes lung function in people with LAM. But researchers do not know what drug dose and blood serum levels are needed to reach this stability. Researchers want to learn more about the right dose of sirolimus for people with LAM.\n\nObjective:\n\nTo determine if blood and urine markers after 1 dose and again after 9 months can be used to evaluate the correct dose of sirolimus for people with LAM.\n\nEligibility:\n\nWomen ages 18-90 with LAM whose doctors have decided they should start taking sirolimus to treat it.\n\nDesign:\n\nAt visit 1, participants will take their first dose of sirolimus by mouth at the clinic. They will have blood and urine collected.\n\nParticipants will take 1 tablet of the study drug each day.\n\nVisit 2 will be 3 months after visit 1. Participants will have blood and urine collected.\n\nVisit 3 will be 9 months after visit 1. Participants will have blood and urine collected.\n\nParticipant samples will be stored in a secure place. No personal data will be connected to them.",
+  "detailed_description": "Sirolimus (rapamycin), which acts as a targeted inhibitor of the protein mechanistic target of rapamycin (mTOR), has been shown to be effective in patients with lymphangioleiomyomatosis (LAM). It stabilizes lung function, resolves chylous effusions and lymphangioleiomas and shrinks angiomyolipomas. The current study is to understand better the short-term action of the drug by following the effects on potential biomarkers in blood and urine. Patients with LAM will have samples taken prior to administration of first dose of the drug, at 1 hr and then at 23 hours after the drug (trough level). At 3 and 9 months, samples will be obtained at trough and 1 hour after the dose. Molecular and cellular analyses will be performed to look for potential biomarkers.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 33,
+  "conditions": [
+    "Lymphangioleiomyomatosis"
+  ],
+  "interventions": [
+    {
+      "name": "Sirolimus 2mg",
+      "type": "DRUG",
+      "description": "Patients with LAM, whose treating physicians have decided that they need to start treatment with sirolimus will be referred to the NIH Clinical Center for these studies."
+    }
+  ],
+  "eligibility": {
+    "criteria": "INCLUSION CRITERIA\n\n* Female 18 to 90 years of age\n* Diagnosis of LAM\n* Initiation of sirolimus therapy (2mg daily) based on standard-of-care pulmonary indications and the advice of the patient s local physician\n\nEXCLUSION CRITERIA\n\n* Unable to travel to the NIH\n* Unable to provide informed consent\n* Advanced stage of a pulmonary or a systemic illness in which the risk of the study is judged to be significant even in the absence of a clear contraindication to the procedures\n* Women who are pregnant or lactating",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "90 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "National Institutes of Health Clinical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Sirolimus-Sensitive Plasma Protein Biomarkers in Lymphangioleiomyomatosis (LAM) Participants",
+      "timeFrame": "Day 0 (pre-treatment, 1 hour post-Sirolimus, 23 hours post-Sirolimus), Month 3 (23 hours post-Sirolimus, 1 hour post next dose), Month 9 (23 hours post-Sirolimus, 1 hour post next dose)",
+      "description": "Plasma from Lymphangioleiomyomatosis (LAM) participants was profiled using the aptamer-based Somascan 11k assay (Somalogic). The primary outcome is the number of plasma proteins that exhibit a statistically significant change from each participant's baseline following sirolimus administration, defined by pre-specified multiplicity-adjusted thresholds (e.g., FDR q\\<0.05 with absolute log2 fold-change \u22650.5), representing candidate sirolimus-sensitive biomarkers."
+    }
+  ],
+  "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+  "collaborators": [],
+  "start_date": "2017-12-04",
+  "completion_date": "2025-03-14",
+  "last_updated": "2026-02-02"
+}

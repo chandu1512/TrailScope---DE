@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT00540514",
+  "brief_title": "Albumin-bound Paclitaxel (ABI-007) for Patients With Advanced Non-Small Cell Lung Cancer",
+  "official_title": "A Randomized, Phase III Trial of ABI-007 and Carboplatin Compared With Taxol and Carboplatin as First-Line Therapy in Patients With Advanced Non-Small Cell Lung Cancer (NSCLC)",
+  "brief_summary": "The purpose of this study is to compare disease response of Albumin-bound paclitaxel (ABI-007) plus Carboplatin versus Taxol and Carboplatin as first-line therapy in patients with advanced non-small cell lung cancer (NSCLC).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1052,
+  "conditions": [
+    "Non-Small Cell Lung Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Albumin-bound paclitaxel",
+      "type": "DRUG",
+      "description": "Administered by intravenous infusion."
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "Administered by intravenous infusion."
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Administered by intravenous infusion. Dosing was based on the Calvert formula: carboplatin dose (mg) = (Target AUC) x (glomerular filtration rate \\[GFR\\] + 25). For the purposes of this protocol, the GFR is considered to be equivalent to creatinine clearance (calculated by the method of Cockcroft and Gault, 1976)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed stage IIIB or IV non-small cell lung cancer (NSCLC)\n* Male or non-pregnant and non-lactating female, and equal or greater than age 18\n\n  * If a female patient is of child-bearing potential, as evidence by regular menstrual periods, she must have a negative serum pregnancy test (beta human chorionic gonadotropin \\[\u03b2hCG\\]) documented within 72 hours of the first administration of study drug\n  * If sexually active, the patient must agree to utilize contraception considered adequate and appropriate by the investigator\n* No other current active malignancy\n* Radiographically-documented measurable disease (defined by the presence of at least 1 radiographically documented measurable lesion)\n* Patients must have received no prior chemotherapy for the treatment of metastatic disease. Adjuvant chemotherapy permitted providing cytotoxic chemotherapy was completed 12 months prior to starting the study\n* Patient has the following blood counts at baseline:\n\n  * Absolute neutrophil count (ANC) greater than or equal to 1.5x10\\^9/L\n  * Platelets greater than or equal to 100x10\\^9/L\n  * Hemoglobin (Hgb) greater than or equal to 9 g/dL\n* Patient has the following blood chemistry levels at baseline:\n\n  * Aspartate aminotransferase (SGOT), alanine aminotransferase (SGPT) less than or equal to 2.5 x upper limit of normal range (ULN) or less than or equal to 5.0 x ULN if liver metastases;\n  * Total bilirubin less than or equal to ULN\n  * Creatinine less than or equal to 1.5 mg/dL\n* Expected survival of greater than 12 weeks\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Patient or his/her legally authorized representative or guardian has been informed about the nature of the study, and has agreed to participate in the study, and signed the Informed Consent form prior to participation in any study-related activities\n\nExclusion Criteria:\n\n* Evidence of active brain metastases, including leptomeningeal involvement. Prior evidence of brain metastasis permitted only if treated and stable and off therapy for greater than or equal to 1 month\n* The only evidence of disease is non-measurable\n* Patient has pre-existing peripheral neuropathy of Grade 2, 3, or 4 (per Common Terminology Criteria for Adverse Events \\[CTCAE\\] Version 3).\n* Patient received radiotherapy in the last 4 weeks, except if to a non-target lesion only. Prior radiation to a target lesion is permitted only if there has been clear progression of the lesion since radiation was completed\n* Patient has a clinically significant concurrent illness\n* Patient has received treatment with any investigational drug within the previous 4 weeks\n* Patient has a history of allergy or hypersensitivity to any of the study drugs\n* Patient has serious medical risk factors involving any of the major organ systems such that the investigator considers it unsafe for the patient to receive an experimental research drug\n* Patient is enrolled in any other clinical protocol or investigational trial that involves administration of experimental therapy and/or therapeutic devices.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Mercy Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21202",
+      "status": ""
+    },
+    {
+      "facility": "Essex Oncology of North Jersey",
+      "city": "Belleville",
+      "state": "New Jersey",
+      "zip": "07109",
+      "status": ""
+    },
+    {
+      "facility": "St. Mary Medical Center- Oncology, Hematology PC",
+      "city": "Langhorne",
+      "state": "Pennsylvania",
+      "zip": "19047",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants Who Achieved an Objective Confirmed Complete Response or Partial Response by Blinded Radiology Assessment",
+      "timeFrame": "Objective response was evaluated every 6 weeks until progression or new anti-cancer therapy initiation, up to 22 months.",
+      "description": "Antitumor response was defined as the percentage of participants who achieved an objective response (Confirmed Response \\[CR\\] or Partial Response \\[PR\\]), confirmed by repeat assessments performed no less than 4 weeks after the criteria for response were first met. Response was based on the blinded radiological review using Response Evaluation Criteria in Solid Tumors (RECIST) response guidelines, Version 1.0.\n\nA complete response was defined as a disappearance of all target and non-target lesions and no new lesions.\n\nPartial response was defined as \u2265 30% decrease in the sum of the longest diameters (SLD) of target lesions, taking as reference the baseline SLD, and the persistence of one or more non-target lesions not qualifying for CR or Progressive Disease (the \"unequivocal progression\" of existing non-target lesion(s) or appearance of one or more new lesions)."
+    }
+  ],
+  "sponsor": "Celgene",
+  "collaborators": [],
+  "start_date": "2007-11-01",
+  "completion_date": "2013-02-01",
+  "last_updated": "2019-10-16"
+}

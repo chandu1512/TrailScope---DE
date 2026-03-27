@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT01352429",
+  "brief_title": "Mild Hypofractionation With Proton Therapy or IMRT for Intermediate-Risk Prostate Cancer",
+  "official_title": "A Phase II Trial of Proton Radiation Therapy or Intensity-Modulated Radiation Therapy Using Mild Hypofractionation for Low-and Intermediate -Risk Adenocarcinoma of the Prostate",
+  "brief_summary": "This is a study to first establish feasibility of the study and then to register the treatment data of adult patients with a diagnosis of intermediate risk of prostate cancer presenting for definitive radiation treatment with either proton radiotherapy or Intensity Modulated Radiation Therapy (IMRT). The investigators propose to employ a hypofractionated strategy with our image guided treatment to further improve cancer control and decrease toxicity.",
+  "detailed_description": "This study will be done in two phases, first, a feasibility study and then a registration study. In the first, feasibility will be established using the primary objectives set below. The second phase will begin no earlier than 30 days after the last patient in the initial phase has completed treatment and once safety and feasibility has been verified. The secondary objectives will serve as the objectives for the second phase of the study.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 303,
+  "conditions": [
+    "Prostate Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Proton Therapy",
+      "type": "RADIATION",
+      "description": ""
+    },
+    {
+      "name": "IMRT",
+      "type": "RADIATION",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\n* Histologically confirmed prostate adenocarcinoma within 365 days of registration.\n* Clinical stages T1a-T2c N0 M0 (AJCC Criteria 6th Ed). For any suspicious pelvic lymph node \\> 1.5cm (as exhibited on pelvic imaging), biopsy of the lymph node is suggested.\n* Histological evaluation of prostate biopsy with assignment of a Gleason score to the biopsy material; Gleason score must be in the range 2-7. Biopsy with \\> 6 cores is strongly recommended. (The highest Gleason Score in any core reported on the pathology report will be used for determining inclusion.)\n* PSA values \\<20 ng/ml within 90 days prior to registration, and done either prior to prostate biopsy, or at least 21 days after prostate biopsy.\n* Zubrod (ECOG) status 0-1 documented within 90 days of registration.\n* Androgen deprivation is at the discretion of the treating radiation oncologist.\n* Subjects must give IRB-approved study-specific informed consent. Subjects must complete all required tests within the specified time frames.\n* Subjects must be at least 18 years old.\n* Members of all races and ethnic groups are eligible for this trial.\n\nExclusion Criteria\n\n* Clinical stages T3 or greater (AJCC Criteria 6th Ed).\n* PSA of 20 ng/ml or greater.\n* Gleason score 8 or higher.\n* Evidence of distant metastasis. (Determined by CT scan, MRI, and/or bone scan prior to the simulation appointment; imaging results from UPHS will supercede results from similar scans from an outside facility.)\n* Evidence of lymph node involvement.\n* Previous prostate cancer surgery to include: prostatectomy, hyperthermia, and cryosurgery.\n* Previous pelvic radiation for prostate cancer.\n* Active rectal diverticulitis, Crohn's disease, or ulcerative colitis.\n* Prior systemic chemotherapy for prostate cancer.\n* History of proximal urethral stricture requiring dilatation.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Walter Reed National Military Medical Center",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20889",
+      "status": ""
+    },
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants with Adverse Events",
+      "timeFrame": "Within 10 days",
+      "description": "Unable to tolerate 10% of treatments using proton radiotherapy. Unable to complete all treatments. Cannot be given treatment because anatomy is such that a dosimetrically satisfactory treatment plan cannot be devised."
+    },
+    {
+      "measure": "Acute Toxicity",
+      "timeFrame": "Within 60 days of completion of radiotherapy",
+      "description": "Any grade 2 or higher GI or GU toxicity, other than GI or GU toxicity or any grade 3 or higher toxicity, other than GI or GU. In the feasibility phase of this trial, the observation window for acute toxicty is extended to 60 days from completion of radiotherapy, as a feasibility precaution."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [],
+  "start_date": "2009-08",
+  "completion_date": "2026-12",
+  "last_updated": "2025-07-15"
+}

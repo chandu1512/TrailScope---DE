@@ -1,0 +1,60 @@
+{
+  "nct_id": "NCT04330833",
+  "brief_title": "Informational Meetings for Planning and Coordinating Treatment",
+  "official_title": "Informational Meetings for Planning and Coordinating Treatment",
+  "brief_summary": "This prospective cluster-randomized trial examines the efficacy of a novel communication intervention delivered by trained physician and nurse dyads to parents of children with cancer within the clinicians' practice, to foster alignment of the goals of treatment. The investigators hypothesize that goal alignment will improve quality of life outcomes, in particular for those patients who reach end of life. Findings from the proposed research will provide essential information to promote communication practice standards that can be rapidly translated into practice to improve outcomes for children, particularly those who reach end of life, and parents.",
+  "detailed_description": "The overall objective of this study is to evaluate the efficacy of a novel communication intervention on quality of life outcomes in children with high-risk cancer. The intervention includes a series of tailored discussions delivered by the child's primary physician/nurse dyad that begins at diagnosis, and integrates visual aids to facilitate conversations with parents about prognosis, hopes, and goals-of-care across the cancer continuum. The central hypothesis is that the intervention will foster alignment of goals of care between providers and parents across the cancer continuum, leading to improved quality of life outcomes. Outcomes include: Enrollment in home hospice care, high-intensity medical interventions, child pain and emotional distress, parental hope, parental uncertainty and distress.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 111,
+  "conditions": [
+    "End of Life",
+    "Communication",
+    "Cancer Metastatic"
+  ],
+  "interventions": [
+    {
+      "name": "Novel Communication Intervention",
+      "type": "OTHER",
+      "description": "The intervention is a series of 3 guided discussions (using visual aids) between the child's primary oncology physician/nurse team and the child's parent(s) with the purpose of improving parental comprehension of the options for goals of treatment, along with the benefits and burdens of each option."
+    },
+    {
+      "name": "Enhanced Usual Care Parent Education",
+      "type": "OTHER",
+      "description": "The Enhanced Usual Care Parent Education is a series of 3 discussions between the child's primary oncology nurse and the child's parent(s) designed to control for time and attention. These discussions are focused on answering parents' questions and reviewing routine disease and treatment related information. Parents will receive a 1-hour face-to-face session every 3-4 months for a total of 3 sessions. At each session, parents choose 2-3 topics to review with the nurse."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Child 1 month to \\< 18 years\n* Child newly diagnosed, i.e., within 16 weeks (112 days) from time of diagnosis of cancer not including the day of diagnosis, OR\n* Child with relapsed cancer, defined as within 16 weeks (112 days) of first-time relapse/evidence of progression of disease as noted by scan or biopsy after previous diagnosis of cancer.\n* Child provide assent if age \u2265 7 years\n* Poor prognosis, i.e., approximate \\< 25 % estimated overall survival or at the discretion of the attending AND/OR:\n* Falls into one of the following diagnosis categories, including but not limited to:\n\n  * Atypical teratoid rhabdoid tumor\n  * Glioblastoma multiforme\n  * Diffuse intrinsic brainstem glioma\n  * Embryonal tumors with multilayered rosettes\n  * Other high-grade glioma\n  * Gliomatosis cerebri\n  * Metastatic osteosarcoma\n  * Metastatic Ewing sarcoma\n  * Metastatic rhabdomyosarcoma\n  * Metastatic desmoplastic small round cell tumor (DSRCT)\n  * Other metastatic sarcoma/carcinoma-at discretion of attending\n  * Metastatic unknown primary- or rare pathology- at discretion of attending\n* Parent(s) legal decision-maker(s) for child\n* Parent(s) \u226518 years of age\n* Parent (s) Informed of child's cancer diagnosis\n* Parent(s) Able to read, speak and understand English\n* Must be willing to be audio recorded during all study sessions.\n\nExclusion Criteria:\n\n* The parent has neurological/cognitive impairments likely to interfere with study participation;\n* The child \u2265 7 years of age does not provide assent\n* Parent refuses to be audio recorded during sessions.",
+    "gender": "ALL",
+    "min_age": "1 Month",
+    "max_age": "17 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Nemours Children's Health",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19803",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Impact of Novel Communication Intervention on number of days enrolled in hospice in children with cancer and estimated 5-year survival < 25%",
+      "timeFrame": "Within 12 months of death",
+      "description": "We will compare days enrolled in hospice between the Novel Communication Intervention vs Enhanced Usual Care Parent Education groups using a Wilcoxon Rank Sum Test for clustered data."
+    }
+  ],
+  "sponsor": "Indiana University",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2020-12-08",
+  "completion_date": "2025-07-31",
+  "last_updated": "2025-12-01"
+}

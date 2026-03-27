@@ -1,0 +1,91 @@
+{
+  "nct_id": "NCT00003282",
+  "brief_title": "EF5 in Treating Patients With Solid Tumors",
+  "official_title": "Phase I Trial of EF5, an Agent for the Detection of Hypoxia",
+  "brief_summary": "Diagnostic procedures using the drug EF5 to detect the presence of oxygen in tumor cells may help to plan effective treatment for solid tumors. This phase I trial is studying how well EF5 works in detecting the presence of oxygen in tumor cells in patients with solid tumors that can be biopsied or removed by surgery",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. Determine the optimal dose of etanidazole derivative EF5 that is safely tolerated and provides optimal signal-to-noise ratio in patients with solid tumors.\n\nII. Determine the toxic effects of EF5 in this patient population. III. Determine the pharmacokinetics of EF5 in this patient population. IV. Determine the dose of EF5 that provides a mean signal-to-noise ratio (maximum binding in anoxia to minimum binding) of 75.\n\nV. Determine the relationship between tumor oxygenation by EF5 binding and needle electrode measurements.\n\nVI. Compare the levels of EF5 binding in regions of low and high blood flow.\n\nOUTLINE: This is a dose-escalation study.\n\nPatients receive etanidazole derivative EF5 IV over 1-2 hours beginning approximately 24 hours prior to surgery. Tumors are then resected or biopsied after Eppendorf needle electrode measurements.\n\nCohorts of 6 patients receive escalating doses of EF5 until the maximum tolerated dose (MTD) or optimal dose is determined. The MTD is defined as the dose preceding that at which 2 or more patients experience dose-limiting toxicity. The optimal dose is defined as the dose level at or below the MTD and results in a signal-to-noise ratio of 75 or greater. Thirty additional patients are treated at the optimal dose.\n\nPatients are followed at 30-45 days post EF5 infusion.\n\nPROJECTED ACCRUAL: A total of 50 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "interventions": [
+    {
+      "name": "EF5",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "therapeutic conventional surgery",
+      "type": "PROCEDURE",
+      "description": "Undergo resection"
+    },
+    {
+      "name": "biopsy",
+      "type": "PROCEDURE",
+      "description": "Undergo biopsy"
+    },
+    {
+      "name": "pharmacological study",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed tumor or highly suspicious cancerous mass based on imaging and clinical signs but not indicative of a direct biopsy/cellular diagnosis preceding surgery\n* Must have a clinical condition or physiologic status which demonstrates that the appropriate or standard initial therapy for the tumor is surgical biopsy or resection\n* Performance status - ECOG 0-2\n* Life expectancy not specified\n* WBC greater than 2,000/mm\\^3\n* Platelet count greater than 100,000/mm\\^3\n* Bilirubin less than 2.0 mg/dL\n* Creatinine less than 2.0 mg/dL\n* Creatinine clearance greater than 50 mL/min\n* No significant cardiac disease that would preclude the safe use of general anesthesia\n* No significant pulmonary disease that would preclude the safe use of general anesthesia\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for 1 month after study\n* No history of grade III or IV peripheral neuropathy\n* See Disease Characteristics",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Abramson Cancer Center of The University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Pharmacokinetics parameters including estimation of Cmax, half-life, and area under the time-concentration curve (AUC)",
+      "timeFrame": "Pre-dose, 1, 24, and 28 hours",
+      "description": ""
+    },
+    {
+      "measure": "Acute toxicity graded by NCI/DCTDC Common Toxicity Criteria",
+      "timeFrame": "Up to 24 hours",
+      "description": ""
+    },
+    {
+      "measure": "Late toxicity graded by NCI/DCTDC Common Toxicity Criteria",
+      "timeFrame": "Up to 28 days",
+      "description": ""
+    },
+    {
+      "measure": "Dose-limiting toxicity defined as any grade III or higher toxicity",
+      "timeFrame": "Up to 45 days",
+      "description": ""
+    },
+    {
+      "measure": "Acceptable signal-to-noise ratio (75 or above)",
+      "timeFrame": "Up to 45 days",
+      "description": ""
+    },
+    {
+      "measure": "Safe and effective dose defined as the dose at which less than 2 of 6 patients have dose-limiting acute or late toxicity and the mean value of signal-to-noise ratio is greater than or equal to 75",
+      "timeFrame": "Up to 45 days",
+      "description": ""
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "1998-03",
+  "completion_date": "",
+  "last_updated": "2013-01-15"
+}

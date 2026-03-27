@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT04208958",
+  "brief_title": "Study of VE800 and Nivolumab in Patients With Selected Types of Advanced or Metastatic Cancer",
+  "official_title": "Phase 1 Study of VE800 and Nivolumab in Patients With Selected Types of Advanced or Metastatic Cancer",
+  "brief_summary": "This study evaluated the safety and efficacy of VE800 in combination with nivolumab in patients with selected types of advanced or metastatic cancer",
+  "detailed_description": "CONSORTIUM-IO was the first-in-human multicenter, open-label study; the main objectives were to evaluate:\n\n* Safety and tolerability of VE800 in combination with nivolumab\n* Efficacy as measured by objective response rate\n\nThe study planned to enroll approximately 111 patients with melanoma, gastric/gastroesophageal junction (GEJ) adenocarcinoma, or microsatellite-stable (MSS) colorectal cancer (CRC).\n\nNivolumab is already approved by the U.S. Food and Drug Administration (FDA), however, it is not approved for the study cancer indications. VE800 was the investigational product, which was designed to enhance the immune response to the tumor.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 56,
+  "conditions": [
+    "Metastatic Cancer",
+    "Melanoma",
+    "Gastric Cancer",
+    "Gastroesophageal Junction Adenocarcinoma",
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "VE800",
+      "type": "BIOLOGICAL",
+      "description": "VE800 is an orally administered (PO) live biotherapeutic product (LBP) consisting of 11 distinct nonpathogenic, nontoxigenic, commensal bacterial strains manufactured under Good Manufacturing Practice (GMP) conditions. These strains were selected for their ability to induce an immune response."
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Nivolumab is an approved medication that blocks antibodies for certain types of cancer."
+    },
+    {
+      "name": "Vancomycin Oral Capsule",
+      "type": "DRUG",
+      "description": "Vancomycin is an antibiotic used to treat or prevent infection."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Partial Inclusion Criteria:\n\n* Patients with advanced or metastatic cancer who had received no more than 3 lines of prior systemic therapy for advanced/metastatic disease.\n* Histologically diagnosed advanced (unresectable) or metastatic cancer with at least one measurable lesion as per RECIST 1.1\n* Tumor lesions amenable for biopsy, if deemed safe by the investigator\n* Toxicity from prior cancer therapy should have resolved to Common Terminology Criteria for Adverse Events (CTCAE) Grade \u2264 1 (excluding alopecia and neuropathy, where up to Grade 2 residual was allowed)\n\nPartial Exclusion Criteria:\n\n* Prior treatment with immune checkpoint inhibitor (iCPI) (Note: this criterion did not apply to patients with melanoma)\n* Receipt of any conventional or investigational systemic anti-cancer therapy within 21 days prior to the first dose of vancomycin\n* Concurrent chemotherapy, immunotherapy, biologic, or hormonal anti-cancer therapy. Agents such as bisphosphonates or denosumab were acceptable as prophylaxis for bone metastasis.\n* Patients must not have received a transfusion (platelets or red blood cells) within 4 weeks of the first dose of study treatment\n* Patients with an active, known or suspected autoimmune disease. Patients with type I diabetes mellitus, hypothyroidism only requiring hormone replacement, skin disorders (such as vitiligo, psoriasis, or alopecia) not requiring systemic treatment were permitted to enroll.\n* Patients with known active hepatitis (e.g., hepatitis B or C) NOTE: Patients with previously treated hepatitis B or C were permitted to enroll if there was evidence of documented resolution of infection.\n* Received a fecal transplant, spore or other preparation of fecal material, isolated bacterial products, genetically modified bacteria, or VE800",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "John Theurer Cancer Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety and Tolerability of VE800 in Combination With Nivolumab: Number of Participants With Adverse Events",
+      "timeFrame": "From the first dose to the last dose (up to 56.7 weeks), plus 100 days of post-treatment follow-up",
+      "description": "Safety and tolerability of VE800 in combination with nivolumab: Number of Participants with Adverse Events"
+    },
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "timeFrame": "18 months (first patient enrolled to last patient visit completed)",
+      "description": "Objective Response Rate (ORR) Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \\>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR."
+    }
+  ],
+  "sponsor": "Vedanta Biosciences, Inc.",
+  "collaborators": [
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2020-01-23",
+  "completion_date": "2023-02-23",
+  "last_updated": "2025-09-30"
+}

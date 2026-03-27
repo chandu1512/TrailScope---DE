@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT01663857",
+  "brief_title": "A Study LY2228820 for Recurrent Ovarian Cancer",
+  "official_title": "A Randomized, Double-Blind, Placebo-Controlled Phase 1b/2 Study of LY2228820, a p38 MAPK Inhibitor, Plus Gemcitabine and Carboplatin Versus Gemcitabine and Carboplatin for Women With Platinum-Sensitive Ovarian Cancer",
+  "brief_summary": "A study for women with ovarian cancer that has returned at least 6 months after platinum-based chemotherapy.",
+  "detailed_description": "Phase 1b is unblinded and will have a small number of participants that will take LY2228820 plus gemcitabine and carboplatin to test the safety of the combination and determine a recommended dose for the Phase 2 portion.\n\nPhase 2 will be blinded and all study participants will receive carboplatin and gemcitabine. Participants of one group will receive LY2228820, and the other group will receive placebo.\n\nIf the participant achieves at least stable disease, there is a maintenance phase following the first 6 cycles. The participant will take either LY2228820 or placebo. The participant will continue therapy until disease progression or other discontinuation criteria are fulfilled.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 118,
+  "conditions": [
+    "Epithelial Ovarian Cancer",
+    "Fallopian Tube Cancer",
+    "Primary Peritoneal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "LY2228820",
+      "type": "DRUG",
+      "description": "Administered Orally"
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": "Administered IV"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Administered Orally"
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Administered IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have been diagnosed with ovarian, fallopian tube, or primary peritoneal cancer\n* Have been treated one time with a platinum-based chemotherapy and your disease has come back at least six months after you completed treatment\n* Are able to swallow tablets\n* Have given written informed consent prior to any study procedures\n* Have adequate blood counts, hepatic and renal function\n* Have performance status equal to or less than 2 on Eastern Cooperative Oncology Group (ECOG) scale\n* Have negative pregnancy test, and if participant is of child bearing potential must use birth control while on study and for three months after stopping study drug\n\nExclusion Criteria:\n\n* Have been previously treated with Gemcitabine for ovarian, fallopian tube or primary peritoneal cancer\n* Are currently enrolled or discontinued less than 14 days from another clinical trial\n* Have a history of inflammatory bowel disease (Crohn's disease or ulcerative colitis)\n* Have taken certain medications or had grapefruit juice within 7 days of initial dose of study drug, as levels of the study drug may be affected.\n* Must not be pregnant or breastfeeding.\n* Have malignancy or metastasis of the central nervous system\n* Have borderline malignancy",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Franklin Square Hospital Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Phase 1b: Recommended Phase 2 Dose of LY2228820 in Combination With Gemcitabine and Carboplatin (Maximum Tolerated Dose [MTD])",
+      "timeFrame": "Cycle 1 (21 Days)",
+      "description": "Recommended Phase 2 dose of LY2228820 that could be safely administered in combination with gemcitabine and carboplatin based on defined dose limiting toxicities (DLT) assessment and MTD definition. The MTD is defined as the highest dose level at which no more than 33% of patients experience a DLT during Cycle 1 that does not exceed the single-agent MTD for LY2228820 (300 mg Q12H)."
+    },
+    {
+      "measure": "Phase 2: Progression-free Survival (PFS) in Participants Treated With LY2228820 Plus Gemcitabine and Carboplatin Versus Placebo Plus Gemcitabine and Carboplatin",
+      "timeFrame": "Randomization to Date of Disease Progression or Death from any cause (up to 3 years)",
+      "description": "PFS was defined as time from date of randomization to the date of investigator-determined objective progression as defined by Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 or death due to any cause, whichever occurred first. Progressive disease (PD) is defined as at least a 20% increase in the sum of the largest diameter (LD) of target lesions, taking as reference the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2012-07",
+  "completion_date": "2018-05-11",
+  "last_updated": "2019-08-28"
+}

@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT04751747",
+  "brief_title": "Adaptive Radiation Planning for the Reduction of Radiation-Induced Toxicity in Patients With Stage II-IV Non-small Cell Lung Cancer",
+  "official_title": "The Role of Adaptive Radiation Planning in Patients With Non-Small Cell Lung Cancer on Radiation Induced Toxicity",
+  "brief_summary": "This phase II trial studies the effect of adaptive radiation planning in reducing side effects associated with radiation treatment and immunotherapy in patients with stage II-IV non-small cell lung cancer. Prior to radiation, patients undergo simulation, where they are positioned on the treatment table in a manner that can be reproduced each time they receive treatment in order to reach the tumor exactly at the same spot each time. However, a patient's tumor may shrink as they receive radiation, exposing healthy tissue to radiation as well. Adaptive radiation planning involves re-designing a treatment plan at set intervals. The purpose of this study is to see whether establishing set time points through adaptive radiation planning, regardless of whether the doctor notices a significant decrease in tumor size, will reduce some of the side effects associated with radiation treatment and immunotherapy.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate whether implementing set intervals for radiation replanning reduces cardiopulmonary toxicity and preserves healthy lung and heart tissue, with the intention of establishing a new standard treatment modality.\n\nOUTLINE:\n\nPatients undergo computed tomography (CT) stimulation with or without intravenous (IV) contrast over 1.5 hours on days -15 to -1, then undergo standard of care (SOC) chemoradiation on days 1-40. Patients also undergo additional CT scan simulations without IV contrast over 20 minutes each on days 15 and 29.\n\nAfter completion of study, patients are followed up at 3-12 weeks, and then every 6 months for approximately 2 years.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 34,
+  "conditions": [
+    "Locally Advanced Lung Non-Small Cell Carcinoma",
+    "Metastatic Lung Non-Small Cell Carcinoma",
+    "Stage II Lung Cancer AJCC v8",
+    "Stage IIA Lung Cancer AJCC v8",
+    "Stage IIB Lung Cancer AJCC v8",
+    "Stage III Lung Cancer AJCC v8",
+    "Stage IIIA Lung Cancer AJCC v8",
+    "Stage IIIB Lung Cancer AJCC v8",
+    "Stage IIIC Lung Cancer AJCC v8",
+    "Stage IV Lung Cancer AJCC v8",
+    "Stage IVA Lung Cancer AJCC v8",
+    "Stage IVB Lung Cancer AJCC v8",
+    "Unresectable Lung Non-Small Cell Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Computed Tomography",
+      "type": "PROCEDURE",
+      "description": "Undergo CT simulation"
+    },
+    {
+      "name": "Contrast Agent",
+      "type": "OTHER",
+      "description": "Given IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Written informed consent and Health Insurance Portability and Accountability Act (HIPAA) authorization for release of personal health information\n* Histologically or cytological evidence of locally advanced, biopsy-proven, stage II (inoperable), III-or oligometastatic stage IV NSCLC planned to be treated with chemoradiation with concurrent or adjuvant immunotherapy\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Adequate organ and marrow laboratory values for radiation therapy deemed by appropriate the investigator obtained within 14 days prior to registration for protocol therapy\n* Women of childbearing potential (WOCBP) must obtain a negative serum or urine pregnancy test (minimum sensitivity 25 IU/L or equivalent units of human chorionic gonadotropin \\[HCG\\]) at day -30 to day 0\n* Women of childbearing potential must be willing to abstain from heterosexual activity or use an effective method of contraception during the time of the study period\n* Men who are sexually active with WOCBP must use any contraceptive method with a failure rate of less than 1% per year\n\nExclusion Criteria:\n\n* History or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the trial, interfere with the subject's participation for the full duration of the trial, or is not in the best interest of the subject to participate, in the opinion of the site investigator\n* Pregnant or breastfeeding, or expecting to conceive or father children within the projected duration of the trial\n* Active central nervous system (CNS) metastases (if symptomatic or without prior brain imaging, subjects must undergo a head computed tomography \\[CT\\] scan or brain magnetic resonance imaging \\[MRI\\] within 28 days prior to registration for protocol therapy to exclude brain metastases)\n* Treatment with any investigational agent within 28 days prior to registration for protocol therapy\n* Prior chemotherapy, adjuvant therapy, or radiotherapy for lung cancer other than standard concurrent chemoradiation or up to 2 cycles of consolidation therapy\n* Active second cancers\n* History of psychiatric illness or social situations that would limit compliance with study requirements",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "RWJBarnabas Health - Robert Wood Johnson University Hospital",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Determine if adaptive radiation therapy reduces radiation induced pneumonitis rates",
+      "timeFrame": "At 6 months post chemoradiation",
+      "description": "Will be analyzed using a one-sided z-test to determine if reduction in radiation doses to organs at risk compared will result in a lower rate of pneumonitis compared to historical controls."
+    }
+  ],
+  "sponsor": "Rutgers, The State University of New Jersey",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2021-02-11",
+  "completion_date": "2027-12",
+  "last_updated": "2026-01-28"
+}

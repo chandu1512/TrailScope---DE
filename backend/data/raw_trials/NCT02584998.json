@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT02584998",
+  "brief_title": "Reducing Colorectal Cancer Death Through Mailed Outreach Screening",
+  "official_title": "Reducing Colorectal Cancer Death Through Mailed Outreach Screening",
+  "brief_summary": "The main study aim is to develop, implement and disseminate a pilot population-based mailed FIT outreach screening program in the Philadelphia VA Medical Center that does not rely on having an office visit, by conducting a proof-of-concept 3-arm parallel-design pragmatic randomized trial to (1) Compare the effects of usual care (UC), screening invitation + reminder (invitation-reminder), or screening invitation + mailed FIT kit + reminder (mailed-FIT); (2) Explore whether the FIT completion rate varies by age or race/ethnicity; and (3) Explore barriers to use of mailed outreach screening for Veterans.",
+  "detailed_description": "This study seeks to establish the foundation to systematically study and improve the delivery and effectiveness of colorectal cancer (CRC) screening in the VA by developing, implementing and disseminating a pilot mailed-FIT screening outreach program that does not rely on having a clinical office visit. The investigators specifically address the need to identify and remediate potential failures to identify and offer screening to eligible Veterans through multilevel interventions. The investigators will also create electronic data linkages to, in future studies, enable evaluation of FIT performance characteristics and help close critical evidence gaps for optimizing screening among Veterans. As this is a pilot study, the focus is to assess feasibility of a population-based screening outreach approach through the development, implementation and dissemination of a mailed FIT outreach program in the Philadelphia VA Medical Center that does not rely on having an office visit.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 782,
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Mailed-FIT",
+      "type": "OTHER",
+      "description": "The FIT is analyzed at the Philadelphia VAMC by an auto-analyzer system that provides quantitative results corresponding to the concentration of hemoglobin in the collected sample. Specimens will be analyzed according to manufacturer's instructions to minimize potential degradation of hemoglobin. Results are provided as positive if the hemoglobin concentration is 100ng/dL. The machine records (but does not report) the quantitative results of the hemoglobin concentration in the sample, which we will seek to obtain from the laboratory for future studies."
+    },
+    {
+      "name": "Screening invitation-reminder",
+      "type": "OTHER",
+      "description": "These patients will continue to receive UC. They will in addition receive an invitation letter with all of the information about CRC testing in the mail-FIT arm"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* The pragmatic trial will include Veterans in southeastern Pennsylvania and Southern New Jersey who, during the funding year\n* 50 to 75 years old\n* Have received care at the Philadelphia VA Medical Center in the 18-48 months prior to selection for the study but who have not been seen by primary care in the past 18 months prior to selection\n* Due for screening\n* Are asymptomatic for CRC\n* This includes the period during which 3-sample testing was being regularly used at the Philadelphia VA Medical Center\n\nExclusion Criteria:\n\n* Have any known gastrointestinal symptoms such as:\n\n  * bleeding\n  * unexplained weight loss\n  * change in bowel habits\n  * family history of CRC\n  * inflammatory bowel disease (IBD)\n  * colectomy using International Classification of Disease (9th and 10th edition) diagnostic code or by self-report.\n* The investigators will also exclude Veterans:\n\n  * with evidence of prior colonoscopy within 10 years\n  * sigmoidoscopy within 5 years\n  * fecal occult blood test (FOBT)/FIT in the same calendar year\n* The information used to exclude patients will be derived from the electronic queries or chart audits.",
+    "gender": "ALL",
+    "min_age": "50 Years",
+    "max_age": "74 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Corporal Michael J. Crescenz VA Medical Center, Philadelphia, PA",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "The Number of Participants Who Completed the Mailed FIT Test Screening Within 6 Months",
+      "timeFrame": "6 months",
+      "description": "The completion rate of mailed FIT test within 6 months of the mailing of the screening invitation. The absence of FIT result in the electronic medical record (CRPS) will be considered a failure to complete the FIT test"
+    }
+  ],
+  "sponsor": "VA Office of Research and Development",
+  "collaborators": [
+    "University of Pennsylvania"
+  ],
+  "start_date": "2017-01-01",
+  "completion_date": "2017-12-30",
+  "last_updated": "2018-12-21"
+}

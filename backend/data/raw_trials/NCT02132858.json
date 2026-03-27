@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT02132858",
+  "brief_title": "Genetic Mutations in Blood and Tissue Samples in Predicting Response to Treatment in Patients With Locally Advanced Rectal Cancer Undergoing Chemoradiation",
+  "official_title": "Assessing Intratumoral Heterogeneity and Chemoradiation Response in Locally Advanced Rectal Cancer Utilizing Sequencing and PET/CT",
+  "brief_summary": "This research trial studies genetic mutations in blood and tissue samples to see if they can be used to predict treatment response in patients with locally advanced rectal cancer undergoing chemoradiation. Studying samples of blood and tumor tissue in the laboratory from patients with cancer may help doctors learn more about genetic mutations or changes that occur in deoxyribonucleic acid (DNA) and help doctors understand how patients respond to treatment.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To evaluate the tumor-specific mutation(s) detected using the CancerCode\u2122 mutation panel as a predictor of pathologic response to chemoradiation for patients with rectal adenocarcinoma undergoing chemoradiation.\n\nSECONDARY OBJECTIVES:\n\nI. To assess the feasibility of utilizing biopsy specimens from locally advanced rectal adenocarcinoma to perform CancerCode\u2122 mutation panel genetic testing.\n\nII. To assess disease-free survival (DFS) and overall survival (OS) of patients treated on study.\n\nIII. To collect pilot data regarding the clonal heterogeneity of rectal adenocarcinoma, and the relationship of this heterogeneity with treatment response.\n\nIV. To evaluate the treatment response utilizing multiple fludeoxyglucose F 18-positron emission tomography (FDG-PET) parameters including heterogeneity and textural features as an exploratory study.\n\nOUTLINE:\n\nPatients undergo collection of blood and tissue samples for analysis via sequencing.\n\nAfter completion of study, patients are followed up every 3 months for 3 years.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 43,
+  "conditions": [
+    "Mucinous Adenocarcinoma of the Rectum",
+    "Recurrent Rectal Cancer",
+    "Signet Ring Adenocarcinoma of the Rectum",
+    "Stage IIA Rectal Cancer",
+    "Stage IIB Rectal Cancer",
+    "Stage IIC Rectal Cancer",
+    "Stage IIIA Rectal Cancer",
+    "Stage IIIB Rectal Cancer",
+    "Stage IIIC Rectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "cytology specimen collection procedure",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    },
+    {
+      "name": "laboratory biomarker analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Locally advanced rectal adenocarcinoma: T3-4NanyM0 or TanyN1-2M0\n* Radiologically measurable or clinically evaluable disease\n* Provide informed written consent\n* Willing to return to enrolling medical site for all study assessments\n\nExclusion Criteria:\n\n* Chemotherapy within 5 years prior to registration; (hormonal therapy is allowable if the disease free interval is \\>= 5 years)\n* Any prior pelvic radiation\n* Patients who are at high risk of complications from temporarily discontinuing anticoagulation for rectal cancer biopsies",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of the randomly chosen samples that are successfully sequenced",
+      "timeFrame": "Up to 3 years",
+      "description": "If \\>= 90% of the specimens (at least 72 out of 80) are useable, the method will be considered feasible."
+    },
+    {
+      "measure": "Tumor response measured using the tumor regression grading system",
+      "timeFrame": "Up to 3 years",
+      "description": "Whether mutations in any gene on the CancerCode mutation panel are associated with tumor response will be assessed. In each sample, the presence or absence of mutations (0/1) for each gene on the panel will be evaluated. Each gene will be tested separately for its association with tumor response using a two-sample Mann-Whitney-Wilcoxon test with a type-I error of 0.05 for a two-sided test."
+    }
+  ],
+  "sponsor": "Fox Chase Cancer Center",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2014-07",
+  "completion_date": "2022-10",
+  "last_updated": "2024-05-01"
+}

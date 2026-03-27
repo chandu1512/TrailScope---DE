@@ -1,0 +1,44 @@
+{
+  "nct_id": "NCT06230185",
+  "brief_title": "CtDNA Based MRD Testing for NAC Monitoring in TNBC",
+  "official_title": "Breast Cancer-Minimal/Molecular Residual Disease Detection and Therapy Monitoring in Patients with Early Stage TNBC-Phase I (B-STRONGER-I)",
+  "brief_summary": "A prospective, multicenter, observational study to evaluate the correlation of Molecular Residual Disease (MRD) detection using circulating tumor DNA guided test to pathological complete response (pCR) after neoadjuvant chemotherapy (NAC) in stage I-III triple negative breast cancer (TNBC). Results from this study aim to improve MRD detection and disease outcomes for future patients.",
+  "detailed_description": "NeXT Personal CTA (Clinical Trial Assay) is a patient-specific, tumor-informed device which allows for detection of MRD from cfDNA. By using next generation sequencing technology, whole genome sequencing (WGS) is conducted from DNA derived from patient tumor and normal samples. A tumor informed personalized panel is then constructed that uses only a selection of DNA targets from the WGS by applying bioinformatic filters. The targeted personalized panel is then sequenced using NGS and DNA derived from cfDNA from plasma samples. The data from the cfDNA NGS are then further analyzed using bioinformatics filters to report the MRD status.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 422,
+  "conditions": [
+    "TNBC - Triple-Negative Breast Cancer",
+    "Minimal Residual Disease"
+  ],
+  "interventions": [],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Have histologically documented TNBC (defined as ER expression \u226410% by IHC, PR expression\u226410% by IHC and HER2 0 or 1+ by IHC or FISH ratio \\<2 or HER2 gene copy number of \\<6).\n2. Early-stage breast cancer (stage I-III) and scheduled to undergo NAC treatment with curative intent.\n3. Be informed of the investigational nature of the study and all pertinent aspects of the trial.\n4. Have the ability to understand and the willingness to sign a written informed consent document in accordance with institutional and federal guidelines.\n5. Be \u2265 18years of age.\n6. Patient who are scheduled to start NAC.\n7. Be willing to provide blood samples before and during treatment.\n8. Have available biopsy tissue.\n\nExclusion Criteria:\n\n1. Receiving concurrent anti-neoplastic therapy for another malignancy.\n2. Stage IV disease.\n3. Current or history of another primary cancer within 5 years of study entry, with the exception of basal or squamous cell skin cancer, or non-invasive malignancy.\n4. History of allogeneic bone marrow or organ transplant.\n5. Blood transfusion within two weeks before collection of blood for central ctDNA testing.\n6. Started systemic therapy for their breast cancer.\n7. Pregnancy",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Cancer Care Associates of York",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Evaluate the correlation of MRD to pCR after NAC in TNBC",
+      "timeFrame": "through study completion, an average of 6 months",
+      "description": "Evaluate the correlation of MRD detection by NeXT Personal CTA to pathological Complete Response (pCR) after neoadjuvant chemotherapy (NAC) in stage I-III triple negative breast cancer (TNBC). The pCR is defined as the absence of residual invasive cancer on hematoxylin and eosin evaluation of the complete resected breast specimen and all sampled regional lymph nodes following completion of neoadjuvant systemic therapy."
+    }
+  ],
+  "sponsor": "Personalis Inc.",
+  "collaborators": [],
+  "start_date": "2023-11-09",
+  "completion_date": "2025-12-31",
+  "last_updated": "2025-01-03"
+}

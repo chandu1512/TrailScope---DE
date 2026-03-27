@@ -1,0 +1,136 @@
+{
+  "nct_id": "NCT00010257",
+  "brief_title": "Carboplatin Combined With Paclitaxel in Treating Patients With Advanced Thymoma",
+  "official_title": "Phase II Study Of Carboplatin Plus Paclitaxel Treatment Of Advanced Thymoma Or Thymic Carcinoma",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining more than one chemotherapy drug may kill more tumor cells.\n\nPURPOSE: Phase II trial to study the effectiveness of carboplatin combined with paclitaxel in treating patients who have advanced thymoma.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the objective response rate in patients with advanced thymoma or thymic carcinoma treated with carboplatin and paclitaxel.\n* Determine the duration of response in these patients treated with this regimen.\n* Determine the toxicity of this regimen in these patients.\n\nOUTLINE: Patients receive paclitaxel by intravenous (IV) infusion over 3 hours followed by carboplatin IV over 30 minutes on day 1. Treatment repeats every 21 days for 2 courses in the absence of disease progression. Patients achieving complete or partial remission or stable disease receive 4 additional courses of therapy for a maximum of 6 courses. Further treatment may be given at the discretion of the treating physician.\n\nPatients were followed every 3 months for 2 years, every 6 months for 3 years, and then annually thereafter.\n\nPROJECTED ACCRUAL: A total of 35-68 patients were to be accrued for this study within 3.8-4.6 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 46,
+  "conditions": [
+    "Thymoma",
+    "Thymic Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "carboplatin",
+      "type": "DRUG",
+      "description": "Dosed to AUC of 6.0, given IV over 30 minutes day 1 of a 21-day cycle, for up to 6 cycles"
+    },
+    {
+      "name": "paclitaxel",
+      "type": "DRUG",
+      "description": "225 mg/m2 given by intravenous (IV) infusion over 3 hours on day 1 of a 21-day cycle, for up to 6 cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive, recurrent, or metastatic thymoma or thymic carcinoma not amenable to potentially curative therapy by surgery\n* Extensive disease (distant disease, pleural disease, pulmonary with or without mediastinal disease, or recurrent progressive disease in site of prior radiotherapy)\n* Advanced limited disease allowed if ineligible for primary radiotherapy or surgery\n* Measurable disease\n* Age 18 and over\n* ECOG Performance Status 0-1\n* Granulocyte count at least 1,500 cells/mm\\^3\n* Platelet count at least 100,000 cells/mm\\^3\n* Bilirubin no greater than 1.5 mg/dL\n* Creatinine no greater than 2.0 mg/dL\n* Concurrent corticosteroids for myasthenia gravis or other chronic conditions allowed\n\nExclusion Criteria:\n\n* Acute concurrent complications such as infection or post-surgical complications\n* Other prior malignancy within the past 5 years unless curatively treated with no evidence of recurrence\n* Pregnant or nursing. A negative pregnancy test was required, and fertile patients must use effective contraception\n* Prior chemotherapy for metastatic disease. Prior preoperative or adjuvant chemotherapy allowed if disease-free survival prior to recurrence was more than 1 year",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hunterdon Regional Cancer Center at Hunterdon Medical Center",
+      "city": "Flemington",
+      "state": "New Jersey",
+      "zip": "08822",
+      "status": ""
+    },
+    {
+      "facility": "CCOP - Northern New Jersey",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Cancer Institute of New Jersey at UMDNJ - Robert Wood Johnson Medical School",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "Mercy Fitzgerald Hospital",
+      "city": "Darby",
+      "state": "Pennsylvania",
+      "zip": "19023",
+      "status": ""
+    },
+    {
+      "facility": "Penn State Cancer Institute at Milton S. Hershey Medical Center",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033-0850",
+      "status": ""
+    },
+    {
+      "facility": "Lewistown Hospital",
+      "city": "Lewistown",
+      "state": "Pennsylvania",
+      "zip": "17044",
+      "status": ""
+    },
+    {
+      "facility": "Riddle Memorial Hospital Cancer Center",
+      "city": "Media",
+      "state": "Pennsylvania",
+      "zip": "19063",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center - Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    },
+    {
+      "facility": "Albert Einstein Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19141",
+      "status": ""
+    },
+    {
+      "facility": "Hematology and Oncology Associates of Northeastern Pennsylvania",
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "zip": "18510",
+      "status": ""
+    },
+    {
+      "facility": "Mount Nittany Medical Center",
+      "city": "State College",
+      "state": "Pennsylvania",
+      "zip": "16803",
+      "status": ""
+    },
+    {
+      "facility": "Associates in Hematology-Oncology, PC at Crozer Regional Cancer Center",
+      "city": "Upland",
+      "state": "Pennsylvania",
+      "zip": "19013",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Best Overall Response by RECIST Criteria (Version 1.0)",
+      "timeFrame": "Assessed every 2 cycles (6 weeks)",
+      "description": "Number of eligible, treated participants in each response category by RECIST criteria"
+    }
+  ],
+  "sponsor": "Eastern Cooperative Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2001-06-19",
+  "completion_date": "2012-08",
+  "last_updated": "2023-06-14"
+}

@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT04245839",
+  "brief_title": "A Study to Evaluate the Efficacy and Safety of JCAR017 in Adult Subjects With Relapsed or Refractory Indolent B-cell Non-Hodgkin Lymphoma (NHL)",
+  "official_title": "A Phase 2, Open-label, Single Arm, Multicohort, Multicenter Trial to Evaluate the Efficacy and Safety of JCAR017 in Adult Subjects With Relapsed or Refractory Indolent B-cell Non-Hodgkin Lymphoma (NHL)",
+  "brief_summary": "This is a global Phase 2, open-label, single-arm, multicohort, multicenter study to evaluate efficacy and safety of JCAR017 in adult subjects with r/r FL or MZL.\n\nThe study will be conducted in compliance with the International Council on Harmonisation (ICH) of Technical Requirements for Registration of Pharmaceuticals for Human Use/Good Clinical Practice (GCP) and applicable regulatory requirements.\n\nThis study is divided into three periods:\n\n* Pretreatment, which consists of screening assessments, leukapheresis and the Pretreatment evaluation;\n* Treatment, which starts with the administration of lymphodepleting (LD) chemotherapy and continues through JCAR017 administration at Day 1 with follow-up through Day 29;\n* Posttreatment, which includes follow-up assessments for disease status and safety for 5 years.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 276,
+  "conditions": [
+    "Lymphoma, Non-Hodgkin"
+  ],
+  "interventions": [
+    {
+      "name": "Fludarabine",
+      "type": "DRUG",
+      "description": "Fludarabine"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Cyclophosphamide"
+    },
+    {
+      "name": "JCAR017",
+      "type": "DRUG",
+      "description": "JCAR017"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Relapsed or refractory follicular lymphoma (FL) (Grade 1, 2 or 3a) or marginal zone lymphoma (MZL) histologically confirmed within 6 months of screening, as assessed by local pathology\n2. Patients should have received at least one prior therapy that includes anti-CD20 and alkylating agent\n3. Follicular lymphoma patients: Received at least one prior line of systemic therapy. Patients that received one prior line of systemic therapy are eligible if they present with high risk features. Patients that received two or more prior lines of systemic therapy are eligible, assuming one of the prior lines includes anti-CD20 and alkylating agent (as listed in criterion 2)\n4. Marginal zone lymphoma patients: Received two or more prior lines of systemic therapy, assuming one of the prior lines includes anti-CD20 and alkylating agent (as listed in criterion 2) or relapsed after hematopoietic stem cell transplant\n5. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n6. Adequate organ function\n7. Adequate vascular access for leukapheresis procedure\n\nExclusion Criteria:\n\n1. Evidence or history of composite Diffuse large B-cell lymphoma (DLBCL) and FL, or of transformed FL\n2. WHO subclassification of duodenal-type FL\n3. Central nervous system-only involvement by malignancy (subjects with secondary central nervous system (CNS) involvement are allowed on study)\n4. History of another primary malignancy that has not been in remission for at least 2 years, with the exception of non-invasive malignancies\n5. Prior CAR T-cell or other genetically-modified cell therapy\n6. History of or active human immunodeficiency virus (HIV)\n7. Active hepatitis B or active hepatitis C\n8. Uncontrolled systemic fungal, bacterial, viral or other infection despite appropriate antibiotics or other treatment\n9. Active autoimmune disease requiring immunosuppressive therapy\n10. Presence of acute or chronic graft-versus-host=disease\n11. History of significant cardiovascular disease\n12. History or presence of clinically relevant central nervous system pathology\n13. Allogenic-hematopoietic stem cell transplant (Allo-HSCT) within 90 days of leukapheresis",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 102",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 123",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 117",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response Rate (ORR)",
+      "timeFrame": "Up to 60 months",
+      "description": "Is defined as the percentage of participants achieving either a partial response (PR) or complete response (CR) at any time up to 60 months after JCAR017 treatment as assessed by PET-CT and/or CT using \"The Lugano classification\""
+    }
+  ],
+  "sponsor": "Celgene",
+  "collaborators": [],
+  "start_date": "2020-07-14",
+  "completion_date": "2031-09-30",
+  "last_updated": "2025-11-04"
+}

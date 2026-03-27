@@ -1,0 +1,59 @@
+{
+  "nct_id": "NCT01128296",
+  "brief_title": "Study of Pre-surgery Gemcitabine + Hydroxychloroquine (GcHc) in Stage IIb or III Adenocarcinoma of the Pancreas",
+  "official_title": "Phase I/II Study of Preoperative Gemcitabine in Combination With Oral Hydroxychloroquine (GcHc) in Subjects With High Risk Stage IIb or III Adenocarcinoma of the Pancreas",
+  "brief_summary": "The primary goal of the research study is to determine whether treating pancreatic cancer patients with hydroxychloroquine in combination with gemcitabine before surgery is safe. The secondary goal is to determine if this new treatment regimen can effectively treat pancreatic cancer. This study will test the safety and efficacy of this combination in two parts, or phases.",
+  "detailed_description": "This is a phase I/II trial designed to assess the safety, tolerability and efficacy of neoadjuvant oral hydroxychloroquine (Plaquenil\u00ae) in combination with FDR gemcitabine in subjects with high risk IIb or III adenocarcinoma of the pancreas. Eligible subjects will be administered hydroxychloroquine orally once or twice daily (depending on dose) in combination with FDR gemcitabine (on days 1 and 15) for 31 days prior to surgical resection. Dose escalations of hydroxychloroquine will proceed using Storer's Up-and-Down algorithm D. Subjects will be monitored for side effects and tolerability of the drug. Pre- and post-treatment PET scans will be the primary means to assess response to therapy. Resected tumors will also be assessed for evidence of inhibition of autophagy as well as histopathologic response and margin negative resection and number of positive lymph nodes.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 35,
+  "conditions": [
+    "Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Hydroxychloroquine",
+      "type": "DRUG",
+      "description": "Oral dosing daily starting at 48 hours before first dose of gemcitabine (starting on Day -2) and for a total of 31 days (ending on Day 29), prior to surgical resection. Capsules are available in 200 mg strengths. Daily doses are 200, 400, 600, 800, 1000, or 1200 mg, and will be administered BID for doses above 200 mg."
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": "Intravenous administration on Days 1 and 15, with the infusion given at the fixed dose rate of 10mg/m2/min (e.g. 150 min for a 1500 mg/m2 dose)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subjects with biopsy-proven adenocarcinoma of the pancreas\n* staged by IIb or greater by by EUS, or tumor greater than 2.6 cm on EUS or pancreatic protocol helical CT scan demonstrating venous involvement\n* Karnofsky performance status \\>/= 70.\n* No active second malignancy except for basal cell carcinoma of the skin\n* Normal renal, hepatic, and hematologic function at the time of enrollment as evidenced by:\n\n  * Serum creatinine level \u22641.5 the upper limits of normal\n  * Serum total bilirubin level \u22641.5 X ULN\n* White blood cell count \\>/= 3.5x109/ml per ml and platelet count \u2265 100x109 per ml\n* Age \\>18 years.\n* For subjects with obstructive jaundice, the biliary tract must be drained with a temporary plastic or a short permanent metallic biliary stent.\n* Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n* Subjects deemed surgically unresectable or subjects unwilling to undergo surgical resection.\n* Subjects who have received chemotherapy within 12 months prior to study entry.\n* Prior use of radiotherapy or investigational agents for pancreatic cancer.\n* Any evidence of metastasis to distant organs (liver, lung, peritoneum).\n* Symptomatic or endoscopic evidence of gastric outlet obstruction\n* Concurrent malignancies with evidence of active or measurable disease except basal cell carcinoma of the skin\n* Inability to adhere to study and/or follow-up procedures\n* History of allergic reactions or hypersensitivity to the study drugs (hydroxychloroquine, gemcitabine).\n* Other concurrent experimental therapy.\n* The effects of HCQ, and gemcitabine on the developing human fetus are unknown. For this reason women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation. All females of childbearing potential must have a blood test or urine study within two weeks prior to registration to rule out pregnancy. Should a woman become pregnant while participating in this study, she should inform her treating physician immediately. If a man impregnates a woman while participating in this study, he should inform his treating physician immediately as well.\n* Because patients with immune deficiency are at increased risk of lethal infections when treated with bone marrow-suppressive therapy, HIV-positive patients are excluded from the study. For patients receiving combination anti-retroviral therapy, the potential impact of pharmacokinetic interactions with HCQ and gemcitabine is unknown. Appropriate studies may be undertaken in patients with HIV and those receiving combination anti-retroviral therapy in the future.\n* Due to the risk of disease exacerbation, patients with porphyria are ineligible.\n* Patients with psoriasis are ineligible unless the disease is well controlled and they are under the care of a specialist who agrees to monitor the patient for exacerbations.\n* Patients requiring the use of enzyme-inducing anti-epileptic medication that includes: phenytoin, carbamazepine, phenobarbital, primidone or oxcarbazepine are excluded.\n* Patients with previously documented macular degeneration or diabetic retinopathy are excluded.\n* Baseline EKG with QTc \\>470 msec (including subjects on medication). Subjects with ventricular pacemaker for whom QT interval is not measurable will be eligible on a case-by-case basis.",
+    "gender": "ALL",
+    "min_age": "19 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPCI/UPMC Cancer Centers",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants That Experienced a Dose Limiting Toxicity (DLT)",
+      "timeFrame": "Up to 31 days",
+      "description": "Number of Participants at each dose level of HCQ that experienced a Dose Limiting Toxicity (DLT)."
+    }
+  ],
+  "sponsor": "Amer Zureikat",
+  "collaborators": [
+    "National Institutes of Health (NIH)"
+  ],
+  "start_date": "2010-10",
+  "completion_date": "2014-07",
+  "last_updated": "2019-04-16"
+}

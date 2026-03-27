@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT02692755",
+  "brief_title": "Palbociclib / Letrozole or Fulvestrant in African American Women With HR+ HER2- Breast Cancer",
+  "official_title": "Phase II Safety Study of Palbociclib in Combination With Letrozole or Fulvestrant in African American Women With Hormone Receptor Positive HER2 Negative Advanced Breast Cancer",
+  "brief_summary": "This study aims to evaluate the hematological safety of palbociclib with letrozole and fulvestrant in African American women with hormone receptor positive HER2 negative advanced breast cancer. Hematological safety is a composite endpoint of episodes of febrile neutropenia and treatment discontinuation due to neutropenia according to current recommendations for management of neutropenia",
+  "detailed_description": "The study is designed to assess the rate of completion of planned oncology therapy in the absence of a hematological event defined as episodes of febrile neutropenia and treatment discontinuation due to neutropenia. A completion rate of 80% is considered of clinical relevance as to benefit breast cancer patients who are at a higher risk of having ethnic neutropenia where as a completion rate of 60% is considered poor and to justify additional safety studies. A two stage design with a total of 35 patients is used to test if the completion rate is at least 80% versus if it is below 60% with 80% power at a significance level of 5%.\n\nAn exact confidence interval of the completion rate will be calculated. Investigators estimate there will be no more than a 10% rate of febrile neutropenia. Due to the small sample size, the analysis of secondary endpoints will be descriptive and will not include specific hypothesis testing.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 35,
+  "conditions": [
+    "Hormone Receptor Positive HER-2 Negative Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Palbociclib + Letrozole or Fulvestrant",
+      "type": "DRUG",
+      "description": "Palbociclib x 21 days with a 7 day rest plus 2.5 mg Letrozole QD (no break) or Fulvestrant 500mg IM every 2 weeks for 3 doses and then every 4 weeks until progression or maximum of 12 months"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Self-identified Black, African or African American women of \u2265 18 years of age with proven diagnosis of advanced adenocarcinoma of the breast (locoregionally recurrent or metastatic disease)\n2. ER-positive and/or PgR-positive tumor based on local laboratory results\n3. HER2-negative breast cancer based on local laboratory results (test to be used as per local practice)\n4. Patients must be appropriate candidates for letrozole or fulvestrant therapy\n5. Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n6. Adequate bone marrow function:\n\n   * Absolute Neutrophil Count (ANC) \u2265 1,000/mm3 (1.0 x 109/L);\n   * Platelets \u2265100,000/mm3 (100 x 109/L);\n   * Hemoglobin \u22659 g/dL (90 g/L).\n\nExclusion Criteria:\n\n1. Current use of food or drugs known to be potent inhibitors or inducers of CYP3A4\n2. Active uncontrolled or symptomatic brain metastases. Previously treated and clinically stable, as per Investigator's judgment, brain metastases are permitted.\n3. Previous CDK4/6 inhibitor\n\n   \\-",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "MedStar Union Memorial Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21218",
+      "status": ""
+    },
+    {
+      "facility": "MedStar Good Samaritan Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21239",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Patients Who Complete Planned Oncologic Therapy Without the Development of a Hematological Event",
+      "timeFrame": "12 months",
+      "description": "For study purpose febrile neutropenia will be defined according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v4.0: \"ANC less than 1000/mm3 with a single temperature of \\>38.3 degrees Celsius (101 degrees Fahrenheit) or a sustained temperature of 38 degrees Celsius (100.4 degrees Fahrenheit) for more than one hour.\"\n\nPlanned oncology therapy is defined as completion of one year of therapy for advanced breast cancer in the absence of disease progression or cessation of study drug due to progressive disease or non-hematological toxicity."
+    }
+  ],
+  "sponsor": "Georgetown University",
+  "collaborators": [
+    "University of Chicago",
+    "Thomas Jefferson University"
+  ],
+  "start_date": "2016-09",
+  "completion_date": "2021-03-23",
+  "last_updated": "2021-09-07"
+}

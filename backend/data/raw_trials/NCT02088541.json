@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT02088541",
+  "brief_title": "Selinexor (KPT-330) in Older Patients With Relapsed AML",
+  "official_title": "A Randomized, Open Label, Phase 2 Study of the Selective Inhibitor of Nuclear Export (SINE) Selinexor (KPT-330) Versus Specified Physician's Choice in Patients \u2265 60 Years Old With Relapsed or Refractory Acute Myeloid Leukemia (AML) Who Are Ineligible for Intensive Chemotherapy and/or Transplantation",
+  "brief_summary": "This is a randomized, multicenter, open-label, phase 2 study of the SINE compound, selinexor given orally versus specified investigator choices (one of three potential salvage therapies). Participants age \u2265 60 years with relapsed or refractory AML of any type except for AML M3, after one prior therapy only, who have never undergone and who are not currently eligible for stem cell transplantation and are currently deemed unfit for intensive chemotherapy.",
+  "detailed_description": "This is a randomized, multicenter, open-label phase 2 study of the SINE compound, selinexor given orally versus restricted investigator choice (i.e., one of three potential salvage therapies).\n\nParticipants who have never been transplant eligible, are currently deemed unfit for intensive chemotherapy, \u2265 60 years old, who have AML (except Acute Promyelocytic Leukemia: APL, AML M3) after one prior treatment of either hypomethylating agent or a regimen including Ara-C, and are meeting the inclusion and exclusion criteria will be randomized to receive either oral selinexor or physician's choice (one of three potential treatments: best supportive care (BSC) alone, or BSC + hypomethylating agent, or BSC + low dose Ara-C until disease progression, death or intolerance has occurred.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 317,
+  "conditions": [
+    "Acute Myeloid Leukemia (AML)"
+  ],
+  "interventions": [
+    {
+      "name": "Selinexor",
+      "type": "DRUG",
+      "description": "Selinexor oral tablet."
+    },
+    {
+      "name": "Hydroxyurea",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Ara-C",
+      "type": "DRUG",
+      "description": "Ara-C Subcutaneous Injection."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age \u2265 60 years with relapsed or refractory AML of any type except for acute promyelocytic leukemia (APL; AML M3), after at least 1 prior AML therapy , who have never undergone, and who are not currently eligible for, stem cell transplantation, and are currently deemed unfit for intensive chemotherapy.\n* Eastern Cooperative Oncology Group (ECOG) \u2264 2.\n* Must have available archival or recently acquired bone marrow biopsy/aspiration or tumor tissue for central review to be eligible.\n* Relapsed or refractory AML, defined as either: recurrence of disease after a complete remission (CR), or failure to achieve CR with initial therapy.\n* Must have received at least 1 prior line of AML therapy given at standard doses and must have progressed after their most recent therapy. Prior therapy must have included: a hypomethylating agent with at least 2 cycles.\n* At least 2 weeks must have elapsed since the last anti-leukemia treatment (with the exception of hydroxyurea) before first dose in this study.\n\nExclusion Criteria:\n\n* Treatment with any investigational agent within 3 weeks prior to first dose in this study.\n* Presence of central nervous system (CNS) leukemia.\n* In blast transformation of chronic myeloid leukemia (CML). Prior myelodysplastic syndrome (MDS) is acceptable; prior treatment for MDS does not count as an AML therapy.\n* Major surgery within 2 weeks of first dose of study drug. Participants must have recovered from the effects of any surgery performed greater than 2 weeks previously.\n* Concurrent active malignancy under treatment.\n* Known active hepatitis B virus (HBV) or C virus (HCV) infection; or known to be positive for HCV ribonucleic acid (RNA) or HBsAg (HBV surface antigen).\n* Known HIV infection.\n* Unable to swallow tablets, or participants with malabsorption syndrome, or any other disease significantly affecting gastrointestinal function.\n* Participants whose AML is classified as favorable according to the European LeukemiaNet (ELN) disease risk assessment.",
+    "gender": "ALL",
+    "min_age": "60 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center / John Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Milton S. Hershey Medical Center / Penn State",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "Baseline until disease progression or discontinuation from the study, or death, whichever occurred first (up to a maximum of approximately 104 weeks)",
+      "description": "Overall survival was defined as the time (in days) from the date of randomization to the date of death due to any cause. Participants last known to be alive were censored at date of last contact."
+    }
+  ],
+  "sponsor": "Karyopharm Therapeutics Inc",
+  "collaborators": [],
+  "start_date": "2014-03",
+  "completion_date": "2018-01-08",
+  "last_updated": "2023-01-24"
+}

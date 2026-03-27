@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT04396808",
+  "brief_title": "Genomics in Michigan to AdJust Outcomes in Prostate canceR (G-MAJOR) for Men With Newly Diagnosed Favorable Risk Prostate Cancer",
+  "official_title": "Genomics in Michigan to AdJust Outcomes in Prostate canceR (G-MAJOR): A Randomized Multi-center Study for Men With Newly Diagnosed Favorable Risk Prostate Cancer",
+  "brief_summary": "This study seeks to determine the clinical impact of Gene Expression Classifier (GEC) testing in prostate cancer care while also developing a pragmatic approach for improved GEC clinical use and future study.",
+  "detailed_description": "All patients in this study have received or will receive a score from the Michigan Urological Surgery Improvement Collaborative's Cancer of the Prostate Risk Assessment (askMUSIC) scoring system, at the time of enrollment. AskMUSIC is a risk calculator based on standard clinical and pathologic variables and is generally included as part of routine clinical care. The variables used in the risk calculator are prostate-specific antigen (PSA), Gleason score, number of positive core biopsies, number of negative core biopsies, and clinical stage.\n\nPatients will be randomized to either an intervention arm or a control arm. In the control arm, the treating provider will review the askMUSIC score with the patient. In the intervention arm, the treating provider will review the askMUSIC and the GEC score with the patient. Biopsies obtained during the course of standard clinical care will be analyzed using one of the following GECs: Decipher, Prolaris or Oncotype Dx Genomic Prostate Score. No additional biopsies will be obtained as part of this study.\n\nAfter reviewing the results, patients and their treating physicians will decide on a management strategy.\n\nLong-term follow-up will be tracked through the Michigan Urological Surgery Improvement Collaborative (MUSIC) registry.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 900,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Decipher",
+      "type": "DEVICE",
+      "description": "The Decipher test (GenomeDx Biosciences) is a genomic test that will be performed on prostate biopsy tissue. Results will be provided to the patient and physician prior to making a treatment decision."
+    },
+    {
+      "name": "Prolaris",
+      "type": "DEVICE",
+      "description": "The Prolaris test (Myriad Genetics, Inc.) is a genomic test that will be performed on prostate biopsy tissue. Results will be provided to the patient and physician prior to making a treatment decision."
+    },
+    {
+      "name": "Oncotype Dx Genomic Prostate Score (GPS)",
+      "type": "DEVICE",
+      "description": "The Oncotype Dx GPS test (Exact Sciences corp.) is a genomic test that will be performed on prostate biopsy tissue. Results will be provided to the patient and physician prior to making a treatment decision."
+    },
+    {
+      "name": "Standard of care (askMUSIC score)",
+      "type": "OTHER",
+      "description": "AskMUSIC is a risk calculator based on standard clinical and pathologic variables (https://ask.musicurology.com/) and is generally included as part of routine clinical care."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Prostate cancer patients who have undergone diagnostic prostate biopsy in the past 9 months.\n* Prostate biopsy tumor tissue (FFPR block) available for processing\n* Age 18 years or older\n* PSA \\<20 ng/ml\n* Grade Group (GG) 1 cancer with \\> 2 biopsy cores involved with cancer OR GG2 cancer\n* Ability to understand and the willingness to sign a written informed consent. A subject's legally acceptable representative may sign the consent form.\n\nExclusion Criteria:\n\n* Clinical (on digital rectal exam) or radiographic evidence (if MRI performed) of T3 disease\n* Nodal or metastatic prostate cancer (if staging imaging performed)\n* Prior prostate cancer treatment, including prostatectomy, radiation therapy, or hormone therapy.\n* Prior prostate gene expression classier testing",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania Perelman School of Medicine",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Binomial proportion of men on active surveillance without treatment",
+      "timeFrame": "At 2 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "University of Michigan Rogel Cancer Center",
+  "collaborators": [
+    "National Institutes of Health (NIH)",
+    "Myrexis Inc.",
+    "Veracyte, Inc.",
+    "MDx Health"
+  ],
+  "start_date": "2020-11-05",
+  "completion_date": "2031-04-30",
+  "last_updated": "2026-01-06"
+}

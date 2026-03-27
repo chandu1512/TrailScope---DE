@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT05945849",
+  "brief_title": "CD33KO-HSPC Infusion Followed by CART-33 Infusion(s) for Refractory/Relapsed AML",
+  "official_title": "Phase 1 Study of Lentivirally Transduced T Cells Engineered to Contain Anti-CD33 Linked to TCR\u03b6 And 4-1BB Signaling Domains In Combination With CD33KO-HSPC In Subjects With Refractory Or Relapsed Acute Myeloid Leukemia",
+  "brief_summary": "The purpose of this study is to provide a new type of treatment for AML. This treatment combines a new type of stem cell transplant along with treatment using chimeric antigen receptor (CAR) T cells that have been engineered to recognize and attack your AML cells.\n\nThe first treatment is a modified stem cell transplant, using blood-forming stem cells donated from a healthy donor. From the same donor, we will also make CAR T-cells, which are leukemia fighting cells, which will be given to the patient via an infusion into the vein after the transplanted stem cells have started to grow healthy blood cells. The modification of the stem cell transplant means that the healthy bone marrow cells will be \"invisible\" to the CAR T-cells that are trying to kill the leukemia cells.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 16,
+  "conditions": [
+    "Leukemia, Myeloid, Acute"
+  ],
+  "interventions": [
+    {
+      "name": "CD33KO-HSPC; CART33",
+      "type": "BIOLOGICAL",
+      "description": "CD33KO-HSPC: Stem cell transplant (also known as bone marrow transplant) is a common treatment used for patients with blood cancers, but for this transplant we will first modify the cells, in order to make the CAR T-cell treatment safer for when the patient receives them later. The modification is a type of gene editing - this means changing the DNA of the cells, so that a protein that the bone marrow stem cells usually show on their surface is not shown any more. This makes the bone marrow cells \"invisible\" to the CAR T-cells, and makes this therapy safer for the patient. The protein is called CD33.\n\nCART33: Chimeric Antigen Receptor T-cells (CART) are immune cells which are modified by adding a CAR molecule, which makes them much more efficient at finding and killing cancer cells. In this case, the CAR T-cells are programmed to target a protein called CD33, which is found on the surface of leukemia cells, and on healthy bone marrow cells."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Male or female 18 years of age or older\n2. Subjects with AML unlikely to be cured with currently available therapies\n\n   1. AML that has not achieved a complete remission or morphologic leukemia free state by ELN criteria; partial remission or refractory disease (including primary refractory) are eligible; OR:\n   2. AML relapsed following allogeneic stem cell transplantation (including MDS evolved to AML post-allogeneic stem cell transplantation). Note: morphologic relapse is not required; persistent/recurrent disease-associated molecular, phenotypic or cytogenetic abnormalities (measurable residual disease, MRD) at any time after allogeneic HCT is eligible; OR:\n   3. Subjects with relapsed disease after prior transplant must be off systemic immunosuppression for at least 1 month at the time of enrollment.\n3. Subjects must have a suitable stem cell donor.\n4. Satisfactory organ function\n\n   1. Creatinine clearance \\> 40 ml/min\n   2. ALT/AST must be \u2264 5x upper limit of normal unless related to disease and \\< 20 x upper limit of normal if related to disease\n   3. Direct bilirubin \\< 2.0 mg/dl, unless subject has Gilbert's syndrome (\u2264 3.0 mg/dL)\n5. Left ventricular ejection fraction \u2265 40% as confirmed by echocardiogram or MUGA\n6. DLCO \\> 45% predicted\n7. ECOG performance status 0-1\n8. Written informed consent is given\n9. Subjects of reproductive potential must agree to use acceptable birth control methods\n\nExclusion Criteria:\n\n1. Pregnant or lactating (nursing) women\n2. Active hepatitis B or hepatitis C or HIV infection\n3. Concurrent use of systemic steroids or immunosuppressant medications\n4. Any uncontrolled active medical disorder that would preclude participation as outlined\n5. Subjects with signs or symptoms indicative of CNS involvement.\n6. Known history of allergy or hypersensitivity to study product excipients (human serum albumin, DMSO, and Dextran 40)\n7. Class III/IV cardiovascular disability according to New York Heart Association Classification\n8. Subjects with a known history or prior diagnosis of optic neuritis or other immunologic or inflammatory disease affecting the central nervous system, and unrelated to leukemia or previous leukemia treatment.\n9. Subjects with clinically apparent arrhythmia, or arrhythmias that are not stable on medical management, within 2 weeks of the screening/enrollment visit.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Manufacturing feasibility",
+      "timeFrame": "1 month",
+      "description": "Proportion of subjects whose Product 1 (CD33KO-HSPC) meets release criteria."
+    },
+    {
+      "measure": "Occurrence of dose-limiting toxicities related to CD33KO-HSPC",
+      "timeFrame": "3 months",
+      "description": "Safety of alloHSCT: occurrence of dose-limiting toxicities related to CD33KO-HSPC"
+    },
+    {
+      "measure": "Occurrence of dose-limiting toxicities related to CART-33",
+      "timeFrame": "6 months",
+      "description": "Safety of CART-33: occurrence of dose-limiting toxicities related to CART-33"
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [],
+  "start_date": "2024-02-23",
+  "completion_date": "2044-02-23",
+  "last_updated": "2025-06-25"
+}

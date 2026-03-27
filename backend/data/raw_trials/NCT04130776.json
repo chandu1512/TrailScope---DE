@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT04130776",
+  "brief_title": "4Kscore Using Serum Stored Uncentrifuged",
+  "official_title": "Demonstrating the Stability of the Analytes Measured for 4Kscore: Total PSA (tPSA), Free PSA (fPSA), Intact PSA (iPSA), and Human Kallikrein 2 (hk2) in Clinical Serum Samples Stored Uncentrifuged Before Testing",
+  "brief_summary": "The purpose of the study is to evaluate whether storage of serum uncentrifuged is an allowable preanalytical procedure",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 64,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Measurement of four prostate-specific kallikreins for the 4Kscore Test when serum stored uncentrifuged",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "The 4Kscore Test helps clarify the biopsy decision-making process by determining a patient specific probability for finding aggressive, Gleason score 7 or higher prostate cancer upon biopsy. These are the aggressive prostate cancers that always require medical treatment or intervention. The 4Kscore Test relies on the measurement of four prostate-specific kallikreins in the blood: Total PSA, Free PSA, Intact PSA, and Human Kallikrein 2 (hK2). The blood test results are combined in an algorithm with patient age, digital rectal exam (nodules, no nodules), and prior negative biopsy (yes, no) to give physicians a personal score for each patient. The 4Kscore Test predicts the risk percent score from \\<1% to \\>95% of a man having aggressive cancer in a prospective biopsy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Men capable of donating five 5 mL tubes of whole blood\n* 40 to 80 years old\n* No prior diagnosis of prostate cancer; prior negative prostate biopsy included\n* Total PSA (tPSA) value measured within last year to be: at 1.5 ng/mL to 4 ng/mL, 4.1 ng/mL to 10 ng/mL and 10 ng/mL and above\n\nExclusion Criteria:\n\n* In the previous 96 hours (4 days), underwent a digital rectal exam\n* Any invasive urologic procedure in the 6 months prior to study participation\n* Underwent any procedure to treat symptomatic benign prostatic hyperplasia in the last 6 months\n* Radical prostatectomy since tPSA measurement\n* Received within the previous 6 months 5-alpha reductase inhibitor (5-ARI) therapy such as Avodart (dutasteride) or Proscar (finasteride)",
+    "gender": "MALE",
+    "min_age": "40 Years",
+    "max_age": "80 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "tPSA changes in 3 days",
+      "timeFrame": "Day 0, 1, 2 and 3",
+      "description": "Measure tPSA in serum samples at day 0, 1, 2 and 3"
+    },
+    {
+      "measure": "fPSA changes in 3 days",
+      "timeFrame": "Day 0, 1, 2 and 3",
+      "description": "Measure fPSA in serum samples at day 0, 1, 2 and 3"
+    },
+    {
+      "measure": "iPSA changes in 3 days",
+      "timeFrame": "Day 0, 1, 2 and 3",
+      "description": "Measure iPSA in serum samples at day 0, 1, 2 and 3"
+    },
+    {
+      "measure": "hK2 changes in 3 days",
+      "timeFrame": "Day 0, 1, 2 and 3",
+      "description": "Measure hK2 in serum samples at day 0, 1, 2 and 3"
+    }
+  ],
+  "sponsor": "OPKO Health, Inc.",
+  "collaborators": [],
+  "start_date": "2017-10-04",
+  "completion_date": "2018-10-31",
+  "last_updated": "2019-10-15"
+}

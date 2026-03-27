@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT00409136",
+  "brief_title": "Multi-Center Human Alert Trial to Prevent DVT and PE",
+  "official_title": "Physician Alerts to Prevent DVT and Pulmonary Embolism in Hospitalized Patients",
+  "brief_summary": "To evaluate physician response to human alerts that inform the clinician that his/her patient may be eligible for thromboprophylaxis. Medical records are reviewed to evaluate prescribing decision and to evaluate rates of venous thromboembolism.",
+  "detailed_description": "Background Information and Rationale for the Study:\n\nVenous thromboembolism (VTE) is often avoidable in hospitalized patients because proven prevention strategies have been established for patients at risk. North American and European prophylaxis guidelines have been widely disseminated. However, despite intensive educational efforts, VTE prevention remains underutilized.\n\nAt Brigham and Women's Hospital, we undertook a comprehensive program aimed at increasing the frequency of VTE prophylaxis in high risk patients. This novel strategy required: 1) devising a risk score that reliably and quickly identified patients at high risk of VTE, and 2) conducting a randomized controlled trial in which high risk patients without prophylaxis were randomized into an intervention or control group. The intervention group's physicians received a single alert explaining that the patient was at high risk, was not receiving prophylaxis, and urged that prophylaxis be selected from a template of available pharmacological and mechanical options. In contrast, the control group's physicians received no alert.\n\nEach of 8 common risk factors was weighted according to a point scale. At least 4 score points were required to be deemed at \"high risk\" for VTE.\n\n3 of the 8 risk factors were considered major and were assigned a score of 3 points each:\n\n1. Cancer\n2. Prior VTE\n3. Hypercoagulability\n\nOne of the 8 risk factors, surgery, was considered intermediate and was assigned a score of 2.\n\n4 of the 8 risk factors were considered minor and were assigned a score of 1 point each:\n\n1. Advanced age (\\> 70 years of age)\n2. Obesity (Body Mass Index \\> 29)\n3. Bed rest\n4. Hormone replacement therapy or oral contraceptives\n\nThere were 2,506 patients in the randomized controlled trial of a computer alert: 1255 in the intervention group and 1251 in the control group. The incidence of symptomatic VTE at 90 days was high: 8.2% in the control group. This high incidence validates the 8 risk factor and point score methodology.\n\nThe intervention group had an overall 41% reduction in VTE, without any increase in major bleeding. There was a 60% reduction in the incidence of symptomatic pulmonary embolism.\n\nIdentification of Patients at Risk for Venous Thromboembolism (VTE):\n\nA VTE risk profile will be computed for each hospitalized patient using 8 common risk factors. Each risk factor is weighted according to a point score. To be included in this trial, the point score must equal or exceed 4 points.\n\nMinor (Low) Risk Factors (1 POINT each):\n\n* Advanced Age (\\>70 years of age)\n* Obesity (BMI \\>29, or the presence of the word \"obesity\" in admission exam notes)\n* Bed rest / Immobility (not related to surgery)\n* Female Hormone Replacement Therapy or Oral Contraceptives\n\nIntermediate Risk Factor (2 POINTS each):\n\n\u00b7 Major Surgery (\\> 60 minutes)\n\nMajor (High) Risk Factors (3 POINTS each):\n\n* Cancer (active)\n* Prior VTE\n* Hypercoagulability\n\nIncreased VTE risk is defined as a cumulative VTE risk score 4, so that patients with at least 1 major risk factor (cancer, prior VTE, or hypercoagulability) plus at least 1 additional intermediate risk factor (major surgery or bed rest) or minor risk factor (advanced age, obesity, or hormone replacement therapy/oral contraceptives) become eligible. In the absence of a major risk factor, patients with 1 intermediate risk factor plus at least 2 minor risk factors become eligible.\n\nScreening for Venous Thromboembolism Prophylaxis:\n\nIf the cumulative VTE risk score is \u00b34, orders are reviewed to detect ongoing mechanical or pharmacological prophylactic measures. Mechanical prophylactic measures include graduated compression stockings and intermittent pneumatic compression devices. Pharmacological prophylactic measures include unfractionated heparin, enoxaparin, dalteparin, fondaparinux, tinzaparin, and warfarin.\n\nRandomization:\n\nRandomization Envelopes containing the statement \"ALERT\" (Intervention) or \"NO ALERT\" (Control) will be provided by Harvard Clinical Research Institute (HCRI), to randomize patients who meet all inclusion criteria.\n\nThe intervention is informing the responsible physician that: 1) his or her patient is at high risk for VTE, 2) is not receiving prophylaxis, and 3) VTE prophylaxis is recommended. For control patients, VTE prevention guidelines are available, but no specific prompt is provided to use them.\n\nFollow Up:\n\nNinety-day follow-up is performed in all study patients by medical record review and through contact with the subject's Primary Care Physician.\n\nData Collection and Study Endpoints:\n\nThe primary endpoint is clinically diagnosed DVT or PE at 90 days. Safety endpoints include total mortality and hemorrhagic events at 30 and 90 days, respectively. We define major bleeding as intracranial, intraocular, retroperitoneal, pericardial, or bleeding that requires surgical intervention or that resulted in a hemoglobin loss greater than 3 g/l.\n\nDVT is diagnosed if there is loss of vein compressibility by ultrasound or a filling defect by CT scan or by conventional contrast venography. PE is diagnosed by a positive contrast chest CT scan, a high-probability ventilation perfusion scan, or conventional pulmonary angiogram.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 2496,
+  "conditions": [
+    "Pulmonary Embolism",
+    "Deep Vein Thrombosis",
+    "Cancer",
+    "Surgery"
+  ],
+  "interventions": [
+    {
+      "name": "Human Alert",
+      "type": "BEHAVIORAL",
+      "description": "An alert from study staff informing a physician that his/her patient is at high risk for DVT and/or PE, but is not receiving any prophylaxis."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients \\> 18 years of age\n* Cumulative VTE risk score \\> 4\n* Absence of pharmacologic or mechanical prophylaxis orders\n* Patients from medical or surgical Services\n\nExclusion Criteria:\n\n* VTE risk score \\<4\n* Current active pharmacologic or mechanical prophylaxis order\n* Patients from the Department of Neurology, Newborn Service, Rehab Units, and Neonatal Intensive Care Unit (NICU).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Franklin Square Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    },
+    {
+      "facility": "Washington County Hospital",
+      "city": "Hagerstown",
+      "state": "Maryland",
+      "zip": "21740",
+      "status": ""
+    },
+    {
+      "facility": "Thomas Jefferson Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "Washington Hospital",
+      "city": "Washington",
+      "state": "Pennsylvania",
+      "zip": "15301",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Clinically diagnosed DVT and/or PE",
+      "timeFrame": "90 days",
+      "description": ""
+    }
+  ],
+  "sponsor": "Brigham and Women's Hospital",
+  "collaborators": [
+    "Sanofi"
+  ],
+  "start_date": "2006-03",
+  "completion_date": "2008-08",
+  "last_updated": "2009-01-29"
+}

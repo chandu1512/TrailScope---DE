@@ -1,0 +1,71 @@
+{
+  "nct_id": "NCT05585684",
+  "brief_title": "Liquid Biopsy-informed Precision Oncology Study to Evaluate Utility of Plasma Genomic Profiling for Therapy Selection",
+  "official_title": "Liquid Biopsy-informed Precision Oncology Study to Evaluate the Clinical Utility of Non-invasive Comprehensive Genomic Profiling for Cancer Treatment Selection",
+  "brief_summary": "Overall, this project has three main goals: first, to ascertain the feasibility of the approach and identify whether liquid biopsies can detect actionable mutations that can be utilized to generate precision oncology treatment recommendations. Second, the investigators will investigate whether enacting upon MTB recommendations would improve outcomes in terms of progression-free and overall survival. Third, the investigators aim to determine if molecular profiling via serial plasma tests after initiation of chemotherapy or other targeted treatment is sufficient to determine whether or not a patient is responding to therapy.",
+  "detailed_description": "1. Quality assurance plan that addresses data validation and registry procedures, including any plans for site monitoring and auditing.\n\n   All information will be collected on study-specific case report forms (CRFs) hosted in Redcap and/or directly entered into a study database. The following measures will be taken to protect patient information:\n   * The database will be password protected; only authorized staff may enter and view project data.\n   * Passwords and system IDs will not be shared.\n   * Physical security of the workstations/files will be maintained. Workstations with the database open will not be left unattended.\n   * Staff will be trained on the data entry system and on security procedures.\n   * The study data will be reviewed/monitored by the Sidney Kimmel Comprehensive Cancer Center Clinical Research Office and the Cancer Center Safety committee.\n2. Data checks to compare data entered into the registry against predefined rules for range or consistency with other data fields in the registry.\n\n   Data checks will be performed per SKCCC SOP DM-01-04 CRF Documentation Standards.\n\n   Case Report Form (CRF): A printed, optical, or electronic document designed to record all of the protocol-required information to be reported to the sponsor on each trial subject. ICH GCP 1.11 Source Documents: Original documents, data, and records (e.g., hospital records, clinical and office charts, laboratory notes, memoranda, subjects' diaries or evaluation checklists, pharmacy dispensing records, recorded data from automated instruments, copies or transcriptions certified after verification as being accurate and complete, microfiches, photographic negatives, microfilm or magnetic media, x-rays, subject files, and records kept at the pharmacy, at the laboratories, and at the medicotechnical departments involved in the clinical trial). ICH GCP 1.52\n3. Source data verification to assess the accuracy, completeness, or representativeness of registry data by comparing the data to external data sources (for example, medical records, paper or electronic case report forms, or interactive voice response systems).\n\n   All study data will be reviewed for completeness and accuracy by the Protocol Chair who will ensure the completeness and accuracy of the data generated. The designated research coordinator(s) participating in this project will collect clinical information associated with each participant. Such data could include, but is not limited to: medical record number, age, sex, treatment history, circulating tumor markers, tumor size, tumor grade, tumor receptor status, pathology report, smoking history, hormonal history, concomitant medications, and parity. Such information will be retrieved from existing clinical databases/EMR (e.g., EPIC) and patient questionnaire information, and may also include electronic scheduling and prescription systems.\n\n   Follow-up information will be collected by review of the medical records. In addition, participants may be reached by phone to help with any questions or clarifications, or additional follow-up requirements.\n4. Data dictionary that contains detailed descriptions of each variable used by the registry, including the source of the variable, coding information if used (for example, World Health Organization Drug Dictionary, MedDRA), and normal ranges if relevant.\n\n   Source for data dictionary is included in Botsis et al., JCO CCI, 2023, in press.\n5. Standard Operating Procedures to address registry operations and analysis activities, such as patient recruitment, data collection, data management, data analysis, reporting for adverse events, and change management.\n\n   These activities will be carried out in compliance with the study protocol and Good Clinical Practice principles. Information regarding study conduct and progress will be reported to our local Institutional Review Board (IRB) per current institutional standards. The study will undergo routine annual review as per current institutional standards.\n6. Sample size assessment to specify the number of participants or participant years necessary to demonstrate an effect.\n\n   We will recruit 150 patients with solid tumors including non-adenocarcinoma NSCLC, small-cell lung cancer, neuroendocrine lung cancer, mesothelioma, esophageal cancer, breast cancer and head and neck cancer. Based on the liquid biopsy assay's analytical performance we expect to detect tumor-specific mutations in \\>85% of the individuals. We expect to complete the accrual in 1.5 years. The analysis is primarily descriptive for this feasibility study. A sample size of 150 patients will provide reasonable confidence around the observed estimate of proportions, e.g. percent of patients with variants of clinical significance. The width of 95% confidence interval will be narrower than 16.5%.\n7. Plan for missing data to address situations where variables are reported as missing, unavailable, non-reported, uninterpretable, or considered missing because of data inconsistency or out-of-range results.\n\n   Missing data will be excluded from downstream analyses.\n8. Statistical analysis plan describing the analytical principles and statistical techniques to be employed in order to address the primary and secondary objectives, as specified in the study protocol or plan.\n\n   1. Analysis of Primary Objectives:\n\n      The primary objectives are to determine the number and prevalence of variants with clinical significance across different levels of evidence (stratified by gene and alteration type), as described above and to determine the percentage of patients with an MTB treatment recommendation accordingly. Descriptive analysis will be performed to estimate the percentage of patients that harbor variants with clinical significance detected in ctDNA samples, along with 95% confidence intervals. The percentage of patients with an MTB treatment recommendation tailored to an actionable alteration according to the mutation profiles detected by liquid biopsies, and percentage of patients treated according to MTB recommendation will be estimated. The days from collection of liquid biopsies to MTB recommendation, and days from MTB recommendation to treatment initiation will be summarized by mean, median, standard deviation and range. We plan to summarize the data after every 30 patients.\n   2. Analysis of Secondary Objectives:\n\nTime to subsequent cancer therapy is the time from initiation of treatment to the start of next cancer therapy according to treating physician's decision. Progression-free survival (PFS) is the time from initiation of therapy to radiographic progression per RECIST, clinical progression or worsening disease per treating physician's assessment. Overall survival (OS) is the time from initiation of therapy to death due to any cause. PFS and OS will be characteristics by Kaplan-Meier method, among patients who do and do not have an MTB recommendation, and for patients who do and do not receive recommended treatment.\n\nDescriptive analysis will be performed to report the frequency of MTB-based treatment recommendations by therapeutic class (standard of care, clinical trial, off-label use), and the deviations from treatment recommendations and reasons (clinical deterioration, other protocol, patient ineligible, off-label treatment unavailable, clinical trial not feasible (e.g. physical distance), clinical trial not recruiting, physician's decision, patient's choice, etc.) The concordance of detected alterations obtained through liquid biopsy analyses at baseline compared to time-matched or archival tissue specimens will be summarized and quantified using Kappa statistics.\n\nDescriptive analyses will also be performed to determine the cell-free DNA yield and ctDNA amount by tumor type obtained through liquid biopsy analyses. Additionally, the assay success rate by tumor type and by pre-analytical variables will be performed across minimum technical data elements, including:\n\n* Blood collection tube type\n* Sample composition\n* Shipping temperature\n* Blood fractionalization method\n* Time to fractionation\n* Analyte isolation method\n* Time to freezer\n* Storage temperature\n* Concentration: cellular concentration or molecular concentration\n* Assay method\n* Time to assay",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 150,
+  "conditions": [
+    "Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Non-invasive Comprehensive Genomic Profiling for Cancer Treatment Selection",
+      "type": "OTHER",
+      "description": "Use of liquid biopsy to evaluate the clinical utility of non-invasive comprehensive genomic profiling for cancer treatment selection."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* ECOG performance status of 0-1.\n* Patients with solid tumors, including esophageal cancer, non-adenocarcinoma NSCLC, small-cell lung cancer, head \\& neck cancer, mesothelioma, breast cancer and lung neuroendocrine cancer.\n* Patients who can provide whole blood collection to meet minimum of 20-30ml of blood at baseline, within 1-3 weeks from treatment initiation, at first radiographic imaging and at progression. Acquisition of an archival or time-matched tumor tissue specimen which meets the minimum sample input requirements (at least 20% tumor content and 100 ng) is preferred but not required.\n* Patients with metastatic disease will have progressed on the most recent treatment prior to enrollment. Patient can also be enrolled if their oncologist believes progression is imminent and test results would be used to inform next line of therapy. Patients considered for first-line SOC therapeutic options may be enrolled if the clinical efficacy of these therapies is not encouraging.\n* Patients must have disease evaluable for progression assessment; measurable disease is not required to participate in the study.\n* Able to voluntarily provide informed consent.\n\nExclusion Criteria:\n\n* Women who are known to be pregnant\n* History of another primary malignancy in the last 5 years prior to registration unless approved by the Protocol Chair/designee. Patients with prior history of in situ cancer or basal or localized squamous cell skin cancer are eligible.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Prevalence of variants in ctDNA with clinical significance across different levels of evidence",
+      "timeFrame": "Up to 2 years after enrollment",
+      "description": "To determine the prevalence of variants in ctDNA with clinical significance across different levels of evidence (stratified by gene and alteration type). In cases where tumor next-generation sequencing has been performed, tumor mutational profiles will be evaluated in conjunction with the liquid biopsy results."
+    },
+    {
+      "measure": "Percentage of patients with a molecular tumor board (MTB) treatment recommendation",
+      "timeFrame": "Up to 2 years after enrollment",
+      "description": "To determine the percentage of patients with a molecular tumor board (MTB) treatment recommendation tailored to an actionable alteration according to the mutation profiles detected by liquid biopsies."
+    },
+    {
+      "measure": "Percentage of patients treated according to MTB recommendation",
+      "timeFrame": "Up to 2 years after enrollment",
+      "description": "To determine percentage of patients treated according to MTB recommendation."
+    },
+    {
+      "measure": "Turnaround time from collection of liquid biopsy to MTB recommendation",
+      "timeFrame": "Up to 2 years after enrollment",
+      "description": "To determine turnaround time from collection of liquid biopsy to MTB recommendation."
+    },
+    {
+      "measure": "Time from MTB recommendation to treatment initiation",
+      "timeFrame": "Up to 2 years after enrollment",
+      "description": "To determine the time from MTB recommendation to treatment initiation."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Personal Genome Diagnostics"
+  ],
+  "start_date": "2023-01-27",
+  "completion_date": "2027-09",
+  "last_updated": "2025-11-19"
+}

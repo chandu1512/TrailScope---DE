@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT05001477",
+  "brief_title": "Customized TULSA-PRO Ablation Registry",
+  "official_title": "Customized TULSA-PRO Ablation Registry",
+  "brief_summary": "This patient registry will capture data from patients who have been or who are undergoing the transurethral ultrasound ablation (TULSA) procedure as part of their routine clinical care. The registry will shed light on real-world outcomes of safety and efficacy of the procedure and understand how a patient's quality of life is affected throughout their follow-up and lifetime.",
+  "detailed_description": "This registry will capture data on patients undergoing customized transurethral ultrasound ablation (TULSA) as part of their routine clinical care. The aim of collecting such data is to further evaluate real-world outcomes of safety and efficacy of this treatment. The collection of this data is intended to form an evidence-base from which conclusions can be drawn on how to optimize outcomes to improve patient care and QOL, and further expand on knowledge of practice trends and treatment costs.\n\nThe primary safety objective is to estimate the rate of complications attributable to the TULSA Procedure. The primary efficacy objective is estimating the proportion of patients who are free from primary treatment failure after the TULSA Procedure.\n\nPatients being offered TULSA Procedure will be invited to participate in the registry. Patients who have already undergone TULSA will also be allowed to join the registry. Hundreds to thousands of patients across sites in US, Canada and Europe will be followed as per routine clinical care at 3 months, 6 months, 12 months, 2 years, 3 years, 4 years, 5 years and annually lifelong thereafter. Patients will remain active in the registry until they voluntarily withdraw or die. At each visit, patients will complete a set of questionnaires that is sent to them by email.\n\n* Informed consent will be collected prior to enrolling the patient into the Registry.\n* Initial baseline information will be collected (eg. demographics, medical history, concomitant medication, prostate MRI, prostate biopsy, PSA, and QOL Questionnaires)\n* TULSA Procedure treatment assessment and complications will be collected from clinic records from treatment day. Optional financial tracking information may also be collected if patient consents to this portion of the registry.\n* At follow-up visits, a set of data points will be collected (eg. PSA, complications, QoL Questionnaires, survival assessments, and optional financial tracking information)\n\nAll Registry data will be collected and stored in an electronic database capture system called Castor. Castor is validated and compliant with all applicable laws and regulations, including ICH E6 GCP, 21 CFR Part 11, EU annex II, General Data Protection Regulation (GDPR), HIPAA (US), ISO 9001 and ISO 27001. Only sites and sponsor personnel will have access to the database. On site and/or remote study monitoring will be undertaken to check source documents and accuracy of data entry. All reasonable methods will be used to try to minimize missing data, however, some missing data is expected to occur. No interpolation of missing data will occur. Standard descriptive statistics, including the mean, standard deviation, median, range, proportion and frequency, will be used throughout to summarize results. Measures will be presented, and 95% confidence intervals will be constructed for selected measures, such as efficacy and safety. As a primarily descriptive study, analyses will be performed at the p=0.05 level of significance and exact analyses will be used wherever possible.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1000,
+  "conditions": [
+    "Prostate Cancer",
+    "Prostate Adenocarcinoma",
+    "Benign Prostatic Hyperplasia"
+  ],
+  "interventions": [
+    {
+      "name": "TULSA Procedure",
+      "type": "DEVICE",
+      "description": "Transurethral ultrasound ablation procedure"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria\n\n1. Male\n2. \\>18 years old\n3. Candidate for TULSA-PRO treatment\n4. willing and able to sign the Informed Consent form\n\nExclusion Criteria:\n\nNone.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Wellspan Health",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Rate of complications",
+      "timeFrame": "5 years",
+      "description": "estimating the rate of complications (Clavien-Dindo grades III - IV) attributable to the TULSA Procedure"
+    },
+    {
+      "measure": "Freedom from treatment failure",
+      "timeFrame": "5 years",
+      "description": "Estimating the proportion of patients who are free from primary treatment failure after the TULSA Procedure."
+    }
+  ],
+  "sponsor": "Profound Medical Inc.",
+  "collaborators": [],
+  "start_date": "2021-10-27",
+  "completion_date": "2061-10",
+  "last_updated": "2024-11-05"
+}

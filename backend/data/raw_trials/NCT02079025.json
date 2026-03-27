@@ -1,0 +1,58 @@
+{
+  "nct_id": "NCT02079025",
+  "brief_title": "Multi-Center Trial of High-resolution Transrectal Ultrasound Versus Standard Low-resolution Transrectal Ultrasound for the Identification of Clinically Significant Prostate Cancer",
+  "official_title": "Multi-Center Trial of High-resolution Transrectal Ultrasound Versus Standard Low-resolution Transrectal Ultrasound for the Identification of Clinically Significant Prostate Cancer",
+  "brief_summary": "This trial uses a ultra high-resolution ultrasound system and specialized transducer, intended for use in prostate imaging. The system's image resolution is significantly better than the standard of care, due to its higher frequency. This allows the system to visualize suspicious areas and structures, and for greater accuracy for guided biopsy.\n\nThe primary objective of this study is to demonstrate that ultra high-resolution transrectal ultrasound (UHR-TRUS) is superior to conventional low-resolution transrectal ultrasound (LR-TRUS) in detecting clinically significant cancer among men without known prostate cancer and with an indication for prostate biopsy.\n\nThe secondary objective of this study is to compare the difference in the rate of detection of clinically significant cancer between LR-TRUS and UHR-TRUS, from before investigator training to after investigator training.\n\nThe tertiary objective for the investigation is to compare the combined sensitivity and specificity in determining cancer detection overall for image-guided biopsy in UHR-TRUS vs. LR-TRUS.",
+  "detailed_description": "This is a two-arm multi-centre randomized trial of LR-TRUS versus UHR-TRUS for guided prostate biopsies in men with no known history of prostate cancer. This trial will enroll a minimum of 800 and a maximum of 2000 patients with regular interim analyses to determine the trial's final sample size. These numbers are based on predictive probabilities of trial success.\n\nThe investigation is designed as a comparative non-blinded analysis of LR-TRUS vs. UHR-TRUS. Participants will be randomized to either high-resolution or low resolution ultrasound with an equal chance of being in either group. The randomization scheme will be stratified by centre.\n\nWhen a subject arrives at the institution for his biopsy, the Study Coordinator opens a sealed envelope that indicates to the study participant and physician whether the procedure will be performed using LR-TRUS or UHR-TRUS.\n\nAll subjects have an indication for prostate biopsy, and thus, inclusion of a non-treatment group would necessitate a group of men not to receive standard of care. As such, there is no control group in the subject population.\n\nProcedures in the study are:\n\n* obtaining informed consent for the subject\n* collecting pre-biopsy information and recording it on the case report form (CRF)\n* perform biopsy procedure\n* record biopsy details in CRF\n* prepare biopsy specimens for pathology\n\nData from CRFs will be stored in a proprietary database that is accessed by a web-based interface, where access is limited to those with login and password. No subject-identifiable information will be entered in the database.\n\nThe primary endpoint is the detection of clinically significant prostate cancer, i.e., the number of men with clinically significant prostate cancer determined by pathology review among all men randomized and biopsied. Pathological analysis on 12-core biopsy samples will be the only mechanism used to determine if study subjects have prostate cancer.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1676,
+  "conditions": [
+    "Prostatic Neoplasms",
+    "Prostate Cancer",
+    "Cancer of the Prostate"
+  ],
+  "interventions": [
+    {
+      "name": "High-resolution ultrasound guided prostate biopsy",
+      "type": "DEVICE",
+      "description": "Ultrasound guided prostate biopsy using ultra-high resolution ultrasound system"
+    },
+    {
+      "name": "Standard ultrasound guided prostate biopsy",
+      "type": "DEVICE",
+      "description": "Ultrasound guided prostate biopsy using standard of care ultrasound system"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* All men \\> 40 years age and \\<80 years of age with an indication for a prostate biopsy will be offered inclusion in the study. Typical indications for biopsy include abnormal PSA (prostate specific antigen) and/or abnormal DRE (digital rectal exam).\n* PSA\\<50\n* Clinical stage \\< cT3\n\nExclusion Criteria:\n\n* Men with a history of prostate cancer\n* Men undergoing TRUS-guided prostate biopsy in the OR under anesthesia\n* Men with known prostate volume (from prior imaging) of \\> 60cc\n* Men with anorectal abnormalities preventing TRUS-guided prostate biopsy\n* Men who are unable to provide their own informed consent",
+    "gender": "MALE",
+    "min_age": "40 Years",
+    "max_age": "79 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Brady Urological Institution",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Clinically Significant Prostate Cancer",
+      "timeFrame": "First visit (a patient's involvement in the trial is complete following his biopsy).",
+      "description": "Pathology analysis of prostate biopsy is reviewed for indication of clinically significant prostate cancer. Interim analyses are planned beginning when 800 patients have been enrolled and after every additional 200 patients are enrolled up to the maximum sample size of 2000 patients."
+    }
+  ],
+  "sponsor": "Exact Imaging",
+  "collaborators": [],
+  "start_date": "2013-12",
+  "completion_date": "2018-02",
+  "last_updated": "2019-02-06"
+}

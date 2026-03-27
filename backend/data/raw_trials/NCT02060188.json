@@ -1,0 +1,81 @@
+{
+  "nct_id": "NCT02060188",
+  "brief_title": "A Study of Nivolumab Alone or Nivolumab Combination Therapy in Colon Cancer That Has Come Back or Has Spread",
+  "official_title": "A Phase 2 Clinical Trial of Nivolumab, or Nivolumab Combinations in Recurrent and Metastatic Microsatellite Instability High (MSI-H) and Non-MSI-H Colon Cancer",
+  "brief_summary": "The purpose of this study is to examine if Nivolumab by itself, or Nivolumab in combination with other anti-cancer drugs, will result in meaningful tumor size reduction, in participants with colon cancer that has come back or has spread, and who have a specific biomarker in their tumors.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 385,
+  "conditions": [
+    "Microsatellite Unstable Colorectal Cancer",
+    "Microsatellite Stable Colorectal Cancer",
+    "Mismatch Repair Proficient Colorectal Cancer",
+    "Mismatch Repair Deficient Colorectal Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Ipilimumab",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Cobimetinib",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "Daratumumab",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    },
+    {
+      "name": "BMS-986016",
+      "type": "DRUG",
+      "description": "Specified dose on specified days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1\n* Histologically confirmed recurrent or metastatic colorectal cancer\n* Measurable disease per RECIST v1.1\n* Microsatellite instability expression detected by an accredited laboratory\n* Participants enrolled into the C3 Cohort must have not had treatment for their metastatic disease\n\nExclusion Criteria:\n\n* Active brain metastases or leptomeningeal metastases are not allowed\n* Prior treatment with an anti-Programmed Death Receptor (PD)-1, anti-PD-L1, anti-PD-L2, anti-Cytotoxic T-Cell Lymphoma-4 Antigen (CTLA-4) antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or immune checkpoint pathways\n* Prior malignancy active within the previous 3 years except for locally curable cancers\n* Participants with active, known or suspected autoimmune disease\n* Participants with a condition requiring systemic treatment with either corticosteroids or other immunosuppressive medications within 14 days of study drug administration\n\nOther protocol-defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0041",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0013",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR) by Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 Per Investigator Assessment",
+      "timeFrame": "From date of randomization to the date of objectively documented progression or the date of subsequent systemic cancer therapy, whichever occurs first (Up to approximately 127 months)",
+      "description": "Objective Response Rate (ORR) is defined as the number of randomized participants who achieve a best overall response (BOR) of confirmed complete response (CR) or confirmed partial response (PR), based on investigator assessments \\\\\\[using Response Evaluation Criteria in Solid Tumors (RECIST) v1.1\\\\\\], divided by the number of all randomized participants.\n\nComplete Response (CR): Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\\\\\<10 mm.\n\nPartial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [],
+  "start_date": "2014-03-12",
+  "completion_date": "2024-10-22",
+  "last_updated": "2025-10-21"
+}

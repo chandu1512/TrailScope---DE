@@ -1,0 +1,66 @@
+{
+  "nct_id": "NCT04835805",
+  "brief_title": "A Study to Evaluate the Safety and Activity of Belvarafenib as a Single Agent and in Combination With Either Cobimetinib or Cobimetinib Plus Nivolumab in Patients With NRAS-mutant Advanced Melanoma.",
+  "official_title": "A Phase Ib, Open-Label, Multicenter Study to Evaluate the Safety, Pharmacokinetics, and Activity of Belvarafenib as a Single Agent and in Combination With Either Cobimetinib or Cobimetinib Plus Nivolumab in Patients With NRAS-Mutant Advanced Melanoma Who Have Received Anti-PD-1/PD-L1 Therapy",
+  "brief_summary": "This study will evaluate the safety, pharmacokinetics, and activity of belvarafenib as a single agent and in combination with either cobimetinib or cobimetinib plus nivolumab in patients with NRAS-mutant advanced melanoma who have received anti-PD-1/PD-L1 therapy.",
+  "detailed_description": "The study will evaluate three treatment regimens in three arms: a belvarafenib monotherapy arm (Belva arm); a belvarafenib plus cobimetinib arm (Belva + Cobi arm) in an initial dose-finding phase followed by an expansion phase and a belvarafenib plus cobimetinib plus nivolumab arm (Belva + Cobi + Nivo arm) in a run-in phase followed by an expansion phase.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 65,
+  "conditions": [
+    "Melanoma"
+  ],
+  "interventions": [
+    {
+      "name": "Belvarafenib",
+      "type": "DRUG",
+      "description": "Twice daily (BID), continuous dosing"
+    },
+    {
+      "name": "Cobimetinib",
+      "type": "DRUG",
+      "description": "Once daily (QD) or three times weekly (TIW) for 21 days, 7 days off"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "Once every 4 weeks (Q4W)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* ECOG Performance Status of 0 or 1\n* Histologically confirmed, metastatic (recurrent or de novo Stage IV) or unresectable locally advanced (Stage III) cutaneous melanoma, that has progressed on or after treatment with anti-PD-1 or anti-PD-L1 therapy. Patients may have received up to two lines of systemic cancer therapy. Treatment with anti-PD-1/PD-L1 in the adjuvant setting is acceptable. Patients must have progressed disease at study entry\n* Documentation of NRAS mutation-positive within 5 years prior to screening\n* Tumor specimen availability\n* Adequate hematologic and end-organ function\n* Measurable disease per RECIST v1.1\n\nExclusion Criteria:\n\n* Prior treatment with a pan-RAF inhibitor\n* Treatment with systemic immunotherapy agents (e.g., anti-CTLA4, anti-PD(L)1, cytokine therapy, investigational therapy, etc.) within 28 days prior to C1D1\n* Symptomatic, untreated, or actively progressing CNS metastases\n* History or signs/symptoms of clinically significant cardiovascular disease\n* Known clinically significant liver disease\n* History of autoimmune disease or immune deficiency\n* Prior treatment with a MEK inhibitor (cobimetinib arm)\n* History of or evidence of retinal pathology on ophthalmologic examination (cobimetinib arm)\n* History of immune-related AE attributed to prior anti-PD(L)1 therapy that resulted in permanent discontinuation of anti-PD(L)1 therapy (nivolumab arm)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Dose Limiting Toxicity (DLTs)",
+      "timeFrame": "28 Days from Cycle 1, Day 1",
+      "description": ""
+    },
+    {
+      "measure": "Percentage of Participants With Adverse Events",
+      "timeFrame": "From Cycle 1, Day 1 Up to 4 Years",
+      "description": "Severity determined according to National Cancer Institute Common Terminology Criteria for Adverse Events v5.0"
+    }
+  ],
+  "sponsor": "Genentech, Inc.",
+  "collaborators": [],
+  "start_date": "2021-05-13",
+  "completion_date": "2027-06-30",
+  "last_updated": "2026-02-02"
+}

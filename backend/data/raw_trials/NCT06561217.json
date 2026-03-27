@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT06561217",
+  "brief_title": "Assessing the Performance of Artificial Intelligence (AI)-Augmented Electronic Health Record (EHR) Data Abstraction for Clinical Trial Patient Screening",
+  "official_title": "Assessing the Performance of Artificial Intelligence (AI)-Augmented Electronic Health Record (EHR) Data Abstraction for Clinical Trial Patient Screening",
+  "brief_summary": "Identifying eligible patients is a key process in the clinical trial enterprise. Currently, this process relies on time-intensive manual chart review, creating a rate-limiting step for trial participation. The integration of AI technology into the trial screening process has potential to improve participation rates. This study aims to assess the performance (accuracy, efficiency) of AI-augmented patient identification and inform optimal integration into clinical research screening processes.",
+  "detailed_description": "The objective of this study is to assess and compare the accuracy and efficiency of three different approaches to abstracting clinical data used to identify oncology patients who meet the inclusion criteria for participation in clinical trials. The three approaches under evaluation include: (1) an autonomous AI algorithm (Mendel AI; developed by artificial intelligence startup company Mendel) which analyzes patient medical records to extract relevant clinical facts (\"AI-alone\"); (2) a human researcher who manually reviews patient charts as per the current norm/practice (\"Human-alone\"); and (3) a human researcher utilizing AI augmentation (\"Human+AI\"), where Mendel AI serves as a supportive tool in the decision-making process by providing the researcher a list of elements abstracted by the AI algorithm and a rank-order list of patients most likely to meet inclusion criteria for a trial.\n\nThe study primarily aims to compare (1) the chart-level accuracy of the Human+AI collaboration relative to Human-alone given the relevance of this comparison for real-world clinical workflows, defined by the percentage of pre-identified chart elements classified correctly compared against a predetermined \"gold standard\"; and (2) the efficiency of the Human+AI vs. Human-alone arms, defined by the time per chart review in minutes, measured for each chart.\n\nOur hypotheses are (1) the Human+AI arm will be non-inferior in accuracy when compared to the Human-alone arm, in relation to a predetermined \"gold standard\", and (2) that a Human+AI arm will be superior in efficiency of abstraction when compared to Human-alone screening.\n\nThe identification of eligible patients for clinical trials is a critical component of clinical research, as it directly impacts patient recruitment, study enrollment, and the generalizability of research findings. Currently, the process of identifying eligible patients often relies on manual chart review by clinical research staff, which can be time-consuming, labor-intensive, and prone to human error. Consequently, eligible patients may be overlooked, and opportunities for trial participation may be missed. The integration of AI technology into the patient identification process has the potential to enhance the accuracy and efficiency of this critical task, leading to improved clinical trial recruitment and outcomes.\n\nThis study holds important implications for the field of clinical research by evaluating the effectiveness of AI-augmented patient identification compared to traditional manual methods and autonomous AI algorithms. By examining the strengths and limitations of each approach, the study will provide valuable insights into the optimal integration of AI technology in clinical research processes. Furthermore, the results of this study have the potential to benefit patients by improving their access to clinical trials and increasing awareness of available treatment options. For clinical research institutions, enhancing the efficiency of patient identification can lead to more effective use of research resources and the potential for accelerated clinical trial timelines. Ultimately, the findings of this study may contribute to advancements in clinical research practices, promoting more equitable access to trials and facilitating the development of innovative treatments for patients with cancer.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 355,
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Chart review",
+      "type": "OTHER",
+      "description": "Chart review"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Diagnosis of colorectal or non-small cell lung cancer.\n* A minimum of 5 patient documents in the Mendel database.\n* Most recent document was within 5 years from the time of data extraction.\n\nExclusion Criteria:\n\n* None.",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Abstracted Chart-level Accuracy",
+      "timeFrame": "1 year",
+      "description": "The primary outcome measured was mean chart-level accuracy, defined as the percentage of elements identified by clinical research coordinators among all elements in the gold-standard set, measured for each chart, and averaged across all charts. Research coordinator-abstracted responses were identified as being accurate when they exactly matched with the gold-standard set. The gold-standard set was determined by 2-3 clinicians blinded to experimental arms."
+    }
+  ],
+  "sponsor": "University of Pennsylvania",
+  "collaborators": [
+    "Mendel AI"
+  ],
+  "start_date": "2023-08-18",
+  "completion_date": "2024-07-12",
+  "last_updated": "2025-07-07"
+}

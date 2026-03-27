@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT06177795",
+  "brief_title": "Increasing Screening for Cancer Using EHR-Nudges",
+  "official_title": "I-SCREEN: Increasing Screening for Cancer Using a Randomized Evaluation of EHR-based Nudges",
+  "brief_summary": "In this study, personalized nudges to clinicians and patients will be evaluated to help increase breast cancer screening rates in accordance with USPSTF guidelines among women with a primary care visit, with a particular emphasis on those at high risk for non-completion of cancer screening. In partnership with Penn Medicine (Penn) and Case Western Reserve University-University Hospitals (UH), two complementary, concurrent, 6-month, cluster-randomized, pragmatic trials will be conducted. Those assigned to the intervention arm will receive the following clinician and patient level nudge interventions: clinicians will receive a default pended order for a mammogram in the visit encounter in the EHR (Penn and UH), and patients will receive post-visit text message reminders to encourage them to schedule their mammogram (Penn). Patients identified as high risk for noncompletion will be individually randomized to receive an additional bidirectional text message nudge or the standard text messaging (Penn).",
+  "detailed_description": "Cancer is a leading cause of mortality in the United States. While strong USPSTF guideline recommendations support appropriate screening for early detection and to avoid preventable deaths, breast cancer screening is often underutilized. Increasing breast cancer screening rates is challenging, in part, because it requires complementary decisions from clinicians (e.g., recommend and counsel patients about screening) and patients (e.g., to internalize risks and choose to complete screening). Presently, the lack of interventions directly targeting both clinicians' and patients' decision-making may underscore the relatively stagnant screening rates in the United States. There is a significant need to develop and scale low-cost interventions that increase breast cancer screening while simultaneously addressing the needs of high-risk patients and reducing disparities. Building upon prior work, the investigators propose to develop and test EHR-based clinician and patient nudges, with an additional intensified nudge to high-risk patients, to help increase screening mammography rates.\n\nThis study consists of two complementary and concurrent, cluster-randomized, pragmatic trials to be conducted at Penn and UH.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 21120,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Post-visit patient text messaging",
+      "type": "BEHAVIORAL",
+      "description": "Patients will be sent text message reminders 4 days and 14 days after their primary care visit. The message delivered 4-days post-visit will remind the patient that a screening mammogram was recently ordered by their doctor, that appointments have been reserved for them, and to pre-commit to scheduling. The message delivered at 14-days post-visit will remind the patient of their recent screening mammogram order and encourage them to schedule their appointment, if one has not already been scheduled."
+    },
+    {
+      "name": "Default pended order",
+      "type": "BEHAVIORAL",
+      "description": "A default pended order for a mammogram will be pended to the patient's upcoming primary care encounter and will be visible to the provider during the visit encounter. Clinical staff will have the option of signing the order or dismissing it if they deem it inappropriate for a given patient."
+    },
+    {
+      "name": "High risk bidirectional post-visit text messaging",
+      "type": "BEHAVIORAL",
+      "description": "High risk patients randomized to receive the high risk intensification nudge will receive a bidirectional text messaging component after their visit. This intervention will query the patient about common questions or concerns about breast cancer screening. The bi-directional text messaging intervention will provide additional educational materials based on patient response as well as information about resources to help navigate to screening."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nAll patients must meet the following criteria to be eligible:\n\n1. Women between 40 and 74 years of age\n2. A scheduled new or return (non-urgent/sick) primary care visit at one of the study practices (Penn Trial) or with one of the study primary care providers (UH Trial)\n3. Are overdue and eligible for a mammogram per Health Maintenance\n4. Does not have a future scheduled mammogram appointment\n\nFor the Penn Trial patient intensification nudge, at least one of the following criteria must be met to be considered high risk and randomized to receive the intensification nudge:\n\n1. Medicare Insurance\n2. Medicaid Insurance\n3. No EHR patient portal account\n4. Zero log-ins to EHR patient portal in the previous year\n\nExclusion Criteria:\n\nPatients will be excluded from the study if:\n\n1. History of bilateral mastectomy\n2. Have a mammogram exclusion modifier in Health Maintenance\n3. Have no phone number (home or mobile) listed in their chart (Penn Trial only)",
+    "gender": "FEMALE",
+    "min_age": "40 Years",
+    "max_age": "74 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania Health System",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of patients who complete a screening mammogram within 3 months after the visit",
+      "timeFrame": "3 months",
+      "description": "The primary outcome is screening mammogram completion within 3 months after the first eligible primary care visit."
+    }
+  ],
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "collaborators": [
+    "National Institute on Aging (NIA)",
+    "Case Western Reserve University"
+  ],
+  "start_date": "2023-12-18",
+  "completion_date": "2025-04-07",
+  "last_updated": "2025-07-22"
+}

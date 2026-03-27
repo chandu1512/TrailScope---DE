@@ -1,0 +1,49 @@
+{
+  "nct_id": "NCT07262138",
+  "brief_title": "Active Surveillance in Older Women With ER+ Breast Cancer",
+  "official_title": "Protocol-Directed Active Surveillance for Older Women With Small, Screen-Detected, ER+/HER2- Breast Cancer",
+  "brief_summary": "ACTIVE is a prospective, single-arm, phase I/IIa study examining an active surveillance strategy for small, screen-detected, luminal breast cancer. Patients aged 70 or older with clinical stage I ER+/HER2- breast cancer are eligible. The goal of this clinical trial is to learn if an active surveillance strategy (serial imaging rather than therapeutic intervention) is a safe approach to monitor small breast cancers. The main question to answer is the proportion of participants who experience tumor progression by 12 months.",
+  "detailed_description": "Breast cancer, like most cancers arising in adults, is a disease of aging. Age is one of the most important risk factors, with nearly one third of all breast cancer cases diagnosed in patients older than 70 years and a peak incidence occurring in the 60s to 70s. The vast majority of these cancers are estrogen receptor positive (ER+), and the proportion of ER+ tumors relative to other subtypes increases with age. Consistent with the favorable receptor status (high degree of ER expression with negative HER2 receptor), these tumors grow slowly and are often less aggressive than tumors in younger patients, reflecting that tumorigenesis in these patients may largely be due to chronic exposures to tumor-promoting stimuli.\n\nA sizable proportion of older women - defined as those aged 70 years or older - continue screening mammography. Continuation of routine mammography in older patients can lead to overdiagnosis, which is the detection of cancers that would never have caused symptoms or affected lifespan. As breast cancer incidence rises with age but competing risks of death (like heart disease or other illnesses) also increase, many slow-growing tumors identified through screening may not require treatment. However, once diagnosed, these cancers often lead to unnecessary interventions such as surgery, radiation, or endocrine therapy, which carry physical and emotional burdens. Overdiagnosis can also create anxiety, reduce quality of life, and strain healthcare resources, especially when the benefits of early detection decline with age. Overdiagnosis typically encompasses multiple clinical scenarios: first, some tumors are biologically indolent, due to their genomics, tumor microenvironment, and systemic macroenvironment, and not preordained to grow, spread, or kill; second, some small tumors may have the biological potential to grow and spread but will not do so in the patient's lifetime.\n\nThe overall hypothesis of the ACTIVE trial is that management of small, screen-detected, ER+/HER2- tumors using an active surveillance is safe and feasible.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Early Stage Estrogen Receptor (ER) Positive Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Active Surveillance",
+      "type": "OTHER",
+      "description": "Active surveillance is achieved through serial breast and axillary ultrasound. This will occur in the absence of any concurrent treatment of the breast cancer with the goal of identifying if the tumor grows after 12 months of observation. Patients will undergo ultrasound at diagnosis, 6 months, and 12 months. They may receive optional ultrasounds at 3 months and 9 months.\n\nIf patients do not experience a progression during the allotted study period, but decline to continue with active surveillance, they may undergo any local or systemic therapy at the discretion of their local treating oncologist.\n\nIf the tumor reaches the pre-specified threshold for progression at the time of the protocol-directed imaging, patients will undergo standard of care breast cancer therapy. The type and extent of surgery, adjuvant and systemic therapy will be left to the local treating team."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Women aged 70 years or older with a diagnosis of invasive breast cancer who have not undergone surgical resection of the primary invasive tumor and/or axillary lymph nodes, have not undertaken any systemic therapy, and have not received radiation therapy as a treatment for this diagnosis. Patients with invasive cancer that is identified after excisional biopsy for atypia are included.\n* Tumors must have been identified through mammographic screening.\n* Tumor is less than or equal to 2cm (T1a through T1c) in maximum dimension based on diagnostic ultrasound, or if not visible on ultrasound, then on mammogram. Must have clinically and radiographically node negative disease. Inclusion criteria for different tumor sizes is as follows:\n\n  * cT1a or cT1b (\u2264 1cm): Nottingham Grade I or II allowed entry.\n  * cT1c (\\>1-2cm): only Nottingham Grade I allowed entry.\n* Breast cancer must be ER positive and HER2 negative according to the definition below, as assessed by local pathology.\n\n  * ER is considered positive if there are \u2265 60% positive tumor nuclei in the samples.\n  * HER2 negativity is defined per the current ASCO/CAP Clinical Practice Guideline.\n* Patients with cognitive impairment are eligible provided that a legal surrogate is able to sign informed consent for study participation.\n* Archival tissue will be submitted for all participants. Tissue must be confirmed available prior to registration.\n\nExclusion Criteria:\n\n* Prior anti-cancer therapy (e.g., endocrine therapy, chemotherapy, radiation therapy, or investigational therapy) for the current breast cancer diagnosis.\n* Current breast cancer diagnosis that is deemed a recurrence, at the discretion of the treating investigator.\n* Multifocal or multicentric disease.\n* Patients with a history of contralateral DCIS, or ipsilateral or contralateral LCIS are not eligible. Patients with a history of any ipsilateral breast radiation are not eligible.\n* Diagnosis of inflammatory breast cancer (T4d).\n* Male breast cancer.\n* Any concurrent severe and uncontrolled medical condition that, in the treating clinician's opinion, would pose unacceptable safety risks or compromise compliance with the protocol. Such conditions could include: impairment of gastrointestinal tract function or gastrointestinal disease that may significantly alter the absorption of oral medications (uncontrolled Crohn disease or ulcerative colitis, uncontrolled chronic nausea, vomiting diarrhea, malabsorption, or small bowel resection); severe liver impairment (Child-Pugh Class C).",
+    "gender": "FEMALE",
+    "min_age": "70 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "12 month rate of tumor progression",
+      "timeFrame": "12 months",
+      "description": "Tumor progression is defined based on the following criteria:\n\n* For tumors initially staged at cT1a and cT1b, tumor progression is defined as a greater than or equal to 50% increase in the longest diameter of the target lesion, with reference to the longest diameter at the baseline time point (t = 0mo).\n* For tumors initially staged at cT1c, tumor progression is defined as a greater than or equal to 25% increase in the longest diameter of the target lesion, with reference to the longest diameter at the baseline time point (t = 0mo)."
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [],
+  "start_date": "2025-11-01",
+  "completion_date": "2030-12-31",
+  "last_updated": "2025-11-21"
+}

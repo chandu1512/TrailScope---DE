@@ -1,0 +1,99 @@
+{
+  "nct_id": "NCT06001788",
+  "brief_title": "Safety and Tolerability of Ziftomenib Combinations in Patients With Relapsed/Refractory Acute Myeloid Leukemia",
+  "official_title": "Phase 1 Study to Determine the Safety and Tolerability of Ziftomenib Combinations for the Treatment of KMT2A-rearranged or NPM1-mutant Relapsed/Refractory Acute Myeloid Leukemia",
+  "brief_summary": "The safety, tolerability, and antileukemic response of ziftomenib in combination with standard of care treatments for patients with relapsed/refractory acute myeloid leukemia will be examined with the following agents: FLAG-IDA, low-dose cytarabine, and gilteritinib.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 171,
+  "conditions": [
+    "AML",
+    "AML With Mutated NPM1",
+    "Hematologic Malignancy",
+    "KMT2Ar",
+    "NPM1 Mutation",
+    "MLL Rearrangement",
+    "Leukemia",
+    "Acute Myeloid Leukemia",
+    "Leukemia, Myeloid",
+    "Leukemia, Myeloid, Acute",
+    "Acute Leukemia",
+    "Neoplasms by Histologic Type"
+  ],
+  "interventions": [
+    {
+      "name": "Ziftomenib",
+      "type": "DRUG",
+      "description": "Oral administration"
+    },
+    {
+      "name": "Fludarabine",
+      "type": "DRUG",
+      "description": "Intravenous infusion"
+    },
+    {
+      "name": "Idarubicin",
+      "type": "DRUG",
+      "description": "Intravenous infusion"
+    },
+    {
+      "name": "Cytarabine",
+      "type": "DRUG",
+      "description": "Intravenous Infusion"
+    },
+    {
+      "name": "Gilteritinib",
+      "type": "DRUG",
+      "description": "Oral administration"
+    },
+    {
+      "name": "Granulocyte colony-stimulating factor",
+      "type": "BIOLOGICAL",
+      "description": "Subcutaneous injection"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Has been diagnosed with relapsed/refractory AML.\n* Has a documented NPM1 mutation or KMT2A rearrangement.\n* Has a documented FLT3 mutation (cA-3 only).\n* Has an Eastern Cooperative Oncology Group (ECOG) Performance status \u2264 2.\n* Has adequate hepatic and renal function as defined per protocol.\n* Has an ejection fraction above a protocol defined limit.\n* Participant, or legally authorized representative, must be able to understand and provide written informed consent prior to the first screening procedure.\n* Has agreed to use contraception as defined per protocol.\n\nKey Exclusion Criteria:\n\n* Has a diagnosis of acute promyelocytic leukemia or blast chronic myeloid leukemia.\n* Has clinically active central nervous system leukemia.\n* Has an active and uncontrolled infection.\n* Has a mean corrected QT interval (QTcF) \\> 480ms.\n* Has uncontrolled intercurrent illness, including, but not limited to protocol defined cardiac disease.\n* Has received radiation, chemotherapy, immunotherapy, or any other anticancer therapy including investigational therapy \\<14 days or within 5 drug half-lives prior to the first dose of study intervention.\n* Has had major surgery within 4 weeks prior to the first dose of study intervention.\n* Has received a hematopoietic stem cell transplant (HSCT) and has not previously had adequate recovery per protocol defined criteria.\n* Has active graft-versus-host disease (GvHD) and or on immunosuppressive drugs for the treatment of GvHD\n* Participant is pregnant or lactating.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "John Theurer Cancer Center at Hackensack University Medical Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Lehigh Valley Topper Cancer Institute",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Rate of dose limiting toxicities (DLTs) per dose level",
+      "timeFrame": "During the first 28 days of ziftomenib in combination with SOC treatment (1 cycle)",
+      "description": "Assessed by the NCI-CTCAE v5.0"
+    },
+    {
+      "measure": "Descriptive statistics of adverse events",
+      "timeFrame": "First dose of ziftomenib up to and including 28 days after last dose of ziftomenib, or if the patient is lost to follow-up, whichever comes first",
+      "description": "Assessed by the NCI-CTCAE v5.0"
+    }
+  ],
+  "sponsor": "Kura Oncology, Inc.",
+  "collaborators": [],
+  "start_date": "2024-02-22",
+  "completion_date": "2027-08",
+  "last_updated": "2025-12-02"
+}

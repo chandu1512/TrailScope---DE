@@ -1,0 +1,60 @@
+{
+  "nct_id": "NCT07478016",
+  "brief_title": "EXploring Inflammation and Social deTerminants Study in Breast Cancer Patients",
+  "official_title": "EXploring Inflammation and Social deTerminants (EXIST) Study in Breast Cancer Patients",
+  "brief_summary": "This is a pilot trial to assess how measures of inflammation are correlated with Social Determinants of Health (SDoH) in breast cancer patients. Expected duration of subject participation is one single time point. The patients will fill out questionnaires and provide a plasma sample.",
+  "detailed_description": "OBJECTIVE:\n\nTo understand the link between adverse Social Determinants of Health (SDoH) on inflammation, a known contributor to cancer progression and metastases.\n\nPRIMARY:\n\nPatients with newly diagnosed, biopsy proven breast cancer will be screened for SDoH and distress via a distress screen and for biomarkers. The primary endpoint will be to understand the relationship between measured social determinants of health and inflammation as found in the plasma and buffy coat sample. SDoH will be evaluated as per the Centers for Medicare and Medicaid Services (CMS) survey. This survey was chosen due to the documented validity of the questions based on the literature backing each question, the scoring system that accompanies it and the questions relationship with health outcomes. Based on the local Philadelphia population, the investigators chose to add several questions to understand potential social isolation. Levels of IL-6 will be measured and this will be used as a surrogate for inflammation.\n\nSECONDARY:\n\nPatient characteristics such as weight, body composition, food recall and outcomes will be monitored. Additionally, members of the IGF-1R-AKT pathway, IL1\u03b2, and insulin in the plasma , will be assessed to create a molecular signature of response to this therapy.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 200,
+  "conditions": [
+    "Breast Cancer",
+    "Ductal Carcinoma In Situ"
+  ],
+  "interventions": [
+    {
+      "name": "Survey Assessments",
+      "type": "OTHER",
+      "description": "The CMS Social Determinant of Health (SDOH) Survey refers to CMS's standardized screening tool used to identify patient needs related to housing, food, transportation, utilities, and safety. It helps providers address non-medical barriers to care and improve health outcomes by documenting social risk factors in a consistent manner.\n\nThe NCCN Distress Thermometer and Problem List is a screening tool developed by the National Comprehensive Cancer Network (NCCN) to help identify and assess distress in people with cancer. It includes a 0-10 distress rating scale and a Problem List that allows patients to indicate specific practical, emotional, physical, social, and spiritual concerns contributing to their distress."
+    },
+    {
+      "name": "Diet Recall",
+      "type": "OTHER",
+      "description": "A diet recall is a nutrition assessment method where an individual reports all foods and beverages consumed over a specific period, most commonly the previous 24 hours. It captures detailed information-such as portion sizes, preparation methods, and timing-to help clinicians or researchers evaluate dietary intake and identify nutritional patterns or deficiencies"
+    },
+    {
+      "name": "Blood Biomarker Collection",
+      "type": "OTHER",
+      "description": "The blood specimens will be processed for plasma and buffy coat."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Individuals must meet all the following inclusion criteria to be eligible to participate in the study:\n\n  1. Female\n  2. \\>18 years old at time of consent\n  3. Biopsy proven invasive breast cancer or ductal carcinoma in situ\n  4. Candidate has not yet received cancer therapy for their breast cancer diagnosis\n  5. ECOG Performance Status \\< 2\n  6. Able to provide consent\n  7. Must be English speaking\n\nExclusion Criteria:\n\n* An individual who meets any of the following criteria will be excluded from participation in this study:\n\n  1. Patient has started therapy or already had definitive oncologic surgery\n  2. Another malignancy within the past 6 months that was not a non-melanomatous skin lesion",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Correlation Between Breast Cancer Patients' Social Determinants of Health (SDoH) and Systematic Inflammation",
+      "timeFrame": "At Visit 1 (1 day)",
+      "description": "Patients with newly diagnosed, biopsy proven breast cancer will be screened for SDoH and distress via a distress screen and for biomarkers. The primary endpoint will be to understand the relationship between measured social determinants of health and inflammation as found in the plasma and buffy coat sample. Levels of IL-6 will be measured and this will be used as a surrogate for inflammation."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [],
+  "start_date": "2022-12-21",
+  "completion_date": "2028-12-31",
+  "last_updated": "2026-03-13"
+}

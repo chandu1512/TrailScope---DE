@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT00452413",
+  "brief_title": "A Study of Enzastaurin and Erlotinib in Participants With Solid Tumors and Lung Cancer",
+  "official_title": "A Phase 1/2 Trial of Enzastaurin and Erlotinib in Patients With Advanced Solid Tumors and Non-Small Cell Lung Cancer (NSCLC) After Prior Chemotherapy",
+  "brief_summary": "Phase I: A study to see what doses of Enzastaurin and Erlotinib are best tolerated by participants with solid tumor cancer.\n\nPhase II: A study to see how long participants with non-small cell lung cancer (NSCLC) treated with Enzastaurin and Erlotinib live.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 65,
+  "conditions": [
+    "Non-Small Cell Lung Cancer",
+    "Malignant Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "enzastaurin",
+      "type": "DRUG",
+      "description": "Administered orally"
+    },
+    {
+      "name": "erlotinib",
+      "type": "DRUG",
+      "description": "Administered orally"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Phase 1: Any incurable solid malignancy, with no more than 3 prior systemic treatment regimens.\n\n   Phase 2: Histologic diagnosis of advanced NSCLC, Stage IIIB with malignant pleural effusion or Stage IV per American Joint Committee on Cancer Staging Criteria for NSCLC. Participants must have failed 1 or 2 prior systemic treatment regimen(s).\n2. Performance status of 0, 1, or 2 on the Eastern Cooperative Oncology Group (ECOG) Scale\n3. Prior chemotherapy must be completed at least 2 weeks prior to study enrollment, and the participant must have recovered from acute toxic effects (except alopecia) prior to enrollment.\n4. Prior radiotherapy is allowed to \\<25% of the bone marrow. Prior radiotherapy must be completed at least 2 weeks before study enrollment, and the participant must have recovered from acute toxic effects (except alopecia) prior to enrollment.\n5. Non-measurable or measurable disease as defined by Response Evaluation Criteria in Solid Tumors \\[RECIST, version (v) 1.0\\].\n\nExclusion Criteria:\n\nParticipants who\n\n1. Are unable to swallow tablets.\n2. Unable to discontinue use of carbamazepine, phenobarbital, and phenytoin.\n3. Have previously been treated with an epidermal growth factor receptor (EGFR) inhibitor, including erlotinib.\n4. Are receiving concurrent administration of any other antitumor therapy.\n5. Have received treatment within the last 30 days with a drug (not including study drug) that has not received regulatory approval for any indication at the time of study entry.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21237",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Recommended Phase 2 Dose for Enzastaurin Plus Erlotinib Combination Therapy (Assess the Tolerated Dose of the Combination Erlotinib and Enzastaurin)",
+      "timeFrame": "Phase 1: Predose through end of Cycle 1 (28 days/cycle)",
+      "description": "The recommended Phase 2 daily dose level was to be either 1 dose level below that in which 2 of 6 participants experienced dose-limiting toxicities (DLTs) in Phase 1 or the full doses of both enzastaurin and erlotinib (Phase 1, Dose Level 2) in the event that no more than 1 DLT occurred at the highest dose level (Dose Level 2). DLTs were defined as any of the following events during Phase 1, Cycle 1 that were considered by the investigator to be attributable to enzastaurin or the combination of enzastaurin with erlotinib: Grade 4 hematologic events; Grade 3 or 4 nonhematologic events except toxicities explained by a coexisting condition such as glucose disturbances in a diabetic or electrolyte imbalances from diarrhea or vomiting, and toxicities of nausea, vomiting, diarrhea, or skin rash that were tolerable with appropriate treatment."
+    },
+    {
+      "measure": "Phase 2: Progression-Free Survival (PFS) With the Enzastaurin Plus Erlotinib Combination Regimen",
+      "timeFrame": "Phase 2: Baseline to measured PD (up to 20 months)",
+      "description": "PFS was defined as the time from the date of study enrollment (baseline) to the first date of progressive disease (PD) (either objectively determined or clinical progression) or death from any cause. PD was defined by Response Evaluation Criteria in Solid Tumors \\[RECIST, version (v) 1.0\\] as at least a 20% increase in the sum of the longest diameter (LD) of target lesions, taking as references the smallest sum LD recorded since the treatment started or the appearance of 1 or more new lesions. For participants not known to have died as of the data cut-off date and who did not have PD, PFS was censored at the date of the last visit with adequate assessment. For participants who received subsequent anticancer therapy (after discontinuation from study treatment) prior to disease progression or death, PFS was censored at the date of last visit with adequate assessment prior to the initiation of post discontinuation anticancer therapy."
+    }
+  ],
+  "sponsor": "Eli Lilly and Company",
+  "collaborators": [],
+  "start_date": "2007-05",
+  "completion_date": "2013-11",
+  "last_updated": "2021-04-20"
+}

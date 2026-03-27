@@ -1,0 +1,93 @@
+{
+  "nct_id": "NCT06261814",
+  "brief_title": "Contrast Enhanced Ultrasound to Evaluate Response to Chemoembolization in Patients With Liver Tumors",
+  "official_title": "2D and 3D Contrast Enhanced Ultrasound of Chemoembolization",
+  "brief_summary": "This phase II trial evaluates the diagnostic performance of contrast-enhanced ultrasound (CEUS) for assessing treatment response in patients undergoing transarterial chemoembolization (TACE) for liver tumors. TACE is a hepatic artery embolization technique involving the injection of a blocking agent and a chemotherapy agent to treat liver cancers. Currently, contrast enhanced magnetic resonance imaging or computed tomography are used to assess disease response 1-2 months after TACE treatment, but ultrasound may be a less expensive, earlier alternative. CEUS is an imaging procedure that uses high-frequency sound waves to generate images of the body after administering Lumason, an imaging agent used to enhance visualization of blood flow on ultrasounds. CEUS is able to be performed during the TACE procedure, making it possible to evaluate treatment response earlier than standard techniques. CEUS may be an effective method to evaluate treatment response more accurately and much earlier than current standard evaluation methods.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate the sensitivity and specificity of CEUS for the evaluation of TACE treatment response in a variety of solid liver tumors (years 1-4).\n\nSECONDARY OBJECTIVES:\n\nI. To determine the ability of CEUS to identify residual tumor vascularity intraoperatively, thereby enabling immediate retreatment when necessary (years 1-4).\n\nII. To explore a variety of advanced imaging approaches to improve on the suboptimal specificity of CEUS for identifying residual viable tumor following TACE (years 1-5).\n\nIII. To investigate the ability of CEUS obtained prior to TACE to quantitatively assess tumor vascular morphology and predict response to therapy (years 2-5).\n\nEXPLORATORY OBJECTIVE:\n\nI. Use acquired B-mode in-phase and quadrature (IQ) data for H-scan imaging.\n\nOUTLINE:\n\nPatients receive sulfur hexafluoride lipid microspheres (Lumason) intravenously (IV) and undergo CEUS 2 weeks prior to TACE, during TACE, 1-2 weeks after TACE, and then 1-2 months after TACE.\n\nAfter completion of study treatment, patients are followed up at 6 months.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 266,
+  "conditions": [
+    "Liver Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Sulfur Hexafluoride Lipid Microspheres",
+      "type": "DRUG",
+      "description": "Given IV"
+    },
+    {
+      "name": "Contrast-Enhanced Ultrasound",
+      "type": "PROCEDURE",
+      "description": "Undergo CEUS"
+    },
+    {
+      "name": "Transarterial Chemoembolization",
+      "type": "PROCEDURE",
+      "description": "Undergo TACE"
+    },
+    {
+      "name": "Medical Chart Review",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Scheduled for TACE therapy of a liver tumor\n* Be at least 18 years of age\n* Be medically stable\n* If a female of child-bearing age, must have a negative pregnancy test\n* Have signed informed consent to participate in the study\n\nExclusion Criteria:\n\n* Patients who are medically unstable, patients who are seriously or terminally ill, and patients whose clinical course is unpredictable\n* Patients with known sensitivities to the components of lumason",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Recurrence",
+      "timeFrame": "Up to 6 months",
+      "description": ""
+    },
+    {
+      "measure": "Sensitivity",
+      "timeFrame": "Up to 6 months",
+      "description": "Will be computed using a reference standard. Variables will be summarized with descriptive statistics, such as means with standard deviations or frequency counts with percentage, across the cohort and within group of interest. Diagnostic accuracy will be compared between hepatocellular carcinoma (HCC) and non-HCC and between all tumor subtypes."
+    },
+    {
+      "measure": "Specificity",
+      "timeFrame": "Up to 6 months",
+      "description": "Will be computed using a reference standard. Variables will be summarized with descriptive statistics, such as means with standard deviations or frequency counts with percentage, across the cohort and within group of interest. Diagnostic accuracy will be compared between HCC and non-HCC and between all tumor subtypes."
+    },
+    {
+      "measure": "Positive predictive value",
+      "timeFrame": "Up to 6 months",
+      "description": "Will be computed using a reference standard. Variables will be summarized with descriptive statistics, such as means with standard deviations or frequency counts with percentage, across the cohort and within group of interest. Diagnostic accuracy will be compared between HCC and non-HCC and between all tumor subtypes."
+    },
+    {
+      "measure": "Negative predictive value",
+      "timeFrame": "Up to 6 months",
+      "description": "Will be computed using a reference standard. Variables will be summarized with descriptive statistics, such as means with standard deviations or frequency counts with percentage, across the cohort and within group of interest. Diagnostic accuracy will be compared between HCC and non-HCC and between all tumor subtypes."
+    },
+    {
+      "measure": "False discovery rate",
+      "timeFrame": "Up to 6 months",
+      "description": "Will be computed using a reference standard. Variables will be summarized with descriptive statistics, such as means with standard deviations or frequency counts with percentage, across the cohort and within group of interest. Diagnostic accuracy will be compared between HCC and non-HCC and between all tumor subtypes."
+    }
+  ],
+  "sponsor": "john eisenbrey",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2024-08-07",
+  "completion_date": "2028-01-01",
+  "last_updated": "2026-02-12"
+}

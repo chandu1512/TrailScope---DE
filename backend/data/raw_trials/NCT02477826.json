@@ -1,0 +1,116 @@
+{
+  "nct_id": "NCT02477826",
+  "brief_title": "An Investigational Immuno-therapy Trial of Nivolumab, or Nivolumab Plus Ipilimumab, or Nivolumab Plus Platinum-doublet Chemotherapy, Compared to Platinum Doublet Chemotherapy in Patients With Stage IV Non-Small Cell Lung Cancer (NSCLC)",
+  "official_title": "An Open-Label, Randomized Phase 3 Trial of Nivolumab, or Nivolumab Plus Ipilimumab, or Nivolumab Plus Platinum Doublet Chemotherapy Versus Platinum Doublet Chemotherapy in Subjects With Chemotherapy-Na\u00efve Stage IV or Recurrent Non-Small Cell Lung Cancer (NSCLC)",
+  "brief_summary": "The purpose of this study is to show that Nivolumab, or Nivolumab plus Ipilimumab, or Nivolumab plus Platinum-Doublet Chemotherapy improves progression free survival and/or overall survival compared with chemotherapy in patients with advanced lung cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 2747,
+  "conditions": [
+    "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Ipilimumab",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Carboplatin",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Gemcitabine",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": ""
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subjects with histologically confirmed Stage IV or recurrent NSCLC squamous or non-squamous histology, with no prior systemic anticancer therapy\n* Subjects must have programmed death-ligand 1 (PD -L1) immunohistochemical (IHC) testing, with results, performed by the central lab during the Screening period\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of \u2264 1\n* Measurable disease by CT or MRI per response evaluation criteria in solid tumors version 1.1 (RECIST 1.1) criteria\n\nExclusion Criteria:\n\n* Subjects with untreated Central nervous system (CNS) metastases are excluded\n* Subjects with an active, known or suspected autoimmune disease are excluded\n* Any positive test for hepatitis B virus or hepatitis C virus or human immunodeficiency virus (HIV) indicating acute or chronic infection\n\nOther protocol defined inclusion/exclusion criteria apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Local Institution - 0007",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0075",
+      "city": "Langhorne",
+      "state": "Pennsylvania",
+      "zip": "19047",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0299",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0012",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2412",
+      "status": ""
+    },
+    {
+      "facility": "Local Institution - 0015",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival Per BICR",
+      "timeFrame": "From randomization untill disease progression or death, whichever occurs first (up to approximately 481 weeks)",
+      "description": "Progression-Free Survival then (PFS) is defined as the time between the date of randomization and the date of first documented disease progression, based on BICR assessments (per RECIST v1.1), or death due to any cause, whichever occurs first based on Kaplan-Meier estimates. Progressive Disease (PD): At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum during the study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm."
+    },
+    {
+      "measure": "Overall Survival",
+      "timeFrame": "From randomization untill death or last follow up whichever occurs first (up to approximately 481 weeks)",
+      "description": "OS for all randomized participants is the time between randomization date and the date of death from any cause."
+    }
+  ],
+  "sponsor": "Bristol-Myers Squibb",
+  "collaborators": [
+    "Ono Pharmaceutical Co. Ltd"
+  ],
+  "start_date": "2015-08-05",
+  "completion_date": "2024-10-25",
+  "last_updated": "2025-10-21"
+}

@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT03957252",
+  "brief_title": "Validation of ClarityDX Prostate as a Reflex Test to Refine the Prediction of Clinically-significant Prostate Cancer",
+  "official_title": "Clinical Validation of ClarityDX Prostate as a Reflex Test to Prostate Specific Antigen (PSA) to Refine the Prediction of Clinically-significant Prostate Cancer",
+  "brief_summary": "This study is designed to determine the accuracy of blood test ClarityDX Prostate to predict the results of prostate biopsies in men who have PSA (Prostate Specific Antigen) greater or equal to 3 ng/mL.",
+  "detailed_description": "The main objective of this study is to validate ClarityDX Prostate as a reflex test to PSA to refine the prediction of clinically-significant prostate cancer in a prospective cohort of men to be recruited in North America when they are scheduled for a biopsy as a result of on an elevated PSA or other suspicion of prostate cancer and in retrospective databases from selected sites in the United States of America and the world.\n\nThis prospective training and validation cohort study will consist of up to 2,800 consenting men from Alberta in addition to up to 5,000 men from external institutions, between ages 40-75 (inclusive) years old, without prior diagnosis of prostate cancer, who have been selected to undergo a prostate biopsy to rule out prostate cancer.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 2800,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Blood test: ClarityDX Prostate",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "PSA on patients who are suspected to have prostate cancer and will undergo a prostate biopsy. ClarityDX Prostate Risk Score will be compared with biopsy results to assess its predictive accuracy."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Males between 40-75 (inclusive) years of age;\n2. With and without family history of prostate cancer;\n3. No prior prostate cancer diagnosis and who are referred to have a prostate biopsy;\n4. Total PSA results \\>/= 3ng/mL collected within 6m of enrollment;\n5. Willing to permit provincial agencies (e.g. Alberta Health Services, Alberta Health, Netcare, Service Alberta or other based on recruitment jurisdiction) to disclose health-related information to study;\n6. Undergoing a diagnostic prostate biopsy; and\n7. Provided informed consent to participate in the study.\n\nExclusion Criteria:\n\n1. Unwilling to participate in the study;\n2. Unavailable for biopsy procedure in recruitment areas;\n3. Not undergoing a prostate biopsy;\n4. Prior diagnosis of cancer excluding non-melanoma skin cancer; and/or\n5. Under the age of 40 years of age or over the age of 75 years of age.",
+    "gender": "MALE",
+    "min_age": "40 Years",
+    "max_age": "75 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21218",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Diagnostic Clinical Performance: prediction of clinically significant prostate cancer at biopsy",
+      "timeFrame": "3 years",
+      "description": "Training Phase: Processed clinical features of each patient will be analyzed using machine learning to predict clinically significant prostate cancer, with the output being the ClarityDX Prostate Risk Score.\n\nValidation Phase: The models created during the Training Phase will be locked down and then used to determine the probability of approximately 1,400 patients in the investigational Validation Phase having clinically significant prostate cancer."
+    },
+    {
+      "measure": "Active Surveillance: prediction of Gleason Grade Group on confirmatory/follow-up biopsies for participants on Active Surveillance",
+      "timeFrame": "4 years",
+      "description": ""
+    },
+    {
+      "measure": "MRI: prediction of PI-RADS pre-diagnostic biopsy",
+      "timeFrame": "4 years",
+      "description": ""
+    }
+  ],
+  "sponsor": "Nanostics",
+  "collaborators": [
+    "Alberta Prostate Cancer Research Initiative, APCaRI",
+    "Prostate Cencer Centre, Calgary",
+    "Alberta Cancer Foundation",
+    "Alberta Innovates Health Solutions",
+    "Motorcycle Ride for Dad",
+    "University Hospital Foundation - The Kaye Fund Competition",
+    "Alberta Precision Laboratories",
+    "Kipnes Urology Centre"
+  ],
+  "start_date": "2019-06-06",
+  "completion_date": "2027-03",
+  "last_updated": "2025-05-23"
+}

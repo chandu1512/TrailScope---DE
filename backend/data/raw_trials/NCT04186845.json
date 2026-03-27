@@ -1,0 +1,72 @@
+{
+  "nct_id": "NCT04186845",
+  "brief_title": "Imaging Study to Investigate Safety and Diagnostic Performance of 18F rhPSMA 7.3 PET Ligand in Suspected Prostate Cancer Recurrence",
+  "official_title": "A Prospective, Phase 3, Multi Center, Single-arm, Imaging Study Investigating the Safety and Diagnostic Performance of rhPSMA 7.3 (18F) PET Ligand in Men With Suspected Prostate Cancer Recurrence Based on Elevated PSA Following Prior Therapy (SPOTLIGHT)",
+  "brief_summary": "A prospective, Phase 3, multi center, single-arm, imaging study investigating the safety and diagnostic performance of rhPSMA 7.3 (18F) Positron Emission Tomography (PET) ligand in men with suspected prostate cancer recurrence based on elevated Prostate-specific antigen (PSA) following prior therapy.",
+  "detailed_description": "The primary objective of this study was to assess the patient-level correct detection rate (CDR) and region-level positive predictive value (PPV) of rhPSMA-7.3 (18F) positron emission tomography (PET) for biochemical recurrence (BCR) of prostate cancer using histopathology or imaging as a standard of truth (SoT).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 391,
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "rhPSMA-7.3 (18F) Injection",
+      "type": "DRUG",
+      "description": "Radioligand for PET CT scanning"
+    },
+    {
+      "name": "Positron emission tomography scan",
+      "type": "DIAGNOSTIC_TEST",
+      "description": "Imaging scan with radioligand"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patient is male and aged \\>18 years old.\n2. History of localized adenocarcinoma of the prostate with prior curative intent treatment.\n3. An elevated PSA, clinically suspicious for biochemically recurrent disease:\n\n   * Following Radical Prostatectomy: PSA \\>0.2 ng/mL\n   * Following Radiotherapy: nadir +2 ng/mL.\n4. Potentially eligible for salvage therapy with curative intent.\n\nExclusion Criteria:\n\n1. Patients who are planned to have an x-ray contrast agent or other PET radiotracer \\<24 hours prior to the PET scan.\n2. Patients currently receiving Androgen Deprivation Therapy (ADT).",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Chesapeake Urology Research Associates",
+      "city": "Towson",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": ""
+    },
+    {
+      "facility": "MidLantic Urology",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19004",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Patient-level CDR and Region-level PPV of rhPSMA7.3 (18F) PET for BCR of Prostate Cancer Using Histopathology or Imaging as a SoT",
+      "timeFrame": "Conventional images within 90 days of rhPSMA7.3 (18F) PET, followed by biopsy within 60 days post-PET scan or confirmatory imaging within 90 days post-PET scan",
+      "description": "The CDR was defined as the percentage of all patients scanned who had at least one TP lesion (localized correspondence between rhPSMA-7.3 (18F) PET imaging and the reference standard) regardless of any coexisting FP findings. When determining the region-level PPV, all rhPSMA7.3 (18F) PET-positive regions (maximum of three per patient) were categorized as TP or FP regions using histopathology or imaging."
+    }
+  ],
+  "sponsor": "Blue Earth Diagnostics",
+  "collaborators": [
+    "Parexel"
+  ],
+  "start_date": "2020-05-04",
+  "completion_date": "2021-04-28",
+  "last_updated": "2025-09-10"
+}

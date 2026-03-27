@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT03735680",
+  "brief_title": "A Study to Evaluate ONM-100, an Intraoperative Fluorescence Imaging Agent for the Detection of Cancer",
+  "official_title": "A Phase 2a, Single-dose, Open-label Study to Evaluate Diagnostic Performance, Safety & Timing of Postdose Imaging of ONM-100, an Intraoperative Fluorescence Imaging Agent for the Detection of Cancer, in Patients With Solid Tumors Undergoing Routine Surgery",
+  "brief_summary": "This study is to evaluate diagnostic performance, safety and timing of post-dose imaging of ONM-100, an intraoperative fluorescence imaging agent for the detection of cancer in patients with solid tumors undergoing routine surgery.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 30,
+  "conditions": [
+    "Breast Cancer",
+    "Head and Neck Squamous Cell Carcinoma",
+    "Colorectal Cancer",
+    "Prostate Cancer",
+    "Ovarian Cancer",
+    "Urothelial Carcinoma",
+    "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "ONM-100",
+      "type": "DRUG",
+      "description": "A polymer micelle covalently conjugated to indocyanine green."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Biopsy-confirmed diagnosis of primary or recurrent respective tumor type and scheduled to undergo surgical resection\n* Part 1: Biopsy-confirmed diagnosis of head and neck squamous cell carcinoma (HNSCC) or breast cancer\n* Part 2: Biopsy-confirmed diagnosis of HNSCC, breast cancer, colorectal cancer, prostate cancer, ovarian cancer, urothelial carcinoma and non-small cell lung cancer.\n* Part 3: Stage 2 to 4 HNSCC Including T0 or Tx unknown Primary cancers\n\nExclusion Criteria:\n\n* Histologically diagnosed by an excisional biopsy procedure\n* Tumors at sites of which the surgeon would assess that in vivo intraoperative imaging would not be feasible\n* Life expectancy \\<12 weeks\n* Hepatic impairment (Child-Pugh score \\>5) or significant liver disease including active hepatitis or cirrhosis",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Measure Mean Fluorescence Intensity of Histologically Confirmed Tumor vs Normal Tissue in Patients Undergoing Routine Surgery [Tumor to Background Ratio (TBR)]",
+      "timeFrame": "1 day",
+      "description": "Part 1: Evaluate the dose(s) at which ONM-100 fluorescence imaging is feasible at 3\u00b12 hours post dose.\n\nPart 2: Verify the safety and diagnostic performance of ONM-100 compared to standard pathology at the dose(s) and imaging schedule(s) post dose selected from Part 1 for the detection of primary tumors and the metastatic lymph nodes in a variety of solid cancers (which could have included HNSCC, breast cancer, colorectal cancer, urothelial cancer, prostate cancer, ovarian cancer, and/or non-small cell lung carcinoma \\[NSCLC\\]).\n\nPart 3: Assess the safety and efficacy (sensitivity and positive predictive value \\[PPV\\] of ONM-100 for intraoperative imaging during HNSCC surgery."
+    },
+    {
+      "measure": "Incidence Rate of All Treatment-emergent Adverse Events (TEAEs) From Time of ONM-100 Administration Through Day 28",
+      "timeFrame": "28 days",
+      "description": "Evaluate safety at the dose(s) used to assess imaging feasibility and select the dose(s) and imaging schedule(s) post dose that are safe and provide optimal imaging of solid tumors and metastatic lymph nodes; the dose and time post dose chosen for the detection of primary tumors and metastatic lymph nodes could be the same or different."
+    }
+  ],
+  "sponsor": "OncoNano Medicine, Inc.",
+  "collaborators": [],
+  "start_date": "2019-08-09",
+  "completion_date": "2021-11-18",
+  "last_updated": "2023-07-06"
+}

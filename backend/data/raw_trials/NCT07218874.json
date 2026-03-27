@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT07218874",
+  "brief_title": "Feasibility and Acceptability of the Remote Oncology Symptom Assessment Application",
+  "official_title": "Feasibility and Acceptability of the Remote Oncology Symptom Assessment Application",
+  "brief_summary": "The goal of this study is to determine whether a mobile application that combines real-time sensor data and patient-reported symptoms to trigger care-team contact recommendations is feasible and beneficial for patients receiving chemotherapy. The main questions it aims to answer are:\n\n* Is the mobile application feasible and acceptable to patients?\n* Do the alerts and guidance improve symptom management, quality of life, and engagement with the care team during treatment?\n\nParticipants will:\n\n* Complete a demographic questionnaire at the beginning of the study and quality-of-life and health questionnaires at the beginning, midpoint, and end of study.\n* Complete daily symptom ratings.\n* Wear a Fitbit activity tracker for 90 days.\n* At the end of the study, complete a semi-structured interview to provide feedback on the study.\n* Optional: At the beginning and end of the study, complete an in-person physical function assessment measuring balance (Short Physical Performance Battery).",
+  "detailed_description": "Participants (n=50) will be recruited from UPMC Hillman clinics.\n\nIf eligible patients consent to participate, they will complete online baseline, midpoint, and end of study questionnaires. Participant's medical records will be reviewed to extract demographic information and clinical covariates, including information about their cancer, its treatment, biological variables such as sex and age, clinical variables such as comorbidities, surgeries and hospitalizations, medications, and other markers of health care utilization (e.g., emergency department visits). Once extracted, these values will be linked only to their study ID number.\n\nFollowing informed consent, participants will have the ROSA Android or iOS application installed on their smartphones that are capable of running the app (or will be talked through the installation of the app on their smartphone if conducting visit remotely). The application will securely store this information on the device and transmit this information to a secure cloud-based research server over secure network (WiFi or cellular) connection at least once per day. All data will be de-identified and will use only a study ID number linked to identifying participant information in a password protected file. The data captured for the research will not include any personally identifiable information. The data plan requirements of the application are not significantly different from what most smartphone users would require if they use their device to access the Internet for web searching.\n\nAt the initial visit (either in person or online, 20-30 minutes), participants will also be oriented to the ecological momentary assessment procedures to assess patient-reported symptoms. Participants will install the ROSA Android or iOS application on their smartphones. The unique non-identifying participant ID will be entered into the app upon initial log in and will be saved locally on the device. This code number will be attached to participant data so that the research team will be able to know which participant code number each survey response is associated with. Participants will be able to set the time of day for which they wish to receive notifications to complete the daily symptom ratings. When participants receive the survey notification, it will open up the study application and they can proceed to take the daily survey (approximately 5 minutes) via an anonymous Qualtrics survey link embedded in the app and opened in their smartphone's internet browser. Symptoms will be assessed using the PRO version of the Common Terminology for Adverse Events (PRO-CTCAE).\n\nParticipants will be asked to complete at least one rating per day and will report on symptoms over the last 24 hours. Responses range from 0-4; any grade 1 response (reflecting mild symptoms) will trigger a recommendation to view symptom management/education tips available in a self-care library in the app, and any grade 2-4 response (reflecting moderate to severe symptoms) will trigger a recommendation that the participant may want to contact their provider about the potentially concerning symptom. Reports will be automatically generated and emailed each week displaying their summarized data and a list of all the individual data points that triggered alerts which they can then share with their care team, family members, etc. Weekly reports will include a link to an optional survey asking for feedback on how they've used the last week's report. In addition to the PRO-CTCAE questions in the daily survey, participants will also be asked to rate their overall quality of life for that day from 0 (worst possible) to 10 (best possible), about any cancer treatment they've received since the last survey, about any communication with their cancer care team since their last survey, and approximately how much time they spent each day on tasks related to cancer care.\n\nAs feasible, participants will complete the Short Physical Performance Battery (SPPB) at the UPMC Hillman Cancer Center or the research team's office at baseline and at the end of the study. During these visits, this in-person assessment will be administered by trained study team members. Participants that enroll in the study remotely will be invited to complete the in-person SPPB as feasible. The SPPB will be conducted within 2 weeks of the enrollment date and within 2 weeks of the end of study date.\n\nParticipants will also be asked to wear a Fitbit device as feasible (Fitbit Inspire 3 or similar) for the duration of the study and to install the Fitbit app on their smartphone. The Fitbit is a wristwatch-sized waterproof device that assesses heart and breathing rates, physical activity, and sleep, skin temperature, and oxygen levels and wirelessly transmits data to the server. Participants will be asked to charge the device as needed, approximately every 7-10 days. If they already own a Fitbit device that collects comparable data to the study provided device, we will request access to their Fitbit data for the duration of their study participation. Fitbit data points outside of prespecified thresholds based on physiological norms (for skin temperature and pulse oxygenation) or each participants' historic average (heart rate and activity) will trigger a recommendation that the participant may want to contact their provider about the potentially concerning data point.\n\nAt the end of the study, we will assist participants in removing the ROSA app from their phones. Participants will also complete an end of study interview at this time.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Cancer",
+    "Solid Tumor Cancer",
+    "Chemotherapy"
+  ],
+  "interventions": [
+    {
+      "name": "Mobile Symptom Monitoring and Alert App",
+      "type": "BEHAVIORAL",
+      "description": "Responses range from 0-4; any grade 1 response (reflecting mild symptoms) will trigger a recommendation to view symptom management/education tips available in a self-care library in the app, and any grade 2-4 response (reflecting moderate to severe symptoms) will trigger a recommendation that the participant may want to contact their provider about the potentially concerning symptom. Fitbit data points outside of prespecified thresholds based on physiological norms (for skin temperature and pulse oxygenation) or each participants' historic average (heart rate and activity) will trigger a recommendation that the participant may want to contact their provider about the potentially concerning data point. Reports will be generated and emailed to participants each week displaying summaries/graphs of recent alerts triggered, symptom ratings, and Fitbit data."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Receiving chemotherapy at the UPMC Hillman Cancer Center for any solid tumor cancer at any stage with at least two cycles remaining;\n* age 18 years or older;\n* ability to read and write in English;\n* sufficient performance status to participate in research (e.g., Karnofsky performance status of 60-100%); and\n* owns and uses an Android smartphone or an iPhone capable of running the study apps.\n\nExclusion Criteria:\n\n* under 18 years old; and\n* unable to read and write in English",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Acceptability via semi-structured interviews",
+      "timeFrame": "At the end of the intervention (at approximately 90 days)",
+      "description": "Post-intervention semi-structured interviews will be conducted to gather participant feedback and assess acceptability of the program (e.g., likelihood to keep using app and to recommend app)"
+    },
+    {
+      "measure": "Acceptability via System Usability Scale",
+      "timeFrame": "At the end of the intervention (at approximately 90 days)",
+      "description": "System Usability Scale (SUS). For odd items, subtract one from the user response. For even-numbered items, subtract the user responses from 5. This scales all values from 0 to 4 (with four being the most positive response). Add up the converted responses for each user and multiply that total by 2.5. Possible range of scores is 0 to 100 representing a composite measure of the overall usability of the system being studied."
+    },
+    {
+      "measure": "Feasibility via accrual rate",
+      "timeFrame": "From enrollment to the end of the intervention (at approximately 90 days)",
+      "description": "accrual rate (number of participants that enroll \\[consent and provide at least one form of data\\] out of number of participants approached)"
+    },
+    {
+      "measure": "Feasibility via engagement",
+      "timeFrame": "From enrollment to the end of the intervention (at approximately 90 days)",
+      "description": "engagement (how many days within the study the participants engaged with the app and had Fitbit data)"
+    },
+    {
+      "measure": "Feasibility via completion rate",
+      "timeFrame": "From enrollment to the end of the intervention (at approximately 90 days)",
+      "description": "completion rate (number of participants that complete the study)"
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2026-02-02",
+  "completion_date": "2026-12-31",
+  "last_updated": "2026-02-02"
+}

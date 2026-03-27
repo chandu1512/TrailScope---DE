@@ -1,0 +1,51 @@
+{
+  "nct_id": "NCT05197881",
+  "brief_title": "Daily Adaptive Radiation Therapy an Individualized Approach for Carcinoma of the Cervix",
+  "official_title": "Daily Adaptive External Beam Radiation Therapy in the Treatment of Carcinoma of the Cervix: A Prospective Trial of an Individualized Approach for Intestinal Toxicity Reduction (ARTIA-Cervix)",
+  "brief_summary": "This is a single-arm, prospective, multi-center clinical trial designed to demonstrate that adaptive radiotherapy for locally advanced cervical cancer will translate into a decreased rate of acute gastrointestinal toxicity compared with the historically reported rate for non-adaptive intensity modulated radiation therapy (IMRT). The timepoint for this assessment will be at week 5 of external beam radiotherapy (EBRT) and will use the Patient-Reported Outcomes version of the Common Terminology Criteria for Adverse Events (PRO-CTCAE).",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 125,
+  "conditions": [
+    "Cervical Cancer by FIGO Stage 2018"
+  ],
+  "interventions": [
+    {
+      "name": "Varian Ethos Adaptive Radiation Therapy",
+      "type": "DEVICE",
+      "description": "Daily adaptive external beam radiation therapy delivered on Varian Ethos treatment system."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patients must have histologically confirmed, newly diagnosed advanced cervical cancer (squamous cell carcinoma, adenocarcinoma, and adenosquamous cell carcinoma): FIGO 2018 clinical stages IB2-IVA, without involved paraaortic lymph nodes.\n2. For patients with involved pelvic lymph nodes, the upper border of the CTV nodal volume may not extend above the confluence of the common iliac arteries with the aorta (i.e., aortic bifurcation).\n3. Patients must NOT have had a hysterectomy.\n4. Pelvic nodal status is to be confirmed by one or more of the following studies/procedures: PET/CT scan, CT scan, MR Scan, fine needle biopsy, extra peritoneal biopsy or laparoscopic biopsy, per institutional standard of care.\n5. Patients must be planning to undergo concurrent pelvic radiation and chemotherapy.\n6. ECOG performance status \u2264 2 (Karnofsky \u226560%).\n7. Patient must be willing and able to complete the PRO-CTCAE, EQ-5D, EPIC and EORTC questionnaires as described in the study protocol.\n8. Patient must have normal organ and marrow function as defined below:\n\n   * leukocytes \u2265 2,500/mcL\n   * absolute neutrophil count \u2265 1,500/mcL\n   * platelets \u2265 100,000/mcL\n   * hemoglobin \u2265 8 g/dL (can be transfused with red blood cells pre-study)\n   * total bilirubin \u2264 1.5 \u00d7 institutional upper limit of normal (ULN)\n   * AST(SGOT)/ALT(SGPT) \u2264 3 \u00d7 ULN\n   * alkaline phosphatase \u2264 2.5 \u00d7 ULN\n   * creatinine \\< 1.5 mg/dL to receive weekly cisplatin\\*\n\n     * Patients whose serum creatinine is between 1.5 and 1.9 mg/dL are eligible for cisplatin if there is no hydronephrosis and the estimated creatinine clearance (CCr) is \\>30 ml/min. For the purpose of estimating the CCr, the formula of Cockcroft and Gault for females should be used:CCr=(0.85 \u00d7(140-age)\u00d7IBW)/((Scr\u00d772)) where age is the patient's age in years (from 20 to 80 years), Scr is the serum creatinine in mg/dL, and IBW is the ideal body weight in kg (according to the calculation IBW = 45.5 kg + 2.3 kg for each inch over 5 feet).\n9. Age \u2265 18 years (or meets local age of consent).\n10. Study participant is already intending to be prescribed a standard of care cisplatin treatment regimen.\n11. Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n1. Prior radiation therapy to the pelvis or abdominal cavity, para-aortic lymph glands (PALN) radiation, or previous therapy of any kind for this malignancy.\n2. Patients with PALN nodal metastasis.\n3. Patients who have undergone staging pelvic and/or paraaortic lymphadenectomy.\n4. Prior allogeneic bone marrow transplantation or prior solid organ transplantation.\n5. Prior systemic anticancer therapy due to a diagnosis of cancer (e.g., chemotherapy, targeted therapy, immunotherapy) within 3 years prior to entering the study.\n6. Patients diagnosed on imaging or biopsy with a synchronous primary malignancy (with the exception of DCIS of the breast, or early stage basal cell carcinoma of the skin).\n7. Patients with a history of inflammatory bowel disease, including ulcerative colitis and Crohn's Disease.\n8. Patients with a history of other symptomatic autoimmune disease: rheumatoid arthritis, systemic progressive sclerosis (scleroderma), systemic lupus erythematosus, autoimmune vasculitis (e.g., Wegener's Granulomatosis); CNS or motor neuropathy considered of autoimmune origin (e.g., Guillain-Barre Syndrome and Myasthenia Gravis, multiple sclerosis.).\n9. Patients with active tuberculosis (TB).\n10. Patients who are pregnant.\n11. Patients who are actively breastfeeding (or who do not agree to discontinue breastfeeding before the initiation of protocol therapy).\n12. Patients who are of child-bearing potential who do not agree to use birth control (for a minimum of 14 months after the last dose of cisplatin) in accordance with institution's standard of care.\n13. Patients with a prior known history or current diagnosis of a vesicovaginal, enterovaginal, or colovaginal fistula.\n14. Patients who undergo a pelvic or para-aortic lymph node dissection prior to planned chemoradiation therapy.\n15. Patients with known active infection of HIV.\n16. Patients with hip prosthetics",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Acute Patient Reported Outcome (PRO) GI Toxicity",
+      "timeFrame": "End of external beam treatment delivery (week 5)",
+      "description": "GI toxicity as reported by the patient using the gastrointestinal section of the NCI-PRO questionnaire"
+    }
+  ],
+  "sponsor": "Varian, a Siemens Healthineers Company",
+  "collaborators": [],
+  "start_date": "2022-05-03",
+  "completion_date": "2030-09",
+  "last_updated": "2025-09-19"
+}

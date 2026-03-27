@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT02267928",
+  "brief_title": "Information Presentation Formats",
+  "official_title": "Information Presentation Formats and Pursuit of Diagnostic Information",
+  "brief_summary": "Prevention and early detection of medical problems can greatly reduce health care costs, yet time and again, people avoid or ignore services that could help detect medical problems early enough to prevent or reduce the severity of potential problems. The investigators seek to understand whether the elicitation of symptom admission by patients can predict people's perceived risk of the medical condition and voluntary pursuit of medical information.",
+  "detailed_description": "We will present individuals with medically accurate information about a medical condition and measure people's perceptions of their own likelihood to having that medical condition. This will include an opportunity for people to pursue more information by directing them to a website that features more information about the condition. The initial information provision will vary slightly in presentation (method of eliciting symptoms will vary), and the rate at which individuals visit the subsequent medical website to receive more information will be recorded as a measure of information seeking behavior. Rates will be compared across symptom elicitation conditions to determine which formats are most effective at encouraging information seeking about health issues. No personally identifying information will be collected, and all results will be reported in aggregate. Critically, no deception will be used: Participants will only be provided with information that is as accurate as possible (given existing knowledge in the health/medical fields).",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 305,
+  "conditions": [
+    "Meningioma"
+  ],
+  "interventions": [
+    {
+      "name": "Check Symptoms",
+      "type": "OTHER",
+      "description": "Symptoms are \"Checked\""
+    },
+    {
+      "name": "Uncheck Symptoms",
+      "type": "OTHER",
+      "description": "Symptoms are \"Un-checked\""
+    },
+    {
+      "name": "Experienced",
+      "type": "OTHER",
+      "description": "Focus of instructions is on symptoms the participant has experienced"
+    },
+    {
+      "name": "Not Experienced",
+      "type": "OTHER",
+      "description": "Focus of instructions is on symptoms the participant has NOT experienced"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 18 or older\n* American\n\nExclusion Criteria:\n\n* Mechanical Turk approval rate below 95%",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Carnegie Mellon University",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of symptoms",
+      "timeFrame": "1 day",
+      "description": "The number of symptoms checked off by participants"
+    },
+    {
+      "measure": "Risk of meningioma",
+      "timeFrame": "1 day",
+      "description": "Self-reported perceived risk of meningioma"
+    },
+    {
+      "measure": "Information pursuit",
+      "timeFrame": "1 day",
+      "description": "Binary measure of whether participants click to receive information about meningioma"
+    }
+  ],
+  "sponsor": "Carnegie Mellon University",
+  "collaborators": [],
+  "start_date": "2014-10",
+  "completion_date": "2016-05",
+  "last_updated": "2016-08-01"
+}

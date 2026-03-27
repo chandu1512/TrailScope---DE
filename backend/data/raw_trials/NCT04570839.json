@@ -1,0 +1,79 @@
+{
+  "nct_id": "NCT04570839",
+  "brief_title": "COM701 in Combination With BMS-986207 and Nivolumab in Subjects With Advanced Solid Tumors.",
+  "official_title": "A Phase 1/2 Study Evaluating the Safety, Tolerability and Preliminary Antitumor Activity of COM701 in Combination With BMS-986207 (Anti-TIGIT Antibody) and Nivolumab in Subjects With Advanced Solid Tumors.",
+  "brief_summary": "This is a phase 1/2 open label sequential dose escalation and cohort expansion study evaluating the safety, tolerability and preliminary antitumor activity of COM701 in combination with BMS-986207 and nivolumab in patients with advanced solid tumors.",
+  "detailed_description": "This phase 1/2 study evaluates the safety/tolerability, pharmacokinetics and preliminary antitumor activity of COM701 an inhibitor of poliovirus receptor related immunoglobulin domain containing (PVRIG) in combination with BMS-986207 (an inhibitor of TIGIT) and nivolumab in subjects with advanced solid tumors. The study will consist of 2 parts (part 1 - dose escalation and part 2 - dose expansion).\n\nPart 1: escalating doses of COM701 will be combined with fixed doses of BMS-986207 and nivolumab. Upon completion of dose escalation a recommended dose of COM701 in combination with BMS-986207 and nivolumab (3-drug combination) will be determined.\n\nPart 2: subjects will be administered the recommended dose of COM701 in combination with BMS-986207 and nivolumab. Subjects will be enrolled into one of three cohorts based on their cancer type.\n\nCohort 1: subjects with platinum resistant/refractory ovarian cancer, primary peritoneal or fallopian tube cancer will receive study treatment with the 3-drug combination.\n\nCohort 2: subjects with MSS- endometrial cancer will receive study treatment with the 3-drug combination.\n\nCohort 3 (Basket cohort): subjects with tumors that have high expression of a biomarker (PVRL2) will receive study treatment with the 3-drug combination. Subjects with tumor types in cohorts 1, 2 and 4 will not be enrolled into this cohort.\n\nCohort 4: subjects with HNSCC. This cohort will enroll subjects who have received treatment with an immune checkpoint inhibitor or subjects who have received treatment with chemotherapy but not an immune checkpoint inhibitor. All subjects enrolled in this cohort will receive study treatment with the 3-drug combination.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 48,
+  "conditions": [
+    "Endometrial Neoplasms",
+    "Ovarian Cancer",
+    "Solid Tumor",
+    "Head and Neck Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "COM701 in combination with BMS-986207 and nivolumab.",
+      "type": "DRUG",
+      "description": "Study treatment with the 3 drug combination (COM701 in combination with BMS-986207 and nivolumab)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n* Histologically or cytologically confirmed, locally advanced or metastatic solid malignancy and has exhausted all available standard therapy or is not a candidate for the available standard therapy.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1.\n* During dose escalation - Subjects who received prior therapy with anti-PD-1, anti-PD-L1, anti- CTLA-4, OX-40, CD137, etc., are eligible.\n\nDuring cohort expansion: All subjects must have measurable disease as defined by RECIST v1.1.\n\nExpansion Cohorts:\n\n* Cohort 1 (subjects with advanced epithelial ovarian, fallopian tube, or primary peritoneal carcinoma)\n* Subject must have platinum refractory/resistant ovarian cancer defined as refractoriness to platinum-containing regimen or disease recurrence \\< 6 months after completion of a platinum-containing regimen\n* Cohort 2 (endometrial cancer cohort)\n* Subjects with locally advanced or metastatic microsatellite stable endometrial cancer with disease recurrence or progression during or after prior therapy that included platinum-based chemotherapy.\n* Subjects must have documented MSS status by an approved test e.g. genomic testing, IHC for mismatch repair proficient.\n* Subjects must have received no more than 2 prior systemic cytotoxic therapies; there are no limits to the number of prior endocrine or antiangiogenic regimens\n* Cohort 3 (basket cohort, excludes tumor types in cohorts 1 and 2)\n* Tumor types with high expression of PVRL2 (determined by central testing).\n* Cohort 4 (Head and Neck cancer)\n* Histologically confirmed recurrent or metastatic HNSCC (oral cavity, oropharynx, larynx, hypopharynx, nasopharynx, paranasal sinus, nasopharyngeal)\n* Cohort 4a - IO na\u00efve. Eligible subjects can be systemic therapy na\u00efve (frontline) or platinum failure.\n* Cohort 4b - IO failure. No limitations on the number of prior lines of systemic therapy.\n\nKey Exclusion Criteria:\n\n* Active autoimmune disease requiring systemic therapy in the last 2 years prior to the first dose of COM701.\n* Symptomatic interstitial lung disease or inflammatory pneumonitis.\n* History of immune-related events that lead to immunotherapy treatment discontinuation.\n* Untreated or symptomatic central nervous system (CNS) metastases.\n\nKey Exclusion Criteria For Dose Expansion Cohorts:\n\n* Cohort 1: Prior therapy with an anti-PD-1/PD-L1/2, COM701 (or any inhibitor of PVRIG), anti-TIGIT antibody, anti-CTLA-4 antibody, anti-OX-40 antibody, anti-CD137 antibody.\n* Cohort 2: Prior therapy with COM701 (or any inhibitor of PVRIG) or anti-TIGIT antibody. Subjects with MSI-H endometrial cancer are ineligible.\n* Cohort 3: Prior therapy with COM701 (or any inhibitor of PVRIG) or anti-TIGIT antibody are ineligible.\n* Cohort 4: Subjects who have received prior therapy with COM701 (or any inhibitor of PVRIG), anti-TIGIT antibody, anti-CTLA-4 antibody, anti-OX-40 antibody, anti-CD137 antibody. Subjects in cohort 4a must be IO-na\u00efve.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University Oncology Center.",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Cancer Center.",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "The proportion of subjects with adverse events on the study.",
+      "timeFrame": "2 years.",
+      "description": "The proportion of subjects with any adverse event (AE) per CTCAE v5.0."
+    },
+    {
+      "measure": "The proportion of subjects with adverse events in the 1st cycle during dose escalation within the DLT window (28 days).",
+      "timeFrame": "Within the DLT window (1st 28 days) of the 1st cycle during dose escalation.",
+      "description": "The proportion of subjects with adverse events meeting the criteria of dose-limiting toxicities (DLTs) in the 1st 28 days of the 1st cycle of study treatment during dose escalation."
+    },
+    {
+      "measure": "The recommended dose for expansion (RDFE) of the combination.",
+      "timeFrame": "2 years.",
+      "description": "The dose of COM701 in combination with BMS-986207 and nivolumab for the expansion cohort."
+    },
+    {
+      "measure": "The Area under the curve of COM701 in subjects receiving the 3-drug combination.",
+      "timeFrame": "2 years.",
+      "description": "The PK profile of COM701 in combination with BMS-986207 and nivolumab."
+    }
+  ],
+  "sponsor": "Compugen Ltd",
+  "collaborators": [
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2020-08-31",
+  "completion_date": "2024-05-15",
+  "last_updated": "2024-07-17"
+}

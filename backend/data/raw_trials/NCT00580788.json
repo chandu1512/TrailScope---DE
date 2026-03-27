@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT00580788",
+  "brief_title": "One Week Parathyroid Hormone-related Protein (PTHrP) IV Dose Escalation Study",
+  "official_title": "Determining the Maximal Safe Dose of a Continuous Infusion of Parathyroid Hormone-related Protein(1-36): Effects on Bone Formation",
+  "brief_summary": "This is a dose escalation study to determine the maximum tolerable dose of Parathyroid Hormone-related Protein, PTHrP, that can be given safely over one week. The investigators plan to infuse low doses of intravenous PTHrP to determine if it leads to a sustained and progressive suppression of bone formation as occurs in humoral hypercalcemia of malignancy (HHM) or an increase in bone formation as occurs in hyperparathyroidism (HPT). Additionally, the investigators will assess the direct influence of PTHrp on markers of bone turnover, and plasma 1,25 (OH)2 vitamin D regulation in healthy human volunteers.",
+  "detailed_description": "During this research the investigators administer PTHrP to healthy young volunteers in a controlled, continuous intravenous manner. As research subjects complete the week-long study without adverse effects, the dose of PThrP will be increased in later subjects. In the event of a significant adverse effect, immediate action will be taken to reverse it. The investigators want to estimate the effect of a sustainable level of mild hypercalcemia achieved by a week-long intravenous infusion of PTHrP has on vitamin D metabolism, markers of bone turnover and fractional excretion of calcium.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "EARLY_PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 14,
+  "conditions": [
+    "Osteoporosis",
+    "Humoral Hypercalcemia of Malignancy",
+    "Hyperparathyroidism"
+  ],
+  "interventions": [
+    {
+      "name": "PTHrP (1-36)",
+      "type": "DRUG",
+      "description": "IND # 49,175"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Healthy caucasian subjects of both sexes between the ages of 24-35 years, who are able to spend one week on the Clinical \\& Translational Research Center at the University of Pittsburgh Medical Center (UPMC) Montefiore\n\nExclusion Criteria:\n\n* Pregnancy\n* Any cardiac, renal, pulmonary, endocrine, musculoskeletal, hepatic, hematological, malignant or rheumatologic diseases\n* Body mass index great than 30\n* Anemia\n* Significant alcohol or drug abuse\n* Baseline hypotension or hypertension\n* Abnormal screening labs\n* Use of certain chronic medications excluding oral contraceptives\n* Receiving an investigational drug in the last 90 days\n* Previously receiving PTH or PTHrP\n* African-American race",
+    "gender": "ALL",
+    "min_age": "24 Years",
+    "max_age": "35 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Dose Limiting Toxicity (DLT)",
+      "timeFrame": "12 hours after the infusion was started then q 8 hours for 7 days",
+      "description": "DLT was defined as achieving one major criterion or two minor criteria rated at \u2265 2 on a scale of 0-5. The major criteria were defined as symptomatic orthostatic hypotension (systolic BP fall \\>30 mm/hg), tachycardia (pulse \\> 120), hypertension (systolic BP \\>160 mm/hg on 2 occasions), hypercalcemia (serum calcium \u2265 12 mg/dl), and hypophosphatemia (serum phosphorous \\< 1.5 mg/dl). Minor criteria included symptoms such as flushing, nausea, abdominal or muscle cramps, dizziness, lightheadedness, palpitations, etc."
+    },
+    {
+      "measure": "Total Serum Calcium",
+      "timeFrame": "12 hours after the infusion was started then q 8 hours for 7 days, Follow-up 1 week after infusion complete",
+      "description": "mg/dl"
+    },
+    {
+      "measure": "Ionized Serum Calcium",
+      "timeFrame": "12 hours after the infusion was started then q 8 hours for 7 days, Follow-up 1 week after infusion complete",
+      "description": "mg/dl"
+    },
+    {
+      "measure": "Serum Phosphorous",
+      "timeFrame": "12 hours after the infusion was started then q 8 hours for 7 days, Follow-up 1 week after infusion complete",
+      "description": "mg/dl"
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)"
+  ],
+  "start_date": "2008-01",
+  "completion_date": "2009-12",
+  "last_updated": "2016-02-09"
+}

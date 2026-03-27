@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT06462794",
+  "brief_title": "First In Human Study of CX-801 in Advanced Solid Tumors",
+  "official_title": "An Investigational Study of CX-801 as Monotherapy and in Combination With PD1 Inhibition in Participants With Solid Tumors",
+  "brief_summary": "The purpose of this first-in-human study, CTMX-801-101, is to characterize the safety, tolerability, and antitumor activity of CX-801 as monotherapy and in combination with pembrolizumab in adult participants with advanced solid tumors.",
+  "detailed_description": "The study is comprised of 2 parts. Part 1 involves CX-801 dose escalation to identify the maximum tolerated dose (MTD) of CX-801 as monotherapy and as combination therapy (CX-801 combined with pembrolizumab). Part 2 (dose expansion) will further assess safety and tolerability as well as preliminarily assess antitumor activity of CX-801 combination therapy in indication-specific expansion cohorts.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 121,
+  "conditions": [
+    "Solid Tumor, Adult"
+  ],
+  "interventions": [
+    {
+      "name": "CX-801",
+      "type": "DRUG",
+      "description": "Investigational drug"
+    },
+    {
+      "name": "pembrolizumab",
+      "type": "DRUG",
+      "description": "Standard of Care Therapy"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Metastatic or locally advanced unresectable solid tumor that has progressed after standard therapy\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1\n* Measurable disease per RECIST v1.1\n* Consent to fresh biopsy or if medically contraindicated, recent (within 6 months) archival tumor tissue\n* Adequate organ function\n* Additional inclusion criteria may apply\n\nExclusion Criteria:\n\n* Recent history (within last 2 years) of localized cancers that are not related to the current cancer being treated\n* Known active central nervous system (CNS) involvement by malignancy\n* Prior PD-1/ PD-(L)1 inhibitor treatment discontinued due to grade 3 or higher immune related adverse event\n* Systemic anticancer treatment within 4 weeks or 5 half lives prior to first dose of study treatment\n* Investigational drug or device within 4 weeks prior to first dose of study treatment\n* Radiation within 2 weeks prior to first dose of study treatment\n* Serious concurrent illness\n* Pregnant or breast feeding\n* Additional exclusion criteria may apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Safety and tolerability of CX-801 as monotherapy and combination therapy",
+      "timeFrame": "44 months",
+      "description": "The number of participants experiencing a dose-limiting toxicity (DLT) as defined in the protocol, AEs (adverse events), and treatment-emergent adverse events (TEAEs) at any dose level"
+    },
+    {
+      "measure": "Determine the recommended Phase 2 dose (RP2D)",
+      "timeFrame": "44 months",
+      "description": "The number of participants experiencing a dose-limiting toxicity (DLT) as defined in the protocol, AEs (adverse events), and treatment-emergent adverse events (TEAEs) at any dose level"
+    }
+  ],
+  "sponsor": "CytomX Therapeutics",
+  "collaborators": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2024-08-28",
+  "completion_date": "2029-06-30",
+  "last_updated": "2026-03-20"
+}

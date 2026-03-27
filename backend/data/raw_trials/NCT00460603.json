@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT00460603",
+  "brief_title": "Study With AG-013736 Combined With Chemotherapy And Bevacizumab In Patients With Metastatic Colorectal Cancer",
+  "official_title": "A Randomized Phase 2 Study Of The Anti-Angiogenesis Agent AG-013736 In Combinations With Chemotherapy And Bevacizumab In Patients With Metastatic Colorectal Cancer Preceded By A Phase 1 Portion",
+  "brief_summary": "To determine the safety and efficacy of AG-013736 in combination with other standard of care medication in patients with first line metastatic colorectal cancer.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 187,
+  "conditions": [
+    "Colorectal Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "bevacizumab",
+      "type": "DRUG",
+      "description": "bevacizumab 5 mg/kg every 2 weeks"
+    },
+    {
+      "name": "AG-013726",
+      "type": "DRUG",
+      "description": "AG-013726 5 mg bid every 2 weeks"
+    },
+    {
+      "name": "AG-013736 (axitinib)",
+      "type": "DRUG",
+      "description": "AG-013736 5 mg bid starting dose"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* (Phase 1) Patients with any solid/GI tumor who have had no more than 1 previous chemotherapy for greater than 3 months prior to enrollment\n* (Phase 2) Patients with locally advanced or metastatic colorectal cancer (CRC) previously untreated with any systemic therapy.\n* Patients treated with adjuvant chemotherapy (with radiation) will be eligible if last treatment was \\> 12 months prior to enrollment,\n* Patients must have measurable disease by RECIST and if any history of hypertension, it must be controlled with medication.\n\nExclusion Criteria:\n\n* Prior system therapy for advanced CRC (Ph 2 portion only)\n* Prior treatment with anti-angiogenesis agent such as bevacizumab or VEGF inhibitors.\n* Prior irradiation of greater than 25% of bone marrow (whole pelvis = 25%)\n* Prior radiation, major surgery, or investigational agent within 4 weeks of study entry except palliative radiotherapy to non-target, metastatic lesions. Minor surgeries should be completed \\> 2 weeks of enrollment and be fully recovered from any procedure.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Summit",
+      "state": "New Jersey",
+      "zip": "07902",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "West Reading",
+      "state": "Pennsylvania",
+      "zip": "19611",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants With Objective Response: Phase 2",
+      "timeFrame": "Baseline (Phase 2) until disease progression, assessed every 6 weeks up to Week 148 (Phase 2) or follow-up (every 6 weeks after last dose of study drug until progression or start of alternate therapy)",
+      "description": "Percentage of participants with objective response (OR) based assessment of confirmed complete response(CR) or confirmed partial response (PR) according to Response Evaluation Criteria in Solid Tumors (RECIST). Confirmed CR defined as disappearance of all lesions and no appearance of new lesions. Confirmed PR defined as \\>=30 percent (%) decrease in sum of the longest dimensions (LD) of the target lesions taking as reference the baseline sum LD , without progression of nontarget lesions and no appearance of new lesions. Confirmed responses are those that persist on repeat imaging study \\>=4 weeks after initial documentation of response."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2006-01",
+  "completion_date": "2012-11",
+  "last_updated": "2013-11-07"
+}

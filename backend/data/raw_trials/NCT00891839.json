@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT00891839",
+  "brief_title": "Bendamustine Hydrochloride in Combination With Rituximab in Patients With Relapsed Refractory Mantle Cell Lymphoma",
+  "official_title": "An Open-Label Study of Bendamustine Hydrochloride in Combination With Rituximab in the Treatment of Patients With Relapsed/Refractory Mantle Cell Lymphoma",
+  "brief_summary": "The purpose of this study is to determine the efficacy and safety of the combination of bendamustine and rituximab in patients with relapsed/refractory mantle cell lymphoma.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 45,
+  "conditions": [
+    "Mantle Cell Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "Bendamustine",
+      "type": "DRUG",
+      "description": "Bendamustine at 90 mg/m\\^2 intravenously (iv) on days 1 and 2 of each 28-day cycle. Dosage calculations for bendamustine are based on the patient's body surface area (BSA) at baseline, using actual weight for calculations. If there is a 10% change in a patient's weight during treatment, the most recent weight is used to recalculate the BSA. The new BSA is used in determining the doses to be administered in any subsequent cycles."
+    },
+    {
+      "name": "Rituximab",
+      "type": "DRUG",
+      "description": "Patients receive 375 mg/m\\^2 of rituximab, administered by iv infusion on day 1 of every 28-day cycle of treatment. Dosage calculations for rituximab are based on the patient's BSA at baseline, using actual weight for calculations. If there is a 10% change in a patient's weight during treatment, the most recent weight is used to recalculate the BSA. The new BSA is used in determining the doses to be administered in any subsequent cycles."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* histopathologically confirmed diagnosis of typical or atypical mantle cell lymphoma, except for blastoid type.\n* documented relapsed/refractory mantle cell lymphoma.\n* CD20 positive B cells in the lymph node biopsy or other lymphoma pathology specimen.\n* adequate hematologic function according to specific trial parameters.\n* bidimensionally measurable disease with at least 1 lesion measuring 2.0 cm or more in a single dimension, or the patient is in the leukemic phase of the disease.\n* patient has Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2.\n* patient has an estimated life expectancy of at least 3 months.\n* women of childbearing potential (not surgically sterile or 2 years postmenopausal) must use a medically accepted method of contraception and must agree to continue use of this method for the duration of the study and for 30 days after participation in the study.\n* men not surgically sterile or who are capable of producing offspring must practice abstinence or use a barrier method of birth control, and must agree to continue use of this method for the duration of study drug treatment and for 30 days after participation in the treatment period.\n\nExclusion Criteria:\n\n* has received more than 3 previous standard chemotherapy regimens.\n* has the blastoid subtype of mantle cell lymphoma.\n* documented history of central nervous system (CNS) lymphomatous involvement.\n* a history of previous high-dose chemotherapy with allogeneic stem cell transplantation (history of autologous stem cell transplantation is allowed).\n* previous treatment with bendamustine.\n* has an active malignancy other than MCL, or has had a malignancy other than MCL within the past 3 years, except for controlled prostate cancer without evidence of bone metastases, localized bladder cancer, cervical carcinoma in situ, breast cancer in situ, or non-melanoma skin cancer.\n* has New York Heart Association (NYHA) Class III or IV heart failure, arrhythmias or unstable angina, electrocardiographic evidence of active ischemia or active conduction system abnormalities, or myocardial infarction within the last 6 months.\n* has serum creatinine of more than 2.0 mg/dL or creatinine clearance of less than 30 mL/min based on the Cockcroft-Gault method or from a 24-hour urine collection.\n* does not have adequate hepatic organ function as evidenced by specific trial parameters.\n* has known human immunodeficiency virus (HIV) infection.\n* has active hepatitis B infection. Hepatitis B surface antigen must be tested.\n* a pregnant or lactating woman. (Any women becoming pregnant during the study will be withdrawn from the study.)\n* has received corticosteroids within 28 days of study entry unless chronically administered (prednisone \u226420 mg/day) for indications other than lymphoma or lymphoma-related complications.\n* any serious uncontrolled, medical or psychological disorder that would impair the ability of the patient to participate in or complete this study.\n* any condition which places the patient at unacceptable risk or confounds the ability of the investigators to interpret study data.\n* patient has received other investigational agent(s) within 28 days of study entry.\n* patient has received chemotherapy within the prior 28 days.\n* patient has a known hypersensitivity to bendamustine, mannitol, or rituximab.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Teva Investigational Site 20",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "Teva Investigational Site 4",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "Teva Investigational Site 43",
+      "city": "Gettysburg",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Response Rate (Complete Response + Partial Response) at the End of Cycles 3 and 6 Using the 2007 International Working Group Criteria",
+      "timeFrame": "Month 3 (end of cycle 3), Month 6 (end of cycle 6)",
+      "description": "The International Working Group (IWG) criteria (Cheson et al 2007) for a complete response is a complete disappearance of all detectable clinical evidence of disease and disease-related symptoms if present before therapy. A partial response is at least a 50% decrease in sum of the product of the diameters (SPD) of up to 6 of the largest dominant nodes or nodal masses, no increase should be observed in the size of other nodes, liver or spleen, and no new sites of disease should be observed.\n\n95% CIs are calculated using binomial exact method."
+    }
+  ],
+  "sponsor": "Cephalon",
+  "collaborators": [],
+  "start_date": "2009-06",
+  "completion_date": "2014-05",
+  "last_updated": "2014-10-28"
+}

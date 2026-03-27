@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT00064246",
+  "brief_title": "Yttrium Y 90 Ibritumomab Tiuxetan and Rituximab in Treating Patients With Post-Transplant Lymphoproliferative Disorder",
+  "official_title": "A Phase I/II Study: Zevalin Radioimmunotherapy for Patients With Post Transplant Lymphoproliferative Disease Following Solid Organ Transplantation",
+  "brief_summary": "Phase I/II trial to study the effectiveness of combining yttrium Y 90 ibritumomab tiuxetan with rituximab in treating patients who have localized or recurrent lymphoproliferative disorder after an organ transplant. Monoclonal antibodies such as yttrium Y 90 ibritumomab tiuxetan and rituximab can locate cancer cells and either kill them or deliver radioactive cancer-killing substances to them without harming normal cells",
+  "detailed_description": "OBJECTIVES:\n\nI. Determine the safety and tolerability of yttrium Y 90 ibritumomab tiuxetan (IDEC-Y2B8) in patients with post-transplant lymphoproliferative disorder.\n\nII. Determine the safety and toxicity profile of IDEC-Y2B8 and rituximab in these patients.\n\nIII. Correlate the Epstein-Barr virus viral load with response and relapse in patients treated with this regimen.\n\nOUTLINE: This is a multicenter, dose-escalation study of yttrium Y 90 ibritumomab tiuxetan (IDEC-Y2B8).\n\nPhase I: Patients receive rituximab IV and indium In 111 ibritumomab tiuxetan IV over 10 minutes on day 1. Patients undergo 2 (or 3 if needed) imaging scans between days 1-6. In the absence of altered biodistribution, patients receive rituximab IV followed within 4 hours by IDEC-Y2B8 IV over 10 minutes on day 8.Cohorts of 6 patients receive escalating doses of IDEC-Y2B8 until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose at which no more than 1 of 6 patients experience dose-limiting toxicity.\n\nPhase II: Patients receive treatment as in phase I at the MTD of IDEC-Y2B8. Patients are followed monthly for 3 months, every 3 months for 2 years, and then every 6 months for 2 years.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 28,
+  "conditions": [
+    "Post-transplant Lymphoproliferative Disorder",
+    "Recurrent Adult Burkitt Lymphoma",
+    "Recurrent Adult Diffuse Large Cell Lymphoma",
+    "Stage III Adult Burkitt Lymphoma",
+    "Stage III Adult Diffuse Large Cell Lymphoma",
+    "Stage IV Adult Burkitt Lymphoma",
+    "Stage IV Adult Diffuse Large Cell Lymphoma",
+    "Waldenstr\u00f6m Macroglobulinemia"
+  ],
+  "interventions": [
+    {
+      "name": "rituximab",
+      "type": "BIOLOGICAL",
+      "description": "Given IV"
+    },
+    {
+      "name": "indium In 111 ibritumomab tiuxetan",
+      "type": "RADIATION",
+      "description": "Given IV"
+    },
+    {
+      "name": "yttrium Y 90 ibritumomab tiuxetan",
+      "type": "RADIATION",
+      "description": "Given IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically confirmed post-transplant lymphoproliferative disorder (PTLD) of 1 of the following stages:\n\n  * Stage III or IV\n  * Localized (not amenable to localized radiotherapy or excision)\n  * Recurrent\n* The following histologies\\* are eligible:\n\n  * Polyclonal PTLD\n  * Monoclonal PTLD\n  * Diffuse large B-cell non-Hodgkin's lymphoma (NHL)\n  * Lymphoplasmacytic NHL\n  * Burkitt/Burkitt-like NHL\n* Must not have completely responded during OR progressed after prior rituximab with or without chemotherapy\n\n  * No history of rapid disease progression while receiving prior chemotherapy\n* Measurable disease\n* Must have less than 25% bone marrow involvement with lymphoma\n* Prior solid organ transplantation required\n* Evaluation of malignant cells for Epstein-Barr virus (EBV) required\n\n  * EBV positive or negative allowed\n* No pleural effusion\n* No CNS lymphoma, including leptomeningeal disease\n* No pulmonary involvement by NHL in patients with prior lung transplantation\n* No HIV or AIDS-related lymphoma\n* No hypocellular bone marrow (i.e., less than 15% cellularity)\n* No marked reduction in bone marrow precursors of one or more cell lines (i.e., granulocytic, megakaryocytic, or erythroid)\n* Performance status - Karnofsky 50-100%\n* At least 3 months\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Platelet count at least 150,000/mm\\^3\n* Bilirubin no greater than 2.5 mg/dL\n* Creatinine no greater than 2.5 mg/dL\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for 6 months after study participation\n* HIV negative\n* No serious nonmalignant disease or infection that would compromise study objectives\n* No presence of antimurine antibody reactivity\n* No other concurrent active malignancy requiring therapy\n* More than 2 weeks since prior filgrastim (G-CSF) or sargramostim (GM-CSF)\n* More than 6 weeks since prior rituximab\n* No prior allogeneic bone marrow or hematopoietic stem cell transplantation\n* No prior radioimmunotherapy for NHL\n* More than 4 weeks since prior chemotherapy\n* See Biologic therapy\n* No prior radiotherapy to more than 25% of active bone marrow (involved field or regional)\n* More than 4 weeks since prior major surgery except diagnostic surgery\n* No other concurrent anticancer therapy",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "AIDS - Associated Malignancies Clinical Trials Consortium",
+      "city": "Rockville",
+      "state": "Maryland",
+      "zip": "20850",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Response rate",
+      "timeFrame": "Up to 4 years",
+      "description": "Estimated using binomial proportions and their 95% confidence intervals."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2003-07",
+  "completion_date": "",
+  "last_updated": "2013-01-24"
+}

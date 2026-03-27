@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT03199274",
+  "brief_title": "Perflutren Protein-Type A Microspheres and Contrast-Enhanced Ultrasound in Improving Response to Radioembolization Therapy in Patients With Liver Cancer",
+  "official_title": "Ultrasound Microbubble Destruction and Perfusion Quantification for Improving Radioembolization Therapy of Hepatocellular Carcinoma",
+  "brief_summary": "This phase II trial studies how well perflutren protein-type A microspheres and contrast-enhanced ultrasound work in improving response to radioembolization therapy in patients with liver cancer. Ultrasound contrast agents, such as perflutren protein-type A microspheres, use gas microbubbles to improve image quality. Using contrast-enhanced ultrasound imaging will \"pop\" these microbubbles and cause tumors to become more sensitive to radiation therapies.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. Characterize the ability of localized ultrasound contrast agent destruction to improve hepatocellular carcinoma (HCC) response to yttrium Y-90 (Y90) radioembolization.\n\nSECONDARY OBJECTIVE:\n\nI. Determine if contrast-enhanced ultrasound estimated tumor perfusion can reliably predict HCC response to radioembolization 1-14 days post treatment.\n\nOUTLINE: Patients are randomized to 1 of 2 groups.\n\nGROUP I: Patients receive perflutren protein-type A microspheres intravenously (IV) over 10 minutes and undergo contrast-enhanced ultrasound (CEUS) over 60 minutes at 1-6 hours and at approximately 7 and 14 days after yttrium Y-90 radioembolization.\n\nGROUP II: Patients undergo standard of care yttrium Y-90 radioembolization.\n\nAfter completion of study treatment, patients are followed up at 1 month and at 3-4 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 104,
+  "conditions": [
+    "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Yttrium-90 Microsphere Radioembolization",
+      "type": "PROCEDURE",
+      "description": "Undergo standard of care Y-90 radioembolization"
+    },
+    {
+      "name": "Perflutren Protein-Type A Microspheres",
+      "type": "DRUG",
+      "description": "Given IV."
+    },
+    {
+      "name": "Dynamic Contrast-Enhanced Ultrasound Imaging",
+      "type": "PROCEDURE",
+      "description": "Undergo CEUS"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Be scheduled for sub-lobar radioembolization therapy of a previously untreated HCC mass \\< 6 cm visible on grayscale ultrasound\n* Be medically stable\n* If a female of child-bearing age, have a negative pregnancy test prior to each ultrasound exam\n* Have signed informed consent to participate in the study\n\nExclusion Criteria:\n\n* Females who are pregnant or nursing\n* Patients who are medically unstable, patients who are seriously or terminally ill, and patients whose clinical course is unpredictable; for example:\n\n  * Patients on life support or in a critical care unit\n  * Patients with unstable occlusive disease (e.g., crescendo angina)\n  * Patients with clinically unstable cardiac arrhythmias, such as recurrent ventricular tachycardia\n  * Patients with uncontrolled congestive heart failure (New York heart Association \\[NYHA\\] class IV)\n* Patients with recent cerebral hemorrhage\n* Patients with known sensitivities to albumin, blood, or blood products\n* Patients with known hypersensitivity to perflutren\n* Patients with known cardiac shunts\n* Patients with known congenital heart defects\n* Patients with severe emphysema, pulmonary vasculitis, or a history of pulmonary embolism\n* Patients with respiratory distress syndrome\n* Patients with a history of bleeding disorders\n* Patients with bilirubin levels \\> 2 mg/dL",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Treatment Response to Yttrium Y-90 Radioembolization",
+      "timeFrame": "Up to 4 months",
+      "description": "Measured using the modified Response Evaluation Criteria in Solid Tumors. Will be tested with a non-parametric Mann- Whitney U-test of the difference in response distributions between control (radioembolization alone) and experimental group (ultrasound-triggered microbubble destruction \\[UTMD\\] + radioembolization). The outcome variable in this analysis, the modified Response Evaluation Criteria in Solid Tumors (mRECIST) score, is treated as an ordinal variable in this analysis. Tumor response assessed using modified Response Evaluation Criteria in Solid Tumors (mRECIST). The mRECIST scale includes four ordered categories:\n\n* Complete Response (best outcome)\n* Partial Response\n* Stable Disease\n* Progressive Disease (worst outcome)"
+    },
+    {
+      "measure": "Tumor Perfusion Measured by Contrast-enhanced Ultrasound Between Ultrasound-triggered Microbubble Destruction Pulses",
+      "timeFrame": "Up to 14 days",
+      "description": "Perfusion will be characterized in terms of contrast replenishment time intensity curves fit with a 2-parameter exponential recovery curve. The relationship between the normalized perfusion values from this image processing and the patients' subsequent mRECIST scores in the UTMD + radioembolization group will be evaluated with Spearman's rank order correlation. Tumor perfusion measured as fractional vascularity (%) using contrast-enhanced ultrasound (CEUS). Values range from 0% (no perfusion) to 100% (maximal perfusion)."
+    }
+  ],
+  "sponsor": "Thomas Jefferson University",
+  "collaborators": [
+    "National Institutes of Health (NIH)",
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2017-07-01",
+  "completion_date": "2025-01-23",
+  "last_updated": "2025-12-11"
+}

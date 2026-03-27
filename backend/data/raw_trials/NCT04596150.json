@@ -1,0 +1,67 @@
+{
+  "nct_id": "NCT04596150",
+  "brief_title": "Study to Evaluate the Safety and Antitumor Activity of CX-2009 Monotherapy and in Combination With CX-072 in Advanced Breast Cancer",
+  "official_title": "A Phase 2, Open-Label Study to Evaluate the Safety and Antitumor Activity of Praluzatamab Ravtansine (CX-2009) in Advanced HR-Positive/HER2-Negative Breast Cancer and of Praluzatamab Ravtansine as Monotherapy and in Combination With Pacmilimab (CX-072) in Advanced Triple-Negative Breast Cancer (CTMX-2009-002)",
+  "brief_summary": "A Phase 2, clinical study in advanced, metastatic breast cancer that will evaluate CX-2009 monotherapy in both Hormone Receptor(HR) positive/HER2 negative breast cancer and in TNBC, and evaluate CX-2009+CX-072 in TNBC",
+  "detailed_description": "Eligible patients will be enrolled to the treatment arm based on breast cancer subtype.\n\nPatients will receive study treatment on Day 1 of a Q3W cycle. Treatment with CX-2009 monotherapy (Arms A and B) or CX-2009 in combination with CX-072 (Arm C) will be given until disease progression or symptomatic deterioration, unacceptable toxicity necessitating treatment discontinuation, or if the patient meets certain study defined criteria for discontinuation. On-treatment tumor assessments, will occur every 6 weeks per RECIST v1.1 for the first 48 weeks, and every 12 weeks thereafter.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 125,
+  "conditions": [
+    "Neoplasms",
+    "Breast Neoplasms",
+    "Breast Neoplasms, Triple-Negative",
+    "Breast Cancer",
+    "Breast Neoplasms, Hormone Receptor Positive/HER2 Negative"
+  ],
+  "interventions": [
+    {
+      "name": "CX-2009",
+      "type": "DRUG",
+      "description": "Intravenous administration of the CX-2009 of 6 mg/kg administered every 3 weeks (Q3W)"
+    },
+    {
+      "name": "CX-072",
+      "type": "DRUG",
+      "description": "Intravenous administration of the CX-072 of 1200 mg administered every 3 weeks (Q3W)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "INCLUSION CRITERIA:\n\n* Arm A: inoperable, locally advanced or metastatic HR-positive/HER2-negative breast cancer. Patients must have received 0 to 2 prior cytotoxic chemotherapy in the inoperable, locally advanced, or metastatic setting\n* Arm B and Arm C: inoperable, locally advanced or metastatic TNBC; archival or fresh tumor tissue must have high CD166 expression by immunohistochemistry (IHC). Patients must have received 1 - 3 prior lines of therapy for inoperable, locally advanced, or metastatic TNBC\n* Arm C only: Patients must be Programmed Death Ligand 1 (PD-L1) positive by an FDA-approved test. For patients who have received prior checkpoint inhibitors (CPI) therapy: if the CPI was the most recent treatment given prior to enrollment into this study, the patient must not have progressed within 120 days of the first dose of the CPI\n* Measurable disease per RECIST v1.1\n* Adults, at least 18 years of age\n* Eastern Cooperative Oncology Group performance status of 0 or 1\n* Adequate baseline Laboratory Values\n* Patients of childbearing potential or those with partners of childbearing potential must agree to use a highly effective method of birth control at least 1 month prior to first dose, during study treatment, and for a period of 50 days after the last dose of CX-2009 and 105 days after the last dose of CX-072 (Arm C).\n* Patients with brain metastases that are \u2264 1 cm, are asymptomatic, and require no treatment may be eligible after discussion with Medical Monitor.\n* Additional inclusion criteria may apply\n\nEXCLUSION CRITERIA:\n\n* History of malignancy that was active within the previous 2 years. Exceptions include localized cancers that are not related to the current cancer being treated, that are considered to have been cured, and in the opinion of the Investigator present a low risk for recurrence\n* Untreated symptomatic brain and/or leptomeningeal metastases\n* Unresolved prior therapy-related acute toxicity Grade \\> 1, including neuropathy. Alopecia and other nonacute toxicities are not exclusionary\n* Active or chronic corneal disorder\n* Serious concurrent illness\n* History of allogeneic tissue/solid organ transplant, stem cell transplant, or bone marrow transplant\n* Arm C only:\n\n  * History of or current active autoimmune diseases\n  * History of myocarditis regardless of the cause\n  * History of intolerance to prior immune CPI therapy defined as the need to discontinue treatment due to an immune-related Adverse Event (AE)\n  * Immunosuppressive therapy including chronic systemic steroid (\u2265 10 mg daily prednisone equivalents) within 14 days of Cycle 1 Day 1 (C1D1). However, patients who require brief courses of steroids (eg, as prophylaxis for IV contrast or for treatment of an allergic reaction) may be eligible with Medical Monitor approval. Inhaled or topical steroids are permitted.\n* History of severe allergic or anaphylactic reactions to previous monoclonal antibody (mAb) therapy or known hypersensitivity to any component of Probody therapeutic\n* Prior treatment with maytansinoid-containing drug conjugates (eg, DM1 or DM4 antibody drug conjugate, including trastuzumab emtansine)\n* Pregnant or breastfeeding\n* Additional exclusion criteria may apply",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Maryland",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "status": ""
+    },
+    {
+      "facility": "UPMC Magee-Womens Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "timeFrame": "30 months",
+      "description": "ORR is the proportion of patients in the efficacy-evaluable population with a best response of Complete Response (CR) or Partial Response (PR) based on Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 by Central Radiology Review (CRR)"
+    }
+  ],
+  "sponsor": "CytomX Therapeutics",
+  "collaborators": [],
+  "start_date": "2020-12-29",
+  "completion_date": "2023-06-02",
+  "last_updated": "2024-01-22"
+}

@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT00949650",
+  "brief_title": "BIBW 2992 (Afatinib) Versus Chemotherapy as First Line Treatment in NSCLC With EGFR Mutation",
+  "official_title": "A Randomised, Open-label, Phase III Study of BIBW 2992 Versus Chemotherapy as First-line Treatment for Patients With Stage IIIB or IV Adenocarcinoma of the Lung Harbouring an EGFR Activating Mutation",
+  "brief_summary": "This randomised, open label phase III trial will be performed in patients with adenocarcinoma of the lung with tumours harbouring an Epidermal Growth Factor Receptor activating mutation. The objectives of the trial are to compare the efficacy of single agent BIBW 2992, Arm A, with Pemetrexed/Cisplatin chemotherapy, Arm B, as first line treatment for this group of patients.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 345,
+  "conditions": [
+    "Carcinoma, Non-Small-Cell Lung",
+    "Adenocarcinoma"
+  ],
+  "interventions": [
+    {
+      "name": "Pemetrexed",
+      "type": "DRUG",
+      "description": "Pemetrexed IV given once every 3 weeks for up to 6 cycles"
+    },
+    {
+      "name": "BIBW 2992",
+      "type": "DRUG",
+      "description": "BIBW 2992 once daily until progression"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "Cisplatin IV given once every 3 weeks for up to 6 cycles"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria:\n\n* Pathologically confirmed diagnosis of Stage IIIB (with cytologically proven pleural effusion or pericardial effusion) or Stage IV adenocarcinoma of the lung. Patients with mixed histology are eligible if adenocarcinoma is the predominant histology.\n* Epidermal Growth Factor Receptor mutation detected by central laboratory analysis of tumour biopsy material.\n* Measurable disease according to RECIST 1.1.\n* Eastern Cooperative Oncology Group score of 0 or 1.\n* Age \\>/= 18 years.\n* Life expectancy of at least three months.\n* Written informed consent that is consistent with International Conference on Harmonisation-Good Clinical Practice guidelines.\n\nExclusion criteria:\n\n* Prior chemotherapy for relapsed and/or metastatic NSCLC. Neoadjuvant/adjuvant chemotherapy is permitted if at least 12 months has elapsed between the end of chemotherapy and randomisation.\n* Prior treatment with Epidermal Growth Factor Receptor targeting small molecules or antibodies.\n* Radiotherapy or surgery (other than biopsy) within 4 weeks prior to randomisation.\n* Active brain metastases\n* Any other current malignancy or malignancy diagnosed within the past five years\n* Known pre-existing interstitial lung disease.\n* Significant or recent acute gastrointestinal disorders with diarrhoea as a major symptom.\n* History or presence of clinically relevant cardiovascular abnormalities.\n* Any other concomitant serious illness or organ system dysfunction.\n* Adequate absolute neutrophil count and platelet count\n* Adequate liver and kidney function\n* Active hepatitis B infection, active hepatitis C infection or known HIV carrier.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Lehigh Valley Hospital / Lehigh Valley Health Network",
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "zip": "18103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS) Time",
+      "timeFrame": "Tumour assessments were performed at Screening, Week 6, Week 12, Week 18 and then every 12-18 weeks until disease progression",
+      "description": "PFS was defined as time from randomisation to disease progression or death whichever occured first. Assessed by central independent review according to the Response Evaluation Criteria in Solid Tumours (RECIST 1.1). Median time results from unstratified Kaplan-Meier estimates."
+    }
+  ],
+  "sponsor": "Boehringer Ingelheim",
+  "collaborators": [],
+  "start_date": "2009-08-14",
+  "completion_date": "2017-03-16",
+  "last_updated": "2018-03-09"
+}

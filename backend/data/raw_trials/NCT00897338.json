@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT00897338",
+  "brief_title": "Identifying Circulating Breast Cancer Cells in Women With Metastatic Breast Cancer",
+  "official_title": "A Feasibility Study of a Novel Technique to Identify Circulating Breast Cancer Cells in Patients With Metastatic Breast Cancer",
+  "brief_summary": "RATIONALE: Studying samples of blood and pleural or peritoneal fluid from patients with metastatic breast cancer in the laboratory may help doctors identify biomarkers related to breast cancer and learn more about how breast cancer begins and spreads in the body.\n\nPURPOSE: This research study is looking at a new way of identifying circulating breast cancer cells in blood and in pleural or peritoneal fluid in women with metastatic breast cancer.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* To compare identification of circulating breast cancer cells (CBCCs) in blood or pleural or peritoneal fluid by a novel technique using stem cell marker retinaldehyde dehydrogenase (ALDH) and surface antigen expression (CD44+, CD24-) to the standard technique using the CellSearch\u00ae system in women with metastatic breast cancer.\n\nSecondary\n\n* To determine whether CBCCs have the potential to grow into metastatic lesions.\n\nOUTLINE: Patients undergo sample collection to help develop a new technique using stem cell marker retinaldehyde dehydrogenase (ALDH) and surface antigen expression (CD44+, CD24-) in isolating circulating breast cancer cells (CBCCs) from blood and pleural or peritoneal fluid. Blood may also be drawn to measure the number of circulating tumor cells using the standard CellSearch\u00ae system.\n\nMononuclear cells are isolated by density centrifugation. Cells are stained against surface antigens that provide specific expression patterns for CBCCs (CD44, CD24). Cells are analyzed on a fluorescence activated cell sorting (FACS) Calibur flow cytometer and sequentially gated (ALDHhigh\u2192CD44+ vs CD24-/low or CD44+ vs CD24-/low\u2192ALDHhigh) for detection of CBCCs. For further confirmation of epithelial origin, ALDHhighCD44+CD24-/low cells are isolated using a FACSAria flow sorter, cytocentrifuged onto glass slides then stained for the expression of epithelial-specific cytokeratins 5, 8, 14, 18 and 19 by standard immunohistochemical techniques. Using the phenotype that is found to most highly enrich for epithelial cells, cells are isolated by FACS and assayed for clonogenic growth.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 43,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "flow cytometry",
+      "type": "OTHER",
+      "description": "laboratory analysis"
+    },
+    {
+      "name": "fluorescence activated cell sorting",
+      "type": "OTHER",
+      "description": "laboratory analysis"
+    },
+    {
+      "name": "immunohistochemistry staining method",
+      "type": "OTHER",
+      "description": "laboratory analysis"
+    },
+    {
+      "name": "immunologic technique",
+      "type": "OTHER",
+      "description": "laboratory analysis"
+    },
+    {
+      "name": "biomarker analysis",
+      "type": "OTHER",
+      "description": "laboratory analysis"
+    }
+  ],
+  "eligibility": {
+    "criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the breast\n\n  * Metastatic disease (stage IV)\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* Not specified",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-1000",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Feasibility of novel technique to identify and isolate circulating breast cancer cells",
+      "timeFrame": "Baseline",
+      "description": ""
+    },
+    {
+      "measure": "Comparison of this novel technique with the CellSearch\u2122 system",
+      "timeFrame": "Baseline",
+      "description": ""
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2007-08",
+  "completion_date": "2014-01",
+  "last_updated": "2015-10-09"
+}

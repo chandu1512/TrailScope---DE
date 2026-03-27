@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT00245011",
+  "brief_title": "Samarium Sm 153 and Stem Cell Transplant Followed By Radiation Therapy Patients With Osteosarcoma",
+  "official_title": "High Dose Samarium-153 With Peripheral Blood Stem Cell Support in High Risk Osteogenic Sarcoma",
+  "brief_summary": "RATIONALE: Radioactive drugs, such as samarium Sm 153 lexidronam pentasodium, may carry radiation directly to tumor cells and not harm normal cells. A peripheral stem cell transplant may be able to replace blood-forming cells that were destroyed by chemotherapy and samarium Sm 153 lexidronam pentasodium. Radiation therapy uses high-energy x-rays to kill tumor cells. Giving samarium Sm 153 lexidronam pentasodium together with a peripheral stem cell transplant and radiation therapy may kill more tumor cells.\n\nPURPOSE: This phase II trial is studying how well giving samarium Sm 153 lexidronam pentasodium together with autologous stem cell transplant and radiation therapy works in treating patients with recurrent or refractory, metastatic, or unresectable osteosarcoma.",
+  "detailed_description": "OBJECTIVES:\n\nPrimary\n\n* Determine the clinical response in patients with recurrent or refractory, metastatic, or unresectable osteosarcoma treated with high-dose samarium Sm 153 lexidronam pentasodium (\\^153Sm-EDTMP) and autologous peripheral blood stem cell transplantation followed by external-beam radiotherapy.\n* Correlate the amount of radiation delivered to a tumor with low-dose \\^153Sm-EDTMP with that of high-dose \\^153Sm-EDTMP in patients treated with this regimen.\n\nSecondary\n\n* Determine the overall and progression-free survival of patients treated with this regimen.\n* Determine the toxicity of this regimen in these patients.\n* Determine the long-term effects of this regimen in these patients.\n* Determine the predictive value of fludeoxyglucose F 18 positron emission tomography (FDG-PET), diffusion-weighted MRI, and magnetic resonance spectroscopy for evaluation of treatment response in patients treated with this regimen.\n\nOUTLINE: Patients are stratified according to resectability of the primary tumor (recurrent, refractory, or very high-risk disease vs unresectable primary tumor).\n\n* Mobilization and collection of autologous peripheral blood stem cells (PBSCs)\\* : Patients receive ifosfamide IV daily for 5 days followed by filgrastim (G-CSF) subcutaneously daily. Patients then undergo leukapheresis for collection of autologous PBSCs until \u2265 2 x 10\\^6 CD34 (cluster of differentiation 34)-positive cells/kg are collected.\n\nNOTE: \\*Patients who have undergone PBSC collection before study entry proceed to high-dose samarium Sm 153 lexidronam pentasodium (153Sm-EDTMP) infusion without mobilization and collection of autologous PBSCs.\n\n* 153Sm-EDTMP infusion: Patients receive a trace dose of \\^153Sm-EDTMP\\*\\* IV over 1-2 minutes and undergo bone scan 4, 24, and 48-72 hours later. Six weeks later, patients receive high-dose \\^153Sm-EDTMP IV over 1-2 minutes and undergo repeat bone scans 4, 24, and 48-72 hours later.\n\nNOTE: \\*\\*Patients may receive the trace dose on protocol JHOC (Johns Hopkins Oncology Center)-J0094.\n\n* Autologous peripheral blood stem cell transplantation (PBSCT): Between 12-14 days after administration of high-dose \\^153Sm-EDTMP, patients undergo autologous PBSCT. Beginning 2 days later, patients receive G-CSF IV daily.\n* External-beam radiotherapy: Patients then undergo external-beam radiotherapy to the sites of bulky disease.\n* Surgery: Some patients may also undergo surgical resection of residual disease. After completion of study treatment, patients are followed periodically for up to 3 years.\n\nPROJECTED ACCRUAL: A total of 54 patients will be accrued for this study.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 11,
+  "conditions": [
+    "Sarcoma"
+  ],
+  "interventions": [
+    {
+      "name": "filgrastim",
+      "type": "BIOLOGICAL",
+      "description": "Filgrastim will be administered post post chemotherapy until target WBC (white blood cell) count is achieved."
+    },
+    {
+      "name": "ifosfamide",
+      "type": "DRUG",
+      "description": "Ifosfamide administered IV."
+    },
+    {
+      "name": "peripheral blood stem cell transplantation",
+      "type": "PROCEDURE",
+      "description": "Peripheral blood stem cell transplantation is done 14 days after 2nd dose of Samarium is delivered"
+    },
+    {
+      "name": "Sm-EDTMP (low dose)",
+      "type": "RADIATION",
+      "description": "Sm-EDTMP (low dose) administered after autologous stem cell collection"
+    },
+    {
+      "name": "sm-EDTMP (higher dose)",
+      "type": "RADIATION",
+      "description": "Upon blood cell count recovery from Sm-EDTMP (low dose), Sm-EDTMP (higher dose) is administered followed in 14 days by peripheral blood stem cell transplantation."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion\n\n* Diagnosis of osteosarcoma\n\n  * High-risk disease, meeting 1 of the following criteria:\n\n    * Recurrent disease\n    * Refractory to conventional therapy\n    * Newly diagnosed metastatic disease with \u2265 4 pulmonary nodules or multiple bone lesions\n    * Unresectable primary tumor\n  * Prior intralesional resection allowed\n* Measurable disease by technetium Tc 99m diphosphonate bone scan\n* Refractory to all standard therapies or highly unlikely to respond to conventional treatment\n* Performance status Karnofsky 60-100%\n* Life expectancy more than 8 weeks\n* Absolute neutrophil count \\> 500/mm\\^3\n* Platelet count \\> 50,000/mm\\^3\n* Creatinine clearance \\> 70 mL/min OR \\* Radioisotope glomerular filtration rate normal\n* Recovered from prior chemotherapy\n\nExclusion\n\n* Pregnant or nursing\n* Positive pregnancy test for females of childbearing potential\n* Fertile patients do not agree to use effective contraception\n* Prior radiotherapy to the site of currently active disease\n* Concurrent enrollment on protocol JHOC-J0094 allowed",
+    "gender": "ALL",
+    "min_age": "13 Years",
+    "max_age": "50 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Tumor Response",
+      "timeFrame": "1 week after study treatment",
+      "description": "WHO (World Health Organization) tumor measurement criteria used to determine response."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2004-10",
+  "completion_date": "2009-03",
+  "last_updated": "2020-03-05"
+}

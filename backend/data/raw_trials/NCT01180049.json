@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT01180049",
+  "brief_title": "Comparison Of 2 Doses Of Temsirolimus (Torisel) In Patients With Mantle Cell Lymphoma",
+  "official_title": "A RANDOMIZED PHASE 4 STUDY COMPARING 2 INTRAVENOUS TEMSIROLIMUS (TEMSR) REGIMENS IN SUBJECTS WITH RELAPSED, REFRACTORY MANTLE CELL LYMPHOMA",
+  "brief_summary": "This study will compare the effectiveness and safety of two different doses of temsirolimus (Torisel).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE4"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 101,
+  "conditions": [
+    "Non-Hodgkin's Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "temsirolimus",
+      "type": "DRUG",
+      "description": "175mg IV once a week for first 3 weeks, followed by 75mg IV once a week until disease progression, provided that patient is tolerating treatment and getting clinical benefit"
+    },
+    {
+      "name": "temsirolimus",
+      "type": "DRUG",
+      "description": "75mg IV once a week until until disease progression, provided that patient is tolerating treatment and getting clinical benefit"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Have confirmed mantle cell lymphoma diagnosis.\n* Have measurable disease.\n* Have received at least 2 prior treatment, which may include stem cell transplant.\n* Have adequate organ and bone marrow function.\n* There are other criteria--please discuss with your doctor.\n\nExclusion Criteria:\n\n* Had any prior treatment with temsirolimus or mTOR inhibitor.\n* Had allogeneic stem cell transplant within last 6 months and on immunosuppressive therapy.\n* Has active or untreated brain or central nervous system metastases.\n* There are other criteria--please discuss with your doctor.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Veterans Affairs New Jersey Healthcare System-Hematology/Oncology Section (111)",
+      "city": "East Orange",
+      "state": "New Jersey",
+      "zip": "07018",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Independently Assessed Progression-free Survival (PFS)",
+      "timeFrame": "From randomization date to the date of first documentation of progression or death (average follow up done for 15 months)",
+      "description": "PFS is defined as the time from randomization to first documentation of disease progression by the independent assessor or to death due to any cause, whichever occurred first.\n\nPFS = (earliest date of progression or death due to any cause- randomization date+1)/30.4.\n\nPFS assessment was done using EMA guidelines for sensitivity analysis censoring.\n\nParticipants who were alive and progression-free at the time of analysis were censored on the date of last assessment; participants without adequate baseline assessment or without post-baseline assessments were censored on the randomization date; participants who died or progressed after 2 or more missed visits were censored on the date of last tumor assessment prior to the missing visit; and participants who started new anti-cancer therapy prior to death or progression were censored on the date of last tumor assessment prior to the start of anti-tumor treatment."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2011-03",
+  "completion_date": "2018-06",
+  "last_updated": "2019-05-17"
+}

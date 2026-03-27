@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT07332000",
+  "brief_title": "A Biomarker Study in Men With Localized Prostate Cancer Treated With Aglatimagene Besadenovec",
+  "official_title": "A Biomarker Study in Men With Localized, Favorable, Intermediate-risk Prostate Cancer Treated With Aglatimagene Besadenovec",
+  "brief_summary": "Phase 2a, open-label, multi-center study evaluating biomarkers and biodistribution of aglatimagene besadenovec plus valacyclovir in men with localized, intermediate-risk prostate cancer who are planning to receive external beam radiation therapy (EBRT).",
+  "detailed_description": "This is a phase 2a, open-label, multi-center study evaluating aglatimagene besadenovec plus prodrug in men with localized, intermediate-risk prostate cancer who are planning to receive external beam radiation therapy (EBRT). Aglatimagene besadenovec is a replication-deficient adenoviral vector encoding the herpes simplex virus thymidine kinase (HSV-tk) gene. When combined with an oral antiviral prodrug (valacyclovir), this approach induces targeted tumor cell death and stimulates a systemic immune response. The study aims to characterize:\n\n* Viral shedding and biodistribution of CAN-2409 genomes in blood, urine, and semen using validated qPCR assays.\n* Immune activation biomarkers, including lymphocyte subsets, cytokine profiles, and circulating tumor-related proteins.\n\nApproximately 30 patients with intermediate risk prostate cancer will be recruited to the treatment arm and receive 3 courses of aglatimigene besadenovec by intraprostatic injection followed by orally administered valacyclovir. EBRT will start following the second injection. Biospecimens (blood, urine, semen) will be collected at specifed timepoints before and after each injection to assess biodistribution and immune response.\n\nApprozimately 15 patients with intermediate risk prostate cancer will be recruited to the control arm receiving EBRT alone. Biospecimens (blood, urine, semen) will be collected at specified timepoints to assess immune response.\n\nSafety will be monitored continuously. Frequency of treatment-emergent adverse events (TEAEs) and laboratory values will be evaluated for patients in the treatment arm. Patients in the control arm will be monitored for treatment-emergent serious adverse events suspected to be related to the collection of biospecimens.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 45,
+  "conditions": [
+    "Prostate Cancer Patients Treated by Radiotherapy",
+    "Prostate Cancer (Adenocarcinoma)"
+  ],
+  "interventions": [
+    {
+      "name": "aglatimagene besadenovec + valacyclovir",
+      "type": "BIOLOGICAL",
+      "description": "aglatimagene besadenovec: a genetically modified replication-defective adenoviral vector expressing the herpes simplex virus (HSV) thymidine kinase (tk) gene. Patients in the treatment arm will receive 3 intraprostatic injections of aglatimagene besadenovec, with each injection followed by a 14-day course of valacyclovir. Patients will have aglatimagene besadenovec administered either transrectally or transperineally."
+    },
+    {
+      "name": "External Beam Radiation Therapy (EBRT)",
+      "type": "RADIATION",
+      "description": "Standard of care standard or moderately hypofractionated prostate-only external beam radiation therapy (EBRT)"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Participants must give study-specific informed consent prior to enrollment\n2. Histologically confirmed adenocarcinoma of the prostate\n3. Participants meeting National Comprehensive Cancer Network (NCCN) intermediate-risk criteria\n4. Participants must be planning and medically able to undergo standard or moderate hypofractionated prostate-only EBRT (treatment and control group) and able to tolerate multiple transrectal ultrasound guided injections (treatment group only)\n5. 18 years of age or older\n6. Performance status must be Eastern Cooperative Oncology Group 0-2\n7. The following laboratory criteria must be met (treatment group only):\n\n   1. Aspartate aminotransferase (AST) \\< 3 x upper limit of normal\n   2. Serum creatinine \\< 2 mg/dL\n   3. Calculated creatinine clearance \\> 30 mL/min\n   4. White blood cells \\> 3000/mm3\n   5. Platelets \\>100,000/mm3\n\nExclusion Criteria:\n\n1. Active liver disease, including known cirrhosis or active hepatitis\n2. Participants on systemic corticosteroids (\\> 10 mg prednisone per day) or other immunosuppressive drugs\n3. Known HIV+ participants\n4. Regional lymph node involvement or distant metastases\n5. Participants planning to receive whole pelvic irradiation\n6. Other current malignancy (except squamous or basal cell skin cancers)\n7. Other serious co-morbid illness or compromised organ function that, in the opinion of the Investigator, would interfere with treatment or follow-up. For example, participants with diseases that preclude radiation therapy to the prostate such as severe prostatitis and inflammatory bowel disease.\n8. Prior treatment for prostate cancer except transurethral resection of the prostate (TURP). If prior TURP, participants must be deemed able to receive multiple intra-prostatic injections by the Investigator.\n9. Participants who had or plan to have orchiectomy as the form of hormonal ablation\n10. Known sensitivity or allergic reactions to acyclovir or valacyclovir (treatment group only)",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Chesapeake Urology Research Associates",
+      "city": "Towson",
+      "state": "Maryland",
+      "zip": "21204",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Summit Health",
+      "city": "Saddle Brook",
+      "state": "New Jersey",
+      "zip": "07663",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Biodistribution of aglatimagene besadenovec",
+      "timeFrame": "Up to 3 months post last injection of aglatimagene besadenovec.",
+      "description": "Evaluation of shedding of aglatimagene besadenovec viral genomes in urine, blood, and semen samples using validated bioassays over time."
+    }
+  ],
+  "sponsor": "Candel Therapeutics, Inc.",
+  "collaborators": [],
+  "start_date": "2025-10-30",
+  "completion_date": "2026-08",
+  "last_updated": "2026-03-19"
+}

@@ -1,0 +1,76 @@
+{
+  "nct_id": "NCT05849298",
+  "brief_title": "A Phase II Study of AAA617 Alone and AAA617 in Combination With ARPI in Patients With PSMA PET Scan Positive CRPC",
+  "official_title": "An International Prospective Open-label, Multi-center, Randomized, Non-comparative Phase II Study of Lutetium [177Lu] Vipivotide Tetraxetan (AAA617) Alone and Lutetium [177Lu] Vipivotide Tetraxetan (AAA617) in Combination With Androgen Receptor Pathway Inhibitors in Patients With PSMA PET Scan Positive Castration-Resistant Prostate Cancer",
+  "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of AAA617 alone (Lutetium \\[177Lu\\] vipivotide tetraxetan) and in combination with an Androgen Receptor Pathway Inhibitors (ARPI) in participants with PSMA-positive, castration-resistant prostate cancer and no evidence of metastasis in conventional imaging (CI) (i.e., CT/MRI and bone scans). Approximately 80 participants will be randomized.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 49,
+  "conditions": [
+    "Prostatic Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "AAA617",
+      "type": "DRUG",
+      "description": "Administration intravenously once every 6 weeks (1 cycle) for 6 cycles"
+    },
+    {
+      "name": "AAA517",
+      "type": "DRUG",
+      "description": "Single intravenous dose of approx. 150 Megabecquerel (MBq) prior PSMA-PET scans"
+    },
+    {
+      "name": "Piflufolastat F 18",
+      "type": "DRUG",
+      "description": "Single intravenous dose of approx. 333 Megabecquerel (MBq) prior PSMA-PET scans"
+    },
+    {
+      "name": "ARPI",
+      "type": "DRUG",
+      "description": "Enzalutamide, Darolutamide, Apalutamide as prescribed by the local investigator"
+    },
+    {
+      "name": "ADT",
+      "type": "DRUG",
+      "description": "as prescribed by the local investigator"
+    },
+    {
+      "name": "Best supportive care",
+      "type": "OTHER",
+      "description": "as prescribed by the local investigator"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion criteria\n\n* Participants must be adults \u2265 18 years of age with signed informed consent prior to participation to study\n* Histologically or cytologically confirmed prostate cancer\n* Participants must have ongoing androgen deprivation therapy with a GnRH agonist/antagonist or prior bilateral orchiectomy at the time of randomization. Intermittent administration of ADT is accepted before randomization if criterion for serum testosterone is met\n* Castrate level of serum testosterone (\\< 1.7 nmol/l \\[50 ng/dl\\]) on GnRH agonist or antagonist therapy (continuous/intermittent) or after bilateral orchiectomy prior to randomization\n* Participants must have evidence of PSMA-positive disease (N1 or M1) as seen on a AAA517 or piflufolastat F 18 PET/CT scan at baseline as determined by Blinded Independent Central Review (BICR) based on the methodology proposed in the Prostate Cancer Molecular Imaging Standardized Evaluation (PROMISE) (Eiber et al 2018). Participants with M1 disease only on PSMA PET scan are allowed to participate\n* Participants must have a negative conventional imaging for M1 disease.\n* Participants must have adequate organ functions: bone marrow reserve, hepatic \\& renal\n\nKey Exclusion criteria\n\n* Prior or present evidence of metastatic disease as assessed by CT/MRI locally for soft tissue disease and whole-body radionuclide bone scan for bone disease. Exception: Participants with pelvic disease may be eligible (e.g., participants with enlarged lymph nodes below the bifurcation of common iliac arteries (N1))\n* Unmanageable concurrent bladder outflow obstruction or urinary incontinence. Note: participants with bladder outflow obstruction or urinary incontinence, which is manageable with best available standard of care (incl. pads, drainage) are allowed\n* Active clinically significant cardiac disease; history of seizure or condition that may pre-dispose to seizure which may require treatment with surgery or radiation therapy\n* Prior therapy with: second generation anti-androgens (e.g., enzalutamide, apalutamide and darolutamide) \\< 3 months before randomization; CYP17 inhibitors (e.g., abiraterone acetate, orteronel, galeterone) \\< 3 months before randomization; ketoconazole (short duration ketoconazole treatment (\\<28 days) is permitted); radiopharmaceutical agents (e.g., Strontium-89) if wash-out period of at least 3 months is not completed, PSMA-targeted radioligand therapy; immunotherapy (e.g., sipuleucel-T); chemotherapy, except if administered in the adjuvant/neoadjuvant setting, completed \\> 2 years before randomization; any other investigational agents for CRPC; use of estrogens, 5-\u03b1 reductase inhibitors (finasteride, dutasteride), other steroidogenesis inhibitors (aminoglutethimide) or first-generation anti-androgens (bicalutamide, flutamide, nilutamide, cyproterone) within 28 days before randomization; radiation therapy (external beam radiation therapy \\[EBRT\\] and brachytherapy within 28 days before randomization\n* Other concurrent cytotoxicity chemotherapy, immunotherapy, radioligand therapy, poly adenosine diphosphate-ribose polymerase (PARP) inhibitor, biological therapy or investigational therapy\n\nOther protocol-defined inclusion/exclusion criteria may apply.",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Wellspan York Hospital",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "PSA response",
+      "timeFrame": "From randomization until PSA nadir value of =< 0.2 ng/mL that is confirmed by a second (the next) PSA measurement >= 4 weeks later, up to 5 years",
+      "description": "PSA response is defined as the time of PSA nadir value of =\\< 0.2 ng/mL is confirmed by a second (the next) PSA measurement at least 4 weeks later"
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2024-01-03",
+  "completion_date": "2026-12-23",
+  "last_updated": "2026-02-27"
+}

@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT05510908",
+  "brief_title": "Use of a Screening Tool to Describe HIV-Related Cancer Burden and Patient Characteristics in the AMC",
+  "official_title": "Use of a Screening Tool to Describe HIV-Related Cancer Burden and Patient Characteristics in the AIDS Malignancy Consortium A Trial of the AIDS Malignancy Consortium (AMC)",
+  "brief_summary": "This study is being done to understand how many people with HIV (PWH) present for cancer care across the AIDS Malignancy Consortium in the United States and if there are reasons that some PWH choose to participate, or not in cancer clinical trials. Optional quality of life surveys will be used to learn more about how HIV and cancer and HIV and cancer treatment affect people.",
+  "detailed_description": "Primary Objective: To estimate the number of cancers in people with HIV (PWH) who present for care at domestic AMC sites\n\nSecondary Objectives: To characterize participants that are eligible but not enrolled onto AMC clinical trials to understand site-specific and trial-specific accrual barriers\n\nExploratory Objectives: 1. To standardize and expand the quantity and quality of sociodemographic and cancer diagnostic and treatment characteristics collected for PWH receiving care at domestic AMC sites. 2. To describe cancer patient health-related QOL for PWH at domestic AMC sites using validated tools: European Organization for Research and Treatment of Cancer Quality of Life Questionnaire \\[EORTC QLQ-C30\\] and Supportive Care Needs Survey Short Form 34 \\[SCNS-SF34\\]\n\nOutline: Participants identified via screening of electronic medical records or institutional databases. All eligible participants attend one visit for the collection of broad demographic and clinical data. Participants initiating or receiving ongoing treatment for their cancer will attend a single follow-up visit. Data collection at study visits will occur via survey procedures and/or medical record review.",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 460,
+  "conditions": [
+    "HIV-Associated Malignant Neoplasm",
+    "HIV Infections",
+    "Cancer",
+    "AIDS Related Lymphoma",
+    "AIDS-related Kaposi Sarcoma",
+    "AIDS-Related Malignancy",
+    "Anal Cancer",
+    "HPV-Related Malignancy"
+  ],
+  "interventions": [
+    {
+      "name": "Non-Interventional",
+      "type": "OTHER",
+      "description": "Participants will be identified via screening of electronic medical records or institutional databases. All eligible participants will have one visit for the collection of broad demographic and clinical data. Data collection at study visit will occur via survey procedures and/or medical record review."
+    },
+    {
+      "name": "Non-Interventional Follow-up",
+      "type": "OTHER",
+      "description": "Participants initiating or receiving ongoing treatment for their cancer will attend a single follow-up visit to recollect broad demographic and clinical data. Data collection at study visits will occur via survey procedures and/or medical record review."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participant can understand and is willing to sign a written informed consent document.\n* HIV positive. Documentation of HIV-1 infection by means of any one of the following:\n\n  * Documentation of an HIV diagnosis in the medical record by a licensed health care provider;\n  * Documentation of receipt of antiretroviral therapy (ART) (i.e., at least two different medications that do not constitute a prescription for pre-exposure prophylaxis \\[PrEP\\]) by a licensed health care provider. Documentation may be a record of an ART prescription in the medical record, a written prescription in the name of the participant for ART, or pill bottles for ART with a label showing the participant's name;\n  * HIV-1 RNA detection by a licensed HIV-1 RNA assay demonstrating \\>1000 RNA copies/mL;\n  * Any licensed HIV screening antibody and/or HIV antibody/antigen combination assay confirmed by a second licensed HIV assay such as a HIV-1 Western blot confirmation or HIV rapid multispot antibody differentiation assay.\n\nNote: The term \"licensed\" refers to a kit that has been certified or licensed by an oversight body within the participating country and validated internally (e.g., U.S. FDA).\n\nWHO (World Health Organization) and CDC (Centers for Disease Control and Prevention) guidelines mandate that confirmation of the initial test result must use a test that is different from the one used for the initial assessment. A reactive initial rapid test should be confirmed by either another type of rapid assay, or an E/CIA that is based on a different antigen preparation and/or different test principle (e.g., indirect versus competitive), a Western blot, or a plasma HIV-1 RNA viral load.\n\n* Patient was diagnosed with or treated for cancer within the last 5 years. Participants will qualify under one of three categories:\n\n  * New, primary or recurrent diagnosis -Considering or currently receiving cancer treatment\n  * Metastatic or locally advanced cancer - This includes cases for which there are no current definitive therapy options for cure (i.e., inoperable) but may be considered for non-standard / non-curative therapies.\n  * Prior diagnosis (within 5 years), in remission - Not currently on cancer treatment other than ART or maintenance therapy.\n* Age \u2265 18 years.\n* Participant presents to an AMC domestic clinical trial site for either clinical care or research.\n\nExclusion Criteria:\n\n* Participants who do not fulfill the criteria as listed above are ineligible.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Abramson Cancer Center at Pennsylvania Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19106",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Cancers in People With HIV (PWH) Who Present for Care at Domestic AMC Sites",
+      "timeFrame": "Enrollment",
+      "description": "For each cancer group listed below, the number of new and existing cases per month will be estimated. The distribution of cancer types will be computed as percentages and compared to the cancer type distribution in the HIV/AIDS Cancer Match (HACM) Study:\n\n1. Solid organ tumors associated with human papillomavirus (HPV) infection\n2. Solid organ tumors unrelated to HPV\n3. Kaposi sarcoma\n4. Hematologic malignancies"
+    }
+  ],
+  "sponsor": "AIDS Malignancy Consortium",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2023-07-25",
+  "completion_date": "2025-06-02",
+  "last_updated": "2026-03-24"
+}

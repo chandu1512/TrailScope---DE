@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT02437318",
+  "brief_title": "Study Assessing the Efficacy and Safety of Alpelisib Plus Fulvestrant in Men and Postmenopausal Women With Advanced Breast Cancer Which Progressed on or After Aromatase Inhibitor Treatment.",
+  "official_title": "A Phase III Randomized Double-blind, Placebo Controlled Study of Alpelisib in Combination With Fulvestrant for Men and Postmenopausal Women With Hormone Receptor Positive, HER2-negative Advanced Breast Cancer Which Progressed on or After Aromatase Inhibitor Treatment",
+  "brief_summary": "To determine whether treatment with alpelisib plus fulvestrant prolonged progression-free survival (PFS) compared to fulvestrant and placebo in men and postmenopausal women with hormone receptor positive (HR+), human epidermal growth factor receptor-2 (HER2)-negative advanced breast cancer, who received prior treatment with an aromatase Inhibitor (AI) either as (neo)adjuvant or for advanced disease.",
+  "detailed_description": "This was a randomized, double-blind, placebo-controlled, international multicenter Phase III study that evaluated the efficacy and safety of treatment with alpelisib plus fulvestrant versus placebo plus fulvestrant in men and postmenopausal women with HR-positive, HER2-negative advanced breast cancer which had progressed on or after AI treatment.\n\nSubjects were allocated to either the PIK3CA mutant or PIK3CA non-mutant cohort, based on central testing of hotspot-mutations in tumor tissue. Subjects with unknown results were not eligible. Within each cohort, subjects were randomized in a 1:1 ratio to receive either alpelisib 300 mg orally once daily (q.d.), in combination with fulvestrant 500 mg intramuscular (i.m.) on Days 1 and 15 of Cycle 1 and Day 1 of a 28-day cycle thereafter, or placebo daily in combination with fulvestrant 500 mg following the same treatment regimen.\n\nSubjects were treated until disease progression, unacceptable toxicity, death, or discontinuation from the study treatment for any other reason. All subjects who discontinued study treatment were followed for safety, until 30 days after last study treatment administration, except in the case of death, loss to follow-up, or withdrawal of consent.\n\nSubjects who discontinued study treatment for reasons other than disease progression or withdrawal of consent, were followed until disease progression, death, withdrawal of consent, loss to follow-up, or subject/guardian decision (post-treatment efficacy follow-up).\n\nFinally, all subjects were followed for survival after discontinuation of study treatment and tumor evaluations until the subject's death, loss to follow-up, or withdrawal of consent for survival follow-up (post-treatment survival follow-up)",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 572,
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Fulvestrant",
+      "type": "DRUG",
+      "description": "500 mg of fulvestrant administered via intramuscular injection on Day 1 and Day 15 of Cycle 1, and then Day 1 of each subsequent 28-day cycle"
+    },
+    {
+      "name": "Alpelisib",
+      "type": "DRUG",
+      "description": "300 mg of alpelisib tablets for oral use administered once daily"
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "300 mg of placebo tablets for oral use administered once daily"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* If female, the patient was postmenopausal.\n* The patient had identified PIK3CA status.\n* Patients could be:\n* Relapsed with documented evidence of progression while on (neo)adjuvant endocrine therapy or within 12 months from completion of (neo)adjuvant endocrine therapy with no treatment for metastatic disease.\n* Relapsed with documented evidence of progression more than 12 months from completion of (neo)adjuvant endocrine therapy and then subsequently progressed with documented evidence of progression while on or after only one line of endocrine therapy for metastatic disease.\n* Newly diagnosed with advanced breast cancer, then relapsed with documented evidence of progression while on or after only one line of endocrine therapy.\n* The patient had recurrence or progression of the disease during or after AI therapy (i.e., letrozole, anastrozole, exemestane).\n* The patient had a histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive breast cancer by a local laboratory and had HER2 negative breast cancer.\n* The patient had either measurable disease per RECIST 1.1 criteria or at least one predominantly lytic bone lesion present.\n* The patient had adequate bone marrow function.\n\nExclusion Criteria:\n\n* The patient had symptomatic visceral disease or any disease burden that made the patient ineligible for endocrine therapy per the investigator's best judgment.\n* The patient had received prior treatment with chemotherapy (except for neoadjuvant/adjuvant chemotherapy), fulvestrant, any PI3K, mTOR, or AKT inhibitor (pre-treatment with CDK4/6 inhibitors was allowed).\n* The patient had inflammatory breast cancer at screening.\n* Patients had Child pugh score B or C.\n* Patients had an established diagnosis of diabetes mellitus type I or uncontrolled type II.\n* The patient had Eastern Cooperative Oncology Group (ECOG) performance status 2 or more.\n* The patient had CNS involvement unless he/she was at least 4 weeks from prior therapy completion to starting the study treatment and had a stable CNS tumor at the time of screening and was not receiving steroids and/or enzyme-inducing antiepileptic medications for brain metastases.\n* The patient had participated in a prior investigational study within 30 days prior to enrollment or within 5 half-lives of the investigational product, whichever was longer.\n* The patient had a history of acute pancreatitis within 1 year of screening or a past medical history of chronic pancreatitis.\n* The patient relapsed with documented evidence of progression more than 12 months from completion of (neo)adjuvant endocrine therapy with no treatment for metastatic disease.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Mercy Medical Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21202",
+      "status": ""
+    },
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08903",
+      "status": ""
+    },
+    {
+      "facility": "Lancaster General Hospital",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17604",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS) Per Investigator Assessment in the PIK3CA Mutant Cohort",
+      "timeFrame": "Once approximately 243 PFS events in the PIK3CA mutant cohort had been observed, up to 33.3 months",
+      "description": "PFS was defined as the time from the date of randomization to the date of the first documented progression or death due to any cause. PFS was assessed via a local radiology assessment according to RECIST 1.1. If a patient did not have an event, PFS was censored at the date of last adequate tumor assessment.\n\nThe PFS distribution was estimated using Kaplan-Meier methodology. Progression was defined as at least a 20% increase in the sum of diameter of all measured target lesions, taking as reference the smallest sum of diameter of all target lesions recorded at or after baseline. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm."
+    }
+  ],
+  "sponsor": "Novartis Pharmaceuticals",
+  "collaborators": [],
+  "start_date": "2015-07-23",
+  "completion_date": "2023-06-09",
+  "last_updated": "2025-02-10"
+}

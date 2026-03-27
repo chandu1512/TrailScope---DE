@@ -1,0 +1,100 @@
+{
+  "nct_id": "NCT01004861",
+  "brief_title": "Safety Study of PLX108-01 in Patients With Solid Tumors",
+  "official_title": "A Phase 1 Study to Assess Safety, Pharmacokinetics, and Pharmacodynamics of PLX3397 in Patients With Advanced, Incurable, Solid Tumors in Which the Target Kinases Are Linked to Disease Pathophysiology",
+  "brief_summary": "PLX3397 is a selective inhibitor of Fms, Kit, and oncogenic Flt3 activity. The primary objective of this study is to evaluate the safety and pharmacokinetics of orally administered PLX3397 in patients with advanced, incurable, solid tumors in which these target kinases are linked to disease pathophysiology. The secondary objective is to measure the pharmacodynamic activity of PLX3397 via blood, plasma and urine biomarkers of Fms activity.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 132,
+  "conditions": [
+    "Solid Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "PLX3397",
+      "type": "DRUG",
+      "description": "Capsules administered once or twice daily, continuous dosing"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age 18 and older\n* Solid tumors refractory to standard therapy\n* For the Extension cohorts, patients must have measurable disease by RECIST criteria and meet the following disease-specific criteria:\n\n  * For advanced or recurrent mucoepidermal carcinoma (MEC) of the salivary gland, patients must not be candidates for curative surgery or radiotherapy.\n  * For pigmented villo-nodular synovitis (PVNS), patients must have a histologically confirmed diagnosis of inoperable progressive or relapsing PVNS, or resectable tumor requesting mutilating surgery, as well as demonstrated progressive disease in the last 12 months.\n  * For gastrointestinal stromal tumors (GIST), patients must have failed previous therapy with imatinib and sunitinib. Patients with known PDGFR mutations are excluded, but mutation testing is not required for study entry.\n  * For anaplastic thyroid cancer (ATC), patients must have histologically or cytologically diagnosed advanced ATC.\n  * For metastatic solid tumors with documented malignant pleural and/or peritoneal effusions, patients must not be receiving specific therapy for the effusion or have an indwelling drain.\n* Eastern Cooperative Oncology Group performance status 0 or 1\n* Life expectancy \\>= 3 months\n* Adequate hepatic, renal, and bone marrow function\n\nExclusion Criteria:\n\n* Specific anti-cancer therapy within 3 weeks of study start\n* Uncontrolled intercurrent illness\n* Refractory nausea or vomiting, or malabsorption\n* Mean corrected QT interval (QTc) \\>= 450 msec (for males) or QTc \\>= 470 msec (for females)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pennsylvania Oncology Hematology Associates",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19106",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Summary of Derived Best Tumor Response Per the Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 - Dose Escalation (Efficacy Evaluable Population)",
+      "timeFrame": "Every 2 months beginning Cycle 3, Day 1 until disease progression (up to approximately 30 months postdose)",
+      "description": "Best overall tumor response (complete response \\[CR\\], partial response \\[PR\\], stable disease \\[SD\\], progressive disease \\[PD\\]) is reported, including participants who were not evaluable (NE).\n\nRECIST v1.1 for target lesions are assessed by magnetic resonance imaging, computed tomography, or positron emission tomography-computed tomography and are summarized as: CR, Disappearance of all target lesions. Any pathological lymph nodes must have reduction in short axis to \\<10 mm; PR, At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters; PD, at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (includes the baseline sum). In addition, the sum must also demonstrate an absolute increase of at least 5 mm; SD, Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study."
+    },
+    {
+      "measure": "Summary of Derived Best Tumor Response Per the Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 - Dose Extension (Efficacy Evaluable Population)",
+      "timeFrame": "Every 2 months beginning Cycle 3, Day 1 until disease progression (up to approximately 30 months postdose)",
+      "description": "Best overall tumor response (complete response \\[CR\\], partial response \\[PR\\], stable disease \\[SD\\], progressive disease \\[PD\\]) is reported, including participants who were not evaluable (NE).\n\nRECIST v1.1 for target lesions are assessed by magnetic resonance imaging, computed tomography, or positron emission tomography-computed tomography and are summarized as: CR, Disappearance of all target lesions. Any pathological lymph nodes must have reduction in short axis to \\<10 mm; PR, At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters; PD, at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (includes the baseline sum). In addition, the sum must also demonstrate an absolute increase of at least 5 mm; SD, Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study."
+    },
+    {
+      "measure": "Duration of Response (Efficacy Evaluable Population) - Dose Extension",
+      "timeFrame": "From initial response until disease progression or death, up to approximately 30 months postdose",
+      "description": "Duration of Response (DOR) is defined as the number of days from the date of initial response (CR or PR confirmed at least 28 days later) to the date of first documented disease progression/relapse or death, whichever occurs first. If no disease progression or death is documented prior to study termination, analysis cutoff, or the start of confounding anticancer therapy, DOR is censored as of the date of their last imaging exam of target or non-target lesions prior to post-surgery and/or off-treatment scans."
+    },
+    {
+      "measure": "Progression-free Survival (Efficacy Evaluable Population) - Dose Extension",
+      "timeFrame": "From Cycle 1 Day 1 to disease progression or death",
+      "description": "Progression-Free Survival (PFS) is defined as the number of days from the first day of treatment to the first documented disease progression or date of death, whichever occurs first. If no disease progression or death is documented prior to study termination, analysis cutoff, or the start of confounding anticancer therapy, PFS is censored at the date of last evaluable tumor assessment."
+    },
+    {
+      "measure": "Best Overall Tumor Response (PVNS Cohort) Per the Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 - Dose Extension",
+      "timeFrame": "Every 2 months beginning Cycle 3, Day 1 until disease progression",
+      "description": "Best overall tumor response (complete response \\[CR\\], partial response \\[PR\\], stable disease \\[SD\\], progressive disease \\[PD\\]) is reported, including participants who were not evaluable (NE).\n\nRECIST v1.1 for target lesions are assessed by magnetic resonance imaging, computed tomography, or positron emission tomography-computed tomography and are summarized as: CR, Disappearance of all target lesions. Any pathological lymph nodes must have reduction in short axis to \\<10 mm; PR, At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters; PD, at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (includes the baseline sum). In addition, the sum must also demonstrate an absolute increase of at least 5 mm; SD, Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study."
+    },
+    {
+      "measure": "Summary Statistics for Selected PLX3397 Pharmacokinetics Parameter Cmax, Study Day Cycle 1 Day 15, Stratified by Cohort - Dose Escalation",
+      "timeFrame": "Cycle 1, Day 15",
+      "description": "Cycle 1 Day 15 pharmacokinetic (PK) timepoints taken are: For once daily (QD) dosing, obtained predose (morning) and 0.5, 1, 2, 4, and 8 hours postdose. For twice a day (BID) dosing predose (morning) and 1, 2, 4, and 7 hours postdose. The second dose will then be administered, and PK obtained 1 hour post the second dose (8 hours post the first dose). For BID dosing, no run-in is planned."
+    },
+    {
+      "measure": "Summary Statistics for Selected PLX3397 Pharmacokinetics Parameter Tmax, Study Day Cycle 1 Day 15, Stratified by Cohort - Dose Escalation",
+      "timeFrame": "Cycle 1, Day 15",
+      "description": "Cycle 1 Day 15 PK timepoints taken are: For QD dosing, obtained predose (morning) and 0.5, 1, 2, 4, and 8 hours postdose. For BID dosing predose (morning) and 1, 2, 4, and 7 hours postdose. The second dose will then be administered, and PK obtained 1 hour post the second dose (8 hours post the first dose). For BID dosing, no run-in is planned."
+    },
+    {
+      "measure": "Summary Statistics for Selected PLX3397 Pharmacokinetics Parameter Area Under the Curve (AUC0-24), Study Day Cycle 1 Day 15, Stratified by Cohort - Dose Escalation",
+      "timeFrame": "Cycle 1, Day 15 (QD dosing: predose [morning] and 0.5, 1, 2, 4, and 8 hours postdose; BID dosing: predose [morning] and 1, 2, 4, and 7 hours postdose)",
+      "description": "Cycle 1 Day 15 PK timepoints taken are: For QD dosing, obtained predose (morning) and 0.5, 1, 2, 4, and 8 hours postdose. For BID dosing, predose (morning) and 1, 2, 4, and 7 hours postdose. The second dose will then be administered, and PK obtained 1 hour post the second dose (8 hours post the first dose). For BID dosing, no run-in is planned."
+    },
+    {
+      "measure": "Numeric Rating Scale (NRS) for PVNS Symptoms Sum of Scores Through Cycle 2 (Efficacy Evaluable Population) - Dose Extension",
+      "timeFrame": "Baseline, Cycle 1 Day 15, Cycle 2, Cycle 3, Cycle 12, Cycle 24, Cycle 36, and Cycle 46 (each cycle was 28 days)",
+      "description": "The NRS for PVNS Symptoms instrument is a 5-item self-administered questionnaire to assess the \"worst\" of each of the symptoms pain, swelling, stiffness, instability and limited motion in the last 24 hours. A 0 to 10 NRS is provided for each symptom. For pain, 0 indicates \"no pain\" and 10 indicates \"pain as bad as you can imagine\". For the other 4 symptoms, 0 indicates \"no (symptom)\" and 10 indicates \"(symptom) worst imaginable\", e.g., \"swelling - worst imaginable.\" Higher scores indicated worse outcome."
+    }
+  ],
+  "sponsor": "Daiichi Sankyo",
+  "collaborators": [
+    "Plexxikon"
+  ],
+  "start_date": "2009-10-01",
+  "completion_date": "2018-10-25",
+  "last_updated": "2021-12-06"
+}

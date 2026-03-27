@@ -1,0 +1,80 @@
+{
+  "nct_id": "NCT04523207",
+  "brief_title": "A Study of Apalutamide (Adjuvant Treatment) and Androgen Deprivation Therapy (ADT) in Participants Who Have Undergone Radical Prostatectomy (RP) for Non-metastatic Prostate Cancer and Who Are at High Risk for Metastases",
+  "official_title": "A Multi-center, Open-label, Single-arm Phase 2 Study of the Adjuvant Treatment of Apalutamide and Androgen Deprivation Therapy (ADT) in Treatment-na\u00efve Participants Who Have Undergone Radical Prostatectomy (RP) for Non-metastatic Prostate Cancer and Who Are at High Risk for Metastases",
+  "brief_summary": "Main Study: The purpose of main study is to assess if the combination of apalutamide and androgen deprivation therapy (ADT) in participants with high-risk localized prostate cancer improves the biochemical recurrence (BCR) free rate.\n\nSub-study: The purpose of the sub-study is to assess if the co administration of apalutamide and relugolix is able to maintain castrate levels of testosterone.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 108,
+  "conditions": [
+    "Prostatic Neoplasms"
+  ],
+  "interventions": [
+    {
+      "name": "Apalutamide",
+      "type": "DRUG",
+      "description": "Participants will receive apalutamide 240 mg (4 tablets of 60 mg each) oral tablets during the main study and sub-study."
+    },
+    {
+      "name": "ADT",
+      "type": "DRUG",
+      "description": "Participants will receive ADT intramuscular or subcutaneously during the main study."
+    },
+    {
+      "name": "Relugolix",
+      "type": "DRUG",
+      "description": "Participants will receive 120 mg of relugolix following a loading dose of 360 mg of (3 tablets of 120 mg each) relugolix during the sub-study."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* A candidate for radical prostatectomy (RP) or status post RP. Eligible to receive study intervention between Day 29 and Day 90 post-RP. Post RP prostate-specific antigen (PSA) of \\<= 0.2 nanograms per milliliter (ng/mL). Has not received other treatment for prostate cancer\n* Have recovered from RP procedure and have had no worsening in cardiac risk in the peri-operative period per the clinical judgement of the investigator\n* Adequate organ function (hepatic, renal, hematologic and cerebral) determined at the discretion of the treating physician\n* Eastern Cooperative oncology Group (ECOG) Performance Status Score of 0 or 1\n* Histologically confirmed adenocarcinoma of the prostate and categorized as high risk for recurrent prostate cancer. High risk can be defined based on PSA alone or biopsy or RP specimen as follows: PSA greater than or equal to (\\>=) 20 ng/ml or; Gleason Score \\>= 9 in any core on biopsy or; Gleason Score \\>= 8 (4+4 or 5+3) in greater than (\\>) 80 percentage (%) of 2 cores on biopsy or; Gleason Score = 8 (4+4 or 5+3) in 1 core as long 5 or more other cores with minimum Gleason Score of 4+3 on biopsy. The determination of high risk may be based on pathology report of biopsy or equivalent criteria from radical prostatectomy\n\nExclusion Criteria:\n\n* History or presence of soft tissue/bone metastasis or metastasis in distant lymph nodes (pelvic lymph nodes below the iliac bifurcation that are less than (\\<) 2 centimeter (cm) in diameter \\[short axis\\] either radiographically or pathologically are allowed.)\n* History of bilateral orchiectomy\n* Received an investigational intervention \\<= 4 weeks before the planned first dose of study intervention\n* History of seizure or any condition that in the opinion of the investigator may predispose to seizure or treatment with drugs known to lower the seizure threshold within 4 weeks prior to starting treatment with apalutamide\n* Allergy or hypersensitivity to apalutamide, or excipients, unable or unwilling to take androgen deprivation therapy (ADT)",
+    "gender": "MALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "New Jersey Urology LLC",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    },
+    {
+      "facility": "MidLantic Urology",
+      "city": "Bala-Cynwyd",
+      "state": "Pennsylvania",
+      "zip": "19004",
+      "status": ""
+    },
+    {
+      "facility": "Lancaster Urology",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17604",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Confirmed Biochemical Recurrence (BCR)-Free Rate at Month 24",
+      "timeFrame": "At Month 24",
+      "description": "Confirmed BCR-free rate was estimated from primary efficacy variable, time to confirmed BCR. This was measured as the interval between the date of the first dose of study drug and the date of the first occurrence of confirmed prostate specific antigen (PSA) greater than (\\>) 0.2 nanogram per milliliter (ng/mL). Confirmation of the PSA value was conducted within 3 to 4 weeks, regardless of study visit and timing. Participants without confirmed PSA \\> 0.2 ng/mL (including those who were lost to follow-up) were censored on their last PSA measurement date during the treatment phase of the study."
+    },
+    {
+      "measure": "Sub-study: Percentage of Participants Who Maintained Testosterone Level Less Than (<) 50 Nanograms Per Deciliter (ng/dL) Through Day 28",
+      "timeFrame": "From Day -14 through Day 28",
+      "description": "Percentage of participants maintaining testosterone level \\<50 ng/dL through Day 28 were reported."
+    }
+  ],
+  "sponsor": "Janssen Research & Development, LLC",
+  "collaborators": [],
+  "start_date": "2020-08-19",
+  "completion_date": "2023-10-25",
+  "last_updated": "2025-04-24"
+}

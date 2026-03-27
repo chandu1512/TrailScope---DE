@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT05899608",
+  "brief_title": "Clinical Study of Ivonescimab for First-line Treatment of Metastatic NSCLC Patients",
+  "official_title": "A Randomized, Double-blind, Multiregional Phase 3 Study of Ivonescimab Combined With Chemotherapy Versus Pembrolizumab Combined With Chemotherapy for the First-line Treatment of Metastatic Non-small Cell Lung Cancer (HARMONi-3)",
+  "brief_summary": "This is a Phase 3 Randomized, double-blind, Multiregional Study of Ivonescimab Combined with Chemotherapy Versus Pembrolizumab Combined with Chemotherapy for the First-line Treatment of Metastatic Non-small Cell Lung Cancer. The primary endpoint is overall survival and progression free survival assessed by investigator. The key secondary endpoints include response and safety.",
+  "detailed_description": "This study consists of two distinct NSCLC histology cohorts: squamous (N=600) and non-squamous (N=1000), approximately 1600 patients in total. Within each cohort, subjects are randomized in a 1:1 ratio into one of two treatment groups, receiving either ivonescimab or pembrolizumab combined with platinum-doublet chemotherapy. The two histology cohorts will be analyzed independently",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1600,
+  "conditions": [
+    "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Ivonescimab Injection",
+      "type": "BIOLOGICAL",
+      "description": "Subject will receive ivonescimab and chemotherapy as an IV injection"
+    },
+    {
+      "name": "Pembrolizumab Injection",
+      "type": "BIOLOGICAL",
+      "description": "Subject will receive pembrolizumab and chemotherapy as an IV injection"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Age \u2265 18 years old at the time of enrollment\n* Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1\n* Expected life expectancy \u2265 3 months\n* Metastatic (Stage IV) NSCLC\n* Histologically or cytologically confirmed squamous or non-squamous NSCLC\n* Recorded measurement of the Tumor Proportion Score (TPS) or Tumor Cells (TC) for PD-L1 expression, irrespective of the PD-L1 expression, prior to randomization\n* At least one measurable noncerebral lesion according to RECIST 1.1\n* No prior systemic treatment for metastatic NSCLC\n\nExclusion Criteria:\n\n* Histologic or cytopathologic evidence of the presence of small cell lung carcinoma\n* Known actionable genomic alterations (EGFR, ALK, ROS1, and BRAF V600E) or genes for which first-line approved therapies are available.\n\n  * For non-squamous histology patients, actionable driver mutation testing results are required before randomization.\n* Has received any prior therapy for NSCLC in the metastatic setting\n* Tumor invasion, encasement of organs (e.g. pericardium, heart, trachea, esophagus, central bronchi), or major blood vessels (e.g aorta, central veins), if poses a significant increased risk of bleeding.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21187",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Ascension Saint Agnes Hospital",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21229",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "approximately 4 years",
+      "description": "Overall Survival (OS) in the ITT population"
+    },
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "approximately 3 years",
+      "description": "Progression Free Survival (PFS) assessed by investigator based on RECIST V1.1"
+    }
+  ],
+  "sponsor": "Summit Therapeutics",
+  "collaborators": [],
+  "start_date": "2023-10-26",
+  "completion_date": "2029-12-31",
+  "last_updated": "2026-01-05"
+}

@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT01711658",
+  "brief_title": "TRYHARD: Radiation Therapy Plus Cisplatin With or Without Lapatinib in Treating Patients With Head and Neck Cancer.",
+  "official_title": "TRYHARD: A Phase II, Randomized, Double Blind, Placebo-Controlled Study of Lapatinib (Tykerb\u00ae) for Non-HPV Locally Advanced Head and Neck Cancer With Concurrent Chemoradiation",
+  "brief_summary": "PURPOSE: This trial is studying if and how well lapatinib adds to the effectiveness of radiation therapy plus cisplatin in patients who have head and neck cancer that is not related to the human papillomavirus (HPV).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 142,
+  "conditions": [
+    "Non-HPV Locally Advanced Head and Neck Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "IMRT",
+      "type": "RADIATION",
+      "description": "Intensity modulated radiation therapy (IMRT), 35 fractions over 6 weeks, 6 fractions per week for 5 weeks and 5 fractions per week for 1 week, 2 Gy per fraction to total dose of 70 Gy"
+    },
+    {
+      "name": "Cisplatin",
+      "type": "DRUG",
+      "description": "100 mg/m\\^2 administered intravenously on days 8 and 29"
+    },
+    {
+      "name": "placebo",
+      "type": "DRUG",
+      "description": "1500 mg placebo daily by mouth or by feeding tube starting 7 days before IMRT for 7 weeks prior to and during IMRT and 3 months after completion of IMRT"
+    },
+    {
+      "name": "Lapatinib",
+      "type": "DRUG",
+      "description": "1500 mg lapatinib by mouth or by feeding tube daily starting 7 days before IMRT for 7 weeks prior to and during IMRT and 3 months after completion of IMRT"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria:\n\n* Patients must have histologically or cytologically confirmed diagnosis (from primary lesion and/or lymph nodes) of Squamous Cell Cancer of the oropharynx, hypopharynx or larynx (For patients with oropharynx primary, the tumor must be negative for p16 by immunohistochemistry).\n* Patients with selected Stage III or IV disease (T2 N2-3 M0, T3-4 any N M0, T1 N2b, N2c or N3 p16 negative oropharynx cancer or T1-2 any N+ hypopharynx cancer) including no distant metastases.\n* History/Physical examination by a Radiation Oncologist and Medical oncologist prior to entering the study.\n* Examination by an ears, nose, throat (ENT) or Head \\& Neck Surgeon including laryngopharyngoscopy prior to entering the study.\n* Patients must have a chest CT scan, or positron emission tomography (PET)/CT scan to rule out metastatic disease\n* Patients must have a contrast enhanced CT scan or MRI or PET/CT scan of the tumor site and neck nodes prior to entering the study.\n* Patients must have an EKG and echocardiogram (ECHO) or multigated acquisition (MUGA) scan prior to entering the study.\n* Patients must have Zubrod Performance Status of 0-1.\n* Patients must be \u2265 18 years of age.\n* Patients must have normal organ and marrow function as defined below:\n\n  * Absolute neutrophil count (ANC) \u2265 1,500 cells/mm3\n  * Platelets \u2265 100,000 cells/mm3\n  * Hemoglobin \u2265 8.0 g/dl\n  * Serum creatinine \\< 1.5 mg/dl or creatinine clearance (CC) \u2265 50 ml/min\n  * Total bilirubin \\< 2 x the institutional upper limit of normal\n  * Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) \u2264 3 x the institutional upper limit of normal\n* Patient must have magnesium, calcium, glucose, potassium and sodium levels within normal limits\n* Women of childbearing potential must have a negative pregnancy test prior to registration.\n* Patients of reproductive potential must practice effective contraception while on study and for at least 60 calendar days following treatment.\n* All patients must sign an informed consent prior to enrollment.\n* Patients must comply with the treatment plan and follow-up schedule.\n\nExclusion criteria:\n\n* Patients with simultaneous primaries or bilateral tumors.\n* Patients who have had gross total excision of the primary tumor.\n* Patients with initial surgical treatment, radical or modified neck dissection.\n* Patients who received prior systemic chemotherapy for the study cancer.\n* Patients who received prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields.\n* Patients with primary tumor of oral cavity, nasopharynx, sinuses or salivary glands.\n* Prior allergic reaction to the study drugs.\n* Patients who have had prior therapy that specifically and directly targets the epidermal growth factor receptor (EGFR)/human epidermal growth factor receptor 2 (HER2) pathway.\n* Patients who have current active hepatic or biliary disease (with exception of patients with Gilbert's syndrome, asymptomatic gallstones, or stable chronic liver disease per investigator assessment);\n* Pregnant women or sexually active patients not willing or able to use medically acceptable forms of contraceptive method while on treatment.\n* Patients with severe, active co-morbidity, defined as follows:\n\n  * Uncontrolled cardiac disease, such as uncontrolled hypertension, unstable angina, and/or congestive heart failure requiring hospitalization within the last 6 months\n  * Transmural myocardial infarction within the last 6 months\n  * Left ventricular ejection fraction \\< 45%\n  * Acute bacterial or fungal infection requiring intravenous antibiotics at the time of registration\n  * Chronic Obstructive Pulmonary Disease exacerbation or other respiratory illness requiring hospitalization or precluding study therapy within 30 calendar days prior to registration\n  * Hepatic insufficiency resulting in clinical jaundice and/or Coagulation defects\n  * Acquired Immune Deficiency Syndrome (AIDS) based upon current Centers for Disease Control and Prevention (CDC) definition",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Fox Chase Cancer Center Buckingham",
+      "city": "Furlong",
+      "state": "Pennsylvania",
+      "zip": "18925",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Percentage of Participants Alive Without Progression (Progression-free Survival)",
+      "timeFrame": "From randomization to last follow-up. Maximum follow-up at time of analysis was 7.1 years.",
+      "description": "An event for progression-free survival is local, regional, or distant disease progression or death due to any cause. Progression-free survival time is defined as time from randomization to the date of progression/death or last known follow-up (censored). Rates are estimated by the Kaplan-Meier method. The protocol specifies that the distributions of survival times be compared between the arms, which is reported in the statistical analysis results. Five-year rates are provided. Analysis occurred after 67 progressions or deaths were reported."
+    }
+  ],
+  "sponsor": "Radiation Therapy Oncology Group",
+  "collaborators": [
+    "GlaxoSmithKline",
+    "Novartis"
+  ],
+  "start_date": "2013-03-15",
+  "completion_date": "2022-09-21",
+  "last_updated": "2023-10-04"
+}

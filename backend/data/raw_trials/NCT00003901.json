@@ -1,0 +1,131 @@
+{
+  "nct_id": "NCT00003901",
+  "brief_title": "Prognostic Study of Metastases in Patients With Stage I, Stage II, or Stage III Non-small Cell Lung Cancer That Can Be Removed by Surgery",
+  "official_title": "A Prospective Study of the Prognostic Significance of Occult Metastases in the Patient With Resectable Non-Small Cell Lung Carcinoma",
+  "brief_summary": "RATIONALE: Prognostic testing for early signs of metastases may help doctors detect metastases early and plan more effective treatment.\n\nPURPOSE: Phase III trial to study the relationship between early signs of metastases and survival in patients who have stage I, stage II, or stage III non-small cell lung cancer that can be removed by surgery.",
+  "detailed_description": "OBJECTIVES:\n\n* Determine the relationship between three indicators of occult metastases (cytological examination of pleural lavage, immunohistochemistry (IHC) assay of lymph nodes, and IHC assay of rib bone marrow) and survival of patients with resectable non-small cell lung cancer.\n* Determine the relationship between these indicators and conventional histology.\n* Model survival considering the indicators and other patient attributes that are of prime prognostic significance.\n* Determine the relationships between the indicators and the site of first recurrence in these patients.\n* Determine the prevalence of the indicators in these patients.\n* Determine the relationships between the indicators and disease free survival in these patients.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1310,
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "immunohistochemistry staining method",
+      "type": "OTHER",
+      "description": ""
+    },
+    {
+      "name": "biopsy",
+      "type": "PROCEDURE",
+      "description": ""
+    },
+    {
+      "name": "surgery",
+      "type": "PROCEDURE",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Patient must be \u2265 18 years old.\n2. Patient must have ECOG/Zubrod status \\< 3.\n3. Patient must have clinically resectable, NSCLC (squamous cell, adenocarcinoma, or large cell) and be clinical Stage I, IIa, IIb or IIIa, according to the 1998 staging system of the American Joint Commission on Cancer for lung cancer.\n4. Patient must have N1 or N2 disease. NOTE: Patient must undergo mediastinoscopy if preoperative studies suggest N3 disease.\n5. Patient must have a pathologic diagnosis (pre-operative or intra-operative) of NSCLC prior to registration.\n6. Patient must be anticipated to have a thoracotomy with the intention of a curative resection for primary NSCLC. NOTE: The preoperative assessment of resectability should, at a minimum, include a CT scan of the chest and upper abdomen, including the adrenal glands, within 60 days prior to registration.\n7. Patient must be medically fit for surgery.\n8. Patient must be a candidate for complete resection of the carcinoma via pneumonectomy, bilobectomy, lobectomy, or anatomic segmentectomy with or without sleeve resection.\n9. Patient or the patient's legally acceptable representative must provide a signed and dated written informed consent prior to registration and any study-related procedures.\n10. Patient must be available for follow-up.\n11. If the patient is a survivor of a prior cancer, all of the following criteria must apply:\n\n    1. Patient has undergone potentially curative therapy for all prior malignancies,\n    2. No evidence of any prior malignancies for at least 5 years with no evidence of recurrence (except for effectively treated basal cell or squamous carcinoma of the skin, carcinoma in-situ of the cervix that has been effectively treated by surgery alone, or lobular carcinoma in-situ of the ipsilateral or contralateral breast treated by surgery alone),\n    3. Patient is deemed by their treating physician to be at low risk for recurrence from prior malignancies.\n\nExclusion Criteria:\n\n1. Patient has evidence of pleural effusion by physical assessment, lateral chest x-ray, or by chest CT scan.\n2. Patient has had ipsilateral thoracotomy or thoracoscopy within the past 5 years.\n3. Patient has received prior chemotherapy or radiotherapy for this cancer.\n4. Patient is considered a poor surgical risk due to non-malignant systemic disease (cardiovascular, renal, etc.) that would preclude the treatment options.\n5. Patient for whom the surgeon plans to perform only a wedge resection for treatment.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Westmoreland Regional Hospital",
+      "city": "Greensburg",
+      "state": "Pennsylvania",
+      "zip": "15601-2282",
+      "status": ""
+    },
+    {
+      "facility": "Jameson Memorial Hospital",
+      "city": "New Castle",
+      "state": "Pennsylvania",
+      "zip": "16105",
+      "status": ""
+    },
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104-4283",
+      "status": ""
+    },
+    {
+      "facility": "Kimmel Cancer Center at Thomas Jefferson University - Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107-5541",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111-2497",
+      "status": ""
+    },
+    {
+      "facility": "Temple University Hospital",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19140",
+      "status": ""
+    },
+    {
+      "facility": "Allegheny General Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212-4772",
+      "status": ""
+    },
+    {
+      "facility": "Western Pennsylvania Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "status": ""
+    },
+    {
+      "facility": "St. Clair Memorial Hospital",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15243-1899",
+      "status": ""
+    },
+    {
+      "facility": "Lankenau Cancer Center at Lankenau Hospital",
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "zip": "19096",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival in Lymph Nodes Examined Patients",
+      "timeFrame": "Up to 5 years",
+      "description": "Overall survival was defined as the time period between patient registration and death. All histologically negative lymph nodes (N0) participants were examined for occult metastases (OM), diagnosed by cytokeratin immunohistochemistry (IHC)."
+    },
+    {
+      "measure": "Overall Survival in Bone Marrow Examined Patients",
+      "timeFrame": "Up to 5 years",
+      "description": "Overall survival was defined as the time period between patient registration and death. Rib bone marrow on participants were examined for occult metastases (OM), diagnosed by cytokeratin immunohistochemistry (IHC)."
+    }
+  ],
+  "sponsor": "Alliance for Clinical Trials in Oncology",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "1999-07",
+  "completion_date": "2011-10",
+  "last_updated": "2016-12-22"
+}

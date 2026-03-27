@@ -1,0 +1,61 @@
+{
+  "nct_id": "NCT05622344",
+  "brief_title": "StableEyes With Active Neurofeedback",
+  "official_title": "StableEyes With Active Neurophysiological Feedback",
+  "brief_summary": "The investigators have developed a self-administered rehabilitation tool that incrementally guides the user to increase head motion to mitigate motion sickness and enhance postural recovery following centrifugation or unilateral vestibular nerve deafferentation surgery.",
+  "detailed_description": "The rehabilitation device guides users to perform sinusoidal head rotations, matched to a metronome, about the yaw, pitch, and roll axes (60 sec epochs, 5 minutes per axis, 15 min total). The assessment for each axis consists of the number of completed epochs with each epoch requiring head rotations of a different amplitude. Subjects are instructed to begin with an 'easy' amplitude (i.e. small) and increase or decrease amplitude depending on the subject's perception of motion sickness - which is input from 0 (absent motion sick) to 11 (vomit) using a handheld controller. Video-oculography captures eye and head velocity as well as tracks the number of blinks and saccades, metrics that can indicate worsening nausea.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 48,
+  "conditions": [
+    "Vestibular Disorder",
+    "Vestibular Schwannoma",
+    "Space Motion Sickness",
+    "Motion Sickness"
+  ],
+  "interventions": [
+    {
+      "name": "Traditional Therapy",
+      "type": "BEHAVIORAL",
+      "description": "Exercises that teaches subjects to move their heads while viewing still or moving targets."
+    },
+    {
+      "name": "SWAN",
+      "type": "DEVICE",
+      "description": "The SWAN device uses video-oculography to monitor head motion while guiding participants to move their head in yaw, pitch, roll planes for 15 minutes. Feedback is provided regarding frequency and plane of head rotation"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Provision of signed and dated informed consent form\n2. Stated willingness to comply with all study procedures and availability for the duration of the study\n3. In good general health as evidenced by medical history or diagnosed with unilateral vestibular schwannoma\n4. Willing to adhere to the SWAN and/or vestibular rehabilitation regimen\n\nExclusion Criteria:\n\n1. Current use of anti-nausea medication\n2. Presence of cervical spine pathology that limits head motion to \\< 30 degrees in the horizontal or vertical plane (i.e. degenerative disc disease, rheumatoid arthritis)\n3. Any orthopedic pathology that prevents walking or standing independently (i.e. recent surgery)\n4. Legal blindness (20/200 or worse visual acuity)\n5. Treatment using a motion sickness investigational drug or other motion sickness behavioral intervention within 30 days",
+    "gender": "ALL",
+    "min_age": "21 Years",
+    "max_age": "70 Years",
+    "healthy_volunteers": true
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change in Motion sickness intensity as assessed by subjective rating",
+      "timeFrame": "Daily for up to 4 weeks",
+      "description": "Subjective rating of motion sickness intensity from 0 to 10. Zero denotes absent motion sickness while 10 denote vomiting."
+    }
+  ],
+  "sponsor": "Johns Hopkins University",
+  "collaborators": [
+    "National Aeronautics and Space Administration (NASA)"
+  ],
+  "start_date": "2022-08-08",
+  "completion_date": "2026-09-30",
+  "last_updated": "2025-11-06"
+}

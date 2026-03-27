@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT06779851",
+  "brief_title": "A Study to Evaluate Safety and Tolerability of BPT567 in Patients With Advanced Solid Tumors",
+  "official_title": "A Phase 1 Investigation of the Safety, Tolerability and Preliminary Antitumor Activity of BPT567, a Multifunctional PD1-IL18 Immunocytokine in Patients With Advanced Solid Tumors",
+  "brief_summary": "This is a first-in-human Phase Ia/Ib, open-label, multicenter, dose escalation and dose expansion study designed to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD), and maximum tolerated dose (MTD) or maximum adminstered dose (MAD) of BPT567 in patients with advanced solid tumors, and establish the recommended dose for expansion cohorts.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 100,
+  "conditions": [
+    "Advanced Solid Tumors"
+  ],
+  "interventions": [
+    {
+      "name": "BPT567",
+      "type": "DRUG",
+      "description": "Immunocytokine infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Male or female aged \u226518 years at the time of signing informed consent form\n* Measurable disease per RECIST 1.1\n* Histologically- or cytologically-diagnosed, locally advanced unresectable or metastatic solid tumor. Progressed or recurred after previously having received approved standard of care agents that are approved and available in their local geography.\n* ECOG Performance status of 0 or 1\n* Life expectancy of at least 3 months\n* Adequate organ and marrow function\n* Contraception during study participation, as applicable\n\nExclusion Criteria:\n\n* Has received systemic small molecule therapy or radiation therapy within 28 days prior to the first dose.\n* Treatment with biologic agents including anti-PD-1 or PD-L1 antibodies for less than 6 weeks or 5 half-lives, whichever is shorter, prior to first dose.\n* Received any investigational agent less than 28 days or 5 half-lives, whichever is shorter, prior to the first dose.\n* Treatment with another IL-18 therapy.\n* Received systemic immunosuppressive agents greater than the equivalent of prednisone 10mg daily within 14 days of the study, though inhaled, intranasal, topical or intra-articular corticosteroids are allowed.\n* Certain clinically significant intercurrent disease.\n* Primary immune deficiency.\n* Active untreated brain or spine metastasis or leptomeningeal metastases.\n* Known HIV seroposivitiy, although patients treated for HIV with no detectable viral load for at least 1 month while on a stable regimen of agents are permitted.\n* Active hepatitis A or acute or chroming hepatitis B or C infection.\n* Received a live virus vaccine within 30 days of enrollment or a COVD vaccine within 14 days.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Hackensack Meridian John Theurer Cancer Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "University of Pittsburgh Medical Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Incidence of dose limiting toxicity (DLT), Maximum Tolerated Dose (MTD) or Maximum Administered Dose (MAD)",
+      "timeFrame": "Duration of first cycle (28 Days) for each cohort evaluated",
+      "description": "The MTD will be the highest tested dose of BPT567 at which protocol specified number of patients experience DLT or the MAD, highest administered dose in the absence of DLTs"
+    },
+    {
+      "measure": "Incidence of Adverse Events, Graded According to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Version (v) 5.0",
+      "timeFrame": "Through end of study (up to 2 years)",
+      "description": "Rate of subjects reporting adverse events or serious adverse events including abnormalities in safety laboratory results"
+    }
+  ],
+  "sponsor": "Bright Peak Therapeutics Inc",
+  "collaborators": [],
+  "start_date": "2024-10-15",
+  "completion_date": "2028-12-31",
+  "last_updated": "2026-02-11"
+}

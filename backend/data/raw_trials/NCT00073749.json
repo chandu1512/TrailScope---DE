@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT00073749",
+  "brief_title": "Study Evaluating CMC-544 In B-Cell Non-Hodgkin's Lymphoma",
+  "official_title": "A Phase 1 Study Of Cmc-544 Administered As A Single Agent In Subjects With B-cell Non- Hodgkin's Lymphoma",
+  "brief_summary": "To determine the Maximum Tolerated Dose (MTD), the tolerability, and the initial safety profile of CMC-544 in subjects with B-cell Non-Hodgkin's Lymphoma (NHL).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 79,
+  "conditions": [
+    "Lymphoma, B-Cell"
+  ],
+  "interventions": [
+    {
+      "name": "Inotuzumab ozogamicin [CMC-544]",
+      "type": "DRUG",
+      "description": "CMC-544, IV, dose escalation trial"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subjects who have been previously diagnosed with CD22-positive, B-cell NHL, according to WHO classification, which has progressed after at least 2 prior therapies of probable clinical benefit\n* At the expanded cohort, part 2 of the study, subjects must have one of the following:\n* Follicular lymphoma previously treated with at least one dose of rituximab, but have not received radioimmunotherapy\n* Diffuse large B-cell lymphoma\n* Age 18 years or older\n\nExclusion Criteria:\n\n* Candidate for potentially curative therapies in the opinion of the investigator\n* Chronic lymphocytic leukemia\n* Burkitt's lymphoma, primary effusion lymphoma, and precursor B-cell lymphoblastic lymphoma",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Number of Participants With Treatment-Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+      "timeFrame": "Baseline up to 42 days after last dose of study drug (up to Day 225)",
+      "description": "An AE was any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. An SAE was an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. Treatment-emergent adverse events (TEAE) are defined as any new event reported after first dose of study drug up to 42 days after last dose of study drug, or any event that is worse in severity than at any time during the baseline period. AEs included both SAEs and non-serious adverse events (non-SAEs)."
+    },
+    {
+      "measure": "Number of Participants With Grade 3 or Higher Grades Treatment-Emergent Adverse Events (TEAEs) Based on Severity",
+      "timeFrame": "Baseline up to 42 days after last dose of study drug (up to Day 225)",
+      "description": "AE was any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. AE severity was defined to be the maximum toxicity grade of the treatment-emergent adverse events (TEAEs) experienced by the participants during the study. AE was assessed according to severity; Grade 1 (mild AE), Grade 2 (moderate AE), Grade 3 (severe AE), Grade 4 (life-threatening or disabling AE), Grade 5 (death related to AE). Participants with Grade 3 or higher grades TEAEs were reported."
+    },
+    {
+      "measure": "Maximum Tolerated Dose (MTD): Part 1 (Dose Escalation Cohorts)",
+      "timeFrame": "Baseline up to Day 28",
+      "description": "MTD was defined as highest dose level for which no more than 1 participant in a dose cohort experienced dose limiting toxicity (DLT). DLT was defined as any of the following events occurring during the first 21 days (or 28 days for participants treated every 4 weeks) days of study medication and considered at least possibly-related to study medication: any grade 3 or 4 non-hematologic toxicity except grade 3 alopecia, nausea, or vomiting, any grade 4 febrile neutropenia, any grade 4 thrombocytopenia or any bleeding episode requiring platelet transfusion, any grade 4 absolute neutrophil count (for a duration of greater than or equal to \\[\\>=\\] 7 days), delayed recovery (less than or equal to \\[\\<=\\] grade 1 or baseline) from a toxicity that delays the initiation of the next dose by more than 2 weeks."
+    },
+    {
+      "measure": "Number of Participants With Dose-limiting Toxicity (DLT)",
+      "timeFrame": "Baseline up to Day 28",
+      "description": "DLT was classified as per National Cancer Institute common terminology criteria for adverse events (NCI CTCAE) version 3.0 and defined as any of the following events occurring during the first 21 days (or 28 days for participants treated every 4 weeks) days of study medication and considered at least possibly-related to study medication: any grade 3 or 4 non-hematologic toxicity except grade 3 alopecia, nausea, or vomiting, any grade 4 febrile neutropenia, any grade 4 thrombocytopenia or any bleeding episode requiring platelet transfusion, any grade 4 absolute neutrophil count (for a duration of greater than or equal to \\[\\>=\\] 7 days), delayed recovery (less than or equal to \\[\\<=\\] grade 1 or baseline) from a toxicity that delays the initiation of the next dose by more than 14 days."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2003-08",
+  "completion_date": "2010-12",
+  "last_updated": "2018-12-14"
+}

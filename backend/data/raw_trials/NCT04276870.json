@@ -1,0 +1,55 @@
+{
+  "nct_id": "NCT04276870",
+  "brief_title": "Orphan Indications for CD19 Redirected Autologous T Cells",
+  "official_title": "CD19-Directed Chimeric Antigen Receptor CD19 Redirected Autologous T Cells (CART19) for Orphan Indications of Pediatric B Cell Acute Lymphoblastic Leukemia (B ALL)",
+  "brief_summary": "This is an open-label, four-cohort, phase 2 study to determine the efficacy of CART19 in pediatric and young adult patientswith hypodiploid (Cohort A) or t(17;19) B-ALL (Cohort B), infants with very high risk KMT2A B-ALL (Cohort C), and in patients with central nervous system (CNS) relapse who did not receive cranial radiation (XRT) or bone marrow transplantation (BMT) (Cohort D).",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 133,
+  "conditions": [
+    "Pediatric and Young Adult Patientswith Hypodiploid or t(17;19) B-ALL",
+    "Infants With Very High Risk KMT2A B-ALL",
+    "Patients With Central Nervous System Relapse Who Did Not Receive Cranial Radiation or Bone Marrow Transplantation"
+  ],
+  "interventions": [
+    {
+      "name": "Murine CART19",
+      "type": "BIOLOGICAL",
+      "description": "CART19 cells transduced with a lentiviral vector to express anti-CD19 scFv:41-BB:TCR\u03b6, administered by IV injection with a planned dose of 5x106 CART19 cells/kg on day 0 with possible reinfusion/retreatment"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Signed informed consent form must be obtained prior to any study procedure.\n2. Male and female patients with documented CD19+ B-ALL\n\n   a.Cohort A \\& B: Patients, regardless their response to initial or relapsed B ALL therapy, with the following characteristics: i.Cohort A: Subjects with confirmation of a hypodiploid karyotype (chromosome number fewer than 45) ii.Cohort B: Subjects with cytogenetic confirmation of the chromosomal translocation t(17;19) (Cohort B) b.Cohort C: Infants w/ newly diagnosed KMT2A rearranged B-ALL classified as very high risk by the following criteria: i.Age \\< 3 months at diagnosis ii.Age \\< 6 months and WBC \\> 300,000x109/L at diagnosis or a poor prednisone response in induction iii.MRD positive \\> 0.01 (or PCR \\> 104) after 2 courses of standard infant ALL therapy.\n\n   c.Cohort D: Subjects in a first or greater CNS relapse, prior to therapy with cranial XRT or HSCT for the current relapse\n3. Documentation of CD19 tumor expression in bone marrow, peripheral blood, CSF, or tumor tissue.\n4. Age 0 to 29 years\n5. Adequate organ function defined as:\n\n   1. A serum creatinine based on age/gender as follows:\n\n      Maximum Serum Creatinine (mg/dL) Age Male Female 0 to \\< 2 years 0.6 0.6 2 to \\< 6 years 0.8 0.8 6 to \\< 10 years 1.0 1.0 10 to \\< 13 years 1.2 1.2 13 to \\< 16 years 1.5 1.4\n\n      \u2265 16 years 1.7 1.4\n   2. Adequate liver function:\n\n   i.ALT\u2264 5 x ULN; ALT ii.Total bilirubin \u2264 3 x ULN iii.ALT and/or bilirubin results that exceed this range are acceptable if, in the opinion of the physician-investigator (or as confirmed by liver biopsy), the abnormalities are directly related to ALL infiltration of the liver.\n\n   c.Must have a minimum level of pulmonary reserve defined as \u2264 Grade 1 dyspnea and \\< Grade 3 hypoxia; DLCO \u2265 40% (corrected for anemia) if PFTs are clinically appropriate as determined by the physician-investigator.\n\n   d.Left Ventricular Shortening Fraction (LVSF) \u2265 28%, or Left Ventricular Ejection Fraction (LVEF) \u2265 45% by echocardiogram. In cases where quanitative assessment of LVSF/LVEF is not possible, a statement by the cardiologist that the ECHO shows qualititatively normal ventricular function wll suffice.\n6. Adequate performance status defined as Lansky or Karnofsky score \u2265 50\n7. Subjects of reproductive potential must agree to use acceptable birth control methods\n\nExclusion Criteria:\n\n1. For subjects with a CNS relapse, prior cranial XRT or BMT for the current relapse is an exclusion.\n2. Active hepatitis B or active hepatitis C.\n3. HIV Infection.\n4. Active acute or chronic graft-versus-host disease (GVHD) requiring systemic therapy.\n5. Concurrent use of systemic steroids at the time of cell infusion or cell collection, or a condition, in the treating physician's opinion, that is likely to require steroid therapy during collection or after infusion. Steroids for disease treatment at times other than cell collection or at the time of infusion are permitted. Use of physiologic replacement hydrocortisone or inhaled steroids is permitted as well.\n6. CNS3 disease that is progressive on therapy, or with CNS parenchymal lesions that might increase the risk of CNS toxicity.\n7. Pregnant or nursing (lactating) women.\n8. Uncontrolled active infection.",
+    "gender": "ALL",
+    "min_age": "0 Years",
+    "max_age": "29 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Event-free survival (EFS)",
+      "timeFrame": "One year",
+      "description": "1 year event-free survival (EFS), where events include no response, relapse, death due to any cause"
+    }
+  ],
+  "sponsor": "Stephan Grupp MD PhD",
+  "collaborators": [
+    "University of Pennsylvania"
+  ],
+  "start_date": "2020-03-12",
+  "completion_date": "2037-03-10",
+  "last_updated": "2026-03-04"
+}

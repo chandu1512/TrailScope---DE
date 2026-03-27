@@ -1,0 +1,109 @@
+{
+  "nct_id": "NCT06132958",
+  "brief_title": "Sacituzumab Tirumotecan (MK-2870) in Post Platinum and Post Immunotherapy Endometrial Cancer (MK-2870-005)",
+  "official_title": "A Phase 3, Randomized, Active-controlled, Open-label, Multicenter Study to Compare the Efficacy and Safety of MK-2870 Monotherapy Versus Treatment of Physician's Choice in Participants With Endometrial Cancer Who Have Received Prior Platinum-based Chemotherapy and Immunotherapy (MK-2870-005/ENGOT-en23/GOG-3095)",
+  "brief_summary": "Researchers are looking for new ways to treat people with endometrial cancer (EC) who have previously received treatment with platinum based therapy (a type of chemotherapy) and immunotherapy. Immunotherapy is a treatment that helps the immune system fight cancer. This clinical study will compare sacituzumab tirumotecan to chemotherapy. The goal of the study is to learn if people who receive sacituzumab tirumotecan live longer overall and without the cancer getting worse compared to people who receive chemotherapy.",
+  "detailed_description": "",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 710,
+  "conditions": [
+    "Endometrial Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Sacituzumab tirumotecan",
+      "type": "BIOLOGICAL",
+      "description": "4 mg/kg of sacituzumab tirumotecan by IV infusion"
+    },
+    {
+      "name": "Doxorubicin",
+      "type": "DRUG",
+      "description": "60 mg/m\\^2 of doxorubicin by IV Infusion"
+    },
+    {
+      "name": "Paclitaxel",
+      "type": "DRUG",
+      "description": "80 mg/m\\^2 of paclitaxel by IV infusion"
+    },
+    {
+      "name": "Nab-paclitaxel",
+      "type": "DRUG",
+      "description": "100 mg/m\\^2 of nab-paclitaxel by IV infusion"
+    }
+  ],
+  "eligibility": {
+    "criteria": "The main inclusion and exclusion criteria include but are not limited to the following:\n\nInclusion Criteria:\n\n* Has a histologically-confirmed diagnosis of endometrial carcinoma or carcinosarcoma.\n* Has radiographically evaluable disease, either measurable or nonmeasurable per response evaluation criteria in solid tumors (RECIST 1.1), as assessed by blinded independent central review (BICR).\n* Has received prior platinum-based chemotherapy and anti-programmed cell death 1 protein (PD-1)/anti- programmed cell death ligand 1 (PD-L1) therapy, either separately or in combination.\n\nExclusion Criteria:\n\n* Has neuroendocrine tumors or endometrial sarcoma, including stromal sarcoma, leiomyosarcoma, adenosarcoma, or other types of pure sarcomas\n* Has a history of documented severe dry eye syndrome, severe Meibomian gland disease and/or blepharitis, or severe corneal disease that prevents/delays corneal healing\n* Has active inflammatory bowel disease requiring immunosuppressive medication or previous history of inflammatory bowel disease\n* Has had a recurrence of endometrial carcinoma or carcinosarcoma more than \\>12 months after completing platinum-based therapy administered in the curative-intent setting without any additional platinum-based therapy received in the recurrent setting. Note: 1) If Immunotherapy-based treatment is administered in the recurrent setting, then platinum rechallenge is not required, regardless of the duration of the platinum-free interval from time of adjuvant therapy 2) For Stage IVb disease, treatment that includes gynecological surgery followed by a platinum-based regimen is NOT considered curative-intent per protocol and does not require platinum rechallenge in the recurrent setting, regardless of the duration of the platinum-free interval\n* Has received more than 3 prior lines of therapy for endometrial carcinoma or carcinosarcoma\n* Has history of (noninfectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease\n* Has received prior treatment with single-agent nonplatinum based chemotherapy in the third-line setting\n* Has received prior treatment with a trophoblast cell surface antigen 2 (TROP2)-targeted antibody drug conjugate (ADC) (eg, sacituzumab govitecan)\n* Has received prior treatment with a topoisomerase I inhibitor-containing ADC (eg, sacituzumab govitecan or fam-trastuzumab deruxtecan-nxki)\n* Has previously received both single-agent paclitaxel and single-agent doxorubicin in any setting for prior treatment of endometrial cancer\n* Requires recurrent drainage of effusions (e.g., pleural, ascitic, etc.) within 6 weeks before randomization",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "John Theurer Cancer Center at Hackensack University Medical Center ( Site 4118)",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Atlantic Health System Morristown Medical Center ( Site 4135)",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07960",
+      "status": ""
+    },
+    {
+      "facility": "Holy Name Medical Center ( Site 4115)",
+      "city": "Teaneck",
+      "state": "New Jersey",
+      "zip": "07666",
+      "status": ""
+    },
+    {
+      "facility": "Sidney Kimmel Cancer Center - Jefferson Health ( Site 4157)",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19107",
+      "status": ""
+    },
+    {
+      "facility": "AHN West Penn Hospital-Gynecologic Oncology ( Site 4111)",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15244",
+      "status": ""
+    },
+    {
+      "facility": "Asplundh Cancer Pavilion ( Site 4107)",
+      "city": "Willow Grove",
+      "state": "Pennsylvania",
+      "zip": "19090",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS) per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 as Assessed by Blinded Independent Central Review (BICR)",
+      "timeFrame": "Up to approximately 4 years",
+      "description": "PFS is defined as the time from randomization to the first documented disease progression per RECIST 1.1 based on BICR or death due to any cause, whichever occurs first."
+    },
+    {
+      "measure": "Overall Survival (OS)",
+      "timeFrame": "Up to approximately 4 years",
+      "description": "OS is defined as the time from randomization to death due to any cause."
+    }
+  ],
+  "sponsor": "Merck Sharp & Dohme LLC",
+  "collaborators": [
+    "European Network for Gynaecological Oncological Trial groups(ENGOT)",
+    "GOG Foundation"
+  ],
+  "start_date": "2023-12-06",
+  "completion_date": "2028-01-10",
+  "last_updated": "2026-01-07"
+}

@@ -1,0 +1,68 @@
+{
+  "nct_id": "NCT02000622",
+  "brief_title": "Assessment of the Efficacy and Safety of Olaparib Monotherapy Versus Physicians Choice Chemotherapy in the Treatment of Metastatic Breast Cancer Patients With Germline BRCA1/2 Mutations.",
+  "official_title": "A Phase III, Open Label, Randomised, Controlled, Multi-centre Study to Assess the Efficacy and Safety of Olaparib Monotherapy Versus Physicians Choice Chemotherapy in the Treatment of Metastatic Breast Cancer Patients With Germline BRCA1/2 Mutations.",
+  "brief_summary": "This open label, randomised, controlled, multi-centre phase III study will assess the efficacy and safety of single agent olaparib vs standard of care based on physician's choice of capecitabine, vinorelbine or eribulin in metastatic breast cancer patients with gBRCA 1/2 mutations.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 302,
+  "conditions": [
+    "Breast Cancer Metastatic",
+    "BRCA 1 Gene Mutation",
+    "BRCA 2 Gene Mutation"
+  ],
+  "interventions": [
+    {
+      "name": "Olaparib",
+      "type": "DRUG",
+      "description": "Patients will be administered olaparib orally twice daily (bid) at 300 mg. Two (2) x 150 mg olaparib tablets should be taken at the same times each morning and evening of each day, approximately 12 hours apart with approximately 240 mL of water."
+    },
+    {
+      "name": "Physician's choice chemotherapy",
+      "type": "DRUG",
+      "description": "Investigators will declare one of the following regimens:\n\n* Capecitabine 2500 mg/m2 po daily (divided in 2 doses) x 14 days, repeat every 21 days\n* Vinorelbine 30 mg/m2 IV Day 1 and Day 8, repeat every 21 days\n* Eribulin 1.4 mg/m2 IV Day 1 and Day 8, repeat every 21 days"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Germline mutation in BRCA1 or BRCA2 that is predicted to be deleterious or suspected deleterious.\n* Histologically or cytologically confirmed breast cancer with evidence of metastatic disease.\n* Prior therapy with an anthracycline and a taxane in either an adjuvant or metastatic setting.\n* Prior platinum allowed as long as no breast cancer progression occurred on treatment or if given in adjuvant/neoadjuvant setting at least 12 months from last dose to study entry elapsed.\n* ER/PR breast cancer positive patients must have received and progressed on at least one endocrine therapy (adjuvant or metastatic), or have disease that the treating physician believes to be inappropriate for endocrine therapy.\n* ECOG performance status 0-1.\n* Adequate bone marrow, kidney and liver function.\n\nExclusion Criteria:\n\n* Prior treatment with PARP inhibitor.\n* Patients with HER2 positive disease.\n* More than 2 prior lines of chemotherapy for metastatic breast cancer.\n* Untreated and/or uncontrolled brain metastases.\n* Prior malignancy unless curatively treated and disease-free for \\> 5 years prior to study entry. Prior adequately treated non-melanoma skin cancer, in situ cancer of the cervix, DCIS or stage I grade 1 endometrial cancer allowed.\n* Known HIV (Human Immunodeficiency Virus) infection.\n* Pregnant or breast-feeding women.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "zip": "18840",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-free Survival (PFS) Using Blinded Independent Central Review (BICR) According to Modified Response Evaluation Criteria In Solid Tumours (RECIST v1.1)",
+      "timeFrame": "Radiological scans performed at baseline then every ~6 weeks up to 24 weeks, then every ~ 12 weeks thereafter until objective radiological disease progression. Assessed up to a maximum of 30 months.",
+      "description": "Time from randomisation to the earliest of objective radiological progression or death by any cause in the absence of objective progression. Objective radiological progression is defined using Response Evaluation Criteria In Solid Tumours (RECIST v1.1), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [
+    "Myriad Genetic Laboratories, Inc.",
+    "Merck Sharp & Dohme LLC"
+  ],
+  "start_date": "2014-03-27",
+  "completion_date": "2025-12-23",
+  "last_updated": "2026-01-27"
+}

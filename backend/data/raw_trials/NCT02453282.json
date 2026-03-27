@@ -1,0 +1,98 @@
+{
+  "nct_id": "NCT02453282",
+  "brief_title": "Phase III Open Label First Line Therapy Study of MEDI 4736 (Durvalumab) With or Without Tremelimumab Versus SOC in Non Small-Cell Lung Cancer (NSCLC)",
+  "official_title": "A Phase III Randomized, Open-Label, Multi-Center, Global Study of MEDI4736 in Combination With Tremelimumab Therapy or MEDI4736 Monotherapy Versus Standard of Care Platinum-Based Chemotherapy in First Line Treatment of Patients With Advanced or Metastatic Non Small-Cell Lung Cancer (NSCLC)(MYSTIC).",
+  "brief_summary": "This is a randomized, open-label, multi-center, global, Phase III study to determine the efficacy and safety of MEDI4736 + tremelimumab combination therapy and MEDI4736 monotherapy versus platinum-based SoC chemotherapy in the first-line treatment of patients with epidermal growth factor receptor (EGFR) and anaplastic lymphoma kinase (ALK) wild-type locally advanced or metastatic NSCLC",
+  "detailed_description": "Patients will be randomized in a 1:1:1 ratio to receive treatment with MEDI4736 + tremelimumab combination therapy, MEDI4736 monotherapy, or Standard of Care (SoC) therapy.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 1118,
+  "conditions": [
+    "Non-Small-Cell Lung Carcinoma NSCLC"
+  ],
+  "interventions": [
+    {
+      "name": "MEDI4736 (Durvalumab)",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "MEDI4736 (Durvalumab)+Tremelimumab",
+      "type": "BIOLOGICAL",
+      "description": ""
+    },
+    {
+      "name": "Paclitaxel + Carboplatin",
+      "type": "DRUG",
+      "description": "Chemotherapy Agents"
+    },
+    {
+      "name": "Gemcitabine + Cisplatin",
+      "type": "DRUG",
+      "description": "Chemotherapy Agents"
+    },
+    {
+      "name": "Gemcitabine + Carboplatin",
+      "type": "DRUG",
+      "description": "Chemotherapy Agents"
+    },
+    {
+      "name": "Pemetrexed + Cisplatin",
+      "type": "DRUG",
+      "description": "Chemotherapy Agents"
+    },
+    {
+      "name": "Pemetrexed + Carboplatin",
+      "type": "DRUG",
+      "description": "Chemotherapy Agents"
+    },
+    {
+      "name": "Tremelimumab",
+      "type": "BIOLOGICAL",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nFor inclusion in the study, patients should fulfill the following criteria:\n\n* Aged at least 18 years\n* Documented evidence of Stage IV NSCLC\n* No sensitizing EGFR mutation or ALK rearrangement\n* No prior chemotherapy or any other systemic therapy for recurrent/metastatic NSCLC\n* World Health Organization (WHO) Performance Status of 0 or 1\n\nExclusion Criteria:\n\nPatients should not enter the study if any of the following exclusion criteria are fulfilled:\n\n1. Mixed small-cell lung cancer and NSCLC histology, sarcomatoid variant\n2. Brain metastases or spinal cord compression unless asymptomatic, treated and stable (not requiring steroids)\n3. Prior exposure to Immunomodulatory therapy (IMT), including, but not limited to, other anti-cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4), anti-programmed cell death1 (PD-1), anti-programmed cell death ligand 1 (PD-L1), or anti PD-L2 antibodies, excluding therapeutic anticancer vaccines\n4. Active or prior documented autoimmune or inflammatory disorders (including inflammatory bowel disease \\[eg, colitis or Crohn's disease\\]",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "130 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Research Site",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231",
+      "status": ""
+    },
+    {
+      "facility": "Research Site",
+      "city": "Summit",
+      "state": "New Jersey",
+      "zip": "07901",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Overall Survival (OS); PD-L1 (TC >=25%) Analysis Set Population, Durvalumab Monotherapy Vs SoC Chemotherapy and Durvalumab + Tremelimumab Vs SoC Chemotherapy",
+      "timeFrame": "From baseline (Day 1, Week 0) until death due to any cause, assessed up to the data cut-off date (a maximum of approximately 3 years).",
+      "description": "The OS was defined as the time from the date of randomization until death due to any cause (ie, date of death or censoring - date of randomization + 1). Any participant not known to have died at the time of analysis were censored based on the last recorded date on which the participant was known to be alive. Median OS was calculated using the Kaplan-Meier technique."
+    },
+    {
+      "measure": "Progression-Free Survival (PFS); PD-L1 (TC >=25%) Analysis Set Population, Durvalumab + Tremelimumab Vs SoC Chemotherapy",
+      "timeFrame": "Tumour scans performed at baseline then every 6 weeks up to 48 weeks relative to the date of randomization, then every 8 weeks thereafter until confirmed disease progression. Assessed up to the data cut-off date (a maximum of approximately 3 years).",
+      "description": "The PFS per Response Evaluation Criteria in Solid Tumors, version 1.1 (RECIST 1.1) using blinded independent central review (BICR) assessments was defined as the time from the date of randomization until the date of objective disease progression or death (by any cause in the absence of progression) regardless of whether the participant withdraw from randomized therapy or received another anti-cancer therapy prior to progression (ie, date of PFS event or censoring - date of randomization + 1). Progressive disease (PD) was defined as at least a 20% increase in the sum of diameters of target lesions (TLs) and an absolute increase of at least 5 millimeter (mm), taking as reference the smallest sum of diameters since treatment started including the baseline sum of diameters. Median PFS was calculated using the Kaplan-Meier technique."
+    }
+  ],
+  "sponsor": "AstraZeneca",
+  "collaborators": [],
+  "start_date": "2015-07-21",
+  "completion_date": "2026-12-31",
+  "last_updated": "2026-02-10"
+}

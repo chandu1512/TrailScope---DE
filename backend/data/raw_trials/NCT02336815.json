@@ -1,0 +1,77 @@
+{
+  "nct_id": "NCT02336815",
+  "brief_title": "Selinexor Treatment of Refractory Myeloma",
+  "official_title": "A Phase 2b, Open-Label, Single-Arm Study of Selinexor (KPT-330) Plus Low-Dose Dexamethasone (Sd) in Patients With Multiple Myeloma Previously Treated With Lenalidomide, Pomalidomide, Bortezomib, Carfilzomib, and an Anti-CD38 Monoclonal Antibody (mAb) Daratumumab, and Refractory to Prior Treatment With Glucocorticoids, an Immunomodulatory Agent, a Proteasome Inhibitor, and an the Anti-CD38 mAb Daratumumab",
+  "brief_summary": "This is a Phase 2b, single-arm, open-label, multicenter study of selinexor 80 mg plus dexamethasone 20 mg (Sd) dosed twice weekly in four-week cycles, in patients with penta-refractory MM (Parts 1 and 2) or quad refractory MM (Part 1 only).",
+  "detailed_description": "This is a Phase 2b, single-arm, open-label, multicenter study of selinexor 80 mg plus dexamethasone 20 mg (Sd), both dosed twice weekly in each four-week cycle, in patients with MM previously treated with lenalidomide, pomalidomide, bortezomib, carfilzomib, and daratumumab and refractory to prior treatment with glucocorticoids, an immunomodulatory agent (IMiD), a proteasome inhibitor (PI), and daratumumab.\n\nThis study consists of two parts:\n\n* Part 1 enrolled patients with both quad-refractory MM and penta-refractory MM.\n* Part 2 will enroll patients with penta-refractory MM only.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 202,
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Selinexor",
+      "type": "DRUG",
+      "description": "Fixed oral dose of 80 mg twice weekly (e.g., Monday and Wednesday or Tuesday and Thursday, etc.)"
+    },
+    {
+      "name": "Dexamethasone",
+      "type": "DRUG",
+      "description": "20 mg was given with each dose of Selinexor."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nMeasurable MM based on modified IMWG guidelines. Defined by at least one of the following:\n\n1. Serum M-protein \u2265 0.5 g/dL by serum electrophoresis (SPEP) or for IgA myeloma, by quantitative IgA\n2. Urinary M-protein excretion \u2265 200 mg/24 hours\n3. Free Light Chain (FLC) \u2265 100 mg/L, provided that the FLC ratio is abnormal\n4. If serum protein electrophoresis is felt to be unreliable for routine M-protein measurement, then quantitative Ig levels by nephelometry or turbidimetry are acceptable\n\n   * Must have previously received \u2265 3 anti-MM regimens including: an alkylating agent, lenalidomide, pomalidomide, bortezomib, carfilzomib, daratumumab, and a glucocorticoid. There is no upper limit on the number of prior therapies provided that all other inclusion/exclusion criteria are met.\n   * MM refractory to previous treatment with one or more glucocorticoids, parenteral PI (i.e., bortezomib and/or carfilzomib), IMiD (i.e., lenalidomide and/or pomalidomide), and the anti-CD38 mAb, daratumumab. Refractory is defined as \u2264 25% response to therapy, or progression during therapy or progression within 60 days after completion of therapy.\n\nExclusion Criteria:\n\n* Active smoldering MM.\n* Active plasma cell leukemia.\n* Documented systemic amyloid light chain amyloidosis.\n* Active CNS MM.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Medicine",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Hackensack University Medical Center / John Therurer Cancer Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": ""
+    },
+    {
+      "facility": "Valley Hospital",
+      "city": "Paramus",
+      "state": "New Jersey",
+      "zip": "07652",
+      "status": ""
+    },
+    {
+      "facility": "Abramson Cancer Center of the University of Pennsylvania",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part 2: Percentage of Participants With Overall Response Rate (ORR) Per International MyelomaWorking Group (IMWG) as Assessed by an Independent Review Committee (IRC)",
+      "timeFrame": "Baseline until disease progression/discontinuation from the study, or death, whichever occurred first (maximum duration of 17 months)",
+      "description": "IRC assessed ORR per 2016 IMWG criteria: Percentage of participants who experienced Partial response (PR): greater than or equal to (\\>=) 50 percent (%) reduction of serum M-Protein and reduction in 24-hour urinary M-protein by \\>= 90% or to lesser than (\\<) 200 mg per 24 hours; Very good partial response (VGPR): Serum and urine M-protein detectable by immunofixation but not on electrophoresis or 90% or greater reduction in serum M-protein plus urine M-protein level \\< 100 mg per 24 hours; Complete response (CR): Negative immunofixation on the serum and urine and disappearance of any soft tissue plasmacytomas and lesser than or equal to (\\<=) 5% plasma cells in bone marrow; or stringent complete response (sCR): CR as defined+Normal free light chain (FLC) ratio+Absence of clonal cells in bone marrow biopsy by immunohistochemistry)."
+    }
+  ],
+  "sponsor": "Karyopharm Therapeutics Inc",
+  "collaborators": [],
+  "start_date": "2015-05-26",
+  "completion_date": "2019-07-26",
+  "last_updated": "2023-01-24"
+}

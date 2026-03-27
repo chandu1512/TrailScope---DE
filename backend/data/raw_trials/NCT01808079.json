@@ -1,0 +1,75 @@
+{
+  "nct_id": "NCT01808079",
+  "brief_title": "Gene Analysis in Studying Susceptibility to Wilms Tumor",
+  "official_title": "A Genome-Wide Association Study in Wilms Tumor",
+  "brief_summary": "This clinical trial studies gene analysis in studying susceptibility to Wilms tumor. Finding genetic markers for Wilms tumor may help identify patients who are at risk of relapse.",
+  "detailed_description": "PRIMARY OBJECTIVES:\n\nI. To use a genome-wide association analysis to identify novel genetic variants that confer susceptibility to Wilms tumor.\n\nII. To improve our understanding of the genetic architecture and etiology of Wilms tumor.\n\nIII. To facilitate the identification of genetic markers that are associated with an increased risk of developing of Wilms tumor and/or those at risk of aggressive disease, relapse, additional tumors and/or cancer in their offspring.\n\nOUTLINE:\n\nSamples are analyzed for single nucleotide polymorphism (SNP) profiling using real-time polymerase chain reaction (PCR) and multiplex ligation-dependent probe amplification (MLPA).",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 1,
+  "conditions": [
+    "Recurrent Childhood Kidney Neoplasm",
+    "Stage I Kidney Wilms Tumor",
+    "Stage II Kidney Wilms Tumor",
+    "Stage III Kidney Wilms Tumor",
+    "Stage IV Kidney Wilms Tumor"
+  ],
+  "interventions": [
+    {
+      "name": "Laboratory Biomarker Analysis",
+      "type": "OTHER",
+      "description": "Correlative studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 3000 samples from the 1958 Birth Cohort (58C) and 3000 from the UK Blood Service control series (NBS)",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Childrens Oncology Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Frequencies between cases and controls at each SNP",
+      "timeFrame": "Baseline",
+      "description": "Compared using the Cochran Armitage trend test (1-df). The data will be analyzed individually for the UK/US study populations and combined using a Mantel-Haenszel analysis adjusting for study group, and related methods which allow for different effects in each population (for confirmed loci, we will compare effects across populations)."
+    },
+    {
+      "measure": "Frequency of maternal and paternal allelic transmission for risk alleles",
+      "timeFrame": "Baseline",
+      "description": "Compared using a chi-squared test."
+    },
+    {
+      "measure": "Genetic variation on sub-phenotypes such as age at diagnosis, unilateral or bilateral disease, sex, and ethnicity",
+      "timeFrame": "Baseline",
+      "description": ""
+    },
+    {
+      "measure": "Interactions between genetic variation and treatment success or prognosis",
+      "timeFrame": "Baseline",
+      "description": ""
+    },
+    {
+      "measure": "Interactions between germline genetic variation and tumor phenotypes",
+      "timeFrame": "Baseline",
+      "description": ""
+    }
+  ],
+  "sponsor": "Children's Oncology Group",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2009-10",
+  "completion_date": "2009-11",
+  "last_updated": "2016-08-18"
+}

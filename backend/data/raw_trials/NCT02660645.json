@@ -1,0 +1,56 @@
+{
+  "nct_id": "NCT02660645",
+  "brief_title": "Blue Light Cystoscopy With Cysview\u00ae Registry",
+  "official_title": "Blue Light Cystoscopy With Cysview\u00ae Registry",
+  "brief_summary": "Registry study to gather more information on the current use of Blue Light Cystoscopy with Cysview (BLCC) in urologists' practices.",
+  "detailed_description": "Data will be captured on specific patient types undergoing Blue Light Cystoscopy with Cysview for known or suspected non-muscle invasive bladder cancer. Specific clinical questions will be asked.\n\n1. What is the incremental detection rate with Blue Light Cystoscopy with Cysview over conventional white light cystoscopy in each of the seven (7) patient populations? Does this translate into lower recurrence/progression rate?\n2. How do the six (6) tumor variables used in the European Association of Urology (EAU) risk tables (primary/secondary, recurrence rate, size, multifocality, grade, and history of carcinoma in situ (CIS))6 affect this incremental rate?\n3. How does an abnormal cytology or positive or negative fluorescent in situ hybridization (FISH) affect the likelihood that Blue Light Cystoscopy with Cysview will detect more cancers than white light?\n4. What are the performance characteristics of Blue Light Cystoscopy with Cysview within eight (8) weeks of Bacillus Calmette-Gu\u00e9rin (BCG) with respect to improved tumor detection and false positive rate compared to conventional white light cystoscopy?\n5. What is the incremental Blue Light Cystoscopy with Cysview detection rate over random bladder biopsies alone in patients being evaluated for routine three month restaging (group 4) or occult disease (group 5)?\n6. What are the performance characteristics of Blue Light Cystoscopy with Cysview after repeated Blue Light Cystoscopy with Cysview evaluations with respect to improved tumor detection, false positive rate and safety compared to conventional white light?\n7. Does an abnormal urinalysis help identify patients with inflammation more likely to have false positive Blue Light Cystoscopy with Cysview results?\n8. What is the practical learning curve for becoming \"proficient\" with Blue Light Cystoscopy with Cysview?\n9. What is the overall false positive rate with Blue Light Cystoscopy with Cysview?\n10. Can Blue Light Cystoscopy with Cysview make the resection more complete? If yes, is this due to improved margins and/or additional tumors seen under blue light?\n11. What are the performance characteristics of BLC\u2122 with Cysview\u00ae on patients with variant histology?\n12. How does BLC\u2122 with Cysview\u00ae impact detection of tumors in surveillance and patient management decisions?\n13. How does BLC\u2122 with Cysview\u00ae impact management of small tumors during office biopsy/fulguration?\n14. How can BLC impact patient selection for bladder cancer sparing drugs?\n15. Does the combination of BLC with urine biomarkers guide appropriate therapy and or change management?\n16. Does BL have an impact on long term outcomes such as recurrence or progression?\n17. Can AI models be optimized and validated to accurately predict patient response to intravesical therapy (such as BCG or intravesical chemotherapy) in non-muscle invasive bladder cancer?\n18. How concordant are the predictions of AI algorithms with treatment decisions documented in real-world clinical registries?\n19. How do AI-predicted responses correlate with patient outcomes, including recurrence and progression, within predefined clinical subgroups such as 'BCG-na\u00efve' or 'no prior intravesical treatment'?\n20. What is the potential impact of implementing AI-based predictive models on changes in management (e.g., treatment selection, patient management, and overall care outcomes)?\n\nThe Blue Light Cystoscopy with Cysview Registry is a web-based program supported by Global Vision Technologies. Data will be captured longitudinally over five (5) years on patients from each enrolled site. Each center will enter their respective site's patient data electronically.",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 4400,
+  "conditions": [
+    "Bladder Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Hexaminolevulinate hydrochloride (HCL)",
+      "type": "DRUG",
+      "description": "Instillation in bladder"
+    },
+    {
+      "name": "Karl Storz D-Light C Photodynamic Diagnostic (PDD) system",
+      "type": "DEVICE",
+      "description": "Cystoscopy procedure"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Adult \\>18 years old\n* Suspected or known non-muscle invasive bladder cancer on the basis of a prior cystoscopy\n\nExclusion Criteria:\n\n* Porphyria\n* Gross hematuria\n* Known hypersensitivity to hexaminolevulinate or aminolevulinate derivatives",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins Medicine",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21224",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Rate of detection of bladder malignancies",
+      "timeFrame": "5 years",
+      "description": "Rate of detection of bladder malignancies with Blue Light Cystoscopy with Cysview versus white light cystoscopy alone."
+    }
+  ],
+  "sponsor": "Photocure",
+  "collaborators": [
+    "Catalyst Pharmaceutical Research"
+  ],
+  "start_date": "2014-04",
+  "completion_date": "2028-12",
+  "last_updated": "2025-12-10"
+}

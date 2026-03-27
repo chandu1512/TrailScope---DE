@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT02177578",
+  "brief_title": "Subventricular Zone (SVZ) and Temozolomide in Glioblastoma Multiforme",
+  "official_title": "A Randomized Phase II Study of Subventricular Zone (SVZ) Irradiation Plus Temozolomide in Newly Diagnosed Glioblastoma Multiforme",
+  "brief_summary": "In this study patients will be treated with 6 weeks of radiation therapy plus temozolomide chemotherapy according to the standard of care. However, the radiation treatment plan will be modified to deliver an higher than routine radiation dose to the subventricular zone which is an area of the brain that contains stem cells that some scientists believe may contribute to glioblastoma recurrence. The purpose of the study is to see if the tumor is controlled for a longer period of time in patients treated with this modified radiation technique than it is in patients treated with standard radiation therapy plus temozolomide chemotherapy.",
+  "detailed_description": "There is pre-clinical data to suggest that neural progenitor cells in the subventricular zone may play a role in glioblastoma recurrence. Retrospective studies in humans suggest potentially improved survival in patients who received high doses of radiation to the subventricular zone when compared with patients who received lower radiation doses to this area. The purpose of this study is to prospectively examine progression free survival in patients with newly diagnosed glioblastoma treated with adjuvant temozolomide plus a radiation treatment plan which intentionally prescribes radiation dose to both the tumor and the subventricular zone compared to patients treated with standard radiation therapy. 3 patients out of every 4 will be treated with the modified study radiation treatment and 1 patient out of every 4 will received a more standard radiation treatment plan.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 60,
+  "conditions": [
+    "Glioblastoma Multiforme"
+  ],
+  "interventions": [
+    {
+      "name": "Temozolomide",
+      "type": "DRUG",
+      "description": "Patients will be scheduled to receive continuous daily temozolomide (75 mg per square meter of body surface area per day, 7 days per week from the first to the last day of radiation therapy), followed by 6 cycles of adjuvant temozolomide (150 to 200 mg per square meter for 5 days during each 28 day cycle)."
+    },
+    {
+      "name": "Subventricular Zone radiation",
+      "type": "RADIATION",
+      "description": "Patients will receive 60 Gy in 30 fractions, 5 days per week using IMRT. The target delineation and treatment volumes will be as follows:\n\nInitial treatment plan:\n\nWill be prescribed to 46 Gy in 2 Gy fractions\n\nCone down treatment plan:\n\nWill be prescribed to 14 Gy in 2 Gy fractions"
+    },
+    {
+      "name": "Neural Progenitor Cell Sparing radiation",
+      "type": "RADIATION",
+      "description": "Patients will receive 60 Gy in 30 fractions, 5 days per week using IMRT. The target delineation and treatment volumes will be as follows:\n\nInitial treatment plan:\n\nWill be prescribed to 46 Gy in 2 Gy fractions\n\nCone down treatment plan:\n\nWill be prescribed to 14 Gy in 2 Gy fractions"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patient must have newly diagnosed, histologically confirmed GBM.\n* Patient must have undergone gross total resection, subtotal resection, or biopsy with the extent of resection determined by the treating neurosurgeon, and must begin radiation within 12 weeks of this procedure.\n* Patients must not have received previous irradiation to the brain.\n* Patient must be at least 18 years of age since the diagnosis of GBM in patients younger than 18 is rare and accurate evaluation of neurocognitive function would require a different battery of examinations than employed in this study.\n* ECOG performance status 0-2 (Karnofsky \\>60%; see Appendix A).\n* Patient must be scheduled to receive temozolomide concurrent with and following radiation (temozolomide may be started late due to insurance reasons, insufficient counts, or other reasons).\n* If a woman is of child-bearing potential, a negative urine or serum pregnancy test must be demonstrated prior to treatment. Women of childbearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) for the duration of study participation and for up to 12 weeks following the study. Should a women become pregnant or suspect she is pregnant while participating in this study she should inform her treating physician immediately.\n* Patient must have the ability to understand and the willingness to sign a written informed consent document.\n* All patients must be informed of the investigational nature of this study and must be given written informed consent in accordance with institutional and federal guidelines.\n* Radiation therapy must begin within 12 weeks of surgery.\n\nExclusion Criteria:\n\n* No prior malignancy is allowed except for adequately treated basal cell or squamous cell skin cancer, cervical carcinoma in situ, or other cancer from which the patient has been disease free for at least 2 years.\n* Patients with uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements will be excluded.\n* Pregnant and breastfeeding women are excluded. Women of child-bearing potential who are unwilling or unable to use an acceptable method of birth control to avoid pregnancy for the entire study period and up to 12 weeks after the study are excluded. This applies to any woman who has not experienced menarche and who has not undergone successful surgical sterilization or is not postmenopausal (defined as amenorrhea for at least 12 consecutive months). Male subjects must also agree to use effective contraception for the same period as above.\n* Use of Avastin or another VEG-F inhibitor prior to progression is not permitted.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "The SKCCC at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": ""
+    },
+    {
+      "facility": "Suburban Hospital",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Change from Baseline to Initial Progression",
+      "timeFrame": "MRIs and clinical evaluations will be completed starting at the end of radiation therapy, at 1 month, 2 months, 4 months, 6 months, 8 months, 10 months, 12 months, and at 24 months to identify the time of initial disease progression",
+      "description": "Compare progression-free survival in patients receiving subventricular zone irradiation for newly diagnosed glioblastoma multiforme versus patients receiving a radiation treatment plan that does not intentionally include this area."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Reading Health System Foundation"
+  ],
+  "start_date": "2014-07-08",
+  "completion_date": "2027-06",
+  "last_updated": "2025-12-16"
+}

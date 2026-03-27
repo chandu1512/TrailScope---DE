@@ -1,0 +1,62 @@
+{
+  "nct_id": "NCT03909464",
+  "brief_title": "Non-Invasive Neurosensory Testing For Chemotherapy-Induced Peripheral Neuropathy",
+  "official_title": "Exploration Of The Sensitivity And Specificity Of The Pressure-Specified Sensory Device\u2122 (PSSD) For Chemotherapy-Induced Peripheral Neuropathy",
+  "brief_summary": "Problem: A significant proportion of patients with cancer experience symptoms of sensory, motor or autonomic nerve damage from chemotherapy known as chemotherapy-induced peripheral neuropathy (CIPN). CIPN is a major dose-limiting toxicity of many chemotherapeutic regimens. Little is known about the natural history of CIPN, and the early detection and quantification of CIPN is a significant challenge.\n\nDesign: The investigators propose a cohort study to evaluate the performance of the Pressure-Specified Sensory Device TM (PSSD) in assessing CIPN associated with various common chemotherapy regimens. The proposed study will examine peripheral nerve function before, during, and after chemotherapy treatment. Peripheral neuropathy will be assessed using the PSSD, the European Organization for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire (QLQ) CIPN-20, and the Michigan Neuropathy Screening Instrument (MNSI). These are all established and validated methods to screen for a variety of conditions that cause peripheral neuropathy.\n\nHypotheses: The investigators hypothesize that the PSSD will be a sensitive and specific tool for measuring CIPN. The onset of CIPN as detected by the PSSD will be compared with other screening modalities including the EORTC QLQ-CIPN20 and the MNSI.\n\nImportance: The development of CIPN often goes unnoticed until symptoms are bothersome. Having an objective tool in the care team's armament to screen for CIPN could have a significant public health impact.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 26,
+  "conditions": [
+    "Cancer",
+    "Malignancy",
+    "Malignant Neoplasm",
+    "Neuropathy",
+    "Neuropathies Sensory",
+    "Chemotherapy-induced Peripheral Neuropathy"
+  ],
+  "interventions": [
+    {
+      "name": "Neurosensory testing with Pressure-Specified Sensory Device",
+      "type": "DEVICE",
+      "description": "Patients will have neurosensory function of hands and feet tested with the non-invasive Pressure-Specified Sensory Device."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* At least 18 years of age\n* Any cancer diagnosis\n* Scheduled to receive standard chemotherapy\n* Patient's planned treatment must include a minimum of 4 cycles to a maximum of 8 cycles\n* Patients scheduled to receive known neurotoxic or non-neurotoxic chemotherapies will be included\n* Regimens known to be neurotoxic include: vinca alkaloids, taxanes, platinum analogs, and others at the discretion of the treating physician\n* Regimens known to not be neurotoxic will be considered at the discretion of the treating physician\n* For patients receiving known neurotoxic chemotherapy, concomitant therapy with non-neurotoxic chemotherapy is permitted\n* Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2\n* Patients must possess the ability to complete questionnaires and comply with neurologic testing\n* Patients must have a life expectancy of at least six months\n* Patients must be able to understand and be willing to sign an IRB-approved written informed consent\n\nExclusion Criteria:\n\n* Treatment planned to be greater than 8 cycles or 6 months in length at start of treatment\n* Anticipated failure to complete all cycles of chemotherapy at Johns Hopkins Hospital\n* Obtaining chemotherapeutic treatment at another site other than Johns Hopkins Hospital\n* Unwillingness to participate in planned PSSD testing\n* Patients enrolled on the non-neurotoxic chemotherapy arm with known pre-existing neuropathy, or with underlying disease that predispose to neuropathy such as diabetes mellitus. Additional predisposing diseases will be at the discretion of the investigator.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University School of Medicine",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21205",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Pressure-Specified Sensory Device (PSSD) Score",
+      "timeFrame": "up to 2 months post-intervention",
+      "description": "The PSSD Sensory Score is based on 1-point static and 2-point static pressure thresholds and 2- point distances. Cutaneous pressure thresholds and inter-prong distances are reported by the PSSD and determined to be normal or abnormal at a 99% confidence limit based on age (\\</= 45, or \\>45). These results correlate to a grading scheme which combines 1- and 2-point static pressure threshold with 2-point distance. An increase of greater than or equal to 1 grade from baseline as measured with the PSSD will be considered a meaningful change. The grading scale integrates normative data for each PSSD testing site. For the index finger pulp, big toe pulp, and first dorsal webspace of the foot, the grading scale goes from 0 to 5 inclusive. For the little finger pulp, the grading scale goes from 0 to 4 inclusive."
+    },
+    {
+      "measure": "European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire module CIPN20 (EORTC QLQ-CIPN20)",
+      "timeFrame": "up to 2 months post-intervention",
+      "description": "The CIPN20 module of the EORTC QLQ, is a validated twenty item patient-reported outcomes questionnaire used to quantify symptoms of Chemotherapy-Induced Peripheral Neuropathy. Those whose score is greater than or equal to 0.5 standard deviation increase from baseline will be considered positive for CIPN using the EORTC QLQ-CIPN20."
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "Axogen Corporation",
+    "Johns Hopkins University"
+  ],
+  "start_date": "2017-11-29",
+  "completion_date": "2019-11-25",
+  "last_updated": "2019-11-25"
+}

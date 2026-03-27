@@ -1,0 +1,90 @@
+{
+  "nct_id": "NCT05853887",
+  "brief_title": "Liquid Biopsy Based NGS in Newly Diagnosed NSCLC",
+  "official_title": "iNUDGE: INtegration of liqUiD Biopsy Based Next Generation Gene sEquencing in Newly Diagnosed NSCLC - A Stepped Wedge Cluster Randomized Clinical Trial",
+  "brief_summary": "This study expands the application of an electronic health record (EHR) \"nudge\" used to prompt physicians' clinical practice to order molecular testing at the time of initial diagnosis for patients with specific types of advanced lung cancer. The primary goal is to have these test results available prior to starting treatment so that physicians can make molecularly-informed treatment decisions. The second goal is to better understand factors that contribute to whether or not the EHR-nudge implementation is successful.",
+  "detailed_description": "At the University of Pennsylvania Health System (UPHS), a behavioral economics (BE) informed \"nudge\" strategy was piloted to guide physicians' clinical practice to include concurrent use of plasma and tissue-based next generation sequencing (NGS) testing at the time of initial diagnosis for patients with newly diagnosed metastatic non-squamous (mNSq) non-small cell lung cancer (NSCLC). These findings have demonstrated that behavioral, electronic health record (EHR)-based nudges are feasible and can promote guideline concordant diagnostic testing at both community and academic sites.\n\nThe overarching goal of this current trial is to expand the application of the BE informed nudges, which includes a Best Practice Advisory (BPA) and Electronic Decision Support Tool (e-CDS) approach, which has been operationalized within Epic, the EHR used at UPHS, to six satellite hospitals. Our central hypothesis is that this approach will dramatically increase adoption of comprehensive molecular testing and enhance the delivery of molecularly informed 1L therapy in patients with newly diagnosed mNSq NSCLC.\n\nIntervention: A multicomponent BE-informed EHR-based nudge designed to facilitate comprehensive molecular testing by embedding a default P-NGS order into the EHR at the time of the NPV. If ordered, test results are incorporated into provider workflows and conveyed through electronic clinical decision support (e-CDS) notifications. This support program will notify clinicians of targetable mutations, potential clinical trials, as well as absence of mutations detected on plasma testing as a means of improving the timely delivery of molecularly informed therapy.\n\nStudy Design\n\nObjective 1: In a stepped wedge cluster randomized trial of newly diagnosed patients with mNSq NSCLC, evaluate the effectiveness of a multicomponent BE-informed EHR-based nudge intervention at increasing timely receipt of comprehensive molecular test results prior to 1L therapy by incorporating P-NGS into the standard clinical workup.\n\nThe design of this trial will include 3 clusters, representing 6 community hospitals. There will be an initial period in which no clusters are exposed to the intervention. Subsequently, at regular intervals (the \"steps\") one cluster (or a group of clusters) will be randomized to cross from the control to the intervention under evaluation. This process will continue until all clusters have crossed over to be exposed to the intervention. At the end of the study there will be a period when all clusters are exposed. Data collection will continue throughout the study, so that each cluster will contribute observations under both control and intervention observation periods. Two years of baseline data will be obtained from all study sites for comparison.\n\nObjective 2: Assess the contextual mechanisms influencing the adoption, reach, and effectiveness of EHR-based nudge interventions, with a lens for health equity in molecular testing using mixed-methods.\n\nUsing rigorous approaches proven successful in our prior work, we will recruit patient and clinician participants from each site to complete semi-structured interviews and structured questionnaires. The goal of this objective is to understand contextual mechanisms (e.g., patient, clinician, clinic, structural factors) shaping adoption, reach, and effectiveness of each intervention and identify how response may differ by key characteristics. These data will be analyzed using convergent mixed methods analysis, which employs the simultaneous collection and analysis of both quantitative and qualitative data to gain a comprehensive understanding of the multi-level factors shaping trial outcomes.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 260,
+  "conditions": [
+    "Non Small Cell Lung Cancer Metastatic",
+    "Newly Diagnosed NSCLC",
+    "Non-Squamous Non-Small Cell Neoplasm of Lung"
+  ],
+  "interventions": [
+    {
+      "name": "iNUDGE",
+      "type": "BEHAVIORAL",
+      "description": "Electronic health record nudge which prompts physicians to order plasma-based NGS testing for eligible patients with newly diagnosed lung cancer."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Participants with a histological, or cytological diagnosis of metastatic non-squamous (mNSq) non-small cell lung cancer (NSCLC) who have not yet received systemic treatment for metastatic disease.\n* Participants must be seen at Lancaster General Health (LGH), Penn Presbyterian Medical Center (PPMC), Penn Medicine Cherry Hill (PMCH), Penn Medicine Princeton Health (PMPH), Penn Medicine Voorhees (PMV) or Penn Medicine Washington Township (PMWT) for mNSq NSCLC.\n\nExclusion Criteria:\n\n* Participants with incomplete staging information.\n* Children, pregnant women, fetuses, neonates, or prisoners are not included in this research study.",
+    "gender": "ALL",
+    "min_age": "",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Penn Medicine Cherry Hill",
+      "city": "Cherry Hill",
+      "state": "New Jersey",
+      "zip": "08003",
+      "status": ""
+    },
+    {
+      "facility": "Penn Medicine Princeton Health",
+      "city": "Plainsboro",
+      "state": "New Jersey",
+      "zip": "08536",
+      "status": ""
+    },
+    {
+      "facility": "Penn Medicine Washington Township",
+      "city": "Sewell",
+      "state": "New Jersey",
+      "zip": "08080",
+      "status": ""
+    },
+    {
+      "facility": "Penn Medicine Voorhees",
+      "city": "Voorhees Township",
+      "state": "New Jersey",
+      "zip": "08043",
+      "status": ""
+    },
+    {
+      "facility": "Penn Medicine Lancaster General Health",
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "zip": "17602",
+      "status": ""
+    },
+    {
+      "facility": "Penn Presbyterian Medical Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Availability of comprehensive molecular test results prior to first line therapy for patients with newly diagnosed mNSq NSCLC",
+      "timeFrame": "Measured up to 6 weeks from initial diagnosis",
+      "description": "Were comprehensive molecular test results available prior to initiation of 1L therapy? (Yes/No)"
+    }
+  ],
+  "sponsor": "Charu Aggarwal",
+  "collaborators": [
+    "Eli Lilly and Company"
+  ],
+  "start_date": "2023-06-15",
+  "completion_date": "2026-12-31",
+  "last_updated": "2026-03-09"
+}

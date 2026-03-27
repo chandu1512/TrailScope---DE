@@ -1,0 +1,89 @@
+{
+  "nct_id": "NCT01321554",
+  "brief_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Trial of Lenvatinib (E7080) in 131I-Refractory Differentiated Thyroid Cancer (DTC)",
+  "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Phase 3 Trial of Lenvatinib (E7080) in 131I-Refractory Differentiated Thyroid Cancer",
+  "brief_summary": "This is a multicenter, randomized, double-blind, placebo-controlled Phase 3 study to compare the progression free survival, overall response rate (ORR) and safety of participants treated with lenvatinib 24 mg by continuous once daily oral dosing versus placebo. The study is conducted in 3 phases: a Prerandomization Phase (screening and baseline period), a Randomization Phase (double-blind treatment period), and an Extension Phase (Optional Open Label (OOL) Lenvatinib Treatment Period and a follow-up period).",
+  "detailed_description": "Randomization Phase: Participants will receive blinded study drug (lenvatinib/placebo) in 2:1 ratio until documentation of disease progression (confirmed by independent imaging review), development of unacceptable toxicity, or withdrawal of consent. After having completed the primary analysis, subjects treated with lenvatinib who have not experienced disease progression may request to continue open label lenvatinib at the same dose, according to the clinical judgment of the investigator. Participants who discontinue treatment for any reason other than disease progression will be followed in the Randomization Phase until disease progression or start of another anticancer treatment; these participants then enter the Extension Phase for survival follow-up. Extension Phase: Participants in the placebo arm who have disease progression confirmed by IIR could request to enter the OOL Lenvatinib Treatment Period and receive lenvatinib treatment. Participants will receive lenvatinib treatment until disease progression (investigator's assessment), development of intolerable toxicity, or withdrawal of consent. Participants who had disease progression during the Randomization Phase and did not enter the OOL Lenvatinib Treatment Period and all participants who discontinued lenvatinib treatment in the OOL Lenvatinib Treatment Period will enter the follow-up period. Participants will be followed for survival, and all anticancer treatments will be recorded until the time of death.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 392,
+  "conditions": [
+    "Thyroid Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Lenvatinib",
+      "type": "DRUG",
+      "description": "Lenvatinib 24 mg (two 10-mg and one 4-mg lenvatinib matched capsules) taken orally once daily, continuously. Dose interruptions or reductions were allowed for subjects who experienced treatment-related toxicity."
+    },
+    {
+      "name": "Placebo",
+      "type": "DRUG",
+      "description": "Matching placebo (two 10-mg and one 4-mg lenvatinib matched capsules) taken orally once daily, continuously."
+    },
+    {
+      "name": "Lenvatinib",
+      "type": "DRUG",
+      "description": "Lenvatinib 20 mg (two 10-mg capsules) taken orally once daily, continuously. Dose interruptions or reductions were allowed for subjects who experienced treatment-related toxicity.\n\nThe dose of lenvatinib during the OOL Lenvatinib Treatment Period was 24 mg once daily from 03 Oct 2011 until 15 Feb 2013. The dose was lowered at the request of the Data Monitoring Committee to 20 mg on 16 Feb 2013. Thus, more subjects were treated with 24 mg starting dose and the treatment duration was longer for these participants than those whose starting dose was 20 mg."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion criteria:\n\n1. Histologically or cytologically confirmed diagnosis of one of the following DTC subtypes: Papillary thyroid cancer (PTC) or follicular thyroid cancer (FTC).\n2. Measurable disease according to (RECIST 1.1) and confirmed by central radiographic review.\n3. 131 I-refractory/resistant disease.\n4. Evidence of disease progression within 12 months prior to signing informed consent (+1 month screening window).\n5. Prior treatment with 0 or 1 vascular endothelial growth-factor (VEGF) or vascular endothelial growth-factor receptors (VEGFR) targeted therapy.\n6. Adequate renal, liver, bone marrow, and blood coagulation function, as defined in the protocol.\n\nExclusion criteria:\n\n1. Anaplastic or medullary carcinoma of the thyroid\n2. 2 or more prior VEGF/ VEGFR-targeted therapies\n3. Received any anticancer treatment within 21 days or any investigational agent within 30 days prior to the first dose of study drug.\n\nInclusion criteria for OOL Lenvatinib Treatment Period :\n\nParticipants were eligible for lenvatinib treatment in the OOL Lenvatinib Treatment Period if the met the following criteria:\n\n1. Placebo-treated participants in the Randomization Phase who had progressive disease (PD) confirmed by IIR, and who requested treatment with lenvatinib.\n2. Participants who continued to satisfy specified inclusion and exclusion criteria as presented in the study protocol.\n3. Participants with maximum interval between the day of confirmation of PD by IIR and Cycle 1/Day 1 of the OOL Lenvatinib Treatment Period of less than or equal to 3 months.\n4. No systemic anticancer treatment during the interval between the day of confirmation of PD by the IIR and Cycle 1/Day 1 of the OOL Lenvatinib Treatment Period.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Facility 1",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "Facility 1",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "Facility 1",
+      "city": "Neptune City",
+      "state": "New Jersey",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "Facility 1",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    },
+    {
+      "facility": "Facility 2",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression Free Survival (PFS)",
+      "timeFrame": "Date of randomization to the date of disease progression or death (whichever occurred first), assessed up to data cutoff date (15 Nov 2013) or up to approximately 2.5 years",
+      "description": "PFS was defined as the time from the date of randomization to the date of first documentation of disease progression or death (whichever occurred first), as determined by blinded IIR using Response Evaluation Criteria In Solid Tumors (RECIST) 1.1 for the double-blind treatment period (Randomization Phase). Disease progression per RECIST v1.1 was defined as at least a 20 percent (%) relative increase and 5 millimeter (mm) absolute increase in the sum of diameters of target lesions (taking as reference the smallest sum on study), recorded since the treatment started or the appearance of 1 or more new lesions."
+    }
+  ],
+  "sponsor": "Eisai Inc.",
+  "collaborators": [],
+  "start_date": "2011-03-17",
+  "completion_date": "2019-03-19",
+  "last_updated": "2023-06-16"
+}

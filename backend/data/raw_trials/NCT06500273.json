@@ -1,0 +1,103 @@
+{
+  "nct_id": "NCT06500273",
+  "brief_title": "Consolidation of First-Line MRD+ Remission With Cema-cel in Patients With LBCL",
+  "official_title": "A Randomized, Open-label Study Evaluating the Efficacy and Safety of Cemacabtagene Ansegedleucel in Participants With Minimal Residual Disease After Response to First Line Therapy for Large B-cell Lymphoma",
+  "brief_summary": "This is a randomized, open-label study in adult patients who have completed standard first line therapy for large B-cell lymphoma (LBCL) and achieved a complete response or partial response suitable for observation, but who have minimal residual disease (MRD) as detected by the Foresight CLARITY\u2122 Investigational Use Only (IUO) MRD test, powered by PhasED-Seq\u2122. The purpose of the trial is to assess the efficacy and safety of consolidation with cemacabtagene ansegedleucel (cema-cel), an allogeneic CD19 CAR T product, as compared to standard of care observation.\n\nIn this study, participants with MRD are randomized 1:1 to treatment with cema-cel or an observation arm. Treatment includes cema-cel following a lymphodepletion regimen of fludarabine and cyclophosphamide.\n\nPrior to August 2025, participants may also have received an anti-CD52 monoclonal antibody, ALLO-647, as part of their lymphodepletion regimen.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 250,
+  "conditions": [
+    "Large B-cell Lymphoma"
+  ],
+  "interventions": [
+    {
+      "name": "cemacabtagene ansegedleucel",
+      "type": "GENETIC",
+      "description": "An allogeneic CAR T cell therapy targeting CD19"
+    },
+    {
+      "name": "Fludarabine",
+      "type": "DRUG",
+      "description": "Chemotherapy for lymphodepletion"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "Chemotherapy for lymphodepletion"
+    },
+    {
+      "name": "Foresight CLARITY\u2122 IUO MRD test, powered by PhasED-Seq\u2122",
+      "type": "DEVICE",
+      "description": "A diagnostic test intended to identify patients with minimal residual disease at the end of first line treatment for LBCL."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Key Inclusion Criteria:\n\n1. LBCL per WHO 2017 including diffuse large B-cell lymphoma, high-grade B-cell lymphoma, and primary mediastinal B-cell lymphoma histologically confirmed by pathology report.\n2. Participant has completed a full course of standard first line therapy (e.g., R-CHOP, dose-adjusted EPOCH-R, Pola-R-CHP) as intended. Participants cannot have received additional lines of therapy.\n3. Participant achieved CR, or PR suitable for observation, at the end of first line therapy based on PET/CT evaluation\n4. Foresight CLARITY\u2122 IUO MRD test, powered by PhasED-Seq\u2122, is positive.\n5. Adult participants \u226518 years of age.\n6. Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1.\n7. Adequate hematological, renal, hepatic, pulmonary, and cardiac function\n8. Non-hematologic toxicities related to prior therapy must be recovered to baseline or grade \u22641.\n\nKey Exclusion Criteria:\n\n1. LBCL with history of central nervous system involvement, transformed from other malignancy (e.g., transformed follicular lymphoma or marginal zone lymphoma, Richter's transformation), or T-cell/histiocyte rich LBCL.\n2. Prior treatment with anti-CD19 targeted therapies.\n3. Anti-cancer treatment, including radiation, after end of treatment PET/CT and/or MRD testing is performed.\n4. Active and clinically significant autoimmune disease.\n5. Active systemic bacterial, fungal, or viral infections requiring systemic treatment.\n6. History of another primary malignancy or bone marrow disorder (e.g., myelofibrosis, smoldering multiple myeloma) within 3 years prior to enrollment.",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Medical Oncology Hematology Consultants",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "The Center for Cancer and Blood Disorders",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20817",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Astera Cancer Care",
+      "city": "East Brunswick",
+      "state": "New Jersey",
+      "zip": "08816",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "John Theurer Cancer Center",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Rutgers Cancer Institute of New Jersey",
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "zip": "08901",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Event-free survival per independent review committee assessment",
+      "timeFrame": "Up to 60 months",
+      "description": ""
+    }
+  ],
+  "sponsor": "Allogene Therapeutics",
+  "collaborators": [
+    "Foresight Diagnostics, Inc."
+  ],
+  "start_date": "2024-06-18",
+  "completion_date": "2032-12",
+  "last_updated": "2026-03-16"
+}

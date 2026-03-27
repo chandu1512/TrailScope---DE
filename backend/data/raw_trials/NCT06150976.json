@@ -1,0 +1,74 @@
+{
+  "nct_id": "NCT06150976",
+  "brief_title": "MAAT For Young Adult Cancer Survivors",
+  "official_title": "Modifying Memory and Attention Adaptation Training (MAAT) For Young Adult Childhood Cancer Survivors",
+  "brief_summary": "The goal of this clinical trial is to pilot-test a modified version of telehealth-delivered Memory and Attention Adaption Training (MAAT) that is tailored to young adult childhood cancer survivors (ages 18-39; MAAT-YS) with cancer-related cognitive impairment (CRCI). MAAT-YS consists of 8 weekly visits (45-minutes in duration) and participants use a survivor workbook and complete homework between visits. Participants in this single-group pilot trial (N=9) will complete online self-report measures of cognitive symptoms, quality of life, treatment satisfaction and a brief online neuropsychological test battery at baseline and post-MAAT-YS timepoints.",
+  "detailed_description": "The goal of this clinical trial is to pilot-test a modified version of telehealth-delivered Memory and Attention Adaption Training (MAAT) that is tailored to young adult childhood cancer survivors (ages 18-39; MAAT-YS) with cancer-related cognitive impairment (CRCI). MAAT-YS consists of 8 weekly visits (45-minutes in duration) and participants use a survivor workbook and complete homework between visits.\n\nThis pilot trial will determine MAAT-YS feasibility, treatment satisfaction and size of effect in self-report and objective measures of neurocognitive function.\n\nEligible participants will be 9 individuals who were diagnosed with non-central-nervous system (CNS) cancer (including leukemia/lymphoma without known CNS involvement) prior to the age of 18, are at least 1-year from completion of cancer treatment, including chemotherapy.\n\nParticipants will complete online self-report measures of cognitive symptoms, quality of life, treatment satisfaction and a brief online neuropsychological test battery at baseline and post-MAAT-YS timepoints.\n\nIf successful, further research is planned with a larger, multi-site randomized controlled trial of MAAT-YS.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 7,
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "MAAT-YS",
+      "type": "BEHAVIORAL",
+      "description": "MAAT is an evidence-based cognitive-behavioral therapy composed of eight 45-minute telehealth appointments and an accompanying workbook."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n1. Adults aged 18-39\n2. Diagnosed prior to 18 years of age with non-CNS solid tumor or leukemia/lymphoma without known CNS involvement\n3. At least 1 year after completion of treatment including chemotherapy, cancer-free\n4. English fluent\n5. Memory or other cognitive problems attributed to cancer and/or cancer treatment\n6. Score of \\<10 on the FACT-Cog Impact on Quality of Life Scale\n7. Willing to use telehealth with internet access\n8. Willing to provide informed consent to participation\n\nExclusion Criteria:\n\n1. Severe non-cancer brain injury such as severe traumatic brain injury, stroke or toxic injury causing memory impairments;\n2. Currently meeting Diagnostic and Statistical Manual-5 (DSM-5) criteria for a severe psychiatric disorder, including substance abuse, mood, anxiety, or psychotic disorders, as assessed by the PRIME-MD;\n3. Scoring 3 or below on the 6-item cognitive screen designed to detect severe memory disorders;59\n4. Severe uncorrected sensory impairment (severe hearing or visual impairment).",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "39 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pittsburgh School of Medicine/UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Functional Assessment of Cancer Therapy-Cognitive (FACT-Cog) v.3. Perceived Cognitive Impairments Scale (PCI)",
+      "timeFrame": "Baseline to Post-Treatment (after 8 weekly telehealth MAAT-YS visits)",
+      "description": "The PCI assesses perceived cognitive function of participants within a timeframe of the previous 7 days. It consists of 18 items with a 5-point Likert-type rating of 0 (Never) to 4 (Several times a day) with a scoring range of 0-72. Scoring instructions indicate items are reverse scored, such that higher scores denote better perceived cognitive function, lower scores, poorer cognitive function."
+    },
+    {
+      "measure": "CNS Vital Signs (CNSVS) Online Neuropsychological Test Battery (1) Verbal Memory (VBM) (recognition memory for words)",
+      "timeFrame": "Baseline to Post-Treatment (after 8 weekly telehealth MAAT-YS visits)",
+      "description": "CNSVS Verbal Memory (VBM) is a computer-based neuropsychological test of word recognition and memory for words). The test is measured in standard score units (Mean of 100; SD 15). Higher scores denote better cognitive function."
+    },
+    {
+      "measure": "CNS Vital Signs (CNSVS) Online Neuropsychological Test Battery (2) Symbol Digit Coding (SDC) (visual motor processing speed)",
+      "timeFrame": "Baseline to Post-Treatment (after 8 weekly telehealth MAAT-YS visits)",
+      "description": "CNSVS Symbol Digit Coding (SDC) is a computer-based neuropsychological test of visual motor processing speed. The test is measured in standard score units (Mean of 100; SD 15). Higher scores denote better cognitive function."
+    },
+    {
+      "measure": "CNS Vital Signs (CNSVS) Online Neuropsychological Test Battery (3) Stroop Test (ST) (visual motor reaction time, processing speed and visual discrimination)",
+      "timeFrame": "Baseline to Post-Treatment (after 8 weekly telehealth MAAT-YS visits)",
+      "description": "CNSVS Stroop Test (ST) is a computer-based neuropsychological test of visual motor reaction time, processing speed and visual discrimination. The test is measured in standard score units (Mean of 100; SD 15). Higher scores denote better cognitive function."
+    },
+    {
+      "measure": "CNS Vital Signs (CNSVS) Online Neuropsychological Test Battery (4) 4-Part Continuous Performance Test (FPCPT) (sustained attention and working memory)",
+      "timeFrame": "Baseline to Post-Treatment (after 8 weekly telehealth MAAT visits)",
+      "description": "CNSVS 4-Part Continuous Performance Test (FPCPT) is a computer-based neuropsychological test of sustained attention and working memory. The test is measured in standard score units (Mean of 100; SD 15). Higher scores denote better cognitive function."
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [
+    "Indiana University School of Medicine",
+    "St. Jude Children's Research Hospital"
+  ],
+  "start_date": "2025-02-12",
+  "completion_date": "2025-09-05",
+  "last_updated": "2026-01-08"
+}

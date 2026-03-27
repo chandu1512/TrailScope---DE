@@ -1,0 +1,82 @@
+{
+  "nct_id": "NCT00113516",
+  "brief_title": "A Study Of SU011248 As Therapy In Patients With Locally Advanced Or Metastatic Non-Small Cell Lung Cancer",
+  "official_title": "Phase 2 Study Of SU011248 As Consolidation Therapy In Patients With Locally Advanced Or Metastatic Non-Small Cell Lung Cancer",
+  "brief_summary": "The purpose of this study is to find out if SU011248 (sunitinib) provides additional benefit when it is given after treatment with two chemotherapy drugs carboplatin and paclitaxel and also if sunitinib is safe for patients with locally advanced and metastatic Non Small Cell Lung Cancer (NSCLC).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 84,
+  "conditions": [
+    "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "carboplatin",
+      "type": "DRUG",
+      "description": "AUC of 6 mg\\*min/mL via IV infusion every 21 days for 4 cycles as per institutional practices."
+    },
+    {
+      "name": "paclitaxel",
+      "type": "DRUG",
+      "description": "175-225 mg/m2 via IV infusion every 21 days for 4 cycles as per institutional practices."
+    },
+    {
+      "name": "sunitinib",
+      "type": "DRUG",
+      "description": "50 mg orally daily for 4 weeks followed by 2 weeks off treatment up to 1 year (after completing 1 year of treatment, pts deriving clinical benefit may continue to receive sunitinib in a separate continuation protocol)."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Histologically proven NSCLC\n* Stage IIIB (locally advanced with malignant effusion) or Stage IV disease\n* No prior therapy for NSCLC\n* Evidence of unidimensionally measurable disease\n\nExclusion Criteria:\n\n* Previous treatment with systemic chemotherapy for lung cancer\n* History of or known brain metastases\n* NCI CTCAE Grade 3 hemorrhage within 4 weeks of starting study treatment\n* Evidence of hemoptysis within 4 weeks of starting study treatment\n* Serious acute or chronic illness or recent history of significant cardiac abnormality\n* Previous treatment with anti-angiogenesis agents including thalidomide, or inhibitors of EGFR and PDGFR",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19713",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Newark",
+      "state": "Delaware",
+      "zip": "19718",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "zip": "19899",
+      "status": ""
+    },
+    {
+      "facility": "Pfizer Investigational Site",
+      "city": "Hershey",
+      "state": "Pennsylvania",
+      "zip": "17033",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of Subjects Surviving at One Year",
+      "timeFrame": "From start of treatment until 1 year or death",
+      "description": "Proportion of those surviving at the end of one year from the first dose of study treatment. In the absence of confirmation of death, survival time was censored at the last date the subject was known to be alive. Patients lacking data beyond the day of first dose had their survival time censored at Day 1 of treatment."
+    }
+  ],
+  "sponsor": "Pfizer",
+  "collaborators": [],
+  "start_date": "2005-09",
+  "completion_date": "2009-03",
+  "last_updated": "2010-05-14"
+}

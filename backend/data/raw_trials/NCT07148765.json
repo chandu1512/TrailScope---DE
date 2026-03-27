@@ -1,0 +1,63 @@
+{
+  "nct_id": "NCT07148765",
+  "brief_title": "Use of Wearables Following Cystectomy- Part II",
+  "official_title": "The Feasibility of Using Wearable Electronic Devices Following Cystectomy to Identify Early Biometric Signatures of Readmission",
+  "brief_summary": "The goal of this observational study is to learn about the practical considerations for having health care providers respond in real-time to abnormalities detected remotely for patients recovering from cystectomy following discharge from the hospital. Participants will be asked to wear a wearable fitness tracker (e.g., Fitbit) and answer a daily brief questionnaire on their smartphone.\n\nThe main question\\[s\\] the investigators aims to answer are:\n\n* Is it practical to have health care providers respond in real-time to abnormal biomarkers collected using fitness trackers for patients recovering from cystectomy?\n* Can we identify early biomarker signatures (e.g. using heart rate, pulse oximetry, respiratory rate, etc.) that can predict adverse events that lead to hospital readmissions?\n\nParticipants will\n\n* Set up and use a Fitbit Sense 2 device for up to 2 weeks prior to surgery and again for 30 days following discharge after their surgical hospitalization.\n* Download and complete questionnaires in a smartphone application for up to 2 weeks prior to surgery and again for 30 days following discharge after their surgical hospitalization.\n* Trigger automated alerts when abnormal biometric data (from the Fitbit device) or concerning survey responses are detected.\n* Receive contact from a health care provider within 24 hours of an automated alert being generated.",
+  "detailed_description": "Cystectomy is associated with high rates of complications and readmissions, with approximately one-quarter of patients readmitted within 30 days. Despite advances in perioperative care, these rates have remained unchanged. Remote patient monitoring using a combination of consumer-grade wearable electronic devices, such as the Fitbit Sense 2, and smartphone application administered questionnaires offers an accessible method for continuous, passive collection of digital biomarkers (e.g., heart rate, respiratory rate, SpO2, step count, sleep patterns) and collection of patient-reported outcomes (PROs) in the outpatient setting. Prior studies have demonstrated the feasibility of wearable devices and electronic PRO monitoring postoperatively, but limited data exist on the real-time use of biomarker and PRO data to trigger provider responses in cystectomy patients following discharge.\n\nThe investigators' primary objective is to evaluate the feasibility of investigating continuous remote monitoring using wearable electronic devices and smartphone application-administered questionnaires to trigger real-time alerts to abnormalities in digital biomarkers and PROs in the 30-day postoperative period following cystectomy. The secondary objective of this study is to identify early biometric signatures predictive of adverse events that lead to readmissions.",
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "phase": [
+    "NA"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Bladder Cancer",
+    "Neurogenic Bladder Disorder",
+    "Cystectomy"
+  ],
+  "interventions": [
+    {
+      "name": "Fitbit Sense 2",
+      "type": "DEVICE",
+      "description": "Continuous biometric monitoring (e.g., heart rate, pulse oximetry, respiratory rate, etc.) that will trigger alerts based on predefined threshold criteria for health care providers to respond to by contacting patients within 24 hours of alert."
+    },
+    {
+      "name": "Smartphone application survey",
+      "type": "OTHER",
+      "description": "Daily questionnaire to record PROs will be administered via patient smartphones. Concerning PROs will trigger alerts which health care providers will respond to by contacting patients within 24 hours of alert."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* English-speaking\n* Owns a smartphone\n* Scheduled to undergo cystectomy with urinary diversion at a UPMC hospital\n\nExclusion Criteria:\n\n* No reliable internet access\n* Concurrent enrollment in another interventional study that may interfere with outcomes",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Proportion of participants who remain in the study from enrollment until trial completion (participant retention)",
+      "timeFrame": "From enrollment to 30 days post-discharge following cystectomy hospitalization",
+      "description": ""
+    },
+    {
+      "measure": "Participant wearable electronic device adherence",
+      "timeFrame": "From day of discharge following cystectomy hospitalization to 30 days post-discharge",
+      "description": "Proportion of patients who wear and transmit data from the provided Fitbit Sense 2 device for at least 16 hours per day for more 14 days"
+    }
+  ],
+  "sponsor": "University of Pittsburgh",
+  "collaborators": [],
+  "start_date": "2025-09-19",
+  "completion_date": "2026-09-01",
+  "last_updated": "2025-09-22"
+}

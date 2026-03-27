@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT06360575",
+  "brief_title": "Testing Crizotinib as Potentially Targeted Treatment in Cancers With MET Exon 14 Deletion Genetic Changes (MATCH - Subprotocol C2)",
+  "official_title": "MATCH Treatment Subprotocol C2: Crizotinib in Patients With Tumors With MET Exon 14 Deletion",
+  "brief_summary": "This phase II MATCH treatment trial tests how well crizotinib works to treat patients with cancers with MET exon 14 deletion genetic changes. Crizotinib is in a group of medications called tyrosine kinase inhibitors. It works by blocking enzymes that cancer cells need to grow and spread. It may also prevent the growth of new blood vessels that tumors need to grow.",
+  "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate the proportion of patients with objective response (OR) to targeted study agent(s) in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the proportion of patients alive and progression free at 6 months of treatment with targeted study agent in patients with advanced refractory cancers/lymphomas/multiple myeloma.\n\nII. To evaluate time until death or disease progression. III. To identify potential predictive biomarkers beyond the genomic alteration by which treatment is assigned or resistance mechanisms using additional genomic, ribonucleic acid (RNA), protein and imaging-based assessment platforms.\n\nIV. To assess whether radiomic phenotypes obtained from pre-treatment imaging and changes from pre- through post-therapy imaging can predict objective response and progression free survival and to evaluate the association between pre-treatment radiomic phenotypes and targeted gene mutation patterns of tumor biopsy specimens.\n\nOUTLINE:\n\nPatients receive crizotinib orally (PO) twice daily (BID) on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients undergo tumor biopsy on study and undergo radiologic evaluation and blood sample collection throughout the study.\n\nAfter completion of study treatment, patients followed up every 3 months for 2 years then every 6 months for year 3.\n\nTHE MATCH SCREENING TRIAL:\n\nPlease see NCT02465060 for information on the MATCH Screening Protocol and applicable documents.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 20,
+  "conditions": [
+    "Advanced Lymphoma",
+    "Advanced Malignant Solid Neoplasm",
+    "Refractory Lymphoma",
+    "Refractory Malignant Solid Neoplasm",
+    "Refractory Multiple Myeloma"
+  ],
+  "interventions": [
+    {
+      "name": "Biopsy Procedure",
+      "type": "PROCEDURE",
+      "description": "Undergo tumor biopsy"
+    },
+    {
+      "name": "Biospecimen Collection",
+      "type": "PROCEDURE",
+      "description": "Undergo blood sample collection"
+    },
+    {
+      "name": "Crizotinib",
+      "type": "DRUG",
+      "description": "Given PO"
+    },
+    {
+      "name": "Radiologic Examination",
+      "type": "PROCEDURE",
+      "description": "Undergo radiologic evaluation"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Patients must have met applicable eligibility criteria in the Master MATCH Protocol EAY131/ NCI-2015-00054 prior to registration to treatment subprotocol\n* Patient must fulfill all eligibility criteria outlined in Section 3.1 of MATCH Master protocol (excluding Section 3.1.6) at the time of registration to treatment step (Step 1, 3, 5, 7)\n* Patient must have MET exon 14 skipping as defined via the MATCH Master Protocol and described or other mutations that disrupt exon 14 that are approved as a dynamic aMOI\n* Patients must have an electrocardigram (ECG) within 8 weeks prior to treatment assignment and must not have clinically important abnormalities in rhythm, conduction or morphology of resting ECG, including complete left bundle branch block, third degree heart block\n* Patients must not have known hypersensitivity to crizotinib or compounds of similar chemical or biologic composition\n* Patient must not have had any of the following prior therapies: AMG 337, BMS 777607, cabozantinib (XL184), crizotinib (PF02341066), EMD1214063, foretinib (GSK1363089) (XL880), golvatinib (E7050), IncB28060 (INC280), JNJ 8877605, MGCD265, MK2461, MSC2156119J, PF 04217903, SGX523, tivantinib (ARQ197) or any other novel MET TKI with any MET inhibitory activity half-maximal inhibitory concentration (IC50) \\< 1 uM. Prior anti-HGF or anti-MET antibodies are acceptable\n* Patients must not have a history of extensive disseminated/bilateral or known presence of grade 3 or 4 interstitial fibrosis or interstitial lung disease, including a history of pneumonitis, hypersensitivity pneumonitis, interstitial pneumonia, interstitial lung disease, obliterative bronchiolitis, and pulmonary fibrosis, but not history of prior radiation pneumonitis\n* Patients must not have had myocardial infarction, severe/unstable angina, coronary/peripheral artery bypass graft, congestive heart failure, or cerebrovascular accident including transient ischemic attack within 3 months prior to start of study treatment. Clinically significant gastrointestinal (GI) abnormalities that may alter absorption (e.g., malabsorption syndrome, major resection of stomach or small bowel)\n* Patients using drugs or foods that are known strong CYP3A4 inhibitors or inducers will be excluded. Patients must not require concurrent use of CYP3A substrates with narrow therapeutic indices\n* Patients must not have had major surgery or tumor embolization within 4 weeks and minor surgery within 2 weeks prior to the initiation of the study drug",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "ECOG-ACRIN Cancer Research Group",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19103",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "timeFrame": "Tumor assessments occurred at baseline, then every 2 cycles for the first 26 cycles and every 3 cycles thereafter until disease progression, up to 3 years post registration",
+      "description": "ORR is defined as the percentage of patients whose tumors have a complete or partial response to treatment among analyzable patients. Objective response is defined consistent with Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. Details about how to define complete response and partial response can be found in the master protocol. 90% two-sided binomial exact confidence interval is calculated for ORR."
+    }
+  ],
+  "sponsor": "National Cancer Institute (NCI)",
+  "collaborators": [],
+  "start_date": "2016-07-20",
+  "completion_date": "2026-12-31",
+  "last_updated": "2026-03-18"
+}

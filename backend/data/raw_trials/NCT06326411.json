@@ -1,0 +1,69 @@
+{
+  "nct_id": "NCT06326411",
+  "brief_title": "A Study to Investigate the Safety and Efficacy of NST-628 Oral Tablets in Subjects With Solid Tumors",
+  "official_title": "A Phase I, Open Label Single-arm Two-part Study to Investigate Safety, Pharmacokinetics, and Preliminary Efficacy of Pan-RAF/MEK Glue NST-628 Oral Tablets in Subject With Solid Tumors Harboring Genetic Alterations in the MAPK Pathway and With Other Solid Tumors",
+  "brief_summary": "This is a two-part Phase 1, open label, multi-center, single arm, non-randomized, multiple dose, safety, pharmacokinetic (PK) and preliminary efficacy study of single agent NST-628 in adult patients with MAPK pathway mutated/dependent advanced solid tumors who have exhausted standard treatment options.",
+  "detailed_description": "The study includes two parts, a dose escalation part (Part A) followed by a dose expansion part (Part B). Part A will estimate the maximum tolerated dose (MTD) in dose escalation cohorts in patients with advanced solid tumors for whom no standard therapy is available in order to establish the recommended dose for expansion (RDE). Successive cohorts of subjects will receive escalating doses of NST-628 orally once daily in 28-day cycles.\n\nBayesian Optimal Interval (BOIN) method will be used for dose escalation.\n\nOnce MTD is reached or dose escalation is stopped prior to reaching MTD and provisional RDE selected, the provisional RDE level will be expanded. If warranted by dose/toxicity/anti-tumor activity observations, additional, lower dose level(s) may also be expanded.\n\nPart B of the study will include up to 6 cohorts of approximately up to 30 subjects each with select MAPK pathway mutant solid tumors enrolled at the RDE in order to explore benefit from treatment as suggested by preclinical findings and will better define the safety profile of NST-628 at the RDE. Additional safety information gathered in Part B may be used to modify the dose recommended for future studies.\n\nThe end of the study is the last visit of the last subject.",
+  "overall_status": "RECRUITING",
+  "phase": [
+    "PHASE1"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 230,
+  "conditions": [
+    "Oncology",
+    "MEK Mutation",
+    "RAF Gene Mutation",
+    "Ras (KRAS or NRAS) Gene Mutation",
+    "Melanoma",
+    "NSCLC",
+    "Glioma",
+    "Solid Tumor, Adult",
+    "MAPK Pathway Gene Mutation"
+  ],
+  "interventions": [
+    {
+      "name": "NST-628",
+      "type": "DRUG",
+      "description": "NST-628 is a small molecule non-covalent pan-RAF/MEK dual molecular glue targeting RAF and MEK nodes of MAPK pathway."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\nSubjects are eligible to be included in the study only if all of the following criteria apply:\n\n1. Subjects must be \u226518 years old (or of legal age of consent in the country in which the study is taking place) at the time of signing the informed consent.\n2. Subjects who have a histologically or cytologically documented metastatic or locally advanced solid tumor, for which standard of care (SoC) therapy does not exist, no longer provides benefit, or is not tolerated by the subject, or the subject has been assessed by the Investigator as not being suitable for SoC therapy.\n\n   1. Part A: Subjects with any solid tumor with genetic alteration of or evidence of tumor dependence upon the RAS/MAPK pathway (subject to additional restrictions specified in the study protocol)\n   2. Part B: Subjects must be diagnosed with one of the following solid tumors harboring specified genetic alterations based on a validated local test:\n\n   i. Melanoma Cohorts:\n   1. Activating NRAS mutations\n   2. Select BRAF alterations\n\n   ii. Non-Melanoma Cohorts:\n   1. Solid tumors with NRAS activating mutations\n   2. Solid tumors with KRAS activating mutations\n   3. Solid tumors with select BRAF alterations\n   4. Glioma with BRAF alterations\n3. Newly obtained or archived tumor tissue is required\n4. Part B: measurable disease as defined by RECIST Version 1.1 or by other disease assessment tool standard for a given tumor type (if RECIST v. 1.1 is not standard)\n5. Performance status\n\n   1. Solid tumors other than glioma: ECOG 0 or 1\n   2. Glioma: Karnofsky \u2265 70 and ECOG 0 or 1\n6. Have adequate organ function\n7. Understand and voluntarily sign an Institutional Review Board/Independent Ethics Committee-approved informed consent form prior to any study-specific evaluation.\n8. Life expectancy \u2265 12 weeks\n\nExclusion Criteria:\n\nSubjects are excluded from the study if any of the following criteria apply:\n\n1. Conditions interfering with oral intake of NST-628\n2. Conditions interfering with intestinal absorption of an orally administered drug\n3. A history or current evidence of significant retinal pathology leading to increased risk of RVO\n4. A history or evidence of cardiovascular risk\n5. Current or history within 6 months of planned Cycle 1 Day 1 of pneumonitis or interstitial lung disease (ILD)\n6. Part B: prior treatment with any MEK or BRAF inhibitor\n7. Untreated or symptomatic central nervous system (CNS) metastases\n8. Chemotherapy, radiation, gene therapy, vaccine therapy, or anti-cancer antibodies / ADCs within 28 days of Cycle 1 Day 1\n9. Targeted small molecule agents within 14 days or 5 half-lives of Cycle 1 Day 1\n10. Females who are pregnant or breastfeeding.\n11. For fertile patients (female able to become pregnant or male able to father a child), refusal to use effective contraception during the period of the trial and for 6 months after the last dose of NST-628\n12. Presence of any serious or unstable concomitant systemic disorder incompatible with the clinical study",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "UPMC Hillman Cancer Center",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15232",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Part A and B: Evaluate the safety of NST-628 in patients with advanced solid tumors",
+      "timeFrame": "Through study completion, an average of 1 year",
+      "description": "Adverse effects"
+    },
+    {
+      "measure": "Part A: Determine the recommended dose for expansion of NST-628",
+      "timeFrame": "The first 28 days of treatment (DLTs)",
+      "description": "Dose limiting toxicities (DLTs)"
+    },
+    {
+      "measure": "Part B: Evaluate objective tumor response rate",
+      "timeFrame": "Through study completion, an average of 1 year",
+      "description": "Objective response per RECIST v. 1.1 or other response assessment tool standard for a given tumor type."
+    }
+  ],
+  "sponsor": "Nested Therapeutics, Inc",
+  "collaborators": [],
+  "start_date": "2024-04-09",
+  "completion_date": "2029-11",
+  "last_updated": "2025-11-06"
+}

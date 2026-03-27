@@ -1,0 +1,73 @@
+{
+  "nct_id": "NCT03125070",
+  "brief_title": "Self-Management Program and Survivorship Care Plan in Improving the Health of Cancer Survivors After Stem Cell Transplant",
+  "official_title": "INSPIRE: A Multicenter Randomized Controlled Trial Integrating Health Informatics in a Scalable Stepped Care Self-Management Program for Survivors After Hematopoietic Cell Transplantation",
+  "brief_summary": "This phase III trial investigates health informatics and a self-management program for improving the health of cancer survivors after stem cell transplant. After transplant many survivors may feel stressed or may be unsure of what health care they need. A self-management program called \"INSPIRE,\" along with a personalized survivorship care plan may improve stress and health care for transplant survivors.",
+  "detailed_description": "OUTLINE:\n\nPatients are randomized to 1 of 2 groups.\n\nGROUP I: Patients receive immediate access to the INSPIRE online program and personalized survivorship care plan.\n\nGROUP II: Patients receive an online program linking to existing online survivor resources and a personalized survivorship care plan. Patients receive access to the INSPIRE online program after 12 months.",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 546,
+  "conditions": [
+    "Hematopoietic and Lymphoid Cell Neoplasm"
+  ],
+  "interventions": [
+    {
+      "name": "Best Practice and Internet site with links to existing resources",
+      "type": "OTHER",
+      "description": "Receive usual care"
+    },
+    {
+      "name": "Internet, Mobile app and Telehealth Intervention",
+      "type": "OTHER",
+      "description": "Receive INSPIRE and survivorship care plan"
+    },
+    {
+      "name": "Survey Administration",
+      "type": "OTHER",
+      "description": "Ancillary studies"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Received \\>= 1 autologous or allogeneic (related or unrelated) HCT with curative intent at a participating transplant center for a hematologic malignancy\n* Age 18 years of age or older at last transplant\n* Survival 2-5 years after last HCT when first approached for enrollment\n* In remission at time of study entry, may be receiving chemoprevention\n* Internet and email access\n* American and Canadian citizens, and/or those with mailing addresses in the United States (US)/Canada and/or temporarily residing anywhere outside the country (IE - military).\n\nExclusion Criteria:\n\n* Development of invasive subsequent malignancy after HCT other than non-melanoma skin cancer, in the past two years\n* Medical or other issue prohibiting computer use, reading or ability to comply with all study procedures or unable to communicate via phone (e.g., significant vision, hearing or cognitive impairment, major illness, hospitalization)\n* Residing in an institution or other living situation where health care decisions are not made by the participant (e.g., hospitalized, prisoners, living in a rehabilitation facility)\n* Does not complete baseline patient-reported outcome (PRO) assessment items required to determine stratification or whether the survivor meets inclusion and exclusion criteria\n* Non-proficient in English (written and spoken)",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "University of Pennsylvania/Abramson Cancer Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Cancer and Treatment Distress (CTXD)",
+      "timeFrame": "Up to 12 months",
+      "description": "Among those impaired at baseline, percent who are no longer impaired at 12 months (among those not missing either). Scores range from 0-3 and higher scores indicate higher distress. A cutoff of \\>=.90 was used to categorize participants as high in distress. Participants with scores \\<.90 were categorized as not distressed."
+    },
+    {
+      "measure": "Health Care Adherence (HCA)-Cardiometabolic",
+      "timeFrame": "Up to 12 months",
+      "description": "Assesses adherence to cardiometabolic surveillance in intervention participants vs. controls. Among those impaired at baseline, percent no longer impaired at 12 months. Scores range from 0-1. Higher scores indicate high adherence. A cutoff of \\<.80 was used to categorize participants as low in adherence. Scores higher than .80 were classified as being adherent to cardiometabolic surveillance."
+    },
+    {
+      "measure": "Characteristics of Intervention Participants Who Require Telehealth Stepped Care at 6-weeks",
+      "timeFrame": "6-weeks after enrollment.",
+      "description": "Determine characteristics of participants who 1) do not meet criteria for adequate knowledge of cardiometabolic risks, or 2) do not report improved distress, or 3) have not logged in to the online program."
+    }
+  ],
+  "sponsor": "Fred Hutchinson Cancer Center",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "start_date": "2020-10-29",
+  "completion_date": "2023-12-31",
+  "last_updated": "2025-01-07"
+}

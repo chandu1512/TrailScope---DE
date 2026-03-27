@@ -1,0 +1,88 @@
+{
+  "nct_id": "NCT01847274",
+  "brief_title": "A Maintenance Study With Niraparib Versus Placebo in Patients With Platinum Sensitive Ovarian Cancer",
+  "official_title": "A Phase 3 Randomized Double-blind Trial of Maintenance With Niraparib Versus Placebo in Patients With Platinum Sensitive Ovarian Cancer.",
+  "brief_summary": "This is a Phase 3, multicenter, randomized, double-blind, placebo-controlled study of niraparib as maintenance in platinum sensitive ovarian cancer patients who have either gBRCAmut or a tumor with high-grade serous histology and who have responded to their most recent chemotherapy containing a platinum agent. Niraparib is an orally active PARP inhibitor. Niraparib or placebo (in a 2:1 ratio) will be administered once daily continuously during a 28-day cycle. Health-related quality of life will be measured by the Functional Assessment of Cancer Therapy - Ovarian Symptom Index (FOSI), European Quality of Life scale, 5-Dimensions (EQ-5D), and a neuropathy questionnaire. Safety and tolerability will be assessed by clinical review of adverse events (AEs), physical examinations, electrocardiograms (ECGs), and safety laboratory values.\n\nThe primary objective of this study is to evaluate efficacy of niraparib as maintenance therapy in patients who have platinum sensitive ovarian cancer as assessed by the prolongation of progression free survival (PFS).",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [
+    "PHASE3"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 596,
+  "conditions": [
+    "Ovarian Neoplasms",
+    "Platinum Sensitive Ovarian Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Active comparator: Niraparib",
+      "type": "DRUG",
+      "description": "Niraparib vs placebo 2:1 ratio"
+    },
+    {
+      "name": "placebo",
+      "type": "DRUG",
+      "description": ""
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* 18 years of age or older, female, any race\n* Histologically diagnosed ovarian cancer, fallopian tube cancer or primary peritoneal cancer\n* High grade (or grade 3) serous histology or known to have gBRCAmut\n* Has received at least 2 previous courses of platinum-containing therapy, and has disease that was considered platinum sensitive following the penultimate (next to last) platinum course (more than 6 month period between penultimate platinum regimen and progression of disease)\n* Has responded to last the platinum regimen, remains in response and is enrolled on study within 8 weeks of completion of the last platinum regimen\n* ECOG 0-1\n* Adequate bone marrow, kidney and liver function\n\nExclusion Criteria:\n\n* Known hypersensitivity to the components of niraparib\n* Invasive cancer other than ovarian cancer within 2 years (except basal or squamous cell carcinoma of the skin that has been definitely treated)\n* Symptomatic uncontrolled brain metastasis\n* Is pregnant or breast feeding\n* Immunocompromised patients\n* Known active hepatic disease\n* Prior treatment with a known PARP inhibitor",
+    "gender": "FEMALE",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "GSK Investigational Site",
+      "city": "Morristown",
+      "state": "New Jersey",
+      "zip": "07962-1956",
+      "status": ""
+    },
+    {
+      "facility": "GSK Investigational Site",
+      "city": "Abington",
+      "state": "Pennsylvania",
+      "zip": "19001-3788",
+      "status": ""
+    },
+    {
+      "facility": "GSK Investigational Site",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Progression-Free Survival (PFS) in Cohort With Germline BReast CAncer Gene (BRCA) Mutation (gBRCA)",
+      "timeFrame": "From date of randomization to the earliest date of disease progression or death from any cause, up to 7 years 7 months and 4 days",
+      "description": "PFS was defined as the time between randomization and disease progression or death from any cause. Computed tomography or magnetic resonance imaging to assess disease progression was performed at baseline, every 8 weeks through cycle 14, and then every 12 weeks until treatment discontinuation. The objective assessment of disease progression was determined by means of central radiologic and clinical review, according to Response Evaluation Criteria in Solid Tumors (RECIST),version 1.1, which was performed in a blinded fashion. PD is defined as at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study."
+    },
+    {
+      "measure": "Progression-Free Survival (PFS) in Cohort With No Germline BCRA With Homologous Recombination Deficiency-positive (HRD+) Tumors (Non-gBRCAmut HRD+)",
+      "timeFrame": "From date of randomization to the earliest date of disease progression or death from any cause, up to 7 years, 7 months and 4 days",
+      "description": "PFS was defined as the time between randomization and disease progression or death from any cause. Computed tomography or magnetic resonance imaging to assess disease progression was performed at baseline, every 8 weeks through cycle 14, and then every 12 weeks until treatment discontinuation. The objective assessment of disease progression was determined by means of central radiologic and clinical review, according to Response Evaluation Criteria in Solid Tumors (RECIST),version 1.1, which was performed in a blinded fashion. PD was defined as at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study. PD is defined as at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study."
+    },
+    {
+      "measure": "Progression-Free Survival (PFS) in Cohort With No Germline BRCA Mutation",
+      "timeFrame": "From date of randomization to the earliest date of disease progression or death from any cause, up to 7 years, 7 months and 4 days",
+      "description": "PFS was defined as the time between randomization and disease progression or death from any cause. Computed tomography or magnetic resonance imaging to assess disease progression was performed at baseline, every 8 weeks through cycle 14, and then every 12 weeks until treatment discontinuation. The objective assessment of disease progression was determined by means of central radiologic and clinical review, according to Response Evaluation Criteria in Solid Tumors (RECIST),version 1.1, which was performed in a blinded fashion.PD is defined as at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study."
+    }
+  ],
+  "sponsor": "Tesaro, Inc.",
+  "collaborators": [
+    "European Network of Gynaecological Oncological Trial Groups (ENGOT)",
+    "Myriad Genetics, Inc.",
+    "US Oncology Research",
+    "Sarah Cannon",
+    "Cooperative Ovarian Cancer Group (COGI)",
+    "Facing Our Risk of Cancer Empowered"
+  ],
+  "start_date": "2013-06-21",
+  "completion_date": "2021-12-26",
+  "last_updated": "2023-05-31"
+}

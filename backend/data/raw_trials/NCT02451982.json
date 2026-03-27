@@ -1,0 +1,89 @@
+{
+  "nct_id": "NCT02451982",
+  "brief_title": "Platform Study of Neoadjuvant and Adjuvant Immunotherapy for Patients With Resectable Adenocarcinoma of the Pancreas",
+  "official_title": "A Platform Study of Combination Immunotherapy for the Neoadjuvant and Adjuvant Treatment of Patients With Surgically Resectable Adenocarcinoma of the Pancreas",
+  "brief_summary": "This platform trial will evaluate various immunotherapy combinations given in the neo-adjuvant and adjuvant setting in patients with surgically resectable pancreatic ductal adenocarcinoma.",
+  "detailed_description": "Immunotherapy is an innovative approach being developed for the treatment of pancreatic cancer, a lethal and relatively chemotherapy-resistant disease. However, the tumor and its environment have developed a number of ways in which they inhibit the function of the immune system preventing it from recognizing and killing the cancer. In addition, the investigators still do not understand how T cells, the cells in the immune system that have the potential to recognize cancer as different and kill cancer cells, traffic into the tumor to accomplish their task. The investigators are currently testing an immune system activating pancreatic cancer vaccine (known as GVAX) in combination with immune boosting doses of the chemotherapy agent, cyclophosphamide, as preoperative and postoperative treatments for pancreatic cancer. The investigators have discovered tertiary lymphoid aggregates, a unique lymph node-like structure formed within resected tumors from the patients who received the vaccine two weeks prior to the surgery. This discovery demonstrates that the immune system can get into the tumor and provides the investigators with the opportunity to better understand how these immune cells traffic into the tumor and function once they arrive. The investigators also found that the vaccine causes an increase in signals that would suppress the immune system's ability to fight off cancer cells, including signals involving PD-1. In this novel study, the investigators will test the effects of blocking PD-1 in combination with the vaccine in patients with pancreatic cancer. The investigators will specifically isolate these immune cells and evaluate at both the genetic and protein level, the types of signals expressed by these aggregates. The investigators will compare aggregates from patients with long term survival versus patients who succumb to their cancer early. In this way, the investigators will be able to determine how safe this novel treatment is, how effective it is at changing the immune system in pancreatic cancer, and how it impacts the health and survival of pancreatic cancer patients who undergo surgery to remove the cancer.",
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+    "PHASE2"
+  ],
+  "study_type": "INTERVENTIONAL",
+  "enrollment": 76,
+  "conditions": [
+    "Pancreatic Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Cyclophosphamide",
+      "type": "DRUG",
+      "description": "200 mg/m2 IV"
+    },
+    {
+      "name": "GVAX pancreatic cancer",
+      "type": "BIOLOGICAL",
+      "description": "5x10\\^8 cells intradermal injection"
+    },
+    {
+      "name": "Nivolumab",
+      "type": "DRUG",
+      "description": "480 mg IV"
+    },
+    {
+      "name": "Urelumab",
+      "type": "DRUG",
+      "description": "8 mg IV"
+    },
+    {
+      "name": "BMS-986253",
+      "type": "DRUG",
+      "description": "2400 mg IV"
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Newly diagnosed or clinically-suspected adenocarcinoma of the head, neck, or uncinate process of the pancreas\n* Tumor must be surgically resectable\n* ECOG Performance Status of 0 to 1\n* Adequate organ function as defined by study-specified laboratory tests\n* Must agree to use acceptable form of birth control\n\nExclusion Criteria:\n\n* Received any type of anti-cancer treatment or immunotherapy for pancreas cancer\n* History of autoimmune disease (Graves or Hashimoto's disease, vitiligo, and type I diabetes are allowed)\n* Systemically steroid use within 14 days\n* Evidence of active infection\n* Pregnant or lactating\n* Diagnosed with another cancer or myeloproliferative disorder (some exceptions)\n* History of severe hypersensitivity reaction to any monoclonal antibody or known component of the study drugs\n* Known history of infection with HIV, hepatitis B, or hepatitis C\n* Oxygen saturation of \\<92% on room air by pulse oximetry\n* On home oxygen",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21231-2410",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "IL17A expression",
+      "timeFrame": "4 years",
+      "description": "median IL17A expression in lymphoid aggregates from resected tumor (Arms A and B only)"
+    },
+    {
+      "measure": "Intratumoral CD8+CD137+cells",
+      "timeFrame": "4 years",
+      "description": "Fold change of intratumoral CD8+CD137+cells before and after neoadjuvant therapy (Arms B and C only)"
+    },
+    {
+      "measure": "Intratumoral granzyme B+PD-1+CD137+ cells",
+      "timeFrame": "4 years",
+      "description": "Percent change of intratumoral granzyme B+PD-1+CD137+ cells in surgical (post-treatment) tissue compared to baseline (pre-treatment) biopsy (Arm D only)"
+    },
+    {
+      "measure": "Pathologic Response",
+      "timeFrame": "4 years",
+      "description": "Percent of patients with a response grade of 0-2 (0=complete response 1=marked response, 2=moderate response) at time of surgery"
+    }
+  ],
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "collaborators": [
+    "National Cancer Institute (NCI)",
+    "Bristol-Myers Squibb"
+  ],
+  "start_date": "2016-03-28",
+  "completion_date": "2026-05-31",
+  "last_updated": "2025-12-01"
+}

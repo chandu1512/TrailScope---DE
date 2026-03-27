@@ -1,0 +1,70 @@
+{
+  "nct_id": "NCT05257551",
+  "brief_title": "Tempus Sculptor Study: Small Cell Lung Cancer (SCLC) Observational Study",
+  "official_title": "Tempus Small Cell Lung Cancer Observational Study (Sculptor): A Tissue and Longitudinal Circulating Tumor DNA (ctDNA) Biomarker Profiling Study of Patients With Small Cell Lung Cancer (SCLC) Using Comprehensive Next-Generation Sequencing (NGS) Assays",
+  "brief_summary": "The study is a non-interventional evaluation of participants with SCLC who will receive diagnostic and (where possible) post-progression tumor tissue profiling, alongside plasma ctDNA biomarker profiling in addition to their standard of care therapy and disease surveillance.",
+  "detailed_description": "",
+  "overall_status": "RECRUITING",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 50,
+  "conditions": [
+    "Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    {
+      "name": "Observation",
+      "type": "OTHER",
+      "description": "No intervention"
+    }
+  ],
+  "eligibility": {
+    "criteria": "The following are the inclusion criteria. Participants are eligible to be included in this study only if all the following criteria apply. The participant has/is:\n\n* Histologically confirmed small cell lung cancer diagnosis\n* Diagnosis made with excisional or core needle biopsy specimen (fine needle aspirate may be permitted with approval from the PI)\n* Subjects must submit fresh or archived FFPE tumor sample to the central laboratory\n* ECOG performance status of 0-2 at time of enrollment\n* Planned extensive stage first-line therapy of etoposide plus carboplatin plus PD-L1 inhibitor (atezolizumab or durvalumab)\n* Extensive stage disease at time of diagnosis\n* Willing and able to provide informed consent\n* Radiotherapy is permitted as long as there is measurable disease outside of the radiotherapy port\n\nParticipants will be excluded from the study if any of the following criteria apply. The participant has/is:\n\n* History of prior systemic treatment of SCLC\n* Prior diagnosis of non-small cell lung cancer is excluded if the cancer is diagnosed \\< 3 years prior to study entry. Additionally, the participant must be off all therapy for the NSCLC at the time of study entry.\n* Mixed small cell and non-small cell histology\n* Suspected metastatic cancer from other sites (i.e., those without a known or suspected lung primary diagnosis)\n* Not willing to have additional blood samples collected",
+    "gender": "ALL",
+    "min_age": "18 Years",
+    "max_age": "",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Johns Hopkins University",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21287",
+      "status": "RECRUITING"
+    },
+    {
+      "facility": "Englewood Health Medical Center",
+      "city": "Englewood",
+      "state": "New Jersey",
+      "zip": "07631",
+      "status": "WITHDRAWN"
+    },
+    {
+      "facility": "Cancer Care Association of York",
+      "city": "York",
+      "state": "Pennsylvania",
+      "zip": "17403",
+      "status": "RECRUITING"
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "To determine if tumor tissue transcriptional subtypes can be detected",
+      "timeFrame": "Up to 4 years",
+      "description": "To determine prospectively if SCLC tumor tissue transcriptional subtypes can be detected by Tempus\\|xT RNAseq"
+    },
+    {
+      "measure": "To characterize relationship between tissue transcriptional subtype and clinical outcomes",
+      "timeFrame": "Up to 4 years",
+      "description": "To characterize the relationship between tissue transcriptional subtype and clinical outcomes for EP+PDL1-i therapy based on collection of longitudinal information from medical records"
+    }
+  ],
+  "sponsor": "Tempus AI",
+  "collaborators": [
+    "AstraZeneca"
+  ],
+  "start_date": "2022-07-13",
+  "completion_date": "2029-03",
+  "last_updated": "2026-02-04"
+}

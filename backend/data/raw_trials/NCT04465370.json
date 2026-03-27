@@ -1,0 +1,64 @@
+{
+  "nct_id": "NCT04465370",
+  "brief_title": "Pediatric Cardiac Output Monitoring Observational Study",
+  "official_title": "A Prospective, Single-Arm, Nonrandomized, Observational Study of Cardiac Output Monitoring in Pediatric Patients",
+  "brief_summary": "To assess Cardiac Output Monitoring in pediatric subjects by comparing FloTrac and ClearSight system to intermittent thermodilution Swan-Ganz, in order to expand the indications of FloTrac, ClearSight and Swan-Ganz thermodilution pulmonary artery catheter to the pediatric population 12 to 18 years of age.",
+  "detailed_description": "",
+  "overall_status": "COMPLETED",
+  "phase": [],
+  "study_type": "OBSERVATIONAL",
+  "enrollment": 89,
+  "conditions": [
+    "Pediatric ALL"
+  ],
+  "interventions": [
+    {
+      "name": "Hemosphere Advanced Monitoring System, ClearSight 1.5, Swan-Ganz Catheter, Flotrac, Foresight",
+      "type": "DEVICE",
+      "description": "A Swan-Ganz catheter, FloTrac transducer, ClearSight finger cuff and ForeSight Elite sensors will be placed prior to the start of the catheterization procedure. Intermittent cardiac output and other hemodynamic parameters will be collected throughout the duration of the procedure and analyzed according to the Statistical Analysis Plan."
+    }
+  ],
+  "eligibility": {
+    "criteria": "Inclusion Criteria:\n\n* Subjects who are 12 to 18 years of age\n* Subjects who have signed the Informed Consent Form\n* Subjects who are projected to receive Swan-Ganz catheter as part of procedure/standard of care with intermittent cardiac output measures\n* For those Subjects who have had a cardiac transplant,Subjects who are at least 2 weeks post cardiac transplantation\n* Subjects with planned pressure monitoring with an arterial line\n\nExclusion Criteria:\n\n* Subjects with contraindications for Pulmonary Artery Catheters Placement and monitoring (recurrent sepsis, or with hypercoagulopathy);\n* Subjects with contraindications for Arterial Line Placement;\n* Subjects with an extreme contraction of the smooth muscle in the arteries and arterioles in the lower arm and hand (i.e., Raynaud's Disease).\n* Subjects with a physical site area too limited for proper Sensor placement\n* Subjects with finger size less than the smallest finger cuff size\n* Documented \u2265 moderate pulmonary hypertension (PAPm \\> 25mmHg, PVRI \\> 3.0 WUxm2)\n* Presence of intracardiac shunting (i.e., ASD, VSD)\n* Aorto-pulmonary collaterals\n* \u2265 Moderate tricuspid regurgitation, per echocardiogram criteria\n* \\> Moderate Aortic or pulmonary regurgitation, per echocardiogram criteria\n* Persistent cardiac arrythmias during the cardiac catheterization period (\\> 3min)\n* Vascular abnormalities of the arterial system (i.e., connective tissue disorders, mid-aortic syndrome)",
+    "gender": "ALL",
+    "min_age": "12 Years",
+    "max_age": "18 Years",
+    "healthy_volunteers": false
+  },
+  "locations": [
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "status": ""
+    }
+  ],
+  "primary_outcomes": [
+    {
+      "measure": "Bias of FloTrac Arterial Pressure Cardiac Output (L/Min) Against Swan Ganz Invasive Cardiac Output",
+      "timeFrame": "Duration of cardiac catheterization procedure, an average of 2 hours",
+      "description": "Bias of FloTrac Arterial Pressure Cardiac Output (APCO) against Swan Ganz Invasive Cardiac Output (ICO) was calculated via Bland-Altman analysis"
+    },
+    {
+      "measure": "Precision of FloTrac Arterial Pressure Cardiac Output (L/Min) Against Swan Ganz Invasive Cardiac Output",
+      "timeFrame": "Duration of cardiac catheterization procedure, an average of 2 hours",
+      "description": "Precision of FloTrac Arterial Pressure Cardiac Output (APCO) against Swan Ganz Invasive Cardiac Output (ICO) was calculated via Bland-Altman analysis"
+    },
+    {
+      "measure": "Bias of ClearSight Arterial Pressure Cardiac Output (L/Min) Against Swan Ganz Invasive Cardiac Output",
+      "timeFrame": "Duration of cardiac catheterization procedure, an average of 2 hours",
+      "description": "Bias of ClearSight Arterial Pressure Cardiac Output (APCO) against Swan Ganz Invasive Cardiac Output (ICO) was calculated via Bland-Altman analysis"
+    },
+    {
+      "measure": "Precision of ClearSight Arterial Pressure Cardiac Output (L/Min) Against Swan Ganz Invasive Cardiac Output",
+      "timeFrame": "Duration of cardiac catheterization procedure, an average of 2 hours",
+      "description": "Precision of ClearSight Arterial Pressure Cardiac Output (APCO) against Swan Ganz Invasive Cardiac Output (ICO) was calculated via Bland-Altman analysis"
+    }
+  ],
+  "sponsor": "Edwards Lifesciences",
+  "collaborators": [],
+  "start_date": "2020-09-02",
+  "completion_date": "2023-01-05",
+  "last_updated": "2024-09-13"
+}
