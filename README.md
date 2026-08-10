@@ -1,155 +1,119 @@
-# TrialScope Delaware 
+# TrialScope Delaware
 
-**An Agentic RAG-powered Clinical Trial Navigator for Delaware Cancer Patients & Researchers**
+**A Retrieval-Augmented Generation (RAG) clinical trial navigator for Delaware cancer patients, clinicians, and researchers.**
 
-## The Problem
+Ask a plain-English question and get a clear, cited answer drawn from real clinical trial protocols, research papers, FDA drug data, and Delaware public-health reports.
 
-Delaware ranks among the highest U.S. states for cancer incidence and holds the nation's highest rate of triple-negative breast cancer (TNBC). The state actually has strong clinical trial infrastructure — the Helen F. Graham Cancer Center enrolls ~35% of its cancer patients into trials, well above the national average, and 100+ trials run statewide.
+## The problem
 
-**So trials exist. The problem is the gap between availability and awareness.**
+Delaware ranks among the highest U.S. states for cancer incidence and holds the nation's highest rate of triple-negative breast cancer (TNBC). The state actually has strong clinical trial infrastructure, but there's a gap between trials existing and patients hearing about them.
 
-- **Information gap**: Only ~15% of cancer survivors report that clinical trials were discussed with them by their doctor. Most patients never learn about trials they could qualify for.
-- **Navigation complexity**: Trial protocols, eligibility criteria, and FDA drug data are buried in thousands of dense, technical documents that patients and even many providers struggle to parse.
-- **Access barriers**: Even when patients know about trials, understanding complex eligibility rules, comparing treatment options, and navigating enrollment logistics (travel, costs, time) remain significant hurdles — especially for underserved communities.
-- **Racial disparities persist**: Non-Hispanic Black Delawareans face significantly higher mortality for breast and prostate cancers, and geographic hotspots in Wilmington and Middletown show elevated rates of advanced breast cancer linked to screening gaps.
+- **Information gap:** only about 15% of cancer survivors report that clinical trials were ever discussed with them.
+- **Complexity:** trial protocols, eligibility rules, and FDA drug data are buried in thousands of dense technical documents that patients and even many providers struggle to parse.
 
-**TrialScope Delaware bridges these gaps** by ingesting clinical trial protocols, FDA drug reviews, Delaware public health reports, and published research — then making all of it searchable through plain-English questions with clear, cited answers.
+TrialScope bridges that gap by making all of it searchable through plain-English questions with clear, cited answers.
 
-## What It Does
+## What it does
 
-**For Patients:**
-- "Are there breast cancer trials recruiting near Newark, DE?"
-- "I'm 55 with stage III colon cancer — which trials might I qualify for?"
-- "Explain the side effects of pembrolizumab in simple terms"
-- "What's the difference between the immunotherapy options available to me?"
+Patients: "Are there breast cancer trials recruiting near Newark, DE?" · "I'm 55 with stage III colon cancer, which trials might I qualify for?" · "Explain the side effects of pembrolizumab in plain terms."
 
-**For Clinicians:**
-- "Compare immunotherapy outcomes across Phase 3 lung cancer trials in the Mid-Atlantic"
-- "Which TNBC trials are currently enrolling and what are their eligibility criteria?"
-- "Summarize the latest ADC breast cancer trial results for Trodelvy vs Enhertu"
+Clinicians: "Which TNBC trials are currently enrolling and what are their eligibility criteria?"
 
-**For Public Health Researchers:**
-- "How do Delaware's cancer mortality trends for African Americans compare to national averages?"
-- "What screening gaps exist in Wilmington's breast cancer hotspots?"
-- "Summarize the Route 9 Corridor cancer data findings"
+Every answer cites its sources by trial NCT ID or PubMed ID.
 
-## Architecture
+## How it works (architecture)
+
+TrialScope is a single-pass RAG pipeline. In plain terms: it turns the documents into searchable vectors ahead of time, and at question time it finds the most relevant pieces and asks a language model to answer using only those pieces.
 
 ```
-┌─────────────┐     ┌──────────────┐     ┌─────────────────┐
-│   React +   │────▶│   FastAPI     │────▶│   AWS Bedrock    │
-│  Tailwind   │     │   Backend     │     │   (Claude Agent) │
-│  Frontend   │     │              │     │                  │
-└─────────────┘     └──────┬───────┘     └────────┬─────────┘
-                           │                      │
-                    ┌──────▼───────┐        ┌─────▼──────────┐
-                    │     S3       │        │   OpenSearch    │
-                    │  (Documents) │        │  (Hybrid Search)│
-                    └──────┬───────┘        └────────────────┘
-                           │
-                    ┌──────▼───────┐     ┌──────────────────┐
-                    │   Lambda +   │────▶│  Titan Embeddings │
-                    │   Textract   │     │  (via Bedrock)    │
-                    │  (Extraction)│     └──────────────────┘
-                    └──────────────┘
+   React + Tailwind frontend
+            |
+            v
+      FastAPI backend
+            |
+   ┌────────┴─────────┐
+   |                  |
+   v                  v
+Titan Embeddings   FAISS index
+(AWS Bedrock)      (vector search)
+   |                  |
+   └────────┬─────────┘
+            v
+   top-8 relevant chunks
+   (labeled by source type)
+            |
+            v
+   Groq / Llama 3.3 70B
+   (generates a cited answer)
+            |
+            v
+   Answer + sources + latency
 ```
 
-## Key Features
+**Step by step:**
 
-- **Agentic RAG** — Multi-step reasoning: the AI plans which tools to call (search papers, search web, analyze figures), executes, observes results, and re-plans until it has a comprehensive answer
-- **Hybrid Retrieval** — Combines BM25 keyword search + semantic vector search via OpenSearch for superior accuracy on medical terminology
-- **Multi-Modal** — Extracts and understands tables, charts, and figures from PDFs using AWS Textract + Claude Vision
-- **Conversational Memory** — DynamoDB-backed session history for natural follow-up questions
-- **Real-Time Web Search** — Pulls fresh trials from ClinicalTrials.gov API and latest research from Semantic Scholar
-- **Full Citations** — Every answer links back to the exact source document, section, and page number
-- **Delaware-Focused** — Curated dataset of Delaware cancer statistics, local trial data, and regional health disparity reports
+1. **Offline ingestion.** Documents from ClinicalTrials.gov, PubMed, FDA, and Delaware DPH are chunked with semantic chunking that preserves each trial's structure (eligibility, interventions, locations as distinct pieces). Each chunk is embedded into a 1024-dimension vector using AWS Bedrock Titan Embeddings V2 and stored in a FAISS index, alongside a metadata file recording each chunk's source type, NCT ID / PubMed ID, and title.
 
-## Dataset (Collected)
+2. **At query time**, the FastAPI `/ask` endpoint:
+   - embeds the user's question with Titan Embeddings (Bedrock),
+   - runs a similarity search over the FAISS index and takes the top 8 chunks,
+   - labels each retrieved chunk by source type (`[Trial: NCT...]` or `[PubMed: ...]`) so trials are clearly distinguished and citable,
+   - builds a grounded prompt instructing the model to use only the retrieved context and to cite sources,
+   - calls Groq / Llama 3.3 70B to generate the answer,
+   - returns the answer, the top 5 sources, and the response latency.
+
+**Grounding and citations.** The prompt explicitly tells the model to answer only from the retrieved context and to cite each claim with its trial NCT ID or PubMed ID. This keeps answers traceable and reduces hallucination — the model works from real retrieved documents, not its own memory.
+
+## Dataset
 
 | Source | Records | Description |
-|--------|---------|-------------|
-| ClinicalTrials.gov | 10,980 trials (1,107 DE-specific) | Trial protocols, eligibility, outcomes, locations for DE/MD/PA/NJ |
-| PubMed | 937 articles | Research across TNBC, immunotherapy, disparities, screening, biomarkers |
-| Delaware DPH | 11 reports | Annual cancer incidence/mortality, census tract hotspots, disparities |
-| FDA openFDA | 10 drug profiles | Labels, adverse events for major cancer drugs (Keytruda, Trodelvy, etc.) |
-| Semantic Scholar | Real-time | Latest research via API (queried during agentic search) |
+|---|---|---|
+| ClinicalTrials.gov | 10,980 trials (1,107 DE-specific) | Protocols, eligibility, outcomes, locations for DE/MD/PA/NJ |
+| PubMed | 937 articles | Research across TNBC, immunotherapy, disparities, screening |
+| Delaware DPH | 11 reports | Cancer incidence/mortality, census-tract hotspots |
+| FDA openFDA | 10 drug profiles | Labels and adverse events for major cancer drugs |
 
-## Tech Stack
+Processed into roughly 34,690 semantic chunks, embedded with Titan Embeddings V2 (1024-dim) and indexed in FAISS for sub-second similarity search.
+
+## Tech stack
 
 | Layer | Technology |
-|-------|-----------|
-| Frontend | React, Tailwind CSS, Vite, Framer Motion |
+|---|---|
+| Frontend | React, Tailwind CSS, Vite |
 | Backend | Python, FastAPI |
-| LLM & Embeddings | AWS Bedrock (Claude, Titan Embeddings V2) |
-| Agent Orchestration | AWS Bedrock Agents |
-| Vector + Keyword Search | Amazon OpenSearch Serverless (hybrid BM25 + vector) |
-| Document Storage | Amazon S3 |
-| PDF Extraction | Amazon Textract |
-| Conversation Memory | Amazon DynamoDB |
-| API Gateway | AWS API Gateway + Lambda |
-| Real-Time Data | ClinicalTrials.gov API, Semantic Scholar API, PubMed API |
-| Deployment | Vercel (frontend), AWS (backend) |
+| Embeddings | AWS Bedrock — Titan Embeddings V2 (1024-dim) |
+| Vector search | FAISS (similarity search) |
+| LLM | Groq / Llama 3.3 70B |
+| Data sources | ClinicalTrials.gov API, PubMed, FDA openFDA, Delaware DPH |
 
-## Project Structure
+## Retrieval design notes
+
+- **Semantic chunking that preserves trial structure.** Early on, retrieval kept surfacing research papers instead of the actual trials patients needed. The fix was to chunk each trial so its eligibility criteria and locations stay as distinct, searchable pieces, and to label chunks by source type so clinical questions surface real trial data with their NCT IDs. The lesson: retrieval quality is usually fixed in how you structure and retrieve the data, not by prompting the model harder.
+- **Grounded generation.** The model is instructed to answer only from retrieved context and to cite every claim, which keeps answers traceable to a specific trial or paper.
+
+## Project structure
 
 ```
 trialscope-de/
-├── backend/
-│   ├── app/
-│   │   ├── api/          # FastAPI route handlers
-│   │   ├── services/     # Business logic (ingestion, retrieval, agent)
-│   │   ├── models/       # Pydantic models & schemas
-│   │   └── utils/        # AWS clients, chunking, helpers
-│   ├── scripts/          # Data collection & ingestion scripts
-│   │   ├── collect_trials.py        # ClinicalTrials.gov fetcher
-│   │   ├── collect_fda_reviews.py   # FDA drug data fetcher
-│   │   ├── collect_de_reports.py    # Delaware DPH report downloader
-│   │   ├── collect_pubmed.py        # PubMed article fetcher
-│   │   └── upload_to_s3.py          # S3 upload with metadata
-│   └── tests/
-├── frontend/
-│   └── src/
-├── data/                 # Collected data (see Dataset section)
-├── docs/                 # Architecture & design docs
-├── infrastructure/       # AWS CDK / CloudFormation templates
+├── backend/          # FastAPI app, ingestion + retrieval
+│   ├── app/          # API, services, models
+│   ├── scripts/      # data collection (trials, PubMed, FDA, DPH)
+│   └── data/         # FAISS index + chunk metadata
+├── frontend/         # React + Tailwind chat interface
 └── README.md
 ```
 
-## Getting Started
+## Running it
 
-### Prerequisites
-- Python 3.11+
-- Node.js 18+
-- AWS Account with Bedrock access enabled (us-east-1)
-- AWS CLI configured
+Prerequisites: Python 3.11+, Node 18+, an AWS account with Bedrock access (us-east-1) for Titan embeddings, and a Groq API key.
 
-### Data Collection
-```bash
+```
 cd backend
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
-
-python scripts/collect_trials.py          # ~10,980 trials
-python scripts/collect_fda_reviews.py     # 10 cancer drug profiles
-python scripts/collect_de_reports.py      # 11 Delaware cancer reports
-python scripts/collect_pubmed.py          # ~937 research articles
-python scripts/upload_to_s3.py            # Upload all to S3
+# set AWS credentials and GROQ_API_KEY in your environment
+uvicorn app.main:app --reload
 ```
+---
 
-## Why Delaware?
-
-This isn't a generic tool — it's built for a specific community facing specific challenges:
-
-- **Highest TNBC rate nationally** — Delaware leads the nation in incidence of triple-negative breast cancer, an aggressive subtype that doesn't respond to standard hormonal therapies
-- **Geographic hotspots identified** — ChristianaCare research pinpointed Wilmington and Middletown as hotspots for advanced breast cancer, linked to screening gaps and higher TNBC prevalence
-- **Persistent racial disparities** — Non-Hispanic Black Delawareans face significantly higher mortality for breast and prostate cancers
-- **Strong trial infrastructure, weak information flow** — Delaware has above-average trial enrollment capacity, but most patients are never informed about available trials
-- **The Big 4** — Breast, colorectal, lung, and prostate cancers account for 49% of all diagnoses and 49% of all cancer deaths in the state
-
-TrialScope exists to turn Delaware's clinical trial data from inaccessible technical documents into actionable knowledge for patients, clinicians, and researchers.
-
-## License
-
-MIT
-
-
+Built by Chandra Darapaneni.
